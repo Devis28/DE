@@ -1,0 +1,307 @@
+[
+  {
+    "song": "Everlasting Love",
+    "artists": [
+      "Sandra"
+    ],
+    "isrc": "DEG128700602",
+    "start_time": "2025-11-15 14:05:59",
+    "radio": "expres",
+    "recorded_at": "2025-11-15T14:06:32.238769+01:00",
+    "raw_valid": true,
+    "song_session_id": "73ec5298-1064-4f82-84da-a4d990004081"
+  },
+  {
+    "song": "Freedom",
+    "artists": [
+      "Dj Bobo"
+    ],
+    "isrc": "DEMI69500027",
+    "start_time": "2025-11-15 14:09:22",
+    "radio": "expres",
+    "recorded_at": "2025-11-15T14:09:45.066657+01:00",
+    "raw_valid": true,
+    "song_session_id": "01611c6e-9195-4629-9063-4ba00cae7f04"
+  },
+  {
+    "song": "Waving Flag",
+    "artists": [
+      "Knaan"
+    ],
+    "isrc": "GBBKS2200009",
+    "start_time": "2025-11-15 14:13:20",
+    "radio": "expres",
+    "recorded_at": "2025-11-15T14:13:58.246755+01:00",
+    "raw_valid": true,
+    "song_session_id": "4bafe079-1510-4ca9-9273-7fcc1c873298"
+  },
+  {
+    "song": "Stesti",
+    "artists": [
+      "Marie Rottrova"
+    ],
+    "isrc": "CZA161105703",
+    "start_time": "2025-11-15 14:17:59",
+    "radio": "expres",
+    "recorded_at": "2025-11-15T14:18:27.034813+01:00",
+    "raw_valid": true,
+    "song_session_id": "7d78af47-3516-4c1b-9bbe-c23c972fd0a6"
+  },
+  {
+    "song": "Complicated",
+    "artists": [
+      "Avril Lavigne"
+    ],
+    "isrc": "USAR10200223",
+    "start_time": "2025-11-15 14:21:34",
+    "radio": "expres",
+    "recorded_at": "2025-11-15T14:22:10.733249+01:00",
+    "raw_valid": true,
+    "song_session_id": "62e5b6c1-3d12-4c43-be9a-fbdb4b38b5b0"
+  },
+  {
+    "song": "Maneater",
+    "artists": [
+      "Hall",
+      "Oates"
+    ],
+    "isrc": "USRC10301821",
+    "start_time": "2025-11-15 14:25:44",
+    "radio": "expres",
+    "recorded_at": "2025-11-15T14:26:11.527180+01:00",
+    "raw_valid": true,
+    "song_session_id": "103e86ba-9b56-423a-9366-5f54be853c83"
+  },
+  {
+    "song": "Vymyslena",
+    "artists": [
+      "Elan"
+    ],
+    "isrc": "SKA128229908",
+    "start_time": "2025-11-15 14:35:11",
+    "radio": "expres",
+    "recorded_at": "2025-11-15T14:35:34.152895+01:00",
+    "raw_valid": true,
+    "song_session_id": "ba9001be-587c-4ccd-b22a-8512820c6af9"
+  },
+  {
+    "song": "Go West",
+    "artists": [
+      "Pet Shop Boys"
+    ],
+    "isrc": "GBCEW0300002",
+    "start_time": "2025-11-15 14:37:29",
+    "radio": "expres",
+    "recorded_at": "2025-11-15T14:38:01.203357+01:00",
+    "raw_valid": true,
+    "song_session_id": "9f3fd428-b10f-4849-add0-34f5de6ee414"
+  },
+  {
+    "song": "Frozen",
+    "artists": [
+      "Madonna"
+    ],
+    "isrc": "USWB12105753",
+    "start_time": "2025-11-15 14:41:57",
+    "radio": "expres",
+    "recorded_at": "2025-11-15T14:42:40.007831+01:00",
+    "raw_valid": true,
+    "song_session_id": "6ce2a682-cd91-42e8-864f-2d9906a74243"
+  },
+  {
+    "song": "Living On A Prayer",
+    "artists": [
+      "Bon Jovi"
+    ],
+    "isrc": "AUUS00634702",
+    "start_time": "2025-11-15 14:47:01",
+    "radio": "expres",
+    "recorded_at": "2025-11-15T14:47:34.467031+01:00",
+    "raw_valid": true,
+    "song_session_id": "5ceb2e3f-6e4a-4085-90c5-fe768d4a2e6a"
+  },
+  {
+    "song": "Live Is Life",
+    "artists": [
+      "Opus"
+    ],
+    "isrc": "ATM470200672",
+    "start_time": "2025-11-15 14:51:44",
+    "radio": "expres",
+    "recorded_at": "2025-11-15T14:52:18.557512+01:00",
+    "raw_valid": true,
+    "song_session_id": "a9bcad32-8f3f-4d7f-997c-89afbbf6ae2d"
+  },
+  {
+    "song": "Because Of You",
+    "artists": [
+      "Kelly Clarkson"
+    ],
+    "isrc": "GBCTA0400265",
+    "start_time": "2025-11-15 14:55:39",
+    "radio": "expres",
+    "recorded_at": "2025-11-15T14:55:57.321753+01:00",
+    "raw_valid": true,
+    "song_session_id": "13985b33-6b56-4adf-95fa-ecc5fe13fdf7"
+  },
+  {
+    "song": "Im So Excited",
+    "artists": [
+      "Pointer Sisters"
+    ],
+    "isrc": "USRC18203285",
+    "start_time": "2025-11-15 15:05:27",
+    "radio": "expres",
+    "recorded_at": "2025-11-15T15:06:11.329906+01:00",
+    "raw_valid": true,
+    "song_session_id": "ba1bbed4-949f-4ce9-ba01-636ce2d6ce57"
+  },
+  {
+    "song": "Picture Of You",
+    "artists": [
+      "Boyzone"
+    ],
+    "isrc": "IEAAA9700014",
+    "start_time": "2025-11-15 15:09:22",
+    "radio": "expres",
+    "recorded_at": "2025-11-15T15:09:41.738567+01:00",
+    "raw_valid": true,
+    "song_session_id": "27ad6ead-3683-42eb-89b2-b4dd47a324b9"
+  },
+  {
+    "song": "Ill Be Your Baby Tonight",
+    "artists": [
+      "Robert Palmer",
+      "Ub 40"
+    ],
+    "isrc": "GB01A9000031",
+    "start_time": "2025-11-15 15:12:42",
+    "radio": "expres",
+    "recorded_at": "2025-11-15T15:13:01.548582+01:00",
+    "raw_valid": true,
+    "song_session_id": "4db72efa-3b60-4724-9a2f-7f9d4ff0285f"
+  },
+  {
+    "song": "Gangstas Paradise",
+    "artists": [
+      "Coolio",
+      "L.v."
+    ],
+    "isrc": "USTB10400128",
+    "start_time": "2025-11-15 15:19:07",
+    "radio": "expres",
+    "recorded_at": "2025-11-15T15:19:42.222680+01:00",
+    "raw_valid": true,
+    "song_session_id": "516e02b0-392e-49bb-8b6f-3006c02e0637"
+  },
+  {
+    "song": "Juliet",
+    "artists": [
+      "Robin Gibb"
+    ],
+    "isrc": "USRH11000581",
+    "start_time": "2025-11-15 15:23:27",
+    "radio": "expres",
+    "recorded_at": "2025-11-15T15:24:13.416300+01:00",
+    "raw_valid": true,
+    "song_session_id": "b3865a81-92b3-4ae9-9ab7-df43d8605a2d"
+  },
+  {
+    "song": "Waka Waka (This Time For Africa)",
+    "artists": [
+      "Shakira",
+      "Freshlyground"
+    ],
+    "isrc": "USSM11001353",
+    "start_time": "2025-11-15 15:27:03",
+    "radio": "expres",
+    "recorded_at": "2025-11-15T15:27:34.929854+01:00",
+    "raw_valid": true,
+    "song_session_id": "7a4a7d33-7d70-4fff-a31d-9da821cc5fc6"
+  },
+  {
+    "song": "I Was Made For Loving You",
+    "artists": [
+      "Kiss"
+    ],
+    "isrc": "USUM72120195",
+    "start_time": "2025-11-15 15:33:25",
+    "radio": "expres",
+    "recorded_at": "2025-11-15T15:33:45.273552+01:00",
+    "raw_valid": true,
+    "song_session_id": "84017f25-fe40-4a25-8382-e05e84278531"
+  },
+  {
+    "song": "The Shoop Shoop Song",
+    "artists": [
+      "Cher"
+    ],
+    "isrc": "USGF19031001",
+    "start_time": "2025-11-15 15:37:42",
+    "radio": "expres",
+    "recorded_at": "2025-11-15T15:38:15.956011+01:00",
+    "raw_valid": true,
+    "song_session_id": "4289b845-ab43-4597-8450-45e0646b18f2"
+  },
+  {
+    "song": "Joyride",
+    "artists": [
+      "Roxette"
+    ],
+    "isrc": "SEAMA9079010",
+    "start_time": "2025-11-15 15:40:29",
+    "radio": "expres",
+    "recorded_at": "2025-11-15T15:40:56.112872+01:00",
+    "raw_valid": true,
+    "song_session_id": "de2a565f-d011-4226-be90-69c24ae2dcf7"
+  },
+  {
+    "song": "Break My Stride",
+    "artists": [
+      "Unique Ii"
+    ],
+    "isrc": "ATS019600401",
+    "start_time": "2025-11-15 15:44:37",
+    "radio": "expres",
+    "recorded_at": "2025-11-15T15:45:09.928663+01:00",
+    "raw_valid": true,
+    "song_session_id": "5831f295-d248-4ce4-bf24-6637309f4eb9"
+  },
+  {
+    "song": "Mozno Sa Ti Zda",
+    "artists": [
+      "Miro Zbirka"
+    ],
+    "isrc": "SKA128804807",
+    "start_time": "2025-11-15 15:47:50",
+    "radio": "expres",
+    "recorded_at": "2025-11-15T15:48:22.293922+01:00",
+    "raw_valid": true,
+    "song_session_id": "f6d08d05-382f-4c93-baf5-6daf6c7fa7ff"
+  },
+  {
+    "song": "Summer Nights",
+    "artists": [
+      "John Travolta",
+      "Olivia Newton John"
+    ],
+    "isrc": "NLF057890002",
+    "start_time": "2025-11-15 15:52:00",
+    "radio": "expres",
+    "recorded_at": "2025-11-15T15:52:30.758182+01:00",
+    "raw_valid": true,
+    "song_session_id": "0e77dd92-c05f-4875-b574-3821a81d21b8"
+  },
+  {
+    "song": "Wherever You Will Go",
+    "artists": [
+      "Calling"
+    ],
+    "isrc": "USRC10001047",
+    "start_time": "2025-11-15 15:55:38",
+    "radio": "expres",
+    "recorded_at": "2025-11-15T15:56:23.588949+01:00",
+    "raw_valid": true,
+    "song_session_id": "4dd8f266-4871-402c-aeaa-9bd830e9c976"
+  }
+]

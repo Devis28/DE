@@ -1,0 +1,253 @@
+[
+  {
+    "song": {
+      "play_date": "2025-11-30",
+      "play_time": "23:44",
+      "artist": [
+        "Arpad Farkas"
+      ],
+      "title": "Balada- Balade"
+    },
+    "recorded_at": "2025-11-30T23:49:51.460086+01:00",
+    "raw_valid": true,
+    "song_session_id": "e5dbff38-0c9e-4c7e-b03d-9f6b7de521ca"
+  },
+  {
+    "song": {
+      "play_date": "2025-11-30",
+      "play_time": "23:50",
+      "artist": [
+        "Nicola Conte",
+        "Gianluca Petrella"
+      ],
+      "title": "New Standards"
+    },
+    "recorded_at": "2025-11-30T23:54:52.144472+01:00",
+    "raw_valid": true,
+    "song_session_id": "0caeaefc-2abb-41bf-9e0e-95c51fe4d3ab"
+  },
+  {
+    "song": {
+      "play_date": "2025-11-30",
+      "play_time": "23:58",
+      "artist": [
+        "Nikolaj Nikitin"
+      ],
+      "title": "Home Salary And Food"
+    },
+    "recorded_at": "2025-11-30T23:59:52.828153+01:00",
+    "raw_valid": true,
+    "song_session_id": "5c172a64-248d-470e-b997-7e27af6c75bf"
+  },
+  {
+    "song": {
+      "play_date": "2025-12-01",
+      "play_time": "00:03",
+      "artist": [
+        "Tómas R. Einarsson"
+      ],
+      "title": "Dansa Í Lauginni"
+    },
+    "recorded_at": "2025-12-01T00:04:53.568057+01:00",
+    "raw_valid": true,
+    "song_session_id": "e2a8c35c-dfe8-48ed-8a01-5041bab34c7b"
+  },
+  {
+    "song": {
+      "play_date": "2025-12-01",
+      "play_time": "00:09",
+      "artist": [
+        "Jana Gavačová"
+      ],
+      "title": "Dážď"
+    },
+    "recorded_at": "2025-12-01T00:14:54.960559+01:00",
+    "raw_valid": true,
+    "song_session_id": "5a128697-23db-46f6-9111-b11cdb90e0ac"
+  },
+  {
+    "song": {
+      "play_date": "2025-12-01",
+      "play_time": "00:15",
+      "artist": [
+        "Snarky Puppy"
+      ],
+      "title": "Bad Kids To The Back"
+    },
+    "recorded_at": "2025-12-01T00:19:55.639868+01:00",
+    "raw_valid": true,
+    "song_session_id": "a4854348-82a5-482b-b489-c6162645149d"
+  },
+  {
+    "song": {
+      "play_date": "2025-12-01",
+      "play_time": "00:20",
+      "artist": [
+        "Ludo Kotlár Trio"
+      ],
+      "title": "Hangin"
+    },
+    "recorded_at": "2025-12-01T00:24:56.321708+01:00",
+    "raw_valid": true,
+    "song_session_id": "58e42a74-23bc-4cbf-81ac-efa6e17f323f"
+  },
+  {
+    "song": {
+      "play_date": "2025-12-01",
+      "play_time": "00:28",
+      "artist": [
+        "Lukas Oravec Quartet",
+        "Jerry Bergonzi"
+      ],
+      "title": "Michaela"
+    },
+    "recorded_at": "2025-12-01T00:29:56.992411+01:00",
+    "raw_valid": true,
+    "song_session_id": "661a59f3-73bd-4b16-bbdc-d8107723a21b"
+  },
+  {
+    "song": {
+      "play_date": "2025-12-01",
+      "play_time": "00:37",
+      "artist": [
+        "Cannonball Adderley"
+      ],
+      "title": "One For Daddy-O"
+    },
+    "recorded_at": "2025-12-01T00:39:58.352747+01:00",
+    "raw_valid": true,
+    "song_session_id": "bf0f9eca-409f-4dd5-9c5c-2731a28e92a8"
+  },
+  {
+    "song": {
+      "play_date": "2025-12-01",
+      "play_time": "00:48",
+      "artist": [
+        "Gogo Penguin"
+      ],
+      "title": "Kamaloka"
+    },
+    "recorded_at": "2025-12-01T00:49:59.698570+01:00",
+    "raw_valid": true,
+    "song_session_id": "28927c24-34ee-4139-ad26-53c26a56fbbc"
+  },
+  {
+    "song": {
+      "play_date": "2025-12-01",
+      "play_time": "00:53",
+      "artist": [
+        "Lukas Oravec Quartet",
+        "Seamus Blake",
+        "Danny Grissett"
+      ],
+      "title": "Blue J"
+    },
+    "recorded_at": "2025-12-01T00:55:00.386498+01:00",
+    "raw_valid": true,
+    "song_session_id": "f7ff0802-a486-471e-a577-50a9346f1525"
+  },
+  {
+    "song": {
+      "play_date": "2025-12-01",
+      "play_time": "01:02",
+      "artist": [
+        "Sarah Vaughan"
+      ],
+      "title": "One Mint Julep"
+    },
+    "recorded_at": "2025-12-01T01:05:01.775518+01:00",
+    "raw_valid": true,
+    "song_session_id": "984fd71f-79e3-44f3-9ec4-80f8ce35eb06"
+  },
+  {
+    "song": {
+      "play_date": "2025-12-01",
+      "play_time": "01:04",
+      "artist": [
+        "Milo Suchomel Quartet"
+      ],
+      "title": "Montreal"
+    },
+    "recorded_at": "2025-12-01T01:10:02.471130+01:00",
+    "raw_valid": true,
+    "song_session_id": "fe0eb25a-d3f5-4ab2-b93f-457d088a4bf3"
+  },
+  {
+    "song": {
+      "play_date": "2025-12-01",
+      "play_time": "01:09",
+      "artist": [
+        "Sadao Watanabe"
+      ],
+      "title": "Forest Song"
+    },
+    "recorded_at": "2025-12-01T01:15:03.155017+01:00",
+    "raw_valid": true,
+    "song_session_id": "4b580e05-7932-4f92-8b40-c6703f63b715"
+  },
+  {
+    "song": {
+      "play_date": "2025-12-01",
+      "play_time": "01:16",
+      "artist": [
+        "Sisa Michalidesová"
+      ],
+      "title": "Giulia`s Punch"
+    },
+    "recorded_at": "2025-12-01T01:20:03.866482+01:00",
+    "raw_valid": true,
+    "song_session_id": "81615518-d7ff-4a6c-a657-8ee0a3a2e5f6"
+  },
+  {
+    "song": {
+      "play_date": "2025-12-01",
+      "play_time": "01:22",
+      "artist": [
+        "Groovehub"
+      ],
+      "title": "Rado's Homework"
+    },
+    "recorded_at": "2025-12-01T01:25:04.545958+01:00",
+    "raw_valid": true,
+    "song_session_id": "3170dc16-8753-43e0-8d3d-d66507b7cdd3"
+  },
+  {
+    "song": {
+      "play_date": "2025-12-01",
+      "play_time": "01:32",
+      "artist": [
+        "Erroll Garner"
+      ],
+      "title": "Night And Day"
+    },
+    "recorded_at": "2025-12-01T01:35:05.894519+01:00",
+    "raw_valid": true,
+    "song_session_id": "b17a9034-ae36-464e-b81b-f3d4ac10ee60"
+  },
+  {
+    "song": {
+      "play_date": "2025-12-01",
+      "play_time": "01:36",
+      "artist": [
+        "Peter Lipa"
+      ],
+      "title": "Finally Rainin'"
+    },
+    "recorded_at": "2025-12-01T01:40:06.570171+01:00",
+    "raw_valid": true,
+    "song_session_id": "666cbd84-623d-46ae-8360-e5129125e46e"
+  },
+  {
+    "song": {
+      "play_date": "2025-12-01",
+      "play_time": "01:42",
+      "artist": [
+        "Nicola Conte"
+      ],
+      "title": "Rituals"
+    },
+    "recorded_at": "2025-12-01T01:45:07.319649+01:00",
+    "raw_valid": true,
+    "song_session_id": "6e18c7c1-3fb3-45f2-b03d-21d2a8f67cac"
+  }
+]

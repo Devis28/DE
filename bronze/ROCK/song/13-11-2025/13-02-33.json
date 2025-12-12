@@ -1,0 +1,392 @@
+[
+  {
+    "last_update": "2025-11-13 11:04:07",
+    "song": {
+      "musicAuthor": "Guns N Roses",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485168384dd85fd5e95831252f60",
+      "musicTitle": "Welcome To The Jungle",
+      "radio": "Rádio ROCK",
+      "startTime": "12:03"
+    },
+    "recorded_at": "2025-11-13T12:04:08.464566+01:00",
+    "raw_valid": true,
+    "song_session_id": "1142adc8-8a27-413a-86aa-825be4f604b4"
+  },
+  {
+    "last_update": "2025-11-13 11:08:10",
+    "song": {
+      "musicAuthor": "Karpina",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048510799ed47ac3b8cf1f22d9481",
+      "musicTitle": "Prievidza",
+      "radio": "Rádio ROCK",
+      "startTime": "12:08"
+    },
+    "recorded_at": "2025-11-13T12:08:10.961255+01:00",
+    "raw_valid": true,
+    "song_session_id": "ef171c6f-25f7-4bd9-b09d-abb86eba5757"
+  },
+  {
+    "last_update": "2025-11-13 11:14:10",
+    "song": {
+      "musicAuthor": "Nirvana",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851fbc71c99f9c1296c56dd51b6",
+      "musicTitle": "Polly",
+      "radio": "Rádio ROCK",
+      "startTime": "12:14"
+    },
+    "recorded_at": "2025-11-13T12:14:11.346430+01:00",
+    "raw_valid": true,
+    "song_session_id": "5834611c-417f-4dea-a5ea-ecdc5657b31a"
+  },
+  {
+    "last_update": "2025-11-13 11:17:13",
+    "song": {
+      "musicAuthor": "Toto",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851f903e62767a0e22e33b7af83",
+      "musicTitle": "Hold The Line",
+      "radio": "Rádio ROCK",
+      "startTime": "12:17"
+    },
+    "recorded_at": "2025-11-13T12:17:13.186373+01:00",
+    "raw_valid": true,
+    "song_session_id": "b997d395-44ed-4e78-bd0b-d1baa95b8c4e"
+  },
+  {
+    "last_update": "2025-11-13 11:21:14",
+    "song": {
+      "musicAuthor": "Pearl Jam",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048512524bae7497b3200115ed05c",
+      "musicTitle": "Dark Matter",
+      "radio": "Rádio ROCK",
+      "startTime": "12:21"
+    },
+    "recorded_at": "2025-11-13T12:21:15.194492+01:00",
+    "raw_valid": true,
+    "song_session_id": "6c564764-f1b0-4103-b3e8-a18fecafaf0b"
+  },
+  {
+    "last_update": "2025-11-13 11:25:19",
+    "song": {
+      "musicAuthor": "Evanescence",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485125f49ab23f0ec6332efef432",
+      "musicTitle": "Going Under",
+      "radio": "Rádio ROCK",
+      "startTime": "12:24"
+    },
+    "recorded_at": "2025-11-13T12:25:20.579387+01:00",
+    "raw_valid": true,
+    "song_session_id": "cbc38bda-a4ac-40db-b5c8-773825a4c057"
+  },
+  {
+    "last_update": "2025-11-13 11:29:21",
+    "song": {
+      "musicAuthor": "Kabát",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851092f503a0d6ef1594acdde01",
+      "musicTitle": "Láďa",
+      "radio": "Rádio ROCK",
+      "startTime": "12:28"
+    },
+    "recorded_at": "2025-11-13T12:29:21.148330+01:00",
+    "raw_valid": true,
+    "song_session_id": "e44ac335-7e7b-479d-9b62-df2a9b561ce2"
+  },
+  {
+    "last_update": "2025-11-13 11:32:21",
+    "song": {
+      "musicAuthor": "Queen",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048515be5f807f6f0549e198a44b4",
+      "musicTitle": "Radio Ga Ga",
+      "radio": "Rádio ROCK",
+      "startTime": "12:31"
+    },
+    "recorded_at": "2025-11-13T12:32:22.412359+01:00",
+    "raw_valid": true,
+    "song_session_id": "2c7f9fb9-47cf-4333-ab6d-83cb88a554c2"
+  },
+  {
+    "last_update": "2025-11-13 11:37:23",
+    "song": {
+      "musicAuthor": "Hoobastank",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485176cc6eedca8eb381afcd1e46",
+      "musicTitle": "The Reason",
+      "radio": "Rádio ROCK",
+      "startTime": "12:37"
+    },
+    "recorded_at": "2025-11-13T12:37:24.152931+01:00",
+    "raw_valid": true,
+    "song_session_id": "21ee70e6-f22b-4e55-b5ee-0e3989e18f01"
+  },
+  {
+    "last_update": "2025-11-13 11:41:23",
+    "song": {
+      "musicAuthor": "The Cure",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048519c72b249fcaa04d074c1dfcd",
+      "musicTitle": "Friday I'm In Love",
+      "radio": "Rádio ROCK",
+      "startTime": "12:40"
+    },
+    "recorded_at": "2025-11-13T12:41:24.398957+01:00",
+    "raw_valid": true,
+    "song_session_id": "f1a28847-66d5-4dd7-b055-e74c704fb683"
+  },
+  {
+    "last_update": "2025-11-13 11:45:25",
+    "song": {
+      "musicAuthor": "Adams, Bryan",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851cf1fee2a55e98e22bf358512",
+      "musicTitle": "Run To You",
+      "radio": "Rádio ROCK",
+      "startTime": "12:44"
+    },
+    "recorded_at": "2025-11-13T12:45:25.031646+01:00",
+    "raw_valid": true,
+    "song_session_id": "6350f86a-2527-4597-9736-225987a04d15"
+  },
+  {
+    "last_update": "2025-11-13 11:49:26",
+    "song": {
+      "musicAuthor": "Iné Kafe",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485162c956030346948c7662f08d",
+      "musicTitle": "Spomienky Na Budúcnosť",
+      "radio": "Rádio ROCK",
+      "startTime": "12:48"
+    },
+    "recorded_at": "2025-11-13T12:49:26.802859+01:00",
+    "raw_valid": true,
+    "song_session_id": "7d8c7029-1d1c-41c0-b4d0-71eebd2ddd80"
+  },
+  {
+    "last_update": "2025-11-13 11:52:27",
+    "song": {
+      "musicAuthor": "The Scorpions",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851787674b6a114f98cad6f834b",
+      "musicTitle": "Wind Of Change",
+      "radio": "Rádio ROCK",
+      "startTime": "12:52"
+    },
+    "recorded_at": "2025-11-13T12:52:27.034730+01:00",
+    "raw_valid": true,
+    "song_session_id": "2d12acf4-dcb2-4c54-8c03-fa2b69abc3bf"
+  },
+  {
+    "last_update": "2025-11-13 11:56:28",
+    "song": {
+      "musicAuthor": "U2",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485177df2aceaf90f06a20b56b14",
+      "musicTitle": "Pride (In The Name Of Love)",
+      "radio": "Rádio ROCK",
+      "startTime": "12:55"
+    },
+    "recorded_at": "2025-11-13T12:56:28.899228+01:00",
+    "raw_valid": true,
+    "song_session_id": "5a395c55-e784-4b32-8f02-0542919bad9d"
+  },
+  {
+    "last_update": "2025-11-13 12:00:30",
+    "song": {
+      "musicAuthor": "The Red Hot Chili Peppers",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851f3686323bf737cb7ba3de792",
+      "musicTitle": "Dani California",
+      "radio": "Rádio ROCK",
+      "startTime": "12:59"
+    },
+    "recorded_at": "2025-11-13T13:00:30.711519+01:00",
+    "raw_valid": true,
+    "song_session_id": "2fdebb4b-bb51-48de-a2ab-7106d7d207d0"
+  },
+  {
+    "last_update": "2025-11-13 12:05:31",
+    "song": {
+      "musicAuthor": "Good Charlotte",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851a58ea3c31c1fd13a659a4ef0",
+      "musicTitle": "I Just Wanna Live",
+      "radio": "Rádio ROCK",
+      "startTime": "13:04"
+    },
+    "recorded_at": "2025-11-13T13:05:31.990311+01:00",
+    "raw_valid": true,
+    "song_session_id": "bfed5ca3-53da-4323-b75c-5435e77235bb"
+  },
+  {
+    "last_update": "2025-11-13 12:08:32",
+    "song": {
+      "musicAuthor": "The Beatles",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851dc30583ba717007b00cceb25",
+      "musicTitle": "Come Together",
+      "radio": "Rádio ROCK",
+      "startTime": "13:07"
+    },
+    "recorded_at": "2025-11-13T13:08:32.294121+01:00",
+    "raw_valid": true,
+    "song_session_id": "cfa95728-17fc-4db2-91cc-ec51fc6d9ed8"
+  },
+  {
+    "last_update": "2025-11-13 12:12:34",
+    "song": {
+      "musicAuthor": "Guns N Roses",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851e44963b8bb127552ac761873",
+      "musicTitle": "Don't Cry",
+      "radio": "Rádio ROCK",
+      "startTime": "13:11"
+    },
+    "recorded_at": "2025-11-13T13:12:34.671720+01:00",
+    "raw_valid": true,
+    "song_session_id": "db138823-7e1a-4f94-8d61-852ecac3e500"
+  },
+  {
+    "last_update": "2025-11-13 12:18:36",
+    "song": {
+      "musicAuthor": "Keane",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048517d6cd95a046a3c0dacbc7d33",
+      "musicTitle": "Everybody's Changing",
+      "radio": "Rádio ROCK",
+      "startTime": "13:17"
+    },
+    "recorded_at": "2025-11-13T13:18:36.698496+01:00",
+    "raw_valid": true,
+    "song_session_id": "793ec95b-5872-427c-97c4-dd527c6d035f"
+  },
+  {
+    "last_update": "2025-11-13 12:22:07",
+    "song": {
+      "musicAuthor": "Idol Billy",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851ea07dca8b4ca808c1e5b17fb",
+      "musicTitle": "Rebel Yell",
+      "radio": "Rádio ROCK",
+      "startTime": "13:21"
+    },
+    "recorded_at": "2025-11-13T13:22:07.137350+01:00",
+    "raw_valid": true,
+    "song_session_id": "43c2aa8a-0659-485b-bd6b-20ed98b6a11e"
+  },
+  {
+    "last_update": "2025-11-13 12:26:08",
+    "song": {
+      "musicAuthor": "The Ramones",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851db687db0afb257abdee10816",
+      "musicTitle": "Blitzkrieg Bop",
+      "radio": "Rádio ROCK",
+      "startTime": "13:25"
+    },
+    "recorded_at": "2025-11-13T13:26:08.755432+01:00",
+    "raw_valid": true,
+    "song_session_id": "bbca8326-e831-493d-be7d-0410f69ab668"
+  },
+  {
+    "last_update": "2025-11-13 12:28:07",
+    "song": {
+      "musicAuthor": "Horkýže Slíže",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851d908a63a01282b0e2ac770ab",
+      "musicTitle": "Mam V P... Na Lehátku",
+      "radio": "Rádio ROCK",
+      "startTime": "13:27"
+    },
+    "recorded_at": "2025-11-13T13:28:08.881785+01:00",
+    "raw_valid": true,
+    "song_session_id": "4982102d-8946-4451-9224-12f98dd98450"
+  },
+  {
+    "last_update": "2025-11-13 12:31:10",
+    "song": {
+      "musicAuthor": "Tublatanka",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851544f90aba7e4a572d633094a",
+      "musicTitle": "Vo Veľkej Škole Dní",
+      "radio": "Rádio ROCK",
+      "startTime": "13:31"
+    },
+    "recorded_at": "2025-11-13T13:31:11.218259+01:00",
+    "raw_valid": true,
+    "song_session_id": "4067603a-cf64-4480-ac0a-c38f0dda323f"
+  },
+  {
+    "last_update": "2025-11-13 12:37:11",
+    "song": {
+      "musicAuthor": "Rammstein",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851a715d32590424cd667879ba3",
+      "musicTitle": "Du Hast",
+      "radio": "Rádio ROCK",
+      "startTime": "13:36"
+    },
+    "recorded_at": "2025-11-13T13:37:11.657372+01:00",
+    "raw_valid": true,
+    "song_session_id": "9c47df2e-4193-4f62-a5e8-6aa09a864ec9"
+  },
+  {
+    "last_update": "2025-11-13 12:41:11",
+    "song": {
+      "musicAuthor": "The Firm",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851d8554c14d25c1c21aa30ecae",
+      "musicTitle": "Radioactive",
+      "radio": "Rádio ROCK",
+      "startTime": "13:40"
+    },
+    "recorded_at": "2025-11-13T13:41:11.952768+01:00",
+    "raw_valid": true,
+    "song_session_id": "9f6d1667-aa78-4802-a8f2-431ed4309b4a"
+  },
+  {
+    "last_update": "2025-11-13 12:44:13",
+    "song": {
+      "musicAuthor": "Suede",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485154a78359ef17a590ab24256c",
+      "musicTitle": "Trash",
+      "radio": "Rádio ROCK",
+      "startTime": "13:43"
+    },
+    "recorded_at": "2025-11-13T13:44:13.692301+01:00",
+    "raw_valid": true,
+    "song_session_id": "19953218-5283-4d6b-8f3c-33989f97c3d8"
+  },
+  {
+    "last_update": "2025-11-13 12:48:13",
+    "song": {
+      "musicAuthor": "Queen",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485167bc29c251c777361b17a190",
+      "musicTitle": "Somebody To Love",
+      "radio": "Rádio ROCK",
+      "startTime": "13:47"
+    },
+    "recorded_at": "2025-11-13T13:48:14.337560+01:00",
+    "raw_valid": true,
+    "song_session_id": "82f8b78f-e375-4155-8115-d0082af01db9"
+  },
+  {
+    "last_update": "2025-11-13 12:53:14",
+    "song": {
+      "musicAuthor": "Awolnation",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485132f1572738340ddc9569c54b",
+      "musicTitle": "Sail",
+      "radio": "Rádio ROCK",
+      "startTime": "13:52"
+    },
+    "recorded_at": "2025-11-13T13:53:15.215907+01:00",
+    "raw_valid": true,
+    "song_session_id": "b63fa275-170d-4bd4-a315-0b60bef91ddb"
+  },
+  {
+    "last_update": "2025-11-13 12:57:15",
+    "song": {
+      "musicAuthor": "No Doubt",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048516ebd5e789646a833b8f7d4ba",
+      "musicTitle": "Just A Girl",
+      "radio": "Rádio ROCK",
+      "startTime": "13:57"
+    },
+    "recorded_at": "2025-11-13T13:57:15.955647+01:00",
+    "raw_valid": true,
+    "song_session_id": "5c7ef32e-2df9-4611-9ad6-a09b44b58992"
+  },
+  {
+    "last_update": "2025-11-13 13:02:16",
+    "song": {
+      "musicAuthor": "Billy Joel",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048511946747b8692919f98918ec4",
+      "musicTitle": "We Didn't Start The Fire",
+      "radio": "Rádio ROCK",
+      "startTime": "14:01"
+    },
+    "recorded_at": "2025-11-13T14:02:16.784902+01:00",
+    "raw_valid": true,
+    "song_session_id": "c3af7a92-d08c-4da0-af6e-46c1a98493a8"
+  }
+]

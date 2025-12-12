@@ -1,0 +1,353 @@
+[
+  {
+    "last_update": "2025-11-22 09:05:13",
+    "song": {
+      "musicAuthor": "Creed",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851f8f048a5f4749c970078a4fb",
+      "musicTitle": "With Arms Wide Open",
+      "radio": "Rádio ROCK",
+      "startTime": "10:04"
+    },
+    "recorded_at": "2025-11-22T10:05:14.512746+01:00",
+    "raw_valid": true,
+    "song_session_id": "86f94bc2-2ddc-440f-83fa-671c46f7fd47"
+  },
+  {
+    "last_update": "2025-11-22 09:09:15",
+    "song": {
+      "musicAuthor": "Horkýže Slíže",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851911995709754b328f466267c",
+      "musicTitle": "Maštaľ",
+      "radio": "Rádio ROCK",
+      "startTime": "10:08"
+    },
+    "recorded_at": "2025-11-22T10:09:16.611916+01:00",
+    "raw_valid": true,
+    "song_session_id": "cd4a8ee7-56f7-43c8-bef9-78dceed87424"
+  },
+  {
+    "last_update": "2025-11-22 09:12:16",
+    "song": {
+      "musicAuthor": "Blink 182",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048516da502e35a7a3e48de2b0f74",
+      "musicTitle": "Adam's Song",
+      "radio": "Rádio ROCK",
+      "startTime": "10:11"
+    },
+    "recorded_at": "2025-11-22T10:12:17.004282+01:00",
+    "raw_valid": true,
+    "song_session_id": "c9d6da92-f27e-4b07-9600-ecefd6699c6f"
+  },
+  {
+    "last_update": "2025-11-22 09:21:19",
+    "song": {
+      "musicAuthor": "Mirai",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851ca3d87d3d4c1742c9eb82bc0",
+      "musicTitle": "Tenkrát",
+      "radio": "Rádio ROCK",
+      "startTime": "10:19"
+    },
+    "recorded_at": "2025-11-22T10:21:20.198831+01:00",
+    "raw_valid": true,
+    "song_session_id": "1d214d29-8ad6-4fbf-89d1-0352c42c8081"
+  },
+  {
+    "last_update": "2025-11-22 09:23:20",
+    "song": {
+      "musicAuthor": "Kabát",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851037ddf69c8399260eb890afd",
+      "musicTitle": "Burláci",
+      "radio": "Rádio ROCK",
+      "startTime": "10:22"
+    },
+    "recorded_at": "2025-11-22T10:23:20.318860+01:00",
+    "raw_valid": true,
+    "song_session_id": "4626b121-78e0-4596-b697-002b3e6004e6"
+  },
+  {
+    "last_update": "2025-11-22 09:28:25",
+    "song": {
+      "musicAuthor": "The Cure",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851ee8b603d6c666ba428daac30",
+      "musicTitle": "Lullaby",
+      "radio": "Rádio ROCK",
+      "startTime": "10:27"
+    },
+    "recorded_at": "2025-11-22T10:28:25.659543+01:00",
+    "raw_valid": true,
+    "song_session_id": "f6855a46-7e50-40e5-9c70-669fbf71197e"
+  },
+  {
+    "last_update": "2025-11-22 09:32:25",
+    "song": {
+      "musicAuthor": "R.E.M.",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851ace3e7aae0b7c78bbe1c4f35",
+      "musicTitle": "Man On The Moon",
+      "radio": "Rádio ROCK",
+      "startTime": "10:31"
+    },
+    "recorded_at": "2025-11-22T10:32:26.561930+01:00",
+    "raw_valid": true,
+    "song_session_id": "b87e95ad-9668-41b6-a222-a22f7d1651b7"
+  },
+  {
+    "last_update": "2025-11-22 09:37:26",
+    "song": {
+      "musicAuthor": "Billy Talent",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485151ad1636a7d0456ad972a71c",
+      "musicTitle": "Red Flag",
+      "radio": "Rádio ROCK",
+      "startTime": "10:36"
+    },
+    "recorded_at": "2025-11-22T10:37:27.007797+01:00",
+    "raw_valid": true,
+    "song_session_id": "341df222-7864-4849-a645-82d91acba7ac"
+  },
+  {
+    "last_update": "2025-11-22 09:41:28",
+    "song": {
+      "musicAuthor": "Spin Doctors",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851436e38032cf3389d01426eca",
+      "musicTitle": "Two Princes",
+      "radio": "Rádio ROCK",
+      "startTime": "10:40"
+    },
+    "recorded_at": "2025-11-22T10:41:28.884250+01:00",
+    "raw_valid": true,
+    "song_session_id": "74b93669-d101-4aa8-97a7-534797c63d89"
+  },
+  {
+    "last_update": "2025-11-22 09:45:29",
+    "song": {
+      "musicAuthor": "U2",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851b7bea3d01f04e6d0408d2afe",
+      "musicTitle": "With Or Without You",
+      "radio": "Rádio ROCK",
+      "startTime": "10:44"
+    },
+    "recorded_at": "2025-11-22T10:45:29.608377+01:00",
+    "raw_valid": true,
+    "song_session_id": "68a898a8-9efc-478c-a006-c61f9630cca1"
+  },
+  {
+    "last_update": "2025-11-22 09:50:29",
+    "song": {
+      "musicAuthor": "Blondie",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851ebc918cfb51e9ced7349f436",
+      "musicTitle": "Atomic",
+      "radio": "Rádio ROCK",
+      "startTime": "10:49"
+    },
+    "recorded_at": "2025-11-22T10:50:29.923979+01:00",
+    "raw_valid": true,
+    "song_session_id": "585356f9-2a70-41eb-9ce7-a4f6cbd0eb3e"
+  },
+  {
+    "last_update": "2025-11-22 09:54:31",
+    "song": {
+      "musicAuthor": "Foreigner",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485159b0b3bb6cbc0b5a32e1b417",
+      "musicTitle": "Say You Will",
+      "radio": "Rádio ROCK",
+      "startTime": "10:53"
+    },
+    "recorded_at": "2025-11-22T10:54:31.861810+01:00",
+    "raw_valid": true,
+    "song_session_id": "becc124c-e186-4558-8c2b-a62fadf212c9"
+  },
+  {
+    "last_update": "2025-11-22 09:58:36",
+    "song": {
+      "musicAuthor": "Linkin Park",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851e2f039481babe23658fc719a",
+      "musicTitle": "Crawling",
+      "radio": "Rádio ROCK",
+      "startTime": "10:57"
+    },
+    "recorded_at": "2025-11-22T10:58:36.975509+01:00",
+    "raw_valid": true,
+    "song_session_id": "860316ca-9672-4116-86de-97153ca1244c"
+  },
+  {
+    "last_update": "2025-11-22 10:02:06",
+    "song": {
+      "musicAuthor": "Green Day",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485108a1b1e0674086d3f1995e1b",
+      "musicTitle": "Wake Me Up When September Ends",
+      "radio": "Rádio ROCK",
+      "startTime": "11:01"
+    },
+    "recorded_at": "2025-11-22T11:02:07.352733+01:00",
+    "raw_valid": true,
+    "song_session_id": "b090e442-831d-4bc3-b348-1a91459cbd98"
+  },
+  {
+    "last_update": "2025-11-22 10:10:08",
+    "song": {
+      "musicAuthor": "Inxs",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048517ef5c661e64ec185d6180a40",
+      "musicTitle": "Disappear",
+      "radio": "Rádio ROCK",
+      "startTime": "11:10"
+    },
+    "recorded_at": "2025-11-22T11:10:09.504157+01:00",
+    "raw_valid": true,
+    "song_session_id": "4fb13da0-1ac1-4cc8-93f7-f96e18975a5b"
+  },
+  {
+    "last_update": "2025-11-22 10:11:08",
+    "song": {
+      "musicAuthor": "Queen",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851e319baafd16e84f0408af2a0",
+      "musicTitle": "Bohemian Rhapsody",
+      "radio": "Rádio ROCK",
+      "startTime": "11:10"
+    },
+    "recorded_at": "2025-11-22T11:11:09.698109+01:00",
+    "raw_valid": true,
+    "song_session_id": "b0fb716f-8d16-4310-86dd-f7da84526765"
+  },
+  {
+    "last_update": "2025-11-22 10:17:10",
+    "song": {
+      "musicAuthor": "Manic Street Preachers",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851326f28b8d0099329cecb01c8",
+      "musicTitle": "You Stole The Sun From My Heart",
+      "radio": "Rádio ROCK",
+      "startTime": "11:16"
+    },
+    "recorded_at": "2025-11-22T11:17:10.309407+01:00",
+    "raw_valid": true,
+    "song_session_id": "627fec2e-25dd-49df-abf1-bc63bf8fa561"
+  },
+  {
+    "last_update": "2025-11-22 10:21:10",
+    "song": {
+      "musicAuthor": "Evanescence",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851a694061dd2dead2b4b043a8d",
+      "musicTitle": "What You Want",
+      "radio": "Rádio ROCK",
+      "startTime": "11:20"
+    },
+    "recorded_at": "2025-11-22T11:21:10.590924+01:00",
+    "raw_valid": true,
+    "song_session_id": "7f62a522-c1b4-4832-962c-e54a4664e433"
+  },
+  {
+    "last_update": "2025-11-22 10:25:10",
+    "song": {
+      "musicAuthor": "Foo Fighters",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048514cf13503a5fafa24d8c63059",
+      "musicTitle": "Todays Song",
+      "radio": "Rádio ROCK",
+      "startTime": "11:24"
+    },
+    "recorded_at": "2025-11-22T11:25:11.175145+01:00",
+    "raw_valid": true,
+    "song_session_id": "8a4ec59b-8fa9-4d14-a583-2a4ec875009b"
+  },
+  {
+    "last_update": "2025-11-22 10:28:12",
+    "song": {
+      "musicAuthor": "Ac Dc",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048518399047ff71200928f5b6508",
+      "musicTitle": "Thunderstruck",
+      "radio": "Rádio ROCK",
+      "startTime": "11:27"
+    },
+    "recorded_at": "2025-11-22T11:28:12.902658+01:00",
+    "raw_valid": true,
+    "song_session_id": "8ee0652e-f717-44cb-b5ad-ce8f1a166da3"
+  },
+  {
+    "last_update": "2025-11-22 10:34:13",
+    "song": {
+      "musicAuthor": "Metallica",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485175e6375e11550746705a9645",
+      "musicTitle": "Turn The Page",
+      "radio": "Rádio ROCK",
+      "startTime": "11:32"
+    },
+    "recorded_at": "2025-11-22T11:34:13.472786+01:00",
+    "raw_valid": true,
+    "song_session_id": "4612bccf-3561-45d8-845b-943b22df3097"
+  },
+  {
+    "last_update": "2025-11-22 10:42:17",
+    "song": {
+      "musicAuthor": "The Bridge",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485116964ad4e7cb3e533a2d5a91",
+      "musicTitle": "Destiny",
+      "radio": "Rádio ROCK",
+      "startTime": "11:41"
+    },
+    "recorded_at": "2025-11-22T11:42:17.589882+01:00",
+    "raw_valid": true,
+    "song_session_id": "a64d9877-345f-4789-b95d-d93420e19da7"
+  },
+  {
+    "last_update": "2025-11-22 10:46:17",
+    "song": {
+      "musicAuthor": "Ozzy Osbourne",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048511c06588e25004be37447a4e9",
+      "musicTitle": "Perry Mason",
+      "radio": "Rádio ROCK",
+      "startTime": "11:45"
+    },
+    "recorded_at": "2025-11-22T11:46:18.603443+01:00",
+    "raw_valid": true,
+    "song_session_id": "2d8b1076-d334-414d-ba63-4c6bf3a7428a"
+  },
+  {
+    "last_update": "2025-11-22 10:50:18",
+    "song": {
+      "musicAuthor": "The Sweet",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851aaca298e6fc1b377b699572b",
+      "musicTitle": "The Ballroom Blitz",
+      "radio": "Rádio ROCK",
+      "startTime": "11:50"
+    },
+    "recorded_at": "2025-11-22T11:50:19.447935+01:00",
+    "raw_valid": true,
+    "song_session_id": "a455b0e2-086b-409f-aa42-746e906019f7"
+  },
+  {
+    "last_update": "2025-11-22 10:54:21",
+    "song": {
+      "musicAuthor": "The Cardigans",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851b0d0af55bc2a5c0a198e0dfd",
+      "musicTitle": "My Favorite Game",
+      "radio": "Rádio ROCK",
+      "startTime": "11:54"
+    },
+    "recorded_at": "2025-11-22T11:54:21.143367+01:00",
+    "raw_valid": true,
+    "song_session_id": "7302c0bc-a400-4699-8e3f-7557a57fffc8"
+  },
+  {
+    "last_update": "2025-11-22 10:58:21",
+    "song": {
+      "musicAuthor": "Disturbed",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851d7bd0f8e4d2a399020b333e8",
+      "musicTitle": "The Sound Of Silence",
+      "radio": "Rádio ROCK",
+      "startTime": "11:57"
+    },
+    "recorded_at": "2025-11-22T11:58:22.184424+01:00",
+    "raw_valid": true,
+    "song_session_id": "942372b8-eaf9-48c9-a708-373b5c70105c"
+  },
+  {
+    "last_update": "2025-11-22 11:02:22",
+    "song": {
+      "musicAuthor": "Nightwish",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485115c43f478bf43c734225b814",
+      "musicTitle": "Nemo",
+      "radio": "Rádio ROCK",
+      "startTime": "12:01"
+    },
+    "recorded_at": "2025-11-22T12:02:22.435640+01:00",
+    "raw_valid": true,
+    "song_session_id": "535a9643-b5af-4f04-a8ad-5c86062eb772"
+  }
+]

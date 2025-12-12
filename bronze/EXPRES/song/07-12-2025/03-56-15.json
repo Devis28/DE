@@ -1,0 +1,418 @@
+[
+  {
+    "song": "Vsetky Oci Na Mne",
+    "artists": [
+      "Majk Spirit"
+    ],
+    "isrc": "FRX202201096",
+    "start_time": "2025-12-07 02:56:10",
+    "radio": "expres",
+    "recorded_at": "2025-12-07T02:56:37.006549+01:00",
+    "raw_valid": true,
+    "song_session_id": "aa86a922-bb6d-49d5-8622-10db08a90054"
+  },
+  {
+    "song": "Feel Alive",
+    "artists": [
+      "Kamrad"
+    ],
+    "isrc": "DEE862202500",
+    "start_time": "2025-12-07 02:59:32",
+    "radio": "expres",
+    "recorded_at": "2025-12-07T03:00:04.829975+01:00",
+    "raw_valid": true,
+    "song_session_id": "5ce3b843-4747-4a83-97c1-7b46c971bf0e"
+  },
+  {
+    "song": "Broken Sunshine",
+    "artists": [
+      "Michael Schulte"
+    ],
+    "isrc": "DECE72402375",
+    "start_time": "2025-12-07 03:02:00",
+    "radio": "expres",
+    "recorded_at": "2025-12-07T03:02:26.847113+01:00",
+    "raw_valid": true,
+    "song_session_id": "3f12d943-936e-44df-b060-e6fd864342c1"
+  },
+  {
+    "song": "Za Dverami Mojej Izby",
+    "artists": [
+      "Beata Dubasova"
+    ],
+    "isrc": "SKA129024401",
+    "start_time": "2025-12-07 03:04:59",
+    "radio": "expres",
+    "recorded_at": "2025-12-07T03:05:29.354663+01:00",
+    "raw_valid": true,
+    "song_session_id": "84d46206-93af-4b70-98ab-20761f555cf7"
+  },
+  {
+    "song": "Mystical Magical",
+    "artists": [
+      "Benson Boone"
+    ],
+    "isrc": "USWB12500844",
+    "start_time": "2025-12-07 03:09:57",
+    "radio": "expres",
+    "recorded_at": "2025-12-07T03:10:13.248165+01:00",
+    "raw_valid": true,
+    "song_session_id": "56967393-2dd9-4dd5-9583-4c6ba44a7c1d"
+  },
+  {
+    "song": "Smile",
+    "artists": [
+      "Emma Drobna"
+    ],
+    "isrc": "CZA231600129",
+    "start_time": "2025-12-07 03:12:42",
+    "radio": "expres",
+    "recorded_at": "2025-12-07T03:13:21.666436+01:00",
+    "raw_valid": true,
+    "song_session_id": "b8b27a2f-fda8-48f7-abc2-80fcc0bf1696"
+  },
+  {
+    "song": "Stan",
+    "artists": [
+      "Eminem",
+      "Dido"
+    ],
+    "isrc": "USIR10001280",
+    "start_time": "2025-12-07 03:16:28",
+    "radio": "expres",
+    "recorded_at": "2025-12-07T03:17:04.812626+01:00",
+    "raw_valid": true,
+    "song_session_id": "e59c0cd0-f392-4295-87f4-0e4b30bb5367"
+  },
+  {
+    "song": "Personal Sky",
+    "artists": [
+      "Lina Mayer"
+    ],
+    "isrc": "SKG181500102",
+    "start_time": "2025-12-07 03:20:18",
+    "radio": "expres",
+    "recorded_at": "2025-12-07T03:20:42.839540+01:00",
+    "raw_valid": true,
+    "song_session_id": "e6f65601-4988-4401-a5f1-6c8cb8a95c47"
+  },
+  {
+    "song": "Head Above Water",
+    "artists": [
+      "Twocolors",
+      "Safri Duo",
+      "Chris De Sarandy"
+    ],
+    "isrc": "DEUM72503698",
+    "start_time": "2025-12-07 03:23:30",
+    "radio": "expres",
+    "recorded_at": "2025-12-07T03:24:05.677761+01:00",
+    "raw_valid": true,
+    "song_session_id": "1e69cef4-c6c1-462e-87db-41a8d08df40d"
+  },
+  {
+    "song": "Mozme Si Uz Odpustit",
+    "artists": [
+      "Zuzana Smatanova"
+    ],
+    "isrc": "SKI941800605",
+    "start_time": "2025-12-07 03:26:27",
+    "radio": "expres",
+    "recorded_at": "2025-12-07T03:26:53.079689+01:00",
+    "raw_valid": true,
+    "song_session_id": "e60df91a-7ca2-4471-8307-a37b018e201c"
+  },
+  {
+    "song": "Na Vianoce",
+    "artists": [
+      "Adam Durica"
+    ],
+    "isrc": "SKA011700088",
+    "start_time": "2025-12-07 03:30:17",
+    "radio": "expres",
+    "recorded_at": "2025-12-07T03:30:36.115966+01:00",
+    "raw_valid": true,
+    "song_session_id": "5bd4f16b-e75b-49cc-9f94-02a3b00be2e1"
+  },
+  {
+    "song": "Undressed",
+    "artists": [
+      "Sombr"
+    ],
+    "isrc": "USWB12500737",
+    "start_time": "2025-12-07 03:34:45",
+    "radio": "expres",
+    "recorded_at": "2025-12-07T03:35:24.936501+01:00",
+    "raw_valid": true,
+    "song_session_id": "9735a3fd-18f0-41ab-9516-627964c2f022"
+  },
+  {
+    "song": "Ty A Tvoja Sestra",
+    "artists": [
+      "No Name"
+    ],
+    "isrc": "SKA010005401",
+    "start_time": "2025-12-07 03:37:49",
+    "radio": "expres",
+    "recorded_at": "2025-12-07T03:38:27.439586+01:00",
+    "raw_valid": true,
+    "song_session_id": "21f96edf-0fe2-4e7b-92df-411d4ef6658e"
+  },
+  {
+    "song": "Africa",
+    "artists": [
+      "Toto"
+    ],
+    "isrc": "USSM19801941",
+    "start_time": "2025-12-07 03:41:01",
+    "radio": "expres",
+    "recorded_at": "2025-12-07T03:41:30.097345+01:00",
+    "raw_valid": true,
+    "song_session_id": "3d9ec87c-76a3-457d-b69d-108017bbe4ff"
+  },
+  {
+    "song": "Anjel",
+    "artists": [
+      "Komajota"
+    ],
+    "isrc": "SKA010700001",
+    "start_time": "2025-12-07 03:45:59",
+    "radio": "expres",
+    "recorded_at": "2025-12-07T03:46:39.187068+01:00",
+    "raw_valid": true,
+    "song_session_id": "a59fd345-5118-4be9-95be-5070b0de56e4"
+  },
+  {
+    "song": "Gone Gone Gone",
+    "artists": [
+      "David Guetta",
+      "Teddy Swims",
+      "Tones And I"
+    ],
+    "isrc": "UKWLG2500132",
+    "start_time": "2025-12-07 03:48:51",
+    "radio": "expres",
+    "recorded_at": "2025-12-07T03:49:22.380120+01:00",
+    "raw_valid": true,
+    "song_session_id": "97643759-0ec0-4078-926a-7db16e1cc097"
+  },
+  {
+    "song": "Stramak",
+    "artists": [
+      "Polemic",
+      "Matej Ruppert"
+    ],
+    "isrc": "SKB812300421",
+    "start_time": "2025-12-07 03:52:35",
+    "radio": "expres",
+    "recorded_at": "2025-12-07T03:53:00.355445+01:00",
+    "raw_valid": true,
+    "song_session_id": "4bb351a5-1544-4aee-82ee-7b717ac3aa3b"
+  },
+  {
+    "song": "Follow You",
+    "artists": [
+      "Imagine Dragons"
+    ],
+    "isrc": "USUM72102981",
+    "start_time": "2025-12-07 03:55:57",
+    "radio": "expres",
+    "recorded_at": "2025-12-07T03:56:28.502360+01:00",
+    "raw_valid": true,
+    "song_session_id": "a390422f-a4fd-48ef-847a-8b8f98a55676"
+  },
+  {
+    "song": "All I Want For Christmas Is You",
+    "artists": [
+      "Mariah Carey"
+    ],
+    "isrc": "USSM19400325",
+    "start_time": "2025-12-07 03:58:46",
+    "radio": "expres",
+    "recorded_at": "2025-12-07T03:59:05.723353+01:00",
+    "raw_valid": true,
+    "song_session_id": "b91edf53-54a6-4094-ad1f-89c5def588df"
+  },
+  {
+    "song": "Pride",
+    "artists": [
+      "Felix Jaehn",
+      "Jhart"
+    ],
+    "isrc": "DEUM72503423",
+    "start_time": "2025-12-07 04:02:32",
+    "radio": "expres",
+    "recorded_at": "2025-12-07T04:02:48.671589+01:00",
+    "raw_valid": true,
+    "song_session_id": "c2fb4af3-d3b2-4fb5-9798-f872028c3d3c"
+  },
+  {
+    "song": "Tlakova Niz",
+    "artists": [
+      "Banket"
+    ],
+    "isrc": "SKA128678604",
+    "start_time": "2025-12-07 04:05:23",
+    "radio": "expres",
+    "recorded_at": "2025-12-07T04:05:56.259525+01:00",
+    "raw_valid": true,
+    "song_session_id": "b5af7e81-8129-44ae-b711-3182cd64578f"
+  },
+  {
+    "song": "Stargazing",
+    "artists": [
+      "Myles Smith"
+    ],
+    "isrc": "GBARL2400510",
+    "start_time": "2025-12-07 04:09:51",
+    "radio": "expres",
+    "recorded_at": "2025-12-07T04:10:19.745000+01:00",
+    "raw_valid": true,
+    "song_session_id": "a38f0acc-2c06-4abe-91c9-50226e8c4a48"
+  },
+  {
+    "song": "Dnes Je Skvely Den",
+    "artists": [
+      "Gladiator"
+    ],
+    "isrc": "CZA210000417",
+    "start_time": "2025-12-07 04:12:45",
+    "radio": "expres",
+    "recorded_at": "2025-12-07T04:13:22.277025+01:00",
+    "raw_valid": true,
+    "song_session_id": "37c33700-74f9-49ba-afde-8c23205d43bb"
+  },
+  {
+    "song": "Hungry Eyes",
+    "artists": [
+      "Eric Carmen"
+    ],
+    "isrc": "USRC19708312",
+    "start_time": "2025-12-07 04:17:44",
+    "radio": "expres",
+    "recorded_at": "2025-12-07T04:18:11.163798+01:00",
+    "raw_valid": true,
+    "song_session_id": "26021227-4b93-482a-951f-dc118aeda2af"
+  },
+  {
+    "song": "Premyslam Nad Tebou",
+    "artists": [
+      "Peter Cmorik"
+    ],
+    "isrc": "SKA011100147",
+    "start_time": "2025-12-07 04:20:19",
+    "radio": "expres",
+    "recorded_at": "2025-12-07T04:20:58.491992+01:00",
+    "raw_valid": true,
+    "song_session_id": "9b14e75e-04b8-4b64-aac2-d568e0dcae0f"
+  },
+  {
+    "song": "Man I Need",
+    "artists": [
+      "Olivia Dean"
+    ],
+    "isrc": "GBUM72503089",
+    "start_time": "2025-12-07 04:23:33",
+    "radio": "expres",
+    "recorded_at": "2025-12-07T04:23:56.017535+01:00",
+    "raw_valid": true,
+    "song_session_id": "7b1f8a3f-3b4f-441d-b50a-9354c494c6f7"
+  },
+  {
+    "song": "Runaway Train",
+    "artists": [
+      "Soul Asylum"
+    ],
+    "isrc": "USSM19200235",
+    "start_time": "2025-12-07 04:26:54",
+    "radio": "expres",
+    "recorded_at": "2025-12-07T04:27:18.932739+01:00",
+    "raw_valid": true,
+    "song_session_id": "7e3946d9-2baf-4fc4-8e82-3bc18cdf7a46"
+  },
+  {
+    "song": "Najkrajsie Vianoce",
+    "artists": [
+      "Imt Smile"
+    ],
+    "isrc": "SKA011000112",
+    "start_time": "2025-12-07 04:30:07",
+    "radio": "expres",
+    "recorded_at": "2025-12-07T04:30:41.775539+01:00",
+    "raw_valid": true,
+    "song_session_id": "052b9e26-fe4a-4ef7-90b7-9ab581550f35"
+  },
+  {
+    "song": "The Fate Of Ophelia",
+    "artists": [
+      "Taylor Swift"
+    ],
+    "isrc": "USUG12506436",
+    "start_time": "2025-12-07 04:33:02",
+    "radio": "expres",
+    "recorded_at": "2025-12-07T04:33:29.103188+01:00",
+    "raw_valid": true,
+    "song_session_id": "f34f72a4-5aa1-44ef-b1ea-270656fb44b6"
+  },
+  {
+    "song": "Cakam Ta Laska",
+    "artists": [
+      "Elan"
+    ],
+    "isrc": "TCAEF1942465",
+    "start_time": "2025-12-07 04:36:44",
+    "radio": "expres",
+    "recorded_at": "2025-12-07T04:37:12.164626+01:00",
+    "raw_valid": true,
+    "song_session_id": "3eed25cd-134b-4ba5-9b57-bd0090c4e4b6"
+  },
+  {
+    "song": "Umbrella",
+    "artists": [
+      "Rihanna"
+    ],
+    "isrc": "USUM70736771",
+    "start_time": "2025-12-07 04:41:17",
+    "radio": "expres",
+    "recorded_at": "2025-12-07T04:41:56.083162+01:00",
+    "raw_valid": true,
+    "song_session_id": "ff478148-f4da-498d-9060-3c41f116c890"
+  },
+  {
+    "song": "Jediny A Jedina",
+    "artists": [
+      "Zuzana Smatanova"
+    ],
+    "isrc": "SKI941800607",
+    "start_time": "2025-12-07 04:45:09",
+    "radio": "expres",
+    "recorded_at": "2025-12-07T04:45:39.146054+01:00",
+    "raw_valid": true,
+    "song_session_id": "f983b027-f1d2-418f-9890-cb3fe63885c1"
+  },
+  {
+    "song": "Golden",
+    "artists": [
+      "Kpop Demon Hunters"
+    ],
+    "isrc": "QZ8BZ2513510",
+    "start_time": "2025-12-07 04:49:16",
+    "radio": "expres",
+    "recorded_at": "2025-12-07T04:49:47.575818+01:00",
+    "raw_valid": true,
+    "song_session_id": "60323894-c04f-4e3e-826f-62a162a4597a"
+  },
+  {
+    "song": "V Slepych Ulickach",
+    "artists": [
+      "Miro Zbirka",
+      "Marika Gombitova"
+    ],
+    "isrc": "SKA128000003",
+    "start_time": "2025-12-07 04:52:07",
+    "radio": "expres",
+    "recorded_at": "2025-12-07T04:52:29.925027+01:00",
+    "raw_valid": true,
+    "song_session_id": "c6252dbc-efb5-4437-9064-f89037d821e0"
+  }
+]

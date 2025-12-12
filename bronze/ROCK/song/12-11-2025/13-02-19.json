@@ -1,0 +1,392 @@
+[
+  {
+    "last_update": "2025-11-12 11:03:27",
+    "song": {
+      "musicAuthor": "Bon Jovi",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485159bfe048568a969c6f0bd08c",
+      "musicTitle": "Keep The Faith",
+      "radio": "Rádio ROCK",
+      "startTime": "12:02"
+    },
+    "recorded_at": "2025-11-12T12:03:28.692101+01:00",
+    "raw_valid": true,
+    "song_session_id": "f705c226-1282-44a9-8555-28e2f5429ee7"
+  },
+  {
+    "last_update": "2025-11-12 11:09:29",
+    "song": {
+      "musicAuthor": "Nazareth",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485138df7d03cb5ecc5b70ce4756",
+      "musicTitle": "Dream On",
+      "radio": "Rádio ROCK",
+      "startTime": "12:08"
+    },
+    "recorded_at": "2025-11-12T12:09:30.141741+01:00",
+    "raw_valid": true,
+    "song_session_id": "050ce29e-7192-4631-af22-ba2c77626943"
+  },
+  {
+    "last_update": "2025-11-12 11:14:30",
+    "song": {
+      "musicAuthor": "Linkin Park",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485189a8fab8bf8cd2b77da1fd17",
+      "musicTitle": "Somewhere I Belong",
+      "radio": "Rádio ROCK",
+      "startTime": "12:13"
+    },
+    "recorded_at": "2025-11-12T12:14:30.603413+01:00",
+    "raw_valid": true,
+    "song_session_id": "83cd494d-dbd8-4324-b528-491728a5f678"
+  },
+  {
+    "last_update": "2025-11-12 11:17:30",
+    "song": {
+      "musicAuthor": "Myles Alannah",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851b335b494476d5b018c96c25a",
+      "musicTitle": "Black Velvet",
+      "radio": "Rádio ROCK",
+      "startTime": "12:16"
+    },
+    "recorded_at": "2025-11-12T12:17:30.806021+01:00",
+    "raw_valid": true,
+    "song_session_id": "77d58f93-3382-47a7-a39c-8960885b9633"
+  },
+  {
+    "last_update": "2025-11-12 11:22:30",
+    "song": {
+      "musicAuthor": "Mirai",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851ca3d87d3d4c1742c9eb82bc0",
+      "musicTitle": "Tenkrát",
+      "radio": "Rádio ROCK",
+      "startTime": "12:21"
+    },
+    "recorded_at": "2025-11-12T12:22:31.130349+01:00",
+    "raw_valid": true,
+    "song_session_id": "65cf63c9-6dab-4b23-80f3-edd680aaded6"
+  },
+  {
+    "last_update": "2025-11-12 11:24:30",
+    "song": {
+      "musicAuthor": "Slade",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048516832fb0dccc14e5930045202",
+      "musicTitle": "Far Far Away",
+      "radio": "Rádio ROCK",
+      "startTime": "12:24"
+    },
+    "recorded_at": "2025-11-12T12:24:31.254157+01:00",
+    "raw_valid": true,
+    "song_session_id": "a35f08c5-61e7-41de-9964-68845213b544"
+  },
+  {
+    "last_update": "2025-11-12 11:28:31",
+    "song": {
+      "musicAuthor": "Fall Out Boy",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048513cf1c1dbcfa3f1ab7282719b",
+      "musicTitle": "Centuries",
+      "radio": "Rádio ROCK",
+      "startTime": "12:27"
+    },
+    "recorded_at": "2025-11-12T12:28:31.879339+01:00",
+    "raw_valid": true,
+    "song_session_id": "8501cded-acca-4810-b4ab-d3be32d5d170"
+  },
+  {
+    "last_update": "2025-11-12 11:32:35",
+    "song": {
+      "musicAuthor": "Kabát",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048518e3164854b6001e1c95f2840",
+      "musicTitle": "Šaman",
+      "radio": "Rádio ROCK",
+      "startTime": "12:31"
+    },
+    "recorded_at": "2025-11-12T12:32:36.805125+01:00",
+    "raw_valid": true,
+    "song_session_id": "9cb4e530-834c-4656-8023-b9f6b36ab4e7"
+  },
+  {
+    "last_update": "2025-11-12 11:36:36",
+    "song": {
+      "musicAuthor": "Evanescence",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485125f49ab23f0ec6332efef432",
+      "musicTitle": "Bring Me To Life",
+      "radio": "Rádio ROCK",
+      "startTime": "12:35"
+    },
+    "recorded_at": "2025-11-12T12:36:37.180980+01:00",
+    "raw_valid": true,
+    "song_session_id": "2333b275-b6b2-4a4f-9963-e9e61bccd5c6"
+  },
+  {
+    "last_update": "2025-11-12 11:39:37",
+    "song": {
+      "musicAuthor": "Kiss",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851d3e0bbf8ae9add83ee42d9cf",
+      "musicTitle": "God Gave Rock 'n' Roll To You Ii",
+      "radio": "Rádio ROCK",
+      "startTime": "12:39"
+    },
+    "recorded_at": "2025-11-12T12:39:37.354866+01:00",
+    "raw_valid": true,
+    "song_session_id": "78505a44-1db9-4a4a-9a65-2e1f9d6e1c62"
+  },
+  {
+    "last_update": "2025-11-12 11:44:07",
+    "song": {
+      "musicAuthor": "U2",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485138fa0dfe55b1ff2e8c962bae",
+      "musicTitle": "Elevation",
+      "radio": "Rádio ROCK",
+      "startTime": "12:44"
+    },
+    "recorded_at": "2025-11-12T12:44:08.202927+01:00",
+    "raw_valid": true,
+    "song_session_id": "62fef268-872c-459a-a24f-1eb6d6b6790c"
+  },
+  {
+    "last_update": "2025-11-12 11:48:38",
+    "song": {
+      "musicAuthor": "Green Day",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851db89b08034de626ebee6823d",
+      "musicTitle": "When I Come Around",
+      "radio": "Rádio ROCK",
+      "startTime": "12:47"
+    },
+    "recorded_at": "2025-11-12T12:48:38.487329+01:00",
+    "raw_valid": true,
+    "song_session_id": "a920acdb-b5d0-4815-834a-8adbb4f9bb26"
+  },
+  {
+    "last_update": "2025-11-12 11:51:08",
+    "song": {
+      "musicAuthor": "Queen",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851e98d08fbea1a2f03229abc20",
+      "musicTitle": "A Kind Of Magic",
+      "radio": "Rádio ROCK",
+      "startTime": "12:50"
+    },
+    "recorded_at": "2025-11-12T12:51:08.681707+01:00",
+    "raw_valid": true,
+    "song_session_id": "1b7bb95c-d7e8-4faf-b72d-b4b0cfc5ebac"
+  },
+  {
+    "last_update": "2025-11-12 11:55:08",
+    "song": {
+      "musicAuthor": "Imagine Dragons",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485125e1a02097987b3480c7a8c5",
+      "musicTitle": "Follow You",
+      "radio": "Rádio ROCK",
+      "startTime": "12:54"
+    },
+    "recorded_at": "2025-11-12T12:55:09.106573+01:00",
+    "raw_valid": true,
+    "song_session_id": "62a7af4b-0cd6-4b29-a540-b4f0e9748b20"
+  },
+  {
+    "last_update": "2025-11-12 11:58:08",
+    "song": {
+      "musicAuthor": "Oasis",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485185e5dcc05cc216a10f141480",
+      "musicTitle": "Don't Look Back In Anger",
+      "radio": "Rádio ROCK",
+      "startTime": "12:57"
+    },
+    "recorded_at": "2025-11-12T12:58:09.284280+01:00",
+    "raw_valid": true,
+    "song_session_id": "193f0c50-c0fc-4993-8b78-a2ff01cd6dc0"
+  },
+  {
+    "last_update": "2025-11-12 12:04:09",
+    "song": {
+      "musicAuthor": "Limp Bizkit",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048514a31b146c7cf07705d912efe",
+      "musicTitle": "My Way",
+      "radio": "Rádio ROCK",
+      "startTime": "13:03"
+    },
+    "recorded_at": "2025-11-12T13:04:09.730235+01:00",
+    "raw_valid": true,
+    "song_session_id": "790687a3-cf7a-4479-bf63-bd611c4d3775"
+  },
+  {
+    "last_update": "2025-11-12 12:09:09",
+    "song": {
+      "musicAuthor": "The Cure",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851ca40908d43a2a80fb34de8a3",
+      "musicTitle": "Boys Don't Cry",
+      "radio": "Rádio ROCK",
+      "startTime": "13:08"
+    },
+    "recorded_at": "2025-11-12T13:09:10.048894+01:00",
+    "raw_valid": true,
+    "song_session_id": "f7bd0ba8-8600-428a-930b-047db81676da"
+  },
+  {
+    "last_update": "2025-11-12 12:11:10",
+    "song": {
+      "musicAuthor": "Offspring, The",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851cbd2ee7dff77bfb2b5f0af52",
+      "musicTitle": "Pretty Fly  (For A White Guy)",
+      "radio": "Rádio ROCK",
+      "startTime": "13:11"
+    },
+    "recorded_at": "2025-11-12T13:11:10.878600+01:00",
+    "raw_valid": true,
+    "song_session_id": "832ac506-7fc7-44dc-b39c-8b892a8c69ce"
+  },
+  {
+    "last_update": "2025-11-12 12:16:12",
+    "song": {
+      "musicAuthor": "System Of A Down",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851c65f8d04502eeddbdd61fa71",
+      "musicTitle": "B.Y.O.B",
+      "radio": "Rádio ROCK",
+      "startTime": "13:16"
+    },
+    "recorded_at": "2025-11-12T13:16:12.673650+01:00",
+    "raw_valid": true,
+    "song_session_id": "895896aa-e9d1-4e82-8424-0a5890e7022a"
+  },
+  {
+    "last_update": "2025-11-12 12:21:14",
+    "song": {
+      "musicAuthor": "Bon Jovi",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851ede118b5f0e159dd18d42b90",
+      "musicTitle": "Runaway",
+      "radio": "Rádio ROCK",
+      "startTime": "13:20"
+    },
+    "recorded_at": "2025-11-12T13:21:14.956081+01:00",
+    "raw_valid": true,
+    "song_session_id": "4c689d54-1496-4739-85a6-b4b66376f577"
+  },
+  {
+    "last_update": "2025-11-12 12:25:15",
+    "song": {
+      "musicAuthor": "The Rolling Stones",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485100379b8904a73a542198c068",
+      "musicTitle": "Angry",
+      "radio": "Rádio ROCK",
+      "startTime": "13:24"
+    },
+    "recorded_at": "2025-11-12T13:25:15.247542+01:00",
+    "raw_valid": true,
+    "song_session_id": "11586276-a7c7-4abe-bbf3-f97d9db8b011"
+  },
+  {
+    "last_update": "2025-11-12 12:29:15",
+    "song": {
+      "musicAuthor": "Linkin Park",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851e2f039481babe23658fc719a",
+      "musicTitle": "Crawling",
+      "radio": "Rádio ROCK",
+      "startTime": "13:28"
+    },
+    "recorded_at": "2025-11-12T13:29:15.656264+01:00",
+    "raw_valid": true,
+    "song_session_id": "e71660a6-f3c1-4b03-85d7-f4f14fc44575"
+  },
+  {
+    "last_update": "2025-11-12 12:32:15",
+    "song": {
+      "musicAuthor": "The Who",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851fe24dcd263c08c6dd84b6e8c",
+      "musicTitle": "Behind Blue Eyes",
+      "radio": "Rádio ROCK",
+      "startTime": "13:32"
+    },
+    "recorded_at": "2025-11-12T13:32:15.984405+01:00",
+    "raw_valid": true,
+    "song_session_id": "0a7769fd-9fb5-47f3-ac0a-1e6d060a5f11"
+  },
+  {
+    "last_update": "2025-11-12 12:36:17",
+    "song": {
+      "musicAuthor": "4 Non Blondes",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851381371cb8ce680d0dc324600",
+      "musicTitle": "What's Up",
+      "radio": "Rádio ROCK",
+      "startTime": "13:35"
+    },
+    "recorded_at": "2025-11-12T13:36:17.518825+01:00",
+    "raw_valid": true,
+    "song_session_id": "9d659a67-67a8-40fa-956f-39d0b16ac466"
+  },
+  {
+    "last_update": "2025-11-12 12:40:17",
+    "song": {
+      "musicAuthor": "Ozzy Osbourne",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851475ca6e5c1ce0ef70740c3c6",
+      "musicTitle": "Crazy Train",
+      "radio": "Rádio ROCK",
+      "startTime": "13:40"
+    },
+    "recorded_at": "2025-11-12T13:40:17.791046+01:00",
+    "raw_valid": true,
+    "song_session_id": "d6498d49-4a79-4e62-8a27-53217ec51d23"
+  },
+  {
+    "last_update": "2025-11-12 12:45:18",
+    "song": {
+      "musicAuthor": "Nirvana",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851aca059cebc1841277db22d1c",
+      "musicTitle": "Rape Me",
+      "radio": "Rádio ROCK",
+      "startTime": "13:44"
+    },
+    "recorded_at": "2025-11-12T13:45:18.702394+01:00",
+    "raw_valid": true,
+    "song_session_id": "575ab779-94da-4d95-a65b-1d41039c5b4b"
+  },
+  {
+    "last_update": "2025-11-12 12:49:18",
+    "song": {
+      "musicAuthor": "Ac/Dc",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048518399047ff71200928f5b6508",
+      "musicTitle": "Moneytalks",
+      "radio": "Rádio ROCK",
+      "startTime": "13:48"
+    },
+    "recorded_at": "2025-11-12T13:49:18.968948+01:00",
+    "raw_valid": true,
+    "song_session_id": "1a63428f-4d33-4ce7-a7cb-c47fef3f34b4"
+  },
+  {
+    "last_update": "2025-11-12 12:53:19",
+    "song": {
+      "musicAuthor": "Green Day",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048516869f1cd33bf72e00313520d",
+      "musicTitle": "Minority",
+      "radio": "Rádio ROCK",
+      "startTime": "13:52"
+    },
+    "recorded_at": "2025-11-12T13:53:19.421274+01:00",
+    "raw_valid": true,
+    "song_session_id": "d013ff29-b58a-4015-89d3-527a324c1aab"
+  },
+  {
+    "last_update": "2025-11-12 12:56:18",
+    "song": {
+      "musicAuthor": "Aerosmith",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851b11078ee23dcd99e085ac33e",
+      "musicTitle": "Dream On",
+      "radio": "Rádio ROCK",
+      "startTime": "13:55"
+    },
+    "recorded_at": "2025-11-12T13:56:19.620920+01:00",
+    "raw_valid": true,
+    "song_session_id": "82fb3868-df58-44b2-95de-722d471eae3f"
+  },
+  {
+    "last_update": "2025-11-12 13:00:19",
+    "song": {
+      "musicAuthor": "Billy Idol",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851a20464e6697dc1149d3a5cdc",
+      "musicTitle": "White Wedding",
+      "radio": "Rádio ROCK",
+      "startTime": "14:00"
+    },
+    "recorded_at": "2025-11-12T14:00:20.314832+01:00",
+    "raw_valid": true,
+    "song_session_id": "2d5a3e80-5e6f-470d-884a-944093ce23fd"
+  }
+]

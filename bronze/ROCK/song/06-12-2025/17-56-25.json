@@ -1,0 +1,392 @@
+[
+  {
+    "last_update": "2025-12-06 15:58:24",
+    "song": {
+      "musicAuthor": "Kabát",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851037ddf69c8399260eb890afd",
+      "musicTitle": "Malá Dáma",
+      "radio": "Rádio ROCK",
+      "startTime": "16:57"
+    },
+    "recorded_at": "2025-12-06T16:58:25.210027+01:00",
+    "raw_valid": true,
+    "song_session_id": "a7964c35-e719-43cd-bcef-65b1d899be15"
+  },
+  {
+    "last_update": "2025-12-06 16:02:26",
+    "song": {
+      "musicAuthor": "Ozzy Osbourne",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851962c158ac47845e7051fae4e",
+      "musicTitle": "Dreamer",
+      "radio": "Rádio ROCK",
+      "startTime": "17:01"
+    },
+    "recorded_at": "2025-12-06T17:02:26.557730+01:00",
+    "raw_valid": true,
+    "song_session_id": "8a348716-b265-4335-95d7-7afa24ad9e16"
+  },
+  {
+    "last_update": "2025-12-06 16:06:26",
+    "song": {
+      "musicAuthor": "Blind Melon",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048517ed1df1690df31d094d7c2bc",
+      "musicTitle": "No Rain",
+      "radio": "Rádio ROCK",
+      "startTime": "17:05"
+    },
+    "recorded_at": "2025-12-06T17:06:26.793948+01:00",
+    "raw_valid": true,
+    "song_session_id": "e59d1fb3-9cc1-41a6-9075-c0e6f40deee7"
+  },
+  {
+    "last_update": "2025-12-06 16:09:26",
+    "song": {
+      "musicAuthor": "Guns 'n' Roses",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485168384dd85fd5e95831252f60",
+      "musicTitle": "Sweet Child O' Mine",
+      "radio": "Rádio ROCK",
+      "startTime": "17:09"
+    },
+    "recorded_at": "2025-12-06T17:09:26.986213+01:00",
+    "raw_valid": true,
+    "song_session_id": "27b2e3c6-43db-4a5c-a724-a0f6083ab27d"
+  },
+  {
+    "last_update": "2025-12-06 16:15:27",
+    "song": {
+      "musicAuthor": "Kiss",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048512d54bf34c48d94050cf0008f",
+      "musicTitle": "Detroit Rock City",
+      "radio": "Rádio ROCK",
+      "startTime": "17:14"
+    },
+    "recorded_at": "2025-12-06T17:15:27.753811+01:00",
+    "raw_valid": true,
+    "song_session_id": "b7c1956e-65a3-47a6-9a78-fc3010e0c1fe"
+  },
+  {
+    "last_update": "2025-12-06 16:19:28",
+    "song": {
+      "musicAuthor": "Simple Plan",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851fa258256ced1ce3a7fa0246a",
+      "musicTitle": "Welcome To My Life",
+      "radio": "Rádio ROCK",
+      "startTime": "17:18"
+    },
+    "recorded_at": "2025-12-06T17:19:29.584536+01:00",
+    "raw_valid": true,
+    "song_session_id": "2d2c8b79-911e-42ba-988f-d7e3544bf92d"
+  },
+  {
+    "last_update": "2025-12-06 16:22:29",
+    "song": {
+      "musicAuthor": "Metallica",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851e5a07037750e97dca575c690",
+      "musicTitle": "Lux Aeterna",
+      "radio": "Rádio ROCK",
+      "startTime": "17:22"
+    },
+    "recorded_at": "2025-12-06T17:22:29.825782+01:00",
+    "raw_valid": true,
+    "song_session_id": "9584b320-4843-41bf-8172-aaaf27849f56"
+  },
+  {
+    "last_update": "2025-12-06 16:26:31",
+    "song": {
+      "musicAuthor": "Pink Floyd",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048513e6b6b961dbe279540b72cb5",
+      "musicTitle": "Another Brick In The Wall",
+      "radio": "Rádio ROCK",
+      "startTime": "17:25"
+    },
+    "recorded_at": "2025-12-06T17:26:31.432825+01:00",
+    "raw_valid": true,
+    "song_session_id": "90650cff-d720-4a96-a3f0-1c7b8e044b63"
+  },
+  {
+    "last_update": "2025-12-06 16:29:32",
+    "song": {
+      "musicAuthor": "Iné Kafe",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048512f24981c95d815cac0e65b86",
+      "musicTitle": "Čumil",
+      "radio": "Rádio ROCK",
+      "startTime": "17:29"
+    },
+    "recorded_at": "2025-12-06T17:29:32.979773+01:00",
+    "raw_valid": true,
+    "song_session_id": "207a04aa-69b0-44d2-a68e-c028adfb7e2f"
+  },
+  {
+    "last_update": "2025-12-06 16:32:33",
+    "song": {
+      "musicAuthor": "Limp Bizkit",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048514a31b146c7cf07705d912efe",
+      "musicTitle": "My Way",
+      "radio": "Rádio ROCK",
+      "startTime": "17:32"
+    },
+    "recorded_at": "2025-12-06T17:32:34.099736+01:00",
+    "raw_valid": true,
+    "song_session_id": "5927d3e2-1f8d-4d61-9ea6-bf03bc70da4d"
+  },
+  {
+    "last_update": "2025-12-06 16:37:33",
+    "song": {
+      "musicAuthor": "The Black Keys",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048516a21b97de47168df4f0c1993",
+      "musicTitle": "Lonely Boy",
+      "radio": "Rádio ROCK",
+      "startTime": "17:36"
+    },
+    "recorded_at": "2025-12-06T17:37:34.408633+01:00",
+    "raw_valid": true,
+    "song_session_id": "14f684dd-0baa-4361-a2ce-85f83b115cde"
+  },
+  {
+    "last_update": "2025-12-06 16:40:34",
+    "song": {
+      "musicAuthor": "Aerosmith",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851587b26d49596162397b29ec8",
+      "musicTitle": "Cryin",
+      "radio": "Rádio ROCK",
+      "startTime": "17:40"
+    },
+    "recorded_at": "2025-12-06T17:40:34.585234+01:00",
+    "raw_valid": true,
+    "song_session_id": "3e98cd14-9758-4ca7-94ac-942604f526a3"
+  },
+  {
+    "last_update": "2025-12-06 16:45:35",
+    "song": {
+      "musicAuthor": "Bon Jovi",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851901d0116a03d30a5c45bb99c",
+      "musicTitle": "Bad Medicine",
+      "radio": "Rádio ROCK",
+      "startTime": "17:45"
+    },
+    "recorded_at": "2025-12-06T17:45:35.534636+01:00",
+    "raw_valid": true,
+    "song_session_id": "67dc9064-f05e-4940-b703-a7ec380fa9bc"
+  },
+  {
+    "last_update": "2025-12-06 16:50:36",
+    "song": {
+      "musicAuthor": "Spin Doctors",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851436e38032cf3389d01426eca",
+      "musicTitle": "Two Princes",
+      "radio": "Rádio ROCK",
+      "startTime": "17:50"
+    },
+    "recorded_at": "2025-12-06T17:50:36.499494+01:00",
+    "raw_valid": true,
+    "song_session_id": "0ad8ad05-d064-479d-9dc3-8822dc70c47a"
+  },
+  {
+    "last_update": "2025-12-06 16:54:36",
+    "song": {
+      "musicAuthor": "Horkýže Slíže",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851cdf1f087ff7f86569b256ca8",
+      "musicTitle": "Kozky Perie",
+      "radio": "Rádio ROCK",
+      "startTime": "17:54"
+    },
+    "recorded_at": "2025-12-06T17:54:37.237301+01:00",
+    "raw_valid": true,
+    "song_session_id": "38351baa-c3b6-479b-b1d2-b088f268686f"
+  },
+  {
+    "last_update": "2025-12-06 16:57:37",
+    "song": {
+      "musicAuthor": "Ac Dc",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048510b51f8d91f3a21e8426361ae",
+      "musicTitle": "Back In Black",
+      "radio": "Rádio ROCK",
+      "startTime": "17:57"
+    },
+    "recorded_at": "2025-12-06T17:57:37.511636+01:00",
+    "raw_valid": true,
+    "song_session_id": "48c0761b-85b1-42ba-87d2-b33d67f43ad0"
+  },
+  {
+    "last_update": "2025-12-06 17:02:38",
+    "song": {
+      "musicAuthor": "Kabát",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485161cda9feb3e5622ac59bc191",
+      "musicTitle": "Banditi Di Praga",
+      "radio": "Rádio ROCK",
+      "startTime": "18:01"
+    },
+    "recorded_at": "2025-12-06T18:02:39.444866+01:00",
+    "raw_valid": true,
+    "song_session_id": "7d6801cb-0a75-44cf-ade5-512856d8d84a"
+  },
+  {
+    "last_update": "2025-12-06 17:05:09",
+    "song": {
+      "musicAuthor": "Foo Fighters",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048511759635c92b6314d3d3c9fe9",
+      "musicTitle": "Learn To Fly",
+      "radio": "Rádio ROCK",
+      "startTime": "18:05"
+    },
+    "recorded_at": "2025-12-06T18:05:09.908201+01:00",
+    "raw_valid": true,
+    "song_session_id": "0d50ead0-8b2f-48cc-ad38-18e321cb4e52"
+  },
+  {
+    "last_update": "2025-12-06 17:10:09",
+    "song": {
+      "musicAuthor": "Led Zeppelin",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851fc4f17340773c6c3579fea0d",
+      "musicTitle": "Whole Lotta Love",
+      "radio": "Rádio ROCK",
+      "startTime": "18:09"
+    },
+    "recorded_at": "2025-12-06T18:10:10.423893+01:00",
+    "raw_valid": true,
+    "song_session_id": "7c59a13a-9605-4a65-accf-581bb664e303"
+  },
+  {
+    "last_update": "2025-12-06 17:16:16",
+    "song": {
+      "musicAuthor": "U2",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851b7bea3d01f04e6d0408d2afe",
+      "musicTitle": "I Still Haven't Found What I'm Looking For",
+      "radio": "Rádio ROCK",
+      "startTime": "18:15"
+    },
+    "recorded_at": "2025-12-06T18:16:16.459953+01:00",
+    "raw_valid": true,
+    "song_session_id": "299f43ee-c10b-4505-b45a-2acbedfad762"
+  },
+  {
+    "last_update": "2025-12-06 17:20:17",
+    "song": {
+      "musicAuthor": "Green Day",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485175116506a1f1140e2178197c",
+      "musicTitle": "Dilemma",
+      "radio": "Rádio ROCK",
+      "startTime": "18:19"
+    },
+    "recorded_at": "2025-12-06T18:20:17.943967+01:00",
+    "raw_valid": true,
+    "song_session_id": "5f9cd965-29c2-49b5-b960-10e608f91eb6"
+  },
+  {
+    "last_update": "2025-12-06 17:23:18",
+    "song": {
+      "musicAuthor": "Sum 41",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048519a482180e6a306229bff49dc",
+      "musicTitle": "In Too Deep",
+      "radio": "Rádio ROCK",
+      "startTime": "18:22"
+    },
+    "recorded_at": "2025-12-06T18:23:18.262801+01:00",
+    "raw_valid": true,
+    "song_session_id": "bd712cf0-4be3-4ca8-b89e-887071f43890"
+  },
+  {
+    "last_update": "2025-12-06 17:27:18",
+    "song": {
+      "musicAuthor": "Europe",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048512d925cec3072ed1b74e5188f",
+      "musicTitle": "Carrie",
+      "radio": "Rádio ROCK",
+      "startTime": "18:26"
+    },
+    "recorded_at": "2025-12-06T18:27:18.815771+01:00",
+    "raw_valid": true,
+    "song_session_id": "06cac410-7c2d-40c3-a718-ffbf6836d3c8"
+  },
+  {
+    "last_update": "2025-12-06 17:31:18",
+    "song": {
+      "musicAuthor": "O.B.D.",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851c4cb72ab3f61fc15ca800f31",
+      "musicTitle": "Komáre",
+      "radio": "Rádio ROCK",
+      "startTime": "18:30"
+    },
+    "recorded_at": "2025-12-06T18:31:19.139147+01:00",
+    "raw_valid": true,
+    "song_session_id": "2a385ec2-dde9-4f5f-8f58-5e499aa371b6"
+  },
+  {
+    "last_update": "2025-12-06 17:34:21",
+    "song": {
+      "musicAuthor": "System Of A Down",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851c65f8d04502eeddbdd61fa71",
+      "musicTitle": "B.Y.O.B",
+      "radio": "Rádio ROCK",
+      "startTime": "18:33"
+    },
+    "recorded_at": "2025-12-06T18:34:21.747994+01:00",
+    "raw_valid": true,
+    "song_session_id": "92c37a57-7b67-4225-a49b-3b667892fade"
+  },
+  {
+    "last_update": "2025-12-06 17:38:21",
+    "song": {
+      "musicAuthor": "The Cardigans",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851b0d0af55bc2a5c0a198e0dfd",
+      "musicTitle": "My Favorite Game",
+      "radio": "Rádio ROCK",
+      "startTime": "18:37"
+    },
+    "recorded_at": "2025-12-06T18:38:21.987934+01:00",
+    "raw_valid": true,
+    "song_session_id": "e4a4690f-5fed-494a-8422-e3f6a5bfee6e"
+  },
+  {
+    "last_update": "2025-12-06 17:42:23",
+    "song": {
+      "musicAuthor": "Scorpions",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048519f2023d391c3bd4acf4d51c6",
+      "musicTitle": "Still Loving You",
+      "radio": "Rádio ROCK",
+      "startTime": "18:41"
+    },
+    "recorded_at": "2025-12-06T18:42:24.143357+01:00",
+    "raw_valid": true,
+    "song_session_id": "a2bd0015-d211-476e-8094-59b5556bb8f8"
+  },
+  {
+    "last_update": "2025-12-06 17:46:24",
+    "song": {
+      "musicAuthor": "Pink Floyd",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851e56b1ba06c4e0871e5ec5f83",
+      "musicTitle": "Learning To Fly",
+      "radio": "Rádio ROCK",
+      "startTime": "18:46"
+    },
+    "recorded_at": "2025-12-06T18:46:24.711049+01:00",
+    "raw_valid": true,
+    "song_session_id": "5ed82d34-a0d8-489d-a431-55f2ad75aa45"
+  },
+  {
+    "last_update": "2025-12-06 17:51:24",
+    "song": {
+      "musicAuthor": "Lucie",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048517afcc43e2db56da4728d2a52",
+      "musicTitle": "Oheň",
+      "radio": "Rádio ROCK",
+      "startTime": "18:50"
+    },
+    "recorded_at": "2025-12-06T18:51:25.600399+01:00",
+    "raw_valid": true,
+    "song_session_id": "3030308a-de7b-4b03-b31c-34286d913e29"
+  },
+  {
+    "last_update": "2025-12-06 17:55:26",
+    "song": {
+      "musicAuthor": "The Red Hot Chili Peppers",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851de1af2785a83cc660155a0c4",
+      "musicTitle": "By The Way",
+      "radio": "Rádio ROCK",
+      "startTime": "18:55"
+    },
+    "recorded_at": "2025-12-06T18:55:26.826897+01:00",
+    "raw_valid": true,
+    "song_session_id": "f38f600a-3426-4523-8f4f-78f6786186cb"
+  }
+]

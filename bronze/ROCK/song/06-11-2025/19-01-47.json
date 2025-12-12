@@ -1,0 +1,379 @@
+[
+  {
+    "last_update": "2025-11-06 17:04:28",
+    "song": {
+      "musicAuthor": "Metallica",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485106cb74d39d123ebe1b3c6631",
+      "musicTitle": "The Memory Remains",
+      "radio": "Rádio ROCK",
+      "startTime": "18:03"
+    },
+    "recorded_at": "2025-11-06T18:04:29.510543+01:00",
+    "raw_valid": true,
+    "song_session_id": "28f9494a-333d-4d5e-a813-290116d1ee78"
+  },
+  {
+    "last_update": "2025-11-06 17:08:29",
+    "song": {
+      "musicAuthor": "Aerosmith",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048515a1317139c5482acf2b51f6f",
+      "musicTitle": "Jaded",
+      "radio": "Rádio ROCK",
+      "startTime": "18:07"
+    },
+    "recorded_at": "2025-11-06T18:08:29.917577+01:00",
+    "raw_valid": true,
+    "song_session_id": "641b26eb-a64f-4766-8e34-2e99420bc0d2"
+  },
+  {
+    "last_update": "2025-11-06 17:13:29",
+    "song": {
+      "musicAuthor": "The Beatles",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485184243a01af3c77b56fe01ab1",
+      "musicTitle": "Let It Be",
+      "radio": "Rádio ROCK",
+      "startTime": "18:12"
+    },
+    "recorded_at": "2025-11-06T18:13:30.503439+01:00",
+    "raw_valid": true,
+    "song_session_id": "1bacc754-f96c-410f-a0d6-3ad6e9df78a4"
+  },
+  {
+    "last_update": "2025-11-06 17:18:30",
+    "song": {
+      "musicAuthor": "New Found Glory",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048511703f53e05e51bece5a4a9f8",
+      "musicTitle": "Friends Over You",
+      "radio": "Rádio ROCK",
+      "startTime": "18:17"
+    },
+    "recorded_at": "2025-11-06T18:18:31.166372+01:00",
+    "raw_valid": true,
+    "song_session_id": "a5b3549b-382f-4710-8013-f8ff90a54a75"
+  },
+  {
+    "last_update": "2025-11-06 17:21:30",
+    "song": {
+      "musicAuthor": "Scorpions",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851d81745a4bbb5e8b169f9f13b",
+      "musicTitle": "You And I",
+      "radio": "Rádio ROCK",
+      "startTime": "18:20"
+    },
+    "recorded_at": "2025-11-06T18:21:31.489144+01:00",
+    "raw_valid": true,
+    "song_session_id": "64c8a4eb-d29d-4445-bd91-c7d9d4a07f00"
+  },
+  {
+    "last_update": "2025-11-06 17:27:31",
+    "song": {
+      "musicAuthor": "Crazy Town",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851be3d60f650c3b9dbad061f7f",
+      "musicTitle": "Butterfly",
+      "radio": "Rádio ROCK",
+      "startTime": "18:26"
+    },
+    "recorded_at": "2025-11-06T18:27:32.748485+01:00",
+    "raw_valid": true,
+    "song_session_id": "e64fe496-dca1-415c-83f4-4b4fefa07d57"
+  },
+  {
+    "last_update": "2025-11-06 17:31:33",
+    "song": {
+      "musicAuthor": "U2",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851673526fcf35ab235e1a9d94c",
+      "musicTitle": "Sunday Bloody Sunday",
+      "radio": "Rádio ROCK",
+      "startTime": "18:30"
+    },
+    "recorded_at": "2025-11-06T18:31:33.096705+01:00",
+    "raw_valid": true,
+    "song_session_id": "c23655c8-7b28-4f91-9c67-238f18beb0c7"
+  },
+  {
+    "last_update": "2025-11-06 17:35:33",
+    "song": {
+      "musicAuthor": "Coldplay",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485190afd8e4ec6d787114ed6c40",
+      "musicTitle": "Clocks",
+      "radio": "Rádio ROCK",
+      "startTime": "18:34"
+    },
+    "recorded_at": "2025-11-06T18:35:33.898033+01:00",
+    "raw_valid": true,
+    "song_session_id": "c75c1317-db36-4f99-80a2-4b6b29d3614c"
+  },
+  {
+    "last_update": "2025-11-06 17:39:35",
+    "song": {
+      "musicAuthor": "Bullet For My Valentine",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485154113df5ab7a69df8a44c37e",
+      "musicTitle": "All These Things I hate (Revolve Around Me)",
+      "radio": "Rádio ROCK",
+      "startTime": "18:39"
+    },
+    "recorded_at": "2025-11-06T18:39:36.175359+01:00",
+    "raw_valid": true,
+    "song_session_id": "0e082d22-c9fd-4f6d-a7bc-6208c10e4f86"
+  },
+  {
+    "last_update": "2025-11-06 17:43:36",
+    "song": {
+      "musicAuthor": "Republica",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048513d577eba3860affba2f2d334",
+      "musicTitle": "Ready To Go",
+      "radio": "Rádio ROCK",
+      "startTime": "18:42"
+    },
+    "recorded_at": "2025-11-06T18:43:36.668560+01:00",
+    "raw_valid": true,
+    "song_session_id": "61c166f8-42d0-4ddc-98e2-d5816376ce6d"
+  },
+  {
+    "last_update": "2025-11-06 17:48:37",
+    "song": {
+      "musicAuthor": "Black Sabbath",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851d198e0a1a43c010afb480b3b",
+      "musicTitle": "Changes",
+      "radio": "Rádio ROCK",
+      "startTime": "18:48"
+    },
+    "recorded_at": "2025-11-06T18:48:37.135915+01:00",
+    "raw_valid": true,
+    "song_session_id": "b3212f6e-d584-4d84-8a67-8035cd35116c"
+  },
+  {
+    "last_update": "2025-11-06 17:53:37",
+    "song": {
+      "musicAuthor": "Blink 182",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851108b261e589019d965c57da0",
+      "musicTitle": "Dance With Me",
+      "radio": "Rádio ROCK",
+      "startTime": "18:52"
+    },
+    "recorded_at": "2025-11-06T18:53:37.551922+01:00",
+    "raw_valid": true,
+    "song_session_id": "d93592b9-732b-453d-970e-3d345176ecb3"
+  },
+  {
+    "last_update": "2025-11-06 17:56:37",
+    "song": {
+      "musicAuthor": "Whitesnake",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851facf92d793609aa3bc5cc4e7",
+      "musicTitle": "Is This Love",
+      "radio": "Rádio ROCK",
+      "startTime": "18:55"
+    },
+    "recorded_at": "2025-11-06T18:56:37.722607+01:00",
+    "raw_valid": true,
+    "song_session_id": "340f6bec-66f9-45d3-88c2-938fcb6060b5"
+  },
+  {
+    "last_update": "2025-11-06 18:00:08",
+    "song": {
+      "musicAuthor": "Good Charlotte",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851e3db4a50dbaed2c0cd38ac8e",
+      "musicTitle": "Dance Floor Anthem (I Don't Want To Be In Love",
+      "radio": "Rádio ROCK",
+      "startTime": "19:00"
+    },
+    "recorded_at": "2025-11-06T19:00:08.692748+01:00",
+    "raw_valid": true,
+    "song_session_id": "b7421314-da21-41a8-8d46-a655964e2f5e"
+  },
+  {
+    "last_update": "2025-11-06 18:05:08",
+    "song": {
+      "musicAuthor": "Chad Kroeger Feat. Josey Scott",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851cab637c3978c4db066bfd16f",
+      "musicTitle": "Hero",
+      "radio": "Rádio ROCK",
+      "startTime": "19:04"
+    },
+    "recorded_at": "2025-11-06T19:05:09.041636+01:00",
+    "raw_valid": true,
+    "song_session_id": "b13dc203-969c-4d53-a9c3-9d0e53fc45b0"
+  },
+  {
+    "last_update": "2025-11-06 18:08:09",
+    "song": {
+      "musicAuthor": "Slobodná Európa",
+      "musicCover": "https://static.radia.sk/covers/32/689a01be-a309-445d-af99-b8ee3c76f58d.jpg",
+      "musicTitle": "Podvod",
+      "radio": "Rádio ROCK",
+      "startTime": "19:07"
+    },
+    "recorded_at": "2025-11-06T19:08:09.520162+01:00",
+    "raw_valid": true,
+    "song_session_id": "79c786aa-2355-4dba-a1c6-c7b695bb5366"
+  },
+  {
+    "last_update": "2025-11-06 18:11:09",
+    "song": {
+      "musicAuthor": "Zz Top",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048510fe2ec86a0ec561ef2e2aae1",
+      "musicTitle": "La Grange",
+      "radio": "Rádio ROCK",
+      "startTime": "19:11"
+    },
+    "recorded_at": "2025-11-06T19:11:09.877932+01:00",
+    "raw_valid": true,
+    "song_session_id": "5b983c3b-4815-4ed8-9e4e-96b9b62038d9"
+  },
+  {
+    "last_update": "2025-11-06 18:15:10",
+    "song": {
+      "musicAuthor": "Rybicky 48",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851cc4b1590bf63e60ca3a565eb",
+      "musicTitle": "Bigbyt",
+      "radio": "Rádio ROCK",
+      "startTime": "19:14"
+    },
+    "recorded_at": "2025-11-06T19:15:10.323380+01:00",
+    "raw_valid": true,
+    "song_session_id": "af638452-2231-45ff-b5f8-d11e606e0add"
+  },
+  {
+    "last_update": "2025-11-06 18:18:09",
+    "song": {
+      "musicAuthor": "Nirvana",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851fbc71c99f9c1296c56dd51b6",
+      "musicTitle": "Polly",
+      "radio": "Rádio ROCK",
+      "startTime": "19:17"
+    },
+    "recorded_at": "2025-11-06T19:18:10.563837+01:00",
+    "raw_valid": true,
+    "song_session_id": "e10b7a47-0a6e-40fa-ac8f-b40558c6f7fe"
+  },
+  {
+    "last_update": "2025-11-06 18:21:10",
+    "song": {
+      "musicAuthor": "The Calling",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851e4cd26d38c6f0661a363bc65",
+      "musicTitle": "Wherever You Will Go",
+      "radio": "Rádio ROCK",
+      "startTime": "19:20"
+    },
+    "recorded_at": "2025-11-06T19:21:10.948920+01:00",
+    "raw_valid": true,
+    "song_session_id": "13a88029-a57e-441d-9fd9-346169457c66"
+  },
+  {
+    "last_update": "2025-11-06 18:24:11",
+    "song": {
+      "musicAuthor": "Bring Me The Horizon",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851736145b97bab8fa92cb6113f",
+      "musicTitle": "Throne",
+      "radio": "Rádio ROCK",
+      "startTime": "19:23"
+    },
+    "recorded_at": "2025-11-06T19:24:12.129790+01:00",
+    "raw_valid": true,
+    "song_session_id": "99f4984f-20d8-458d-ad32-8ec4900e2f17"
+  },
+  {
+    "last_update": "2025-11-06 18:28:13",
+    "song": {
+      "musicAuthor": "David Bowie",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851bc1c63a5b66ab9ac3ea21672",
+      "musicTitle": "Heroes",
+      "radio": "Rádio ROCK",
+      "startTime": "19:27"
+    },
+    "recorded_at": "2025-11-06T19:28:13.510947+01:00",
+    "raw_valid": true,
+    "song_session_id": "b53e0990-96c9-437b-8c3a-dc29b3aeea2d"
+  },
+  {
+    "last_update": "2025-11-06 18:31:12",
+    "song": {
+      "musicAuthor": "U2",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485138fa0dfe55b1ff2e8c962bae",
+      "musicTitle": "Elevation",
+      "radio": "Rádio ROCK",
+      "startTime": "19:30"
+    },
+    "recorded_at": "2025-11-06T19:31:13.684775+01:00",
+    "raw_valid": true,
+    "song_session_id": "3582d248-fd03-4cc7-a647-43b694a84d68"
+  },
+  {
+    "last_update": "2025-11-06 18:35:14",
+    "song": {
+      "musicAuthor": "Extreme",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851fb16b9b69eb891027654bcb1",
+      "musicTitle": "More Than Words",
+      "radio": "Rádio ROCK",
+      "startTime": "19:34"
+    },
+    "recorded_at": "2025-11-06T19:35:15.092139+01:00",
+    "raw_valid": true,
+    "song_session_id": "2dea640d-40f0-446e-a007-ded868bf68fe"
+  },
+  {
+    "last_update": "2025-11-06 18:39:15",
+    "song": {
+      "musicAuthor": "Coldplay",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048514e0362c225863f6ae2432651",
+      "musicTitle": "Speed Of Sound",
+      "radio": "Rádio ROCK",
+      "startTime": "19:38"
+    },
+    "recorded_at": "2025-11-06T19:39:16.691935+01:00",
+    "raw_valid": true,
+    "song_session_id": "d8def29e-760a-4422-9cfc-30eefd27f244"
+  },
+  {
+    "last_update": "2025-11-06 18:43:17",
+    "song": {
+      "musicAuthor": "Survivor",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851f4a2ccbe20d6d52f16816812",
+      "musicTitle": "Eye Of The Tiger",
+      "radio": "Rádio ROCK",
+      "startTime": "19:42"
+    },
+    "recorded_at": "2025-11-06T19:43:17.289247+01:00",
+    "raw_valid": true,
+    "song_session_id": "3b582e32-4386-418b-b709-aca3c8085b4a"
+  },
+  {
+    "last_update": "2025-11-06 18:47:17",
+    "song": {
+      "musicAuthor": "Green Day",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485108a1b1e0674086d3f1995e1b",
+      "musicTitle": "Jesus Of Suburbia",
+      "radio": "Rádio ROCK",
+      "startTime": "19:46"
+    },
+    "recorded_at": "2025-11-06T19:47:17.616323+01:00",
+    "raw_valid": true,
+    "song_session_id": "c7e21da1-bf34-4898-9c68-28231c9115e7"
+  },
+  {
+    "last_update": "2025-11-06 18:56:17",
+    "song": {
+      "musicAuthor": "The Offspring",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048510158cbde70672dd821972907",
+      "musicTitle": "Self Esteem",
+      "radio": "Rádio ROCK",
+      "startTime": "19:56"
+    },
+    "recorded_at": "2025-11-06T19:56:18.333983+01:00",
+    "raw_valid": true,
+    "song_session_id": "a3698e18-8682-47fd-a139-7c32916d14f6"
+  },
+  {
+    "last_update": "2025-11-06 19:01:17",
+    "song": {
+      "musicAuthor": "Depeche Mode",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048510a7d45a345534966a4ad2c39",
+      "musicTitle": "Personal Jesus",
+      "radio": "Rádio ROCK",
+      "startTime": "20:00"
+    },
+    "recorded_at": "2025-11-06T20:01:18.648445+01:00",
+    "raw_valid": true,
+    "song_session_id": "e90be0a7-1811-4d51-91fa-843b37555976"
+  }
+]

@@ -1,0 +1,366 @@
+[
+  {
+    "last_update": "2025-12-08 11:59:09",
+    "song": {
+      "musicAuthor": "Oasis",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485185e5dcc05cc216a10f141480",
+      "musicTitle": "Wonderwall",
+      "radio": "Rádio ROCK",
+      "startTime": "12:58"
+    },
+    "recorded_at": "2025-12-08T12:59:10.135570+01:00",
+    "raw_valid": true,
+    "song_session_id": "b2be9a5d-7053-4206-86b3-7551897de964"
+  },
+  {
+    "last_update": "2025-12-08 12:03:10",
+    "song": {
+      "musicAuthor": "Linkin Park",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851e2f039481babe23658fc719a",
+      "musicTitle": "Crawling",
+      "radio": "Rádio ROCK",
+      "startTime": "13:02"
+    },
+    "recorded_at": "2025-12-08T13:03:10.731937+01:00",
+    "raw_valid": true,
+    "song_session_id": "0bda67bb-72b7-4a82-ad21-5a5b7304e677"
+  },
+  {
+    "last_update": "2025-12-08 12:06:11",
+    "song": {
+      "musicAuthor": "Alice Cooper",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048510dfeebaf5d196ff2638a3633",
+      "musicTitle": "Hey Stoopid",
+      "radio": "Rádio ROCK",
+      "startTime": "13:06"
+    },
+    "recorded_at": "2025-12-08T13:06:12.017122+01:00",
+    "raw_valid": true,
+    "song_session_id": "c8f61131-51eb-4bac-b15d-662ebfc28c89"
+  },
+  {
+    "last_update": "2025-12-08 12:12:13",
+    "song": {
+      "musicAuthor": "Wanastowi Vjecy",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851fd7e8ac53162f0677e2a8122",
+      "musicTitle": "Sbírka Zvadlejch Růží",
+      "radio": "Rádio ROCK",
+      "startTime": "13:11"
+    },
+    "recorded_at": "2025-12-08T13:12:14.178965+01:00",
+    "raw_valid": true,
+    "song_session_id": "e321b632-d651-4fa6-9993-e192e7635778"
+  },
+  {
+    "last_update": "2025-12-08 12:17:13",
+    "song": {
+      "musicAuthor": "Electric Callboy",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485147f20c3f01aa0c731ac82d23",
+      "musicTitle": "We Got The Moves",
+      "radio": "Rádio ROCK",
+      "startTime": "13:16"
+    },
+    "recorded_at": "2025-12-08T13:17:14.563976+01:00",
+    "raw_valid": true,
+    "song_session_id": "1f71e094-bbd6-4e28-8657-030525f1771c"
+  },
+  {
+    "last_update": "2025-12-08 12:21:16",
+    "song": {
+      "musicAuthor": "Anouk",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485100a5b98285f6b0e7f4a2eb6a",
+      "musicTitle": "Nobody's Wife",
+      "radio": "Rádio ROCK",
+      "startTime": "13:20"
+    },
+    "recorded_at": "2025-12-08T13:21:16.483837+01:00",
+    "raw_valid": true,
+    "song_session_id": "8c8fc776-2ae3-4678-b0b9-7ae42e2e1f38"
+  },
+  {
+    "last_update": "2025-12-08 12:24:16",
+    "song": {
+      "musicAuthor": "Metallica",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485196a926d07aea417327ea024a",
+      "musicTitle": "Fade To Black",
+      "radio": "Rádio ROCK",
+      "startTime": "13:23"
+    },
+    "recorded_at": "2025-12-08T13:24:16.847152+01:00",
+    "raw_valid": true,
+    "song_session_id": "211a6506-a897-47e3-a6d8-a70332629f24"
+  },
+  {
+    "last_update": "2025-12-08 12:31:18",
+    "song": {
+      "musicAuthor": "Blink 182",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048510538b48c180256e0bdd8363f",
+      "musicTitle": "I Miss You",
+      "radio": "Rádio ROCK",
+      "startTime": "13:29"
+    },
+    "recorded_at": "2025-12-08T13:31:18.850585+01:00",
+    "raw_valid": true,
+    "song_session_id": "67966e18-f369-4807-a1ec-18aa467728d3"
+  },
+  {
+    "last_update": "2025-12-08 12:33:18",
+    "song": {
+      "musicAuthor": "Faith No More",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851e081ef6de656ee714788ea0d",
+      "musicTitle": "Epic",
+      "radio": "Rádio ROCK",
+      "startTime": "13:32"
+    },
+    "recorded_at": "2025-12-08T13:33:18.977341+01:00",
+    "raw_valid": true,
+    "song_session_id": "6bef6b4b-1a7b-4d00-bea3-ef06727d8bb1"
+  },
+  {
+    "last_update": "2025-12-08 12:38:19",
+    "song": {
+      "musicAuthor": "Smash Mouth",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048514f3bbf9631faeb8de9912a23",
+      "musicTitle": "All Star",
+      "radio": "Rádio ROCK",
+      "startTime": "13:37"
+    },
+    "recorded_at": "2025-12-08T13:38:19.834566+01:00",
+    "raw_valid": true,
+    "song_session_id": "5af1eaec-fec9-490b-840c-d002186065ba"
+  },
+  {
+    "last_update": "2025-12-08 12:42:21",
+    "song": {
+      "musicAuthor": "The Rolling Stones",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485100379b8904a73a542198c068",
+      "musicTitle": "Angry",
+      "radio": "Rádio ROCK",
+      "startTime": "13:41"
+    },
+    "recorded_at": "2025-12-08T13:42:21.430739+01:00",
+    "raw_valid": true,
+    "song_session_id": "1f3ca4d5-d18f-47cc-b9d3-564111ba6f16"
+  },
+  {
+    "last_update": "2025-12-08 12:46:22",
+    "song": {
+      "musicAuthor": "Horkýže Slíže",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485160348235029c408a3e558ab7",
+      "musicTitle": "Silný Refrén",
+      "radio": "Rádio ROCK",
+      "startTime": "13:45"
+    },
+    "recorded_at": "2025-12-08T13:46:22.652310+01:00",
+    "raw_valid": true,
+    "song_session_id": "eb7206f4-1a80-4999-a007-3b1f18524006"
+  },
+  {
+    "last_update": "2025-12-08 12:49:22",
+    "song": {
+      "musicAuthor": "The Red Hot Chili Peppers",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851f3686323bf737cb7ba3de792",
+      "musicTitle": "Otherside",
+      "radio": "Rádio ROCK",
+      "startTime": "13:48"
+    },
+    "recorded_at": "2025-12-08T13:49:22.927766+01:00",
+    "raw_valid": true,
+    "song_session_id": "0417d874-7086-4a6f-b007-94041ab3fbd7"
+  },
+  {
+    "last_update": "2025-12-08 12:53:23",
+    "song": {
+      "musicAuthor": "Def Leppard",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851222cb38afc3b3b47d9df26aa",
+      "musicTitle": "Pour Some Sugar On Me",
+      "radio": "Rádio ROCK",
+      "startTime": "13:53"
+    },
+    "recorded_at": "2025-12-08T13:53:23.591070+01:00",
+    "raw_valid": true,
+    "song_session_id": "be2daa89-2106-4e8f-9d74-775cfdbbbea7"
+  },
+  {
+    "last_update": "2025-12-08 12:58:24",
+    "song": {
+      "musicAuthor": "Guano Apes",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485190de79652ab78e4954dd7a8f",
+      "musicTitle": "Lords Of The Boards",
+      "radio": "Rádio ROCK",
+      "startTime": "13:58"
+    },
+    "recorded_at": "2025-12-08T13:58:24.803979+01:00",
+    "raw_valid": true,
+    "song_session_id": "bc836981-8bb1-4244-bb17-411ebf522456"
+  },
+  {
+    "last_update": "2025-12-08 13:04:26",
+    "song": {
+      "musicAuthor": "Kabát",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048518e3164854b6001e1c95f2840",
+      "musicTitle": "Šaman",
+      "radio": "Rádio ROCK",
+      "startTime": "14:03"
+    },
+    "recorded_at": "2025-12-08T14:04:27.189274+01:00",
+    "raw_valid": true,
+    "song_session_id": "28019477-569d-4d08-ad88-019246f014e3"
+  },
+  {
+    "last_update": "2025-12-08 13:07:26",
+    "song": {
+      "musicAuthor": "The Cure",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851ee8b603d6c666ba428daac30",
+      "musicTitle": "Lullaby",
+      "radio": "Rádio ROCK",
+      "startTime": "14:07"
+    },
+    "recorded_at": "2025-12-08T14:07:27.784309+01:00",
+    "raw_valid": true,
+    "song_session_id": "59c99583-9caf-45fc-b03b-d149ad4fc9ef"
+  },
+  {
+    "last_update": "2025-12-08 13:15:29",
+    "song": {
+      "musicAuthor": "Kings Of Leon",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048512519d01c0cca06f134eeadd8",
+      "musicTitle": "Sex On The Fire",
+      "radio": "Rádio ROCK",
+      "startTime": "14:14"
+    },
+    "recorded_at": "2025-12-08T14:15:29.188774+01:00",
+    "raw_valid": true,
+    "song_session_id": "dbec8a87-84c5-444f-86e0-50ff59b2a579"
+  },
+  {
+    "last_update": "2025-12-08 13:18:29",
+    "song": {
+      "musicAuthor": "The Cranberries",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851b81b7c1663be64a39433eb35",
+      "musicTitle": "Promises",
+      "radio": "Rádio ROCK",
+      "startTime": "14:17"
+    },
+    "recorded_at": "2025-12-08T14:18:29.369890+01:00",
+    "raw_valid": true,
+    "song_session_id": "71600946-4f1d-4798-9371-1a151c31ee9e"
+  },
+  {
+    "last_update": "2025-12-08 13:25:30",
+    "song": {
+      "musicAuthor": "Green Day",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485175116506a1f1140e2178197c",
+      "musicTitle": "Dilemma",
+      "radio": "Rádio ROCK",
+      "startTime": "14:24"
+    },
+    "recorded_at": "2025-12-08T14:25:30.675669+01:00",
+    "raw_valid": true,
+    "song_session_id": "0042aa89-0066-4983-b64f-7c9a5fce23ad"
+  },
+  {
+    "last_update": "2025-12-08 13:28:30",
+    "song": {
+      "musicAuthor": "Aerosmith",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851d5fdfcb083cb825348505a93",
+      "musicTitle": "Janie's Got A Gun",
+      "radio": "Rádio ROCK",
+      "startTime": "14:27"
+    },
+    "recorded_at": "2025-12-08T14:28:30.946884+01:00",
+    "raw_valid": true,
+    "song_session_id": "36cf9ff2-2106-4b85-a7c9-cfd6c548c042"
+  },
+  {
+    "last_update": "2025-12-08 13:33:31",
+    "song": {
+      "musicAuthor": "Mando Diao",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851f18145c7b83a6b0965ccb196",
+      "musicTitle": "Dance With Somebody",
+      "radio": "Rádio ROCK",
+      "startTime": "14:33"
+    },
+    "recorded_at": "2025-12-08T14:33:32.021731+01:00",
+    "raw_valid": true,
+    "song_session_id": "6bcf300a-8864-4744-8e69-1bc99a6879dd"
+  },
+  {
+    "last_update": "2025-12-08 13:37:32",
+    "song": {
+      "musicAuthor": "No Doubt",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048516ebd5e789646a833b8f7d4ba",
+      "musicTitle": "Just A Girl",
+      "radio": "Rádio ROCK",
+      "startTime": "14:37"
+    },
+    "recorded_at": "2025-12-08T14:37:32.368055+01:00",
+    "raw_valid": true,
+    "song_session_id": "0e09b705-6ecd-4e4e-abb1-9f211936ed6f"
+  },
+  {
+    "last_update": "2025-12-08 13:41:32",
+    "song": {
+      "musicAuthor": "Alien Ant Farm",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048513aa5698b9f13447a6ccc0dcc",
+      "musicTitle": "Smooth Criminal",
+      "radio": "Rádio ROCK",
+      "startTime": "14:40"
+    },
+    "recorded_at": "2025-12-08T14:41:32.735336+01:00",
+    "raw_valid": true,
+    "song_session_id": "c40e22e9-e082-4802-8bda-242b2034f631"
+  },
+  {
+    "last_update": "2025-12-08 13:44:32",
+    "song": {
+      "musicAuthor": "The Beatles",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851dc30583ba717007b00cceb25",
+      "musicTitle": "Come Together",
+      "radio": "Rádio ROCK",
+      "startTime": "14:43"
+    },
+    "recorded_at": "2025-12-08T14:44:33.014391+01:00",
+    "raw_valid": true,
+    "song_session_id": "699d5143-04b6-4d71-b80e-3aadd8dd5b0a"
+  },
+  {
+    "last_update": "2025-12-08 13:48:32",
+    "song": {
+      "musicAuthor": "Horkýže Slíže",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851f76e1b0d7745574f5f17e992",
+      "musicTitle": "A Ja Sprostá",
+      "radio": "Rádio ROCK",
+      "startTime": "14:48"
+    },
+    "recorded_at": "2025-12-08T14:48:33.577993+01:00",
+    "raw_valid": true,
+    "song_session_id": "d2053879-6600-4d67-a6a6-69e56be45e85"
+  },
+  {
+    "last_update": "2025-12-08 13:51:33",
+    "song": {
+      "musicAuthor": "Inxs",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048517ef5c661e64ec185d6180a40",
+      "musicTitle": "Disappear",
+      "radio": "Rádio ROCK",
+      "startTime": "14:51"
+    },
+    "recorded_at": "2025-12-08T14:51:33.762200+01:00",
+    "raw_valid": true,
+    "song_session_id": "d0538a78-fd97-4792-bbc7-ea4d905a1071"
+  },
+  {
+    "last_update": "2025-12-08 13:55:34",
+    "song": {
+      "musicAuthor": "The Clash",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485125a4df452a3c42ccc2e9288b",
+      "musicTitle": "Should I Stay Or Should I Go",
+      "radio": "Rádio ROCK",
+      "startTime": "14:55"
+    },
+    "recorded_at": "2025-12-08T14:55:34.851941+01:00",
+    "raw_valid": true,
+    "song_session_id": "70505dab-3cbd-4305-9014-fb0d25944191"
+  }
+]

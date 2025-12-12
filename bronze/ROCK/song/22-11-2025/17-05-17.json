@@ -1,0 +1,392 @@
+[
+  {
+    "last_update": "2025-11-22 15:09:18",
+    "song": {
+      "musicAuthor": "The Lemonheads",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485192b65c451cdaa683e214ebb1",
+      "musicTitle": "Mrs. Robinson",
+      "radio": "Rádio ROCK",
+      "startTime": "16:08"
+    },
+    "recorded_at": "2025-11-22T16:09:19.015220+01:00",
+    "raw_valid": true,
+    "song_session_id": "ea6fdadb-e672-43e4-9738-25b2aa902f1e"
+  },
+  {
+    "last_update": "2025-11-22 15:12:18",
+    "song": {
+      "musicAuthor": "Weezer",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851345536847e60f622ee0eae96",
+      "musicTitle": "Buddy Holly",
+      "radio": "Rádio ROCK",
+      "startTime": "16:12"
+    },
+    "recorded_at": "2025-11-22T16:12:19.195800+01:00",
+    "raw_valid": true,
+    "song_session_id": "c003398e-2c05-4ad7-8751-b4608df6754f"
+  },
+  {
+    "last_update": "2025-11-22 15:15:19",
+    "song": {
+      "musicAuthor": "U2",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851b7bea3d01f04e6d0408d2afe",
+      "musicTitle": "I Still Haven't Found What I'm Looking For",
+      "radio": "Rádio ROCK",
+      "startTime": "16:14"
+    },
+    "recorded_at": "2025-11-22T16:15:20.070253+01:00",
+    "raw_valid": true,
+    "song_session_id": "7ef1c48f-b0ee-47f9-a55b-a4a71078ca59"
+  },
+  {
+    "last_update": "2025-11-22 15:19:21",
+    "song": {
+      "musicAuthor": "Adams Bryan",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048518c996a02e385a1a98fa07db1",
+      "musicTitle": "Roll With The Punches",
+      "radio": "Rádio ROCK",
+      "startTime": "16:19"
+    },
+    "recorded_at": "2025-11-22T16:19:21.698128+01:00",
+    "raw_valid": true,
+    "song_session_id": "5d61d84e-c36a-4d84-b3b7-fe197240e482"
+  },
+  {
+    "last_update": "2025-11-22 15:23:22",
+    "song": {
+      "musicAuthor": "The White Stripes",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851a69f71a8794e2d867a52f98f",
+      "musicTitle": "Seven Nation Army",
+      "radio": "Rádio ROCK",
+      "startTime": "16:22"
+    },
+    "recorded_at": "2025-11-22T16:23:22.510521+01:00",
+    "raw_valid": true,
+    "song_session_id": "02e59e2a-61de-4acf-b8e0-c08b1dd0ab3e"
+  },
+  {
+    "last_update": "2025-11-22 15:27:23",
+    "song": {
+      "musicAuthor": "Def Leppard",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851e45161990e83649071399525",
+      "musicTitle": "Photograph",
+      "radio": "Rádio ROCK",
+      "startTime": "16:26"
+    },
+    "recorded_at": "2025-11-22T16:27:23.911578+01:00",
+    "raw_valid": true,
+    "song_session_id": "198ad534-95c9-4120-abe8-9faf91f7c004"
+  },
+  {
+    "last_update": "2025-11-22 15:31:23",
+    "song": {
+      "musicAuthor": "Faith No More",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485136842671366bfeb3d7c5f19e",
+      "musicTitle": "Midlife Crisis",
+      "radio": "Rádio ROCK",
+      "startTime": "16:30"
+    },
+    "recorded_at": "2025-11-22T16:31:24.278388+01:00",
+    "raw_valid": true,
+    "song_session_id": "1daa4704-9781-4b6b-aebc-594ed57f94b0"
+  },
+  {
+    "last_update": "2025-11-22 15:35:24",
+    "song": {
+      "musicAuthor": "Placebo",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048516745a70abfc25f45612c4d32",
+      "musicTitle": "The Bitter End",
+      "radio": "Rádio ROCK",
+      "startTime": "16:34"
+    },
+    "recorded_at": "2025-11-22T16:35:25.646488+01:00",
+    "raw_valid": true,
+    "song_session_id": "2080bd6c-eb89-4e0a-9d09-066c9125c057"
+  },
+  {
+    "last_update": "2025-11-22 15:38:26",
+    "song": {
+      "musicAuthor": "Chumbawamba",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048516cfc470251e23a7bb6a38d66",
+      "musicTitle": "Tubthumping",
+      "radio": "Rádio ROCK",
+      "startTime": "16:38"
+    },
+    "recorded_at": "2025-11-22T16:38:26.398298+01:00",
+    "raw_valid": true,
+    "song_session_id": "68aec71e-c941-4430-a7f1-b80bd0144dc5"
+  },
+  {
+    "last_update": "2025-11-22 15:42:26",
+    "song": {
+      "musicAuthor": "Queen",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048515be5f807f6f0549e198a44b4",
+      "musicTitle": "Radio Ga Ga",
+      "radio": "Rádio ROCK",
+      "startTime": "16:41"
+    },
+    "recorded_at": "2025-11-22T16:42:26.909433+01:00",
+    "raw_valid": true,
+    "song_session_id": "c0f44eeb-abc3-4a8b-af5f-9c1c4fb071e5"
+  },
+  {
+    "last_update": "2025-11-22 15:48:27",
+    "song": {
+      "musicAuthor": "Blink 182",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048510538b48c180256e0bdd8363f",
+      "musicTitle": "Feeling This",
+      "radio": "Rádio ROCK",
+      "startTime": "16:47"
+    },
+    "recorded_at": "2025-11-22T16:48:27.747573+01:00",
+    "raw_valid": true,
+    "song_session_id": "5a2c6321-5903-4b11-82e6-4a72dffbe366"
+  },
+  {
+    "last_update": "2025-11-22 15:51:28",
+    "song": {
+      "musicAuthor": "Aerosmith",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851d5fdfcb083cb825348505a93",
+      "musicTitle": "Love In An Elevator",
+      "radio": "Rádio ROCK",
+      "startTime": "16:50"
+    },
+    "recorded_at": "2025-11-22T16:51:28.623025+01:00",
+    "raw_valid": true,
+    "song_session_id": "e40e8143-5084-4ca1-b55c-6098d58efad0"
+  },
+  {
+    "last_update": "2025-11-22 15:57:29",
+    "song": {
+      "musicAuthor": "Horkýže Slíže",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485160348235029c408a3e558ab7",
+      "musicTitle": "Emanuel Bacigala",
+      "radio": "Rádio ROCK",
+      "startTime": "16:56"
+    },
+    "recorded_at": "2025-11-22T16:57:30.647192+01:00",
+    "raw_valid": true,
+    "song_session_id": "d7d7c386-cb99-4fa2-90e7-ec43c502a7b9"
+  },
+  {
+    "last_update": "2025-11-22 15:59:29",
+    "song": {
+      "musicAuthor": "Alanis Morissette",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851242e643ea07118ecf677a6ef",
+      "musicTitle": "You Oughta Know",
+      "radio": "Rádio ROCK",
+      "startTime": "16:58"
+    },
+    "recorded_at": "2025-11-22T16:59:30.778680+01:00",
+    "raw_valid": true,
+    "song_session_id": "6178a871-e731-424e-8b9f-25dcce101bfb"
+  },
+  {
+    "last_update": "2025-11-22 16:03:31",
+    "song": {
+      "musicAuthor": "Linkin Park",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485146e207de66ba06422897f769",
+      "musicTitle": "What I've Done",
+      "radio": "Rádio ROCK",
+      "startTime": "17:02"
+    },
+    "recorded_at": "2025-11-22T17:03:32.415957+01:00",
+    "raw_valid": true,
+    "song_session_id": "36073150-2703-4794-acdd-59aca4180fd8"
+  },
+  {
+    "last_update": "2025-11-22 16:07:32",
+    "song": {
+      "musicAuthor": "Nirvana",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485136c5417732e53e23cb219246",
+      "musicTitle": "Man Who Sold The World",
+      "radio": "Rádio ROCK",
+      "startTime": "17:06"
+    },
+    "recorded_at": "2025-11-22T17:07:32.991613+01:00",
+    "raw_valid": true,
+    "song_session_id": "8884fcb3-8b26-4b85-8a31-d84fc07481d5"
+  },
+  {
+    "last_update": "2025-11-22 16:10:33",
+    "song": {
+      "musicAuthor": "Bruce Springsteen",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851a7865e686c36a4adda6c9978",
+      "musicTitle": "Born In The U.S.A.",
+      "radio": "Rádio ROCK",
+      "startTime": "17:10"
+    },
+    "recorded_at": "2025-11-22T17:10:33.412265+01:00",
+    "raw_valid": true,
+    "song_session_id": "7279f684-ecc4-4cc8-b885-25337c02370c"
+  },
+  {
+    "last_update": "2025-11-22 16:15:33",
+    "song": {
+      "musicAuthor": "Arctic Monkeys",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048514ae1c4c5c45aabe565499163",
+      "musicTitle": "R U Mine",
+      "radio": "Rádio ROCK",
+      "startTime": "17:14"
+    },
+    "recorded_at": "2025-11-22T17:15:34.131978+01:00",
+    "raw_valid": true,
+    "song_session_id": "3f2b92fb-3279-4cc6-85c7-d6ca401c1764"
+  },
+  {
+    "last_update": "2025-11-22 16:19:33",
+    "song": {
+      "musicAuthor": "Electric Callboy",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485147f20c3f01aa0c731ac82d23",
+      "musicTitle": "We Got The Moves",
+      "radio": "Rádio ROCK",
+      "startTime": "17:17"
+    },
+    "recorded_at": "2025-11-22T17:19:34.735485+01:00",
+    "raw_valid": true,
+    "song_session_id": "03ea4690-2ec9-49c0-9582-221646862297"
+  },
+  {
+    "last_update": "2025-11-22 16:22:34",
+    "song": {
+      "musicAuthor": "Ine Kafe",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851488d72c3998d55463bc8be0f",
+      "musicTitle": "Ked Odchadza Niekto",
+      "radio": "Rádio ROCK",
+      "startTime": "17:21"
+    },
+    "recorded_at": "2025-11-22T17:22:35.205157+01:00",
+    "raw_valid": true,
+    "song_session_id": "ce752355-a72f-4e2e-9bdc-10f3129c1591"
+  },
+  {
+    "last_update": "2025-11-22 16:26:34",
+    "song": {
+      "musicAuthor": "Twisted Sister",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851053893102d89b4f6d0e1354a",
+      "musicTitle": "We Are Not Gonna Take It",
+      "radio": "Rádio ROCK",
+      "startTime": "17:25"
+    },
+    "recorded_at": "2025-11-22T17:26:35.525721+01:00",
+    "raw_valid": true,
+    "song_session_id": "55097062-147f-4eda-bc22-cc684ab1632e"
+  },
+  {
+    "last_update": "2025-11-22 16:29:35",
+    "song": {
+      "musicAuthor": "Ozzy Osbourne",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851c2b61984b54ad58c8d6fdd19",
+      "musicTitle": "Mama, I'm Coming Home",
+      "radio": "Rádio ROCK",
+      "startTime": "17:29"
+    },
+    "recorded_at": "2025-11-22T17:29:36.426723+01:00",
+    "raw_valid": true,
+    "song_session_id": "0fea8103-961d-49cd-b398-67de71827141"
+  },
+  {
+    "last_update": "2025-11-22 16:34:07",
+    "song": {
+      "musicAuthor": "Foo Fighters",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048516c44679425e2695001b35d72",
+      "musicTitle": "The Best Of You",
+      "radio": "Rádio ROCK",
+      "startTime": "17:33"
+    },
+    "recorded_at": "2025-11-22T17:34:08.058435+01:00",
+    "raw_valid": true,
+    "song_session_id": "0877b14c-351a-40fa-bd44-dbff7ffdd1d5"
+  },
+  {
+    "last_update": "2025-11-22 16:38:08",
+    "song": {
+      "musicAuthor": "Nickelback",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485107fb7d8037f3962394c493ca",
+      "musicTitle": "Photograph",
+      "radio": "Rádio ROCK",
+      "startTime": "17:37"
+    },
+    "recorded_at": "2025-11-22T17:38:08.522722+01:00",
+    "raw_valid": true,
+    "song_session_id": "70841b90-90d6-443e-8229-2d66fd027be9"
+  },
+  {
+    "last_update": "2025-11-22 16:42:11",
+    "song": {
+      "musicAuthor": "R.E.M.",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851ee83254432bbea156d10763f",
+      "musicTitle": "What's The Frequency Kenneth?",
+      "radio": "Rádio ROCK",
+      "startTime": "17:41"
+    },
+    "recorded_at": "2025-11-22T17:42:11.436009+01:00",
+    "raw_valid": true,
+    "song_session_id": "cde90d03-03a2-4790-9c00-a6e6b0fb7c6f"
+  },
+  {
+    "last_update": "2025-11-22 16:46:11",
+    "song": {
+      "musicAuthor": "Doors, The",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485120783882533e669760741df2",
+      "musicTitle": "Riders On The Storm",
+      "radio": "Rádio ROCK",
+      "startTime": "17:45"
+    },
+    "recorded_at": "2025-11-22T17:46:12.103876+01:00",
+    "raw_valid": true,
+    "song_session_id": "7068176a-a840-4c17-926e-b3e568827ed1"
+  },
+  {
+    "last_update": "2025-11-22 16:52:13",
+    "song": {
+      "musicAuthor": "Placebo",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851ac68d5f575b62ee76a235396",
+      "musicTitle": "Every You, Every Me",
+      "radio": "Rádio ROCK",
+      "startTime": "17:52"
+    },
+    "recorded_at": "2025-11-22T17:52:13.671843+01:00",
+    "raw_valid": true,
+    "song_session_id": "36cfde44-9c69-4ed2-9ec5-002bf23a47b1"
+  },
+  {
+    "last_update": "2025-11-22 16:56:13",
+    "song": {
+      "musicAuthor": "Rammstein",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851cbe7573e1175f842e24b34c2",
+      "musicTitle": "Amerika",
+      "radio": "Rádio ROCK",
+      "startTime": "17:55"
+    },
+    "recorded_at": "2025-11-22T17:56:14.484089+01:00",
+    "raw_valid": true,
+    "song_session_id": "c0061fec-47ae-4a22-9a46-4df98c8c0a2d"
+  },
+  {
+    "last_update": "2025-11-22 17:00:14",
+    "song": {
+      "musicAuthor": "The Who",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851fe24dcd263c08c6dd84b6e8c",
+      "musicTitle": "Behind Blue Eyes",
+      "radio": "Rádio ROCK",
+      "startTime": "17:59"
+    },
+    "recorded_at": "2025-11-22T18:00:14.786969+01:00",
+    "raw_valid": true,
+    "song_session_id": "79486d70-85ef-4cec-9b64-3a10a6301e73"
+  },
+  {
+    "last_update": "2025-11-22 17:04:14",
+    "song": {
+      "musicAuthor": "3 Doors Down",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048512868c4713a3912fd476b42f1",
+      "musicTitle": "Kryptonite",
+      "radio": "Rádio ROCK",
+      "startTime": "18:03"
+    },
+    "recorded_at": "2025-11-22T18:04:15.059317+01:00",
+    "raw_valid": true,
+    "song_session_id": "b1a66557-1bce-44c6-bf9f-309064bc35e3"
+  }
+]

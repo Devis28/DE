@@ -1,0 +1,379 @@
+[
+  {
+    "last_update": "2025-11-10 11:05:25",
+    "song": {
+      "musicAuthor": "Jimi Hendrix",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851c9adfbd773852e286faed040",
+      "musicTitle": "Hey Joe",
+      "radio": "Rádio ROCK",
+      "startTime": "12:04"
+    },
+    "recorded_at": "2025-11-10T12:05:26.556874+01:00",
+    "raw_valid": true,
+    "song_session_id": "01c7ec32-5364-48f1-b0a7-7f53307caa14"
+  },
+  {
+    "last_update": "2025-11-10 11:08:25",
+    "song": {
+      "musicAuthor": "Horkyže Sliže",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851911995709754b328f466267c",
+      "musicTitle": "Atomový Kryt",
+      "radio": "Rádio ROCK",
+      "startTime": "12:08"
+    },
+    "recorded_at": "2025-11-10T12:08:26.747168+01:00",
+    "raw_valid": true,
+    "song_session_id": "67e9a474-0333-4504-8754-e6b068982169"
+  },
+  {
+    "last_update": "2025-11-10 11:13:28",
+    "song": {
+      "musicAuthor": "The Bloodhound Gang",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851d6d86be2779b5b6b4980feb9",
+      "musicTitle": "The Bad Touch",
+      "radio": "Rádio ROCK",
+      "startTime": "12:12"
+    },
+    "recorded_at": "2025-11-10T12:13:28.393911+01:00",
+    "raw_valid": true,
+    "song_session_id": "f047d052-d180-4174-941a-d492191cf40f"
+  },
+  {
+    "last_update": "2025-11-10 11:17:27",
+    "song": {
+      "musicAuthor": "People R Ugly",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851159d7f4000f146418bb5daa0",
+      "musicTitle": "Whats Up?",
+      "radio": "Rádio ROCK",
+      "startTime": "12:16"
+    },
+    "recorded_at": "2025-11-10T12:17:28.652364+01:00",
+    "raw_valid": true,
+    "song_session_id": "00dbeb60-9848-4bc6-b9ca-09d55e7a2921"
+  },
+  {
+    "last_update": "2025-11-10 11:21:29",
+    "song": {
+      "musicAuthor": "Scorpions",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485111c2cc2ef9cada4f6bd84690",
+      "musicTitle": "Rock You Like A Hurricane",
+      "radio": "Rádio ROCK",
+      "startTime": "12:20"
+    },
+    "recorded_at": "2025-11-10T12:21:29.595018+01:00",
+    "raw_valid": true,
+    "song_session_id": "8d47bb2e-33e2-4688-bc0d-ce256e4fa8e1"
+  },
+  {
+    "last_update": "2025-11-10 11:25:29",
+    "song": {
+      "musicAuthor": "Travis",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851a3af1ff0ed981bf3d9353af8",
+      "musicTitle": "Side",
+      "radio": "Rádio ROCK",
+      "startTime": "12:24"
+    },
+    "recorded_at": "2025-11-10T12:25:30.135834+01:00",
+    "raw_valid": true,
+    "song_session_id": "d4d2eb43-9c54-4ae1-ba4d-c488cdc1a44a"
+  },
+  {
+    "last_update": "2025-11-10 11:29:31",
+    "song": {
+      "musicAuthor": "Metallica",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851cf84c5b276431b473e924802",
+      "musicTitle": "The Unforgiven",
+      "radio": "Rádio ROCK",
+      "startTime": "12:28"
+    },
+    "recorded_at": "2025-11-10T12:29:31.986758+01:00",
+    "raw_valid": true,
+    "song_session_id": "7b6cb251-80c2-4cb3-8d23-e317147150fb"
+  },
+  {
+    "last_update": "2025-11-10 11:35:32",
+    "song": {
+      "musicAuthor": "Crazy Town",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851be3d60f650c3b9dbad061f7f",
+      "musicTitle": "Butterfly",
+      "radio": "Rádio ROCK",
+      "startTime": "12:34"
+    },
+    "recorded_at": "2025-11-10T12:35:33.097076+01:00",
+    "raw_valid": true,
+    "song_session_id": "cafefca4-52e1-4618-9aa7-0cb52c6bb5bc"
+  },
+  {
+    "last_update": "2025-11-10 11:38:33",
+    "song": {
+      "musicAuthor": "The Sex Pistols",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851b691fa29c123b5fc4bc5d469",
+      "musicTitle": "Anarchy In The Uk",
+      "radio": "Rádio ROCK",
+      "startTime": "12:37"
+    },
+    "recorded_at": "2025-11-10T12:38:33.297549+01:00",
+    "raw_valid": true,
+    "song_session_id": "8897475a-c3f8-4278-88ee-553b18667b0f"
+  },
+  {
+    "last_update": "2025-11-10 11:42:32",
+    "song": {
+      "musicAuthor": "Red Hot Chili Peppers",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485109fd83d32aee93dceba78517",
+      "musicTitle": "Tell Me Baby",
+      "radio": "Rádio ROCK",
+      "startTime": "12:41"
+    },
+    "recorded_at": "2025-11-10T12:42:33.814623+01:00",
+    "raw_valid": true,
+    "song_session_id": "549d670b-0fb2-4e2e-8d03-6609d3227a9f"
+  },
+  {
+    "last_update": "2025-11-10 11:46:33",
+    "song": {
+      "musicAuthor": "Foo Fighters",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048510389027010b78a5e7dce426b",
+      "musicTitle": "My Hero",
+      "radio": "Rádio ROCK",
+      "startTime": "12:46"
+    },
+    "recorded_at": "2025-11-10T12:46:34.109156+01:00",
+    "raw_valid": true,
+    "song_session_id": "d1bbcfb4-f138-4427-8f3e-489250bd0558"
+  },
+  {
+    "last_update": "2025-11-10 11:50:34",
+    "song": {
+      "musicAuthor": "Tom Petty And The Heartbreakers",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048519408f4aa5294b0573bab2ed2",
+      "musicTitle": "Free Fallin",
+      "radio": "Rádio ROCK",
+      "startTime": "12:50"
+    },
+    "recorded_at": "2025-11-10T12:50:35.051676+01:00",
+    "raw_valid": true,
+    "song_session_id": "b26a2c4f-b1e1-46ea-b0b7-ae4d9dafe3e4"
+  },
+  {
+    "last_update": "2025-11-10 11:55:34",
+    "song": {
+      "musicAuthor": "Simple Plan",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851fa258256ced1ce3a7fa0246a",
+      "musicTitle": "Welcome To My Life",
+      "radio": "Rádio ROCK",
+      "startTime": "12:54"
+    },
+    "recorded_at": "2025-11-10T12:55:35.359980+01:00",
+    "raw_valid": true,
+    "song_session_id": "4e60d58f-62e6-49a9-9712-a63102ca3129"
+  },
+  {
+    "last_update": "2025-11-10 11:58:35",
+    "song": {
+      "musicAuthor": "Nirvana",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851fbc71c99f9c1296c56dd51b6",
+      "musicTitle": "Come As You Are",
+      "radio": "Rádio ROCK",
+      "startTime": "12:57"
+    },
+    "recorded_at": "2025-11-10T12:58:36.546405+01:00",
+    "raw_valid": true,
+    "song_session_id": "15efbf49-5fc5-4946-96f9-a5ce452fd8da"
+  },
+  {
+    "last_update": "2025-11-10 12:02:36",
+    "song": {
+      "musicAuthor": "The White Stripes",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851a69f71a8794e2d867a52f98f",
+      "musicTitle": "Seven Nation Army",
+      "radio": "Rádio ROCK",
+      "startTime": "13:01"
+    },
+    "recorded_at": "2025-11-10T13:02:36.825552+01:00",
+    "raw_valid": true,
+    "song_session_id": "e88dad96-0c86-4643-a199-5dffdbc56f47"
+  },
+  {
+    "last_update": "2025-11-10 12:06:36",
+    "song": {
+      "musicAuthor": "Ac Dc",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048510b51f8d91f3a21e8426361ae",
+      "musicTitle": "Back In Black",
+      "radio": "Rádio ROCK",
+      "startTime": "13:05"
+    },
+    "recorded_at": "2025-11-10T13:06:37.082131+01:00",
+    "raw_valid": true,
+    "song_session_id": "532b9a63-22ef-42a7-8a17-2682d6ea71ba"
+  },
+  {
+    "last_update": "2025-11-10 12:11:36",
+    "song": {
+      "musicAuthor": "Lenny Kravitz",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851f1157b7dcd21bae0c2c75d89",
+      "musicTitle": "Fly Away",
+      "radio": "Rádio ROCK",
+      "startTime": "13:11"
+    },
+    "recorded_at": "2025-11-10T13:11:37.438303+01:00",
+    "raw_valid": true,
+    "song_session_id": "2288775a-4dd5-407c-bca2-ab87a089c633"
+  },
+  {
+    "last_update": "2025-11-10 12:15:08",
+    "song": {
+      "musicAuthor": "Kings Of Leon",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048512519d01c0cca06f134eeadd8",
+      "musicTitle": "Use Somebody",
+      "radio": "Rádio ROCK",
+      "startTime": "13:14"
+    },
+    "recorded_at": "2025-11-10T13:15:08.484548+01:00",
+    "raw_valid": true,
+    "song_session_id": "c43dd18b-422a-4449-8d04-6dfaa3045dc1"
+  },
+  {
+    "last_update": "2025-11-10 12:18:08",
+    "song": {
+      "musicAuthor": "Guns 'n' Roses",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485168384dd85fd5e95831252f60",
+      "musicTitle": "Sweet Child O' Mine",
+      "radio": "Rádio ROCK",
+      "startTime": "13:18"
+    },
+    "recorded_at": "2025-11-10T13:18:08.787180+01:00",
+    "raw_valid": true,
+    "song_session_id": "4feffe05-0dd1-4d9d-adf9-76663073d121"
+  },
+  {
+    "last_update": "2025-11-10 12:25:09",
+    "song": {
+      "musicAuthor": "Bachmann-Turner Overdrive",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851fe44d6d9e182758f2b0582c8",
+      "musicTitle": "You Ain't Seen Nothin' Yet",
+      "radio": "Rádio ROCK",
+      "startTime": "13:24"
+    },
+    "recorded_at": "2025-11-10T13:25:09.491333+01:00",
+    "raw_valid": true,
+    "song_session_id": "bcdaf317-2110-4d15-8a8f-2215a1e76812"
+  },
+  {
+    "last_update": "2025-11-10 12:29:09",
+    "song": {
+      "musicAuthor": "Linkin Park",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851e2f039481babe23658fc719a",
+      "musicTitle": "In The End",
+      "radio": "Rádio ROCK",
+      "startTime": "13:28"
+    },
+    "recorded_at": "2025-11-10T13:29:09.862389+01:00",
+    "raw_valid": true,
+    "song_session_id": "b7dc35b1-c62d-4be3-b45e-706ab5ae1cc3"
+  },
+  {
+    "last_update": "2025-11-10 12:32:09",
+    "song": {
+      "musicAuthor": "Foreigner",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485159b0b3bb6cbc0b5a32e1b417",
+      "musicTitle": "Say You Will",
+      "radio": "Rádio ROCK",
+      "startTime": "13:31"
+    },
+    "recorded_at": "2025-11-10T13:32:10.286808+01:00",
+    "raw_valid": true,
+    "song_session_id": "53852f70-8d83-470f-bd94-65e2d2ef9ec0"
+  },
+  {
+    "last_update": "2025-11-10 12:36:10",
+    "song": {
+      "musicAuthor": "The Offspring",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048510158cbde70672dd821972907",
+      "musicTitle": "Gotta Get Away",
+      "radio": "Rádio ROCK",
+      "startTime": "13:36"
+    },
+    "recorded_at": "2025-11-10T13:36:10.552400+01:00",
+    "raw_valid": true,
+    "song_session_id": "28608ec1-d159-48d7-98a0-24e9b1e658a1"
+  },
+  {
+    "last_update": "2025-11-10 12:41:11",
+    "song": {
+      "musicAuthor": "Cranberries, The",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485172d481a5999197ef5f42f796",
+      "musicTitle": "Zombie",
+      "radio": "Rádio ROCK",
+      "startTime": "13:40"
+    },
+    "recorded_at": "2025-11-10T13:41:11.484221+01:00",
+    "raw_valid": true,
+    "song_session_id": "4ddd8ed4-2193-4b22-a038-5328b58aad70"
+  },
+  {
+    "last_update": "2025-11-10 12:46:11",
+    "song": {
+      "musicAuthor": "Survivor",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048514ea1fd36ef7d78214011371c",
+      "musicTitle": "Burning Heart",
+      "radio": "Rádio ROCK",
+      "startTime": "13:45"
+    },
+    "recorded_at": "2025-11-10T13:46:12.564686+01:00",
+    "raw_valid": true,
+    "song_session_id": "bcff3800-41d9-44d3-a6d6-d82c449e7793"
+  },
+  {
+    "last_update": "2025-11-10 12:50:11",
+    "song": {
+      "musicAuthor": "Kabát",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851920aa71d8d923b8f3ed44186",
+      "musicTitle": "Dole V Dole",
+      "radio": "Rádio ROCK",
+      "startTime": "13:49"
+    },
+    "recorded_at": "2025-11-10T13:50:12.842617+01:00",
+    "raw_valid": true,
+    "song_session_id": "52f6bfc7-eaad-441f-9b67-c23339fd645c"
+  },
+  {
+    "last_update": "2025-11-10 12:52:12",
+    "song": {
+      "musicAuthor": "The Red Hot Chili Peppers",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851153d79816d853f2694b2cc70",
+      "musicTitle": "Under The Bridge",
+      "radio": "Rádio ROCK",
+      "startTime": "13:51"
+    },
+    "recorded_at": "2025-11-10T13:52:12.959160+01:00",
+    "raw_valid": true,
+    "song_session_id": "eb2de965-a726-442c-833a-631e6474f813"
+  },
+  {
+    "last_update": "2025-11-10 12:57:12",
+    "song": {
+      "musicAuthor": "Iron Maiden",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048515c29a88ba5341ca428f0c322",
+      "musicTitle": "Run To The Hills",
+      "radio": "Rádio ROCK",
+      "startTime": "13:56"
+    },
+    "recorded_at": "2025-11-10T13:57:13.360923+01:00",
+    "raw_valid": true,
+    "song_session_id": "2e8f1ffc-0f06-4c59-9e47-72240e76fef8"
+  },
+  {
+    "last_update": "2025-11-10 13:01:14",
+    "song": {
+      "musicAuthor": "Iné Kafe",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048518505682353250894f1d0a0fd",
+      "musicTitle": "Ružová Záhrada",
+      "radio": "Rádio ROCK",
+      "startTime": "14:01"
+    },
+    "recorded_at": "2025-11-10T14:01:14.868569+01:00",
+    "raw_valid": true,
+    "song_session_id": "3c6d16a7-52f4-4076-be2c-cdd8d11f3df5"
+  }
+]

@@ -1,0 +1,54 @@
+[
+  {
+    "last_update": "2025-11-04 18:12:14",
+    "song": {
+      "musicAuthor": "Bryan Adams",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851cf1fee2a55e98e22bf358512",
+      "musicTitle": "Heaven",
+      "radio": "Rádio ROCK",
+      "startTime": "19:09"
+    },
+    "recorded_at": "2025-11-04T19:12:14.819199+01:00",
+    "raw_valid": true,
+    "song_session_id": "9ee509a7-98dd-4427-840e-43a6b2090277"
+  },
+  {
+    "last_update": "2025-11-04 18:14:13",
+    "song": {
+      "musicAuthor": "Sum 41",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851a7af96024a78654541fccc20",
+      "musicTitle": "Rise Up",
+      "radio": "Rádio ROCK",
+      "startTime": "19:13"
+    },
+    "recorded_at": "2025-11-04T19:14:14.975737+01:00",
+    "raw_valid": true,
+    "song_session_id": "eaa86afc-c1b0-4cfc-bc4e-460274f5982c"
+  },
+  {
+    "last_update": "2025-11-04 18:17:15",
+    "song": {
+      "musicAuthor": "The Offspring",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048510158cbde70672dd821972907",
+      "musicTitle": "Gotta Get Away",
+      "radio": "Rádio ROCK",
+      "startTime": "19:17"
+    },
+    "recorded_at": "2025-11-04T19:17:15.618867+01:00",
+    "raw_valid": true,
+    "song_session_id": "f0d481cb-037b-40b6-a612-5f22aa5bbd74"
+  },
+  {
+    "last_update": "2025-11-04 18:21:15",
+    "song": {
+      "musicAuthor": "Audioslave",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851a7292b6863258e889b78d787",
+      "musicTitle": "Like A Stone",
+      "radio": "Rádio ROCK",
+      "startTime": "19:20"
+    },
+    "recorded_at": "2025-11-04T19:21:17.126322+01:00",
+    "raw_valid": true,
+    "song_session_id": "8a816dd2-5908-4c48-a3c2-4a271977f9d6"
+  }
+]

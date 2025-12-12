@@ -1,0 +1,412 @@
+[
+  {
+    "song": "Be Mine",
+    "artists": [
+      "Kamrad"
+    ],
+    "isrc": "DE1NJ2500035",
+    "start_time": "2025-11-18 20:05:16",
+    "radio": "expres",
+    "recorded_at": "2025-11-18T20:05:53.270797+01:00",
+    "raw_valid": true,
+    "song_session_id": "3ff8d997-f408-4bfb-9d8e-27902e652f50"
+  },
+  {
+    "song": "Strong Enough",
+    "artists": [
+      "Cher"
+    ],
+    "isrc": "GBAHT9803037",
+    "start_time": "2025-11-18 20:08:04",
+    "radio": "expres",
+    "recorded_at": "2025-11-18T20:08:37.709855+01:00",
+    "raw_valid": true,
+    "song_session_id": "9b07cad2-5656-4673-8ea3-601d9042918b"
+  },
+  {
+    "song": "Rock N Roll",
+    "artists": [
+      "Leony",
+      "G-Eazy"
+    ],
+    "isrc": "DEN062400703",
+    "start_time": "2025-11-18 20:11:23",
+    "radio": "expres",
+    "recorded_at": "2025-11-18T20:11:56.074754+01:00",
+    "raw_valid": true,
+    "song_session_id": "a60bf135-0ee0-475e-83fd-e4e9429782e5"
+  },
+  {
+    "song": "Ma Cherie",
+    "artists": [
+      "Dj Antoine"
+    ],
+    "isrc": "CH4881000515",
+    "start_time": "2025-11-18 20:14:19",
+    "radio": "expres",
+    "recorded_at": "2025-11-18T20:14:54.312486+01:00",
+    "raw_valid": true,
+    "song_session_id": "62c3b08f-33f3-4403-b3f9-c8590ce1b4e6"
+  },
+  {
+    "song": "Eternity",
+    "artists": [
+      "Alex Warren"
+    ],
+    "isrc": "USAT22503779",
+    "start_time": "2025-11-18 20:17:23",
+    "radio": "expres",
+    "recorded_at": "2025-11-18T20:17:57.640202+01:00",
+    "raw_valid": true,
+    "song_session_id": "f60817f6-654a-45e1-86b0-4530d3ef039d"
+  },
+  {
+    "song": "Summer Of 69",
+    "artists": [
+      "Bryan Adams"
+    ],
+    "isrc": "USAM18490006",
+    "start_time": "2025-11-18 20:20:54",
+    "radio": "expres",
+    "recorded_at": "2025-11-18T20:21:20.608652+01:00",
+    "raw_valid": true,
+    "song_session_id": "ce531e0d-430d-4ee8-9503-db8f33dab8c7"
+  },
+  {
+    "song": "Beautiful People",
+    "artists": [
+      "David Guetta",
+      "Sia"
+    ],
+    "isrc": "UKWLG2500016",
+    "start_time": "2025-11-18 20:24:19",
+    "radio": "expres",
+    "recorded_at": "2025-11-18T20:24:38.939664+01:00",
+    "raw_valid": true,
+    "song_session_id": "87426aa4-472d-4683-9f67-745fd89c3775"
+  },
+  {
+    "song": "Za Tebou",
+    "artists": [
+      "Desmod"
+    ],
+    "isrc": "SKA011000057",
+    "start_time": "2025-11-18 20:27:26",
+    "radio": "expres",
+    "recorded_at": "2025-11-18T20:28:11.328772+01:00",
+    "raw_valid": true,
+    "song_session_id": "0287ed16-4dbb-4ec7-bc00-49a1e38b078a"
+  },
+  {
+    "song": "The One",
+    "artists": [
+      "Michael Patrick Kelly"
+    ],
+    "isrc": "DEE862500476",
+    "start_time": "2025-11-18 20:33:04",
+    "radio": "expres",
+    "recorded_at": "2025-11-18T20:33:32.193787+01:00",
+    "raw_valid": true,
+    "song_session_id": "26101cd6-8e53-4715-8f35-b885e50971c1"
+  },
+  {
+    "song": "Californication",
+    "artists": [
+      "Red Hot Chili Peppers"
+    ],
+    "isrc": "USWB19900690",
+    "start_time": "2025-11-18 20:36:10",
+    "radio": "expres",
+    "recorded_at": "2025-11-18T20:36:51.828250+01:00",
+    "raw_valid": true,
+    "song_session_id": "c984476f-15b5-4077-a791-3e58d582133e"
+  },
+  {
+    "song": "Superheroes",
+    "artists": [
+      "Script"
+    ],
+    "isrc": "GBARL1400978",
+    "start_time": "2025-11-18 20:39:31",
+    "radio": "expres",
+    "recorded_at": "2025-11-18T20:40:12.027833+01:00",
+    "raw_valid": true,
+    "song_session_id": "bd3ba0a4-c83b-4a65-b2bf-df3b51e12e0a"
+  },
+  {
+    "song": "Wonderful Life 25",
+    "artists": [
+      "Hurts",
+      "Purple Disco Machine"
+    ],
+    "isrc": "DEE862500677",
+    "start_time": "2025-11-18 20:43:39",
+    "radio": "expres",
+    "recorded_at": "2025-11-18T20:44:14.874355+01:00",
+    "raw_valid": true,
+    "song_session_id": "4beb5d0d-069b-480c-bee0-81cfef47cf11"
+  },
+  {
+    "song": "Miesto",
+    "artists": [
+      "Imt Smile",
+      "Ben Cristovao"
+    ],
+    "isrc": "SKA012100033",
+    "start_time": "2025-11-18 20:46:32",
+    "radio": "expres",
+    "recorded_at": "2025-11-18T20:47:13.190286+01:00",
+    "raw_valid": true,
+    "song_session_id": "cc5802be-63c9-4832-8a38-54fd6913951b"
+  },
+  {
+    "song": "Beautiful Reason",
+    "artists": [
+      "Michael Schulte"
+    ],
+    "isrc": "DECE72400963",
+    "start_time": "2025-11-18 20:50:32",
+    "radio": "expres",
+    "recorded_at": "2025-11-18T20:51:17.874113+01:00",
+    "raw_valid": true,
+    "song_session_id": "dde817cf-d02b-49cf-9e9d-57794ad06677"
+  },
+  {
+    "song": "Mad",
+    "artists": [
+      "Martin Garrix",
+      "Lauv"
+    ],
+    "isrc": "NLM5S2502535",
+    "start_time": "2025-11-18 20:53:34",
+    "radio": "expres",
+    "recorded_at": "2025-11-18T20:54:17.308053+01:00",
+    "raw_valid": true,
+    "song_session_id": "a6de5f84-f5ad-400f-a630-7f6a5a220930"
+  },
+  {
+    "song": "Untitled",
+    "artists": [
+      "Simple Plan"
+    ],
+    "isrc": "USAT20402500",
+    "start_time": "2025-11-18 20:57:08",
+    "radio": "expres",
+    "recorded_at": "2025-11-18T20:57:42.014584+01:00",
+    "raw_valid": true,
+    "song_session_id": "74719703-bd39-45eb-ad7e-2ee47bd47ff0"
+  },
+  {
+    "song": "Pre Vas Hram",
+    "artists": [
+      "Kali",
+      "Karol Duchon",
+      "Peter Pann"
+    ],
+    "isrc": "CZA232500151",
+    "start_time": "2025-11-18 21:05:23",
+    "radio": "expres",
+    "recorded_at": "2025-11-18T21:06:11.369097+01:00",
+    "raw_valid": true,
+    "song_session_id": "9cc734cf-846b-409f-a2bc-5af494892f35"
+  },
+  {
+    "song": "The Unforgiven",
+    "artists": [
+      "Metallica"
+    ],
+    "isrc": "QMKHM1900004",
+    "start_time": "2025-11-18 21:07:52",
+    "radio": "expres",
+    "recorded_at": "2025-11-18T21:08:19.140699+01:00",
+    "raw_valid": true,
+    "song_session_id": "d07e3242-3f7a-4b56-809f-67839a3358c1"
+  },
+  {
+    "song": "Glide",
+    "artists": [
+      "Neiked",
+      "Portugal The Man"
+    ],
+    "isrc": "DEE862500421",
+    "start_time": "2025-11-18 21:11:11",
+    "radio": "expres",
+    "recorded_at": "2025-11-18T21:11:37.383290+01:00",
+    "raw_valid": true,
+    "song_session_id": "e46ef329-99cf-4270-9899-43f82527e52a"
+  },
+  {
+    "song": "Echame La Culpa",
+    "artists": [
+      "Luis Fonsi",
+      "Demi Lovato"
+    ],
+    "isrc": "USUM71712163",
+    "start_time": "2025-11-18 21:14:09",
+    "radio": "expres",
+    "recorded_at": "2025-11-18T21:14:40.130309+01:00",
+    "raw_valid": true,
+    "song_session_id": "b527f83f-88b3-4a74-a991-26868bd61afa"
+  },
+  {
+    "song": "Blood Running",
+    "artists": [
+      "Ray Dalton"
+    ],
+    "isrc": "DEUM72507812",
+    "start_time": "2025-11-18 21:16:57",
+    "radio": "expres",
+    "recorded_at": "2025-11-18T21:17:32.603765+01:00",
+    "raw_valid": true,
+    "song_session_id": "d94412ad-9fd9-4dcc-9f21-116df87d8cfd"
+  },
+  {
+    "song": "Slobodna",
+    "artists": [
+      "Elan"
+    ],
+    "isrc": "SKA128343910",
+    "start_time": "2025-11-18 21:20:04",
+    "radio": "expres",
+    "recorded_at": "2025-11-18T21:20:28.528972+01:00",
+    "raw_valid": true,
+    "song_session_id": "2b54aceb-bc63-4b0e-9cc2-39ccb5b0ff8e"
+  },
+  {
+    "song": "Feel Alive",
+    "artists": [
+      "Kamrad"
+    ],
+    "isrc": "DEE862202500",
+    "start_time": "2025-11-18 21:23:27",
+    "radio": "expres",
+    "recorded_at": "2025-11-18T21:24:18.311341+01:00",
+    "raw_valid": true,
+    "song_session_id": "6077f14c-69cc-4185-b4a0-4e577a6ee8f7"
+  },
+  {
+    "song": "Spravne Dievcata",
+    "artists": [
+      "Marika Gombitova"
+    ],
+    "isrc": null,
+    "start_time": "2025-11-18 21:25:55",
+    "radio": "expres",
+    "recorded_at": "2025-11-18T21:26:29.457856+01:00",
+    "raw_valid": true,
+    "song_session_id": "dac0997c-360e-4afd-b0a5-72457eda6368"
+  },
+  {
+    "song": "Regalo",
+    "artists": [
+      "Alvaro Soler"
+    ],
+    "isrc": "DEE862500388",
+    "start_time": "2025-11-18 21:31:11",
+    "radio": "expres",
+    "recorded_at": "2025-11-18T21:31:52.491182+01:00",
+    "raw_valid": true,
+    "song_session_id": "2afded75-f59d-4afe-8d2e-8a868256145d"
+  },
+  {
+    "song": "Renesancia",
+    "artists": [
+      "Peha"
+    ],
+    "isrc": "CZA110500034",
+    "start_time": "2025-11-18 21:34:30",
+    "radio": "expres",
+    "recorded_at": "2025-11-18T21:34:56.113029+01:00",
+    "raw_valid": true,
+    "song_session_id": "a9a3eb92-e249-48d7-99cf-14ec3d0e9433"
+  },
+  {
+    "song": "The Time Of My Life",
+    "artists": [
+      "Bill Medley",
+      "Jennifer Warnes"
+    ],
+    "isrc": "USRC10300895",
+    "start_time": "2025-11-18 21:37:46",
+    "radio": "expres",
+    "recorded_at": "2025-11-18T21:38:15.364282+01:00",
+    "raw_valid": true,
+    "song_session_id": "20d08f88-daee-435a-816e-a5cd008aedc7"
+  },
+  {
+    "song": "Pride",
+    "artists": [
+      "Felix Jaehn",
+      "Jhart"
+    ],
+    "isrc": "DEUM72503423",
+    "start_time": "2025-11-18 21:42:27",
+    "radio": "expres",
+    "recorded_at": "2025-11-18T21:43:00.056197+01:00",
+    "raw_valid": true,
+    "song_session_id": "c8ff9607-4485-4c46-9867-a983b4dc562d"
+  },
+  {
+    "song": "Adiemus",
+    "artists": [
+      "Adiemus"
+    ],
+    "isrc": "GBAAA9500006",
+    "start_time": "2025-11-18 21:45:07",
+    "radio": "expres",
+    "recorded_at": "2025-11-18T21:45:41.587283+01:00",
+    "raw_valid": true,
+    "song_session_id": "03994db7-2baa-4860-aff9-d55a247f16b9"
+  },
+  {
+    "song": "Let Me Die",
+    "artists": [
+      "Mark Dann",
+      "Giovanni Ricci"
+    ],
+    "isrc": "US38Y2520370",
+    "start_time": "2025-11-18 21:48:32",
+    "radio": "expres",
+    "recorded_at": "2025-11-18T21:49:00.290217+01:00",
+    "raw_valid": true,
+    "song_session_id": "10e7d540-3f19-40f4-9ef2-2d63c70e5834"
+  },
+  {
+    "song": "Talk To Me",
+    "artists": [
+      "Damiano David",
+      "Tyla",
+      "Nile Rodgers"
+    ],
+    "isrc": "ITB002500942",
+    "start_time": "2025-11-18 21:50:50",
+    "radio": "expres",
+    "recorded_at": "2025-11-18T21:51:23.359741+01:00",
+    "raw_valid": true,
+    "song_session_id": "03d27acb-720e-46cc-9253-7257dcea7700"
+  },
+  {
+    "song": "Someone You Loved",
+    "artists": [
+      "Lewis Capaldi"
+    ],
+    "isrc": "DEUM71807062",
+    "start_time": "2025-11-18 21:54:19",
+    "radio": "expres",
+    "recorded_at": "2025-11-18T21:54:41.924959+01:00",
+    "raw_valid": true,
+    "song_session_id": "f5dc12b9-e004-4200-a7dd-3e261f683218"
+  },
+  {
+    "song": "Primetime",
+    "artists": [
+      "Majk Spirit"
+    ],
+    "isrc": "SKG401500201",
+    "start_time": "2025-11-18 21:57:15",
+    "radio": "expres",
+    "recorded_at": "2025-11-18T21:57:47.549757+01:00",
+    "raw_valid": true,
+    "song_session_id": "9805bdc3-e0ca-47db-87d4-7e687b36db79"
+  }
+]

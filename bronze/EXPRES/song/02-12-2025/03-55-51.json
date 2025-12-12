@@ -1,0 +1,430 @@
+[
+  {
+    "song": "Len S Tebou",
+    "artists": [
+      "Peter Juhas"
+    ],
+    "isrc": "SKBZ92400003",
+    "start_time": "2025-12-02 02:58:41",
+    "radio": "expres",
+    "recorded_at": "2025-12-02T02:59:15.077716+01:00",
+    "raw_valid": true,
+    "song_session_id": "4f818caf-80dd-4caf-950c-090edd966f94"
+  },
+  {
+    "song": "The One",
+    "artists": [
+      "Michael Patrick Kelly"
+    ],
+    "isrc": "DEE862500476",
+    "start_time": "2025-12-02 03:01:33",
+    "radio": "expres",
+    "recorded_at": "2025-12-02T03:01:55.169807+01:00",
+    "raw_valid": true,
+    "song_session_id": "38a6179a-49f8-402d-8915-f1710ddfbda9"
+  },
+  {
+    "song": "Nasa Laska Leti",
+    "artists": [
+      "Richard Muller"
+    ],
+    "isrc": "CZA110201001",
+    "start_time": "2025-12-02 03:04:40",
+    "radio": "expres",
+    "recorded_at": "2025-12-02T03:04:58.119608+01:00",
+    "raw_valid": true,
+    "song_session_id": "a9c0ebca-6302-403c-9b1e-c4be64b23868"
+  },
+  {
+    "song": "Beautiful Things",
+    "artists": [
+      "Benson Boone"
+    ],
+    "isrc": "USWB12307016",
+    "start_time": "2025-12-02 03:07:01",
+    "radio": "expres",
+    "recorded_at": "2025-12-02T03:07:26.315850+01:00",
+    "raw_valid": true,
+    "song_session_id": "3b7244e9-baf1-4d13-9230-e06e7be88c45"
+  },
+  {
+    "song": "Prutikar",
+    "artists": [
+      "Zuzana Smatanova",
+      "Richard Autner"
+    ],
+    "isrc": "SKI942400801",
+    "start_time": "2025-12-02 03:09:59",
+    "radio": "expres",
+    "recorded_at": "2025-12-02T03:10:19.617947+01:00",
+    "raw_valid": true,
+    "song_session_id": "36beefb0-d5ff-4c4c-a044-8ae4262c2710"
+  },
+  {
+    "song": "I Want To Know What Love Is",
+    "artists": [
+      "Foreigner"
+    ],
+    "isrc": "USAT29900662",
+    "start_time": "2025-12-02 03:14:04",
+    "radio": "expres",
+    "recorded_at": "2025-12-02T03:14:35.641778+01:00",
+    "raw_valid": true,
+    "song_session_id": "329ff3cb-9284-40e4-89bc-7cb331b5d8e2"
+  },
+  {
+    "song": "Vesmir",
+    "artists": [
+      "Lina Mayer"
+    ],
+    "isrc": "SKK312300202",
+    "start_time": "2025-12-02 03:16:42",
+    "radio": "expres",
+    "recorded_at": "2025-12-02T03:17:15.909939+01:00",
+    "raw_valid": true,
+    "song_session_id": "d3877856-b5b7-44c0-bd82-e8bf2864a8ad"
+  },
+  {
+    "song": "Man I Need",
+    "artists": [
+      "Olivia Dean"
+    ],
+    "isrc": "GBUM72503089",
+    "start_time": "2025-12-02 03:20:29",
+    "radio": "expres",
+    "recorded_at": "2025-12-02T03:20:54.660002+01:00",
+    "raw_valid": true,
+    "song_session_id": "25809bd0-eb3e-4b03-9524-0bc56faa90c8"
+  },
+  {
+    "song": "Osmy Svetadiel",
+    "artists": [
+      "Elan"
+    ],
+    "isrc": "TCAEF1942463",
+    "start_time": "2025-12-02 03:23:44",
+    "radio": "expres",
+    "recorded_at": "2025-12-02T03:24:06.445078+01:00",
+    "raw_valid": true,
+    "song_session_id": "b8a83606-e10b-4116-ab19-467c238c8d72"
+  },
+  {
+    "song": "Happy Xmas (War Is Over)",
+    "artists": [
+      "John Lennon"
+    ],
+    "isrc": "GBAYE1000862",
+    "start_time": "2025-12-02 03:27:48",
+    "radio": "expres",
+    "recorded_at": "2025-12-02T03:28:06.700999+01:00",
+    "raw_valid": true,
+    "song_session_id": "52a3f45b-7f2d-438c-ba08-3baee9e8052a"
+  },
+  {
+    "song": "Wonderful Life 25",
+    "artists": [
+      "Hurts",
+      "Purple Disco Machine"
+    ],
+    "isrc": "DEE862500677",
+    "start_time": "2025-12-02 03:31:15",
+    "radio": "expres",
+    "recorded_at": "2025-12-02T03:31:26.686658+01:00",
+    "raw_valid": true,
+    "song_session_id": "20ba39b6-985d-4b70-9a90-f9e6e3982a8d"
+  },
+  {
+    "song": "Dazd",
+    "artists": [
+      "Peter Cmorik"
+    ],
+    "isrc": "CZA210600280",
+    "start_time": "2025-12-02 03:34:13",
+    "radio": "expres",
+    "recorded_at": "2025-12-02T03:34:36.430668+01:00",
+    "raw_valid": true,
+    "song_session_id": "23fa512f-6837-44f9-8618-9dc428e966f1"
+  },
+  {
+    "song": "Just Give Me A Reason",
+    "artists": [
+      "Pink",
+      "Nate Ruess"
+    ],
+    "isrc": "USRC11200786",
+    "start_time": "2025-12-02 03:38:43",
+    "radio": "expres",
+    "recorded_at": "2025-12-02T03:39:00.452025+01:00",
+    "raw_valid": true,
+    "song_session_id": "160b6c65-f779-4789-9b72-891a4144ec6f"
+  },
+  {
+    "song": "Neviem Sa Najst",
+    "artists": [
+      "Nela"
+    ],
+    "isrc": "SKE321200201",
+    "start_time": "2025-12-02 03:42:53",
+    "radio": "expres",
+    "recorded_at": "2025-12-02T03:42:59.162376+01:00",
+    "raw_valid": true,
+    "song_session_id": "0a1898a4-4b26-468c-b006-af0db74e5792"
+  },
+  {
+    "song": "Blink Twice",
+    "artists": [
+      "Shaboozey",
+      "Myles Smith"
+    ],
+    "isrc": "USUYG1717098",
+    "start_time": "2025-12-02 03:46:22",
+    "radio": "expres",
+    "recorded_at": "2025-12-02T03:46:48.462304+01:00",
+    "raw_valid": true,
+    "song_session_id": "57ff9364-2395-4186-8dc5-9454a4b3f58a"
+  },
+  {
+    "song": "Co Vsetko Sa Moze Stat",
+    "artists": [
+      "Imt Smile"
+    ],
+    "isrc": "SKA011800060",
+    "start_time": "2025-12-02 03:48:58",
+    "radio": "expres",
+    "recorded_at": "2025-12-02T03:49:16.908763+01:00",
+    "raw_valid": true,
+    "song_session_id": "d64dea8a-341d-4c02-a0aa-d3d72c3ccc4f"
+  },
+  {
+    "song": "Every Single Day",
+    "artists": [
+      "Benassi Bros",
+      "Dhany"
+    ],
+    "isrc": "ITOOD0501603",
+    "start_time": "2025-12-02 03:52:07",
+    "radio": "expres",
+    "recorded_at": "2025-12-02T03:52:37.735719+01:00",
+    "raw_valid": true,
+    "song_session_id": "6a7ce17d-4ef9-4cbe-9809-1ec4aa229a45"
+  },
+  {
+    "song": "Maly Princ",
+    "artists": [
+      "Aya"
+    ],
+    "isrc": "CZA210700631",
+    "start_time": "2025-12-02 03:55:41",
+    "radio": "expres",
+    "recorded_at": "2025-12-02T03:55:57.406728+01:00",
+    "raw_valid": true,
+    "song_session_id": "a7a23b96-7f36-409b-ac8b-aa493d79f04b"
+  },
+  {
+    "song": "Overdrive",
+    "artists": [
+      "Ofenbach",
+      "Norma Jean Martine"
+    ],
+    "isrc": "FR9W12347222",
+    "start_time": "2025-12-02 04:00:06",
+    "radio": "expres",
+    "recorded_at": "2025-12-02T04:00:21.886002+01:00",
+    "raw_valid": true,
+    "song_session_id": "1a12ad62-f652-400b-b7d2-d6c8ca0382b3"
+  },
+  {
+    "song": "Za Tebou",
+    "artists": [
+      "Desmod"
+    ],
+    "isrc": "SKA011000057",
+    "start_time": "2025-12-02 04:02:42",
+    "radio": "expres",
+    "recorded_at": "2025-12-02T04:03:04.588881+01:00",
+    "raw_valid": true,
+    "song_session_id": "e9455671-ae5e-419d-861f-d7db28e3f014"
+  },
+  {
+    "song": "Mystical Magical",
+    "artists": [
+      "Benson Boone"
+    ],
+    "isrc": "USWB12500844",
+    "start_time": "2025-12-02 04:06:36",
+    "radio": "expres",
+    "recorded_at": "2025-12-02T04:06:49.026880+01:00",
+    "raw_valid": true,
+    "song_session_id": "802e4f6c-67db-415b-927a-13d5434437e7"
+  },
+  {
+    "song": "Kristinka Iba Spi",
+    "artists": [
+      "Peter Nagy"
+    ],
+    "isrc": "SKA128456906",
+    "start_time": "2025-12-02 04:09:26",
+    "radio": "expres",
+    "recorded_at": "2025-12-02T04:09:57.882689+01:00",
+    "raw_valid": true,
+    "song_session_id": "046ff591-10ec-4f99-9bd9-877fa99463dd"
+  },
+  {
+    "song": "When You Say Nothing At All",
+    "artists": [
+      "Ronan Keating"
+    ],
+    "isrc": "GBAKW9900139",
+    "start_time": "2025-12-02 04:14:02",
+    "radio": "expres",
+    "recorded_at": "2025-12-02T04:14:17.111937+01:00",
+    "raw_valid": true,
+    "song_session_id": "d3dac6a3-08fd-424b-a08d-9fc6e9a6a321"
+  },
+  {
+    "song": "Som V Tom",
+    "artists": [
+      "Team"
+    ],
+    "isrc": "SKA128804509",
+    "start_time": "2025-12-02 04:18:09",
+    "radio": "expres",
+    "recorded_at": "2025-12-02T04:18:21.002993+01:00",
+    "raw_valid": true,
+    "song_session_id": "5585c06c-b9ae-48ef-86bc-cf2ff9dec2ce"
+  },
+  {
+    "song": "Head Above Water",
+    "artists": [
+      "Twocolors",
+      "Safri Duo",
+      "Chris De Sarandy"
+    ],
+    "isrc": "DEUM72503698",
+    "start_time": "2025-12-02 04:21:30",
+    "radio": "expres",
+    "recorded_at": "2025-12-02T04:21:58.311098+01:00",
+    "raw_valid": true,
+    "song_session_id": "24af56b3-8cc0-41cd-bba5-edf93302b779"
+  },
+  {
+    "song": "Fukame",
+    "artists": [
+      "Adam Durica"
+    ],
+    "isrc": "SKA012100253",
+    "start_time": "2025-12-02 04:24:23",
+    "radio": "expres",
+    "recorded_at": "2025-12-02T04:24:51.540449+01:00",
+    "raw_valid": true,
+    "song_session_id": "4d1191e9-d72c-4867-971d-bb050ef33e48"
+  },
+  {
+    "song": "Houdini",
+    "artists": [
+      "Dua Lipa"
+    ],
+    "isrc": "GBAHT2301246",
+    "start_time": "2025-12-02 04:27:50",
+    "radio": "expres",
+    "recorded_at": "2025-12-02T04:28:14.927054+01:00",
+    "raw_valid": true,
+    "song_session_id": "69a7efb8-ae9f-47e5-9d02-4bec72952cff"
+  },
+  {
+    "song": "Undressed",
+    "artists": [
+      "Sombr"
+    ],
+    "isrc": "USWB12500737",
+    "start_time": "2025-12-02 04:30:53",
+    "radio": "expres",
+    "recorded_at": "2025-12-02T04:31:18.521559+01:00",
+    "raw_valid": true,
+    "song_session_id": "2f209e61-b330-4213-810e-1680a379c33e"
+  },
+  {
+    "song": "Vianocny Cas",
+    "artists": [
+      "Emma Drobna"
+    ],
+    "isrc": "SKB452300101",
+    "start_time": "2025-12-02 04:34:02",
+    "radio": "expres",
+    "recorded_at": "2025-12-02T04:34:16.629429+01:00",
+    "raw_valid": true,
+    "song_session_id": "8c974383-c18f-4bcc-aea1-b901d6c5c08f"
+  },
+  {
+    "song": "Listen To Your Heart",
+    "artists": [
+      "Roxette"
+    ],
+    "isrc": "SEAME8878130",
+    "start_time": "2025-12-02 04:36:59",
+    "radio": "expres",
+    "recorded_at": "2025-12-02T04:37:20.085052+01:00",
+    "raw_valid": true,
+    "song_session_id": "f2ab856d-06f6-4b4c-879e-90c10a1d0f74"
+  },
+  {
+    "song": "Tvoj Mono Hlas",
+    "artists": [
+      "Nocaden"
+    ],
+    "isrc": "SKA010600009",
+    "start_time": "2025-12-02 04:42:05",
+    "radio": "expres",
+    "recorded_at": "2025-12-02T04:42:19.825911+01:00",
+    "raw_valid": true,
+    "song_session_id": "f46fea6b-89f5-4923-b0e2-fb895e2f420e"
+  },
+  {
+    "song": "Zoo",
+    "artists": [
+      "Shakira"
+    ],
+    "isrc": "USWD12538420",
+    "start_time": "2025-12-02 04:45:39",
+    "radio": "expres",
+    "recorded_at": "2025-12-02T04:46:11.834379+01:00",
+    "raw_valid": true,
+    "song_session_id": "de3b8512-185a-4910-baaf-c4cd014bc555"
+  },
+  {
+    "song": "Nech Sa Deje Co Sa Ma",
+    "artists": [
+      "Zuzana Smatanova"
+    ],
+    "isrc": "CZA140500239",
+    "start_time": "2025-12-02 04:49:20",
+    "radio": "expres",
+    "recorded_at": "2025-12-02T04:49:45.269401+01:00",
+    "raw_valid": true,
+    "song_session_id": "e17d2c52-98af-4645-92b3-ea531590e53a"
+  },
+  {
+    "song": "Demons",
+    "artists": [
+      "Imagine Dragons"
+    ],
+    "isrc": "USUM71201071",
+    "start_time": "2025-12-02 04:52:04",
+    "radio": "expres",
+    "recorded_at": "2025-12-02T04:52:27.992568+01:00",
+    "raw_valid": true,
+    "song_session_id": "cbf67394-ad24-45cc-8f77-b2a83812ed9c"
+  },
+  {
+    "song": "Normalny Zivot",
+    "artists": [
+      "Sima Martausova"
+    ],
+    "isrc": "SKG081300101",
+    "start_time": "2025-12-02 04:55:04",
+    "radio": "expres",
+    "recorded_at": "2025-12-02T04:55:19.679559+01:00",
+    "raw_valid": true,
+    "song_session_id": "62eaac3a-dfd6-4533-8dbe-38b5a83cbfe0"
+  }
+]

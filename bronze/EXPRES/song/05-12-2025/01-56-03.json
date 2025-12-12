@@ -1,0 +1,419 @@
+[
+  {
+    "song": "Say It Loud",
+    "artists": [
+      "Peter Bic Project"
+    ],
+    "isrc": "SKA011200045",
+    "start_time": "2025-12-05 00:57:01",
+    "radio": "expres",
+    "recorded_at": "2025-12-05T00:57:24.931616+01:00",
+    "raw_valid": true,
+    "song_session_id": "9324df78-fc1c-4b01-ba97-16350bdfcdab"
+  },
+  {
+    "song": "Abracadabra",
+    "artists": [
+      "Lady Gaga"
+    ],
+    "isrc": "USUM72412581",
+    "start_time": "2025-12-05 01:00:57",
+    "radio": "expres",
+    "recorded_at": "2025-12-05T01:01:08.392611+01:00",
+    "raw_valid": true,
+    "song_session_id": "579ae0dc-7be1-45b0-9d10-12b70226324c"
+  },
+  {
+    "song": "Staci Si Priat",
+    "artists": [
+      "Zuzana Smatanova"
+    ],
+    "isrc": "CZA210900978",
+    "start_time": "2025-12-05 01:04:40",
+    "radio": "expres",
+    "recorded_at": "2025-12-05T01:04:51.523272+01:00",
+    "raw_valid": true,
+    "song_session_id": "6f56e308-c083-42ac-8baf-13a61afc1b67"
+  },
+  {
+    "song": "The Fate Of Ophelia",
+    "artists": [
+      "Taylor Swift"
+    ],
+    "isrc": "USUG12506436",
+    "start_time": "2025-12-05 01:08:15",
+    "radio": "expres",
+    "recorded_at": "2025-12-05T01:08:39.724229+01:00",
+    "raw_valid": true,
+    "song_session_id": "57d5acf6-e5e8-4cef-9eca-0da2d33b5587"
+  },
+  {
+    "song": "Modlitba Lasky",
+    "artists": [
+      "Robo Grigorov"
+    ],
+    "isrc": "TCAEZ2066091",
+    "start_time": "2025-12-05 01:12:06",
+    "radio": "expres",
+    "recorded_at": "2025-12-05T01:12:17.864092+01:00",
+    "raw_valid": true,
+    "song_session_id": "eedb16e8-69b6-48fa-b0f9-440cd4c82595"
+  },
+  {
+    "song": "Hot N Cold",
+    "artists": [
+      "Katy Perry"
+    ],
+    "isrc": "USCA20802544",
+    "start_time": "2025-12-05 01:16:32",
+    "radio": "expres",
+    "recorded_at": "2025-12-05T01:16:46.833430+01:00",
+    "raw_valid": true,
+    "song_session_id": "6deabbab-1634-4b84-8d62-24583aa00dde"
+  },
+  {
+    "song": "Renesancia",
+    "artists": [
+      "Peha"
+    ],
+    "isrc": "CZA110500034",
+    "start_time": "2025-12-05 01:20:17",
+    "radio": "expres",
+    "recorded_at": "2025-12-05T01:20:24.909163+01:00",
+    "raw_valid": true,
+    "song_session_id": "0e018739-e9ef-468a-987f-9ea236c076fe"
+  },
+  {
+    "song": "Head Above Water",
+    "artists": [
+      "Twocolors",
+      "Safri Duo",
+      "Chris De Sarandy"
+    ],
+    "isrc": "DEUM72503698",
+    "start_time": "2025-12-05 01:23:37",
+    "radio": "expres",
+    "recorded_at": "2025-12-05T01:23:47.946179+01:00",
+    "raw_valid": true,
+    "song_session_id": "2073a36e-3a88-4211-9d22-7e82f4348a47"
+  },
+  {
+    "song": "Indianske Leto",
+    "artists": [
+      "Hex"
+    ],
+    "isrc": "TCABR1336173",
+    "start_time": "2025-12-05 01:26:29",
+    "radio": "expres",
+    "recorded_at": "2025-12-05T01:26:50.664035+01:00",
+    "raw_valid": true,
+    "song_session_id": "57822026-6089-44e5-8f03-f747832dccc2"
+  },
+  {
+    "song": "Stars Will Align",
+    "artists": [
+      "Kygo",
+      "Imagine Dragons"
+    ],
+    "isrc": "SEBGA2401211",
+    "start_time": "2025-12-05 01:30:03",
+    "radio": "expres",
+    "recorded_at": "2025-12-05T01:30:13.576802+01:00",
+    "raw_valid": true,
+    "song_session_id": "edd8045e-8ab8-4d39-9e18-634e0504e501"
+  },
+  {
+    "song": "Regalo",
+    "artists": [
+      "Alvaro Soler"
+    ],
+    "isrc": "DEE862500388",
+    "start_time": "2025-12-05 01:33:51",
+    "radio": "expres",
+    "recorded_at": "2025-12-05T01:34:01.733778+01:00",
+    "raw_valid": true,
+    "song_session_id": "5addf3ea-3729-477e-b7ee-10d56e7a059c"
+  },
+  {
+    "song": "Vianocna Pohoda",
+    "artists": [
+      "Radio Expres",
+      "Sam Sebou",
+      "Kali"
+    ],
+    "isrc": "CZCZ42400089",
+    "start_time": "2025-12-05 01:36:59",
+    "radio": "expres",
+    "recorded_at": "2025-12-05T01:37:24.691669+01:00",
+    "raw_valid": true,
+    "song_session_id": "c7883281-b30f-412d-ae6b-d0281ffd05f7"
+  },
+  {
+    "song": "I Wanna Dance With Somebody",
+    "artists": [
+      "Whitney Houston"
+    ],
+    "isrc": "USAR18700121",
+    "start_time": "2025-12-05 01:39:45",
+    "radio": "expres",
+    "recorded_at": "2025-12-05T01:40:01.971259+01:00",
+    "raw_valid": true,
+    "song_session_id": "702795a4-d814-4b46-876d-37afced074ad"
+  },
+  {
+    "song": "V Lete ...",
+    "artists": [
+      "Imt Smile"
+    ],
+    "isrc": "SKA012100245",
+    "start_time": "2025-12-05 01:44:37",
+    "radio": "expres",
+    "recorded_at": "2025-12-05T01:44:50.966075+01:00",
+    "raw_valid": true,
+    "song_session_id": "243d628c-61df-4356-b5b3-55b49c3c55e5"
+  },
+  {
+    "song": "Man I Need",
+    "artists": [
+      "Olivia Dean"
+    ],
+    "isrc": "GBUM72503089",
+    "start_time": "2025-12-05 01:47:47",
+    "radio": "expres",
+    "recorded_at": "2025-12-05T01:48:13.893949+01:00",
+    "raw_valid": true,
+    "song_session_id": "a3ba4627-c514-4e54-bdc1-708246b8986e"
+  },
+  {
+    "song": "Cim To Je",
+    "artists": [
+      "No Name"
+    ],
+    "isrc": "SKA010500063",
+    "start_time": "2025-12-05 01:51:14",
+    "radio": "expres",
+    "recorded_at": "2025-12-05T01:51:36.800627+01:00",
+    "raw_valid": true,
+    "song_session_id": "07e0dfcb-98b5-414f-be02-893281f2ca88"
+  },
+  {
+    "song": "Impossible",
+    "artists": [
+      "James Arthur"
+    ],
+    "isrc": "GBHMU1200338",
+    "start_time": "2025-12-05 01:54:33",
+    "radio": "expres",
+    "recorded_at": "2025-12-05T01:54:59.776542+01:00",
+    "raw_valid": true,
+    "song_session_id": "63ab2df1-5a0b-4dc4-b4d4-cfacf24720d6"
+  },
+  {
+    "song": "Ako To Prezijem?",
+    "artists": [
+      "Polemic"
+    ],
+    "isrc": "CZA210000554",
+    "start_time": "2025-12-05 01:57:52",
+    "radio": "expres",
+    "recorded_at": "2025-12-05T01:58:22.692548+01:00",
+    "raw_valid": true,
+    "song_session_id": "3e9dd660-d22b-4e82-a934-7cb423aa7731"
+  },
+  {
+    "song": "Be Mine",
+    "artists": [
+      "Kamrad"
+    ],
+    "isrc": "DE1NJ2500035",
+    "start_time": "2025-12-05 02:01:14",
+    "radio": "expres",
+    "recorded_at": "2025-12-05T02:01:20.256122+01:00",
+    "raw_valid": true,
+    "song_session_id": "6cab9921-5f5e-4c84-8c5b-70b3ce6d0755"
+  },
+  {
+    "song": "Dobri Priatelia",
+    "artists": [
+      "Tublatanka"
+    ],
+    "isrc": "SKG392300109",
+    "start_time": "2025-12-05 02:04:01",
+    "radio": "expres",
+    "recorded_at": "2025-12-05T02:04:28.270742+01:00",
+    "raw_valid": true,
+    "song_session_id": "cc2e5bbb-a94f-4fe8-ac10-4dd6500d39b4"
+  },
+  {
+    "song": "Good News",
+    "artists": [
+      "Shaboozey"
+    ],
+    "isrc": "USUYG1580113",
+    "start_time": "2025-12-05 02:07:47",
+    "radio": "expres",
+    "recorded_at": "2025-12-05T02:08:06.408401+01:00",
+    "raw_valid": true,
+    "song_session_id": "8535415e-16ee-474e-82e3-016c0d4b3f11"
+  },
+  {
+    "song": "Kupim Si Pekny Den",
+    "artists": [
+      "Gladiator"
+    ],
+    "isrc": "CZA210000408",
+    "start_time": "2025-12-05 02:11:07",
+    "radio": "expres",
+    "recorded_at": "2025-12-05T02:11:34.343721+01:00",
+    "raw_valid": true,
+    "song_session_id": "9e9f614a-585f-435d-b24c-e4e77852ecbf"
+  },
+  {
+    "song": "Flashdance... What A Feeling",
+    "artists": [
+      "Irene Cara"
+    ],
+    "isrc": "CAU118300354",
+    "start_time": "2025-12-05 02:15:26",
+    "radio": "expres",
+    "recorded_at": "2025-12-05T02:15:32.804001+01:00",
+    "raw_valid": true,
+    "song_session_id": "173a191a-522d-49ec-8ee9-af4333d06314"
+  },
+  {
+    "song": "Julia Roberts",
+    "artists": [
+      "Richard Muller"
+    ],
+    "isrc": "SKA011600016",
+    "start_time": "2025-12-05 02:19:26",
+    "radio": "expres",
+    "recorded_at": "2025-12-05T02:19:36.432074+01:00",
+    "raw_valid": true,
+    "song_session_id": "413936e6-fd3a-45d5-8710-af0960e370ac"
+  },
+  {
+    "song": "Zoo",
+    "artists": [
+      "Shakira"
+    ],
+    "isrc": "USWD12538420",
+    "start_time": "2025-12-05 02:23:08",
+    "radio": "expres",
+    "recorded_at": "2025-12-05T02:23:19.628640+01:00",
+    "raw_valid": true,
+    "song_session_id": "276124a8-f3a9-4767-98cd-4134186f6c77"
+  },
+  {
+    "song": "Skoro Dospela",
+    "artists": [
+      "Miro Zbirka"
+    ],
+    "isrc": "CZUM70700182",
+    "start_time": "2025-12-05 02:26:42",
+    "radio": "expres",
+    "recorded_at": "2025-12-05T02:27:02.868955+01:00",
+    "raw_valid": true,
+    "song_session_id": "cd276799-212b-43ca-a61c-7d0e205b5a75"
+  },
+  {
+    "song": "All I Want For Christmas Is You",
+    "artists": [
+      "Mariah Carey"
+    ],
+    "isrc": "USSM19400325",
+    "start_time": "2025-12-05 02:28:50",
+    "radio": "expres",
+    "recorded_at": "2025-12-05T02:29:04.752520+01:00",
+    "raw_valid": true,
+    "song_session_id": "de987db1-d72e-401a-b4f7-6f05fe379b58"
+  },
+  {
+    "song": "The One",
+    "artists": [
+      "Michael Patrick Kelly"
+    ],
+    "isrc": "DEE862500476",
+    "start_time": "2025-12-05 02:33:24",
+    "radio": "expres",
+    "recorded_at": "2025-12-05T02:33:53.874163+01:00",
+    "raw_valid": true,
+    "song_session_id": "501a75e9-5287-4617-b925-dc8f60082c3f"
+  },
+  {
+    "song": "Ked Ta Stretnem",
+    "artists": [
+      "Para"
+    ],
+    "isrc": "SKA010400108",
+    "start_time": "2025-12-05 02:36:25",
+    "radio": "expres",
+    "recorded_at": "2025-12-05T02:36:36.203271+01:00",
+    "raw_valid": true,
+    "song_session_id": "59d9f318-c26f-41d2-8f14-2ef9d38c97b0"
+  },
+  {
+    "song": "Comin Home",
+    "artists": [
+      "Diddy-Dirty Money",
+      "Skylar Grey"
+    ],
+    "isrc": "USUM71027542",
+    "start_time": "2025-12-05 02:40:29",
+    "radio": "expres",
+    "recorded_at": "2025-12-05T02:40:39.597524+01:00",
+    "raw_valid": true,
+    "song_session_id": "17b4a0df-d2bf-4c8e-9a21-a2b4d45dd78e"
+  },
+  {
+    "song": "Laska Neumiera",
+    "artists": [
+      "Jana Kirschner",
+      "Stefan Stec"
+    ],
+    "isrc": "SKAP22100001",
+    "start_time": "2025-12-05 02:44:34",
+    "radio": "expres",
+    "recorded_at": "2025-12-05T02:45:03.176430+01:00",
+    "raw_valid": true,
+    "song_session_id": "d2274fd9-ca2d-4f61-b5b5-ab04ec6b3bb4"
+  },
+  {
+    "song": "Golden",
+    "artists": [
+      "Kpop Demon Hunters"
+    ],
+    "isrc": "QZ8BZ2513510",
+    "start_time": "2025-12-05 02:47:48",
+    "radio": "expres",
+    "recorded_at": "2025-12-05T02:48:00.784645+01:00",
+    "raw_valid": true,
+    "song_session_id": "a84b618f-6f9c-4a36-a28e-a3c2ad61c350"
+  },
+  {
+    "song": "Nestrielajte Do Labuti",
+    "artists": [
+      "Nocaden",
+      "Katarina Knechtova"
+    ],
+    "isrc": "SKA010600008",
+    "start_time": "2025-12-05 02:50:37",
+    "radio": "expres",
+    "recorded_at": "2025-12-05T02:50:48.363120+01:00",
+    "raw_valid": true,
+    "song_session_id": "1806f86c-82a8-4038-aa2f-2f8d0e8122dc"
+  },
+  {
+    "song": "Every Single Day",
+    "artists": [
+      "Benassi Bros",
+      "Dhany"
+    ],
+    "isrc": "ITOOD0501603",
+    "start_time": "2025-12-05 02:54:04",
+    "radio": "expres",
+    "recorded_at": "2025-12-05T02:54:31.785560+01:00",
+    "raw_valid": true,
+    "song_session_id": "ebcd19a2-c0cc-4682-9abb-6dcaca222ea1"
+  }
+]

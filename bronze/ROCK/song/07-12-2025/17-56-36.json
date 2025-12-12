@@ -1,0 +1,392 @@
+[
+  {
+    "last_update": "2025-12-07 15:56:35",
+    "song": {
+      "musicAuthor": "Kings Of Leon",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048512519d01c0cca06f134eeadd8",
+      "musicTitle": "Use Somebody",
+      "radio": "Rádio ROCK",
+      "startTime": "16:55"
+    },
+    "recorded_at": "2025-12-07T16:56:35.883573+01:00",
+    "raw_valid": true,
+    "song_session_id": "def58697-d16b-4d64-bd52-2ef872a58647"
+  },
+  {
+    "last_update": "2025-12-07 15:59:36",
+    "song": {
+      "musicAuthor": "Jimi Hendrix",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851c9adfbd773852e286faed040",
+      "musicTitle": "Hey Joe",
+      "radio": "Rádio ROCK",
+      "startTime": "16:59"
+    },
+    "recorded_at": "2025-12-07T16:59:36.676202+01:00",
+    "raw_valid": true,
+    "song_session_id": "57795a8d-5449-4973-880e-c3660373db82"
+  },
+  {
+    "last_update": "2025-12-07 16:04:36",
+    "song": {
+      "musicAuthor": "System Of A Down",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485130d45198d0c9e8841f9a9578",
+      "musicTitle": "Chop Suey!",
+      "radio": "Rádio ROCK",
+      "startTime": "17:03"
+    },
+    "recorded_at": "2025-12-07T17:04:37.360037+01:00",
+    "raw_valid": true,
+    "song_session_id": "c798a4a1-c2d5-48ac-8aa7-e9faade602f9"
+  },
+  {
+    "last_update": "2025-12-07 16:07:37",
+    "song": {
+      "musicAuthor": "Rolling Stones, The",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048513d26c9756e724d9b5e0b20d1",
+      "musicTitle": "Anybody Seen My Baby",
+      "radio": "Rádio ROCK",
+      "startTime": "17:07"
+    },
+    "recorded_at": "2025-12-07T17:07:37.565845+01:00",
+    "raw_valid": true,
+    "song_session_id": "d56d2ff7-b473-4606-992e-34435602bfa9"
+  },
+  {
+    "last_update": "2025-12-07 16:12:07",
+    "song": {
+      "musicAuthor": "The Dandy Warhols",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048511d6192e7258363e1878cb1d0",
+      "musicTitle": "Bohemian Like You",
+      "radio": "Rádio ROCK",
+      "startTime": "17:11"
+    },
+    "recorded_at": "2025-12-07T17:12:07.850017+01:00",
+    "raw_valid": true,
+    "song_session_id": "10483fd4-7313-4daa-8406-10d79afa86aa"
+  },
+  {
+    "last_update": "2025-12-07 16:16:07",
+    "song": {
+      "musicAuthor": "Steppenwolf",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851ec7e2c5c7ecd29301f1c4b93",
+      "musicTitle": "Born To Be Wild",
+      "radio": "Rádio ROCK",
+      "startTime": "17:15"
+    },
+    "recorded_at": "2025-12-07T17:16:08.083578+01:00",
+    "raw_valid": true,
+    "song_session_id": "b23debd0-d071-49c8-b950-b07286c13fd3"
+  },
+  {
+    "last_update": "2025-12-07 16:19:08",
+    "song": {
+      "musicAuthor": "Ine Kafe",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048518c650a994097bb30cdab2085",
+      "musicTitle": "Otazka Za Milion",
+      "radio": "Rádio ROCK",
+      "startTime": "17:18"
+    },
+    "recorded_at": "2025-12-07T17:19:08.867782+01:00",
+    "raw_valid": true,
+    "song_session_id": "d8e44d55-8aa6-45db-8aa2-d1d990a6d414"
+  },
+  {
+    "last_update": "2025-12-07 16:23:10",
+    "song": {
+      "musicAuthor": "Linkin Park",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851b4ad7ebaf4575f120eb3f193",
+      "musicTitle": "Numb",
+      "radio": "Rádio ROCK",
+      "startTime": "17:22"
+    },
+    "recorded_at": "2025-12-07T17:23:10.891738+01:00",
+    "raw_valid": true,
+    "song_session_id": "b0864c23-c888-4e29-8477-693b5103e9f2"
+  },
+  {
+    "last_update": "2025-12-07 16:26:11",
+    "song": {
+      "musicAuthor": "Metallica",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851668e3aca3167e6e569a9aa20",
+      "musicTitle": "Master Of Puppets",
+      "radio": "Rádio ROCK",
+      "startTime": "17:25"
+    },
+    "recorded_at": "2025-12-07T17:26:11.053047+01:00",
+    "raw_valid": true,
+    "song_session_id": "4b238566-1a72-4a15-b629-f636e3aa64aa"
+  },
+  {
+    "last_update": "2025-12-07 16:34:16",
+    "song": {
+      "musicAuthor": "Joe Cocker",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851e04777728b19263959d1a073",
+      "musicTitle": "Summer In The City",
+      "radio": "Rádio ROCK",
+      "startTime": "17:34"
+    },
+    "recorded_at": "2025-12-07T17:34:16.818705+01:00",
+    "raw_valid": true,
+    "song_session_id": "f2254133-8e57-4942-8741-07ace2b57ccd"
+  },
+  {
+    "last_update": "2025-12-07 16:38:17",
+    "song": {
+      "musicAuthor": "Fall Out Boy",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851ff59837e170f95a373afc0ec",
+      "musicTitle": "Thnks Fr Th Mmrs",
+      "radio": "Rádio ROCK",
+      "startTime": "17:37"
+    },
+    "recorded_at": "2025-12-07T17:38:17.396755+01:00",
+    "raw_valid": true,
+    "song_session_id": "50ef8377-c2e7-44e7-bf6f-bf6f4f2b7db1"
+  },
+  {
+    "last_update": "2025-12-07 16:41:17",
+    "song": {
+      "musicAuthor": "Nirvana",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048510f4a6f69950d2469e896226f",
+      "musicTitle": "About The Girl",
+      "radio": "Rádio ROCK",
+      "startTime": "17:41"
+    },
+    "recorded_at": "2025-12-07T17:41:17.573769+01:00",
+    "raw_valid": true,
+    "song_session_id": "e4ce2c25-5046-4183-80c2-59fff801f41a"
+  },
+  {
+    "last_update": "2025-12-07 16:44:17",
+    "song": {
+      "musicAuthor": "Kiss",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048518c2105ce9c02ccb83f7a9cb8",
+      "musicTitle": "Crazy, Crazy Nights",
+      "radio": "Rádio ROCK",
+      "startTime": "17:43"
+    },
+    "recorded_at": "2025-12-07T17:44:17.887477+01:00",
+    "raw_valid": true,
+    "song_session_id": "c6cbfbc2-e5a9-44ac-8b42-2c0c97dadd40"
+  },
+  {
+    "last_update": "2025-12-07 16:48:17",
+    "song": {
+      "musicAuthor": "Rybicky 48 & Holki",
+      "musicCover": "https://e-cdns-images.dzcdn.net/images/artist/80f81da3ac0a25f925932e9e9b626159/64x64-000000-80-0-0.jpg",
+      "musicTitle": "Ja Dneska Slavim",
+      "radio": "Rádio ROCK",
+      "startTime": "17:47"
+    },
+    "recorded_at": "2025-12-07T17:48:18.104654+01:00",
+    "raw_valid": true,
+    "song_session_id": "7b3c0829-6c13-479e-95b1-8a453832eee2"
+  },
+  {
+    "last_update": "2025-12-07 16:51:19",
+    "song": {
+      "musicAuthor": "Billy Idol",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851a20464e6697dc1149d3a5cdc",
+      "musicTitle": "White Wedding",
+      "radio": "Rádio ROCK",
+      "startTime": "17:50"
+    },
+    "recorded_at": "2025-12-07T17:51:19.988665+01:00",
+    "raw_valid": true,
+    "song_session_id": "788a7f06-c713-4537-b59a-eca430f84821"
+  },
+  {
+    "last_update": "2025-12-07 16:55:20",
+    "song": {
+      "musicAuthor": "Horkyže Sliže",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851911995709754b328f466267c",
+      "musicTitle": "Atomový Kryt",
+      "radio": "Rádio ROCK",
+      "startTime": "17:54"
+    },
+    "recorded_at": "2025-12-07T17:55:20.207834+01:00",
+    "raw_valid": true,
+    "song_session_id": "38acad33-0a24-424f-ab8c-f4fdb6a7b028"
+  },
+  {
+    "last_update": "2025-12-07 16:59:21",
+    "song": {
+      "musicAuthor": "Bon Jovi",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048515f66fbeaff0725997250591c",
+      "musicTitle": "Always",
+      "radio": "Rádio ROCK",
+      "startTime": "17:58"
+    },
+    "recorded_at": "2025-12-07T17:59:21.143503+01:00",
+    "raw_valid": true,
+    "song_session_id": "1d3565af-656e-498d-85e9-3044087cff43"
+  },
+  {
+    "last_update": "2025-12-07 17:04:21",
+    "song": {
+      "musicAuthor": "U2",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485138fa0dfe55b1ff2e8c962bae",
+      "musicTitle": "Elevation",
+      "radio": "Rádio ROCK",
+      "startTime": "18:04"
+    },
+    "recorded_at": "2025-12-07T18:04:21.601283+01:00",
+    "raw_valid": true,
+    "song_session_id": "9da1423c-7c72-435a-a6c9-aae4e233914f"
+  },
+  {
+    "last_update": "2025-12-07 17:08:21",
+    "song": {
+      "musicAuthor": "Extreme",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851fb16b9b69eb891027654bcb1",
+      "musicTitle": "More Than Words",
+      "radio": "Rádio ROCK",
+      "startTime": "18:07"
+    },
+    "recorded_at": "2025-12-07T18:08:21.811798+01:00",
+    "raw_valid": true,
+    "song_session_id": "a1d31a3c-8c3f-4e27-abe7-ec66fac1de8c"
+  },
+  {
+    "last_update": "2025-12-07 17:12:21",
+    "song": {
+      "musicAuthor": "Zz Top",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048510fe2ec86a0ec561ef2e2aae1",
+      "musicTitle": "La Grange",
+      "radio": "Rádio ROCK",
+      "startTime": "18:11"
+    },
+    "recorded_at": "2025-12-07T18:12:22.174438+01:00",
+    "raw_valid": true,
+    "song_session_id": "afca29e5-c42d-4771-9cdf-9a8bad801b55"
+  },
+  {
+    "last_update": "2025-12-07 17:16:22",
+    "song": {
+      "musicAuthor": "Rammstein",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485102add2c77fb6999e311a3248",
+      "musicTitle": "Deutschland",
+      "radio": "Rádio ROCK",
+      "startTime": "18:15"
+    },
+    "recorded_at": "2025-12-07T18:16:22.628652+01:00",
+    "raw_valid": true,
+    "song_session_id": "e0fa43af-a406-4415-b437-134b7b975b46"
+  },
+  {
+    "last_update": "2025-12-07 17:21:22",
+    "song": {
+      "musicAuthor": "Kabát",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048517207a7c165c9c5c225ab97eb",
+      "musicTitle": "Houby Magický",
+      "radio": "Rádio ROCK",
+      "startTime": "18:20"
+    },
+    "recorded_at": "2025-12-07T18:21:23.269316+01:00",
+    "raw_valid": true,
+    "song_session_id": "3859325c-52bb-4759-8cbf-fd8b95888aa1"
+  },
+  {
+    "last_update": "2025-12-07 17:24:24",
+    "song": {
+      "musicAuthor": "Foo Fighters",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048510389027010b78a5e7dce426b",
+      "musicTitle": "Rescued",
+      "radio": "Rádio ROCK",
+      "startTime": "18:24"
+    },
+    "recorded_at": "2025-12-07T18:24:24.468933+01:00",
+    "raw_valid": true,
+    "song_session_id": "66ca0388-6511-48ad-b797-112f6021b9ed"
+  },
+  {
+    "last_update": "2025-12-07 17:28:24",
+    "song": {
+      "musicAuthor": "Metallica",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048517c05e69390ab7c628a83cee7",
+      "musicTitle": "One",
+      "radio": "Rádio ROCK",
+      "startTime": "18:28"
+    },
+    "recorded_at": "2025-12-07T18:28:24.708253+01:00",
+    "raw_valid": true,
+    "song_session_id": "e5d563da-06a7-470f-95d5-0ca15b799b95"
+  },
+  {
+    "last_update": "2025-12-07 17:36:26",
+    "song": {
+      "musicAuthor": "The Offspring",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048510158cbde70672dd821972907",
+      "musicTitle": "Gotta Get Away",
+      "radio": "Rádio ROCK",
+      "startTime": "18:35"
+    },
+    "recorded_at": "2025-12-07T18:36:26.946973+01:00",
+    "raw_valid": true,
+    "song_session_id": "0915d72e-8d39-4df0-94f2-58e7039b9bb6"
+  },
+  {
+    "last_update": "2025-12-07 17:39:27",
+    "song": {
+      "musicAuthor": "Linkin Park",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485146e207de66ba06422897f769",
+      "musicTitle": "Bleed It Out",
+      "radio": "Rádio ROCK",
+      "startTime": "18:39"
+    },
+    "recorded_at": "2025-12-07T18:39:27.266636+01:00",
+    "raw_valid": true,
+    "song_session_id": "98f819e6-5f44-4fd6-abdc-1ab58ac14ef5"
+  },
+  {
+    "last_update": "2025-12-07 17:42:27",
+    "song": {
+      "musicAuthor": "New Found Glory",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048511703f53e05e51bece5a4a9f8",
+      "musicTitle": "Friends Over You",
+      "radio": "Rádio ROCK",
+      "startTime": "18:41"
+    },
+    "recorded_at": "2025-12-07T18:42:27.793840+01:00",
+    "raw_valid": true,
+    "song_session_id": "a96678e5-ad29-4778-8c7c-f7d4cbb349a5"
+  },
+  {
+    "last_update": "2025-12-07 17:46:29",
+    "song": {
+      "musicAuthor": "Iné Kafe",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048512f24981c95d815cac0e65b86",
+      "musicTitle": "Svätý Pokoj",
+      "radio": "Rádio ROCK",
+      "startTime": "18:45"
+    },
+    "recorded_at": "2025-12-07T18:46:29.348791+01:00",
+    "raw_valid": true,
+    "song_session_id": "c08169ef-92c9-424c-91b3-1642afda0c6c"
+  },
+  {
+    "last_update": "2025-12-07 17:49:29",
+    "song": {
+      "musicAuthor": "Bryan Adams",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851cf1fee2a55e98e22bf358512",
+      "musicTitle": "Heaven",
+      "radio": "Rádio ROCK",
+      "startTime": "18:48"
+    },
+    "recorded_at": "2025-12-07T18:49:30.069972+01:00",
+    "raw_valid": true,
+    "song_session_id": "0174a92c-7825-49aa-bffb-3b0a61e8da40"
+  },
+  {
+    "last_update": "2025-12-07 17:53:29",
+    "song": {
+      "musicAuthor": "Nirvana",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851fbc71c99f9c1296c56dd51b6",
+      "musicTitle": "Lithium",
+      "radio": "Rádio ROCK",
+      "startTime": "18:52"
+    },
+    "recorded_at": "2025-12-07T18:53:30.354637+01:00",
+    "raw_valid": true,
+    "song_session_id": "37fdc3d5-103b-4257-9077-518faaee239f"
+  }
+]

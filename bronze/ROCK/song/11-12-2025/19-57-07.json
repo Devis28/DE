@@ -1,0 +1,379 @@
+[
+  {
+    "last_update": "2025-12-11 17:59:24",
+    "song": {
+      "musicAuthor": "I.M.T.Smile",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048519f87f415d273aea02df2ca65",
+      "musicTitle": "Nepoznám",
+      "radio": "Rádio ROCK",
+      "startTime": "18:58"
+    },
+    "recorded_at": "2025-12-11T18:59:24.626653+01:00",
+    "raw_valid": true,
+    "song_session_id": "ed92f2c3-7d29-413d-b25a-2962f61ce0b9"
+  },
+  {
+    "last_update": "2025-12-11 18:03:24",
+    "song": {
+      "musicAuthor": "Linkin Park",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851b4ad7ebaf4575f120eb3f193",
+      "musicTitle": "Numb",
+      "radio": "Rádio ROCK",
+      "startTime": "19:02"
+    },
+    "recorded_at": "2025-12-11T19:03:24.956642+01:00",
+    "raw_valid": true,
+    "song_session_id": "9ccfb4b4-d236-4fe8-8c54-a944e85d764b"
+  },
+  {
+    "last_update": "2025-12-11 18:06:25",
+    "song": {
+      "musicAuthor": "Pretty Maids",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048516c547fd5e834b310efd297f2",
+      "musicTitle": "Please Don't Leave Me",
+      "radio": "Rádio ROCK",
+      "startTime": "19:05"
+    },
+    "recorded_at": "2025-12-11T19:06:25.694557+01:00",
+    "raw_valid": true,
+    "song_session_id": "e128d605-c50a-4250-998f-82a5a0f14acc"
+  },
+  {
+    "last_update": "2025-12-11 18:12:25",
+    "song": {
+      "musicAuthor": "Bruce Springsteen",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851a7865e686c36a4adda6c9978",
+      "musicTitle": "Born In The U.S.A.",
+      "radio": "Rádio ROCK",
+      "startTime": "19:11"
+    },
+    "recorded_at": "2025-12-11T19:12:26.096342+01:00",
+    "raw_valid": true,
+    "song_session_id": "88ac2f69-88c0-4671-9a57-758c9358e849"
+  },
+  {
+    "last_update": "2025-12-11 18:16:25",
+    "song": {
+      "musicAuthor": "Sum 41",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851a7af96024a78654541fccc20",
+      "musicTitle": "Rise Up",
+      "radio": "Rádio ROCK",
+      "startTime": "19:15"
+    },
+    "recorded_at": "2025-12-11T19:16:26.367313+01:00",
+    "raw_valid": true,
+    "song_session_id": "913fea67-e6f2-4fa9-a1d5-04266250faa9"
+  },
+  {
+    "last_update": "2025-12-11 18:20:26",
+    "song": {
+      "musicAuthor": "Green Day",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851db89b08034de626ebee6823d",
+      "musicTitle": "Basket Case",
+      "radio": "Rádio ROCK",
+      "startTime": "19:19"
+    },
+    "recorded_at": "2025-12-11T19:20:26.769059+01:00",
+    "raw_valid": true,
+    "song_session_id": "15dddb8b-a728-45e5-bc9a-ca6e78431f3d"
+  },
+  {
+    "last_update": "2025-12-11 18:23:26",
+    "song": {
+      "musicAuthor": "Horkýze Slíze",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485160348235029c408a3e558ab7",
+      "musicTitle": "Bernardín",
+      "radio": "Rádio ROCK",
+      "startTime": "19:22"
+    },
+    "recorded_at": "2025-12-11T19:23:27.016887+01:00",
+    "raw_valid": true,
+    "song_session_id": "0639c65b-bca9-4157-945b-2ada79778892"
+  },
+  {
+    "last_update": "2025-12-11 18:27:26",
+    "song": {
+      "musicAuthor": "Clawfinger",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485117a80cd3af5f01175215962f",
+      "musicTitle": "Do What I Say",
+      "radio": "Rádio ROCK",
+      "startTime": "19:26"
+    },
+    "recorded_at": "2025-12-11T19:27:27.433390+01:00",
+    "raw_valid": true,
+    "song_session_id": "7a50fb63-55c8-4a3c-a58e-1e36cc0faf60"
+  },
+  {
+    "last_update": "2025-12-11 18:31:29",
+    "song": {
+      "musicAuthor": "The Beatles",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851e3e3b64cea45265469d4cafa",
+      "musicTitle": "Help!",
+      "radio": "Rádio ROCK",
+      "startTime": "19:30"
+    },
+    "recorded_at": "2025-12-11T19:31:30.413031+01:00",
+    "raw_valid": true,
+    "song_session_id": "aa807a76-7a86-45f6-88c6-75794d67d679"
+  },
+  {
+    "last_update": "2025-12-11 18:33:30",
+    "song": {
+      "musicAuthor": "Jet",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851d06bd6d3b1f258ba2bca597a",
+      "musicTitle": "Are You Gonna Be My Girl",
+      "radio": "Rádio ROCK",
+      "startTime": "19:33"
+    },
+    "recorded_at": "2025-12-11T19:33:30.528313+01:00",
+    "raw_valid": true,
+    "song_session_id": "a4ba58de-0a53-4a83-b904-2b7d1b201d8d"
+  },
+  {
+    "last_update": "2025-12-11 18:37:29",
+    "song": {
+      "musicAuthor": "Joe Cocker",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851e04777728b19263959d1a073",
+      "musicTitle": "Summer In The City",
+      "radio": "Rádio ROCK",
+      "startTime": "19:36"
+    },
+    "recorded_at": "2025-12-11T19:37:30.909814+01:00",
+    "raw_valid": true,
+    "song_session_id": "ae62e4e6-2695-4f31-99f5-4c46af0837b1"
+  },
+  {
+    "last_update": "2025-12-11 18:41:31",
+    "song": {
+      "musicAuthor": "Pražský Výběr",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851dd4fbdc90c333d7f0b98b231",
+      "musicTitle": "Pražákům Je Hej",
+      "radio": "Rádio ROCK",
+      "startTime": "19:40"
+    },
+    "recorded_at": "2025-12-11T19:41:31.489657+01:00",
+    "raw_valid": true,
+    "song_session_id": "e5ee4c2c-0f8a-4b11-b508-cedca6be3654"
+  },
+  {
+    "last_update": "2025-12-11 18:46:31",
+    "song": {
+      "musicAuthor": "Queen",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851e319baafd16e84f0408af2a0",
+      "musicTitle": "Bohemian Rhapsody",
+      "radio": "Rádio ROCK",
+      "startTime": "19:45"
+    },
+    "recorded_at": "2025-12-11T19:46:32.809717+01:00",
+    "raw_valid": true,
+    "song_session_id": "e50e8487-6a16-4b3b-9f9f-53e190356ee5"
+  },
+  {
+    "last_update": "2025-12-11 18:52:34",
+    "song": {
+      "musicAuthor": "Bon Jovi",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485148dfcfd269a34c3555cb2da0",
+      "musicTitle": "Please Come Home For Christmas",
+      "radio": "Rádio ROCK",
+      "startTime": "19:51"
+    },
+    "recorded_at": "2025-12-11T19:52:34.490271+01:00",
+    "raw_valid": true,
+    "song_session_id": "fab05bed-ebf0-4055-9822-7c05dd9ddbfd"
+  },
+  {
+    "last_update": "2025-12-11 18:55:34",
+    "song": {
+      "musicAuthor": "Nirvana",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851c4f52ef8782f0e8ede4c1aaf",
+      "musicTitle": "All Apologies",
+      "radio": "Rádio ROCK",
+      "startTime": "19:54"
+    },
+    "recorded_at": "2025-12-11T19:55:34.737204+01:00",
+    "raw_valid": true,
+    "song_session_id": "814b5bfa-c2be-49db-a9e6-9282b970945b"
+  },
+  {
+    "last_update": "2025-12-11 18:59:35",
+    "song": {
+      "musicAuthor": "The Rolling Stones",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851bad7062c3fd2f2d037989694",
+      "musicTitle": "Paint It Black",
+      "radio": "Rádio ROCK",
+      "startTime": "19:58"
+    },
+    "recorded_at": "2025-12-11T19:59:35.304780+01:00",
+    "raw_valid": true,
+    "song_session_id": "10500ac4-8d99-46c7-8d63-61fa17004249"
+  },
+  {
+    "last_update": "2025-12-11 19:03:36",
+    "song": {
+      "musicAuthor": "The Police",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851c8e97cafeb2acb85b21a777e",
+      "musicTitle": "Every Breath You Take",
+      "radio": "Rádio ROCK",
+      "startTime": "20:02"
+    },
+    "recorded_at": "2025-12-11T20:03:36.195022+01:00",
+    "raw_valid": true,
+    "song_session_id": "a81806ff-3826-4254-b93c-7e4a25cb97a6"
+  },
+  {
+    "last_update": "2025-12-11 19:07:07",
+    "song": {
+      "musicAuthor": "Lepayaco",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485141a89ef5d65d2ee8e4e8d044",
+      "musicTitle": "Horska Chata",
+      "radio": "Rádio ROCK",
+      "startTime": "20:06"
+    },
+    "recorded_at": "2025-12-11T20:07:07.994353+01:00",
+    "raw_valid": true,
+    "song_session_id": "de16f0a8-e010-4822-9e4e-f3abdd619196"
+  },
+  {
+    "last_update": "2025-12-11 19:10:08",
+    "song": {
+      "musicAuthor": "Bijouterrier",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485175df4008379c8347b012bd46",
+      "musicTitle": "Japanese Tourbus",
+      "radio": "Rádio ROCK",
+      "startTime": "20:09"
+    },
+    "recorded_at": "2025-12-11T20:10:08.226595+01:00",
+    "raw_valid": true,
+    "song_session_id": "b73052e0-f4a2-4199-ad5e-609dd4326767"
+  },
+  {
+    "last_update": "2025-12-11 19:13:39",
+    "song": {
+      "musicAuthor": "The New Radicals",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048517d1327a4c19aad3c03e5557c",
+      "musicTitle": "Someday We'll Know",
+      "radio": "Rádio ROCK",
+      "startTime": "20:12"
+    },
+    "recorded_at": "2025-12-11T20:13:39.784620+01:00",
+    "raw_valid": true,
+    "song_session_id": "ebf0dfe9-eced-4501-875c-4bcbf6f11986"
+  },
+  {
+    "last_update": "2025-12-11 19:17:10",
+    "song": {
+      "musicAuthor": "Gladiator",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048514824a306d4af7142edee3a82",
+      "musicTitle": "Keď Sa Láska Podarí",
+      "radio": "Rádio ROCK",
+      "startTime": "20:16"
+    },
+    "recorded_at": "2025-12-11T20:17:11.195166+01:00",
+    "raw_valid": true,
+    "song_session_id": "3ec9ce66-b95e-4ee1-8a6d-75ab28e162a3"
+  },
+  {
+    "last_update": "2025-12-11 19:27:13",
+    "song": {
+      "musicAuthor": "Limp Bizkit",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048514a31b146c7cf07705d912efe",
+      "musicTitle": "Take A Look Around",
+      "radio": "Rádio ROCK",
+      "startTime": "20:24"
+    },
+    "recorded_at": "2025-12-11T20:27:14.857771+01:00",
+    "raw_valid": true,
+    "song_session_id": "5d0813a8-7545-41d8-be7f-e5aa4280459e"
+  },
+  {
+    "last_update": "2025-12-11 19:30:14",
+    "song": {
+      "musicAuthor": "Hex",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048510504c699685f967e6c775bd9",
+      "musicTitle": "El Punk",
+      "radio": "Rádio ROCK",
+      "startTime": "20:29"
+    },
+    "recorded_at": "2025-12-11T20:30:15.033886+01:00",
+    "raw_valid": true,
+    "song_session_id": "37ea2e99-9ea2-4fdd-a458-6494a7482572"
+  },
+  {
+    "last_update": "2025-12-11 19:33:15",
+    "song": {
+      "musicAuthor": "Fishing Strip",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851f30f292c49730fcd22f6acaa",
+      "musicTitle": "Nikdy Nezabudnem",
+      "radio": "Rádio ROCK",
+      "startTime": "20:32"
+    },
+    "recorded_at": "2025-12-11T20:33:15.262277+01:00",
+    "raw_valid": true,
+    "song_session_id": "b561dbe7-4771-4a9d-8037-ed0260c6874a"
+  },
+  {
+    "last_update": "2025-12-11 19:36:16",
+    "song": {
+      "musicAuthor": "Led Zeppelin",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851765b0617b572bdd1dbdc7d8e",
+      "musicTitle": "Kashmir",
+      "radio": "Rádio ROCK",
+      "startTime": "20:36"
+    },
+    "recorded_at": "2025-12-11T20:36:16.471920+01:00",
+    "raw_valid": true,
+    "song_session_id": "077d3740-b814-4dae-bc6f-6cc512c27cb9"
+  },
+  {
+    "last_update": "2025-12-11 19:45:17",
+    "song": {
+      "musicAuthor": "Horkýže Slíže",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048512b46a6063fd7f4ce78fd48e9",
+      "musicTitle": "Kozy, Husle, Rooney",
+      "radio": "Rádio ROCK",
+      "startTime": "20:44"
+    },
+    "recorded_at": "2025-12-11T20:45:18.068115+01:00",
+    "raw_valid": true,
+    "song_session_id": "db3364c4-c395-4d4b-bc35-b71492561a67"
+  },
+  {
+    "last_update": "2025-12-11 19:47:18",
+    "song": {
+      "musicAuthor": "Iné Kafe",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851a36a083c5dec894348b99b3c",
+      "musicTitle": "Mám Pocit",
+      "radio": "Rádio ROCK",
+      "startTime": "20:46"
+    },
+    "recorded_at": "2025-12-11T20:47:18.231169+01:00",
+    "raw_valid": true,
+    "song_session_id": "2c5bf87c-88bf-43af-8452-aa11690ed6a6"
+  },
+  {
+    "last_update": "2025-12-11 19:51:18",
+    "song": {
+      "musicAuthor": "Bryan Adams",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851501dd3f8574de00f5740c9ea",
+      "musicTitle": "Christmas Time",
+      "radio": "Rádio ROCK",
+      "startTime": "20:50"
+    },
+    "recorded_at": "2025-12-11T20:51:18.796407+01:00",
+    "raw_valid": true,
+    "song_session_id": "28190f26-1f4e-4553-b3a1-cc78b1ed530d"
+  },
+  {
+    "last_update": "2025-12-11 19:55:18",
+    "song": {
+      "musicAuthor": "Kiss",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048512d54bf34c48d94050cf0008f",
+      "musicTitle": "Detroit Rock City",
+      "radio": "Rádio ROCK",
+      "startTime": "20:54"
+    },
+    "recorded_at": "2025-12-11T20:55:19.029786+01:00",
+    "raw_valid": true,
+    "song_session_id": "013cd814-147c-410f-b054-6167708e067f"
+  }
+]

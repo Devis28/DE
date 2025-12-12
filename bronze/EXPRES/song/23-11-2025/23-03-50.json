@@ -1,0 +1,372 @@
+[
+  {
+    "song": "Flowers",
+    "artists": [
+      "Miley Cyrus"
+    ],
+    "isrc": "USSM12209777",
+    "start_time": "2025-11-23 22:06:00",
+    "radio": "expres",
+    "recorded_at": "2025-11-23T22:06:18.777947+01:00",
+    "raw_valid": true,
+    "song_session_id": "0c903736-924a-41cc-808d-f12695cd3b2b"
+  },
+  {
+    "song": "In The Shadows",
+    "artists": [
+      "Rasmus"
+    ],
+    "isrc": "SEVJH0201601",
+    "start_time": "2025-11-23 22:09:18",
+    "radio": "expres",
+    "recorded_at": "2025-11-23T22:09:36.826654+01:00",
+    "raw_valid": true,
+    "song_session_id": "b3f5bc9b-929d-4852-bf72-8d3880a0c3c0"
+  },
+  {
+    "song": "Glide",
+    "artists": [
+      "Neiked",
+      "Portugal The Man"
+    ],
+    "isrc": "DEE862500421",
+    "start_time": "2025-11-23 22:13:17",
+    "radio": "expres",
+    "recorded_at": "2025-11-23T22:13:40.871442+01:00",
+    "raw_valid": true,
+    "song_session_id": "1d7ed7cf-4c25-4d2b-9263-2bf092e6265c"
+  },
+  {
+    "song": "Bonfire Heart",
+    "artists": [
+      "James Blunt"
+    ],
+    "isrc": "GBAHS1300301",
+    "start_time": "2025-11-23 22:16:23",
+    "radio": "expres",
+    "recorded_at": "2025-11-23T22:16:43.807475+01:00",
+    "raw_valid": true,
+    "song_session_id": "6a71b29c-732f-4c6d-97df-648509cb9af3"
+  },
+  {
+    "song": "Mad",
+    "artists": [
+      "Martin Garrix",
+      "Lauv"
+    ],
+    "isrc": "NLM5S2502535",
+    "start_time": "2025-11-23 22:19:59",
+    "radio": "expres",
+    "recorded_at": "2025-11-23T22:20:07.451520+01:00",
+    "raw_valid": true,
+    "song_session_id": "f41c3aa8-d9d8-4057-96a8-b26e5c8fcd8a"
+  },
+  {
+    "song": "The Time Of My Life",
+    "artists": [
+      "Bill Medley",
+      "Jennifer Warnes"
+    ],
+    "isrc": "USRC10300895",
+    "start_time": "2025-11-23 22:23:46",
+    "radio": "expres",
+    "recorded_at": "2025-11-23T22:24:16.158115+01:00",
+    "raw_valid": true,
+    "song_session_id": "635bea03-19fe-49a0-a907-08772f9b8805"
+  },
+  {
+    "song": "Italodisco",
+    "artists": [
+      "The Kolors"
+    ],
+    "isrc": "ITQ002300342",
+    "start_time": "2025-11-23 22:28:18",
+    "radio": "expres",
+    "recorded_at": "2025-11-23T22:28:40.313849+01:00",
+    "raw_valid": true,
+    "song_session_id": "b068686c-0794-4216-8be5-4fa2aaeed8c1"
+  },
+  {
+    "song": "Regalo",
+    "artists": [
+      "Alvaro Soler"
+    ],
+    "isrc": "DEE862500388",
+    "start_time": "2025-11-23 22:32:36",
+    "radio": "expres",
+    "recorded_at": "2025-11-23T22:33:11.523046+01:00",
+    "raw_valid": true,
+    "song_session_id": "1fcb4867-9e6c-407e-ad41-5012365ce0e4"
+  },
+  {
+    "song": "Where Did You Go",
+    "artists": [
+      "Peter Bic Project"
+    ],
+    "isrc": "SKA011700062",
+    "start_time": "2025-11-23 22:35:49",
+    "radio": "expres",
+    "recorded_at": "2025-11-23T22:36:04.474217+01:00",
+    "raw_valid": true,
+    "song_session_id": "c2804a65-5ba5-4b5e-bc54-04aafcab1e2a"
+  },
+  {
+    "song": "Losing My Religion",
+    "artists": [
+      "R.e.m."
+    ],
+    "isrc": "USC4R1605373",
+    "start_time": "2025-11-23 22:39:57",
+    "radio": "expres",
+    "recorded_at": "2025-11-23T22:40:08.148876+01:00",
+    "raw_valid": true,
+    "song_session_id": "a9eb0948-b6ea-4c45-a4dd-d2e5001d65fa"
+  },
+  {
+    "song": "Golden",
+    "artists": [
+      "Kpop Demon Hunters"
+    ],
+    "isrc": "QZ8BZ2513510",
+    "start_time": "2025-11-23 22:44:30",
+    "radio": "expres",
+    "recorded_at": "2025-11-23T22:44:52.799157+01:00",
+    "raw_valid": true,
+    "song_session_id": "ea65c70a-6038-4eed-be0e-216ebbbeea6a"
+  },
+  {
+    "song": "Locked Out Of Heaven",
+    "artists": [
+      "Bruno Mars"
+    ],
+    "isrc": "USAT21203287",
+    "start_time": "2025-11-23 22:47:14",
+    "radio": "expres",
+    "recorded_at": "2025-11-23T22:47:35.493516+01:00",
+    "raw_valid": true,
+    "song_session_id": "e3d4ee58-9e33-4887-85ae-2932279687d9"
+  },
+  {
+    "song": "Nice To Meet You",
+    "artists": [
+      "Myles Smith"
+    ],
+    "isrc": "GBARL2401376",
+    "start_time": "2025-11-23 22:51:08",
+    "radio": "expres",
+    "recorded_at": "2025-11-23T22:51:24.954268+01:00",
+    "raw_valid": true,
+    "song_session_id": "4cc87846-7660-47ff-9414-d648c6de2ddb"
+  },
+  {
+    "song": "Gone Gone Gone",
+    "artists": [
+      "David Guetta",
+      "Teddy Swims",
+      "Tones And I"
+    ],
+    "isrc": "UKWLG2500132",
+    "start_time": "2025-11-23 22:53:59",
+    "radio": "expres",
+    "recorded_at": "2025-11-23T22:54:32.426324+01:00",
+    "raw_valid": true,
+    "song_session_id": "913cd070-9ff4-420c-9959-c6f327ec11a6"
+  },
+  {
+    "song": "Slobodna",
+    "artists": [
+      "Elan"
+    ],
+    "isrc": "SKA128343910",
+    "start_time": "2025-11-23 22:57:37",
+    "radio": "expres",
+    "recorded_at": "2025-11-23T22:57:52.570344+01:00",
+    "raw_valid": true,
+    "song_session_id": "9864d40d-3e5e-4c4f-8ade-c678a67dfd41"
+  },
+  {
+    "song": "Hall Of Fame",
+    "artists": [
+      "Script",
+      "Will I Am"
+    ],
+    "isrc": "GBARL1201055",
+    "start_time": "2025-11-23 23:11:38",
+    "radio": "expres",
+    "recorded_at": "2025-11-23T23:12:03.882481+01:00",
+    "raw_valid": true,
+    "song_session_id": "05ed19f6-630b-445d-b981-3fa72b08fae4"
+  },
+  {
+    "song": "Medzi Nebom A Zenou",
+    "artists": [
+      "Banket",
+      "Richard Muller",
+      "Ema Muller"
+    ],
+    "isrc": "SKC362500009",
+    "start_time": "2025-11-23 23:14:27",
+    "radio": "expres",
+    "recorded_at": "2025-11-23T23:14:47.621829+01:00",
+    "raw_valid": true,
+    "song_session_id": "7574bab5-6490-4b10-8a8b-d1e44e40d892"
+  },
+  {
+    "song": "Dont Stop Me Now",
+    "artists": [
+      "Queen"
+    ],
+    "isrc": "GBUM71029610",
+    "start_time": "2025-11-23 23:18:38",
+    "radio": "expres",
+    "recorded_at": "2025-11-23T23:18:51.419050+01:00",
+    "raw_valid": true,
+    "song_session_id": "bf35fbb4-a899-4e07-bea3-421ee1ea73cd"
+  },
+  {
+    "song": "End Of The World",
+    "artists": [
+      "Miley Cyrus"
+    ],
+    "isrc": "USSM12501019",
+    "start_time": "2025-11-23 23:21:58",
+    "radio": "expres",
+    "recorded_at": "2025-11-23T23:22:19.642408+01:00",
+    "raw_valid": true,
+    "song_session_id": "b92dfd4b-ed17-4c46-abbb-a689d963211d"
+  },
+  {
+    "song": "Za Dverami Mojej Izby",
+    "artists": [
+      "Beata Dubasova"
+    ],
+    "isrc": "SKA129024401",
+    "start_time": "2025-11-23 23:25:54",
+    "radio": "expres",
+    "recorded_at": "2025-11-23T23:26:33.319395+01:00",
+    "raw_valid": true,
+    "song_session_id": "de9b996c-a16e-4653-956a-8603d8d1b24d"
+  },
+  {
+    "song": "Join Me",
+    "artists": [
+      "Him"
+    ],
+    "isrc": "FIBAR9900299",
+    "start_time": "2025-11-23 23:30:57",
+    "radio": "expres",
+    "recorded_at": "2025-11-23T23:31:14.048669+01:00",
+    "raw_valid": true,
+    "song_session_id": "1f452b55-e10f-4432-86b6-f93fc5d23ba0"
+  },
+  {
+    "song": "Undressed",
+    "artists": [
+      "Sombr"
+    ],
+    "isrc": "USWB12500737",
+    "start_time": "2025-11-23 23:34:44",
+    "radio": "expres",
+    "recorded_at": "2025-11-23T23:35:02.933030+01:00",
+    "raw_valid": true,
+    "song_session_id": "51704aaa-dbff-4327-9882-b2cb24402e3d"
+  },
+  {
+    "song": "Salt",
+    "artists": [
+      "Ava Max"
+    ],
+    "isrc": "USAT21906991",
+    "start_time": "2025-11-23 23:37:54",
+    "radio": "expres",
+    "recorded_at": "2025-11-23T23:38:05.953268+01:00",
+    "raw_valid": true,
+    "song_session_id": "4222a682-4d8c-493f-94d7-b06d914055bb"
+  },
+  {
+    "song": "Gangstas Paradise",
+    "artists": [
+      "Coolio",
+      "L.v."
+    ],
+    "isrc": "USTB10400128",
+    "start_time": "2025-11-23 23:40:54",
+    "radio": "expres",
+    "recorded_at": "2025-11-23T23:41:13.910862+01:00",
+    "raw_valid": true,
+    "song_session_id": "f947ba13-72d2-41a5-9eac-8f23e784a59d"
+  },
+  {
+    "song": "The Fate Of Ophelia",
+    "artists": [
+      "Taylor Swift"
+    ],
+    "isrc": "USUG12506436",
+    "start_time": "2025-11-23 23:45:05",
+    "radio": "expres",
+    "recorded_at": "2025-11-23T23:45:34.064231+01:00",
+    "raw_valid": true,
+    "song_session_id": "ab48fd82-3e7d-4361-b406-d405e11f493e"
+  },
+  {
+    "song": "Holubicka",
+    "artists": [
+      "Adam Durica"
+    ],
+    "isrc": "SKA011800048",
+    "start_time": "2025-11-23 23:48:48",
+    "radio": "expres",
+    "recorded_at": "2025-11-23T23:49:18.280050+01:00",
+    "raw_valid": true,
+    "song_session_id": "b0f7c6b8-6dd5-40fe-9e07-fe2d6a95a100"
+  },
+  {
+    "song": "Eyes Closed",
+    "artists": [
+      "Imagine Dragons"
+    ],
+    "isrc": "USUM72402448",
+    "start_time": "2025-11-23 23:53:18",
+    "radio": "expres",
+    "recorded_at": "2025-11-23T23:53:42.317285+01:00",
+    "raw_valid": true,
+    "song_session_id": "779f252e-ea13-45d7-b475-36845f3819be"
+  },
+  {
+    "song": "Again",
+    "artists": [
+      "Lenny Kravitz"
+    ],
+    "isrc": "USVI20000423",
+    "start_time": "2025-11-23 23:56:45",
+    "radio": "expres",
+    "recorded_at": "2025-11-23T23:57:14.360995+01:00",
+    "raw_valid": true,
+    "song_session_id": "26b58dff-0a4f-486e-ab0b-c4a8faca8f33"
+  },
+  {
+    "song": "Leave Before You Love Me",
+    "artists": [
+      "Marshmello",
+      "Jonas Brothers"
+    ],
+    "isrc": "USUG12102313",
+    "start_time": "2025-11-24 00:00:24",
+    "radio": "expres",
+    "recorded_at": "2025-11-24T00:00:48.151992+01:00",
+    "raw_valid": true,
+    "song_session_id": "124cef53-e4a8-42fd-944b-ead6ce1ce78c"
+  },
+  {
+    "song": "Regalo",
+    "artists": [
+      "Alvaro Soler"
+    ],
+    "isrc": "DEE862500388",
+    "start_time": "2025-11-24 00:02:59",
+    "radio": "expres",
+    "recorded_at": "2025-11-24T00:03:14.935443+01:00",
+    "raw_valid": true,
+    "song_session_id": "b8bcb3ea-1332-4ab7-8219-f5fa5d874d5a"
+  }
+]

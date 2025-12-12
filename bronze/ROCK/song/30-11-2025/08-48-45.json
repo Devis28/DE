@@ -1,0 +1,392 @@
+[
+  {
+    "last_update": "2025-11-30 06:51:22",
+    "song": {
+      "musicAuthor": "Bowling For Soup",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851f9b3ece3271d3a5fa73d3759",
+      "musicTitle": "1985",
+      "radio": "Rádio ROCK",
+      "startTime": "07:50"
+    },
+    "recorded_at": "2025-11-30T07:51:22.551204+01:00",
+    "raw_valid": true,
+    "song_session_id": "37989556-c352-4102-b5cd-d70e4d4871e9"
+  },
+  {
+    "last_update": "2025-11-30 06:54:22",
+    "song": {
+      "musicAuthor": "Bruce Springsteen",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851a7865e686c36a4adda6c9978",
+      "musicTitle": "Dancing In The Dark",
+      "radio": "Rádio ROCK",
+      "startTime": "07:54"
+    },
+    "recorded_at": "2025-11-30T07:54:22.764679+01:00",
+    "raw_valid": true,
+    "song_session_id": "17695b6f-c993-4bda-82a1-67413b53eb34"
+  },
+  {
+    "last_update": "2025-11-30 06:58:24",
+    "song": {
+      "musicAuthor": "Måneskin",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851fa0ab3a28b5c52d8a5f97045",
+      "musicTitle": "Beggin'",
+      "radio": "Rádio ROCK",
+      "startTime": "07:57"
+    },
+    "recorded_at": "2025-11-30T07:58:24.359838+01:00",
+    "raw_valid": true,
+    "song_session_id": "f63195ea-46cf-4e2a-93f6-e685bebde802"
+  },
+  {
+    "last_update": "2025-11-30 07:01:23",
+    "song": {
+      "musicAuthor": "Disturbed",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048519ed426cd696d9bfc8215fff6",
+      "musicTitle": "Land Of Confusion",
+      "radio": "Rádio ROCK",
+      "startTime": "08:01"
+    },
+    "recorded_at": "2025-11-30T08:01:24.664130+01:00",
+    "raw_valid": true,
+    "song_session_id": "e733b2ff-1f59-4c32-847e-576da6c2469f"
+  },
+  {
+    "last_update": "2025-11-30 07:06:26",
+    "song": {
+      "musicAuthor": "Guns N Roses",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851e44963b8bb127552ac761873",
+      "musicTitle": "Live And Let Die",
+      "radio": "Rádio ROCK",
+      "startTime": "08:06"
+    },
+    "recorded_at": "2025-11-30T08:06:26.475009+01:00",
+    "raw_valid": true,
+    "song_session_id": "07f3ed95-17a9-4a58-b8f3-09335558675c"
+  },
+  {
+    "last_update": "2025-11-30 07:09:26",
+    "song": {
+      "musicAuthor": "Queen",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851e98d08fbea1a2f03229abc20",
+      "musicTitle": "Friends Will Be Friends",
+      "radio": "Rádio ROCK",
+      "startTime": "08:09"
+    },
+    "recorded_at": "2025-11-30T08:09:26.964605+01:00",
+    "raw_valid": true,
+    "song_session_id": "3db10c7a-b9db-4eeb-a449-7993bc416bca"
+  },
+  {
+    "last_update": "2025-11-30 07:13:27",
+    "song": {
+      "musicAuthor": "System Of A Down",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048512dc63e977bd5101072adcef6",
+      "musicTitle": "Sugar",
+      "radio": "Rádio ROCK",
+      "startTime": "08:13"
+    },
+    "recorded_at": "2025-11-30T08:13:27.962524+01:00",
+    "raw_valid": true,
+    "song_session_id": "fb9c184f-ceca-4f42-9f13-2ba4552182cd"
+  },
+  {
+    "last_update": "2025-11-30 07:16:28",
+    "song": {
+      "musicAuthor": "Bullet For My Valentine",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851f467961e3089fd694c893584",
+      "musicTitle": "Your Betrayal",
+      "radio": "Rádio ROCK",
+      "startTime": "08:15"
+    },
+    "recorded_at": "2025-11-30T08:16:29.165424+01:00",
+    "raw_valid": true,
+    "song_session_id": "5f115328-11c7-4b66-9c55-03660c3ca5c3"
+  },
+  {
+    "last_update": "2025-11-30 07:21:32",
+    "song": {
+      "musicAuthor": "Metallica",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851e5a07037750e97dca575c690",
+      "musicTitle": "Lux Aeterna",
+      "radio": "Rádio ROCK",
+      "startTime": "08:20"
+    },
+    "recorded_at": "2025-11-30T08:21:33.032638+01:00",
+    "raw_valid": true,
+    "song_session_id": "93ae8e82-4e35-4f65-af15-e39e24285864"
+  },
+  {
+    "last_update": "2025-11-30 07:24:32",
+    "song": {
+      "musicAuthor": "Bon Jovi",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048511336b31b6a1799f0de5807ac",
+      "musicTitle": "Wanted Dead Or Alive",
+      "radio": "Rádio ROCK",
+      "startTime": "08:24"
+    },
+    "recorded_at": "2025-11-30T08:24:33.379532+01:00",
+    "raw_valid": true,
+    "song_session_id": "325b9c1b-e56d-46ee-a0d3-7f635ac1e9e1"
+  },
+  {
+    "last_update": "2025-11-30 07:29:33",
+    "song": {
+      "musicAuthor": "Lenny Kravitz",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851f1157b7dcd21bae0c2c75d89",
+      "musicTitle": "Fly Away",
+      "radio": "Rádio ROCK",
+      "startTime": "08:28"
+    },
+    "recorded_at": "2025-11-30T08:29:34.262940+01:00",
+    "raw_valid": true,
+    "song_session_id": "c3adc881-6077-4713-a1e0-b900935eaf4d"
+  },
+  {
+    "last_update": "2025-11-30 07:33:34",
+    "song": {
+      "musicAuthor": "Limp Bizkit",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048514a31b146c7cf07705d912efe",
+      "musicTitle": "Take A Look Around",
+      "radio": "Rádio ROCK",
+      "startTime": "08:32"
+    },
+    "recorded_at": "2025-11-30T08:33:34.944988+01:00",
+    "raw_valid": true,
+    "song_session_id": "2b2514f0-ef2b-4f31-a874-f002a93a3d07"
+  },
+  {
+    "last_update": "2025-11-30 07:38:34",
+    "song": {
+      "musicAuthor": "Lucie",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048518d8d0e40bd3b70756f01044c",
+      "musicTitle": "Šťastnej Chlap",
+      "radio": "Rádio ROCK",
+      "startTime": "08:37"
+    },
+    "recorded_at": "2025-11-30T08:38:35.312849+01:00",
+    "raw_valid": true,
+    "song_session_id": "fd1d5b24-2a05-4acf-aab7-28e172ad72e0"
+  },
+  {
+    "last_update": "2025-11-30 07:41:36",
+    "song": {
+      "musicAuthor": "R.E.M.",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851ace3e7aae0b7c78bbe1c4f35",
+      "musicTitle": "The Sidewinder Sleeps Tonite",
+      "radio": "Rádio ROCK",
+      "startTime": "08:40"
+    },
+    "recorded_at": "2025-11-30T08:41:36.164702+01:00",
+    "raw_valid": true,
+    "song_session_id": "c3836778-4c7a-4acc-adc3-a3f87afb797b"
+  },
+  {
+    "last_update": "2025-11-30 07:46:36",
+    "song": {
+      "musicAuthor": "The Cure",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851ee8b603d6c666ba428daac30",
+      "musicTitle": "Lullaby",
+      "radio": "Rádio ROCK",
+      "startTime": "08:45"
+    },
+    "recorded_at": "2025-11-30T08:46:36.982091+01:00",
+    "raw_valid": true,
+    "song_session_id": "2ec6e070-fee0-40fe-82cd-f073ee2f71b3"
+  },
+  {
+    "last_update": "2025-11-30 07:50:36",
+    "song": {
+      "musicAuthor": "Him",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048511493d4964d5455624e29eb90",
+      "musicTitle": "Join Me In Death",
+      "radio": "Rádio ROCK",
+      "startTime": "08:49"
+    },
+    "recorded_at": "2025-11-30T08:50:37.578436+01:00",
+    "raw_valid": true,
+    "song_session_id": "2c7f99c9-eac8-40fc-a596-4eafc9402b9a"
+  },
+  {
+    "last_update": "2025-11-30 07:53:37",
+    "song": {
+      "musicAuthor": "Green Day",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048516869f1cd33bf72e00313520d",
+      "musicTitle": "Minority",
+      "radio": "Rádio ROCK",
+      "startTime": "08:53"
+    },
+    "recorded_at": "2025-11-30T08:53:38.307829+01:00",
+    "raw_valid": true,
+    "song_session_id": "cae0358e-cd2a-4cb3-99a5-2f9440b5d35f"
+  },
+  {
+    "last_update": "2025-11-30 07:56:08",
+    "song": {
+      "musicAuthor": "Europe",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048512d925cec3072ed1b74e5188f",
+      "musicTitle": "Carrie",
+      "radio": "Rádio ROCK",
+      "startTime": "08:55"
+    },
+    "recorded_at": "2025-11-30T08:56:08.794343+01:00",
+    "raw_valid": true,
+    "song_session_id": "5c0488b5-36a9-4205-8c3a-378d38c5d3a1"
+  },
+  {
+    "last_update": "2025-11-30 08:01:09",
+    "song": {
+      "musicAuthor": "Imagine Dragons",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048515675e83f707f1d7271e5cf8a",
+      "musicTitle": "Whatever It Takes",
+      "radio": "Rádio ROCK",
+      "startTime": "09:01"
+    },
+    "recorded_at": "2025-11-30T09:01:10.074724+01:00",
+    "raw_valid": true,
+    "song_session_id": "474c411d-dd26-4d98-bec4-877efd4b87d5"
+  },
+  {
+    "last_update": "2025-11-30 08:04:09",
+    "song": {
+      "musicAuthor": "Nirvana",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851fbc71c99f9c1296c56dd51b6",
+      "musicTitle": "Polly",
+      "radio": "Rádio ROCK",
+      "startTime": "09:03"
+    },
+    "recorded_at": "2025-11-30T09:04:10.460613+01:00",
+    "raw_valid": true,
+    "song_session_id": "61f2cc64-4e0a-4c4c-89b6-73a133169c73"
+  },
+  {
+    "last_update": "2025-11-30 08:07:10",
+    "song": {
+      "musicAuthor": "Yes",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851418e5dc6c0324f12a96e7aa7",
+      "musicTitle": "Owner Of A Lonely Heart",
+      "radio": "Rádio ROCK",
+      "startTime": "09:06"
+    },
+    "recorded_at": "2025-11-30T09:07:10.741813+01:00",
+    "raw_valid": true,
+    "song_session_id": "ba0210fc-c70f-4dc9-ba95-e94769c65201"
+  },
+  {
+    "last_update": "2025-11-30 08:11:10",
+    "song": {
+      "musicAuthor": "Helloween",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048513ab4dc4b31ad6870b455ac80",
+      "musicTitle": "I Want Out",
+      "radio": "Rádio ROCK",
+      "startTime": "09:11"
+    },
+    "recorded_at": "2025-11-30T09:11:11.395160+01:00",
+    "raw_valid": true,
+    "song_session_id": "f68ffda0-ebcf-48e1-85d5-c3da51c1b26b"
+  },
+  {
+    "last_update": "2025-11-30 08:16:11",
+    "song": {
+      "musicAuthor": "Electric Callboy",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048511b5a91650a2ef165828d936d",
+      "musicTitle": "Elevator Operator",
+      "radio": "Rádio ROCK",
+      "startTime": "09:15"
+    },
+    "recorded_at": "2025-11-30T09:16:11.985115+01:00",
+    "raw_valid": true,
+    "song_session_id": "d132e08e-8625-4bd9-ab3b-b4fc3a5e4ff9"
+  },
+  {
+    "last_update": "2025-11-30 08:19:12",
+    "song": {
+      "musicAuthor": "Horkýže Slíže",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851d908a63a01282b0e2ac770ab",
+      "musicTitle": "Nazdar",
+      "radio": "Rádio ROCK",
+      "startTime": "09:19"
+    },
+    "recorded_at": "2025-11-30T09:19:12.173353+01:00",
+    "raw_valid": true,
+    "song_session_id": "af3a301a-72af-4611-88cd-83b54a96111a"
+  },
+  {
+    "last_update": "2025-11-30 08:22:12",
+    "song": {
+      "musicAuthor": "Def Leppard",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851222cb38afc3b3b47d9df26aa",
+      "musicTitle": "Hysteria",
+      "radio": "Rádio ROCK",
+      "startTime": "09:22"
+    },
+    "recorded_at": "2025-11-30T09:22:13.864298+01:00",
+    "raw_valid": true,
+    "song_session_id": "b264eac0-97bc-4a35-94ab-06bffe953c69"
+  },
+  {
+    "last_update": "2025-11-30 08:28:15",
+    "song": {
+      "musicAuthor": "Bon Jovi",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485159bfe048568a969c6f0bd08c",
+      "musicTitle": "In These Arms",
+      "radio": "Rádio ROCK",
+      "startTime": "09:27"
+    },
+    "recorded_at": "2025-11-30T09:28:15.937997+01:00",
+    "raw_valid": true,
+    "song_session_id": "991dfc68-7532-401a-81da-446c95eab72c"
+  },
+  {
+    "last_update": "2025-11-30 08:33:16",
+    "song": {
+      "musicAuthor": "Disturbed",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851d7bd0f8e4d2a399020b333e8",
+      "musicTitle": "The Sound Of Silence",
+      "radio": "Rádio ROCK",
+      "startTime": "09:32"
+    },
+    "recorded_at": "2025-11-30T09:33:17.113922+01:00",
+    "raw_valid": true,
+    "song_session_id": "c9c61b06-4fab-4b96-81f6-9dc1031dc9c1"
+  },
+  {
+    "last_update": "2025-11-30 08:37:16",
+    "song": {
+      "musicAuthor": "Metallica",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851cf84c5b276431b473e924802",
+      "musicTitle": "Enter Sandman",
+      "radio": "Rádio ROCK",
+      "startTime": "09:37"
+    },
+    "recorded_at": "2025-11-30T09:37:17.515431+01:00",
+    "raw_valid": true,
+    "song_session_id": "202c1e2e-bde8-4f61-ac82-6239ec2886ea"
+  },
+  {
+    "last_update": "2025-11-30 08:43:18",
+    "song": {
+      "musicAuthor": "Ac Dc",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048518399047ff71200928f5b6508",
+      "musicTitle": "Thunderstruck",
+      "radio": "Rádio ROCK",
+      "startTime": "09:42"
+    },
+    "recorded_at": "2025-11-30T09:43:18.954281+01:00",
+    "raw_valid": true,
+    "song_session_id": "eef8d6fa-e8fa-4b43-8e4b-36dba805c4cd"
+  },
+  {
+    "last_update": "2025-11-30 08:48:21",
+    "song": {
+      "musicAuthor": "Springsteen Bruce",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048510e987064364e2b62ae1925b4",
+      "musicTitle": "Hungry Heart",
+      "radio": "Rádio ROCK",
+      "startTime": "09:47"
+    },
+    "recorded_at": "2025-11-30T09:48:21.267912+01:00",
+    "raw_valid": true,
+    "song_session_id": "8d2bb8c3-5074-4bda-b3d8-ec759838e61f"
+  }
+]

@@ -1,0 +1,1376 @@
+[
+  {
+    "listeners": 527,
+    "recorded_at": "2025-11-11T02:02:25.587124+01:00",
+    "raw_valid": true,
+    "song_session_id": "b5a3d52a-9c15-4a3e-b744-9995e48d4513"
+  },
+  {
+    "listeners": 520,
+    "recorded_at": "2025-11-11T02:02:55.598499+01:00",
+    "raw_valid": true,
+    "song_session_id": "b5a3d52a-9c15-4a3e-b744-9995e48d4513"
+  },
+  {
+    "listeners": 521,
+    "recorded_at": "2025-11-11T02:03:25.609125+01:00",
+    "raw_valid": true,
+    "song_session_id": "b5a3d52a-9c15-4a3e-b744-9995e48d4513"
+  },
+  {
+    "listeners": 512,
+    "recorded_at": "2025-11-11T02:03:55.619395+01:00",
+    "raw_valid": true,
+    "song_session_id": "b5a3d52a-9c15-4a3e-b744-9995e48d4513"
+  },
+  {
+    "listeners": 522,
+    "recorded_at": "2025-11-11T02:04:25.629656+01:00",
+    "raw_valid": true,
+    "song_session_id": "b5a3d52a-9c15-4a3e-b744-9995e48d4513"
+  },
+  {
+    "listeners": 525,
+    "recorded_at": "2025-11-11T02:04:55.640555+01:00",
+    "raw_valid": true,
+    "song_session_id": "b5a3d52a-9c15-4a3e-b744-9995e48d4513"
+  },
+  {
+    "listeners": 510,
+    "recorded_at": "2025-11-11T02:05:25.651338+01:00",
+    "raw_valid": true,
+    "song_session_id": "1f282d7a-8947-4d25-915b-a5e8c2db589b"
+  },
+  {
+    "listeners": 514,
+    "recorded_at": "2025-11-11T02:05:55.669666+01:00",
+    "raw_valid": true,
+    "song_session_id": "1f282d7a-8947-4d25-915b-a5e8c2db589b"
+  },
+  {
+    "listeners": 520,
+    "recorded_at": "2025-11-11T02:06:25.693513+01:00",
+    "raw_valid": true,
+    "song_session_id": "1f282d7a-8947-4d25-915b-a5e8c2db589b"
+  },
+  {
+    "listeners": 516,
+    "recorded_at": "2025-11-11T02:06:55.723919+01:00",
+    "raw_valid": true,
+    "song_session_id": "1f282d7a-8947-4d25-915b-a5e8c2db589b"
+  },
+  {
+    "listeners": 512,
+    "recorded_at": "2025-11-11T02:07:25.733674+01:00",
+    "raw_valid": true,
+    "song_session_id": "1f282d7a-8947-4d25-915b-a5e8c2db589b"
+  },
+  {
+    "listeners": 513,
+    "recorded_at": "2025-11-11T02:07:55.764185+01:00",
+    "raw_valid": true,
+    "song_session_id": "1f282d7a-8947-4d25-915b-a5e8c2db589b"
+  },
+  {
+    "listeners": 530,
+    "recorded_at": "2025-11-11T02:08:25.789685+01:00",
+    "raw_valid": true,
+    "song_session_id": "92cc30db-9c20-4f36-b5f6-eadcac04663f"
+  },
+  {
+    "listeners": 519,
+    "recorded_at": "2025-11-11T02:08:55.797681+01:00",
+    "raw_valid": true,
+    "song_session_id": "92cc30db-9c20-4f36-b5f6-eadcac04663f"
+  },
+  {
+    "listeners": 517,
+    "recorded_at": "2025-11-11T02:09:25.821707+01:00",
+    "raw_valid": true,
+    "song_session_id": "92cc30db-9c20-4f36-b5f6-eadcac04663f"
+  },
+  {
+    "listeners": 530,
+    "recorded_at": "2025-11-11T02:09:55.851478+01:00",
+    "raw_valid": true,
+    "song_session_id": "92cc30db-9c20-4f36-b5f6-eadcac04663f"
+  },
+  {
+    "listeners": 521,
+    "recorded_at": "2025-11-11T02:10:25.861731+01:00",
+    "raw_valid": true,
+    "song_session_id": "92cc30db-9c20-4f36-b5f6-eadcac04663f"
+  },
+  {
+    "listeners": 530,
+    "recorded_at": "2025-11-11T02:10:55.892297+01:00",
+    "raw_valid": true,
+    "song_session_id": "92cc30db-9c20-4f36-b5f6-eadcac04663f"
+  },
+  {
+    "listeners": 521,
+    "recorded_at": "2025-11-11T02:11:25.922719+01:00",
+    "raw_valid": true,
+    "song_session_id": "f72864e7-4fc8-4c8e-b8df-3ba8eeb5b6c4"
+  },
+  {
+    "listeners": 520,
+    "recorded_at": "2025-11-11T02:11:55.925701+01:00",
+    "raw_valid": true,
+    "song_session_id": "f72864e7-4fc8-4c8e-b8df-3ba8eeb5b6c4"
+  },
+  {
+    "listeners": 528,
+    "recorded_at": "2025-11-11T02:12:25.936930+01:00",
+    "raw_valid": true,
+    "song_session_id": "f72864e7-4fc8-4c8e-b8df-3ba8eeb5b6c4"
+  },
+  {
+    "listeners": 529,
+    "recorded_at": "2025-11-11T02:12:55.957672+01:00",
+    "raw_valid": true,
+    "song_session_id": "f72864e7-4fc8-4c8e-b8df-3ba8eeb5b6c4"
+  },
+  {
+    "listeners": 512,
+    "recorded_at": "2025-11-11T02:14:06.051668+01:00",
+    "raw_valid": true,
+    "song_session_id": "f72864e7-4fc8-4c8e-b8df-3ba8eeb5b6c4"
+  },
+  {
+    "listeners": 525,
+    "recorded_at": "2025-11-11T02:14:36.062755+01:00",
+    "raw_valid": true,
+    "song_session_id": "7eee5a8f-b548-4123-8f36-b4b176b0bb60"
+  },
+  {
+    "listeners": 523,
+    "recorded_at": "2025-11-11T02:15:06.073124+01:00",
+    "raw_valid": true,
+    "song_session_id": "7eee5a8f-b548-4123-8f36-b4b176b0bb60"
+  },
+  {
+    "listeners": 511,
+    "recorded_at": "2025-11-11T02:15:36.083843+01:00",
+    "raw_valid": true,
+    "song_session_id": "7eee5a8f-b548-4123-8f36-b4b176b0bb60"
+  },
+  {
+    "listeners": 515,
+    "recorded_at": "2025-11-11T02:16:06.094582+01:00",
+    "raw_valid": true,
+    "song_session_id": "7eee5a8f-b548-4123-8f36-b4b176b0bb60"
+  },
+  {
+    "listeners": 528,
+    "recorded_at": "2025-11-11T02:16:36.105440+01:00",
+    "raw_valid": true,
+    "song_session_id": "7eee5a8f-b548-4123-8f36-b4b176b0bb60"
+  },
+  {
+    "listeners": 519,
+    "recorded_at": "2025-11-11T02:17:06.117043+01:00",
+    "raw_valid": true,
+    "song_session_id": "7eee5a8f-b548-4123-8f36-b4b176b0bb60"
+  },
+  {
+    "listeners": 511,
+    "recorded_at": "2025-11-11T02:17:36.128876+01:00",
+    "raw_valid": true,
+    "song_session_id": "7eee5a8f-b548-4123-8f36-b4b176b0bb60"
+  },
+  {
+    "listeners": 510,
+    "recorded_at": "2025-11-11T02:18:06.139747+01:00",
+    "raw_valid": true,
+    "song_session_id": "7eee5a8f-b548-4123-8f36-b4b176b0bb60"
+  },
+  {
+    "listeners": 526,
+    "recorded_at": "2025-11-11T02:18:36.149604+01:00",
+    "raw_valid": true,
+    "song_session_id": "1f4c86ab-8602-4f76-b39e-4bce06dd1236"
+  },
+  {
+    "listeners": 522,
+    "recorded_at": "2025-11-11T02:19:06.160247+01:00",
+    "raw_valid": true,
+    "song_session_id": "1f4c86ab-8602-4f76-b39e-4bce06dd1236"
+  },
+  {
+    "listeners": 512,
+    "recorded_at": "2025-11-11T02:19:36.189680+01:00",
+    "raw_valid": true,
+    "song_session_id": "1f4c86ab-8602-4f76-b39e-4bce06dd1236"
+  },
+  {
+    "listeners": 514,
+    "recorded_at": "2025-11-11T02:20:06.206796+01:00",
+    "raw_valid": true,
+    "song_session_id": "1f4c86ab-8602-4f76-b39e-4bce06dd1236"
+  },
+  {
+    "listeners": 516,
+    "recorded_at": "2025-11-11T02:20:36.221677+01:00",
+    "raw_valid": true,
+    "song_session_id": "1f4c86ab-8602-4f76-b39e-4bce06dd1236"
+  },
+  {
+    "listeners": 519,
+    "recorded_at": "2025-11-11T02:21:06.245683+01:00",
+    "raw_valid": true,
+    "song_session_id": "1f4c86ab-8602-4f76-b39e-4bce06dd1236"
+  },
+  {
+    "listeners": 513,
+    "recorded_at": "2025-11-11T02:21:36.271898+01:00",
+    "raw_valid": true,
+    "song_session_id": "49928482-4797-4eb7-9ab7-01d1ae164fb7"
+  },
+  {
+    "listeners": 519,
+    "recorded_at": "2025-11-11T02:22:06.302376+01:00",
+    "raw_valid": true,
+    "song_session_id": "49928482-4797-4eb7-9ab7-01d1ae164fb7"
+  },
+  {
+    "listeners": 513,
+    "recorded_at": "2025-11-11T02:22:36.317692+01:00",
+    "raw_valid": true,
+    "song_session_id": "49928482-4797-4eb7-9ab7-01d1ae164fb7"
+  },
+  {
+    "listeners": 512,
+    "recorded_at": "2025-11-11T02:23:06.348229+01:00",
+    "raw_valid": true,
+    "song_session_id": "49928482-4797-4eb7-9ab7-01d1ae164fb7"
+  },
+  {
+    "listeners": 525,
+    "recorded_at": "2025-11-11T02:23:36.378660+01:00",
+    "raw_valid": true,
+    "song_session_id": "49928482-4797-4eb7-9ab7-01d1ae164fb7"
+  },
+  {
+    "listeners": 529,
+    "recorded_at": "2025-11-11T02:24:06.396925+01:00",
+    "raw_valid": true,
+    "song_session_id": "49928482-4797-4eb7-9ab7-01d1ae164fb7"
+  },
+  {
+    "listeners": 522,
+    "recorded_at": "2025-11-11T02:24:36.413683+01:00",
+    "raw_valid": true,
+    "song_session_id": "2d57de74-7b4a-45d7-ad3e-e83e7e037911"
+  },
+  {
+    "listeners": 516,
+    "recorded_at": "2025-11-11T02:25:06.443724+01:00",
+    "raw_valid": true,
+    "song_session_id": "2d57de74-7b4a-45d7-ad3e-e83e7e037911"
+  },
+  {
+    "listeners": 513,
+    "recorded_at": "2025-11-11T02:25:36.474118+01:00",
+    "raw_valid": true,
+    "song_session_id": "2d57de74-7b4a-45d7-ad3e-e83e7e037911"
+  },
+  {
+    "listeners": 530,
+    "recorded_at": "2025-11-11T02:26:06.499235+01:00",
+    "raw_valid": true,
+    "song_session_id": "2d57de74-7b4a-45d7-ad3e-e83e7e037911"
+  },
+  {
+    "listeners": 524,
+    "recorded_at": "2025-11-11T02:26:36.517677+01:00",
+    "raw_valid": true,
+    "song_session_id": "2d57de74-7b4a-45d7-ad3e-e83e7e037911"
+  },
+  {
+    "listeners": 511,
+    "recorded_at": "2025-11-11T02:27:46.613898+01:00",
+    "raw_valid": true,
+    "song_session_id": "b236ddfc-800d-458d-80f8-9f734d34adc8"
+  },
+  {
+    "listeners": 514,
+    "recorded_at": "2025-11-11T02:28:16.623407+01:00",
+    "raw_valid": true,
+    "song_session_id": "b236ddfc-800d-458d-80f8-9f734d34adc8"
+  },
+  {
+    "listeners": 523,
+    "recorded_at": "2025-11-11T02:28:46.634686+01:00",
+    "raw_valid": true,
+    "song_session_id": "b236ddfc-800d-458d-80f8-9f734d34adc8"
+  },
+  {
+    "listeners": 528,
+    "recorded_at": "2025-11-11T02:29:16.645506+01:00",
+    "raw_valid": true,
+    "song_session_id": "b236ddfc-800d-458d-80f8-9f734d34adc8"
+  },
+  {
+    "listeners": 522,
+    "recorded_at": "2025-11-11T02:29:46.653658+01:00",
+    "raw_valid": true,
+    "song_session_id": "b236ddfc-800d-458d-80f8-9f734d34adc8"
+  },
+  {
+    "listeners": 530,
+    "recorded_at": "2025-11-11T02:30:16.664265+01:00",
+    "raw_valid": true,
+    "song_session_id": "b236ddfc-800d-458d-80f8-9f734d34adc8"
+  },
+  {
+    "listeners": 520,
+    "recorded_at": "2025-11-11T02:30:46.674733+01:00",
+    "raw_valid": true,
+    "song_session_id": "b236ddfc-800d-458d-80f8-9f734d34adc8"
+  },
+  {
+    "listeners": 514,
+    "recorded_at": "2025-11-11T02:31:16.685853+01:00",
+    "raw_valid": true,
+    "song_session_id": "eda66d0b-682c-4499-ae76-9b62546a0f9e"
+  },
+  {
+    "listeners": 515,
+    "recorded_at": "2025-11-11T02:31:46.695891+01:00",
+    "raw_valid": true,
+    "song_session_id": "eda66d0b-682c-4499-ae76-9b62546a0f9e"
+  },
+  {
+    "listeners": 518,
+    "recorded_at": "2025-11-11T02:32:16.700554+01:00",
+    "raw_valid": true,
+    "song_session_id": "eda66d0b-682c-4499-ae76-9b62546a0f9e"
+  },
+  {
+    "listeners": 519,
+    "recorded_at": "2025-11-11T02:32:46.711236+01:00",
+    "raw_valid": true,
+    "song_session_id": "eda66d0b-682c-4499-ae76-9b62546a0f9e"
+  },
+  {
+    "listeners": 522,
+    "recorded_at": "2025-11-11T02:33:16.741799+01:00",
+    "raw_valid": true,
+    "song_session_id": "eda66d0b-682c-4499-ae76-9b62546a0f9e"
+  },
+  {
+    "listeners": 525,
+    "recorded_at": "2025-11-11T02:33:46.772230+01:00",
+    "raw_valid": true,
+    "song_session_id": "eda66d0b-682c-4499-ae76-9b62546a0f9e"
+  },
+  {
+    "listeners": 520,
+    "recorded_at": "2025-11-11T02:34:16.788684+01:00",
+    "raw_valid": true,
+    "song_session_id": "eda66d0b-682c-4499-ae76-9b62546a0f9e"
+  },
+  {
+    "listeners": 518,
+    "recorded_at": "2025-11-11T02:34:46.813783+01:00",
+    "raw_valid": true,
+    "song_session_id": "eda66d0b-682c-4499-ae76-9b62546a0f9e"
+  },
+  {
+    "listeners": 527,
+    "recorded_at": "2025-11-11T02:35:16.844242+01:00",
+    "raw_valid": true,
+    "song_session_id": "e5255abf-0226-4f3b-a587-11f7a326ad59"
+  },
+  {
+    "listeners": 510,
+    "recorded_at": "2025-11-11T02:35:46.874628+01:00",
+    "raw_valid": true,
+    "song_session_id": "e5255abf-0226-4f3b-a587-11f7a326ad59"
+  },
+  {
+    "listeners": 522,
+    "recorded_at": "2025-11-11T02:36:16.885709+01:00",
+    "raw_valid": true,
+    "song_session_id": "e5255abf-0226-4f3b-a587-11f7a326ad59"
+  },
+  {
+    "listeners": 513,
+    "recorded_at": "2025-11-11T02:36:46.916221+01:00",
+    "raw_valid": true,
+    "song_session_id": "e5255abf-0226-4f3b-a587-11f7a326ad59"
+  },
+  {
+    "listeners": 519,
+    "recorded_at": "2025-11-11T02:37:16.946644+01:00",
+    "raw_valid": true,
+    "song_session_id": "96ff5a75-d0ac-4ea0-b9d0-01f9b0383c10"
+  },
+  {
+    "listeners": 526,
+    "recorded_at": "2025-11-11T02:37:46.949699+01:00",
+    "raw_valid": true,
+    "song_session_id": "96ff5a75-d0ac-4ea0-b9d0-01f9b0383c10"
+  },
+  {
+    "listeners": 528,
+    "recorded_at": "2025-11-11T02:38:16.980165+01:00",
+    "raw_valid": true,
+    "song_session_id": "96ff5a75-d0ac-4ea0-b9d0-01f9b0383c10"
+  },
+  {
+    "listeners": 510,
+    "recorded_at": "2025-11-11T02:38:46.990684+01:00",
+    "raw_valid": true,
+    "song_session_id": "96ff5a75-d0ac-4ea0-b9d0-01f9b0383c10"
+  },
+  {
+    "listeners": 514,
+    "recorded_at": "2025-11-11T02:39:17.021083+01:00",
+    "raw_valid": true,
+    "song_session_id": "96ff5a75-d0ac-4ea0-b9d0-01f9b0383c10"
+  },
+  {
+    "listeners": 514,
+    "recorded_at": "2025-11-11T02:39:47.051530+01:00",
+    "raw_valid": true,
+    "song_session_id": "96ff5a75-d0ac-4ea0-b9d0-01f9b0383c10"
+  },
+  {
+    "listeners": 520,
+    "recorded_at": "2025-11-11T02:40:17.081953+01:00",
+    "raw_valid": true,
+    "song_session_id": "1ed4c0b1-4b0b-4b0e-b5b3-eb0a88f33175"
+  },
+  {
+    "listeners": 513,
+    "recorded_at": "2025-11-11T02:41:27.172819+01:00",
+    "raw_valid": true,
+    "song_session_id": "1ed4c0b1-4b0b-4b0e-b5b3-eb0a88f33175"
+  },
+  {
+    "listeners": 517,
+    "recorded_at": "2025-11-11T02:41:57.184666+01:00",
+    "raw_valid": true,
+    "song_session_id": "1ed4c0b1-4b0b-4b0e-b5b3-eb0a88f33175"
+  },
+  {
+    "listeners": 514,
+    "recorded_at": "2025-11-11T02:42:27.196641+01:00",
+    "raw_valid": true,
+    "song_session_id": "1ed4c0b1-4b0b-4b0e-b5b3-eb0a88f33175"
+  },
+  {
+    "listeners": 520,
+    "recorded_at": "2025-11-11T02:42:57.208472+01:00",
+    "raw_valid": true,
+    "song_session_id": "1ed4c0b1-4b0b-4b0e-b5b3-eb0a88f33175"
+  },
+  {
+    "listeners": 510,
+    "recorded_at": "2025-11-11T02:43:27.218857+01:00",
+    "raw_valid": true,
+    "song_session_id": "a941ca53-fe95-41b8-8699-8f88022c1a92"
+  },
+  {
+    "listeners": 527,
+    "recorded_at": "2025-11-11T02:43:57.229627+01:00",
+    "raw_valid": true,
+    "song_session_id": "a941ca53-fe95-41b8-8699-8f88022c1a92"
+  },
+  {
+    "listeners": 528,
+    "recorded_at": "2025-11-11T02:44:27.240420+01:00",
+    "raw_valid": true,
+    "song_session_id": "a941ca53-fe95-41b8-8699-8f88022c1a92"
+  },
+  {
+    "listeners": 510,
+    "recorded_at": "2025-11-11T02:44:57.245665+01:00",
+    "raw_valid": true,
+    "song_session_id": "a941ca53-fe95-41b8-8699-8f88022c1a92"
+  },
+  {
+    "listeners": 518,
+    "recorded_at": "2025-11-11T02:45:27.256186+01:00",
+    "raw_valid": true,
+    "song_session_id": "a941ca53-fe95-41b8-8699-8f88022c1a92"
+  },
+  {
+    "listeners": 515,
+    "recorded_at": "2025-11-11T02:45:57.266408+01:00",
+    "raw_valid": true,
+    "song_session_id": "a941ca53-fe95-41b8-8699-8f88022c1a92"
+  },
+  {
+    "listeners": 524,
+    "recorded_at": "2025-11-11T02:46:27.276897+01:00",
+    "raw_valid": true,
+    "song_session_id": "a941ca53-fe95-41b8-8699-8f88022c1a92"
+  },
+  {
+    "listeners": 522,
+    "recorded_at": "2025-11-11T02:46:57.307636+01:00",
+    "raw_valid": true,
+    "song_session_id": "a941ca53-fe95-41b8-8699-8f88022c1a92"
+  },
+  {
+    "listeners": 520,
+    "recorded_at": "2025-11-11T02:47:27.317667+01:00",
+    "raw_valid": true,
+    "song_session_id": "4cd5aced-cd83-43c3-866b-dbf8b5aad14e"
+  },
+  {
+    "listeners": 527,
+    "recorded_at": "2025-11-11T02:47:57.343623+01:00",
+    "raw_valid": true,
+    "song_session_id": "4cd5aced-cd83-43c3-866b-dbf8b5aad14e"
+  },
+  {
+    "listeners": 521,
+    "recorded_at": "2025-11-11T02:48:27.374088+01:00",
+    "raw_valid": true,
+    "song_session_id": "4cd5aced-cd83-43c3-866b-dbf8b5aad14e"
+  },
+  {
+    "listeners": 511,
+    "recorded_at": "2025-11-11T02:48:57.404544+01:00",
+    "raw_valid": true,
+    "song_session_id": "4cd5aced-cd83-43c3-866b-dbf8b5aad14e"
+  },
+  {
+    "listeners": 516,
+    "recorded_at": "2025-11-11T02:49:27.413138+01:00",
+    "raw_valid": true,
+    "song_session_id": "4cd5aced-cd83-43c3-866b-dbf8b5aad14e"
+  },
+  {
+    "listeners": 511,
+    "recorded_at": "2025-11-11T02:49:57.443564+01:00",
+    "raw_valid": true,
+    "song_session_id": "4cd5aced-cd83-43c3-866b-dbf8b5aad14e"
+  },
+  {
+    "listeners": 513,
+    "recorded_at": "2025-11-11T02:50:27.452251+01:00",
+    "raw_valid": true,
+    "song_session_id": "4cd5aced-cd83-43c3-866b-dbf8b5aad14e"
+  },
+  {
+    "listeners": 511,
+    "recorded_at": "2025-11-11T02:50:57.482716+01:00",
+    "raw_valid": true,
+    "song_session_id": "4cd5aced-cd83-43c3-866b-dbf8b5aad14e"
+  },
+  {
+    "listeners": 511,
+    "recorded_at": "2025-11-11T02:51:27.513110+01:00",
+    "raw_valid": true,
+    "song_session_id": "42f69175-5d6f-4e29-9276-5fd0962c2ec8"
+  },
+  {
+    "listeners": 530,
+    "recorded_at": "2025-11-11T02:51:57.516431+01:00",
+    "raw_valid": true,
+    "song_session_id": "42f69175-5d6f-4e29-9276-5fd0962c2ec8"
+  },
+  {
+    "listeners": 519,
+    "recorded_at": "2025-11-11T02:52:27.546884+01:00",
+    "raw_valid": true,
+    "song_session_id": "42f69175-5d6f-4e29-9276-5fd0962c2ec8"
+  },
+  {
+    "listeners": 529,
+    "recorded_at": "2025-11-11T02:52:57.577325+01:00",
+    "raw_valid": true,
+    "song_session_id": "42f69175-5d6f-4e29-9276-5fd0962c2ec8"
+  },
+  {
+    "listeners": 519,
+    "recorded_at": "2025-11-11T02:53:27.607778+01:00",
+    "raw_valid": true,
+    "song_session_id": "42f69175-5d6f-4e29-9276-5fd0962c2ec8"
+  },
+  {
+    "listeners": 530,
+    "recorded_at": "2025-11-11T02:53:57.638199+01:00",
+    "raw_valid": true,
+    "song_session_id": "42f69175-5d6f-4e29-9276-5fd0962c2ec8"
+  },
+  {
+    "listeners": 523,
+    "recorded_at": "2025-11-11T02:55:07.748575+01:00",
+    "raw_valid": true,
+    "song_session_id": "42f69175-5d6f-4e29-9276-5fd0962c2ec8"
+  },
+  {
+    "listeners": 530,
+    "recorded_at": "2025-11-11T02:55:37.749278+01:00",
+    "raw_valid": true,
+    "song_session_id": "91c587b2-8db7-4e35-a66a-477dabcdef10"
+  },
+  {
+    "listeners": 523,
+    "recorded_at": "2025-11-11T02:56:07.754081+01:00",
+    "raw_valid": true,
+    "song_session_id": "91c587b2-8db7-4e35-a66a-477dabcdef10"
+  },
+  {
+    "listeners": 520,
+    "recorded_at": "2025-11-11T02:56:37.763418+01:00",
+    "raw_valid": true,
+    "song_session_id": "91c587b2-8db7-4e35-a66a-477dabcdef10"
+  },
+  {
+    "listeners": 530,
+    "recorded_at": "2025-11-11T02:57:07.774497+01:00",
+    "raw_valid": true,
+    "song_session_id": "91c587b2-8db7-4e35-a66a-477dabcdef10"
+  },
+  {
+    "listeners": 511,
+    "recorded_at": "2025-11-11T02:57:37.784685+01:00",
+    "raw_valid": true,
+    "song_session_id": "91c587b2-8db7-4e35-a66a-477dabcdef10"
+  },
+  {
+    "listeners": 513,
+    "recorded_at": "2025-11-11T02:58:07.795108+01:00",
+    "raw_valid": true,
+    "song_session_id": "91c587b2-8db7-4e35-a66a-477dabcdef10"
+  },
+  {
+    "listeners": 514,
+    "recorded_at": "2025-11-11T02:58:37.805520+01:00",
+    "raw_valid": true,
+    "song_session_id": "f0cdd017-96ee-48f0-b579-d2d271d83a99"
+  },
+  {
+    "listeners": 529,
+    "recorded_at": "2025-11-11T02:59:07.813710+01:00",
+    "raw_valid": true,
+    "song_session_id": "f0cdd017-96ee-48f0-b579-d2d271d83a99"
+  },
+  {
+    "listeners": 523,
+    "recorded_at": "2025-11-11T02:59:37.824415+01:00",
+    "raw_valid": true,
+    "song_session_id": "f0cdd017-96ee-48f0-b579-d2d271d83a99"
+  },
+  {
+    "listeners": 519,
+    "recorded_at": "2025-11-11T03:00:07.834941+01:00",
+    "raw_valid": true,
+    "song_session_id": "f0cdd017-96ee-48f0-b579-d2d271d83a99"
+  },
+  {
+    "listeners": 524,
+    "recorded_at": "2025-11-11T03:00:37.849593+01:00",
+    "raw_valid": true,
+    "song_session_id": "f0cdd017-96ee-48f0-b579-d2d271d83a99"
+  },
+  {
+    "listeners": 528,
+    "recorded_at": "2025-11-11T03:01:07.853562+01:00",
+    "raw_valid": true,
+    "song_session_id": "f0cdd017-96ee-48f0-b579-d2d271d83a99"
+  },
+  {
+    "listeners": 526,
+    "recorded_at": "2025-11-11T03:01:37.857624+01:00",
+    "raw_valid": true,
+    "song_session_id": "41fdcf70-d8f3-4a85-b4ae-fe4e1c27a3bf"
+  },
+  {
+    "listeners": 512,
+    "recorded_at": "2025-11-11T03:02:07.870681+01:00",
+    "raw_valid": true,
+    "song_session_id": "41fdcf70-d8f3-4a85-b4ae-fe4e1c27a3bf"
+  },
+  {
+    "listeners": 521,
+    "recorded_at": "2025-11-11T03:02:37.874558+01:00",
+    "raw_valid": true,
+    "song_session_id": "41fdcf70-d8f3-4a85-b4ae-fe4e1c27a3bf"
+  },
+  {
+    "listeners": 520,
+    "recorded_at": "2025-11-11T03:03:07.878711+01:00",
+    "raw_valid": true,
+    "song_session_id": "41fdcf70-d8f3-4a85-b4ae-fe4e1c27a3bf"
+  },
+  {
+    "listeners": 510,
+    "recorded_at": "2025-11-11T03:03:37.882512+01:00",
+    "raw_valid": true,
+    "song_session_id": "41fdcf70-d8f3-4a85-b4ae-fe4e1c27a3bf"
+  },
+  {
+    "listeners": 517,
+    "recorded_at": "2025-11-11T03:04:07.890191+01:00",
+    "raw_valid": true,
+    "song_session_id": "41fdcf70-d8f3-4a85-b4ae-fe4e1c27a3bf"
+  },
+  {
+    "listeners": 519,
+    "recorded_at": "2025-11-11T03:04:37.917731+01:00",
+    "raw_valid": true,
+    "song_session_id": "0656ba86-def2-4e7f-8b62-819335c420f2"
+  },
+  {
+    "listeners": 525,
+    "recorded_at": "2025-11-11T03:05:07.924520+01:00",
+    "raw_valid": true,
+    "song_session_id": "0656ba86-def2-4e7f-8b62-819335c420f2"
+  },
+  {
+    "listeners": 521,
+    "recorded_at": "2025-11-11T03:05:37.955000+01:00",
+    "raw_valid": true,
+    "song_session_id": "0656ba86-def2-4e7f-8b62-819335c420f2"
+  },
+  {
+    "listeners": 526,
+    "recorded_at": "2025-11-11T03:06:07.965703+01:00",
+    "raw_valid": true,
+    "song_session_id": "0656ba86-def2-4e7f-8b62-819335c420f2"
+  },
+  {
+    "listeners": 522,
+    "recorded_at": "2025-11-11T03:06:37.979568+01:00",
+    "raw_valid": true,
+    "song_session_id": "0656ba86-def2-4e7f-8b62-819335c420f2"
+  },
+  {
+    "listeners": 512,
+    "recorded_at": "2025-11-11T03:07:08.010029+01:00",
+    "raw_valid": true,
+    "song_session_id": "0656ba86-def2-4e7f-8b62-819335c420f2"
+  },
+  {
+    "listeners": 515,
+    "recorded_at": "2025-11-11T03:07:38.040735+01:00",
+    "raw_valid": true,
+    "song_session_id": "655d145c-e6e8-4358-8f1e-98470a294de2"
+  },
+  {
+    "listeners": 527,
+    "recorded_at": "2025-11-11T03:08:48.119325+01:00",
+    "raw_valid": true,
+    "song_session_id": "655d145c-e6e8-4358-8f1e-98470a294de2"
+  },
+  {
+    "listeners": 515,
+    "recorded_at": "2025-11-11T03:09:18.125991+01:00",
+    "raw_valid": true,
+    "song_session_id": "655d145c-e6e8-4358-8f1e-98470a294de2"
+  },
+  {
+    "listeners": 510,
+    "recorded_at": "2025-11-11T03:09:48.138048+01:00",
+    "raw_valid": true,
+    "song_session_id": "655d145c-e6e8-4358-8f1e-98470a294de2"
+  },
+  {
+    "listeners": 520,
+    "recorded_at": "2025-11-11T03:10:18.149932+01:00",
+    "raw_valid": true,
+    "song_session_id": "655d145c-e6e8-4358-8f1e-98470a294de2"
+  },
+  {
+    "listeners": 525,
+    "recorded_at": "2025-11-11T03:10:48.160994+01:00",
+    "raw_valid": true,
+    "song_session_id": "655d145c-e6e8-4358-8f1e-98470a294de2"
+  },
+  {
+    "listeners": 514,
+    "recorded_at": "2025-11-11T03:11:18.171550+01:00",
+    "raw_valid": true,
+    "song_session_id": "5de301e8-e380-4906-b2b5-7fb248c53bd8"
+  },
+  {
+    "listeners": 518,
+    "recorded_at": "2025-11-11T03:11:48.177689+01:00",
+    "raw_valid": true,
+    "song_session_id": "5de301e8-e380-4906-b2b5-7fb248c53bd8"
+  },
+  {
+    "listeners": 511,
+    "recorded_at": "2025-11-11T03:12:18.187774+01:00",
+    "raw_valid": true,
+    "song_session_id": "5de301e8-e380-4906-b2b5-7fb248c53bd8"
+  },
+  {
+    "listeners": 518,
+    "recorded_at": "2025-11-11T03:12:48.198060+01:00",
+    "raw_valid": true,
+    "song_session_id": "5de301e8-e380-4906-b2b5-7fb248c53bd8"
+  },
+  {
+    "listeners": 525,
+    "recorded_at": "2025-11-11T03:13:18.206786+01:00",
+    "raw_valid": true,
+    "song_session_id": "07c99cbe-e0f7-4f68-97ef-77faf87d1b98"
+  },
+  {
+    "listeners": 526,
+    "recorded_at": "2025-11-11T03:13:48.218417+01:00",
+    "raw_valid": true,
+    "song_session_id": "07c99cbe-e0f7-4f68-97ef-77faf87d1b98"
+  },
+  {
+    "listeners": 517,
+    "recorded_at": "2025-11-11T03:14:18.242757+01:00",
+    "raw_valid": true,
+    "song_session_id": "07c99cbe-e0f7-4f68-97ef-77faf87d1b98"
+  },
+  {
+    "listeners": 519,
+    "recorded_at": "2025-11-11T03:14:48.253719+01:00",
+    "raw_valid": true,
+    "song_session_id": "07c99cbe-e0f7-4f68-97ef-77faf87d1b98"
+  },
+  {
+    "listeners": 516,
+    "recorded_at": "2025-11-11T03:15:18.284208+01:00",
+    "raw_valid": true,
+    "song_session_id": "07c99cbe-e0f7-4f68-97ef-77faf87d1b98"
+  },
+  {
+    "listeners": 522,
+    "recorded_at": "2025-11-11T03:15:48.285819+01:00",
+    "raw_valid": true,
+    "song_session_id": "07c99cbe-e0f7-4f68-97ef-77faf87d1b98"
+  },
+  {
+    "listeners": 529,
+    "recorded_at": "2025-11-11T03:16:18.309682+01:00",
+    "raw_valid": true,
+    "song_session_id": "2e16796a-25db-4278-aae1-8b43d1db10d6"
+  },
+  {
+    "listeners": 511,
+    "recorded_at": "2025-11-11T03:16:48.317696+01:00",
+    "raw_valid": true,
+    "song_session_id": "2e16796a-25db-4278-aae1-8b43d1db10d6"
+  },
+  {
+    "listeners": 530,
+    "recorded_at": "2025-11-11T03:17:18.322202+01:00",
+    "raw_valid": true,
+    "song_session_id": "2e16796a-25db-4278-aae1-8b43d1db10d6"
+  },
+  {
+    "listeners": 526,
+    "recorded_at": "2025-11-11T03:17:48.322943+01:00",
+    "raw_valid": true,
+    "song_session_id": "2e16796a-25db-4278-aae1-8b43d1db10d6"
+  },
+  {
+    "listeners": 518,
+    "recorded_at": "2025-11-11T03:18:18.353303+01:00",
+    "raw_valid": true,
+    "song_session_id": "2e16796a-25db-4278-aae1-8b43d1db10d6"
+  },
+  {
+    "listeners": 514,
+    "recorded_at": "2025-11-11T03:18:48.381662+01:00",
+    "raw_valid": true,
+    "song_session_id": "2e16796a-25db-4278-aae1-8b43d1db10d6"
+  },
+  {
+    "listeners": 517,
+    "recorded_at": "2025-11-11T03:19:18.397023+01:00",
+    "raw_valid": true,
+    "song_session_id": "2e16796a-25db-4278-aae1-8b43d1db10d6"
+  },
+  {
+    "listeners": 527,
+    "recorded_at": "2025-11-11T03:19:48.427399+01:00",
+    "raw_valid": true,
+    "song_session_id": "2e16796a-25db-4278-aae1-8b43d1db10d6"
+  },
+  {
+    "listeners": 529,
+    "recorded_at": "2025-11-11T03:20:18.457793+01:00",
+    "raw_valid": true,
+    "song_session_id": "540d553d-8ae5-4280-b0e2-68dd9ad35fa9"
+  },
+  {
+    "listeners": 510,
+    "recorded_at": "2025-11-11T03:20:48.469704+01:00",
+    "raw_valid": true,
+    "song_session_id": "540d553d-8ae5-4280-b0e2-68dd9ad35fa9"
+  },
+  {
+    "listeners": 517,
+    "recorded_at": "2025-11-11T03:21:18.500139+01:00",
+    "raw_valid": true,
+    "song_session_id": "540d553d-8ae5-4280-b0e2-68dd9ad35fa9"
+  },
+  {
+    "listeners": 514,
+    "recorded_at": "2025-11-11T03:22:28.604446+01:00",
+    "raw_valid": true,
+    "song_session_id": "540d553d-8ae5-4280-b0e2-68dd9ad35fa9"
+  },
+  {
+    "listeners": 525,
+    "recorded_at": "2025-11-11T03:22:58.614862+01:00",
+    "raw_valid": true,
+    "song_session_id": "540d553d-8ae5-4280-b0e2-68dd9ad35fa9"
+  },
+  {
+    "listeners": 530,
+    "recorded_at": "2025-11-11T03:23:28.625929+01:00",
+    "raw_valid": true,
+    "song_session_id": "76f8eed1-f167-491b-86c0-7a3278d607e7"
+  },
+  {
+    "listeners": 530,
+    "recorded_at": "2025-11-11T03:23:58.637059+01:00",
+    "raw_valid": true,
+    "song_session_id": "76f8eed1-f167-491b-86c0-7a3278d607e7"
+  },
+  {
+    "listeners": 514,
+    "recorded_at": "2025-11-11T03:24:28.647651+01:00",
+    "raw_valid": true,
+    "song_session_id": "76f8eed1-f167-491b-86c0-7a3278d607e7"
+  },
+  {
+    "listeners": 521,
+    "recorded_at": "2025-11-11T03:24:58.658220+01:00",
+    "raw_valid": true,
+    "song_session_id": "76f8eed1-f167-491b-86c0-7a3278d607e7"
+  },
+  {
+    "listeners": 530,
+    "recorded_at": "2025-11-11T03:25:28.668723+01:00",
+    "raw_valid": true,
+    "song_session_id": "76f8eed1-f167-491b-86c0-7a3278d607e7"
+  },
+  {
+    "listeners": 510,
+    "recorded_at": "2025-11-11T03:25:58.679353+01:00",
+    "raw_valid": true,
+    "song_session_id": "76f8eed1-f167-491b-86c0-7a3278d607e7"
+  },
+  {
+    "listeners": 520,
+    "recorded_at": "2025-11-11T03:26:28.689145+01:00",
+    "raw_valid": true,
+    "song_session_id": "8583f6b6-759c-421f-bcad-0be4a322f070"
+  },
+  {
+    "listeners": 525,
+    "recorded_at": "2025-11-11T03:26:58.695680+01:00",
+    "raw_valid": true,
+    "song_session_id": "8583f6b6-759c-421f-bcad-0be4a322f070"
+  },
+  {
+    "listeners": 510,
+    "recorded_at": "2025-11-11T03:27:28.706614+01:00",
+    "raw_valid": true,
+    "song_session_id": "8583f6b6-759c-421f-bcad-0be4a322f070"
+  },
+  {
+    "listeners": 515,
+    "recorded_at": "2025-11-11T03:27:58.717708+01:00",
+    "raw_valid": true,
+    "song_session_id": "8583f6b6-759c-421f-bcad-0be4a322f070"
+  },
+  {
+    "listeners": 513,
+    "recorded_at": "2025-11-11T03:28:28.744644+01:00",
+    "raw_valid": true,
+    "song_session_id": "8583f6b6-759c-421f-bcad-0be4a322f070"
+  },
+  {
+    "listeners": 528,
+    "recorded_at": "2025-11-11T03:28:58.775039+01:00",
+    "raw_valid": true,
+    "song_session_id": "8583f6b6-759c-421f-bcad-0be4a322f070"
+  },
+  {
+    "listeners": 523,
+    "recorded_at": "2025-11-11T03:29:28.781651+01:00",
+    "raw_valid": true,
+    "song_session_id": "8583f6b6-759c-421f-bcad-0be4a322f070"
+  },
+  {
+    "listeners": 530,
+    "recorded_at": "2025-11-11T03:29:58.799743+01:00",
+    "raw_valid": true,
+    "song_session_id": "8583f6b6-759c-421f-bcad-0be4a322f070"
+  },
+  {
+    "listeners": 529,
+    "recorded_at": "2025-11-11T03:30:28.813705+01:00",
+    "raw_valid": true,
+    "song_session_id": "65464eca-3587-4b95-9a9c-c318aaad873d"
+  },
+  {
+    "listeners": 527,
+    "recorded_at": "2025-11-11T03:30:58.844240+01:00",
+    "raw_valid": true,
+    "song_session_id": "65464eca-3587-4b95-9a9c-c318aaad873d"
+  },
+  {
+    "listeners": 530,
+    "recorded_at": "2025-11-11T03:31:28.874692+01:00",
+    "raw_valid": true,
+    "song_session_id": "65464eca-3587-4b95-9a9c-c318aaad873d"
+  },
+  {
+    "listeners": 521,
+    "recorded_at": "2025-11-11T03:31:58.876298+01:00",
+    "raw_valid": true,
+    "song_session_id": "65464eca-3587-4b95-9a9c-c318aaad873d"
+  },
+  {
+    "listeners": 529,
+    "recorded_at": "2025-11-11T03:32:28.906720+01:00",
+    "raw_valid": true,
+    "song_session_id": "65464eca-3587-4b95-9a9c-c318aaad873d"
+  },
+  {
+    "listeners": 526,
+    "recorded_at": "2025-11-11T03:32:58.937096+01:00",
+    "raw_valid": true,
+    "song_session_id": "65464eca-3587-4b95-9a9c-c318aaad873d"
+  },
+  {
+    "listeners": 513,
+    "recorded_at": "2025-11-11T03:33:28.957657+01:00",
+    "raw_valid": true,
+    "song_session_id": "69884b82-d1e4-4b3e-aee2-f3b4f0c36fb4"
+  },
+  {
+    "listeners": 518,
+    "recorded_at": "2025-11-11T03:33:58.973696+01:00",
+    "raw_valid": true,
+    "song_session_id": "69884b82-d1e4-4b3e-aee2-f3b4f0c36fb4"
+  },
+  {
+    "listeners": 524,
+    "recorded_at": "2025-11-11T03:34:28.989035+01:00",
+    "raw_valid": true,
+    "song_session_id": "69884b82-d1e4-4b3e-aee2-f3b4f0c36fb4"
+  },
+  {
+    "listeners": 521,
+    "recorded_at": "2025-11-11T03:34:58.989659+01:00",
+    "raw_valid": true,
+    "song_session_id": "69884b82-d1e4-4b3e-aee2-f3b4f0c36fb4"
+  },
+  {
+    "listeners": 513,
+    "recorded_at": "2025-11-11T03:36:09.114567+01:00",
+    "raw_valid": true,
+    "song_session_id": "69884b82-d1e4-4b3e-aee2-f3b4f0c36fb4"
+  },
+  {
+    "listeners": 521,
+    "recorded_at": "2025-11-11T03:36:39.115199+01:00",
+    "raw_valid": true,
+    "song_session_id": "9064bd72-620c-4ecb-893a-0a2b1cbd6211"
+  },
+  {
+    "listeners": 525,
+    "recorded_at": "2025-11-11T03:37:09.126135+01:00",
+    "raw_valid": true,
+    "song_session_id": "9064bd72-620c-4ecb-893a-0a2b1cbd6211"
+  },
+  {
+    "listeners": 516,
+    "recorded_at": "2025-11-11T03:37:39.127391+01:00",
+    "raw_valid": true,
+    "song_session_id": "9064bd72-620c-4ecb-893a-0a2b1cbd6211"
+  },
+  {
+    "listeners": 516,
+    "recorded_at": "2025-11-11T03:38:09.138239+01:00",
+    "raw_valid": true,
+    "song_session_id": "9064bd72-620c-4ecb-893a-0a2b1cbd6211"
+  },
+  {
+    "listeners": 520,
+    "recorded_at": "2025-11-11T03:38:39.138950+01:00",
+    "raw_valid": true,
+    "song_session_id": "9064bd72-620c-4ecb-893a-0a2b1cbd6211"
+  },
+  {
+    "listeners": 512,
+    "recorded_at": "2025-11-11T03:39:09.149352+01:00",
+    "raw_valid": true,
+    "song_session_id": "9064bd72-620c-4ecb-893a-0a2b1cbd6211"
+  },
+  {
+    "listeners": 512,
+    "recorded_at": "2025-11-11T03:39:39.159620+01:00",
+    "raw_valid": true,
+    "song_session_id": "424664b3-fda2-4a8c-8aa4-189ac1658fea"
+  },
+  {
+    "listeners": 512,
+    "recorded_at": "2025-11-11T03:40:09.162064+01:00",
+    "raw_valid": true,
+    "song_session_id": "424664b3-fda2-4a8c-8aa4-189ac1658fea"
+  },
+  {
+    "listeners": 520,
+    "recorded_at": "2025-11-11T03:40:39.172942+01:00",
+    "raw_valid": true,
+    "song_session_id": "424664b3-fda2-4a8c-8aa4-189ac1658fea"
+  },
+  {
+    "listeners": 517,
+    "recorded_at": "2025-11-11T03:41:09.183349+01:00",
+    "raw_valid": true,
+    "song_session_id": "424664b3-fda2-4a8c-8aa4-189ac1658fea"
+  },
+  {
+    "listeners": 518,
+    "recorded_at": "2025-11-11T03:41:39.213706+01:00",
+    "raw_valid": true,
+    "song_session_id": "424664b3-fda2-4a8c-8aa4-189ac1658fea"
+  },
+  {
+    "listeners": 526,
+    "recorded_at": "2025-11-11T03:42:09.244153+01:00",
+    "raw_valid": true,
+    "song_session_id": "424664b3-fda2-4a8c-8aa4-189ac1658fea"
+  },
+  {
+    "listeners": 518,
+    "recorded_at": "2025-11-11T03:42:39.250764+01:00",
+    "raw_valid": true,
+    "song_session_id": "424664b3-fda2-4a8c-8aa4-189ac1658fea"
+  },
+  {
+    "listeners": 522,
+    "recorded_at": "2025-11-11T03:43:09.281176+01:00",
+    "raw_valid": true,
+    "song_session_id": "424664b3-fda2-4a8c-8aa4-189ac1658fea"
+  },
+  {
+    "listeners": 516,
+    "recorded_at": "2025-11-11T03:43:39.309675+01:00",
+    "raw_valid": true,
+    "song_session_id": "362e7034-d164-4245-94e2-64d3a49d5d3b"
+  },
+  {
+    "listeners": 519,
+    "recorded_at": "2025-11-11T03:44:09.317695+01:00",
+    "raw_valid": true,
+    "song_session_id": "362e7034-d164-4245-94e2-64d3a49d5d3b"
+  },
+  {
+    "listeners": 529,
+    "recorded_at": "2025-11-11T03:44:39.348073+01:00",
+    "raw_valid": true,
+    "song_session_id": "362e7034-d164-4245-94e2-64d3a49d5d3b"
+  },
+  {
+    "listeners": 528,
+    "recorded_at": "2025-11-11T03:45:09.373699+01:00",
+    "raw_valid": true,
+    "song_session_id": "362e7034-d164-4245-94e2-64d3a49d5d3b"
+  },
+  {
+    "listeners": 521,
+    "recorded_at": "2025-11-11T03:45:39.375135+01:00",
+    "raw_valid": true,
+    "song_session_id": "362e7034-d164-4245-94e2-64d3a49d5d3b"
+  },
+  {
+    "listeners": 517,
+    "recorded_at": "2025-11-11T03:46:09.378697+01:00",
+    "raw_valid": true,
+    "song_session_id": "362e7034-d164-4245-94e2-64d3a49d5d3b"
+  },
+  {
+    "listeners": 511,
+    "recorded_at": "2025-11-11T03:46:39.382363+01:00",
+    "raw_valid": true,
+    "song_session_id": "f7e393ab-da43-49c2-992f-a8f328bfd04f"
+  },
+  {
+    "listeners": 527,
+    "recorded_at": "2025-11-11T03:47:09.408585+01:00",
+    "raw_valid": true,
+    "song_session_id": "f7e393ab-da43-49c2-992f-a8f328bfd04f"
+  },
+  {
+    "listeners": 515,
+    "recorded_at": "2025-11-11T03:47:39.412675+01:00",
+    "raw_valid": true,
+    "song_session_id": "f7e393ab-da43-49c2-992f-a8f328bfd04f"
+  },
+  {
+    "listeners": 525,
+    "recorded_at": "2025-11-11T03:48:09.416367+01:00",
+    "raw_valid": true,
+    "song_session_id": "f7e393ab-da43-49c2-992f-a8f328bfd04f"
+  },
+  {
+    "listeners": 514,
+    "recorded_at": "2025-11-11T03:48:39.419933+01:00",
+    "raw_valid": true,
+    "song_session_id": "f7e393ab-da43-49c2-992f-a8f328bfd04f"
+  },
+  {
+    "listeners": 512,
+    "recorded_at": "2025-11-11T03:49:49.493821+01:00",
+    "raw_valid": true,
+    "song_session_id": "7c926a8c-27e1-4deb-80f1-bdda3b5eb4d1"
+  },
+  {
+    "listeners": 519,
+    "recorded_at": "2025-11-11T03:50:19.494551+01:00",
+    "raw_valid": true,
+    "song_session_id": "7c926a8c-27e1-4deb-80f1-bdda3b5eb4d1"
+  },
+  {
+    "listeners": 517,
+    "recorded_at": "2025-11-11T03:50:49.498599+01:00",
+    "raw_valid": true,
+    "song_session_id": "7c926a8c-27e1-4deb-80f1-bdda3b5eb4d1"
+  },
+  {
+    "listeners": 511,
+    "recorded_at": "2025-11-11T03:51:19.505975+01:00",
+    "raw_valid": true,
+    "song_session_id": "cad2ff90-5612-4306-a8da-af208e1dfdfa"
+  },
+  {
+    "listeners": 526,
+    "recorded_at": "2025-11-11T03:51:49.517055+01:00",
+    "raw_valid": true,
+    "song_session_id": "cad2ff90-5612-4306-a8da-af208e1dfdfa"
+  },
+  {
+    "listeners": 515,
+    "recorded_at": "2025-11-11T03:52:19.527666+01:00",
+    "raw_valid": true,
+    "song_session_id": "cad2ff90-5612-4306-a8da-af208e1dfdfa"
+  },
+  {
+    "listeners": 520,
+    "recorded_at": "2025-11-11T03:52:49.538784+01:00",
+    "raw_valid": true,
+    "song_session_id": "cad2ff90-5612-4306-a8da-af208e1dfdfa"
+  },
+  {
+    "listeners": 520,
+    "recorded_at": "2025-11-11T03:53:19.549278+01:00",
+    "raw_valid": true,
+    "song_session_id": "cad2ff90-5612-4306-a8da-af208e1dfdfa"
+  },
+  {
+    "listeners": 512,
+    "recorded_at": "2025-11-11T03:53:49.557674+01:00",
+    "raw_valid": true,
+    "song_session_id": "cad2ff90-5612-4306-a8da-af208e1dfdfa"
+  },
+  {
+    "listeners": 520,
+    "recorded_at": "2025-11-11T03:54:19.568017+01:00",
+    "raw_valid": true,
+    "song_session_id": "cad2ff90-5612-4306-a8da-af208e1dfdfa"
+  },
+  {
+    "listeners": 513,
+    "recorded_at": "2025-11-11T03:54:49.573690+01:00",
+    "raw_valid": true,
+    "song_session_id": "cad2ff90-5612-4306-a8da-af208e1dfdfa"
+  },
+  {
+    "listeners": 523,
+    "recorded_at": "2025-11-11T03:55:19.592363+01:00",
+    "raw_valid": true,
+    "song_session_id": "baed2748-3372-4806-999b-c181c34bbe15"
+  },
+  {
+    "listeners": 529,
+    "recorded_at": "2025-11-11T03:55:49.622760+01:00",
+    "raw_valid": true,
+    "song_session_id": "baed2748-3372-4806-999b-c181c34bbe15"
+  },
+  {
+    "listeners": 515,
+    "recorded_at": "2025-11-11T03:56:19.645745+01:00",
+    "raw_valid": true,
+    "song_session_id": "baed2748-3372-4806-999b-c181c34bbe15"
+  },
+  {
+    "listeners": 511,
+    "recorded_at": "2025-11-11T03:56:49.676101+01:00",
+    "raw_valid": true,
+    "song_session_id": "baed2748-3372-4806-999b-c181c34bbe15"
+  },
+  {
+    "listeners": 510,
+    "recorded_at": "2025-11-11T03:57:19.706511+01:00",
+    "raw_valid": true,
+    "song_session_id": "baed2748-3372-4806-999b-c181c34bbe15"
+  },
+  {
+    "listeners": 515,
+    "recorded_at": "2025-11-11T03:57:49.736928+01:00",
+    "raw_valid": true,
+    "song_session_id": "baed2748-3372-4806-999b-c181c34bbe15"
+  },
+  {
+    "listeners": 529,
+    "recorded_at": "2025-11-11T03:58:19.767376+01:00",
+    "raw_valid": true,
+    "song_session_id": "aa5fe28d-8bbf-485d-93ee-5c392945583b"
+  },
+  {
+    "listeners": 511,
+    "recorded_at": "2025-11-11T03:58:49.797935+01:00",
+    "raw_valid": true,
+    "song_session_id": "aa5fe28d-8bbf-485d-93ee-5c392945583b"
+  },
+  {
+    "listeners": 517,
+    "recorded_at": "2025-11-11T03:59:19.813676+01:00",
+    "raw_valid": true,
+    "song_session_id": "aa5fe28d-8bbf-485d-93ee-5c392945583b"
+  },
+  {
+    "listeners": 519,
+    "recorded_at": "2025-11-11T03:59:49.825966+01:00",
+    "raw_valid": true,
+    "song_session_id": "aa5fe28d-8bbf-485d-93ee-5c392945583b"
+  },
+  {
+    "listeners": 520,
+    "recorded_at": "2025-11-11T04:00:19.856434+01:00",
+    "raw_valid": true,
+    "song_session_id": "aa5fe28d-8bbf-485d-93ee-5c392945583b"
+  },
+  {
+    "listeners": 526,
+    "recorded_at": "2025-11-11T04:00:49.885719+01:00",
+    "raw_valid": true,
+    "song_session_id": "aa5fe28d-8bbf-485d-93ee-5c392945583b"
+  },
+  {
+    "listeners": 514,
+    "recorded_at": "2025-11-11T04:01:19.916142+01:00",
+    "raw_valid": true,
+    "song_session_id": "bb089d7a-606d-4483-87fb-493631d74cf4"
+  },
+  {
+    "listeners": 517,
+    "recorded_at": "2025-11-11T04:01:49.946559+01:00",
+    "raw_valid": true,
+    "song_session_id": "bb089d7a-606d-4483-87fb-493631d74cf4"
+  }
+]

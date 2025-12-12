@@ -1,0 +1,417 @@
+[
+  {
+    "song": "Amnestia Na Neveru",
+    "artists": [
+      "Elan"
+    ],
+    "isrc": "TCAEF1942479",
+    "start_time": "2025-11-23 00:05:06",
+    "radio": "expres",
+    "recorded_at": "2025-11-23T00:05:26.631144+01:00",
+    "raw_valid": true,
+    "song_session_id": "19ce793b-2fc1-400f-b84b-1b4072a9c737"
+  },
+  {
+    "song": "Beautiful Things",
+    "artists": [
+      "Benson Boone"
+    ],
+    "isrc": "USWB12307016",
+    "start_time": "2025-11-23 00:08:49",
+    "radio": "expres",
+    "recorded_at": "2025-11-23T00:09:06.301503+01:00",
+    "raw_valid": true,
+    "song_session_id": "90bb65ec-7b7c-40ec-b780-d5d8aea2863c"
+  },
+  {
+    "song": "Nic Nie Je Iste",
+    "artists": [
+      "Imt Smile"
+    ],
+    "isrc": "SKA010305102",
+    "start_time": "2025-11-23 00:11:48",
+    "radio": "expres",
+    "recorded_at": "2025-11-23T00:12:09.202274+01:00",
+    "raw_valid": true,
+    "song_session_id": "5d540aaf-d650-4aad-97d8-c870af332bed"
+  },
+  {
+    "song": "Right Here Waiting",
+    "artists": [
+      "Richard Marx"
+    ],
+    "isrc": "USEM38900208",
+    "start_time": "2025-11-23 00:15:54",
+    "radio": "expres",
+    "recorded_at": "2025-11-23T00:16:13.087789+01:00",
+    "raw_valid": true,
+    "song_session_id": "42188efd-987f-41a2-b542-b7047f50b447"
+  },
+  {
+    "song": "Cardas Dvoch Srdc",
+    "artists": [
+      "Karol Duchon"
+    ],
+    "isrc": "SKA127650807",
+    "start_time": "2025-11-23 00:19:58",
+    "radio": "expres",
+    "recorded_at": "2025-11-23T00:20:23.227742+01:00",
+    "raw_valid": true,
+    "song_session_id": "af2aa257-f617-4152-b822-1329e08fce68"
+  },
+  {
+    "song": "Talk To Me",
+    "artists": [
+      "Damiano David",
+      "Tyla",
+      "Nile Rodgers"
+    ],
+    "isrc": "ITB002500942",
+    "start_time": "2025-11-23 00:23:19",
+    "radio": "expres",
+    "recorded_at": "2025-11-23T00:23:39.648961+01:00",
+    "raw_valid": true,
+    "song_session_id": "58776ae3-6c2d-4a8c-b965-b0b57a00f9c6"
+  },
+  {
+    "song": "Denisa",
+    "artists": [
+      "Miro Zbirka"
+    ],
+    "isrc": "SKA120208205",
+    "start_time": "2025-11-23 00:26:53",
+    "radio": "expres",
+    "recorded_at": "2025-11-23T00:27:02.976870+01:00",
+    "raw_valid": true,
+    "song_session_id": "e89c8a5e-6a34-4ea4-93d4-3211cf5e67d7"
+  },
+  {
+    "song": "Flowers",
+    "artists": [
+      "Miley Cyrus"
+    ],
+    "isrc": "USSM12209777",
+    "start_time": "2025-11-23 00:29:50",
+    "radio": "expres",
+    "recorded_at": "2025-11-23T00:30:12.674638+01:00",
+    "raw_valid": true,
+    "song_session_id": "bb274173-e5a2-48b5-89c7-b03bd3ac6555"
+  },
+  {
+    "song": "The One",
+    "artists": [
+      "Michael Patrick Kelly"
+    ],
+    "isrc": "DEE862500476",
+    "start_time": "2025-11-23 00:33:15",
+    "radio": "expres",
+    "recorded_at": "2025-11-23T00:33:33.061562+01:00",
+    "raw_valid": true,
+    "song_session_id": "bcfceabc-25b5-4373-81d7-bca5dc46ce0c"
+  },
+  {
+    "song": "Pridaj Sa K Nam (Ked Sme S Vami)",
+    "artists": [
+      "Hex"
+    ],
+    "isrc": "SKC751900101",
+    "start_time": "2025-11-23 00:36:13",
+    "radio": "expres",
+    "recorded_at": "2025-11-23T00:36:36.229516+01:00",
+    "raw_valid": true,
+    "song_session_id": "f8ff8993-461a-4965-b83b-c84a5e130f26"
+  },
+  {
+    "song": "I See Fire",
+    "artists": [
+      "Ed Sheeran"
+    ],
+    "isrc": "GBAHS1400104",
+    "start_time": "2025-11-23 00:39:41",
+    "radio": "expres",
+    "recorded_at": "2025-11-23T00:39:59.497358+01:00",
+    "raw_valid": true,
+    "song_session_id": "e7fd8972-6686-4495-8fb5-0592d5a5ea80"
+  },
+  {
+    "song": "Im Not Sorry",
+    "artists": [
+      "Celeste Buckingham"
+    ],
+    "isrc": "QMQNX1300002",
+    "start_time": "2025-11-23 00:44:11",
+    "radio": "expres",
+    "recorded_at": "2025-11-23T00:44:23.493743+01:00",
+    "raw_valid": true,
+    "song_session_id": "1384ba55-7960-4460-91d5-933029eb5d14"
+  },
+  {
+    "song": "Wonderful Life 25",
+    "artists": [
+      "Hurts",
+      "Purple Disco Machine"
+    ],
+    "isrc": "DEE862500677",
+    "start_time": "2025-11-23 00:47:49",
+    "radio": "expres",
+    "recorded_at": "2025-11-23T00:48:13.681738+01:00",
+    "raw_valid": true,
+    "song_session_id": "cf764e54-a169-42ce-875f-e759708dd447"
+  },
+  {
+    "song": "Zmiluj Sa",
+    "artists": [
+      "Lukas Adamec"
+    ],
+    "isrc": "CZH682100036",
+    "start_time": "2025-11-23 00:50:44",
+    "radio": "expres",
+    "recorded_at": "2025-11-23T00:51:06.600968+01:00",
+    "raw_valid": true,
+    "song_session_id": "ec2c9778-fdc9-4c6e-9a02-42d2561ebeb4"
+  },
+  {
+    "song": "Over The Rainbow",
+    "artists": [
+      "Israel"
+    ],
+    "isrc": "USMAC0100119",
+    "start_time": "2025-11-23 00:54:35",
+    "radio": "expres",
+    "recorded_at": "2025-11-23T00:54:53.950616+01:00",
+    "raw_valid": true,
+    "song_session_id": "526c58c7-9f21-49c7-9bdb-f4b1405a70fe"
+  },
+  {
+    "song": "Dovtedy",
+    "artists": [
+      "Adam Durica"
+    ],
+    "isrc": "SKA011600030",
+    "start_time": "2025-11-23 00:57:57",
+    "radio": "expres",
+    "recorded_at": "2025-11-23T00:58:17.416936+01:00",
+    "raw_valid": true,
+    "song_session_id": "b6d9ca7f-da74-43e3-865d-a2fdf9065549"
+  },
+  {
+    "song": "A Bar Song (Tipsy)",
+    "artists": [
+      "Shaboozey"
+    ],
+    "isrc": "USUYG1541249",
+    "start_time": "2025-11-23 01:00:08",
+    "radio": "expres",
+    "recorded_at": "2025-11-23T01:00:35.028044+01:00",
+    "raw_valid": true,
+    "song_session_id": "557492d0-5e26-4809-9aa5-1ec37235f4d4"
+  },
+  {
+    "song": "Training Season",
+    "artists": [
+      "Dua Lipa"
+    ],
+    "isrc": "GBAHT2301078",
+    "start_time": "2025-11-23 01:02:58",
+    "radio": "expres",
+    "recorded_at": "2025-11-23T01:03:24.267593+01:00",
+    "raw_valid": true,
+    "song_session_id": "bfeac043-5611-4044-8304-fd872c9275cb"
+  },
+  {
+    "song": "Skusame Sa Najst",
+    "artists": [
+      "Peter Bic Project"
+    ],
+    "isrc": "SKA011700065",
+    "start_time": "2025-11-23 01:06:33",
+    "radio": "expres",
+    "recorded_at": "2025-11-23T01:06:42.601722+01:00",
+    "raw_valid": true,
+    "song_session_id": "69d463c2-bbfc-4166-94ab-d76374474aa7"
+  },
+  {
+    "song": "Glide",
+    "artists": [
+      "Neiked",
+      "Portugal The Man"
+    ],
+    "isrc": "DEE862500421",
+    "start_time": "2025-11-23 01:09:48",
+    "radio": "expres",
+    "recorded_at": "2025-11-23T01:10:13.919046+01:00",
+    "raw_valid": true,
+    "song_session_id": "0cc7b2cd-e84d-43a2-9279-01d2f16a1061"
+  },
+  {
+    "song": "Naveky",
+    "artists": [
+      "Katarina Knechtova"
+    ],
+    "isrc": "QZMER2590765",
+    "start_time": "2025-11-23 01:12:43",
+    "radio": "expres",
+    "recorded_at": "2025-11-23T01:12:57.722176+01:00",
+    "raw_valid": true,
+    "song_session_id": "0b6ad28f-b34c-494e-ae76-b292462576b8"
+  },
+  {
+    "song": "Somebody To Love",
+    "artists": [
+      "George Michael",
+      "Queen"
+    ],
+    "isrc": "GBCKZ9300002",
+    "start_time": "2025-11-23 01:16:03",
+    "radio": "expres",
+    "recorded_at": "2025-11-23T01:16:27.219740+01:00",
+    "raw_valid": true,
+    "song_session_id": "dd4f3d11-8ef3-4d62-bb94-4ccbc0824f51"
+  },
+  {
+    "song": "Modlitba Pre Dva Hlasy",
+    "artists": [
+      "Elan"
+    ],
+    "isrc": "SKA129150311",
+    "start_time": "2025-11-23 01:21:09",
+    "radio": "expres",
+    "recorded_at": "2025-11-23T01:21:21.803638+01:00",
+    "raw_valid": true,
+    "song_session_id": "a3783180-b254-4f0f-9d3f-fa4424cbc7e4"
+  },
+  {
+    "song": "Pride",
+    "artists": [
+      "Felix Jaehn",
+      "Jhart"
+    ],
+    "isrc": "DEUM72503423",
+    "start_time": "2025-11-23 01:25:26",
+    "radio": "expres",
+    "recorded_at": "2025-11-23T01:25:53.173664+01:00",
+    "raw_valid": true,
+    "song_session_id": "2c1e795d-f40f-4857-a32d-245cd341aeb7"
+  },
+  {
+    "song": "Par Dni",
+    "artists": [
+      "Desmod",
+      "Zuzana Smatanova"
+    ],
+    "isrc": "CZA210400241",
+    "start_time": "2025-11-23 01:28:02",
+    "radio": "expres",
+    "recorded_at": "2025-11-23T01:28:26.215858+01:00",
+    "raw_valid": true,
+    "song_session_id": "f2e4d42b-0a4e-4117-b603-5daf2c4beb36"
+  },
+  {
+    "song": "Italodisco",
+    "artists": [
+      "The Kolors"
+    ],
+    "isrc": "ITQ002300342",
+    "start_time": "2025-11-23 01:31:37",
+    "radio": "expres",
+    "recorded_at": "2025-11-23T01:31:49.695692+01:00",
+    "raw_valid": true,
+    "song_session_id": "7d2ce88d-be33-4509-a307-d31e84b71e0f"
+  },
+  {
+    "song": "Regalo",
+    "artists": [
+      "Alvaro Soler"
+    ],
+    "isrc": "DEE862500388",
+    "start_time": "2025-11-23 01:35:12",
+    "radio": "expres",
+    "recorded_at": "2025-11-23T01:35:33.389832+01:00",
+    "raw_valid": true,
+    "song_session_id": "7942cad5-0987-41e1-9976-8fe97b6bebc7"
+  },
+  {
+    "song": "Mam Ta Rad",
+    "artists": [
+      "Karol Duchon"
+    ],
+    "isrc": "SKA128004707",
+    "start_time": "2025-11-23 01:38:15",
+    "radio": "expres",
+    "recorded_at": "2025-11-23T01:38:36.241046+01:00",
+    "raw_valid": true,
+    "song_session_id": "6591a9f2-2ee4-4a9e-bc76-0762a61eae07"
+  },
+  {
+    "song": "Heaven Is A Place On Earth",
+    "artists": [
+      "Belinda Carlisle"
+    ],
+    "isrc": "GBBLG8700257",
+    "start_time": "2025-11-23 01:42:22",
+    "radio": "expres",
+    "recorded_at": "2025-11-23T01:42:45.578516+01:00",
+    "raw_valid": true,
+    "song_session_id": "05f22c04-5574-4ec7-80b2-d8370bdd90bf"
+  },
+  {
+    "song": "Ako Vanok",
+    "artists": [
+      "Richard Muller"
+    ],
+    "isrc": "SKA010109106",
+    "start_time": "2025-11-23 01:46:33",
+    "radio": "expres",
+    "recorded_at": "2025-11-23T01:46:49.411084+01:00",
+    "raw_valid": true,
+    "song_session_id": "7cef03a6-ef46-45e1-9dc7-195adb9b3dfe"
+  },
+  {
+    "song": "Love Me Not",
+    "artists": [
+      "Ravyn Lenae"
+    ],
+    "isrc": "USAT22401137",
+    "start_time": "2025-11-23 01:49:09",
+    "radio": "expres",
+    "recorded_at": "2025-11-23T01:49:32.325722+01:00",
+    "raw_valid": true,
+    "song_session_id": "aa84b9e2-368e-4b23-9b2e-44ca78beee2c"
+  },
+  {
+    "song": "Len Tebe",
+    "artists": [
+      "Ivan Tasler"
+    ],
+    "isrc": "SKA010202105",
+    "start_time": "2025-11-23 01:52:50",
+    "radio": "expres",
+    "recorded_at": "2025-11-23T01:53:10.689113+01:00",
+    "raw_valid": true,
+    "song_session_id": "1af4c476-23fa-4b91-aa5e-24d14480bf5c"
+  },
+  {
+    "song": "Some Say",
+    "artists": [
+      "Nea"
+    ],
+    "isrc": "SEBGA1902742",
+    "start_time": "2025-11-23 01:56:41",
+    "radio": "expres",
+    "recorded_at": "2025-11-23T01:57:09.120284+01:00",
+    "raw_valid": true,
+    "song_session_id": "c253776f-3742-4359-9e97-39e27f06dc60"
+  },
+  {
+    "song": "Otazka Za Milion",
+    "artists": [
+      "Ine Kafe"
+    ],
+    "isrc": "SKA722400001",
+    "start_time": "2025-11-23 01:59:40",
+    "radio": "expres",
+    "recorded_at": "2025-11-23T02:00:02.125716+01:00",
+    "raw_valid": true,
+    "song_session_id": "08236854-c62e-4334-9077-1c6d0f2aa48c"
+  }
+]

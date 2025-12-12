@@ -1,0 +1,418 @@
+[
+  {
+    "last_update": "2025-12-12 01:59:22",
+    "song": {
+      "musicAuthor": "Hex",
+      "musicCover": "https://static.radia.sk/covers/32/7e0ab803-009c-4005-b833-612a2ee53cfd.jpg",
+      "musicTitle": "1,2,3 Dobrý Deň",
+      "radio": "Rádio ROCK",
+      "startTime": "02:58"
+    },
+    "recorded_at": "2025-12-12T02:59:22.230364+01:00",
+    "raw_valid": true,
+    "song_session_id": "0fe4cfbe-81d6-415d-a4b8-be164bad9e01"
+  },
+  {
+    "last_update": "2025-12-12 02:02:23",
+    "song": {
+      "musicAuthor": "Queen",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851e98d08fbea1a2f03229abc20",
+      "musicTitle": "Friends Will Be Friends",
+      "radio": "Rádio ROCK",
+      "startTime": "03:02"
+    },
+    "recorded_at": "2025-12-12T03:02:24.016262+01:00",
+    "raw_valid": true,
+    "song_session_id": "eb10e41f-6074-4a16-8f71-a3a871861f37"
+  },
+  {
+    "last_update": "2025-12-12 02:07:24",
+    "song": {
+      "musicAuthor": "Lukáš Adamec",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485165cea224cb9ff67b635cf44b",
+      "musicTitle": "Najviac",
+      "radio": "Rádio ROCK",
+      "startTime": "03:06"
+    },
+    "recorded_at": "2025-12-12T03:07:25.324796+01:00",
+    "raw_valid": true,
+    "song_session_id": "5316b97f-a143-49aa-8448-ca7f2432be67"
+  },
+  {
+    "last_update": "2025-12-12 02:10:26",
+    "song": {
+      "musicAuthor": "Para",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851ddae98c15583b210d7db7a93",
+      "musicTitle": "Otec",
+      "radio": "Rádio ROCK",
+      "startTime": "03:10"
+    },
+    "recorded_at": "2025-12-12T03:10:26.067072+01:00",
+    "raw_valid": true,
+    "song_session_id": "72bb18a6-254e-4a85-9703-1b8fbbe35816"
+  },
+  {
+    "last_update": "2025-12-12 02:14:30",
+    "song": {
+      "musicAuthor": "Nickelback",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048518ad2adfa59683b9c8ace96c1",
+      "musicTitle": "Rockstar",
+      "radio": "Rádio ROCK",
+      "startTime": "03:14"
+    },
+    "recorded_at": "2025-12-12T03:14:31.374701+01:00",
+    "raw_valid": true,
+    "song_session_id": "46e55eae-313e-4956-afa9-4f0d16d36918"
+  },
+  {
+    "last_update": "2025-12-12 02:19:31",
+    "song": {
+      "musicAuthor": "Nocny Zivot",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048512e38fc350206645a1b88666b",
+      "musicTitle": "Bohac",
+      "radio": "Rádio ROCK",
+      "startTime": "03:18"
+    },
+    "recorded_at": "2025-12-12T03:19:32.001116+01:00",
+    "raw_valid": true,
+    "song_session_id": "4b225509-4a01-47a8-bd29-b1aba10723bf"
+  },
+  {
+    "last_update": "2025-12-12 02:23:31",
+    "song": {
+      "musicAuthor": "Bijouterrier",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851e59090f28a251e44cacaa8ff",
+      "musicTitle": "Preco Places Vilem?",
+      "radio": "Rádio ROCK",
+      "startTime": "03:22"
+    },
+    "recorded_at": "2025-12-12T03:23:32.287782+01:00",
+    "raw_valid": true,
+    "song_session_id": "199bbcdf-0075-46d1-a529-36b0e9817c07"
+  },
+  {
+    "last_update": "2025-12-12 02:25:32",
+    "song": {
+      "musicAuthor": "Chumbawamba",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048516cfc470251e23a7bb6a38d66",
+      "musicTitle": "Tubthumping",
+      "radio": "Rádio ROCK",
+      "startTime": "03:24"
+    },
+    "recorded_at": "2025-12-12T03:25:32.398965+01:00",
+    "raw_valid": true,
+    "song_session_id": "aee06219-ac7a-4e36-a6a4-248e0a2753ad"
+  },
+  {
+    "last_update": "2025-12-12 02:29:33",
+    "song": {
+      "musicAuthor": "Peha",
+      "musicCover": "https://static.radia.sk/covers/32/23af7415-fcaa-4716-aee4-ad3e0de7314a.jpg",
+      "musicTitle": "V Zaseknutom Výťahu",
+      "radio": "Rádio ROCK",
+      "startTime": "03:28"
+    },
+    "recorded_at": "2025-12-12T03:29:34.026901+01:00",
+    "raw_valid": true,
+    "song_session_id": "009c242c-c810-4c2e-a023-0d0d91a952c4"
+  },
+  {
+    "last_update": "2025-12-12 02:33:33",
+    "song": {
+      "musicAuthor": "The Paranoid",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048514709458a8bdb635952f15a82",
+      "musicTitle": "Z Plnych Pluc",
+      "radio": "Rádio ROCK",
+      "startTime": "03:32"
+    },
+    "recorded_at": "2025-12-12T03:33:34.326787+01:00",
+    "raw_valid": true,
+    "song_session_id": "38cac2be-6df7-48fa-946f-70966f84ca98"
+  },
+  {
+    "last_update": "2025-12-12 02:36:34",
+    "song": {
+      "musicAuthor": "The Subways",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851050e6625600b8f6fb0b3f84c",
+      "musicTitle": "Rock & Roll Queen",
+      "radio": "Rádio ROCK",
+      "startTime": "03:35"
+    },
+    "recorded_at": "2025-12-12T03:36:34.508946+01:00",
+    "raw_valid": true,
+    "song_session_id": "aeaec5f2-b5b5-4373-8d79-5cbfae665893"
+  },
+  {
+    "last_update": "2025-12-12 02:39:34",
+    "song": {
+      "musicAuthor": "Tublatanka",
+      "musicCover": "https://static.radia.sk/covers/32/7ee86987-baad-48a6-9afa-0ca560d378f2.jpg",
+      "musicTitle": "Kúpim Si Kilo Lásky",
+      "radio": "Rádio ROCK",
+      "startTime": "03:38"
+    },
+    "recorded_at": "2025-12-12T03:39:35.786629+01:00",
+    "raw_valid": true,
+    "song_session_id": "0c01a1fd-d0b4-4038-b986-730766b8da07"
+  },
+  {
+    "last_update": "2025-12-12 02:43:36",
+    "song": {
+      "musicAuthor": "Peter Cmorik",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048517016c9ed1680a22ee0d308b3",
+      "musicTitle": "Som Kto Som",
+      "radio": "Rádio ROCK",
+      "startTime": "03:42"
+    },
+    "recorded_at": "2025-12-12T03:43:36.591548+01:00",
+    "raw_valid": true,
+    "song_session_id": "34510b21-055a-46f3-a8c0-8b555bca2a78"
+  },
+  {
+    "last_update": "2025-12-12 02:47:06",
+    "song": {
+      "musicAuthor": "Linkin Park",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851e2f039481babe23658fc719a",
+      "musicTitle": "Crawling",
+      "radio": "Rádio ROCK",
+      "startTime": "03:46"
+    },
+    "recorded_at": "2025-12-12T03:47:06.973430+01:00",
+    "raw_valid": true,
+    "song_session_id": "3d6fff8a-4dd6-449e-870b-4eaaaa972a15"
+  },
+  {
+    "last_update": "2025-12-12 02:50:07",
+    "song": {
+      "musicAuthor": "Slobodna Europa",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851f183160ecfd94bfb1d3bbe9f",
+      "musicTitle": "Rock'n'roll",
+      "radio": "Rádio ROCK",
+      "startTime": "03:49"
+    },
+    "recorded_at": "2025-12-12T03:50:08.206718+01:00",
+    "raw_valid": true,
+    "song_session_id": "a15f91f2-fd38-49f9-9d4c-54eef4e542c3"
+  },
+  {
+    "last_update": "2025-12-12 02:52:07",
+    "song": {
+      "musicAuthor": "Bon Jovi",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048518cadefc62ac1c0b7c4ab882a",
+      "musicTitle": "These Days",
+      "radio": "Rádio ROCK",
+      "startTime": "03:52"
+    },
+    "recorded_at": "2025-12-12T03:52:08.328316+01:00",
+    "raw_valid": true,
+    "song_session_id": "ee6a0a93-b5c1-40d3-8a69-07b6447edd7f"
+  },
+  {
+    "last_update": "2025-12-12 02:59:09",
+    "song": {
+      "musicAuthor": "The Paranoid",
+      "musicCover": "https://static.radia.sk/covers/32/6a4240f7-0415-4426-b5d7-761e04b4985b.jpg",
+      "musicTitle": "Spovedám Sa",
+      "radio": "Rádio ROCK",
+      "startTime": "03:58"
+    },
+    "recorded_at": "2025-12-12T03:59:09.111287+01:00",
+    "raw_valid": true,
+    "song_session_id": "f66f9b7a-b1f7-4ea6-873f-40cb64df05f7"
+  },
+  {
+    "last_update": "2025-12-12 03:03:10",
+    "song": {
+      "musicAuthor": "Europe",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048512d925cec3072ed1b74e5188f",
+      "musicTitle": "The Final Countdown",
+      "radio": "Rádio ROCK",
+      "startTime": "04:02"
+    },
+    "recorded_at": "2025-12-12T04:03:10.164302+01:00",
+    "raw_valid": true,
+    "song_session_id": "0141959e-407b-4bed-9bf9-cca25daf565b"
+  },
+  {
+    "last_update": "2025-12-12 03:06:09",
+    "song": {
+      "musicAuthor": "Cherry Street",
+      "musicCover": "https://static.radia.sk/covers/32/e3967325-0ac6-4545-8595-faa4ffa235fd.jpg",
+      "musicTitle": "Punkrock Show",
+      "radio": "Rádio ROCK",
+      "startTime": "04:06"
+    },
+    "recorded_at": "2025-12-12T04:06:10.443670+01:00",
+    "raw_valid": true,
+    "song_session_id": "dde48f5e-cfaa-467f-b642-13d4e7c1d8f8"
+  },
+  {
+    "last_update": "2025-12-12 03:10:10",
+    "song": {
+      "musicAuthor": "Karpina",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048510799ed47ac3b8cf1f22d9481",
+      "musicTitle": "Nekromanca",
+      "radio": "Rádio ROCK",
+      "startTime": "04:09"
+    },
+    "recorded_at": "2025-12-12T04:10:11.092111+01:00",
+    "raw_valid": true,
+    "song_session_id": "0b963ae6-d3f1-4009-9c1e-80bc38b3f7b5"
+  },
+  {
+    "last_update": "2025-12-12 03:14:11",
+    "song": {
+      "musicAuthor": "Travis",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851f54b99bf27cda88f4a7403ce",
+      "musicTitle": "Sing",
+      "radio": "Rádio ROCK",
+      "startTime": "04:13"
+    },
+    "recorded_at": "2025-12-12T04:14:11.545570+01:00",
+    "raw_valid": true,
+    "song_session_id": "68302093-aa67-4ef3-b12e-2380c3a739f5"
+  },
+  {
+    "last_update": "2025-12-12 03:18:12",
+    "song": {
+      "musicAuthor": "Sounds Like This",
+      "musicCover": "https://static.radia.sk/covers/32/e6e4fa07-555b-40df-8635-20602a2c5eca.jpg",
+      "musicTitle": "Anything You Want",
+      "radio": "Rádio ROCK",
+      "startTime": "04:17"
+    },
+    "recorded_at": "2025-12-12T04:18:13.400313+01:00",
+    "raw_valid": true,
+    "song_session_id": "e9a7cccd-1b1e-4fe7-96fa-158e3d7e3b05"
+  },
+  {
+    "last_update": "2025-12-12 03:23:15",
+    "song": {
+      "musicAuthor": "Papa Roach",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851985bf5ede2fe4a048ee85f28",
+      "musicTitle": "Between Angels And Insects",
+      "radio": "Rádio ROCK",
+      "startTime": "04:22"
+    },
+    "recorded_at": "2025-12-12T04:23:15.753304+01:00",
+    "raw_valid": true,
+    "song_session_id": "f67f9e2e-2b4c-40bd-a5c7-c464159f9361"
+  },
+  {
+    "last_update": "2025-12-12 03:27:15",
+    "song": {
+      "musicAuthor": "Horkýže Slíže",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851d908a63a01282b0e2ac770ab",
+      "musicTitle": "Mam V P... Na Lehátku",
+      "radio": "Rádio ROCK",
+      "startTime": "04:26"
+    },
+    "recorded_at": "2025-12-12T04:27:15.985917+01:00",
+    "raw_valid": true,
+    "song_session_id": "8b28ffcb-5f5f-45c3-9f12-a9a3e1caeb3c"
+  },
+  {
+    "last_update": "2025-12-12 03:30:15",
+    "song": {
+      "musicAuthor": "Fishing Strip",
+      "musicCover": "/layout/covers/default.png",
+      "musicTitle": "Vcera Som Miloval",
+      "radio": "Rádio ROCK",
+      "startTime": "04:29"
+    },
+    "recorded_at": "2025-12-12T04:30:16.435814+01:00",
+    "raw_valid": true,
+    "song_session_id": "bcfb6a33-06a9-4104-af01-c8a8728a7a10"
+  },
+  {
+    "last_update": "2025-12-12 03:33:15",
+    "song": {
+      "musicAuthor": "Walter Schnitzelsson",
+      "musicCover": "https://static.radia.sk/covers/32/c7e3d6b6-28ef-4a64-9c1f-c3e26d0bc8ec.jpg",
+      "musicTitle": "Trap",
+      "radio": "Rádio ROCK",
+      "startTime": "04:32"
+    },
+    "recorded_at": "2025-12-12T04:33:16.623033+01:00",
+    "raw_valid": true,
+    "song_session_id": "380784fb-7fc7-4bc4-ae3c-febb6ea0f124"
+  },
+  {
+    "last_update": "2025-12-12 03:37:18",
+    "song": {
+      "musicAuthor": "Smith Patti",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851a28eabe111f67a386e75a31a",
+      "musicTitle": "Because The Night",
+      "radio": "Rádio ROCK",
+      "startTime": "04:36"
+    },
+    "recorded_at": "2025-12-12T04:37:18.444071+01:00",
+    "raw_valid": true,
+    "song_session_id": "98ba28b0-1cee-4b3e-be07-10f577204076"
+  },
+  {
+    "last_update": "2025-12-12 03:41:18",
+    "song": {
+      "musicAuthor": "Tublatanka",
+      "musicCover": "https://static.radia.sk/covers/32/7ee86987-baad-48a6-9afa-0ca560d378f2.jpg",
+      "musicTitle": "Piesen Pre Doda",
+      "radio": "Rádio ROCK",
+      "startTime": "04:40"
+    },
+    "recorded_at": "2025-12-12T04:41:19.023679+01:00",
+    "raw_valid": true,
+    "song_session_id": "cbfc50c5-fd5b-4211-bd75-6665cde7bb26"
+  },
+  {
+    "last_update": "2025-12-12 03:44:21",
+    "song": {
+      "musicAuthor": "Hex",
+      "musicCover": "https://static.radia.sk/covers/32/7e0ab803-009c-4005-b833-612a2ee53cfd.jpg",
+      "musicTitle": "Drogova Zavislost",
+      "radio": "Rádio ROCK",
+      "startTime": "04:43"
+    },
+    "recorded_at": "2025-12-12T04:44:21.042377+01:00",
+    "raw_valid": true,
+    "song_session_id": "5a7ed1e7-53d7-4d54-ad39-bf375dcf29bc"
+  },
+  {
+    "last_update": "2025-12-12 03:48:21",
+    "song": {
+      "musicAuthor": "Nirvana",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851fbc71c99f9c1296c56dd51b6",
+      "musicTitle": "Come As You Are",
+      "radio": "Rádio ROCK",
+      "startTime": "04:47"
+    },
+    "recorded_at": "2025-12-12T04:48:21.591749+01:00",
+    "raw_valid": true,
+    "song_session_id": "26b01963-3643-4468-929d-7b3ab2fbbcc9"
+  },
+  {
+    "last_update": "2025-12-12 03:51:21",
+    "song": {
+      "musicAuthor": "The Last Day Of Jesus",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048519fe400785e8b11bbc54b1d27",
+      "musicTitle": "Arma Christi",
+      "radio": "Rádio ROCK",
+      "startTime": "04:51"
+    },
+    "recorded_at": "2025-12-12T04:51:21.878261+01:00",
+    "raw_valid": true,
+    "song_session_id": "57e6d76b-d25f-47af-bbda-3cef5a57f7ac"
+  },
+  {
+    "last_update": "2025-12-12 03:56:22",
+    "song": {
+      "musicAuthor": "Blink 182",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048516da502e35a7a3e48de2b0f74",
+      "musicTitle": "Dont Leave Me",
+      "radio": "Rádio ROCK",
+      "startTime": "04:55"
+    },
+    "recorded_at": "2025-12-12T04:56:22.468588+01:00",
+    "raw_valid": true,
+    "song_session_id": "9c0a0c9d-2bf6-4752-a28e-e131d6fe6ccd"
+  }
+]

@@ -1,0 +1,392 @@
+[
+  {
+    "last_update": "2025-11-16 15:07:21",
+    "song": {
+      "musicAuthor": "Pink Floyd",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851eb8d074f4d9759afd208568e",
+      "musicTitle": "High Hopes",
+      "radio": "Rádio ROCK",
+      "startTime": "16:06"
+    },
+    "recorded_at": "2025-11-16T16:07:22.324316+01:00",
+    "raw_valid": true,
+    "song_session_id": "5fe0ad29-6eeb-4f6d-879d-56c553a38d6e"
+  },
+  {
+    "last_update": "2025-11-16 15:12:22",
+    "song": {
+      "musicAuthor": "Guns N Roses",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485168384dd85fd5e95831252f60",
+      "musicTitle": "Welcome To The Jungle",
+      "radio": "Rádio ROCK",
+      "startTime": "16:11"
+    },
+    "recorded_at": "2025-11-16T16:12:23.367260+01:00",
+    "raw_valid": true,
+    "song_session_id": "1a1ed5a9-51ec-44eb-8e79-af273dd7ad1d"
+  },
+  {
+    "last_update": "2025-11-16 15:16:23",
+    "song": {
+      "musicAuthor": "Live",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851cf4c914bea5aba3e3066595a",
+      "musicTitle": "Selling The Drama",
+      "radio": "Rádio ROCK",
+      "startTime": "16:16"
+    },
+    "recorded_at": "2025-11-16T16:16:23.922100+01:00",
+    "raw_valid": true,
+    "song_session_id": "aca6f072-414b-48f7-a070-be32bc6c9697"
+  },
+  {
+    "last_update": "2025-11-16 15:20:24",
+    "song": {
+      "musicAuthor": "Mando Diao",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851f18145c7b83a6b0965ccb196",
+      "musicTitle": "Dance With Somebody",
+      "radio": "Rádio ROCK",
+      "startTime": "16:19"
+    },
+    "recorded_at": "2025-11-16T16:20:25.242642+01:00",
+    "raw_valid": true,
+    "song_session_id": "5f261aae-af31-49c7-8bd3-e139d6bbef53"
+  },
+  {
+    "last_update": "2025-11-16 15:24:25",
+    "song": {
+      "musicAuthor": "Sum 41",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851a7af96024a78654541fccc20",
+      "musicTitle": "Rise Up",
+      "radio": "Rádio ROCK",
+      "startTime": "16:23"
+    },
+    "recorded_at": "2025-11-16T16:24:25.568724+01:00",
+    "raw_valid": true,
+    "song_session_id": "0f71b446-2580-41a9-b311-e8effd97ebeb"
+  },
+  {
+    "last_update": "2025-11-16 15:27:27",
+    "song": {
+      "musicAuthor": "Queen",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048511f7077ae1018b5fbab08dfa8",
+      "musicTitle": "We Are The Champions",
+      "radio": "Rádio ROCK",
+      "startTime": "16:26"
+    },
+    "recorded_at": "2025-11-16T16:27:27.568413+01:00",
+    "raw_valid": true,
+    "song_session_id": "470669f9-a558-4bfb-aeb1-5be7ae100227"
+  },
+  {
+    "last_update": "2025-11-16 15:30:27",
+    "song": {
+      "musicAuthor": "Republica",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048513d577eba3860affba2f2d334",
+      "musicTitle": "Ready To Go",
+      "radio": "Rádio ROCK",
+      "startTime": "16:29"
+    },
+    "recorded_at": "2025-11-16T16:30:27.768560+01:00",
+    "raw_valid": true,
+    "song_session_id": "b478145d-af6b-43d1-b925-21858e0834fd"
+  },
+  {
+    "last_update": "2025-11-16 15:35:29",
+    "song": {
+      "musicAuthor": "Horkýže Slíže",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851d908a63a01282b0e2ac770ab",
+      "musicTitle": "Mam V P... Na Lehátku",
+      "radio": "Rádio ROCK",
+      "startTime": "16:34"
+    },
+    "recorded_at": "2025-11-16T16:35:29.665964+01:00",
+    "raw_valid": true,
+    "song_session_id": "f9052f22-3d8c-4b08-afc6-9f4039d58675"
+  },
+  {
+    "last_update": "2025-11-16 15:38:29",
+    "song": {
+      "musicAuthor": "Oasis",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485185e5dcc05cc216a10f141480",
+      "musicTitle": "Some Might Say",
+      "radio": "Rádio ROCK",
+      "startTime": "16:38"
+    },
+    "recorded_at": "2025-11-16T16:38:29.862792+01:00",
+    "raw_valid": true,
+    "song_session_id": "92a0ade0-f762-44b7-bcf9-c9c77102ab80"
+  },
+  {
+    "last_update": "2025-11-16 15:44:32",
+    "song": {
+      "musicAuthor": "Foo Fighters",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048510389027010b78a5e7dce426b",
+      "musicTitle": "Everlong",
+      "radio": "Rádio ROCK",
+      "startTime": "16:43"
+    },
+    "recorded_at": "2025-11-16T16:44:32.422924+01:00",
+    "raw_valid": true,
+    "song_session_id": "5b8da22c-9978-4d8e-8b9b-548c43cfaeaa"
+  },
+  {
+    "last_update": "2025-11-16 15:48:34",
+    "song": {
+      "musicAuthor": "The Guess Who",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048511bc7a864d1cf403ec8e57308",
+      "musicTitle": "American Woman",
+      "radio": "Rádio ROCK",
+      "startTime": "16:47"
+    },
+    "recorded_at": "2025-11-16T16:48:34.385590+01:00",
+    "raw_valid": true,
+    "song_session_id": "39f5fc2b-6d42-475c-9d3f-53a88b82bf63"
+  },
+  {
+    "last_update": "2025-11-16 15:52:34",
+    "song": {
+      "musicAuthor": "Placebo",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851ac68d5f575b62ee76a235396",
+      "musicTitle": "Every You, Every Me",
+      "radio": "Rádio ROCK",
+      "startTime": "16:51"
+    },
+    "recorded_at": "2025-11-16T16:52:34.646991+01:00",
+    "raw_valid": true,
+    "song_session_id": "34084c23-2c08-4ee8-b76b-48a5b3a0e2ae"
+  },
+  {
+    "last_update": "2025-11-16 15:55:33",
+    "song": {
+      "musicAuthor": "System Of A Down",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851c65f8d04502eeddbdd61fa71",
+      "musicTitle": "B.Y.O.B",
+      "radio": "Rádio ROCK",
+      "startTime": "16:54"
+    },
+    "recorded_at": "2025-11-16T16:55:34.839857+01:00",
+    "raw_valid": true,
+    "song_session_id": "f252cee2-d3c2-4143-87dc-b53351f9988a"
+  },
+  {
+    "last_update": "2025-11-16 15:59:34",
+    "song": {
+      "musicAuthor": "Adams, Bryan",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851cf1fee2a55e98e22bf358512",
+      "musicTitle": "Run To You",
+      "radio": "Rádio ROCK",
+      "startTime": "16:59"
+    },
+    "recorded_at": "2025-11-16T16:59:35.174398+01:00",
+    "raw_valid": true,
+    "song_session_id": "9b6fd1f0-a95d-4abd-b6fa-997abcb3b320"
+  },
+  {
+    "last_update": "2025-11-16 16:04:35",
+    "song": {
+      "musicAuthor": "Green Day",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851af71e889d130283bcd08b8a7",
+      "musicTitle": "Revolution Radio",
+      "radio": "Rádio ROCK",
+      "startTime": "17:03"
+    },
+    "recorded_at": "2025-11-16T17:04:35.769336+01:00",
+    "raw_valid": true,
+    "song_session_id": "b989ac83-4b21-45aa-972f-29f8603e20fe"
+  },
+  {
+    "last_update": "2025-11-16 16:07:36",
+    "song": {
+      "musicAuthor": "U2",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485137cd18af5725b9cad0a5ab53",
+      "musicTitle": "One",
+      "radio": "Rádio ROCK",
+      "startTime": "17:06"
+    },
+    "recorded_at": "2025-11-16T17:07:36.580596+01:00",
+    "raw_valid": true,
+    "song_session_id": "49b14d6f-ab3c-43f1-9078-0bb71dba8a9e"
+  },
+  {
+    "last_update": "2025-11-16 16:11:08",
+    "song": {
+      "musicAuthor": "Rammstein",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485102add2c77fb6999e311a3248",
+      "musicTitle": "Radio",
+      "radio": "Rádio ROCK",
+      "startTime": "17:11"
+    },
+    "recorded_at": "2025-11-16T17:11:08.957582+01:00",
+    "raw_valid": true,
+    "song_session_id": "a3a81fab-41f3-4e25-a54c-bef1128d8f2f"
+  },
+  {
+    "last_update": "2025-11-16 16:15:09",
+    "song": {
+      "musicAuthor": "Creedence Clearwater Revival",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485151f311c2fb06ad2789e3ff91",
+      "musicTitle": "Have You Ever Seen The Rain",
+      "radio": "Rádio ROCK",
+      "startTime": "17:15"
+    },
+    "recorded_at": "2025-11-16T17:15:09.500053+01:00",
+    "raw_valid": true,
+    "song_session_id": "52c4a5b6-045d-4b5e-b3be-9aabf29add01"
+  },
+  {
+    "last_update": "2025-11-16 16:18:11",
+    "song": {
+      "musicAuthor": "Guns N' Roses",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851f2c967db9f157bf25227edc4",
+      "musicTitle": "Perhaps",
+      "radio": "Rádio ROCK",
+      "startTime": "17:17"
+    },
+    "recorded_at": "2025-11-16T17:18:11.743603+01:00",
+    "raw_valid": true,
+    "song_session_id": "69496a32-dbe7-45d3-836b-6bb78e7ebe32"
+  },
+  {
+    "last_update": "2025-11-16 16:22:12",
+    "song": {
+      "musicAuthor": "Good Charlotte",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851a58ea3c31c1fd13a659a4ef0",
+      "musicTitle": "I Just Wanna Live",
+      "radio": "Rádio ROCK",
+      "startTime": "17:21"
+    },
+    "recorded_at": "2025-11-16T17:22:13.601027+01:00",
+    "raw_valid": true,
+    "song_session_id": "c48937cc-ca37-465f-b69d-e79ec6265ed2"
+  },
+  {
+    "last_update": "2025-11-16 16:24:12",
+    "song": {
+      "musicAuthor": "Motörhead",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851bb7d33186e4a26421c6a77ae",
+      "musicTitle": "Ace Of Spades",
+      "radio": "Rádio ROCK",
+      "startTime": "17:24"
+    },
+    "recorded_at": "2025-11-16T17:24:13.760050+01:00",
+    "raw_valid": true,
+    "song_session_id": "a353baa7-4de7-4b2f-8f94-cab8e9c3e0c1"
+  },
+  {
+    "last_update": "2025-11-16 16:27:13",
+    "song": {
+      "musicAuthor": "Bon Jovi",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048515f66fbeaff0725997250591c",
+      "musicTitle": "Always",
+      "radio": "Rádio ROCK",
+      "startTime": "17:27"
+    },
+    "recorded_at": "2025-11-16T17:27:14.032501+01:00",
+    "raw_valid": true,
+    "song_session_id": "65cd0994-8ba3-46d2-979f-daa1b9fbe57a"
+  },
+  {
+    "last_update": "2025-11-16 16:33:14",
+    "song": {
+      "musicAuthor": "Iggy Pop",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048514aa5f679427e35409a06f225",
+      "musicTitle": "Lust For Life",
+      "radio": "Rádio ROCK",
+      "startTime": "17:32"
+    },
+    "recorded_at": "2025-11-16T17:33:14.473502+01:00",
+    "raw_valid": true,
+    "song_session_id": "51f48f16-dbcb-4223-9a3b-987b263e68ad"
+  },
+  {
+    "last_update": "2025-11-16 16:38:15",
+    "song": {
+      "musicAuthor": "Simple Plan",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048517e973b97ebe64cabf8e3dfa0",
+      "musicTitle": "I'm Just A Kid",
+      "radio": "Rádio ROCK",
+      "startTime": "17:37"
+    },
+    "recorded_at": "2025-11-16T17:38:15.400962+01:00",
+    "raw_valid": true,
+    "song_session_id": "c4cadb23-6de7-4a04-b48a-33370c953b44"
+  },
+  {
+    "last_update": "2025-11-16 16:41:18",
+    "song": {
+      "musicAuthor": "Queen",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851024b36346101df444742cde2",
+      "musicTitle": "The Show Must Go On",
+      "radio": "Rádio ROCK",
+      "startTime": "17:41"
+    },
+    "recorded_at": "2025-11-16T17:41:18.628148+01:00",
+    "raw_valid": true,
+    "song_session_id": "db2ed52a-cbfb-4fde-ae31-65eb78f86351"
+  },
+  {
+    "last_update": "2025-11-16 16:46:19",
+    "song": {
+      "musicAuthor": "Europe",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048512d925cec3072ed1b74e5188f",
+      "musicTitle": "Rock The Night",
+      "radio": "Rádio ROCK",
+      "startTime": "17:45"
+    },
+    "recorded_at": "2025-11-16T17:46:19.938794+01:00",
+    "raw_valid": true,
+    "song_session_id": "46211943-3aea-4b7a-8e43-4524c3f227e5"
+  },
+  {
+    "last_update": "2025-11-16 16:50:21",
+    "song": {
+      "musicAuthor": "The Presidents Of The United States Of America",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851a82d10a00b1821ce323645c0",
+      "musicTitle": "Peaches",
+      "radio": "Rádio ROCK",
+      "startTime": "17:49"
+    },
+    "recorded_at": "2025-11-16T17:50:21.351129+01:00",
+    "raw_valid": true,
+    "song_session_id": "6543d862-e145-484d-9a1f-e18277afa928"
+  },
+  {
+    "last_update": "2025-11-16 16:53:20",
+    "song": {
+      "musicAuthor": "Hooters The",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048519280b5fea3cde8e6caeaef00",
+      "musicTitle": "Johnny B.",
+      "radio": "Rádio ROCK",
+      "startTime": "17:52"
+    },
+    "recorded_at": "2025-11-16T17:53:21.513918+01:00",
+    "raw_valid": true,
+    "song_session_id": "6aea360e-1880-4fe6-b789-760f3e94dac5"
+  },
+  {
+    "last_update": "2025-11-16 16:56:21",
+    "song": {
+      "musicAuthor": "Horkýže Slíže",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851a1dba7a16c82818421fc734a",
+      "musicTitle": "L.A.G. Song",
+      "radio": "Rádio ROCK",
+      "startTime": "17:56"
+    },
+    "recorded_at": "2025-11-16T17:56:21.791579+01:00",
+    "raw_valid": true,
+    "song_session_id": "e64854b7-9904-4078-8743-751cbfd1db5a"
+  },
+  {
+    "last_update": "2025-11-16 17:00:22",
+    "song": {
+      "musicAuthor": "The Bloodhound Gang",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851d6d86be2779b5b6b4980feb9",
+      "musicTitle": "The Bad Touch",
+      "radio": "Rádio ROCK",
+      "startTime": "17:59"
+    },
+    "recorded_at": "2025-11-16T18:00:22.394501+01:00",
+    "raw_valid": true,
+    "song_session_id": "7c5c78f1-6077-494a-9acc-c55b5388b56f"
+  }
+]

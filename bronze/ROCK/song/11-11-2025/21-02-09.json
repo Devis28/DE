@@ -1,0 +1,405 @@
+[
+  {
+    "last_update": "2025-11-11 19:02:17",
+    "song": {
+      "musicAuthor": "Queen",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485167bc29c251c777361b17a190",
+      "musicTitle": "Somebody To Love",
+      "radio": "Rádio ROCK",
+      "startTime": "20:01"
+    },
+    "recorded_at": "2025-11-11T20:02:18.162805+01:00",
+    "raw_valid": true,
+    "song_session_id": "ac2a88aa-b45a-44b1-9479-f38c4d8deb05"
+  },
+  {
+    "last_update": "2025-11-11 19:07:20",
+    "song": {
+      "musicAuthor": "Cherry Street",
+      "musicCover": "https://static.radia.sk/covers/32/e3967325-0ac6-4545-8595-faa4ffa235fd.jpg",
+      "musicTitle": "Punkrock Show",
+      "radio": "Rádio ROCK",
+      "startTime": "20:06"
+    },
+    "recorded_at": "2025-11-11T20:07:20.320138+01:00",
+    "raw_valid": true,
+    "song_session_id": "eb5567ac-1b8a-4bc1-94f9-793147582085"
+  },
+  {
+    "last_update": "2025-11-11 19:10:19",
+    "song": {
+      "musicAuthor": "Karpina",
+      "musicCover": "/layout/covers/default.png",
+      "musicTitle": "Biomatky",
+      "radio": "Rádio ROCK",
+      "startTime": "20:09"
+    },
+    "recorded_at": "2025-11-11T20:10:20.518218+01:00",
+    "raw_valid": true,
+    "song_session_id": "20892026-a1f9-4650-9cd5-e5c0149c801c"
+  },
+  {
+    "last_update": "2025-11-11 19:13:20",
+    "song": {
+      "musicAuthor": "Foo Fighters",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048510389027010b78a5e7dce426b",
+      "musicTitle": "Everlong",
+      "radio": "Rádio ROCK",
+      "startTime": "20:12"
+    },
+    "recorded_at": "2025-11-11T20:13:20.966777+01:00",
+    "raw_valid": true,
+    "song_session_id": "d35ddf07-172b-4078-b6c6-73ffa6c3dae6"
+  },
+  {
+    "last_update": "2025-11-11 19:16:20",
+    "song": {
+      "musicAuthor": "Imt Smile",
+      "musicCover": "https://static.radia.sk/covers/32/22a45fbb-1d58-4b53-ae16-2924695866eb.jpg",
+      "musicTitle": "Vrany",
+      "radio": "Rádio ROCK",
+      "startTime": "20:16"
+    },
+    "recorded_at": "2025-11-11T20:16:21.712748+01:00",
+    "raw_valid": true,
+    "song_session_id": "0b9084e5-a2a7-4e2c-9dfa-4104c1d9e51f"
+  },
+  {
+    "last_update": "2025-11-11 19:21:22",
+    "song": {
+      "musicAuthor": "Urge Overkill",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048516ea0141acf5e91ac9621f816",
+      "musicTitle": "Girl, You'll Be A Woman Soon",
+      "radio": "Rádio ROCK",
+      "startTime": "20:20"
+    },
+    "recorded_at": "2025-11-11T20:21:22.510699+01:00",
+    "raw_valid": true,
+    "song_session_id": "1db07bbb-74ed-4cf5-90fa-739d7ee71be8"
+  },
+  {
+    "last_update": "2025-11-11 19:29:27",
+    "song": {
+      "musicAuthor": "Cmorik Peter",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851cbb69544648ce8cbe734767b",
+      "musicTitle": "Pridi K Nam",
+      "radio": "Rádio ROCK",
+      "startTime": "20:26"
+    },
+    "recorded_at": "2025-11-11T20:29:27.112150+01:00",
+    "raw_valid": true,
+    "song_session_id": "2af21b4f-6c21-45cb-817e-2b96d7a75825"
+  },
+  {
+    "last_update": "2025-11-11 19:30:28",
+    "song": {
+      "musicAuthor": "Hex",
+      "musicCover": "https://static.radia.sk/covers/32/7e0ab803-009c-4005-b833-612a2ee53cfd.jpg",
+      "musicTitle": "Hej, Pán Doktor",
+      "radio": "Rádio ROCK",
+      "startTime": "20:30"
+    },
+    "recorded_at": "2025-11-11T20:30:28.791945+01:00",
+    "raw_valid": true,
+    "song_session_id": "4da50a2c-6431-4a60-9165-032670d601f3"
+  },
+  {
+    "last_update": "2025-11-11 19:33:28",
+    "song": {
+      "musicAuthor": "Tublatanka",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048514b813e7e56c0e4c85f8cb5d0",
+      "musicTitle": "Láska, Drž Ma Nad Hladinou",
+      "radio": "Rádio ROCK",
+      "startTime": "20:32"
+    },
+    "recorded_at": "2025-11-11T20:33:29.063604+01:00",
+    "raw_valid": true,
+    "song_session_id": "d0c7997f-3307-4d64-a8ca-c4b3aa7ee783"
+  },
+  {
+    "last_update": "2025-11-11 19:38:29",
+    "song": {
+      "musicAuthor": "Europe",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048512d925cec3072ed1b74e5188f",
+      "musicTitle": "Carrie",
+      "radio": "Rádio ROCK",
+      "startTime": "20:37"
+    },
+    "recorded_at": "2025-11-11T20:38:29.486774+01:00",
+    "raw_valid": true,
+    "song_session_id": "847fcb27-08fd-44f0-9ec6-ddef5237cb3a"
+  },
+  {
+    "last_update": "2025-11-11 19:42:29",
+    "song": {
+      "musicAuthor": "The Paranoid",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851853be8f5b6f1a44494d32b09",
+      "musicTitle": "Čo Cítiš",
+      "radio": "Rádio ROCK",
+      "startTime": "20:42"
+    },
+    "recorded_at": "2025-11-11T20:42:29.730679+01:00",
+    "raw_valid": true,
+    "song_session_id": "33e7154e-bb85-420f-9371-8df4144aec7a"
+  },
+  {
+    "last_update": "2025-11-11 19:46:29",
+    "song": {
+      "musicAuthor": "Horkyze Slize & Bastrng",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485160348235029c408a3e558ab7",
+      "musicTitle": "Pravo Veta",
+      "radio": "Rádio ROCK",
+      "startTime": "20:45"
+    },
+    "recorded_at": "2025-11-11T20:46:29.987390+01:00",
+    "raw_valid": true,
+    "song_session_id": "bd5a4f54-ce06-4ab8-bd76-8d1626e6deb9"
+  },
+  {
+    "last_update": "2025-11-11 19:48:29",
+    "song": {
+      "musicAuthor": "Nirvana",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851fbc71c99f9c1296c56dd51b6",
+      "musicTitle": "Lithium",
+      "radio": "Rádio ROCK",
+      "startTime": "20:47"
+    },
+    "recorded_at": "2025-11-11T20:48:30.122531+01:00",
+    "raw_valid": true,
+    "song_session_id": "c0d784ca-c91f-43af-a511-27808dd2e089"
+  },
+  {
+    "last_update": "2025-11-11 19:53:32",
+    "song": {
+      "musicAuthor": "Le Payaco",
+      "musicCover": "https://static.radia.sk/covers/32/f26e2264-e19f-4fc4-91d2-1af864449ee2.jpg",
+      "musicTitle": "Kone",
+      "radio": "Rádio ROCK",
+      "startTime": "20:52"
+    },
+    "recorded_at": "2025-11-11T20:53:32.553564+01:00",
+    "raw_valid": true,
+    "song_session_id": "1267a743-b9a0-4b66-8af0-e130aa3865e9"
+  },
+  {
+    "last_update": "2025-11-11 19:55:32",
+    "song": {
+      "musicAuthor": "Blink 182",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048516da502e35a7a3e48de2b0f74",
+      "musicTitle": "Adam's Song",
+      "radio": "Rádio ROCK",
+      "startTime": "20:55"
+    },
+    "recorded_at": "2025-11-11T20:55:32.847438+01:00",
+    "raw_valid": true,
+    "song_session_id": "96d41c76-5106-46a8-b77f-c227413717e5"
+  },
+  {
+    "last_update": "2025-11-11 20:00:32",
+    "song": {
+      "musicAuthor": "Hex",
+      "musicCover": "https://static.radia.sk/covers/32/7e0ab803-009c-4005-b833-612a2ee53cfd.jpg",
+      "musicTitle": "Dobrý Motýľ",
+      "radio": "Rádio ROCK",
+      "startTime": "20:59"
+    },
+    "recorded_at": "2025-11-11T21:00:33.169880+01:00",
+    "raw_valid": true,
+    "song_session_id": "fda12878-7cd8-4d13-9fed-bbf6a9467425"
+  },
+  {
+    "last_update": "2025-11-11 20:03:33",
+    "song": {
+      "musicAuthor": "U2",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485177df2aceaf90f06a20b56b14",
+      "musicTitle": "Pride (In The Name Of Love)",
+      "radio": "Rádio ROCK",
+      "startTime": "21:02"
+    },
+    "recorded_at": "2025-11-11T21:03:33.669246+01:00",
+    "raw_valid": true,
+    "song_session_id": "28fafb80-37aa-4a93-bda1-b4c7bd1dda16"
+  },
+  {
+    "last_update": "2025-11-11 20:07:35",
+    "song": {
+      "musicAuthor": "No Control",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851e78b00ce2d5f0f7f437e61a0",
+      "musicTitle": "Moje Planety",
+      "radio": "Rádio ROCK",
+      "startTime": "21:06"
+    },
+    "recorded_at": "2025-11-11T21:07:35.507880+01:00",
+    "raw_valid": true,
+    "song_session_id": "a68cb368-2cb3-4d55-885a-312dc7cc8623"
+  },
+  {
+    "last_update": "2025-11-11 20:10:34",
+    "song": {
+      "musicAuthor": "Konflikt",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485128f8180f5629cf40c2930876",
+      "musicTitle": "To Sme My",
+      "radio": "Rádio ROCK",
+      "startTime": "21:09"
+    },
+    "recorded_at": "2025-11-11T21:10:36.132300+01:00",
+    "raw_valid": true,
+    "song_session_id": "c036d733-b732-4b21-839c-334392d5df63"
+  },
+  {
+    "last_update": "2025-11-11 20:16:07",
+    "song": {
+      "musicAuthor": "Inxs",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048517ef5c661e64ec185d6180a40",
+      "musicTitle": "Disappear",
+      "radio": "Rádio ROCK",
+      "startTime": "21:16"
+    },
+    "recorded_at": "2025-11-11T21:16:08.116889+01:00",
+    "raw_valid": true,
+    "song_session_id": "2f9157c1-0f40-4c4e-ab77-c87f3aaedb50"
+  },
+  {
+    "last_update": "2025-11-11 20:21:09",
+    "song": {
+      "musicAuthor": "Peter Bazik",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851a77bf87d26a55d387d8102fd",
+      "musicTitle": "Otočím planétu",
+      "radio": "Rádio ROCK",
+      "startTime": "21:20"
+    },
+    "recorded_at": "2025-11-11T21:21:09.602203+01:00",
+    "raw_valid": true,
+    "song_session_id": "f820e91c-731e-40e6-8c26-afc89ec702b1"
+  },
+  {
+    "last_update": "2025-11-11 20:24:08",
+    "song": {
+      "musicAuthor": "Blondie",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851ebc918cfb51e9ced7349f436",
+      "musicTitle": "Atomic",
+      "radio": "Rádio ROCK",
+      "startTime": "21:23"
+    },
+    "recorded_at": "2025-11-11T21:24:09.839686+01:00",
+    "raw_valid": true,
+    "song_session_id": "ca644071-f454-4980-acfb-0ec2c74afa5a"
+  },
+  {
+    "last_update": "2025-11-11 20:28:10",
+    "song": {
+      "musicAuthor": "Manson Marylin",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048513e2c4ed336c6b4ebb1a4bde9",
+      "musicTitle": "Personal Jesus",
+      "radio": "Rádio ROCK",
+      "startTime": "21:27"
+    },
+    "recorded_at": "2025-11-11T21:28:10.395752+01:00",
+    "raw_valid": true,
+    "song_session_id": "549048f5-ea36-4701-a21c-c1d033842b3b"
+  },
+  {
+    "last_update": "2025-11-11 20:32:10",
+    "song": {
+      "musicAuthor": "Niečo Navyše",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048514f442e159889895049c38717",
+      "musicTitle": "Ako Film",
+      "radio": "Rádio ROCK",
+      "startTime": "21:31"
+    },
+    "recorded_at": "2025-11-11T21:32:10.652810+01:00",
+    "raw_valid": true,
+    "song_session_id": "8f4c9dcd-439c-4239-828f-8ad55187b541"
+  },
+  {
+    "last_update": "2025-11-11 20:35:12",
+    "song": {
+      "musicAuthor": "Nocny Zivot",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048512e38fc350206645a1b88666b",
+      "musicTitle": "Bohac",
+      "radio": "Rádio ROCK",
+      "startTime": "21:34"
+    },
+    "recorded_at": "2025-11-11T21:35:12.742790+01:00",
+    "raw_valid": true,
+    "song_session_id": "197d9d99-6170-4ea1-a437-1f515318512c"
+  },
+  {
+    "last_update": "2025-11-11 20:39:12",
+    "song": {
+      "musicAuthor": "The Rolling Stones",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851a1d9c9969f2a7ed27e449a3c",
+      "musicTitle": "Brown Sugar",
+      "radio": "Rádio ROCK",
+      "startTime": "21:38"
+    },
+    "recorded_at": "2025-11-11T21:39:13.064956+01:00",
+    "raw_valid": true,
+    "song_session_id": "90438326-55f2-47e9-a076-45106f288548"
+  },
+  {
+    "last_update": "2025-11-11 20:43:13",
+    "song": {
+      "musicAuthor": "Elán",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851113f109764730da72f73225c",
+      "musicTitle": "Čaba Neblázni",
+      "radio": "Rádio ROCK",
+      "startTime": "21:42"
+    },
+    "recorded_at": "2025-11-11T21:43:13.665145+01:00",
+    "raw_valid": true,
+    "song_session_id": "719c3902-72fe-4f63-80c2-7b00736b4fe4"
+  },
+  {
+    "last_update": "2025-11-11 20:48:13",
+    "song": {
+      "musicAuthor": "The Offspring",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048510158cbde70672dd821972907",
+      "musicTitle": "Self Esteem",
+      "radio": "Rádio ROCK",
+      "startTime": "21:47"
+    },
+    "recorded_at": "2025-11-11T21:48:14.040142+01:00",
+    "raw_valid": true,
+    "song_session_id": "a55093a8-4933-4c4c-91a3-dcb1ef4e261f"
+  },
+  {
+    "last_update": "2025-11-11 20:52:14",
+    "song": {
+      "musicAuthor": "Hex",
+      "musicCover": "https://static.radia.sk/covers/32/7e0ab803-009c-4005-b833-612a2ee53cfd.jpg",
+      "musicTitle": "Drogova Zavislost",
+      "radio": "Rádio ROCK",
+      "startTime": "21:51"
+    },
+    "recorded_at": "2025-11-11T21:52:14.468275+01:00",
+    "raw_valid": true,
+    "song_session_id": "55f11357-644a-41b2-8707-3e218e2e3fde"
+  },
+  {
+    "last_update": "2025-11-11 20:55:14",
+    "song": {
+      "musicAuthor": "Europe",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048512d925cec3072ed1b74e5188f",
+      "musicTitle": "Cherokee",
+      "radio": "Rádio ROCK",
+      "startTime": "21:55"
+    },
+    "recorded_at": "2025-11-11T21:55:14.948072+01:00",
+    "raw_valid": true,
+    "song_session_id": "e05f5886-1721-41f0-89a1-398ea15edec7"
+  },
+  {
+    "last_update": "2025-11-11 21:00:14",
+    "song": {
+      "musicAuthor": "I.M.T. Smile",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048519f87f415d273aea02df2ca65",
+      "musicTitle": "Veselá Pesnička",
+      "radio": "Rádio ROCK",
+      "startTime": "21:59"
+    },
+    "recorded_at": "2025-11-11T22:00:15.589398+01:00",
+    "raw_valid": true,
+    "song_session_id": "f53025f1-b28d-41bf-ab24-613e902696ec"
+  }
+]

@@ -1,0 +1,299 @@
+[
+  {
+    "song": "Afterlife",
+    "artists": [
+      "Michael Schulte"
+    ],
+    "isrc": "DECE72500509",
+    "start_time": "2025-11-17 16:07:26",
+    "radio": "expres",
+    "recorded_at": "2025-11-17T16:07:51.644516+01:00",
+    "raw_valid": true,
+    "song_session_id": "52e9728e-27da-429e-a9ea-8ccbe2b71bd1"
+  },
+  {
+    "song": "Pesnicka O Medulienke",
+    "artists": [
+      "Gladiator",
+      "Pavol Hammel"
+    ],
+    "isrc": "CZA210000412",
+    "start_time": "2025-11-17 16:10:21",
+    "radio": "expres",
+    "recorded_at": "2025-11-17T16:10:54.577758+01:00",
+    "raw_valid": true,
+    "song_session_id": "ed7caf31-6545-419b-af01-7cd3d2da8237"
+  },
+  {
+    "song": "Chasing Paradise",
+    "artists": [
+      "Kygo",
+      "Onerepublic"
+    ],
+    "isrc": "SEBGA2500019",
+    "start_time": "2025-11-17 16:13:37",
+    "radio": "expres",
+    "recorded_at": "2025-11-17T16:14:12.721411+01:00",
+    "raw_valid": true,
+    "song_session_id": "1d570770-0b99-4974-8004-a8ba0bb85ba2"
+  },
+  {
+    "song": "Uvazneni V Sebe",
+    "artists": [
+      "Nocaden"
+    ],
+    "isrc": null,
+    "start_time": "2025-11-17 16:20:06",
+    "radio": "expres",
+    "recorded_at": "2025-11-17T16:20:38.280979+01:00",
+    "raw_valid": true,
+    "song_session_id": "c6a775b4-1ffa-46d6-83e9-dc7abd60c60b"
+  },
+  {
+    "song": "Umbrella",
+    "artists": [
+      "Rihanna"
+    ],
+    "isrc": "USUM70736771",
+    "start_time": "2025-11-17 16:23:41",
+    "radio": "expres",
+    "recorded_at": "2025-11-17T16:24:10.212690+01:00",
+    "raw_valid": true,
+    "song_session_id": "d657b0ab-eba6-44ac-afdb-d1df51e179fd"
+  },
+  {
+    "song": "Let Me Die",
+    "artists": [
+      "Mark Dann",
+      "Giovanni Ricci"
+    ],
+    "isrc": "US38Y2520370",
+    "start_time": "2025-11-17 16:32:48",
+    "radio": "expres",
+    "recorded_at": "2025-11-17T16:33:13.329182+01:00",
+    "raw_valid": true,
+    "song_session_id": "3b68fe1b-a186-4a6e-8878-32b666472c4d"
+  },
+  {
+    "song": "Clocks",
+    "artists": [
+      "Coldplay"
+    ],
+    "isrc": "GBAYE0200771",
+    "start_time": "2025-11-17 16:35:10",
+    "radio": "expres",
+    "recorded_at": "2025-11-17T16:35:30.964191+01:00",
+    "raw_valid": true,
+    "song_session_id": "8d429f5d-9233-4e93-a2a2-f18753ebeb0c"
+  },
+  {
+    "song": "Thats So True",
+    "artists": [
+      "Gracie Abrams"
+    ],
+    "isrc": "USUG12406903",
+    "start_time": "2025-11-17 16:39:24",
+    "radio": "expres",
+    "recorded_at": "2025-11-17T16:39:56.075620+01:00",
+    "raw_valid": true,
+    "song_session_id": "88059ead-f1bd-44a9-ab5d-18b4d1623464"
+  },
+  {
+    "song": "Lod Do Neznama",
+    "artists": [
+      "Uhercik / Durinda / Griglak / Horvath"
+    ],
+    "isrc": null,
+    "start_time": "2025-11-17 16:42:23",
+    "radio": "expres",
+    "recorded_at": "2025-11-17T16:42:53.986967+01:00",
+    "raw_valid": true,
+    "song_session_id": "f4d7d432-f37a-42ff-b35c-de9549dc0ded"
+  },
+  {
+    "song": "Golden",
+    "artists": [
+      "Kpop Demon Hunters"
+    ],
+    "isrc": "QZ8BZ2513510",
+    "start_time": "2025-11-17 16:48:55",
+    "radio": "expres",
+    "recorded_at": "2025-11-17T16:49:19.415584+01:00",
+    "raw_valid": true,
+    "song_session_id": "ba4b0b1a-a472-434f-a273-9625b5be18b4"
+  },
+  {
+    "song": "Bad Liar",
+    "artists": [
+      "Imagine Dragons"
+    ],
+    "isrc": "USUM71816161",
+    "start_time": "2025-11-17 16:52:48",
+    "radio": "expres",
+    "recorded_at": "2025-11-17T16:53:31.342260+01:00",
+    "raw_valid": true,
+    "song_session_id": "f4881297-b759-46b6-93b7-608e94487728"
+  },
+  {
+    "song": "Houdini",
+    "artists": [
+      "Dua Lipa"
+    ],
+    "isrc": "GBAHT2301246",
+    "start_time": "2025-11-17 16:56:20",
+    "radio": "expres",
+    "recorded_at": "2025-11-17T16:56:44.377254+01:00",
+    "raw_valid": true,
+    "song_session_id": "aae347a1-658e-47a5-adaf-1bc680bcb136"
+  },
+  {
+    "song": "Million Good Reasons",
+    "artists": [
+      "Robin Schulz",
+      "Fast Boy"
+    ],
+    "isrc": "DEA622404738",
+    "start_time": "2025-11-17 17:13:33",
+    "radio": "expres",
+    "recorded_at": "2025-11-17T17:13:57.843419+01:00",
+    "raw_valid": true,
+    "song_session_id": "1d3ad976-1f90-4f8a-8edc-de4f067d796e"
+  },
+  {
+    "song": "Circles",
+    "artists": [
+      "Post Malone"
+    ],
+    "isrc": "USUM71915699",
+    "start_time": "2025-11-17 17:16:14",
+    "radio": "expres",
+    "recorded_at": "2025-11-17T17:16:50.697443+01:00",
+    "raw_valid": true,
+    "song_session_id": "86e77e20-33c4-4006-b71e-01b5026987db"
+  },
+  {
+    "song": "Talk To Me",
+    "artists": [
+      "Damiano David",
+      "Tyla",
+      "Nile Rodgers"
+    ],
+    "isrc": "ITB002500942",
+    "start_time": "2025-11-17 17:19:26",
+    "radio": "expres",
+    "recorded_at": "2025-11-17T17:20:09.768120+01:00",
+    "raw_valid": true,
+    "song_session_id": "cc2c323c-2913-4f74-b336-706de78cc0ef"
+  },
+  {
+    "song": "Beautiful People",
+    "artists": [
+      "David Guetta",
+      "Sia"
+    ],
+    "isrc": "UKWLG2500016",
+    "start_time": "2025-11-17 17:22:55",
+    "radio": "expres",
+    "recorded_at": "2025-11-17T17:23:29.995730+01:00",
+    "raw_valid": true,
+    "song_session_id": "48fd84dd-8c70-48bc-bb55-5e664528109a"
+  },
+  {
+    "song": "Friday Im In Love",
+    "artists": [
+      "Cure"
+    ],
+    "isrc": "GBALB9200002",
+    "start_time": "2025-11-17 17:26:00",
+    "radio": "expres",
+    "recorded_at": "2025-11-17T17:26:37.219649+01:00",
+    "raw_valid": true,
+    "song_session_id": "62416a30-11f7-4ff8-b76d-a2485a74dda1"
+  },
+  {
+    "song": "Be Mine",
+    "artists": [
+      "Kamrad"
+    ],
+    "isrc": "DE1NJ2500035",
+    "start_time": "2025-11-17 17:33:55",
+    "radio": "expres",
+    "recorded_at": "2025-11-17T17:34:24.440269+01:00",
+    "raw_valid": true,
+    "song_session_id": "bc8d7239-f6d1-45be-bb21-7ecfd50591b8"
+  },
+  {
+    "song": "Someone Like You",
+    "artists": [
+      "Adele"
+    ],
+    "isrc": "GBBKS1000351",
+    "start_time": "2025-11-17 17:36:32",
+    "radio": "expres",
+    "recorded_at": "2025-11-17T17:37:06.941677+01:00",
+    "raw_valid": true,
+    "song_session_id": "f0c1e308-a4f4-4393-b7ac-5c43ebd26e39"
+  },
+  {
+    "song": "The Fate Of Ophelia",
+    "artists": [
+      "Taylor Swift"
+    ],
+    "isrc": "USUG12506436",
+    "start_time": "2025-11-17 17:41:21",
+    "radio": "expres",
+    "recorded_at": "2025-11-17T17:41:57.563586+01:00",
+    "raw_valid": true,
+    "song_session_id": "ba849780-5227-4768-b4d8-0df2d579e7ee"
+  },
+  {
+    "song": "Len S Nou",
+    "artists": [
+      "Miro Zbirka"
+    ],
+    "isrc": "SKA128804804",
+    "start_time": "2025-11-17 17:45:01",
+    "radio": "expres",
+    "recorded_at": "2025-11-17T17:45:38.014961+01:00",
+    "raw_valid": true,
+    "song_session_id": "d9eda128-a61e-4041-b088-7bd5f812543e"
+  },
+  {
+    "song": "Where Are You Now",
+    "artists": [
+      "Lost Frequencies",
+      "Calum Scott"
+    ],
+    "isrc": "BEHP42100067",
+    "start_time": "2025-11-17 17:50:03",
+    "radio": "expres",
+    "recorded_at": "2025-11-17T17:50:38.166168+01:00",
+    "raw_valid": true,
+    "song_session_id": "8ba36d86-b12a-4cc0-9d0c-12f84911faff"
+  },
+  {
+    "song": "Nic Sa Nemeni",
+    "artists": [
+      "Kali",
+      "Imt Smile"
+    ],
+    "isrc": "QZWDW2382192",
+    "start_time": "2025-11-17 17:52:30",
+    "radio": "expres",
+    "recorded_at": "2025-11-17T17:52:58.255533+01:00",
+    "raw_valid": true,
+    "song_session_id": "316bbfd9-6b20-4802-b88a-885bcf24a889"
+  },
+  {
+    "song": "Teenage Dirtbag",
+    "artists": [
+      "Wheatus"
+    ],
+    "isrc": "USSM10008431",
+    "start_time": "2025-11-17 17:55:50",
+    "radio": "expres",
+    "recorded_at": "2025-11-17T17:56:21.513880+01:00",
+    "raw_valid": true,
+    "song_session_id": "11a3fa86-88f9-47b4-9549-2756aa8bdf9a"
+  }
+]

@@ -1,0 +1,444 @@
+[
+  {
+    "last_update": "2025-11-06 23:03:31",
+    "song": {
+      "musicAuthor": "Heart",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048515fa646a4cfcd17842fdd7bbd",
+      "musicTitle": "Alone",
+      "radio": "Rádio ROCK",
+      "startTime": "00:02"
+    },
+    "recorded_at": "2025-11-07T00:03:31.117679+01:00",
+    "raw_valid": true,
+    "song_session_id": "e3fe8e00-ab8d-4577-afa5-e10d4942b753"
+  },
+  {
+    "last_update": "2025-11-06 23:07:31",
+    "song": {
+      "musicAuthor": "Billy Barman",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851ae1583f55bdb133b5df6fd2f",
+      "musicTitle": "Introvert",
+      "radio": "Rádio ROCK",
+      "startTime": "00:06"
+    },
+    "recorded_at": "2025-11-07T00:07:31.382360+01:00",
+    "raw_valid": true,
+    "song_session_id": "cf8d8121-04e3-4c75-83d4-3bb02c11161a"
+  },
+  {
+    "last_update": "2025-11-06 23:09:33",
+    "song": {
+      "musicAuthor": "Tublatanka",
+      "musicCover": "https://static.radia.sk/covers/32/7ee86987-baad-48a6-9afa-0ca560d378f2.jpg",
+      "musicTitle": "Nekonečná Pieseň",
+      "radio": "Rádio ROCK",
+      "startTime": "00:08"
+    },
+    "recorded_at": "2025-11-07T00:09:33.093788+01:00",
+    "raw_valid": true,
+    "song_session_id": "a39d43b5-438b-4660-8b82-e7c0ac0d01e1"
+  },
+  {
+    "last_update": "2025-11-06 23:12:32",
+    "song": {
+      "musicAuthor": "Pearl Jam",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851d400d27cba05bb0545533864",
+      "musicTitle": "Even Flow",
+      "radio": "Rádio ROCK",
+      "startTime": "00:11"
+    },
+    "recorded_at": "2025-11-07T00:12:33.341322+01:00",
+    "raw_valid": true,
+    "song_session_id": "028efc12-6c37-475d-828b-7976ef33874f"
+  },
+  {
+    "last_update": "2025-11-06 23:17:32",
+    "song": {
+      "musicAuthor": "Team",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851826f46a00ae03aeef75be02c",
+      "musicTitle": "Prievan V Peňaženke",
+      "radio": "Rádio ROCK",
+      "startTime": "00:16"
+    },
+    "recorded_at": "2025-11-07T00:17:33.787100+01:00",
+    "raw_valid": true,
+    "song_session_id": "72e5eb63-31d3-4264-a159-1cc1b964959b"
+  },
+  {
+    "last_update": "2025-11-06 23:20:34",
+    "song": {
+      "musicAuthor": "U2",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048513f4be7b80314bc44154f2e1a",
+      "musicTitle": "Desire",
+      "radio": "Rádio ROCK",
+      "startTime": "00:19"
+    },
+    "recorded_at": "2025-11-07T00:20:35.392620+01:00",
+    "raw_valid": true,
+    "song_session_id": "ab8d7ae8-e854-4dbd-bdac-02cfc8d69aed"
+  },
+  {
+    "last_update": "2025-11-06 23:23:36",
+    "song": {
+      "musicAuthor": "Horkýže Slíže",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851f76e1b0d7745574f5f17e992",
+      "musicTitle": "A Ja Sprostá",
+      "radio": "Rádio ROCK",
+      "startTime": "00:22"
+    },
+    "recorded_at": "2025-11-07T00:23:37.488647+01:00",
+    "raw_valid": true,
+    "song_session_id": "2a4c6e9b-70af-45cf-ab91-16f296abf56c"
+  },
+  {
+    "last_update": "2025-11-06 23:26:37",
+    "song": {
+      "musicAuthor": "The Paranoid",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851853be8f5b6f1a44494d32b09",
+      "musicTitle": "Podme Sa Bat",
+      "radio": "Rádio ROCK",
+      "startTime": "00:25"
+    },
+    "recorded_at": "2025-11-07T00:26:37.759359+01:00",
+    "raw_valid": true,
+    "song_session_id": "07c78652-74f7-4164-b9e4-3cf8a64fe0ff"
+  },
+  {
+    "last_update": "2025-11-06 23:30:08",
+    "song": {
+      "musicAuthor": "Tublatanka",
+      "musicCover": "https://static.radia.sk/covers/32/7ee86987-baad-48a6-9afa-0ca560d378f2.jpg",
+      "musicTitle": "Piesen Pre Doda",
+      "radio": "Rádio ROCK",
+      "startTime": "00:29"
+    },
+    "recorded_at": "2025-11-07T00:30:08.054022+01:00",
+    "raw_valid": true,
+    "song_session_id": "3b574934-40b1-4015-90c3-584f29653651"
+  },
+  {
+    "last_update": "2025-11-06 23:33:08",
+    "song": {
+      "musicAuthor": "Iron Maiden",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048510335e5389b34f6acfb73a82d",
+      "musicTitle": "2 Minutes To Midnight",
+      "radio": "Rádio ROCK",
+      "startTime": "00:33"
+    },
+    "recorded_at": "2025-11-07T00:33:08.956554+01:00",
+    "raw_valid": true,
+    "song_session_id": "08f745ab-3d64-4866-b546-ac58b6635c82"
+  },
+  {
+    "last_update": "2025-11-06 23:39:09",
+    "song": {
+      "musicAuthor": "Gladiátor",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851b5e43a9994d7a9bcf2c73efd",
+      "musicTitle": "Raz Tam V Uličkách",
+      "radio": "Rádio ROCK",
+      "startTime": "00:39"
+    },
+    "recorded_at": "2025-11-07T00:39:09.602089+01:00",
+    "raw_valid": true,
+    "song_session_id": "ae36b8b8-4b18-4b3d-9e78-907bc1337777"
+  },
+  {
+    "last_update": "2025-11-06 23:43:10",
+    "song": {
+      "musicAuthor": "Christmas",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851eecac9e859f11f174e0e9c6b",
+      "musicTitle": "Rock 'n' Roll",
+      "radio": "Rádio ROCK",
+      "startTime": "00:42"
+    },
+    "recorded_at": "2025-11-07T00:43:10.919849+01:00",
+    "raw_valid": true,
+    "song_session_id": "5ad456de-f6e9-4383-a7eb-3fb2d65922bc"
+  },
+  {
+    "last_update": "2025-11-06 23:47:11",
+    "song": {
+      "musicAuthor": "No Doubt",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048516ebd5e789646a833b8f7d4ba",
+      "musicTitle": "Just A Girl",
+      "radio": "Rádio ROCK",
+      "startTime": "00:46"
+    },
+    "recorded_at": "2025-11-07T00:47:12.184130+01:00",
+    "raw_valid": true,
+    "song_session_id": "e54343b0-dd32-41b8-bea4-e5406976ec2b"
+  },
+  {
+    "last_update": "2025-11-06 23:50:11",
+    "song": {
+      "musicAuthor": "Imt Smile",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851716dda2bb120f723ec5f55b7",
+      "musicTitle": "Kapela",
+      "radio": "Rádio ROCK",
+      "startTime": "00:49"
+    },
+    "recorded_at": "2025-11-07T00:50:12.378617+01:00",
+    "raw_valid": true,
+    "song_session_id": "3ce152a2-956f-4de9-acdb-33107efc4f9b"
+  },
+  {
+    "last_update": "2025-11-06 23:54:12",
+    "song": {
+      "musicAuthor": "Weezer",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851345536847e60f622ee0eae96",
+      "musicTitle": "Buddy Holly",
+      "radio": "Rádio ROCK",
+      "startTime": "00:53"
+    },
+    "recorded_at": "2025-11-07T00:54:12.708056+01:00",
+    "raw_valid": true,
+    "song_session_id": "3d2816c8-fc19-4a30-bcd0-fc0f6ae75a25"
+  },
+  {
+    "last_update": "2025-11-06 23:57:12",
+    "song": {
+      "musicAuthor": "Elán",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048514977adcbe836b75690e2ca7c",
+      "musicTitle": "Tuláci V Podchodoch",
+      "radio": "Rádio ROCK",
+      "startTime": "00:56"
+    },
+    "recorded_at": "2025-11-07T00:57:12.893134+01:00",
+    "raw_valid": true,
+    "song_session_id": "985234b5-4703-49f0-88b6-cacf80a4a48a"
+  },
+  {
+    "last_update": "2025-11-07 00:00:13",
+    "song": {
+      "musicAuthor": "Bon Jovi",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851a2841eb6e1649170cc312871",
+      "musicTitle": "Have A Nice Day",
+      "radio": "Rádio ROCK",
+      "startTime": "00:59"
+    },
+    "recorded_at": "2025-11-07T01:00:13.359272+01:00",
+    "raw_valid": true,
+    "song_session_id": "ae75e781-8df5-46d0-969c-9bfe2de2c026"
+  },
+  {
+    "last_update": "2025-11-07 00:04:13",
+    "song": {
+      "musicAuthor": "Queen",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485167bc29c251c777361b17a190",
+      "musicTitle": "Somebody To Love",
+      "radio": "Rádio ROCK",
+      "startTime": "01:03"
+    },
+    "recorded_at": "2025-11-07T01:04:14.180653+01:00",
+    "raw_valid": true,
+    "song_session_id": "45ca808f-9772-4f8c-b31c-40d9c1fe4a89"
+  },
+  {
+    "last_update": "2025-11-07 00:09:16",
+    "song": {
+      "musicAuthor": "Lukáš Adamec",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485165cea224cb9ff67b635cf44b",
+      "musicTitle": "Najviac",
+      "radio": "Rádio ROCK",
+      "startTime": "01:08"
+    },
+    "recorded_at": "2025-11-07T01:09:16.338232+01:00",
+    "raw_valid": true,
+    "song_session_id": "a4ceb2f5-524a-4cd0-84fe-400e445c9e1b"
+  },
+  {
+    "last_update": "2025-11-07 00:12:15",
+    "song": {
+      "musicAuthor": "The Youniverse",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485100ca8a5b04908bea5c2fe5e5",
+      "musicTitle": "Silver",
+      "radio": "Rádio ROCK",
+      "startTime": "01:12"
+    },
+    "recorded_at": "2025-11-07T01:12:16.590725+01:00",
+    "raw_valid": true,
+    "song_session_id": "19c209a3-0eed-43aa-9410-756be7d84fc3"
+  },
+  {
+    "last_update": "2025-11-07 00:16:17",
+    "song": {
+      "musicAuthor": "Rammstein",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851cbe7573e1175f842e24b34c2",
+      "musicTitle": "Amerika",
+      "radio": "Rádio ROCK",
+      "startTime": "01:15"
+    },
+    "recorded_at": "2025-11-07T01:16:18.018344+01:00",
+    "raw_valid": true,
+    "song_session_id": "6b69fe79-e586-4487-a04b-0c85b4a54d35"
+  },
+  {
+    "last_update": "2025-11-07 00:20:17",
+    "song": {
+      "musicAuthor": "Fishing Strip",
+      "musicCover": "/layout/covers/default.png",
+      "musicTitle": "Vcera Som Miloval",
+      "radio": "Rádio ROCK",
+      "startTime": "01:19"
+    },
+    "recorded_at": "2025-11-07T01:20:18.297390+01:00",
+    "raw_valid": true,
+    "song_session_id": "dc7ad460-6473-44b0-80fa-e2c2ab1d2d23"
+  },
+  {
+    "last_update": "2025-11-07 00:23:18",
+    "song": {
+      "musicAuthor": "Le Payaco",
+      "musicCover": "https://static.radia.sk/covers/32/f26e2264-e19f-4fc4-91d2-1af864449ee2.jpg",
+      "musicTitle": "Nesmrteľne Jedovatá",
+      "radio": "Rádio ROCK",
+      "startTime": "01:22"
+    },
+    "recorded_at": "2025-11-07T01:23:19.057624+01:00",
+    "raw_valid": true,
+    "song_session_id": "7f21baf0-cbd0-4f5a-9637-1039058b88a5"
+  },
+  {
+    "last_update": "2025-11-07 00:26:18",
+    "song": {
+      "musicAuthor": "Blur",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851482869c6f9416161dab79d39",
+      "musicTitle": "Song 2",
+      "radio": "Rádio ROCK",
+      "startTime": "01:25"
+    },
+    "recorded_at": "2025-11-07T01:26:19.237853+01:00",
+    "raw_valid": true,
+    "song_session_id": "f48e0c79-3533-4fee-a859-e1a66781907d"
+  },
+  {
+    "last_update": "2025-11-07 00:28:19",
+    "song": {
+      "musicAuthor": "Konflikt",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851729df4aa42fcb6507a04f2a4",
+      "musicTitle": "Exot",
+      "radio": "Rádio ROCK",
+      "startTime": "01:27"
+    },
+    "recorded_at": "2025-11-07T01:28:19.525348+01:00",
+    "raw_valid": true,
+    "song_session_id": "27aa87c9-dfb6-4f47-a3a2-0b20daa16830"
+  },
+  {
+    "last_update": "2025-11-07 00:31:19",
+    "song": {
+      "musicAuthor": "Gladiator",
+      "musicCover": "https://static.radia.sk/covers/32/637e2fb2-bf40-4366-b0dc-2df4a2d31541.jpg",
+      "musicTitle": "Third Eye",
+      "radio": "Rádio ROCK",
+      "startTime": "01:30"
+    },
+    "recorded_at": "2025-11-07T01:31:19.735047+01:00",
+    "raw_valid": true,
+    "song_session_id": "04e95713-7ede-415b-9c12-3d163dfee4f0"
+  },
+  {
+    "last_update": "2025-11-07 00:35:20",
+    "song": {
+      "musicAuthor": "Yungblud",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851b5dd9044681a2e8e0d072e27",
+      "musicTitle": "Parents",
+      "radio": "Rádio ROCK",
+      "startTime": "01:34"
+    },
+    "recorded_at": "2025-11-07T01:35:20.145217+01:00",
+    "raw_valid": true,
+    "song_session_id": "c9d4d37b-4811-4024-9f41-864df5554025"
+  },
+  {
+    "last_update": "2025-11-07 00:38:20",
+    "song": {
+      "musicAuthor": "Bijouterrier",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485135798bf8aa0f22ac441da31a",
+      "musicTitle": "Pozri",
+      "radio": "Rádio ROCK",
+      "startTime": "01:37"
+    },
+    "recorded_at": "2025-11-07T01:38:20.896786+01:00",
+    "raw_valid": true,
+    "song_session_id": "daf33c3c-23cb-4dd4-9da4-d206005a0cb8"
+  },
+  {
+    "last_update": "2025-11-07 00:41:20",
+    "song": {
+      "musicAuthor": "Zoci Voci",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048518b376292ff48ae6411c6b854",
+      "musicTitle": "Milion Ciest",
+      "radio": "Rádio ROCK",
+      "startTime": "01:41"
+    },
+    "recorded_at": "2025-11-07T01:41:21.199329+01:00",
+    "raw_valid": true,
+    "song_session_id": "452f63bf-9511-4714-899a-14ea878f800d"
+  },
+  {
+    "last_update": "2025-11-07 00:45:21",
+    "song": {
+      "musicAuthor": "R.E.M.",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851d19a802815af06c6942f9413",
+      "musicTitle": "Imitation Of Life",
+      "radio": "Rádio ROCK",
+      "startTime": "01:44"
+    },
+    "recorded_at": "2025-11-07T01:45:22.694675+01:00",
+    "raw_valid": true,
+    "song_session_id": "4f3afe3b-255f-473a-ac32-69685b4c15a1"
+  },
+  {
+    "last_update": "2025-11-07 00:49:23",
+    "song": {
+      "musicAuthor": "Peter Cmorik",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048517016c9ed1680a22ee0d308b3",
+      "musicTitle": "Som Kto Som",
+      "radio": "Rádio ROCK",
+      "startTime": "01:48"
+    },
+    "recorded_at": "2025-11-07T01:49:24.226136+01:00",
+    "raw_valid": true,
+    "song_session_id": "d8fb225a-e1db-41f4-807d-8245e735245a"
+  },
+  {
+    "last_update": "2025-11-07 00:53:24",
+    "song": {
+      "musicAuthor": "Tublatanka",
+      "musicCover": "https://static.radia.sk/covers/32/7ee86987-baad-48a6-9afa-0ca560d378f2.jpg",
+      "musicTitle": "Kúpim Si Kilo Lásky",
+      "radio": "Rádio ROCK",
+      "startTime": "01:52"
+    },
+    "recorded_at": "2025-11-07T01:53:24.787572+01:00",
+    "raw_valid": true,
+    "song_session_id": "2d3213a4-2eae-4517-b30e-042adb112e41"
+  },
+  {
+    "last_update": "2025-11-07 00:57:25",
+    "song": {
+      "musicAuthor": "Van Halen",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851def8994935a955331c21bc12",
+      "musicTitle": "Why Can't This Be Love",
+      "radio": "Rádio ROCK",
+      "startTime": "01:56"
+    },
+    "recorded_at": "2025-11-07T01:57:26.414575+01:00",
+    "raw_valid": true,
+    "song_session_id": "24c2637b-ed5e-4053-aea4-d760748730b8"
+  },
+  {
+    "last_update": "2025-11-07 01:00:26",
+    "song": {
+      "musicAuthor": "Fishing Strip",
+      "musicCover": "/layout/covers/default.png",
+      "musicTitle": "Mám Ťa Rád",
+      "radio": "Rádio ROCK",
+      "startTime": "01:59"
+    },
+    "recorded_at": "2025-11-07T02:00:26.887195+01:00",
+    "raw_valid": true,
+    "song_session_id": "fd2ec6b0-9c5c-4033-90fe-11096d4f99cf"
+  }
+]

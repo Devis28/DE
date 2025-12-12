@@ -1,0 +1,352 @@
+[
+  {
+    "song": "Rhythm Is A Dancer",
+    "artists": [
+      "Snap"
+    ],
+    "isrc": "DET189200600",
+    "start_time": "2025-11-07 20:06:57",
+    "radio": "expres",
+    "recorded_at": "2025-11-07T20:07:11.951079+01:00",
+    "raw_valid": true,
+    "song_session_id": "8b086302-12ae-4a2c-bffb-e6df3c4338bf"
+  },
+  {
+    "song": "Rebel Yell",
+    "artists": [
+      "Scooter"
+    ],
+    "isrc": "DEN270300230",
+    "start_time": "2025-11-07 20:10:37",
+    "radio": "expres",
+    "recorded_at": "2025-11-07T20:10:59.611721+01:00",
+    "raw_valid": true,
+    "song_session_id": "2d0ad71c-f8cf-46a6-9724-18432fad6acd"
+  },
+  {
+    "song": "Sexy Eyes",
+    "artists": [
+      "Whigfield"
+    ],
+    "isrc": "IT00D9605001",
+    "start_time": "2025-11-07 20:14:43",
+    "radio": "expres",
+    "recorded_at": "2025-11-07T20:15:25.702416+01:00",
+    "raw_valid": true,
+    "song_session_id": "7058b002-cb4b-4514-9913-befe40e5c4c1"
+  },
+  {
+    "song": "Freed From Desire",
+    "artists": [
+      "Gala"
+    ],
+    "isrc": "ITA179700143",
+    "start_time": "2025-11-07 20:18:44",
+    "radio": "expres",
+    "recorded_at": "2025-11-07T20:18:53.835879+01:00",
+    "raw_valid": true,
+    "song_session_id": "eb6e56a4-183c-42e3-81be-75987832f604"
+  },
+  {
+    "song": "Macarena",
+    "artists": [
+      "Los Del Rio"
+    ],
+    "isrc": "ES5109500538",
+    "start_time": "2025-11-07 20:22:22",
+    "radio": "expres",
+    "recorded_at": "2025-11-07T20:22:46.209272+01:00",
+    "raw_valid": true,
+    "song_session_id": "2b4f9e0e-d2dd-4d08-ac3d-e51099d329b7"
+  },
+  {
+    "song": "Groove Is In The Heart",
+    "artists": [
+      "Deee-Lite"
+    ],
+    "isrc": "USEE19687204",
+    "start_time": "2025-11-07 20:26:12",
+    "radio": "expres",
+    "recorded_at": "2025-11-07T20:26:35.054948+01:00",
+    "raw_valid": true,
+    "song_session_id": "be79d35a-ea95-4791-8dce-272e9ab7f0db"
+  },
+  {
+    "song": "Russian Lullaby",
+    "artists": [
+      "E-Type"
+    ],
+    "isrc": "SEBKA9425120",
+    "start_time": "2025-11-07 20:29:52",
+    "radio": "expres",
+    "recorded_at": "2025-11-07T20:30:22.547358+01:00",
+    "raw_valid": true,
+    "song_session_id": "5a2f7654-d240-45c2-9024-1da28d9b0970"
+  },
+  {
+    "song": "Swamp Thing",
+    "artists": [
+      "Grid"
+    ],
+    "isrc": "GBARL9400047",
+    "start_time": "2025-11-07 20:34:26",
+    "radio": "expres",
+    "recorded_at": "2025-11-07T20:34:41.310306+01:00",
+    "raw_valid": true,
+    "song_session_id": "74b63e9a-43bc-4cc0-8e1f-824ec6d276bf"
+  },
+  {
+    "song": "The Real Thing",
+    "artists": [
+      "2 Unlimited"
+    ],
+    "isrc": "BEAA19505031",
+    "start_time": "2025-11-07 20:38:30",
+    "radio": "expres",
+    "recorded_at": "2025-11-07T20:38:44.614944+01:00",
+    "raw_valid": true,
+    "song_session_id": "f90b83b1-30f9-4071-812e-898307e7465d"
+  },
+  {
+    "song": "Summer Summer",
+    "artists": [
+      "Loft"
+    ],
+    "isrc": "CHG052300010",
+    "start_time": "2025-11-07 20:41:50",
+    "radio": "expres",
+    "recorded_at": "2025-11-07T20:42:02.664648+01:00",
+    "raw_valid": true,
+    "song_session_id": "b534970f-24ab-4d13-a9d5-3d5683673461"
+  },
+  {
+    "song": "Encore Une Fois",
+    "artists": [
+      "Sash"
+    ],
+    "isrc": "DEF069615240",
+    "start_time": "2025-11-07 20:45:56",
+    "radio": "expres",
+    "recorded_at": "2025-11-07T20:46:32.092068+01:00",
+    "raw_valid": true,
+    "song_session_id": "6c8aad0b-56f2-45c4-a97b-c602b5f1e14a"
+  },
+  {
+    "song": "Blue Jeans",
+    "artists": [
+      "Sqeezer"
+    ],
+    "isrc": "DEK192542845",
+    "start_time": "2025-11-07 20:49:38",
+    "radio": "expres",
+    "recorded_at": "2025-11-07T20:50:05.308275+01:00",
+    "raw_valid": true,
+    "song_session_id": "7388e99b-9fb0-44b5-94b3-e58015f850cc"
+  },
+  {
+    "song": "Mr. Feeling",
+    "artists": [
+      "Masterboy"
+    ],
+    "isrc": "NLT2H2300995",
+    "start_time": "2025-11-07 20:53:33",
+    "radio": "expres",
+    "recorded_at": "2025-11-07T20:54:09.695268+01:00",
+    "raw_valid": true,
+    "song_session_id": "29ca8443-fcf9-4324-8429-afd0a082e985"
+  },
+  {
+    "song": "Horny '98",
+    "artists": [
+      "Mousse T",
+      "Hot 'N' Juicy"
+    ],
+    "isrc": "DEP081900009",
+    "start_time": "2025-11-07 20:57:31",
+    "radio": "expres",
+    "recorded_at": "2025-11-07T20:58:03.606690+01:00",
+    "raw_valid": true,
+    "song_session_id": "7162841f-cdc9-432b-9f87-c751ff207bda"
+  },
+  {
+    "song": "Sunchyme",
+    "artists": [
+      "Dario G"
+    ],
+    "isrc": "GBCFZ1600067",
+    "start_time": "2025-11-07 21:06:08",
+    "radio": "expres",
+    "recorded_at": "2025-11-07T21:06:37.923483+01:00",
+    "raw_valid": true,
+    "song_session_id": "b4be91b7-6876-4a0b-a3ea-9691d51bd164"
+  },
+  {
+    "song": "Rock My Heart",
+    "artists": [
+      "Haddaway"
+    ],
+    "isrc": "DEA410500405",
+    "start_time": "2025-11-07 21:10:08",
+    "radio": "expres",
+    "recorded_at": "2025-11-07T21:10:16.450256+01:00",
+    "raw_valid": true,
+    "song_session_id": "0c8af6f4-691b-43f9-bbd7-737758943119"
+  },
+  {
+    "song": "The Bomb (These Sounds Fall Into My Mind)",
+    "artists": [
+      "Bucketheads"
+    ],
+    "isrc": "USRK31100015",
+    "start_time": "2025-11-07 21:14:18",
+    "radio": "expres",
+    "recorded_at": "2025-11-07T21:14:40.499979+01:00",
+    "raw_valid": true,
+    "song_session_id": "4c5ab76a-d22d-48fe-892b-a4d9ea6bded8"
+  },
+  {
+    "song": "Somebody Dance With Me",
+    "artists": [
+      "Dj Bobo"
+    ],
+    "isrc": "DEMI62000580",
+    "start_time": "2025-11-07 21:17:47",
+    "radio": "expres",
+    "recorded_at": "2025-11-07T21:17:59.784345+01:00",
+    "raw_valid": true,
+    "song_session_id": "b5767ad8-acb2-4cff-9e37-f2aacc7ba2ba"
+  },
+  {
+    "song": "Wheel Of Fortune",
+    "artists": [
+      "Ace Of Base"
+    ],
+    "isrc": "SEVJH0803807",
+    "start_time": "2025-11-07 21:21:24",
+    "radio": "expres",
+    "recorded_at": "2025-11-07T21:21:45.115394+01:00",
+    "raw_valid": true,
+    "song_session_id": "dd780bc0-e53e-439c-9015-20374a3a8bc6"
+  },
+  {
+    "song": "U Cant Stop",
+    "artists": [
+      "Mc Erik",
+      "Barbara"
+    ],
+    "isrc": "CZAA29600030",
+    "start_time": "2025-11-07 21:25:25",
+    "radio": "expres",
+    "recorded_at": "2025-11-07T21:25:44.103960+01:00",
+    "raw_valid": true,
+    "song_session_id": "0103216d-af8f-4adf-a195-3ad0d6097cef"
+  },
+  {
+    "song": "Superhero",
+    "artists": [
+      "Daze"
+    ],
+    "isrc": "DKAXJ9743601",
+    "start_time": "2025-11-07 21:28:33",
+    "radio": "expres",
+    "recorded_at": "2025-11-07T21:28:43.709776+01:00",
+    "raw_valid": true,
+    "song_session_id": "171d40a5-aaa8-4de3-b8c4-0fc5c80d1331"
+  },
+  {
+    "song": "Everybody Jam",
+    "artists": [
+      "John Scatman"
+    ],
+    "isrc": "DKELA9600602",
+    "start_time": "2025-11-07 21:33:10",
+    "radio": "expres",
+    "recorded_at": "2025-11-07T21:33:27.892873+01:00",
+    "raw_valid": true,
+    "song_session_id": "0accdb19-3365-44b0-8c77-f9660dd3fa02"
+  },
+  {
+    "song": "Sing Hallelujah",
+    "artists": [
+      "Dr. Alban"
+    ],
+    "isrc": "DEA819200295",
+    "start_time": "2025-11-07 21:36:41",
+    "radio": "expres",
+    "recorded_at": "2025-11-07T21:37:11.337235+01:00",
+    "raw_valid": true,
+    "song_session_id": "b26bd5ad-4b38-4710-919e-62929b360be7"
+  },
+  {
+    "song": "Set You Free",
+    "artists": [
+      "N-Trance"
+    ],
+    "isrc": "GBCFZ9400653",
+    "start_time": "2025-11-07 21:39:01",
+    "radio": "expres",
+    "recorded_at": "2025-11-07T21:39:08.557437+01:00",
+    "raw_valid": true,
+    "song_session_id": "1fb94df8-b5b9-41e1-bdaf-4ddaf1a41165"
+  },
+  {
+    "song": "Do What You Please",
+    "artists": [
+      "Unique Ii"
+    ],
+    "isrc": "ATS019600402",
+    "start_time": "2025-11-07 21:43:24",
+    "radio": "expres",
+    "recorded_at": "2025-11-07T21:43:32.616924+01:00",
+    "raw_valid": true,
+    "song_session_id": "2a5c7563-86b7-4c11-a5b9-a1d49ef31a6a"
+  },
+  {
+    "song": "Two Can Play That Game",
+    "artists": [
+      "Bobby Brown"
+    ],
+    "isrc": "USMC10346068",
+    "start_time": "2025-11-07 21:46:37",
+    "radio": "expres",
+    "recorded_at": "2025-11-07T21:46:56.057555+01:00",
+    "raw_valid": true,
+    "song_session_id": "5e0f6782-14eb-40f9-93d0-fbead67cc2f5"
+  },
+  {
+    "song": "I Luv You Baby",
+    "artists": [
+      "Original"
+    ],
+    "isrc": "GBDLM0250015",
+    "start_time": "2025-11-07 21:50:11",
+    "radio": "expres",
+    "recorded_at": "2025-11-07T21:50:39.327925+01:00",
+    "raw_valid": true,
+    "song_session_id": "cc477b40-f34b-4ef0-ab39-edcb3f373352"
+  },
+  {
+    "song": "Got To Get It",
+    "artists": [
+      "Culture Beat"
+    ],
+    "isrc": "DEPT99300134",
+    "start_time": "2025-11-07 21:53:41",
+    "radio": "expres",
+    "recorded_at": "2025-11-07T21:53:57.425551+01:00",
+    "raw_valid": true,
+    "song_session_id": "4d072050-8fc8-4ae6-8f4b-e25ccf9b5dbf"
+  },
+  {
+    "song": "Its A Fine Day",
+    "artists": [
+      "Opus Iii"
+    ],
+    "isrc": "GBAHS0104705",
+    "start_time": "2025-11-07 21:57:27",
+    "radio": "expres",
+    "recorded_at": "2025-11-07T21:57:37.987901+01:00",
+    "raw_valid": true,
+    "song_session_id": "3c5c8b53-2f1e-4f57-9a11-bb6d87f34459"
+  }
+]

@@ -1,0 +1,435 @@
+[
+  {
+    "song": "Mystical Magical",
+    "artists": [
+      "Benson Boone"
+    ],
+    "isrc": "USWB12500844",
+    "start_time": "2025-11-21 04:03:29",
+    "radio": "expres",
+    "recorded_at": "2025-11-21T04:04:09.481255+01:00",
+    "raw_valid": true,
+    "song_session_id": "44b95613-9b0d-48e4-8f58-31a9ececb063"
+  },
+  {
+    "song": "Ta Ne",
+    "artists": [
+      "Kristina"
+    ],
+    "isrc": "SKG061400303",
+    "start_time": "2025-11-21 04:06:20",
+    "radio": "expres",
+    "recorded_at": "2025-11-21T04:06:49.808428+01:00",
+    "raw_valid": true,
+    "song_session_id": "8e5a5606-aa71-4841-9e25-0b34dbf163cd"
+  },
+  {
+    "song": "We Pray",
+    "artists": [
+      "Coldplay",
+      "Little Simz",
+      "Burna Boy",
+      "Elyanna",
+      "Tini"
+    ],
+    "isrc": "GBAYE2400890",
+    "start_time": "2025-11-21 04:09:21",
+    "radio": "expres",
+    "recorded_at": "2025-11-21T04:09:55.273776+01:00",
+    "raw_valid": true,
+    "song_session_id": "40c876fa-b2f1-4eb9-9a48-fd3d7cd0e5dc"
+  },
+  {
+    "song": "Posledna",
+    "artists": [
+      "Desmod"
+    ],
+    "isrc": "CZA210300015",
+    "start_time": "2025-11-21 04:12:43",
+    "radio": "expres",
+    "recorded_at": "2025-11-21T04:13:21.682999+01:00",
+    "raw_valid": true,
+    "song_session_id": "745bdc8b-fea9-46e0-b6dc-fdc94fd9e866"
+  },
+  {
+    "song": "Flashdance... What A Feeling",
+    "artists": [
+      "Irene Cara"
+    ],
+    "isrc": "CAU118300354",
+    "start_time": "2025-11-21 04:16:26",
+    "radio": "expres",
+    "recorded_at": "2025-11-21T04:16:55.673052+01:00",
+    "raw_valid": true,
+    "song_session_id": "23ad9acf-9405-477c-823f-1e5220123b7e"
+  },
+  {
+    "song": "Daruj Mi Svoj Najkrajsi Den",
+    "artists": [
+      "Gravis"
+    ],
+    "isrc": "SKA128912012",
+    "start_time": "2025-11-21 04:20:19",
+    "radio": "expres",
+    "recorded_at": "2025-11-21T04:20:39.355385+01:00",
+    "raw_valid": true,
+    "song_session_id": "1e54d039-876c-4331-a2ae-bdcf5bfc2d5c"
+  },
+  {
+    "song": "Love Me Not",
+    "artists": [
+      "Ravyn Lenae"
+    ],
+    "isrc": "USAT22401137",
+    "start_time": "2025-11-21 04:23:17",
+    "radio": "expres",
+    "recorded_at": "2025-11-21T04:23:42.094997+01:00",
+    "raw_valid": true,
+    "song_session_id": "443bc475-3e49-48b8-ac4e-28adfc86f63e"
+  },
+  {
+    "song": "Sme Take Ake Sme",
+    "artists": [
+      "Beata Dubasova"
+    ],
+    "isrc": "SKA128784701",
+    "start_time": "2025-11-21 04:26:53",
+    "radio": "expres",
+    "recorded_at": "2025-11-21T04:27:34.067514+01:00",
+    "raw_valid": true,
+    "song_session_id": "23099ca7-4014-48f1-8479-b750668e919d"
+  },
+  {
+    "song": "Rock N Roll",
+    "artists": [
+      "Leony",
+      "G-Eazy"
+    ],
+    "isrc": "DEN062400703",
+    "start_time": "2025-11-21 04:30:59",
+    "radio": "expres",
+    "recorded_at": "2025-11-21T04:31:23.296863+01:00",
+    "raw_valid": true,
+    "song_session_id": "fa669e44-dff4-4d2a-9549-001416cba3fc"
+  },
+  {
+    "song": "Undressed",
+    "artists": [
+      "Sombr"
+    ],
+    "isrc": "USWB12500737",
+    "start_time": "2025-11-21 04:34:16",
+    "radio": "expres",
+    "recorded_at": "2025-11-21T04:34:54.572900+01:00",
+    "raw_valid": true,
+    "song_session_id": "388693de-4e6c-4029-9950-522feb4a6c6d"
+  },
+  {
+    "song": "Ako To Prezijem?",
+    "artists": [
+      "Polemic"
+    ],
+    "isrc": "CZA210000554",
+    "start_time": "2025-11-21 04:37:20",
+    "radio": "expres",
+    "recorded_at": "2025-11-21T04:37:57.297653+01:00",
+    "raw_valid": true,
+    "song_session_id": "d7a00932-69c0-4ed5-8716-3f52aa49da1a"
+  },
+  {
+    "song": "Try",
+    "artists": [
+      "Pink"
+    ],
+    "isrc": "USRC11200785",
+    "start_time": "2025-11-21 04:40:43",
+    "radio": "expres",
+    "recorded_at": "2025-11-21T04:41:17.659988+01:00",
+    "raw_valid": true,
+    "song_session_id": "687bfc7f-c499-4da3-bbdb-13f204c9aed0"
+  },
+  {
+    "song": "Budeme To Stale My",
+    "artists": [
+      "Imt Smile"
+    ],
+    "isrc": "SKA011800003",
+    "start_time": "2025-11-21 04:44:42",
+    "radio": "expres",
+    "recorded_at": "2025-11-21T04:45:21.974625+01:00",
+    "raw_valid": true,
+    "song_session_id": "1901897c-7b92-4ba5-b6f6-b6c42fc422f5"
+  },
+  {
+    "song": "Wonderful Life 25",
+    "artists": [
+      "Hurts",
+      "Purple Disco Machine"
+    ],
+    "isrc": "DEE862500677",
+    "start_time": "2025-11-21 04:47:40",
+    "radio": "expres",
+    "recorded_at": "2025-11-21T04:48:21.810790+01:00",
+    "raw_valid": true,
+    "song_session_id": "0dff3ca5-610e-49a2-8879-8cc10457cd57"
+  },
+  {
+    "song": "Cigaretka Na Dva Tahy",
+    "artists": [
+      "Richard Muller"
+    ],
+    "isrc": "SKP501800111",
+    "start_time": "2025-11-21 04:50:43",
+    "radio": "expres",
+    "recorded_at": "2025-11-21T04:51:22.654535+01:00",
+    "raw_valid": true,
+    "song_session_id": "eb8c57d2-c3f2-41df-85f3-6974d844b7c0"
+  },
+  {
+    "song": "What Ive Done",
+    "artists": [
+      "Linkin Park"
+    ],
+    "isrc": "USWB10700721",
+    "start_time": "2025-11-21 04:53:59",
+    "radio": "expres",
+    "recorded_at": "2025-11-21T04:54:23.923837+01:00",
+    "raw_valid": true,
+    "song_session_id": "00fa5cce-3cb6-4c54-8843-229d60e5baf9"
+  },
+  {
+    "song": "Len Sa Smej",
+    "artists": [
+      "Peter Bic Project"
+    ],
+    "isrc": "SKA012300333",
+    "start_time": "2025-11-21 04:57:19",
+    "radio": "expres",
+    "recorded_at": "2025-11-21T04:57:48.456270+01:00",
+    "raw_valid": true,
+    "song_session_id": "3250054c-77ad-4c20-af09-c13a47d38de6"
+  },
+  {
+    "song": "Dive",
+    "artists": [
+      "Lost Frequencies",
+      "Tom Gregory"
+    ],
+    "isrc": "BEHP42300028",
+    "start_time": "2025-11-21 05:00:00",
+    "radio": "expres",
+    "recorded_at": "2025-11-21T05:00:28.292914+01:00",
+    "raw_valid": true,
+    "song_session_id": "2a301feb-8fc0-4c9a-8da3-e65e903f82d6"
+  },
+  {
+    "song": "Ked To Nejde",
+    "artists": [
+      "Zdenka Predna"
+    ],
+    "isrc": "CZA210700071",
+    "start_time": "2025-11-21 05:02:39",
+    "radio": "expres",
+    "recorded_at": "2025-11-21T05:03:11.043419+01:00",
+    "raw_valid": true,
+    "song_session_id": "71f98f18-78b4-4aab-ab6f-07673f08ddc7"
+  },
+  {
+    "song": "Afterlife",
+    "artists": [
+      "Michael Schulte"
+    ],
+    "isrc": "DECE72500509",
+    "start_time": "2025-11-21 05:05:55",
+    "radio": "expres",
+    "recorded_at": "2025-11-21T05:06:31.245370+01:00",
+    "raw_valid": true,
+    "song_session_id": "7fadfc1f-6a9b-4bab-84c3-c0de053b1c28"
+  },
+  {
+    "song": "Musim Uz Ist",
+    "artists": [
+      "Martin Kelecsenyi"
+    ],
+    "isrc": "GBLFP2320732",
+    "start_time": "2025-11-21 05:08:39",
+    "radio": "expres",
+    "recorded_at": "2025-11-21T05:09:16.941979+01:00",
+    "raw_valid": true,
+    "song_session_id": "96013da3-755f-4522-97cc-e81c4cc7208e"
+  },
+  {
+    "song": "Bring Me To Life",
+    "artists": [
+      "Evanescence"
+    ],
+    "isrc": "USWU30200093",
+    "start_time": "2025-11-21 05:12:01",
+    "radio": "expres",
+    "recorded_at": "2025-11-21T05:12:37.529362+01:00",
+    "raw_valid": true,
+    "song_session_id": "3fe2fe8b-4445-401f-a9f5-3fdf299bebd7"
+  },
+  {
+    "song": "Jediny A Jedina",
+    "artists": [
+      "Zuzana Smatanova"
+    ],
+    "isrc": "SKI941800607",
+    "start_time": "2025-11-21 05:15:55",
+    "radio": "expres",
+    "recorded_at": "2025-11-21T05:16:21.815702+01:00",
+    "raw_valid": true,
+    "song_session_id": "5fa6f123-1701-497a-9f95-adc5506ff580"
+  },
+  {
+    "song": "Save My Love",
+    "artists": [
+      "Marshmello",
+      "Ellie Goulding",
+      "Avaion"
+    ],
+    "isrc": "USUG12504310",
+    "start_time": "2025-11-21 05:20:00",
+    "radio": "expres",
+    "recorded_at": "2025-11-21T05:20:20.482759+01:00",
+    "raw_valid": true,
+    "song_session_id": "cb82751b-b012-4e05-8f8d-ac4cfb71d526"
+  },
+  {
+    "song": "Vrat Mi Tie Hviezdy '08",
+    "artists": [
+      "Kristina"
+    ],
+    "isrc": null,
+    "start_time": "2025-11-21 05:23:40",
+    "radio": "expres",
+    "recorded_at": "2025-11-21T05:24:06.461968+01:00",
+    "raw_valid": true,
+    "song_session_id": "d10e6f54-d93f-4c13-942b-7fef1bf1fe2c"
+  },
+  {
+    "song": "Unhealthy",
+    "artists": [
+      "Anne-Marie",
+      "Shania Twain"
+    ],
+    "isrc": "GBAHS2300345",
+    "start_time": "2025-11-21 05:26:58",
+    "radio": "expres",
+    "recorded_at": "2025-11-21T05:27:25.224339+01:00",
+    "raw_valid": true,
+    "song_session_id": "96d0b75a-98b9-4fd2-8f1f-7e9a00cd03b9"
+  },
+  {
+    "song": "Michaela",
+    "artists": [
+      "Hex"
+    ],
+    "isrc": "SKA010211104",
+    "start_time": "2025-11-21 05:29:43",
+    "radio": "expres",
+    "recorded_at": "2025-11-21T05:30:05.956113+01:00",
+    "raw_valid": true,
+    "song_session_id": "6f1f1acd-8b31-46ff-ac98-757859962c34"
+  },
+  {
+    "song": "Million Good Reasons",
+    "artists": [
+      "Robin Schulz",
+      "Fast Boy"
+    ],
+    "isrc": "DEA622404738",
+    "start_time": "2025-11-21 05:33:30",
+    "radio": "expres",
+    "recorded_at": "2025-11-21T05:34:04.899764+01:00",
+    "raw_valid": true,
+    "song_session_id": "01f9d606-4403-4550-a40a-fa9edf7a4c8b"
+  },
+  {
+    "song": "Anjel",
+    "artists": [
+      "Komajota"
+    ],
+    "isrc": "SKA010700001",
+    "start_time": "2025-11-21 05:36:10",
+    "radio": "expres",
+    "recorded_at": "2025-11-21T05:36:47.446208+01:00",
+    "raw_valid": true,
+    "song_session_id": "7cd98779-3228-417f-a213-0843af71a921"
+  },
+  {
+    "song": "Listen To Your Heart",
+    "artists": [
+      "Roxette"
+    ],
+    "isrc": "SEAME8878130",
+    "start_time": "2025-11-21 05:39:08",
+    "radio": "expres",
+    "recorded_at": "2025-11-21T05:39:39.604572+01:00",
+    "raw_valid": true,
+    "song_session_id": "baed1a37-7fbb-48ee-9473-017a633ce154"
+  },
+  {
+    "song": "Nelutujem",
+    "artists": [
+      "Adam Durica"
+    ],
+    "isrc": "SKA011400033",
+    "start_time": "2025-11-21 05:44:10",
+    "radio": "expres",
+    "recorded_at": "2025-11-21T05:44:28.669511+01:00",
+    "raw_valid": true,
+    "song_session_id": "759b777c-8025-4e40-bb10-161367dcd27c"
+  },
+  {
+    "song": "Senorita",
+    "artists": [
+      "Shawn Mendes",
+      "Camila Cabello"
+    ],
+    "isrc": "USUM71911283",
+    "start_time": "2025-11-21 05:47:45",
+    "radio": "expres",
+    "recorded_at": "2025-11-21T05:48:12.101137+01:00",
+    "raw_valid": true,
+    "song_session_id": "e0f58320-7e5f-4235-8425-2eba37cf68ca"
+  },
+  {
+    "song": "Vsetko Bude Dobre",
+    "artists": [
+      "Gladiator"
+    ],
+    "isrc": "SKCM72560001",
+    "start_time": "2025-11-21 05:50:54",
+    "radio": "expres",
+    "recorded_at": "2025-11-21T05:51:15.041491+01:00",
+    "raw_valid": true,
+    "song_session_id": "20845379-765f-449e-9fc5-e4b0c8c02bcc"
+  },
+  {
+    "song": "I Promised Myself",
+    "artists": [
+      "Nick Kamen"
+    ],
+    "isrc": "GBAHT1400334",
+    "start_time": "2025-11-21 05:53:57",
+    "radio": "expres",
+    "recorded_at": "2025-11-21T05:54:27.718511+01:00",
+    "raw_valid": true,
+    "song_session_id": "da2aa160-9e82-47c4-9803-7f2d148053c6"
+  },
+  {
+    "song": "Nic Sa Nemeni",
+    "artists": [
+      "Kali",
+      "Imt Smile"
+    ],
+    "isrc": "QZWDW2382192",
+    "start_time": "2025-11-21 05:57:37",
+    "radio": "expres",
+    "recorded_at": "2025-11-21T05:57:55.875996+01:00",
+    "raw_valid": true,
+    "song_session_id": "4386140d-6388-474d-b072-9b111f11f472"
+  }
+]

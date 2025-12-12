@@ -1,0 +1,361 @@
+[
+  {
+    "song": "Stay",
+    "artists": [
+      "Rihanna"
+    ],
+    "isrc": "USUM71214758",
+    "start_time": "2025-11-02 11:06:10",
+    "radio": "expres",
+    "recorded_at": "02.11.2025 11:06:51",
+    "raw_valid": true,
+    "song_session_id": "a44f7e1b-0519-47af-b111-f63a9782b6ea"
+  },
+  {
+    "song": "Regalo",
+    "artists": [
+      "Alvaro Soler"
+    ],
+    "isrc": "DEE862500388",
+    "start_time": "2025-11-02 11:10:11",
+    "radio": "expres",
+    "recorded_at": "02.11.2025 11:10:51",
+    "raw_valid": true,
+    "song_session_id": "ef190364-d7fe-4baa-a99e-b3a839d3dcb8"
+  },
+  {
+    "song": "Do It Again",
+    "artists": [
+      "Ray Dalton"
+    ],
+    "isrc": "DEE862300435",
+    "start_time": "2025-11-02 11:13:13",
+    "radio": "expres",
+    "recorded_at": "02.11.2025 11:13:53",
+    "raw_valid": true,
+    "song_session_id": "31eab208-f719-4c5e-abfb-dcb405ee0288"
+  },
+  {
+    "song": "Zatancuj Si So Mnou",
+    "artists": [
+      "Adam Durica"
+    ],
+    "isrc": "SKA011800050",
+    "start_time": "2025-11-02 11:16:13",
+    "radio": "expres",
+    "recorded_at": "02.11.2025 11:16:52",
+    "raw_valid": true,
+    "song_session_id": "3c2d7c98-3a06-43c3-9e18-190955d5453e"
+  },
+  {
+    "song": "Head Above Water",
+    "artists": [
+      "Twocolors",
+      "Safri Duo",
+      "Chris De Sarandy"
+    ],
+    "isrc": "DEUM72503698",
+    "start_time": "2025-11-02 11:19:29",
+    "radio": "expres",
+    "recorded_at": "02.11.2025 11:19:52",
+    "raw_valid": true,
+    "song_session_id": "8f32c356-9109-4b09-8be4-0f9bf5dbd27c"
+  },
+  {
+    "song": "Laska Necestuj Tym Vlakom",
+    "artists": [
+      "Pavol Habera"
+    ],
+    "isrc": "FRX451573146",
+    "start_time": "2025-11-02 11:22:34",
+    "radio": "expres",
+    "recorded_at": "02.11.2025 11:23:12",
+    "raw_valid": true,
+    "song_session_id": "cd19cefe-0aba-4f0d-9262-c8f274d728d8"
+  },
+  {
+    "song": "Told You So",
+    "artists": [
+      "Martin Garrix",
+      "Jex"
+    ],
+    "isrc": "NLM5S2402334",
+    "start_time": "2025-11-02 11:31:23",
+    "radio": "expres",
+    "recorded_at": "02.11.2025 11:31:54",
+    "raw_valid": true,
+    "song_session_id": "e03f4ba5-c5c6-4d56-9752-4f12dddaca5a"
+  },
+  {
+    "song": "Always Remember Us This Way",
+    "artists": [
+      "Lady Gaga"
+    ],
+    "isrc": "USUM71813195",
+    "start_time": "2025-11-02 11:34:30",
+    "radio": "expres",
+    "recorded_at": "02.11.2025 11:34:53",
+    "raw_valid": true,
+    "song_session_id": "01b2e958-510d-4495-a3d1-8bbc07fd59a7"
+  },
+  {
+    "song": "She Will Be Loved",
+    "artists": [
+      "Maroon 5"
+    ],
+    "isrc": "USUM71204501",
+    "start_time": "2025-11-02 11:37:52",
+    "radio": "expres",
+    "recorded_at": "02.11.2025 11:38:13",
+    "raw_valid": true,
+    "song_session_id": "d1b3e5bb-ae41-43d9-8863-cce08609a127"
+  },
+  {
+    "song": "Chasing Paradise",
+    "artists": [
+      "Kygo",
+      "Onerepublic"
+    ],
+    "isrc": "SEBGA2500019",
+    "start_time": "2025-11-02 11:42:18",
+    "radio": "expres",
+    "recorded_at": "02.11.2025 11:42:42",
+    "raw_valid": true,
+    "song_session_id": "b6881dc3-c9f1-449f-ad9d-f556c501e91d"
+  },
+  {
+    "song": "Medzi Nebom A Zenou",
+    "artists": [
+      "Banket",
+      "Richard Muller",
+      "Ema Muller"
+    ],
+    "isrc": "SKC362500009",
+    "start_time": "2025-11-02 11:45:12",
+    "radio": "expres",
+    "recorded_at": "02.11.2025 11:45:33",
+    "raw_valid": true,
+    "song_session_id": "442abea2-ff84-4684-a126-5fdfacba94ee"
+  },
+  {
+    "song": "Tell It To My Heart",
+    "artists": [
+      "Filatov",
+      "Karas"
+    ],
+    "isrc": "PLA281600112",
+    "start_time": "2025-11-02 11:49:19",
+    "radio": "expres",
+    "recorded_at": "02.11.2025 11:49:52",
+    "raw_valid": true,
+    "song_session_id": "38e430d4-5507-4c96-9a1e-575757fe75d0"
+  },
+  {
+    "song": "Another Brick In The Wall (Part 2)",
+    "artists": [
+      "Pink Floyd"
+    ],
+    "isrc": "GBN9Y1100099",
+    "start_time": "2025-11-02 11:52:11",
+    "radio": "expres",
+    "recorded_at": "02.11.2025 11:52:32",
+    "raw_valid": true,
+    "song_session_id": "0869ead8-b03f-4d69-8a14-a0fa3080b4bf"
+  },
+  {
+    "song": "Trustfall",
+    "artists": [
+      "Pink"
+    ],
+    "isrc": "USRC12204190",
+    "start_time": "2025-11-02 11:55:45",
+    "radio": "expres",
+    "recorded_at": "02.11.2025 11:56:13",
+    "raw_valid": true,
+    "song_session_id": "1af7e50b-b8fe-450b-a16e-41b0c4cad0f2"
+  },
+  {
+    "song": "Mystical Magical",
+    "artists": [
+      "Benson Boone"
+    ],
+    "isrc": "USWB12500844",
+    "start_time": "2025-11-02 12:05:12",
+    "radio": "expres",
+    "recorded_at": "02.11.2025 12:05:31",
+    "raw_valid": true,
+    "song_session_id": "5caf0c74-ed8b-4562-b109-b24fa8cf3e03"
+  },
+  {
+    "song": "Bosorka",
+    "artists": [
+      "Elan"
+    ],
+    "isrc": "SKA129150310",
+    "start_time": "2025-11-02 12:08:07",
+    "radio": "expres",
+    "recorded_at": "02.11.2025 12:08:34",
+    "raw_valid": true,
+    "song_session_id": "3593a67c-5eb2-49a2-9afb-03670005fed8"
+  },
+  {
+    "song": "Bam Bam",
+    "artists": [
+      "Camila Cabello",
+      "Ed Sheeran"
+    ],
+    "isrc": "USSM12200047",
+    "start_time": "2025-11-02 12:11:55",
+    "radio": "expres",
+    "recorded_at": "02.11.2025 12:12:13",
+    "raw_valid": true,
+    "song_session_id": "16188ea2-1e6e-4a8d-b754-05148a027ffe"
+  },
+  {
+    "song": "Safe And Sound",
+    "artists": [
+      "Capital Cities"
+    ],
+    "isrc": "TCABD1246970",
+    "start_time": "2025-11-02 12:15:20",
+    "radio": "expres",
+    "recorded_at": "02.11.2025 12:15:37",
+    "raw_valid": true,
+    "song_session_id": "ca4ad705-2a8a-44fc-a0e3-80b809928e26"
+  },
+  {
+    "song": "Love Me Not",
+    "artists": [
+      "Ravyn Lenae"
+    ],
+    "isrc": "USAT22401137",
+    "start_time": "2025-11-02 12:18:28",
+    "radio": "expres",
+    "recorded_at": "02.11.2025 12:18:55",
+    "raw_valid": true,
+    "song_session_id": "21303bed-2945-47ac-bb87-2d52075646b9"
+  },
+  {
+    "song": "Ak Nie Si Moja",
+    "artists": [
+      "Vaso Patejdl"
+    ],
+    "isrc": "SKA128676213",
+    "start_time": "2025-11-02 12:22:09",
+    "radio": "expres",
+    "recorded_at": "02.11.2025 12:22:34",
+    "raw_valid": true,
+    "song_session_id": "f29efcca-8328-4af4-9659-edb70d898f53"
+  },
+  {
+    "song": "React",
+    "artists": [
+      "Switch Disco",
+      "Ella Henderson"
+    ],
+    "isrc": "GBARL2202525",
+    "start_time": "2025-11-02 12:25:58",
+    "radio": "expres",
+    "recorded_at": "02.11.2025 12:26:17",
+    "raw_valid": true,
+    "song_session_id": "0a3a4099-51de-4569-9b23-8ea13f290990"
+  },
+  {
+    "song": "Ordinary",
+    "artists": [
+      "Alex Warren"
+    ],
+    "isrc": "USAT22500463",
+    "start_time": "2025-11-02 12:31:14",
+    "radio": "expres",
+    "recorded_at": "02.11.2025 12:31:37",
+    "raw_valid": true,
+    "song_session_id": "083b09a1-c05a-4987-bfc2-55896555b3f9"
+  },
+  {
+    "song": "Girls Go Wild",
+    "artists": [
+      "Lp"
+    ],
+    "isrc": "QMRSZ1801659",
+    "start_time": "2025-11-02 12:34:24",
+    "radio": "expres",
+    "recorded_at": "02.11.2025 12:34:40",
+    "raw_valid": true,
+    "song_session_id": "64bc4be0-7915-4514-b42c-898b78933374"
+  },
+  {
+    "song": "Somebody To Love",
+    "artists": [
+      "George Michael",
+      "Queen"
+    ],
+    "isrc": "GBCKZ9300002",
+    "start_time": "2025-11-02 12:37:57",
+    "radio": "expres",
+    "recorded_at": "02.11.2025 12:38:19",
+    "raw_valid": true,
+    "song_session_id": "f0311c9f-3176-4416-a467-47291e92037c"
+  },
+  {
+    "song": "Undressed",
+    "artists": [
+      "Sombr"
+    ],
+    "isrc": "USWB12500737",
+    "start_time": "2025-11-02 12:43:03",
+    "radio": "expres",
+    "recorded_at": "02.11.2025 12:43:24",
+    "raw_valid": true,
+    "song_session_id": "3abccf1b-2397-4b2b-b667-287d949e661a"
+  },
+  {
+    "song": "Viem Ze Povies Ano",
+    "artists": [
+      "Tina"
+    ],
+    "isrc": "CZA230600501",
+    "start_time": "2025-11-02 12:46:05",
+    "radio": "expres",
+    "recorded_at": "02.11.2025 12:46:23",
+    "raw_valid": true,
+    "song_session_id": "41bbc524-a5a0-4ca8-968d-3af4c8d5ac3b"
+  },
+  {
+    "song": "Rock N Roll",
+    "artists": [
+      "Leony",
+      "G-Eazy"
+    ],
+    "isrc": "DEN062400703",
+    "start_time": "2025-11-02 12:49:58",
+    "radio": "expres",
+    "recorded_at": "02.11.2025 12:50:21",
+    "raw_valid": true,
+    "song_session_id": "f2d9ea1e-0296-4e81-8830-9da8e3bf2c8b"
+  },
+  {
+    "song": "Nepoznam",
+    "artists": [
+      "Imt Smile"
+    ],
+    "isrc": "SKA849700101",
+    "start_time": "2025-11-02 12:52:38",
+    "radio": "expres",
+    "recorded_at": "02.11.2025 12:53:04",
+    "raw_valid": true,
+    "song_session_id": "e9f99e19-0f43-416f-a352-e29a21e2b276"
+  },
+  {
+    "song": "A Sky Full Of Stars",
+    "artists": [
+      "Coldplay"
+    ],
+    "isrc": "GBAYE1400217",
+    "start_time": "2025-11-02 12:56:21",
+    "radio": "expres",
+    "recorded_at": "02.11.2025 12:56:49",
+    "raw_valid": true,
+    "song_session_id": "b11c7a22-1cf8-40be-9d5b-02520f58a82f"
+  }
+]

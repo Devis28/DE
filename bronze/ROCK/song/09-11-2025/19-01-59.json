@@ -1,0 +1,405 @@
+[
+  {
+    "last_update": "2025-11-09 17:03:32",
+    "song": {
+      "musicAuthor": "The Red Hot Chili Peppers",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851de1af2785a83cc660155a0c4",
+      "musicTitle": "Can't Stop",
+      "radio": "Rádio ROCK",
+      "startTime": "18:02"
+    },
+    "recorded_at": "2025-11-09T18:03:32.225905+01:00",
+    "raw_valid": true,
+    "song_session_id": "b5da4d65-5ed9-4387-9bee-36362097016b"
+  },
+  {
+    "last_update": "2025-11-09 17:08:32",
+    "song": {
+      "musicAuthor": "Slobodná Európa",
+      "musicCover": "https://static.radia.sk/covers/32/689a01be-a309-445d-af99-b8ee3c76f58d.jpg",
+      "musicTitle": "Dievca Z hornych 10000",
+      "radio": "Rádio ROCK",
+      "startTime": "18:07"
+    },
+    "recorded_at": "2025-11-09T18:08:32.594446+01:00",
+    "raw_valid": true,
+    "song_session_id": "b2abc518-a3ec-4377-b8a3-9e23403d15b5"
+  },
+  {
+    "last_update": "2025-11-09 17:12:32",
+    "song": {
+      "musicAuthor": "Europe",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048512d925cec3072ed1b74e5188f",
+      "musicTitle": "Rock The Night",
+      "radio": "Rádio ROCK",
+      "startTime": "18:11"
+    },
+    "recorded_at": "2025-11-09T18:12:33.031316+01:00",
+    "raw_valid": true,
+    "song_session_id": "8c81f2d7-4d94-4ea7-ad7d-d0c5252e9605"
+  },
+  {
+    "last_update": "2025-11-09 17:16:32",
+    "song": {
+      "musicAuthor": "Lucie",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048518d8d0e40bd3b70756f01044c",
+      "musicTitle": "Šťastnej Chlap",
+      "radio": "Rádio ROCK",
+      "startTime": "18:15"
+    },
+    "recorded_at": "2025-11-09T18:16:33.288636+01:00",
+    "raw_valid": true,
+    "song_session_id": "b8988d8c-9111-4137-a2ce-fa58e11b61bd"
+  },
+  {
+    "last_update": "2025-11-09 17:19:32",
+    "song": {
+      "musicAuthor": "Metallica",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851ee5869b2880109918fc47199",
+      "musicTitle": "St. Anger",
+      "radio": "Rádio ROCK",
+      "startTime": "18:18"
+    },
+    "recorded_at": "2025-11-09T18:19:33.700441+01:00",
+    "raw_valid": true,
+    "song_session_id": "8195db86-5f2d-4a62-8a67-917aa2e0f250"
+  },
+  {
+    "last_update": "2025-11-09 17:25:34",
+    "song": {
+      "musicAuthor": "Ine Kafe",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485133e81d2d263e20b02d3cc3a2",
+      "musicTitle": "Kolagenova Nitka",
+      "radio": "Rádio ROCK",
+      "startTime": "18:24"
+    },
+    "recorded_at": "2025-11-09T18:25:34.470278+01:00",
+    "raw_valid": true,
+    "song_session_id": "1356c1ff-bf64-465f-875a-9e7a45dd5ea2"
+  },
+  {
+    "last_update": "2025-11-09 17:27:33",
+    "song": {
+      "musicAuthor": "Queen",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048512fcad2af6e3d43006c6f42c4",
+      "musicTitle": "I Want It All",
+      "radio": "Rádio ROCK",
+      "startTime": "18:27"
+    },
+    "recorded_at": "2025-11-09T18:27:34.591503+01:00",
+    "raw_valid": true,
+    "song_session_id": "ad2a6cd1-d54a-4d6d-9a0a-ee012257670f"
+  },
+  {
+    "last_update": "2025-11-09 17:31:35",
+    "song": {
+      "musicAuthor": "Foo Fighters",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048511759635c92b6314d3d3c9fe9",
+      "musicTitle": "Learn To Fly",
+      "radio": "Rádio ROCK",
+      "startTime": "18:31"
+    },
+    "recorded_at": "2025-11-09T18:31:35.616977+01:00",
+    "raw_valid": true,
+    "song_session_id": "077bbb47-5791-49cd-b436-1ee7a73e1730"
+  },
+  {
+    "last_update": "2025-11-09 17:35:35",
+    "song": {
+      "musicAuthor": "Green Day",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485108a1b1e0674086d3f1995e1b",
+      "musicTitle": "American Idiot",
+      "radio": "Rádio ROCK",
+      "startTime": "18:35"
+    },
+    "recorded_at": "2025-11-09T18:35:35.906976+01:00",
+    "raw_valid": true,
+    "song_session_id": "eb23ff20-e999-4ddd-9e56-e469716463b6"
+  },
+  {
+    "last_update": "2025-11-09 17:38:37",
+    "song": {
+      "musicAuthor": "Stone Temple Pilots",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485177696910e15c42a5e37636e5",
+      "musicTitle": "Plush",
+      "radio": "Rádio ROCK",
+      "startTime": "18:38"
+    },
+    "recorded_at": "2025-11-09T18:38:37.919215+01:00",
+    "raw_valid": true,
+    "song_session_id": "8d467554-f04a-4417-b174-07d67776aa49"
+  },
+  {
+    "last_update": "2025-11-09 17:43:09",
+    "song": {
+      "musicAuthor": "Premiér",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485186b78ed38028bc5301713ad2",
+      "musicTitle": "Hrobař",
+      "radio": "Rádio ROCK",
+      "startTime": "18:43"
+    },
+    "recorded_at": "2025-11-09T18:43:09.751900+01:00",
+    "raw_valid": true,
+    "song_session_id": "749a4a07-72b4-426f-8f6a-5079b1bea681"
+  },
+  {
+    "last_update": "2025-11-09 17:47:11",
+    "song": {
+      "musicAuthor": "Aerosmith",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851a8a965df6a845b265ee19106",
+      "musicTitle": "Dude Looks Like A Lady",
+      "radio": "Rádio ROCK",
+      "startTime": "18:46"
+    },
+    "recorded_at": "2025-11-09T18:47:11.354124+01:00",
+    "raw_valid": true,
+    "song_session_id": "453e5b7a-b4d8-4204-84e2-93f6295cdac0"
+  },
+  {
+    "last_update": "2025-11-09 17:51:11",
+    "song": {
+      "musicAuthor": "Rammstein",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851a715d32590424cd667879ba3",
+      "musicTitle": "Du Hast",
+      "radio": "Rádio ROCK",
+      "startTime": "18:51"
+    },
+    "recorded_at": "2025-11-09T18:51:11.583005+01:00",
+    "raw_valid": true,
+    "song_session_id": "be037660-ee13-43c6-a6cf-32757cf42fab"
+  },
+  {
+    "last_update": "2025-11-09 17:55:11",
+    "song": {
+      "musicAuthor": "Thirty Seconds To Mars",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485164219d797874eecfd69f2458",
+      "musicTitle": "This Is War",
+      "radio": "Rádio ROCK",
+      "startTime": "18:55"
+    },
+    "recorded_at": "2025-11-09T18:55:12.213385+01:00",
+    "raw_valid": true,
+    "song_session_id": "acb10b5c-eed8-48bc-99f9-7a6053042fbf"
+  },
+  {
+    "last_update": "2025-11-09 18:01:14",
+    "song": {
+      "musicAuthor": "System Of A Down",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851c65f8d04502eeddbdd61fa71",
+      "musicTitle": "B.Y.O.B",
+      "radio": "Rádio ROCK",
+      "startTime": "19:00"
+    },
+    "recorded_at": "2025-11-09T19:01:14.983708+01:00",
+    "raw_valid": true,
+    "song_session_id": "127775ca-6bf7-40b0-922b-241296b2d651"
+  },
+  {
+    "last_update": "2025-11-09 18:05:14",
+    "song": {
+      "musicAuthor": "Deep Blue Something",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851038f8fad2f75b637f1c9aef5",
+      "musicTitle": "Breakfast At Tiffany's",
+      "radio": "Rádio ROCK",
+      "startTime": "19:04"
+    },
+    "recorded_at": "2025-11-09T19:05:15.263086+01:00",
+    "raw_valid": true,
+    "song_session_id": "2dcee684-14e7-42ab-9b4f-9c94434b7e89"
+  },
+  {
+    "last_update": "2025-11-09 18:09:16",
+    "song": {
+      "musicAuthor": "The Bridge",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485116964ad4e7cb3e533a2d5a91",
+      "musicTitle": "Destiny",
+      "radio": "Rádio ROCK",
+      "startTime": "19:09"
+    },
+    "recorded_at": "2025-11-09T19:09:17.180970+01:00",
+    "raw_valid": true,
+    "song_session_id": "a6301ecd-c815-4d0d-b095-febfccb30e5a"
+  },
+  {
+    "last_update": "2025-11-09 18:13:17",
+    "song": {
+      "musicAuthor": "Europe",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048512d925cec3072ed1b74e5188f",
+      "musicTitle": "The Final Countdown",
+      "radio": "Rádio ROCK",
+      "startTime": "19:12"
+    },
+    "recorded_at": "2025-11-09T19:13:18.057064+01:00",
+    "raw_valid": true,
+    "song_session_id": "5f03b65b-f5b8-44eb-8658-7e5f77837e4b"
+  },
+  {
+    "last_update": "2025-11-09 18:17:17",
+    "song": {
+      "musicAuthor": "Linkin Park",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851c0db065619ed208515412917",
+      "musicTitle": "The Emptiness Machine",
+      "radio": "Rádio ROCK",
+      "startTime": "19:16"
+    },
+    "recorded_at": "2025-11-09T19:17:18.509324+01:00",
+    "raw_valid": true,
+    "song_session_id": "47f823c4-c5b1-4cf5-9db8-a7155bc4cae5"
+  },
+  {
+    "last_update": "2025-11-09 18:20:18",
+    "song": {
+      "musicAuthor": "Limp Bizkit",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048514a31b146c7cf07705d912efe",
+      "musicTitle": "My Way",
+      "radio": "Rádio ROCK",
+      "startTime": "19:20"
+    },
+    "recorded_at": "2025-11-09T19:20:18.685354+01:00",
+    "raw_valid": true,
+    "song_session_id": "b778b14c-67bd-42e9-94d7-78bf7099ea5a"
+  },
+  {
+    "last_update": "2025-11-09 18:25:18",
+    "song": {
+      "musicAuthor": "Journey",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851c5653f9038e42efad2f8a266",
+      "musicTitle": "Don't Stop Believin'",
+      "radio": "Rádio ROCK",
+      "startTime": "19:24"
+    },
+    "recorded_at": "2025-11-09T19:25:19.051561+01:00",
+    "raw_valid": true,
+    "song_session_id": "da332eae-0cf5-478a-b840-4e718eeea3f5"
+  },
+  {
+    "last_update": "2025-11-09 18:29:21",
+    "song": {
+      "musicAuthor": "Iné Kafe",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851a36a083c5dec894348b99b3c",
+      "musicTitle": "Mám Pocit",
+      "radio": "Rádio ROCK",
+      "startTime": "19:28"
+    },
+    "recorded_at": "2025-11-09T19:29:21.649306+01:00",
+    "raw_valid": true,
+    "song_session_id": "406348e7-5ae8-49ab-bea7-52c085adf5ef"
+  },
+  {
+    "last_update": "2025-11-09 18:33:21",
+    "song": {
+      "musicAuthor": "Edwyn Collins",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851583f1300f2b356b42dd231b4",
+      "musicTitle": "A Girl Like You",
+      "radio": "Rádio ROCK",
+      "startTime": "19:32"
+    },
+    "recorded_at": "2025-11-09T19:33:21.979007+01:00",
+    "raw_valid": true,
+    "song_session_id": "8c312a5b-2b45-4d91-b006-8962c8d9a390"
+  },
+  {
+    "last_update": "2025-11-09 18:37:21",
+    "song": {
+      "musicAuthor": "Disturbed",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851d7bd0f8e4d2a399020b333e8",
+      "musicTitle": "The Sound Of Silence",
+      "radio": "Rádio ROCK",
+      "startTime": "19:36"
+    },
+    "recorded_at": "2025-11-09T19:37:22.242277+01:00",
+    "raw_valid": true,
+    "song_session_id": "86981718-dae9-43a6-9994-ee6f3ef8b8be"
+  },
+  {
+    "last_update": "2025-11-09 18:41:21",
+    "song": {
+      "musicAuthor": "The Red Hot Chili Peppers",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851f3686323bf737cb7ba3de792",
+      "musicTitle": "Scar Tissue",
+      "radio": "Rádio ROCK",
+      "startTime": "19:40"
+    },
+    "recorded_at": "2025-11-09T19:41:22.742187+01:00",
+    "raw_valid": true,
+    "song_session_id": "178d2cbf-25fe-4d55-841a-6b02565fe8b0"
+  },
+  {
+    "last_update": "2025-11-09 18:44:24",
+    "song": {
+      "musicAuthor": "The Clash",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485125a4df452a3c42ccc2e9288b",
+      "musicTitle": "Should I Stay Or Should I Go",
+      "radio": "Rádio ROCK",
+      "startTime": "19:44"
+    },
+    "recorded_at": "2025-11-09T19:44:24.150110+01:00",
+    "raw_valid": true,
+    "song_session_id": "b87a0a0c-779d-4d94-9146-702b9688968d"
+  },
+  {
+    "last_update": "2025-11-09 18:48:24",
+    "song": {
+      "musicAuthor": "Pražský Výběr",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851dd4fbdc90c333d7f0b98b231",
+      "musicTitle": "Pražákům Je Hej",
+      "radio": "Rádio ROCK",
+      "startTime": "19:47"
+    },
+    "recorded_at": "2025-11-09T19:48:25.379006+01:00",
+    "raw_valid": true,
+    "song_session_id": "1d091c3b-30ec-49ed-8bf3-6a2511afe8f8"
+  },
+  {
+    "last_update": "2025-11-09 18:53:26",
+    "song": {
+      "musicAuthor": "The Doors",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048515b96a8c5d61be8878452f8f1",
+      "musicTitle": "Break On Through (To The Other Side)",
+      "radio": "Rádio ROCK",
+      "startTime": "19:52"
+    },
+    "recorded_at": "2025-11-09T19:53:26.171127+01:00",
+    "raw_valid": true,
+    "song_session_id": "5d9e24bb-e9dd-4e54-9f2d-c5e4db46a6a4"
+  },
+  {
+    "last_update": "2025-11-09 18:55:26",
+    "song": {
+      "musicAuthor": "Horkýže Slíže",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851a1dba7a16c82818421fc734a",
+      "musicTitle": "Brďokoky",
+      "radio": "Rádio ROCK",
+      "startTime": "19:54"
+    },
+    "recorded_at": "2025-11-09T19:55:26.733599+01:00",
+    "raw_valid": true,
+    "song_session_id": "9939a328-60c5-4e4c-ad3b-7abc88dd8303"
+  },
+  {
+    "last_update": "2025-11-09 18:58:26",
+    "song": {
+      "musicAuthor": "Green Day",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851da4f6706ae0f2501c61ce776",
+      "musicTitle": "Good Riddance (Time Of Your Life)",
+      "radio": "Rádio ROCK",
+      "startTime": "19:58"
+    },
+    "recorded_at": "2025-11-09T19:58:27.255760+01:00",
+    "raw_valid": true,
+    "song_session_id": "780b1dfa-0fe6-405d-8033-05dc824c8933"
+  },
+  {
+    "last_update": "2025-11-09 19:01:27",
+    "song": {
+      "musicAuthor": "Queen",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048515be5f807f6f0549e198a44b4",
+      "musicTitle": "Radio Ga Ga",
+      "radio": "Rádio ROCK",
+      "startTime": "20:00"
+    },
+    "recorded_at": "2025-11-09T20:01:28.642280+01:00",
+    "raw_valid": true,
+    "song_session_id": "68aec5c4-9980-4949-88af-a3aa03de010f"
+  }
+]

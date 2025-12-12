@@ -1,0 +1,405 @@
+[
+  {
+    "last_update": "2025-12-07 03:57:27",
+    "song": {
+      "musicAuthor": "Simple Minds",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048515695a657aef0e81bde0c6001",
+      "musicTitle": "Alive And Kicking",
+      "radio": "Rádio ROCK",
+      "startTime": "04:56"
+    },
+    "recorded_at": "2025-12-07T04:57:28.455273+01:00",
+    "raw_valid": true,
+    "song_session_id": "64911a98-df90-460c-b295-7ad6cd2fa9c9"
+  },
+  {
+    "last_update": "2025-12-07 04:02:27",
+    "song": {
+      "musicAuthor": "Queen",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851056e90910cbaf5c5b892aeba",
+      "musicTitle": "Another One Bites The Dust",
+      "radio": "Rádio ROCK",
+      "startTime": "05:02"
+    },
+    "recorded_at": "2025-12-07T05:02:28.769721+01:00",
+    "raw_valid": true,
+    "song_session_id": "20a032fb-f797-4aa6-9273-53eff459ad01"
+  },
+  {
+    "last_update": "2025-12-07 04:06:28",
+    "song": {
+      "musicAuthor": "Cherry Street",
+      "musicCover": "https://static.radia.sk/covers/32/e3967325-0ac6-4545-8595-faa4ffa235fd.jpg",
+      "musicTitle": "Punkrock Show",
+      "radio": "Rádio ROCK",
+      "startTime": "05:06"
+    },
+    "recorded_at": "2025-12-07T05:06:29.171497+01:00",
+    "raw_valid": true,
+    "song_session_id": "a000e543-2161-49d7-bd63-32b3f3a2d159"
+  },
+  {
+    "last_update": "2025-12-07 04:09:29",
+    "song": {
+      "musicAuthor": "Para",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851ddae98c15583b210d7db7a93",
+      "musicTitle": "Otec",
+      "radio": "Rádio ROCK",
+      "startTime": "05:09"
+    },
+    "recorded_at": "2025-12-07T05:09:29.515361+01:00",
+    "raw_valid": true,
+    "song_session_id": "25bd1029-77bc-4e39-8863-4abd03acd911"
+  },
+  {
+    "last_update": "2025-12-07 04:13:29",
+    "song": {
+      "musicAuthor": "Fall Out Boy",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851ff59837e170f95a373afc0ec",
+      "musicTitle": "Thnks Fr Th Mmrs",
+      "radio": "Rádio ROCK",
+      "startTime": "05:12"
+    },
+    "recorded_at": "2025-12-07T05:13:29.750770+01:00",
+    "raw_valid": true,
+    "song_session_id": "4072a917-ed76-4f7d-b2f4-4fb3d9c88c2c"
+  },
+  {
+    "last_update": "2025-12-07 04:16:30",
+    "song": {
+      "musicAuthor": "Lukáš Adamec",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485165cea224cb9ff67b635cf44b",
+      "musicTitle": "Najviac",
+      "radio": "Rádio ROCK",
+      "startTime": "05:16"
+    },
+    "recorded_at": "2025-12-07T05:16:30.150921+01:00",
+    "raw_valid": true,
+    "song_session_id": "5b3df362-6129-4b18-99ac-8e2e9f7ea606"
+  },
+  {
+    "last_update": "2025-12-07 04:20:31",
+    "song": {
+      "musicAuthor": "Karpina",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048510799ed47ac3b8cf1f22d9481",
+      "musicTitle": "Nekromanca",
+      "radio": "Rádio ROCK",
+      "startTime": "05:19"
+    },
+    "recorded_at": "2025-12-07T05:20:32.040059+01:00",
+    "raw_valid": true,
+    "song_session_id": "221ee45b-cab5-4943-9105-fb14bc266ae6"
+  },
+  {
+    "last_update": "2025-12-07 04:25:32",
+    "song": {
+      "musicAuthor": "No Doubt",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048516ebd5e789646a833b8f7d4ba",
+      "musicTitle": "Just A Girl",
+      "radio": "Rádio ROCK",
+      "startTime": "05:24"
+    },
+    "recorded_at": "2025-12-07T05:25:32.881420+01:00",
+    "raw_valid": true,
+    "song_session_id": "6c1271f2-73c4-45ec-89ab-f0dacfb46955"
+  },
+  {
+    "last_update": "2025-12-07 04:28:32",
+    "song": {
+      "musicAuthor": "Team",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851aaa0cb08e6a6ca74ccf28506",
+      "musicTitle": "Nároční",
+      "radio": "Rádio ROCK",
+      "startTime": "05:27"
+    },
+    "recorded_at": "2025-12-07T05:28:33.063754+01:00",
+    "raw_valid": true,
+    "song_session_id": "425db89e-a81f-4f7f-9530-fc5f41453036"
+  },
+  {
+    "last_update": "2025-12-07 04:33:33",
+    "song": {
+      "musicAuthor": "The Paranoid",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048514709458a8bdb635952f15a82",
+      "musicTitle": "Z Plnych Pluc",
+      "radio": "Rádio ROCK",
+      "startTime": "05:32"
+    },
+    "recorded_at": "2025-12-07T05:33:33.363224+01:00",
+    "raw_valid": true,
+    "song_session_id": "409125f3-3da4-46d6-a7c2-383a7990166e"
+  },
+  {
+    "last_update": "2025-12-07 04:36:32",
+    "song": {
+      "musicAuthor": "Acdc",
+      "musicCover": "https://static.radia.sk/covers/32/6cc40ad3-52a6-46e3-a16d-832d6f924fdd.jpg",
+      "musicTitle": "Rock N Roll Train",
+      "radio": "Rádio ROCK",
+      "startTime": "05:36"
+    },
+    "recorded_at": "2025-12-07T05:36:33.589145+01:00",
+    "raw_valid": true,
+    "song_session_id": "6124ecb5-d428-435e-be25-c3f4d89f6868"
+  },
+  {
+    "last_update": "2025-12-07 04:41:34",
+    "song": {
+      "musicAuthor": "Para",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485173fe0c291fc156a1405abb2b",
+      "musicTitle": "Abstinent",
+      "radio": "Rádio ROCK",
+      "startTime": "05:40"
+    },
+    "recorded_at": "2025-12-07T05:41:35.759387+01:00",
+    "raw_valid": true,
+    "song_session_id": "72d73a0f-2aa6-4def-a7e1-ecb28caf1e62"
+  },
+  {
+    "last_update": "2025-12-07 04:44:35",
+    "song": {
+      "musicAuthor": "Nocny Zivot",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048512e38fc350206645a1b88666b",
+      "musicTitle": "Bohac",
+      "radio": "Rádio ROCK",
+      "startTime": "05:43"
+    },
+    "recorded_at": "2025-12-07T05:44:36.290888+01:00",
+    "raw_valid": true,
+    "song_session_id": "1423c324-8d32-472c-8259-fe97c01b4cda"
+  },
+  {
+    "last_update": "2025-12-07 04:48:36",
+    "song": {
+      "musicAuthor": "Linkin Park",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851b4ad7ebaf4575f120eb3f193",
+      "musicTitle": "Numb",
+      "radio": "Rádio ROCK",
+      "startTime": "05:47"
+    },
+    "recorded_at": "2025-12-07T05:48:37.211638+01:00",
+    "raw_valid": true,
+    "song_session_id": "f0a35a39-3956-49b3-aa0a-e852b9418f9e"
+  },
+  {
+    "last_update": "2025-12-07 04:51:37",
+    "song": {
+      "musicAuthor": "Elán",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851c787956f04279f2509a1dc36",
+      "musicTitle": "Detektívka",
+      "radio": "Rádio ROCK",
+      "startTime": "05:50"
+    },
+    "recorded_at": "2025-12-07T05:51:38.030858+01:00",
+    "raw_valid": true,
+    "song_session_id": "ce6c368a-c594-4dc2-bb31-41d6246daa6e"
+  },
+  {
+    "last_update": "2025-12-07 04:56:08",
+    "song": {
+      "musicAuthor": "Clapton Eric",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048515e7464d9d8a25b2bf74b782a",
+      "musicTitle": "Cocaine",
+      "radio": "Rádio ROCK",
+      "startTime": "05:55"
+    },
+    "recorded_at": "2025-12-07T05:56:08.333807+01:00",
+    "raw_valid": true,
+    "song_session_id": "d4c1849b-28d5-4adf-8b4b-611c22b18261"
+  },
+  {
+    "last_update": "2025-12-07 05:00:09",
+    "song": {
+      "musicAuthor": "Fishing Strip",
+      "musicCover": "/layout/covers/default.png",
+      "musicTitle": "Vcera Som Miloval",
+      "radio": "Rádio ROCK",
+      "startTime": "05:59"
+    },
+    "recorded_at": "2025-12-07T06:00:09.829503+01:00",
+    "raw_valid": true,
+    "song_session_id": "dd845e21-fe70-4a04-868c-f7e394001191"
+  },
+  {
+    "last_update": "2025-12-07 05:03:09",
+    "song": {
+      "musicAuthor": "Imagine Dragons",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048515675e83f707f1d7271e5cf8a",
+      "musicTitle": "Believer",
+      "radio": "Rádio ROCK",
+      "startTime": "06:02"
+    },
+    "recorded_at": "2025-12-07T06:03:10.003583+01:00",
+    "raw_valid": true,
+    "song_session_id": "4a247ad1-5e79-48a5-b461-55d04f2052b2"
+  },
+  {
+    "last_update": "2025-12-07 05:06:09",
+    "song": {
+      "musicAuthor": "Aerosmith",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851587b26d49596162397b29ec8",
+      "musicTitle": "Amazing",
+      "radio": "Rádio ROCK",
+      "startTime": "06:06"
+    },
+    "recorded_at": "2025-12-07T06:06:10.187699+01:00",
+    "raw_valid": true,
+    "song_session_id": "ea97db05-bfbb-4ef5-b099-dd030d6721ea"
+  },
+  {
+    "last_update": "2025-12-07 05:12:10",
+    "song": {
+      "musicAuthor": "Dire Straits",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048519dfee5404d5e0763998c958e",
+      "musicTitle": "Sultans Of Swing",
+      "radio": "Rádio ROCK",
+      "startTime": "06:11"
+    },
+    "recorded_at": "2025-12-07T06:12:10.739372+01:00",
+    "raw_valid": true,
+    "song_session_id": "00d773c5-d143-490a-baef-c8b9da94da69"
+  },
+  {
+    "last_update": "2025-12-07 05:18:11",
+    "song": {
+      "musicAuthor": "Deep Purple",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851914d1e0ea2784475c457b7dc",
+      "musicTitle": "Black Night",
+      "radio": "Rádio ROCK",
+      "startTime": "06:17"
+    },
+    "recorded_at": "2025-12-07T06:18:11.133740+01:00",
+    "raw_valid": true,
+    "song_session_id": "c15eed4c-909f-4eb6-bc26-dfb07561d0e8"
+  },
+  {
+    "last_update": "2025-12-07 05:21:10",
+    "song": {
+      "musicAuthor": "Korn",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851d28bc84c691163fb094787fa",
+      "musicTitle": "Word Up",
+      "radio": "Rádio ROCK",
+      "startTime": "06:20"
+    },
+    "recorded_at": "2025-12-07T06:21:11.329894+01:00",
+    "raw_valid": true,
+    "song_session_id": "9cc0e6b3-2552-40a9-83f4-cf5a58c2e892"
+  },
+  {
+    "last_update": "2025-12-07 05:24:10",
+    "song": {
+      "musicAuthor": "Papa Roach",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851d22a0b7f13a38f1ab87b43c7",
+      "musicTitle": "Even If It Kills Me",
+      "radio": "Rádio ROCK",
+      "startTime": "06:23"
+    },
+    "recorded_at": "2025-12-07T06:24:11.568964+01:00",
+    "raw_valid": true,
+    "song_session_id": "1c2b9f8b-4477-4716-b8e0-739de1fee2c3"
+  },
+  {
+    "last_update": "2025-12-07 05:28:11",
+    "song": {
+      "musicAuthor": "Guns N Roses",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485168384dd85fd5e95831252f60",
+      "musicTitle": "Welcome To The Jungle",
+      "radio": "Rádio ROCK",
+      "startTime": "06:27"
+    },
+    "recorded_at": "2025-12-07T06:28:11.880698+01:00",
+    "raw_valid": true,
+    "song_session_id": "608836aa-060a-4941-8e32-3d322b7a29cd"
+  },
+  {
+    "last_update": "2025-12-07 05:32:11",
+    "song": {
+      "musicAuthor": "Smash Mouth",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048514f3bbf9631faeb8de9912a23",
+      "musicTitle": "All Star",
+      "radio": "Rádio ROCK",
+      "startTime": "06:31"
+    },
+    "recorded_at": "2025-12-07T06:32:12.131497+01:00",
+    "raw_valid": true,
+    "song_session_id": "a010c786-971d-4dcb-a98f-2c9f398c05cf"
+  },
+  {
+    "last_update": "2025-12-07 05:35:12",
+    "song": {
+      "musicAuthor": "Horkýže Slíže",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851f76e1b0d7745574f5f17e992",
+      "musicTitle": "A Ja Sprostá",
+      "radio": "Rádio ROCK",
+      "startTime": "06:35"
+    },
+    "recorded_at": "2025-12-07T06:35:13.030053+01:00",
+    "raw_valid": true,
+    "song_session_id": "ffa2cb23-ba8c-45c2-b9f5-619bffd78008"
+  },
+  {
+    "last_update": "2025-12-07 05:38:13",
+    "song": {
+      "musicAuthor": "Slade",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485123840816dd15f4053bdd494d",
+      "musicTitle": "Cum On Feel The Noize",
+      "radio": "Rádio ROCK",
+      "startTime": "06:37"
+    },
+    "recorded_at": "2025-12-07T06:38:13.643982+01:00",
+    "raw_valid": true,
+    "song_session_id": "63ecdac4-fb4a-47c2-b953-bb766e956104"
+  },
+  {
+    "last_update": "2025-12-07 05:42:14",
+    "song": {
+      "musicAuthor": "Eagle-Eye Cherry",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485195127975447a26eb7e31668b",
+      "musicTitle": "Save Tonight",
+      "radio": "Rádio ROCK",
+      "startTime": "06:42"
+    },
+    "recorded_at": "2025-12-07T06:42:14.776563+01:00",
+    "raw_valid": true,
+    "song_session_id": "628254bf-9618-443f-9532-80cf514a89a2"
+  },
+  {
+    "last_update": "2025-12-07 05:46:16",
+    "song": {
+      "musicAuthor": "Tublatanka",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048514b813e7e56c0e4c85f8cb5d0",
+      "musicTitle": "Žeravé Znamenie Osudu",
+      "radio": "Rádio ROCK",
+      "startTime": "06:45"
+    },
+    "recorded_at": "2025-12-07T06:46:16.592867+01:00",
+    "raw_valid": true,
+    "song_session_id": "dccc5df1-3a76-449d-9d03-ae5d8b917487"
+  },
+  {
+    "last_update": "2025-12-07 05:51:16",
+    "song": {
+      "musicAuthor": "The Goo Goo Dolls",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851eda9478c39a21e1cdc6609ca",
+      "musicTitle": "Iris",
+      "radio": "Rádio ROCK",
+      "startTime": "06:50"
+    },
+    "recorded_at": "2025-12-07T06:51:16.966664+01:00",
+    "raw_valid": true,
+    "song_session_id": "fd6c05cf-31db-455a-9df4-04ece63fe6af"
+  },
+  {
+    "last_update": "2025-12-07 05:55:16",
+    "song": {
+      "musicAuthor": "Thirty Seconds To Mars",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485164219d797874eecfd69f2458",
+      "musicTitle": "Closer To The Edge",
+      "radio": "Rádio ROCK",
+      "startTime": "06:54"
+    },
+    "recorded_at": "2025-12-07T06:55:17.205948+01:00",
+    "raw_valid": true,
+    "song_session_id": "5dd644f3-07c0-47eb-a2ab-915aaf0acd53"
+  }
+]

@@ -1,0 +1,379 @@
+[
+  {
+    "last_update": "2025-11-27 12:50:31",
+    "song": {
+      "musicAuthor": "Depeche Mode",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048510a7d45a345534966a4ad2c39",
+      "musicTitle": "Personal Jesus",
+      "radio": "Rádio ROCK",
+      "startTime": "13:49"
+    },
+    "recorded_at": "2025-11-27T13:50:32.873026+01:00",
+    "raw_valid": true,
+    "song_session_id": "1bd958b8-2844-403f-946c-2a195cce94e9"
+  },
+  {
+    "last_update": "2025-11-27 12:53:33",
+    "song": {
+      "musicAuthor": "Kabát",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485161cda9feb3e5622ac59bc191",
+      "musicTitle": "Banditi Di Praga",
+      "radio": "Rádio ROCK",
+      "startTime": "13:53"
+    },
+    "recorded_at": "2025-11-27T13:53:33.113922+01:00",
+    "raw_valid": true,
+    "song_session_id": "d4232f8d-515c-41c3-affb-9ce2a1b9bd6c"
+  },
+  {
+    "last_update": "2025-11-27 12:57:34",
+    "song": {
+      "musicAuthor": "The Guess Who",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048511bc7a864d1cf403ec8e57308",
+      "musicTitle": "American Woman",
+      "radio": "Rádio ROCK",
+      "startTime": "13:56"
+    },
+    "recorded_at": "2025-11-27T13:57:34.685944+01:00",
+    "raw_valid": true,
+    "song_session_id": "cedf2101-a513-43db-83cd-f2a851b745c5"
+  },
+  {
+    "last_update": "2025-11-27 13:02:35",
+    "song": {
+      "musicAuthor": "Bruce Springsteen",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851a7865e686c36a4adda6c9978",
+      "musicTitle": "Born In The U.S.A.",
+      "radio": "Rádio ROCK",
+      "startTime": "14:01"
+    },
+    "recorded_at": "2025-11-27T14:02:35.589855+01:00",
+    "raw_valid": true,
+    "song_session_id": "42c16d05-6638-47f1-bc8b-2d588e1880b5"
+  },
+  {
+    "last_update": "2025-11-27 13:06:34",
+    "song": {
+      "musicAuthor": "Imagine Dragons",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048515675e83f707f1d7271e5cf8a",
+      "musicTitle": "Whatever It Takes",
+      "radio": "Rádio ROCK",
+      "startTime": "14:06"
+    },
+    "recorded_at": "2025-11-27T14:06:35.838721+01:00",
+    "raw_valid": true,
+    "song_session_id": "1b630593-b121-4f5b-b871-641ed474b9c3"
+  },
+  {
+    "last_update": "2025-11-27 13:09:35",
+    "song": {
+      "musicAuthor": "Metallica",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485106cb74d39d123ebe1b3c6631",
+      "musicTitle": "The Memory Remains",
+      "radio": "Rádio ROCK",
+      "startTime": "14:08"
+    },
+    "recorded_at": "2025-11-27T14:09:36.141369+01:00",
+    "raw_valid": true,
+    "song_session_id": "6cdfeae3-8382-447b-b198-387eb4141b16"
+  },
+  {
+    "last_update": "2025-11-27 13:16:38",
+    "song": {
+      "musicAuthor": "Kiss",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851e5089214df66e4c6324861f7",
+      "musicTitle": "Lick It Up",
+      "radio": "Rádio ROCK",
+      "startTime": "14:15"
+    },
+    "recorded_at": "2025-11-27T14:16:38.229576+01:00",
+    "raw_valid": true,
+    "song_session_id": "00b1faa0-3d9d-4fca-9412-c3c905d46b8e"
+  },
+  {
+    "last_update": "2025-11-27 13:20:08",
+    "song": {
+      "musicAuthor": "Guns N' Roses",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851f2c967db9f157bf25227edc4",
+      "musicTitle": "Perhaps",
+      "radio": "Rádio ROCK",
+      "startTime": "14:19"
+    },
+    "recorded_at": "2025-11-27T14:20:08.772321+01:00",
+    "raw_valid": true,
+    "song_session_id": "b364a1b3-14da-4058-a029-cabd4dece3d4"
+  },
+  {
+    "last_update": "2025-11-27 13:25:09",
+    "song": {
+      "musicAuthor": "Limp Bizkit",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048514a31b146c7cf07705d912efe",
+      "musicTitle": "Take A Look Around",
+      "radio": "Rádio ROCK",
+      "startTime": "14:24"
+    },
+    "recorded_at": "2025-11-27T14:25:10.472387+01:00",
+    "raw_valid": true,
+    "song_session_id": "6f20d7b6-180b-4dce-a125-d7aec5f5d7fc"
+  },
+  {
+    "last_update": "2025-11-27 13:30:11",
+    "song": {
+      "musicAuthor": "Gun",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048515bb77417b6eecf4b2800b488",
+      "musicTitle": "Word Up",
+      "radio": "Rádio ROCK",
+      "startTime": "14:29"
+    },
+    "recorded_at": "2025-11-27T14:30:12.541043+01:00",
+    "raw_valid": true,
+    "song_session_id": "39f363d4-ac24-4a7e-9d4c-c1383f6063c3"
+  },
+  {
+    "last_update": "2025-11-27 13:34:13",
+    "song": {
+      "musicAuthor": "Scorpions",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485111c2cc2ef9cada4f6bd84690",
+      "musicTitle": "Rock You Like A Hurricane",
+      "radio": "Rádio ROCK",
+      "startTime": "14:33"
+    },
+    "recorded_at": "2025-11-27T14:34:13.568017+01:00",
+    "raw_valid": true,
+    "song_session_id": "51e7f5e3-bf7f-4a54-9660-53987774ffde"
+  },
+  {
+    "last_update": "2025-11-27 13:39:16",
+    "song": {
+      "musicAuthor": "Horkýže Slíže",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851c8d8be8a56f7d495f4aa3296",
+      "musicTitle": "Voják",
+      "radio": "Rádio ROCK",
+      "startTime": "14:38"
+    },
+    "recorded_at": "2025-11-27T14:39:16.312508+01:00",
+    "raw_valid": true,
+    "song_session_id": "5088fcab-b9a7-4cb5-942d-7b6bc1351884"
+  },
+  {
+    "last_update": "2025-11-27 13:41:16",
+    "song": {
+      "musicAuthor": "Chumbawamba",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048516cfc470251e23a7bb6a38d66",
+      "musicTitle": "Tubthumping",
+      "radio": "Rádio ROCK",
+      "startTime": "14:40"
+    },
+    "recorded_at": "2025-11-27T14:41:16.546653+01:00",
+    "raw_valid": true,
+    "song_session_id": "fc4dd5da-d6d6-47ac-af66-c654f07c4a88"
+  },
+  {
+    "last_update": "2025-11-27 13:45:16",
+    "song": {
+      "musicAuthor": "Evanescence",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485125f49ab23f0ec6332efef432",
+      "musicTitle": "My Immortal",
+      "radio": "Rádio ROCK",
+      "startTime": "14:44"
+    },
+    "recorded_at": "2025-11-27T14:45:16.862178+01:00",
+    "raw_valid": true,
+    "song_session_id": "b55db6d5-e8c2-4a57-9748-baa4b3a6352f"
+  },
+  {
+    "last_update": "2025-11-27 13:49:21",
+    "song": {
+      "musicAuthor": "Oasis",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851580abb98fc826cfe362a65cb",
+      "musicTitle": "Whatever",
+      "radio": "Rádio ROCK",
+      "startTime": "14:49"
+    },
+    "recorded_at": "2025-11-27T14:49:21.265637+01:00",
+    "raw_valid": true,
+    "song_session_id": "a33b7da9-0e79-4672-a241-46f85a6ac981"
+  },
+  {
+    "last_update": "2025-11-27 13:53:23",
+    "song": {
+      "musicAuthor": "Ram Jam",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851fa5dcfc4b1b99a0598224758",
+      "musicTitle": "Black Betty",
+      "radio": "Rádio ROCK",
+      "startTime": "14:52"
+    },
+    "recorded_at": "2025-11-27T14:53:23.800537+01:00",
+    "raw_valid": true,
+    "song_session_id": "6b4631bc-9b0c-412c-aaf7-b29e846afdaa"
+  },
+  {
+    "last_update": "2025-11-27 13:57:25",
+    "song": {
+      "musicAuthor": "Kid Rock",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851a3473085a2a48547a5c290a8",
+      "musicTitle": "All Summer Long",
+      "radio": "Rádio ROCK",
+      "startTime": "14:57"
+    },
+    "recorded_at": "2025-11-27T14:57:25.776216+01:00",
+    "raw_valid": true,
+    "song_session_id": "1b5a6266-6848-471d-928c-b2800910e5f6"
+  },
+  {
+    "last_update": "2025-11-27 14:03:26",
+    "song": {
+      "musicAuthor": "Spin Doctors",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851436e38032cf3389d01426eca",
+      "musicTitle": "Two Princes",
+      "radio": "Rádio ROCK",
+      "startTime": "15:02"
+    },
+    "recorded_at": "2025-11-27T15:03:27.557670+01:00",
+    "raw_valid": true,
+    "song_session_id": "3864c8f0-e570-4884-81bd-a47f747b566f"
+  },
+  {
+    "last_update": "2025-11-27 14:07:29",
+    "song": {
+      "musicAuthor": "Bruce Springsteen",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851a7865e686c36a4adda6c9978",
+      "musicTitle": "Dancing In The Dark",
+      "radio": "Rádio ROCK",
+      "startTime": "15:06"
+    },
+    "recorded_at": "2025-11-27T15:07:30.347602+01:00",
+    "raw_valid": true,
+    "song_session_id": "ca3d3acd-3c9b-4b8b-8ce9-0cd78ef0bcea"
+  },
+  {
+    "last_update": "2025-11-27 14:12:30",
+    "song": {
+      "musicAuthor": "Nightwish",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485183f074bfd3e213283dcdb561",
+      "musicTitle": "Amaranth",
+      "radio": "Rádio ROCK",
+      "startTime": "15:12"
+    },
+    "recorded_at": "2025-11-27T15:12:30.882014+01:00",
+    "raw_valid": true,
+    "song_session_id": "b32b8be7-778f-420d-8567-4549ccd2f47f"
+  },
+  {
+    "last_update": "2025-11-27 14:16:30",
+    "song": {
+      "musicAuthor": "Kravitz Lenny",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485181bb674330f0276e88bd0722",
+      "musicTitle": "Again",
+      "radio": "Rádio ROCK",
+      "startTime": "15:15"
+    },
+    "recorded_at": "2025-11-27T15:16:31.519236+01:00",
+    "raw_valid": true,
+    "song_session_id": "437ba9e0-8611-46df-8b93-8c259ed3b0b7"
+  },
+  {
+    "last_update": "2025-11-27 14:20:31",
+    "song": {
+      "musicAuthor": "Blink 182",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851108b261e589019d965c57da0",
+      "musicTitle": "Dance With Me",
+      "radio": "Rádio ROCK",
+      "startTime": "15:19"
+    },
+    "recorded_at": "2025-11-27T15:20:32.138851+01:00",
+    "raw_valid": true,
+    "song_session_id": "3012354a-7281-4790-a232-036f6bdf0954"
+  },
+  {
+    "last_update": "2025-11-27 14:24:32",
+    "song": {
+      "musicAuthor": "Queen",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851e98d08fbea1a2f03229abc20",
+      "musicTitle": "Friends Will Be Friends",
+      "radio": "Rádio ROCK",
+      "startTime": "15:23"
+    },
+    "recorded_at": "2025-11-27T15:24:32.723163+01:00",
+    "raw_valid": true,
+    "song_session_id": "d20c0b42-c758-4931-8b74-3e857a09f011"
+  },
+  {
+    "last_update": "2025-11-27 14:29:32",
+    "song": {
+      "musicAuthor": "Simple Plan",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048517e973b97ebe64cabf8e3dfa0",
+      "musicTitle": "I'm Just A Kid",
+      "radio": "Rádio ROCK",
+      "startTime": "15:27"
+    },
+    "recorded_at": "2025-11-27T15:29:33.109360+01:00",
+    "raw_valid": true,
+    "song_session_id": "abaf5c47-01bf-40a8-84a2-94d8ab265d76"
+  },
+  {
+    "last_update": "2025-11-27 14:31:33",
+    "song": {
+      "musicAuthor": "Lucie",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048518d8d0e40bd3b70756f01044c",
+      "musicTitle": "Černí Andělé",
+      "radio": "Rádio ROCK",
+      "startTime": "15:30"
+    },
+    "recorded_at": "2025-11-27T15:31:33.954213+01:00",
+    "raw_valid": true,
+    "song_session_id": "d41f7c70-b197-4699-ab30-55b25658b7e5"
+  },
+  {
+    "last_update": "2025-11-27 14:35:36",
+    "song": {
+      "musicAuthor": "Sunrise Avenue",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048517bc098b2880300e8ae3d75c4",
+      "musicTitle": "Fairytale Gone Bad",
+      "radio": "Rádio ROCK",
+      "startTime": "15:34"
+    },
+    "recorded_at": "2025-11-27T15:35:36.148709+01:00",
+    "raw_valid": true,
+    "song_session_id": "58f570e4-09ee-4d09-a26c-f54894809560"
+  },
+  {
+    "last_update": "2025-11-27 14:38:35",
+    "song": {
+      "musicAuthor": "Jimi Hendrix",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851c9adfbd773852e286faed040",
+      "musicTitle": "Hey Joe",
+      "radio": "Rádio ROCK",
+      "startTime": "15:37"
+    },
+    "recorded_at": "2025-11-27T15:38:36.337355+01:00",
+    "raw_valid": true,
+    "song_session_id": "ed03e394-073a-4bc1-bd7d-00e50e0e21b8"
+  },
+  {
+    "last_update": "2025-11-27 14:41:08",
+    "song": {
+      "musicAuthor": "The Red Hot Chili Peppers",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851f3686323bf737cb7ba3de792",
+      "musicTitle": "Snow (Hey Oh)",
+      "radio": "Rádio ROCK",
+      "startTime": "15:41"
+    },
+    "recorded_at": "2025-11-27T15:41:08.859418+01:00",
+    "raw_valid": true,
+    "song_session_id": "5c924aae-ee81-4b3a-8d36-721c355eaf13"
+  },
+  {
+    "last_update": "2025-11-27 14:47:10",
+    "song": {
+      "musicAuthor": "The Cranberries",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851b81b7c1663be64a39433eb35",
+      "musicTitle": "Animal Instinct",
+      "radio": "Rádio ROCK",
+      "startTime": "15:46"
+    },
+    "recorded_at": "2025-11-27T15:47:11.043046+01:00",
+    "raw_valid": true,
+    "song_session_id": "511cb2a5-c2df-4966-991a-9cd3889e1613"
+  }
+]

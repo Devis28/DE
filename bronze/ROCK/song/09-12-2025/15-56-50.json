@@ -1,0 +1,327 @@
+[
+  {
+    "last_update": "2025-12-09 13:59:19",
+    "song": {
+      "musicAuthor": "Green Day",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485108a1b1e0674086d3f1995e1b",
+      "musicTitle": "American Idiot",
+      "radio": "Rádio ROCK",
+      "startTime": "14:58"
+    },
+    "recorded_at": "2025-12-09T14:59:19.780608+01:00",
+    "raw_valid": true,
+    "song_session_id": "19cc419f-663a-400f-b5f8-aeb0d27ad3ad"
+  },
+  {
+    "last_update": "2025-12-09 14:03:20",
+    "song": {
+      "musicAuthor": "Queen",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851024b36346101df444742cde2",
+      "musicTitle": "The Show Must Go On",
+      "radio": "Rádio ROCK",
+      "startTime": "15:02"
+    },
+    "recorded_at": "2025-12-09T15:03:21.537232+01:00",
+    "raw_valid": true,
+    "song_session_id": "bcef3ea0-72ff-4be3-8d90-787fd860ab19"
+  },
+  {
+    "last_update": "2025-12-09 14:07:21",
+    "song": {
+      "musicAuthor": "Kiss",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851e5089214df66e4c6324861f7",
+      "musicTitle": "Lick It Up",
+      "radio": "Rádio ROCK",
+      "startTime": "15:06"
+    },
+    "recorded_at": "2025-12-09T15:07:21.928386+01:00",
+    "raw_valid": true,
+    "song_session_id": "409d4df6-7a7b-44e8-b622-a1ef733bc4d7"
+  },
+  {
+    "last_update": "2025-12-09 14:14:23",
+    "song": {
+      "musicAuthor": "Foo Fighters",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485183e260c313dc1ff1f17909cf",
+      "musicTitle": "The Pretender",
+      "radio": "Rádio ROCK",
+      "startTime": "15:13"
+    },
+    "recorded_at": "2025-12-09T15:14:23.751968+01:00",
+    "raw_valid": true,
+    "song_session_id": "2c065d2e-4a68-4b62-928a-32db8fb204ad"
+  },
+  {
+    "last_update": "2025-12-09 14:19:23",
+    "song": {
+      "musicAuthor": "R.E.M.",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851ace3e7aae0b7c78bbe1c4f35",
+      "musicTitle": "Man On The Moon",
+      "radio": "Rádio ROCK",
+      "startTime": "15:18"
+    },
+    "recorded_at": "2025-12-09T15:19:24.301848+01:00",
+    "raw_valid": true,
+    "song_session_id": "0f166671-8221-48ff-ae71-177202f4b241"
+  },
+  {
+    "last_update": "2025-12-09 14:25:24",
+    "song": {
+      "musicAuthor": "Papa Roach",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851d22a0b7f13a38f1ab87b43c7",
+      "musicTitle": "Even If It Kills Me",
+      "radio": "Rádio ROCK",
+      "startTime": "15:24"
+    },
+    "recorded_at": "2025-12-09T15:25:24.969967+01:00",
+    "raw_valid": true,
+    "song_session_id": "d46a6fdd-38d0-4d21-8ad9-81b0c10db3ba"
+  },
+  {
+    "last_update": "2025-12-09 14:29:25",
+    "song": {
+      "musicAuthor": "Lucie",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048517afcc43e2db56da4728d2a52",
+      "musicTitle": "Dotknu Se Ohně",
+      "radio": "Rádio ROCK",
+      "startTime": "15:28"
+    },
+    "recorded_at": "2025-12-09T15:29:25.805410+01:00",
+    "raw_valid": true,
+    "song_session_id": "fa259593-bd2a-464f-a2fd-50668786d129"
+  },
+  {
+    "last_update": "2025-12-09 14:34:27",
+    "song": {
+      "musicAuthor": "Kabát",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048517207a7c165c9c5c225ab97eb",
+      "musicTitle": "Houby Magický",
+      "radio": "Rádio ROCK",
+      "startTime": "15:33"
+    },
+    "recorded_at": "2025-12-09T15:34:27.461053+01:00",
+    "raw_valid": true,
+    "song_session_id": "115411a3-099a-41b0-bfc1-6f5cf8e09d82"
+  },
+  {
+    "last_update": "2025-12-09 14:37:27",
+    "song": {
+      "musicAuthor": "Smash Mouth",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048514f3bbf9631faeb8de9912a23",
+      "musicTitle": "All Star",
+      "radio": "Rádio ROCK",
+      "startTime": "15:37"
+    },
+    "recorded_at": "2025-12-09T15:37:27.988510+01:00",
+    "raw_valid": true,
+    "song_session_id": "ec42a104-d3ad-440f-8297-9dc6a6214476"
+  },
+  {
+    "last_update": "2025-12-09 14:41:35",
+    "song": {
+      "musicAuthor": "Linkin Park",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485146e207de66ba06422897f769",
+      "musicTitle": "What I've Done",
+      "radio": "Rádio ROCK",
+      "startTime": "15:40"
+    },
+    "recorded_at": "2025-12-09T15:41:35.690970+01:00",
+    "raw_valid": true,
+    "song_session_id": "e9dacc96-6eef-4697-bdeb-1d059758fbd4"
+  },
+  {
+    "last_update": "2025-12-09 14:47:36",
+    "song": {
+      "musicAuthor": "The Sex Pistols",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851b691fa29c123b5fc4bc5d469",
+      "musicTitle": "Anarchy In The Uk",
+      "radio": "Rádio ROCK",
+      "startTime": "15:46"
+    },
+    "recorded_at": "2025-12-09T15:47:36.747965+01:00",
+    "raw_valid": true,
+    "song_session_id": "7da67a52-a668-42fc-b3db-f5b933d8ff79"
+  },
+  {
+    "last_update": "2025-12-09 14:50:37",
+    "song": {
+      "musicAuthor": "Jet",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851d06bd6d3b1f258ba2bca597a",
+      "musicTitle": "Are You Gonna Be My Girl",
+      "radio": "Rádio ROCK",
+      "startTime": "15:49"
+    },
+    "recorded_at": "2025-12-09T15:50:37.139124+01:00",
+    "raw_valid": true,
+    "song_session_id": "35053e7e-b84b-466f-92b4-a594855af863"
+  },
+  {
+    "last_update": "2025-12-09 14:54:09",
+    "song": {
+      "musicAuthor": "The Offspring",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048510158cbde70672dd821972907",
+      "musicTitle": "Come Out And Play",
+      "radio": "Rádio ROCK",
+      "startTime": "15:53"
+    },
+    "recorded_at": "2025-12-09T15:54:09.672569+01:00",
+    "raw_valid": true,
+    "song_session_id": "fbf7ef66-7bc5-47eb-a477-1e63df7a7492"
+  },
+  {
+    "last_update": "2025-12-09 14:57:09",
+    "song": {
+      "musicAuthor": "Helloween",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048513ab4dc4b31ad6870b455ac80",
+      "musicTitle": "I Want Out",
+      "radio": "Rádio ROCK",
+      "startTime": "15:56"
+    },
+    "recorded_at": "2025-12-09T15:57:09.856375+01:00",
+    "raw_valid": true,
+    "song_session_id": "d0b1a6b3-e9d8-41ab-81de-51fd6fa893df"
+  },
+  {
+    "last_update": "2025-12-09 15:03:09",
+    "song": {
+      "musicAuthor": "The Cardigans",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851b0d0af55bc2a5c0a198e0dfd",
+      "musicTitle": "My Favorite Game",
+      "radio": "Rádio ROCK",
+      "startTime": "16:02"
+    },
+    "recorded_at": "2025-12-09T16:03:10.486502+01:00",
+    "raw_valid": true,
+    "song_session_id": "ef7578ec-9a92-4c10-b4d0-28182c382069"
+  },
+  {
+    "last_update": "2025-12-09 15:07:11",
+    "song": {
+      "musicAuthor": "Simple Plan",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048517e973b97ebe64cabf8e3dfa0",
+      "musicTitle": "I'm Just A Kid",
+      "radio": "Rádio ROCK",
+      "startTime": "16:06"
+    },
+    "recorded_at": "2025-12-09T16:07:11.117924+01:00",
+    "raw_valid": true,
+    "song_session_id": "58c75236-cb42-477b-b858-a3e69020eba7"
+  },
+  {
+    "last_update": "2025-12-09 15:10:11",
+    "song": {
+      "musicAuthor": "The Red Hot Chili Peppers",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851f3686323bf737cb7ba3de792",
+      "musicTitle": "Scar Tissue",
+      "radio": "Rádio ROCK",
+      "startTime": "16:09"
+    },
+    "recorded_at": "2025-12-09T16:10:12.660339+01:00",
+    "raw_valid": true,
+    "song_session_id": "32ce327a-cd7a-4981-a9ee-a75ff9851716"
+  },
+  {
+    "last_update": "2025-12-09 15:15:15",
+    "song": {
+      "musicAuthor": "Depeche Mode",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485113ccc3e363f27a4a3d06d1b1",
+      "musicTitle": "Never Let Me Down Again",
+      "radio": "Rádio ROCK",
+      "startTime": "16:14"
+    },
+    "recorded_at": "2025-12-09T16:15:15.112818+01:00",
+    "raw_valid": true,
+    "song_session_id": "be166c26-99e7-4475-acb0-8d2bd6061ede"
+  },
+  {
+    "last_update": "2025-12-09 15:19:16",
+    "song": {
+      "musicAuthor": "Fall Out Boy",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851ff59837e170f95a373afc0ec",
+      "musicTitle": "Love From The Other Side",
+      "radio": "Rádio ROCK",
+      "startTime": "16:18"
+    },
+    "recorded_at": "2025-12-09T16:19:17.598687+01:00",
+    "raw_valid": true,
+    "song_session_id": "f2f54a44-f008-4abc-8226-dfbd519a79ad"
+  },
+  {
+    "last_update": "2025-12-09 15:24:19",
+    "song": {
+      "musicAuthor": "Scorpions",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851787674b6a114f98cad6f834b",
+      "musicTitle": "Send Me An Angel",
+      "radio": "Rádio ROCK",
+      "startTime": "16:23"
+    },
+    "recorded_at": "2025-12-09T16:24:20.023301+01:00",
+    "raw_valid": true,
+    "song_session_id": "97de636d-46dc-4381-ade1-bbf4d5216c52"
+  },
+  {
+    "last_update": "2025-12-09 15:28:22",
+    "song": {
+      "musicAuthor": "Genesis",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851087ca24aa58e7c67514061a1",
+      "musicTitle": "Land Of Confusion",
+      "radio": "Rádio ROCK",
+      "startTime": "16:28"
+    },
+    "recorded_at": "2025-12-09T16:28:22.395190+01:00",
+    "raw_valid": true,
+    "song_session_id": "e7e37cbd-56f2-495e-9f3a-dd18d3031cbd"
+  },
+  {
+    "last_update": "2025-12-09 15:33:24",
+    "song": {
+      "musicAuthor": "Aerosmith",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851587b26d49596162397b29ec8",
+      "musicTitle": "Amazing",
+      "radio": "Rádio ROCK",
+      "startTime": "16:32"
+    },
+    "recorded_at": "2025-12-09T16:33:24.314765+01:00",
+    "raw_valid": true,
+    "song_session_id": "a0fe74a4-6a98-4a3a-8202-45ff7b7ba886"
+  },
+  {
+    "last_update": "2025-12-09 15:39:24",
+    "song": {
+      "musicAuthor": "Green Day",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485108a1b1e0674086d3f1995e1b",
+      "musicTitle": "Jesus Of Suburbia",
+      "radio": "Rádio ROCK",
+      "startTime": "16:38"
+    },
+    "recorded_at": "2025-12-09T16:39:24.887670+01:00",
+    "raw_valid": true,
+    "song_session_id": "6dc27979-a71e-468d-b767-939eba36e9fe"
+  },
+  {
+    "last_update": "2025-12-09 15:49:25",
+    "song": {
+      "musicAuthor": "Nirvana",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851fbc71c99f9c1296c56dd51b6",
+      "musicTitle": "Come As You Are",
+      "radio": "Rádio ROCK",
+      "startTime": "16:49"
+    },
+    "recorded_at": "2025-12-09T16:49:26.629157+01:00",
+    "raw_valid": true,
+    "song_session_id": "db0a1ace-4d1b-46ce-9e71-f58602e3c5cc"
+  },
+  {
+    "last_update": "2025-12-09 15:53:27",
+    "song": {
+      "musicAuthor": "Linkin Park",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485189a8fab8bf8cd2b77da1fd17",
+      "musicTitle": "Somewhere I Belong",
+      "radio": "Rádio ROCK",
+      "startTime": "16:53"
+    },
+    "recorded_at": "2025-12-09T16:53:27.691905+01:00",
+    "raw_valid": true,
+    "song_session_id": "8b29ed2e-2a42-4d63-9d98-c2716dd3a323"
+  }
+]

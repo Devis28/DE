@@ -1,0 +1,379 @@
+[
+  {
+    "last_update": "2025-11-14 09:03:18",
+    "song": {
+      "musicAuthor": "Republica",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048513d577eba3860affba2f2d334",
+      "musicTitle": "Ready To Go",
+      "radio": "Rádio ROCK",
+      "startTime": "10:03"
+    },
+    "recorded_at": "2025-11-14T10:03:18.267700+01:00",
+    "raw_valid": true,
+    "song_session_id": "e83941e5-c6fb-4de1-ad87-caed8274cd92"
+  },
+  {
+    "last_update": "2025-11-14 09:09:19",
+    "song": {
+      "musicAuthor": "Mötley Crüe",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851e2f18e7e962bc989b570a767",
+      "musicTitle": "Kickstart My Heart",
+      "radio": "Rádio ROCK",
+      "startTime": "10:08"
+    },
+    "recorded_at": "2025-11-14T10:09:19.433780+01:00",
+    "raw_valid": true,
+    "song_session_id": "ecb5bba4-ae4f-4f32-91d4-453dd42125c2"
+  },
+  {
+    "last_update": "2025-11-14 09:14:18",
+    "song": {
+      "musicAuthor": "Blink 182",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048516da502e35a7a3e48de2b0f74",
+      "musicTitle": "All The Small Things",
+      "radio": "Rádio ROCK",
+      "startTime": "10:13"
+    },
+    "recorded_at": "2025-11-14T10:14:19.889619+01:00",
+    "raw_valid": true,
+    "song_session_id": "0231f9b4-879f-4931-91c1-39f3df4c5a03"
+  },
+  {
+    "last_update": "2025-11-14 09:17:20",
+    "song": {
+      "musicAuthor": "Aerosmith",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851587b26d49596162397b29ec8",
+      "musicTitle": "Amazing",
+      "radio": "Rádio ROCK",
+      "startTime": "10:16"
+    },
+    "recorded_at": "2025-11-14T10:17:20.452059+01:00",
+    "raw_valid": true,
+    "song_session_id": "67787523-dd06-4305-96e1-756e965e270d"
+  },
+  {
+    "last_update": "2025-11-14 09:23:21",
+    "song": {
+      "musicAuthor": "Foo Fighters",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048514cf13503a5fafa24d8c63059",
+      "musicTitle": "Todays Song",
+      "radio": "Rádio ROCK",
+      "startTime": "10:22"
+    },
+    "recorded_at": "2025-11-14T10:23:21.597715+01:00",
+    "raw_valid": true,
+    "song_session_id": "3b103076-000a-4836-ad91-ebb4309c0f2a"
+  },
+  {
+    "last_update": "2025-11-14 09:26:22",
+    "song": {
+      "musicAuthor": "The Rolling Stones",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485105c5be85b64eaff732f7cb0b",
+      "musicTitle": "/I Can't Get No/ Satisfaction",
+      "radio": "Rádio ROCK",
+      "startTime": "10:25"
+    },
+    "recorded_at": "2025-11-14T10:26:22.392184+01:00",
+    "raw_valid": true,
+    "song_session_id": "5974afe7-a417-47d7-8741-18262e424f9b"
+  },
+  {
+    "last_update": "2025-11-14 09:29:23",
+    "song": {
+      "musicAuthor": "Nickelback",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048518ad2adfa59683b9c8ace96c1",
+      "musicTitle": "Rockstar",
+      "radio": "Rádio ROCK",
+      "startTime": "10:29"
+    },
+    "recorded_at": "2025-11-14T10:29:23.300820+01:00",
+    "raw_valid": true,
+    "song_session_id": "085ba142-345c-4cf3-af67-62a8f9c4d62b"
+  },
+  {
+    "last_update": "2025-11-14 09:34:23",
+    "song": {
+      "musicAuthor": "The Red Hot Chili Peppers",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851153d79816d853f2694b2cc70",
+      "musicTitle": "Under The Bridge",
+      "radio": "Rádio ROCK",
+      "startTime": "10:33"
+    },
+    "recorded_at": "2025-11-14T10:34:24.371675+01:00",
+    "raw_valid": true,
+    "song_session_id": "333b8c01-e2c0-4f9f-90ea-05104a7c8f8d"
+  },
+  {
+    "last_update": "2025-11-14 09:38:26",
+    "song": {
+      "musicAuthor": "Limp Bizkit",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048514a31b146c7cf07705d912efe",
+      "musicTitle": "Take A Look Around",
+      "radio": "Rádio ROCK",
+      "startTime": "10:37"
+    },
+    "recorded_at": "2025-11-14T10:38:26.825380+01:00",
+    "raw_valid": true,
+    "song_session_id": "dd622fd6-5114-47c6-85b9-570e6b307036"
+  },
+  {
+    "last_update": "2025-11-14 09:43:27",
+    "song": {
+      "musicAuthor": "The Sex Pistols",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851b691fa29c123b5fc4bc5d469",
+      "musicTitle": "God Save The Queen",
+      "radio": "Rádio ROCK",
+      "startTime": "10:42"
+    },
+    "recorded_at": "2025-11-14T10:43:27.255671+01:00",
+    "raw_valid": true,
+    "song_session_id": "97caade4-b919-4fdb-beb5-3c21c27151e1"
+  },
+  {
+    "last_update": "2025-11-14 09:47:29",
+    "song": {
+      "musicAuthor": "Horkýže Slíže",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851a1dba7a16c82818421fc734a",
+      "musicTitle": "L.A.G. Song",
+      "radio": "Rádio ROCK",
+      "startTime": "10:46"
+    },
+    "recorded_at": "2025-11-14T10:47:29.631115+01:00",
+    "raw_valid": true,
+    "song_session_id": "a054ecc8-117e-4358-85d6-229bf885fd40"
+  },
+  {
+    "last_update": "2025-11-14 09:51:29",
+    "song": {
+      "musicAuthor": "Heart",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048515fa646a4cfcd17842fdd7bbd",
+      "musicTitle": "Alone",
+      "radio": "Rádio ROCK",
+      "startTime": "10:50"
+    },
+    "recorded_at": "2025-11-14T10:51:30.244027+01:00",
+    "raw_valid": true,
+    "song_session_id": "a3adc763-e9b9-4b76-bf14-4c9833f433b6"
+  },
+  {
+    "last_update": "2025-11-14 09:54:30",
+    "song": {
+      "musicAuthor": "System Of A Down",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851f5e7b2e5adaa87430a3eccff",
+      "musicTitle": "Hypnotize",
+      "radio": "Rádio ROCK",
+      "startTime": "10:53"
+    },
+    "recorded_at": "2025-11-14T10:54:30.637074+01:00",
+    "raw_valid": true,
+    "song_session_id": "4bcd7874-83b0-4558-9767-490717099348"
+  },
+  {
+    "last_update": "2025-11-14 09:57:30",
+    "song": {
+      "musicAuthor": "U2",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485137cd18af5725b9cad0a5ab53",
+      "musicTitle": "One",
+      "radio": "Rádio ROCK",
+      "startTime": "10:57"
+    },
+    "recorded_at": "2025-11-14T10:57:31.009032+01:00",
+    "raw_valid": true,
+    "song_session_id": "3d3ba347-3431-4c83-b0aa-777715ca5c31"
+  },
+  {
+    "last_update": "2025-11-14 10:03:31",
+    "song": {
+      "musicAuthor": "Alice Cooper",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048515d149c05419231f335e35bb7",
+      "musicTitle": "Poison",
+      "radio": "Rádio ROCK",
+      "startTime": "11:02"
+    },
+    "recorded_at": "2025-11-14T11:03:32.148025+01:00",
+    "raw_valid": true,
+    "song_session_id": "122322f8-7aa1-41f9-a847-ec65aa1df898"
+  },
+  {
+    "last_update": "2025-11-14 10:07:32",
+    "song": {
+      "musicAuthor": "Creed",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851a32f2ae4dade83e0d7a294f4",
+      "musicTitle": "My Sacrifice",
+      "radio": "Rádio ROCK",
+      "startTime": "11:06"
+    },
+    "recorded_at": "2025-11-14T11:07:33.423304+01:00",
+    "raw_valid": true,
+    "song_session_id": "fbc263f0-32a8-42c4-aee3-524c8a31222f"
+  },
+  {
+    "last_update": "2025-11-14 10:14:36",
+    "song": {
+      "musicAuthor": "The Lemonheads",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485192b65c451cdaa683e214ebb1",
+      "musicTitle": "Mrs. Robinson",
+      "radio": "Rádio ROCK",
+      "startTime": "11:13"
+    },
+    "recorded_at": "2025-11-14T11:14:36.340065+01:00",
+    "raw_valid": true,
+    "song_session_id": "4275d30c-08c9-4292-9a5a-d127b5ee49c5"
+  },
+  {
+    "last_update": "2025-11-14 10:18:36",
+    "song": {
+      "musicAuthor": "David Bowie",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851bc1c63a5b66ab9ac3ea21672",
+      "musicTitle": "Heroes",
+      "radio": "Rádio ROCK",
+      "startTime": "11:17"
+    },
+    "recorded_at": "2025-11-14T11:18:37.144820+01:00",
+    "raw_valid": true,
+    "song_session_id": "ad420383-796f-4d9c-ba12-db69625f947c"
+  },
+  {
+    "last_update": "2025-11-14 10:21:06",
+    "song": {
+      "musicAuthor": "Avril Lavigne & Simple Plan",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851dcb4445d2acfe556bb3269f7",
+      "musicTitle": "Young And Dumb",
+      "radio": "Rádio ROCK",
+      "startTime": "11:21"
+    },
+    "recorded_at": "2025-11-14T11:21:07.537024+01:00",
+    "raw_valid": true,
+    "song_session_id": "36284a34-40c7-42eb-980c-21217b13aa51"
+  },
+  {
+    "last_update": "2025-11-14 10:24:08",
+    "song": {
+      "musicAuthor": "Foo Fighters",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048516c44679425e2695001b35d72",
+      "musicTitle": "The Best Of You",
+      "radio": "Rádio ROCK",
+      "startTime": "11:24"
+    },
+    "recorded_at": "2025-11-14T11:24:09.422188+01:00",
+    "raw_valid": true,
+    "song_session_id": "7d5d51de-a208-4be9-89c9-fc8191683809"
+  },
+  {
+    "last_update": "2025-11-14 10:29:09",
+    "song": {
+      "musicAuthor": "Pearl Jam",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851d400d27cba05bb0545533864",
+      "musicTitle": "Alive",
+      "radio": "Rádio ROCK",
+      "startTime": "11:28"
+    },
+    "recorded_at": "2025-11-14T11:29:10.160242+01:00",
+    "raw_valid": true,
+    "song_session_id": "91519c8f-5a29-402d-90b3-073690fd6953"
+  },
+  {
+    "last_update": "2025-11-14 10:34:10",
+    "song": {
+      "musicAuthor": "Bruce Springsteen",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851a7865e686c36a4adda6c9978",
+      "musicTitle": "Born In The U.S.A.",
+      "radio": "Rádio ROCK",
+      "startTime": "11:34"
+    },
+    "recorded_at": "2025-11-14T11:34:11.290379+01:00",
+    "raw_valid": true,
+    "song_session_id": "e8a9bf24-fc74-492e-af63-c2e698972252"
+  },
+  {
+    "last_update": "2025-11-14 10:39:10",
+    "song": {
+      "musicAuthor": "Rammstein",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048518b2c42026277efc3e058855b",
+      "musicTitle": "Feuer Frei",
+      "radio": "Rádio ROCK",
+      "startTime": "11:38"
+    },
+    "recorded_at": "2025-11-14T11:39:11.568718+01:00",
+    "raw_valid": true,
+    "song_session_id": "123e0732-343a-41a9-823f-142ec0def5af"
+  },
+  {
+    "last_update": "2025-11-14 10:42:11",
+    "song": {
+      "musicAuthor": "Placebo",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851ac68d5f575b62ee76a235396",
+      "musicTitle": "Every You, Every Me",
+      "radio": "Rádio ROCK",
+      "startTime": "11:41"
+    },
+    "recorded_at": "2025-11-14T11:42:11.770393+01:00",
+    "raw_valid": true,
+    "song_session_id": "a3e14150-ad53-4c69-b200-a70670c1813b"
+  },
+  {
+    "last_update": "2025-11-14 10:45:11",
+    "song": {
+      "musicAuthor": "Motörhead",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851bb7d33186e4a26421c6a77ae",
+      "musicTitle": "Ace Of Spades",
+      "radio": "Rádio ROCK",
+      "startTime": "11:45"
+    },
+    "recorded_at": "2025-11-14T11:45:12.259816+01:00",
+    "raw_valid": true,
+    "song_session_id": "759545e2-a2e5-4bde-9995-547137f71260"
+  },
+  {
+    "last_update": "2025-11-14 10:49:13",
+    "song": {
+      "musicAuthor": "Limp Bizkit",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485144971d48c21dbd132f2d506e",
+      "musicTitle": "Behind Blue Eyes",
+      "radio": "Rádio ROCK",
+      "startTime": "11:48"
+    },
+    "recorded_at": "2025-11-14T11:49:13.852398+01:00",
+    "raw_valid": true,
+    "song_session_id": "141d11f5-b1b4-40fb-8964-0247371cdb19"
+  },
+  {
+    "last_update": "2025-11-14 10:53:13",
+    "song": {
+      "musicAuthor": "The Cranberries",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851b81b7c1663be64a39433eb35",
+      "musicTitle": "Animal Instinct",
+      "radio": "Rádio ROCK",
+      "startTime": "11:52"
+    },
+    "recorded_at": "2025-11-14T11:53:14.182674+01:00",
+    "raw_valid": true,
+    "song_session_id": "16b7def4-831d-4495-8d17-24493560ba47"
+  },
+  {
+    "last_update": "2025-11-14 10:56:13",
+    "song": {
+      "musicAuthor": "Kiss",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048514384b6976cadaec272114022",
+      "musicTitle": "I Was Made For Lovin' You",
+      "radio": "Rádio ROCK",
+      "startTime": "11:56"
+    },
+    "recorded_at": "2025-11-14T11:56:14.425392+01:00",
+    "raw_valid": true,
+    "song_session_id": "672d5325-0d8f-476c-b73e-ffe2d60cbb1a"
+  },
+  {
+    "last_update": "2025-11-14 11:01:15",
+    "song": {
+      "musicAuthor": "The Offspring",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851ba12c467b8cc7eb3be9e7d8b",
+      "musicTitle": "All I Want",
+      "radio": "Rádio ROCK",
+      "startTime": "12:00"
+    },
+    "recorded_at": "2025-11-14T12:01:15.645959+01:00",
+    "raw_valid": true,
+    "song_session_id": "c9e6a137-15cf-45fd-946c-271314de5201"
+  }
+]

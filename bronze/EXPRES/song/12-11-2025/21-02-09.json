@@ -1,0 +1,387 @@
+[
+  {
+    "song": "Otazka Za Milion",
+    "artists": [
+      "Ine Kafe"
+    ],
+    "isrc": "SKA722400001",
+    "start_time": "2025-11-12 20:05:18",
+    "radio": "expres",
+    "recorded_at": "2025-11-12T20:05:37.855825+01:00",
+    "raw_valid": true,
+    "song_session_id": "6a04dcc7-4ba9-4d30-8acf-4cfb3b0f87ae"
+  },
+  {
+    "song": "White Dove",
+    "artists": [
+      "Scorpions"
+    ],
+    "isrc": "USPR39500251",
+    "start_time": "2025-11-12 20:09:08",
+    "radio": "expres",
+    "recorded_at": "2025-11-12T20:09:50.970988+01:00",
+    "raw_valid": true,
+    "song_session_id": "f1eadc18-0589-456b-ad6f-00618d901e7b"
+  },
+  {
+    "song": "Glide",
+    "artists": [
+      "Neiked",
+      "Portugal The Man"
+    ],
+    "isrc": "DEE862500421",
+    "start_time": "2025-11-12 20:13:14",
+    "radio": "expres",
+    "recorded_at": "2025-11-12T20:13:51.850603+01:00",
+    "raw_valid": true,
+    "song_session_id": "6430fe36-4fd8-4bfc-af4b-06a8f0845c01"
+  },
+  {
+    "song": "V Piatok Podvecer",
+    "artists": [
+      "Hex"
+    ],
+    "isrc": "SKA010211102",
+    "start_time": "2025-11-12 20:16:20",
+    "radio": "expres",
+    "recorded_at": "2025-11-12T20:16:49.463426+01:00",
+    "raw_valid": true,
+    "song_session_id": "5c5decc1-bfd0-4f98-922e-16b4a310b296"
+  },
+  {
+    "song": "Mad",
+    "artists": [
+      "Martin Garrix",
+      "Lauv"
+    ],
+    "isrc": "NLM5S2502535",
+    "start_time": "2025-11-12 20:19:42",
+    "radio": "expres",
+    "recorded_at": "2025-11-12T20:20:12.990882+01:00",
+    "raw_valid": true,
+    "song_session_id": "1493229b-faad-4185-bbe7-83de55dac918"
+  },
+  {
+    "song": "I Want It That Way",
+    "artists": [
+      "Backstreet Boys"
+    ],
+    "isrc": "USJI19910614",
+    "start_time": "2025-11-12 20:23:26",
+    "radio": "expres",
+    "recorded_at": "2025-11-12T20:23:56.316713+01:00",
+    "raw_valid": true,
+    "song_session_id": "f156b24c-a932-44a4-b034-1a3aa370a847"
+  },
+  {
+    "song": "Gimme Love",
+    "artists": [
+      "Sia"
+    ],
+    "isrc": "USAT22307798",
+    "start_time": "2025-11-12 20:27:01",
+    "radio": "expres",
+    "recorded_at": "2025-11-12T20:27:42.058495+01:00",
+    "raw_valid": true,
+    "song_session_id": "0f2af4b5-e8a5-41a7-bb21-3c13cdfa3261"
+  },
+  {
+    "song": "Regalo",
+    "artists": [
+      "Alvaro Soler"
+    ],
+    "isrc": "DEE862500388",
+    "start_time": "2025-11-12 20:32:15",
+    "radio": "expres",
+    "recorded_at": "2025-11-12T20:32:53.186305+01:00",
+    "raw_valid": true,
+    "song_session_id": "1869e92a-d299-4e70-a794-afd1074fe9f0"
+  },
+  {
+    "song": "Aj Keby...",
+    "artists": [
+      "Imt Smile"
+    ],
+    "isrc": "SKA011800062",
+    "start_time": "2025-11-12 20:35:29",
+    "radio": "expres",
+    "recorded_at": "2025-11-12T20:36:11.507488+01:00",
+    "raw_valid": true,
+    "song_session_id": "3a40bb8b-3bcb-44a8-b402-fa2c311b2d9e"
+  },
+  {
+    "song": "I Need Your Love",
+    "artists": [
+      "Calvin Harris",
+      "Ellie Goulding"
+    ],
+    "isrc": "GBARL1201390",
+    "start_time": "2025-11-12 20:39:47",
+    "radio": "expres",
+    "recorded_at": "2025-11-12T20:40:10.271106+01:00",
+    "raw_valid": true,
+    "song_session_id": "77b43a84-e16e-41c4-a5fc-f6f8e2669e42"
+  },
+  {
+    "song": "The Fate Of Ophelia",
+    "artists": [
+      "Taylor Swift"
+    ],
+    "isrc": "USUG12506436",
+    "start_time": "2025-11-12 20:43:45",
+    "radio": "expres",
+    "recorded_at": "2025-11-12T20:44:08.850375+01:00",
+    "raw_valid": true,
+    "song_session_id": "a6703e9b-000f-45f4-b5c6-8f972dffa3d6"
+  },
+  {
+    "song": "Pokoj V Dusi",
+    "artists": [
+      "Jana Kirschner"
+    ],
+    "isrc": "SKA880900001",
+    "start_time": "2025-11-12 20:47:38",
+    "radio": "expres",
+    "recorded_at": "2025-11-12T20:48:12.473969+01:00",
+    "raw_valid": true,
+    "song_session_id": "06cee366-800c-472d-ae99-763ce3156ae4"
+  },
+  {
+    "song": "Forbidden Road",
+    "artists": [
+      "Robbie Williams"
+    ],
+    "isrc": "GBPS62400032",
+    "start_time": "2025-11-12 20:51:04",
+    "radio": "expres",
+    "recorded_at": "2025-11-12T20:51:45.065736+01:00",
+    "raw_valid": true,
+    "song_session_id": "b9ba2f2c-62fe-4b83-ba7f-3cdb4df2eff0"
+  },
+  {
+    "song": "Vsetko Bude Dobre",
+    "artists": [
+      "Gladiator"
+    ],
+    "isrc": "SKCM72560001",
+    "start_time": "2025-11-12 20:54:10",
+    "radio": "expres",
+    "recorded_at": "2025-11-12T20:54:41.965835+01:00",
+    "raw_valid": true,
+    "song_session_id": "d47058e9-69ef-4921-9e04-7d71598fba39"
+  },
+  {
+    "song": "Survive",
+    "artists": [
+      "Laurent Wolf",
+      "Andrew Roachford"
+    ],
+    "isrc": "FRYEY1000910",
+    "start_time": "2025-11-12 20:57:10",
+    "radio": "expres",
+    "recorded_at": "2025-11-12T20:57:45.098919+01:00",
+    "raw_valid": true,
+    "song_session_id": "5d66ea5b-9d8e-408c-9195-7161091eff77"
+  },
+  {
+    "song": "Mystical Magical",
+    "artists": [
+      "Benson Boone"
+    ],
+    "isrc": "USWB12500844",
+    "start_time": "2025-11-12 21:04:18",
+    "radio": "expres",
+    "recorded_at": "2025-11-12T21:04:58.507318+01:00",
+    "raw_valid": true,
+    "song_session_id": "57b6b62e-31fa-4fe9-8016-adec9378efb8"
+  },
+  {
+    "song": "Ked Sa Baba Zblazni",
+    "artists": [
+      "Pavol Habera",
+      "Team"
+    ],
+    "isrc": "CZA100308358",
+    "start_time": "2025-11-12 21:07:13",
+    "radio": "expres",
+    "recorded_at": "2025-11-12T21:07:52.674872+01:00",
+    "raw_valid": true,
+    "song_session_id": "49349fea-b13d-4541-977b-b60aa7c3b451"
+  },
+  {
+    "song": "Houdini",
+    "artists": [
+      "Dua Lipa"
+    ],
+    "isrc": "GBAHT2301246",
+    "start_time": "2025-11-12 21:12:26",
+    "radio": "expres",
+    "recorded_at": "2025-11-12T21:12:57.160915+01:00",
+    "raw_valid": true,
+    "song_session_id": "df1c4f73-fc5f-454b-a36d-f51d26004dd3"
+  },
+  {
+    "song": "Leave Before You Love Me",
+    "artists": [
+      "Marshmello",
+      "Jonas Brothers"
+    ],
+    "isrc": "USUG12102313",
+    "start_time": "2025-11-12 21:15:29",
+    "radio": "expres",
+    "recorded_at": "2025-11-12T21:16:03.882960+01:00",
+    "raw_valid": true,
+    "song_session_id": "14edd1e7-a2e5-47aa-a7a5-117a18fc4464"
+  },
+  {
+    "song": "Medzi Nebom A Zenou",
+    "artists": [
+      "Banket",
+      "Richard Muller",
+      "Ema Muller"
+    ],
+    "isrc": "SKC362500009",
+    "start_time": "2025-11-12 21:18:01",
+    "radio": "expres",
+    "recorded_at": "2025-11-12T21:18:21.230811+01:00",
+    "raw_valid": true,
+    "song_session_id": "16359095-7a7d-45e4-a8c2-1ba8ef07f708"
+  },
+  {
+    "song": "Just Dance",
+    "artists": [
+      "Lady Gaga"
+    ],
+    "isrc": "USUM70807646",
+    "start_time": "2025-11-12 21:22:08",
+    "radio": "expres",
+    "recorded_at": "2025-11-12T21:22:45.113565+01:00",
+    "raw_valid": true,
+    "song_session_id": "10856cd4-fa2f-4435-8749-dcd2062289c8"
+  },
+  {
+    "song": "Eyes Closed",
+    "artists": [
+      "Imagine Dragons"
+    ],
+    "isrc": "USUM72402448",
+    "start_time": "2025-11-12 21:25:37",
+    "radio": "expres",
+    "recorded_at": "2025-11-12T21:26:16.356624+01:00",
+    "raw_valid": true,
+    "song_session_id": "61984282-9782-43c8-93de-162113ab193e"
+  },
+  {
+    "song": "Spolu",
+    "artists": [
+      "Adam Durica"
+    ],
+    "isrc": "SKA011600001",
+    "start_time": "2025-11-12 21:28:52",
+    "radio": "expres",
+    "recorded_at": "2025-11-12T21:29:20.818508+01:00",
+    "raw_valid": true,
+    "song_session_id": "91beb919-c71b-43f0-98f1-74b09852f621"
+  },
+  {
+    "song": "Undressed",
+    "artists": [
+      "Sombr"
+    ],
+    "isrc": "USWB12500737",
+    "start_time": "2025-11-12 21:32:43",
+    "radio": "expres",
+    "recorded_at": "2025-11-12T21:33:21.432857+01:00",
+    "raw_valid": true,
+    "song_session_id": "ae97c70f-8acb-42e4-86e5-adf5f2f44d0c"
+  },
+  {
+    "song": "Where Are You Now",
+    "artists": [
+      "Lost Frequencies",
+      "Calum Scott"
+    ],
+    "isrc": "BEHP42100067",
+    "start_time": "2025-11-12 21:35:50",
+    "radio": "expres",
+    "recorded_at": "2025-11-12T21:36:19.227168+01:00",
+    "raw_valid": true,
+    "song_session_id": "70c41061-6800-4cdc-a566-25bca493e6cd"
+  },
+  {
+    "song": "Ill Be Missing You",
+    "artists": [
+      "Puff Daddy",
+      "Faith Evans"
+    ],
+    "isrc": "USBB40581044",
+    "start_time": "2025-11-12 21:38:19",
+    "radio": "expres",
+    "recorded_at": "2025-11-12T21:38:41.549043+01:00",
+    "raw_valid": true,
+    "song_session_id": "6fac8477-d794-4908-ace2-3bffb83df468"
+  },
+  {
+    "song": "Head Above Water",
+    "artists": [
+      "Twocolors",
+      "Safri Duo",
+      "Chris De Sarandy"
+    ],
+    "isrc": "DEUM72503698",
+    "start_time": "2025-11-12 21:43:24",
+    "radio": "expres",
+    "recorded_at": "2025-11-12T21:43:46.029857+01:00",
+    "raw_valid": true,
+    "song_session_id": "d37d4cd4-af93-4e4c-b6e0-029e1264b376"
+  },
+  {
+    "song": "Domino",
+    "artists": [
+      "Nocaden"
+    ],
+    "isrc": "SKG971900106",
+    "start_time": "2025-11-12 21:46:16",
+    "radio": "expres",
+    "recorded_at": "2025-11-12T21:46:49.799954+01:00",
+    "raw_valid": true,
+    "song_session_id": "a6c92062-89ef-4447-a7d5-d790d5baf9a0"
+  },
+  {
+    "song": "Te Imaginaba",
+    "artists": [
+      "Alvaro Soler"
+    ],
+    "isrc": "DEE862401045",
+    "start_time": "2025-11-12 21:50:11",
+    "radio": "expres",
+    "recorded_at": "2025-11-12T21:50:33.478330+01:00",
+    "raw_valid": true,
+    "song_session_id": "f7062141-e842-4d80-bc1f-5e61443a62c6"
+  },
+  {
+    "song": "Blink Twice",
+    "artists": [
+      "Shaboozey",
+      "Myles Smith"
+    ],
+    "isrc": "USUYG1717098",
+    "start_time": "2025-11-12 21:52:44",
+    "radio": "expres",
+    "recorded_at": "2025-11-12T21:53:30.527823+01:00",
+    "raw_valid": true,
+    "song_session_id": "2c9693bf-dd7f-46e5-9af6-af8dde81278f"
+  },
+  {
+    "song": "Perfect",
+    "artists": [
+      "Ed Sheeran"
+    ],
+    "isrc": "GBAHS1700024",
+    "start_time": "2025-11-12 21:55:35",
+    "radio": "expres",
+    "recorded_at": "2025-11-12T21:55:58.115576+01:00",
+    "raw_valid": true,
+    "song_session_id": "3e7b6165-437e-42b8-ae17-3ec0a53a4ec6"
+  }
+]

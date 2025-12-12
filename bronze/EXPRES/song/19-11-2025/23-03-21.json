@@ -1,0 +1,397 @@
+[
+  {
+    "song": "Pohoda",
+    "artists": [
+      "Sam Sebou",
+      "Kali"
+    ],
+    "isrc": "SKE502400602",
+    "start_time": "2025-11-19 22:06:03",
+    "radio": "expres",
+    "recorded_at": "2025-11-19T22:06:28.766682+01:00",
+    "raw_valid": true,
+    "song_session_id": "cf76042a-4315-423f-8bd7-31c5e31e157c"
+  },
+  {
+    "song": "Freed From Desire",
+    "artists": [
+      "Gala"
+    ],
+    "isrc": "ITA179700143",
+    "start_time": "2025-11-19 22:08:54",
+    "radio": "expres",
+    "recorded_at": "2025-11-19T22:09:32.047082+01:00",
+    "raw_valid": true,
+    "song_session_id": "5f47beb6-2265-4437-a58e-ca76646ab3f0"
+  },
+  {
+    "song": "Million Good Reasons",
+    "artists": [
+      "Robin Schulz",
+      "Fast Boy"
+    ],
+    "isrc": "DEA622404738",
+    "start_time": "2025-11-19 22:12:38",
+    "radio": "expres",
+    "recorded_at": "2025-11-19T22:13:13.469168+01:00",
+    "raw_valid": true,
+    "song_session_id": "d46b0232-e324-4a75-9a6c-bb494f2d2c95"
+  },
+  {
+    "song": "Cesta",
+    "artists": [
+      "Krystof",
+      "Tomas Klus"
+    ],
+    "isrc": "CZUM71200138",
+    "start_time": "2025-11-19 22:15:12",
+    "radio": "expres",
+    "recorded_at": "2025-11-19T22:15:32.776432+01:00",
+    "raw_valid": true,
+    "song_session_id": "56a9d7d0-306e-457c-a5d1-5e07d2610441"
+  },
+  {
+    "song": "Man I Need",
+    "artists": [
+      "Olivia Dean"
+    ],
+    "isrc": "GBUM72503089",
+    "start_time": "2025-11-19 22:19:26",
+    "radio": "expres",
+    "recorded_at": "2025-11-19T22:19:56.695524+01:00",
+    "raw_valid": true,
+    "song_session_id": "52422b0d-c801-4478-a8ea-63cc74590746"
+  },
+  {
+    "song": "Eternal Flame",
+    "artists": [
+      "Bangles"
+    ],
+    "isrc": "USSM18800153",
+    "start_time": "2025-11-19 22:22:48",
+    "radio": "expres",
+    "recorded_at": "2025-11-19T22:23:15.454196+01:00",
+    "raw_valid": true,
+    "song_session_id": "227af216-e3bf-4014-b6e6-d82bb563dc24"
+  },
+  {
+    "song": "Gimme Love",
+    "artists": [
+      "Sia"
+    ],
+    "isrc": "USAT22307798",
+    "start_time": "2025-11-19 22:26:00",
+    "radio": "expres",
+    "recorded_at": "2025-11-19T22:26:43.053149+01:00",
+    "raw_valid": true,
+    "song_session_id": "78dfc0ab-74c2-47aa-899b-006648aebf40"
+  },
+  {
+    "song": "Unikat",
+    "artists": [
+      "Maria Cirova"
+    ],
+    "isrc": "SKK871600102",
+    "start_time": "2025-11-19 22:28:52",
+    "radio": "expres",
+    "recorded_at": "2025-11-19T22:29:20.881331+01:00",
+    "raw_valid": true,
+    "song_session_id": "22549ef3-bb59-4a70-a2f4-30bb16fc1cfe"
+  },
+  {
+    "song": "Be Mine",
+    "artists": [
+      "Kamrad"
+    ],
+    "isrc": "DE1NJ2500035",
+    "start_time": "2025-11-19 22:33:44",
+    "radio": "expres",
+    "recorded_at": "2025-11-19T22:34:00.633596+01:00",
+    "raw_valid": true,
+    "song_session_id": "947ad2c4-0dc0-4ccb-a6a9-6ad3738a5a6e"
+  },
+  {
+    "song": "Abstinent",
+    "artists": [
+      "Para"
+    ],
+    "isrc": "CZA210700187",
+    "start_time": "2025-11-19 22:36:35",
+    "radio": "expres",
+    "recorded_at": "2025-11-19T22:37:03.856440+01:00",
+    "raw_valid": true,
+    "song_session_id": "bd11d451-e7fe-4158-8837-3a64f0ef5651"
+  },
+  {
+    "song": "Please Forgive Me",
+    "artists": [
+      "Bryan Adams"
+    ],
+    "isrc": "US23A1544710",
+    "start_time": "2025-11-19 22:39:24",
+    "radio": "expres",
+    "recorded_at": "2025-11-19T22:39:46.552626+01:00",
+    "raw_valid": true,
+    "song_session_id": "560a1f50-56de-42a2-a66a-e96118eefbeb"
+  },
+  {
+    "song": "Pride",
+    "artists": [
+      "Felix Jaehn",
+      "Jhart"
+    ],
+    "isrc": "DEUM72503423",
+    "start_time": "2025-11-19 22:45:12",
+    "radio": "expres",
+    "recorded_at": "2025-11-19T22:45:41.558075+01:00",
+    "raw_valid": true,
+    "song_session_id": "89091825-470d-48e5-b559-47f009347336"
+  },
+  {
+    "song": "Million Reasons",
+    "artists": [
+      "Lady Gaga"
+    ],
+    "isrc": "USUM71609736",
+    "start_time": "2025-11-19 22:47:54",
+    "radio": "expres",
+    "recorded_at": "2025-11-19T22:48:26.396115+01:00",
+    "raw_valid": true,
+    "song_session_id": "000180ac-a233-45cc-a92d-1a7425d5ba18"
+  },
+  {
+    "song": "Stargazing",
+    "artists": [
+      "Myles Smith"
+    ],
+    "isrc": "GBARL2400510",
+    "start_time": "2025-11-19 22:51:09",
+    "radio": "expres",
+    "recorded_at": "2025-11-19T22:51:38.945695+01:00",
+    "raw_valid": true,
+    "song_session_id": "b0c8663a-776c-465c-b2ed-e25591c03e3d"
+  },
+  {
+    "song": "Medzi Nebom A Zenou",
+    "artists": [
+      "Banket",
+      "Richard Muller",
+      "Ema Muller"
+    ],
+    "isrc": "SKC362500009",
+    "start_time": "2025-11-19 22:53:55",
+    "radio": "expres",
+    "recorded_at": "2025-11-19T22:54:17.109038+01:00",
+    "raw_valid": true,
+    "song_session_id": "b975baec-1ea8-4655-bad8-e8dca9fa4169"
+  },
+  {
+    "song": "Sweet Dreams",
+    "artists": [
+      "Eurythmics"
+    ],
+    "isrc": "GBARL0300589",
+    "start_time": "2025-11-19 22:57:55",
+    "radio": "expres",
+    "recorded_at": "2025-11-19T22:58:37.948118+01:00",
+    "raw_valid": true,
+    "song_session_id": "06c278dc-1472-48ef-b01c-a97911cd4c2f"
+  },
+  {
+    "song": "The One",
+    "artists": [
+      "Michael Patrick Kelly"
+    ],
+    "isrc": "DEE862500476",
+    "start_time": "2025-11-19 23:05:26",
+    "radio": "expres",
+    "recorded_at": "2025-11-19T23:05:43.890959+01:00",
+    "raw_valid": true,
+    "song_session_id": "34cae000-4449-43c1-80f7-ba778bb89e29"
+  },
+  {
+    "song": "Ill Be There For You",
+    "artists": [
+      "Rembrandts"
+    ],
+    "isrc": "USEE10001295",
+    "start_time": "2025-11-19 23:08:34",
+    "radio": "expres",
+    "recorded_at": "2025-11-19T23:09:15.503766+01:00",
+    "raw_valid": true,
+    "song_session_id": "2526b84d-5863-420b-a079-450fdd33a224"
+  },
+  {
+    "song": "Green Green Grass",
+    "artists": [
+      "George Ezra"
+    ],
+    "isrc": "GBARL2200008",
+    "start_time": "2025-11-19 23:11:33",
+    "radio": "expres",
+    "recorded_at": "2025-11-19T23:12:13.622310+01:00",
+    "raw_valid": true,
+    "song_session_id": "68295480-35b1-4f10-a281-24511e280e65"
+  },
+  {
+    "song": "Follow You",
+    "artists": [
+      "Imagine Dragons"
+    ],
+    "isrc": "USUM72102981",
+    "start_time": "2025-11-19 23:14:21",
+    "radio": "expres",
+    "recorded_at": "2025-11-19T23:14:51.050432+01:00",
+    "raw_valid": true,
+    "song_session_id": "61c1bb94-8532-43d1-9ab3-51a263b0067f"
+  },
+  {
+    "song": "Eternity",
+    "artists": [
+      "Alex Warren"
+    ],
+    "isrc": "USAT22503779",
+    "start_time": "2025-11-19 23:17:03",
+    "radio": "expres",
+    "recorded_at": "2025-11-19T23:17:33.830740+01:00",
+    "raw_valid": true,
+    "song_session_id": "f4eec91f-bbe5-47ce-94ec-47e3a67ff336"
+  },
+  {
+    "song": "Lod Do Neznama",
+    "artists": [
+      "Uhercik / Durinda / Griglak / Horvath"
+    ],
+    "isrc": null,
+    "start_time": "2025-11-19 23:20:41",
+    "radio": "expres",
+    "recorded_at": "2025-11-19T23:21:20.490334+01:00",
+    "raw_valid": true,
+    "song_session_id": "8c9944bc-182f-49e0-8c28-3abd24438ce7"
+  },
+  {
+    "song": "Espresso",
+    "artists": [
+      "Sabrina Carpenter"
+    ],
+    "isrc": "USUM72403305",
+    "start_time": "2025-11-19 23:24:32",
+    "radio": "expres",
+    "recorded_at": "2025-11-19T23:25:00.807265+01:00",
+    "raw_valid": true,
+    "song_session_id": "a90a5a01-da8e-4e0c-b5ed-b251452f339c"
+  },
+  {
+    "song": "Van Goghovo Ucho",
+    "artists": [
+      "Elan"
+    ],
+    "isrc": "SKA128912910",
+    "start_time": "2025-11-19 23:27:26",
+    "radio": "expres",
+    "recorded_at": "2025-11-19T23:28:21.618827+01:00",
+    "raw_valid": true,
+    "song_session_id": "5808d694-bb14-4402-ace4-3b1f08fce65f"
+  },
+  {
+    "song": "Glide",
+    "artists": [
+      "Neiked",
+      "Portugal The Man"
+    ],
+    "isrc": "DEE862500421",
+    "start_time": "2025-11-19 23:34:16",
+    "radio": "expres",
+    "recorded_at": "2025-11-19T23:34:53.307487+01:00",
+    "raw_valid": true,
+    "song_session_id": "956d66a2-d3fa-4074-b616-d2e3522fb091"
+  },
+  {
+    "song": "Cover Me In Sunshine",
+    "artists": [
+      "Pink",
+      "Willow Sage Hart"
+    ],
+    "isrc": "USRC12100138",
+    "start_time": "2025-11-19 23:37:21",
+    "radio": "expres",
+    "recorded_at": "2025-11-19T23:37:46.874648+01:00",
+    "raw_valid": true,
+    "song_session_id": "3cc539be-2bf9-48e1-a06e-192ace0058e3"
+  },
+  {
+    "song": "Angels",
+    "artists": [
+      "Robbie Williams"
+    ],
+    "isrc": "GBAYE9700233",
+    "start_time": "2025-11-19 23:39:42",
+    "radio": "expres",
+    "recorded_at": "2025-11-19T23:40:19.221175+01:00",
+    "raw_valid": true,
+    "song_session_id": "7d249d94-c72a-44ae-9804-3c71bcde501d"
+  },
+  {
+    "song": "Save My Love",
+    "artists": [
+      "Marshmello",
+      "Ellie Goulding",
+      "Avaion"
+    ],
+    "isrc": "USUG12504310",
+    "start_time": "2025-11-19 23:44:08",
+    "radio": "expres",
+    "recorded_at": "2025-11-19T23:44:30.751991+01:00",
+    "raw_valid": true,
+    "song_session_id": "afcdbf91-ee6e-4a1c-8ef6-7094ba194adc"
+  },
+  {
+    "song": "Exotica",
+    "artists": [
+      "Imt Smile"
+    ],
+    "isrc": "SKA010400073",
+    "start_time": "2025-11-19 23:47:46",
+    "radio": "expres",
+    "recorded_at": "2025-11-19T23:48:15.679338+01:00",
+    "raw_valid": true,
+    "song_session_id": "6d914aff-0afe-44f9-973b-a76b0c935ac9"
+  },
+  {
+    "song": "I Like The Way You Kiss Me",
+    "artists": [
+      "Artemas"
+    ],
+    "isrc": "QZJ842400387",
+    "start_time": "2025-11-19 23:51:15",
+    "radio": "expres",
+    "recorded_at": "2025-11-19T23:51:36.297779+01:00",
+    "raw_valid": true,
+    "song_session_id": "fedaae5b-851e-4b5f-a6c4-cf5621096b3f"
+  },
+  {
+    "song": "Joyride",
+    "artists": [
+      "Roxette"
+    ],
+    "isrc": "SEAMA9079010",
+    "start_time": "2025-11-19 23:53:41",
+    "radio": "expres",
+    "recorded_at": "2025-11-19T23:54:23.611310+01:00",
+    "raw_valid": true,
+    "song_session_id": "f3210153-6333-404c-ad52-60c36b9583db"
+  },
+  {
+    "song": "Shallow",
+    "artists": [
+      "Lady Gaga",
+      "Bradley Cooper"
+    ],
+    "isrc": "USUM71813192",
+    "start_time": "2025-11-19 23:56:45",
+    "radio": "expres",
+    "recorded_at": "2025-11-19T23:57:20.693646+01:00",
+    "raw_valid": true,
+    "song_session_id": "20365637-f954-4673-b09a-05e821d96e30"
+  }
+]

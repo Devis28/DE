@@ -1,0 +1,28 @@
+[
+  {
+    "song": {
+      "play_date": "2025-11-04",
+      "play_time": "20:05",
+      "artist": [
+        "Herbie Hancock"
+      ],
+      "title": "Ostinato (Suite For Angela)"
+    },
+    "recorded_at": "2025-11-04T20:14:31.431814+01:00",
+    "raw_valid": true,
+    "song_session_id": "09377c88-79f0-4e02-bd09-fd90b7166cd1"
+  },
+  {
+    "song": {
+      "play_date": "2025-11-04",
+      "play_time": "20:19",
+      "artist": [
+        "Eugen Vizváry"
+      ],
+      "title": "Andromeda"
+    },
+    "recorded_at": "2025-11-04T20:22:02.484644+01:00",
+    "raw_valid": true,
+    "song_session_id": "f35badb0-a876-438a-bd05-84da766c2a99"
+  }
+]

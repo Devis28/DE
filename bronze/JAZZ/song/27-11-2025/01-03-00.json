@@ -1,0 +1,285 @@
+[
+  {
+    "song": {
+      "play_date": "2025-11-27",
+      "play_time": "23:59",
+      "artist": [
+        "Dave Grusin"
+      ],
+      "title": "Early A.M. Attitude"
+    },
+    "recorded_at": "2025-11-27T00:05:09.666348+01:00",
+    "raw_valid": true,
+    "song_session_id": "65dbced0-cc4e-4676-b04f-88423e331b43"
+  },
+  {
+    "song": {
+      "play_date": "2025-11-27",
+      "play_time": "00:07",
+      "artist": [
+        "Nikolaj Nikitin A Ľuboš Šrámek"
+      ],
+      "title": "Rainbow Cage"
+    },
+    "recorded_at": "2025-11-27T00:10:10.398031+01:00",
+    "raw_valid": true,
+    "song_session_id": "1279567e-126b-4875-9d22-05ef6b7eaaed"
+  },
+  {
+    "song": {
+      "play_date": "2025-11-27",
+      "play_time": "00:11",
+      "artist": [
+        "José James"
+      ],
+      "title": "Use Me"
+    },
+    "recorded_at": "2025-11-27T00:15:11.080553+01:00",
+    "raw_valid": true,
+    "song_session_id": "9cbbc545-55b2-4ca8-a3d0-2f84d852dbd3"
+  },
+  {
+    "song": {
+      "play_date": "2025-11-27",
+      "play_time": "00:16",
+      "artist": [
+        "Nikolaj Nikitin",
+        "Patches Stewart",
+        "Gabriel Jonas",
+        "Juraj Griglák",
+        "Jozef Dome"
+      ],
+      "title": "On The Snow Bound-Path"
+    },
+    "recorded_at": "2025-11-27T00:20:11.768206+01:00",
+    "raw_valid": true,
+    "song_session_id": "39b5567d-d392-4b9b-9802-54ecf7807d2e"
+  },
+  {
+    "song": {
+      "play_date": "2025-11-27",
+      "play_time": "00:21",
+      "artist": [
+        "Billy Taylor Trio"
+      ],
+      "title": "I Wish I Knew (How It Would Feel To Be Free)"
+    },
+    "recorded_at": "2025-11-27T00:25:12.435024+01:00",
+    "raw_valid": true,
+    "song_session_id": "69d76927-3a76-473c-9a3c-45b55b5e7f05"
+  },
+  {
+    "song": {
+      "play_date": "2025-11-27",
+      "play_time": "00:28",
+      "artist": [
+        "Rothenstein Erik"
+      ],
+      "title": "Rande"
+    },
+    "recorded_at": "2025-11-27T00:30:13.105550+01:00",
+    "raw_valid": true,
+    "song_session_id": "3c510c09-69e7-4994-a4af-c247dbd9c6b8"
+  },
+  {
+    "song": {
+      "play_date": "2025-11-27",
+      "play_time": "00:32",
+      "artist": [
+        "Nina Simone"
+      ],
+      "title": "Blues On Purpose"
+    },
+    "recorded_at": "2025-11-27T00:35:13.789798+01:00",
+    "raw_valid": true,
+    "song_session_id": "cbcecb79-d5c2-4f3c-ae2d-ea31b02836c6"
+  },
+  {
+    "song": {
+      "play_date": "2025-11-27",
+      "play_time": "00:35",
+      "artist": [
+        "Mattia Muller",
+        "Peter Lipa"
+      ],
+      "title": "Starý Vlk"
+    },
+    "recorded_at": "2025-11-27T00:40:14.470949+01:00",
+    "raw_valid": true,
+    "song_session_id": "d8beeea5-c9ae-46dc-88ab-84df7a0b98f7"
+  },
+  {
+    "song": {
+      "play_date": "2025-11-27",
+      "play_time": "00:39",
+      "artist": [
+        "Gene Ammons"
+      ],
+      "title": "Water Jug"
+    },
+    "recorded_at": "2025-11-27T00:45:15.151611+01:00",
+    "raw_valid": true,
+    "song_session_id": "8b56f6aa-ffeb-4072-a577-3d5da0e42af9"
+  },
+  {
+    "song": {
+      "play_date": "2025-11-27",
+      "play_time": "00:44",
+      "artist": [
+        "Lubos Sramek"
+      ],
+      "title": "Sam Louis"
+    },
+    "recorded_at": "2025-11-27T00:50:15.832833+01:00",
+    "raw_valid": true,
+    "song_session_id": "87839f79-41db-4d64-b311-e21d106c7544"
+  },
+  {
+    "song": {
+      "play_date": "2025-11-27",
+      "play_time": "00:50",
+      "artist": [
+        "Riyoko Takagi"
+      ],
+      "title": "You And Night And Music"
+    },
+    "recorded_at": "2025-11-27T00:55:16.524871+01:00",
+    "raw_valid": true,
+    "song_session_id": "58177141-8da8-4e85-b2e2-6cf9881376e8"
+  },
+  {
+    "song": {
+      "play_date": "2025-11-27",
+      "play_time": "00:58",
+      "artist": [
+        "Milo Suchomel"
+      ],
+      "title": "At Home"
+    },
+    "recorded_at": "2025-11-27T01:00:17.239300+01:00",
+    "raw_valid": true,
+    "song_session_id": "aec66084-843a-4b6f-acee-98a45fe14ffb"
+  },
+  {
+    "song": {
+      "play_date": "2025-11-27",
+      "play_time": "01:04",
+      "artist": [
+        "Nighthawks"
+      ],
+      "title": "Sepulveda Blvd."
+    },
+    "recorded_at": "2025-11-27T01:05:17.930175+01:00",
+    "raw_valid": true,
+    "song_session_id": "88237b9d-76f2-4388-b863-1973768ec59c"
+  },
+  {
+    "song": {
+      "play_date": "2025-11-27",
+      "play_time": "01:10",
+      "artist": [
+        "Jazzinfection Trio"
+      ],
+      "title": "Little Feritto"
+    },
+    "recorded_at": "2025-11-27T01:15:19.323528+01:00",
+    "raw_valid": true,
+    "song_session_id": "fae1e099-5ef1-4c04-adf9-bd1f30ab0f03"
+  },
+  {
+    "song": {
+      "play_date": "2025-11-27",
+      "play_time": "01:16",
+      "artist": [
+        "Miles Davis"
+      ],
+      "title": "Smoke Gets In Your Eyes"
+    },
+    "recorded_at": "2025-11-27T01:20:20.007825+01:00",
+    "raw_valid": true,
+    "song_session_id": "54bcd61e-313c-41be-8d32-851ba9c24f04"
+  },
+  {
+    "song": {
+      "play_date": "2025-11-27",
+      "play_time": "01:23",
+      "artist": [
+        "Lukas Oravec Orchestra"
+      ],
+      "title": "Interwaltz"
+    },
+    "recorded_at": "2025-11-27T01:25:20.795280+01:00",
+    "raw_valid": true,
+    "song_session_id": "bc3b5112-a82f-456f-8955-af4d6a0d77b2"
+  },
+  {
+    "song": {
+      "play_date": "2025-11-27",
+      "play_time": "01:32",
+      "artist": [
+        "Nikolaj Nikitin",
+        "Patches Stewart",
+        "Gabriel Jonas",
+        "Juraj Griglák",
+        "Jozef Dome"
+      ],
+      "title": "Behind The Window"
+    },
+    "recorded_at": "2025-11-27T01:35:22.168301+01:00",
+    "raw_valid": true,
+    "song_session_id": "90b76a64-78e2-4187-a8ad-17aec70adc33"
+  },
+  {
+    "song": {
+      "play_date": "2025-11-27",
+      "play_time": "01:40",
+      "artist": [
+        "Nicola Conte"
+      ],
+      "title": "Nefertiti"
+    },
+    "recorded_at": "2025-11-27T01:45:23.727034+01:00",
+    "raw_valid": true,
+    "song_session_id": "22067765-b901-45d2-a767-29ef83612428"
+  },
+  {
+    "song": {
+      "play_date": "2025-11-27",
+      "play_time": "01:46",
+      "artist": [
+        "Konstantin Illievsky"
+      ],
+      "title": "Just And Old Tune"
+    },
+    "recorded_at": "2025-11-27T01:50:24.420675+01:00",
+    "raw_valid": true,
+    "song_session_id": "e72b8190-3eba-4fc7-b52f-8e76308f4901"
+  },
+  {
+    "song": {
+      "play_date": "2025-11-27",
+      "play_time": "01:50",
+      "artist": [
+        "Snarky Puppy",
+        "Shayna Steele"
+      ],
+      "title": "Gone Under"
+    },
+    "recorded_at": "2025-11-27T01:55:25.394268+01:00",
+    "raw_valid": true,
+    "song_session_id": "022a550c-633c-4786-b200-2f27d6eb4971"
+  },
+  {
+    "song": {
+      "play_date": "2025-11-27",
+      "play_time": "01:56",
+      "artist": [
+        "Oskar Torok"
+      ],
+      "title": "Bobo"
+    },
+    "recorded_at": "2025-11-27T02:00:26.066370+01:00",
+    "raw_valid": true,
+    "song_session_id": "46210696-9103-43e1-8b87-b78539ae563d"
+  }
+]

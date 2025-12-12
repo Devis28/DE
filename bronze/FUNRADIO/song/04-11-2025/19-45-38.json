@@ -1,0 +1,54 @@
+[
+  {
+    "last_update": "2025-11-04 19:35:38",
+    "song": {
+      "musicAuthor": "Para",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851d82b36bcc44ef29b8297674e",
+      "musicTitle": "Prepojení",
+      "radio": "Fun Rádio",
+      "startTime": "20:33"
+    },
+    "recorded_at": "2025-11-04T20:35:38.972360+01:00",
+    "raw_valid": true,
+    "song_session_id": "76bf3a3f-7717-4566-b090-e04e9b5e0c01"
+  },
+  {
+    "last_update": "2025-11-04 19:37:09",
+    "song": {
+      "musicAuthor": "Kali",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048518592cb43a471fca984303224",
+      "musicTitle": "Dosnívané",
+      "radio": "Fun Rádio",
+      "startTime": "20:36"
+    },
+    "recorded_at": "2025-11-04T20:37:09.140518+01:00",
+    "raw_valid": true,
+    "song_session_id": "6a618bd8-5372-480c-b10d-7e1ecfb84079"
+  },
+  {
+    "last_update": "2025-11-04 19:40:08",
+    "song": {
+      "musicAuthor": "Hex",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048512e1fe359f5a2fc9f7de8a10d",
+      "musicTitle": "V Piatok Podvečer",
+      "radio": "Fun Rádio",
+      "startTime": "20:40"
+    },
+    "recorded_at": "2025-11-04T20:40:09.315228+01:00",
+    "raw_valid": true,
+    "song_session_id": "d250dbc6-7df6-49a1-a09f-e190f4dd1b07"
+  },
+  {
+    "last_update": "2025-11-04 19:44:09",
+    "song": {
+      "musicAuthor": "Luvver",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485176d61bb301e32815b6360721",
+      "musicTitle": "Lullabies",
+      "radio": "Fun Rádio",
+      "startTime": "20:43"
+    },
+    "recorded_at": "2025-11-04T20:44:09.633944+01:00",
+    "raw_valid": true,
+    "song_session_id": "3a354c37-4b15-4e94-a800-36bc841623c8"
+  }
+]

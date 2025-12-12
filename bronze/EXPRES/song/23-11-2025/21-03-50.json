@@ -1,0 +1,392 @@
+[
+  {
+    "song": "A Bar Song (Tipsy)",
+    "artists": [
+      "Shaboozey"
+    ],
+    "isrc": "USUYG1541249",
+    "start_time": "2025-11-23 20:05:09",
+    "radio": "expres",
+    "recorded_at": "2025-11-23T20:05:20.850865+01:00",
+    "raw_valid": true,
+    "song_session_id": "bcf7e9c2-70d0-4616-bf1c-8bed29cabf52"
+  },
+  {
+    "song": "What Ive Done",
+    "artists": [
+      "Linkin Park"
+    ],
+    "isrc": "USWB10700721",
+    "start_time": "2025-11-23 20:08:09",
+    "radio": "expres",
+    "recorded_at": "2025-11-23T20:08:29.633385+01:00",
+    "raw_valid": true,
+    "song_session_id": "9673e491-061b-4e5b-a5ba-84d560917b24"
+  },
+  {
+    "song": "Afterlife",
+    "artists": [
+      "Michael Schulte"
+    ],
+    "isrc": "DECE72500509",
+    "start_time": "2025-11-23 20:11:23",
+    "radio": "expres",
+    "recorded_at": "2025-11-23T20:11:50.050959+01:00",
+    "raw_valid": true,
+    "song_session_id": "20179a2b-9d73-4a4c-ab7b-d3f2c384b8c7"
+  },
+  {
+    "song": "Faded",
+    "artists": [
+      "Alan Walker"
+    ],
+    "isrc": "NOG841549010",
+    "start_time": "2025-11-23 20:14:16",
+    "radio": "expres",
+    "recorded_at": "2025-11-23T20:14:27.758414+01:00",
+    "raw_valid": true,
+    "song_session_id": "bafa77bd-5d75-4315-ac99-b9d10a5ee19d"
+  },
+  {
+    "song": "Where Is My Husband",
+    "artists": [
+      "Raye"
+    ],
+    "isrc": "QMFME2535037",
+    "start_time": "2025-11-23 20:17:40",
+    "radio": "expres",
+    "recorded_at": "2025-11-23T20:17:59.198688+01:00",
+    "raw_valid": true,
+    "song_session_id": "19eb874c-ccef-4634-9faa-3b07a63eae43"
+  },
+  {
+    "song": "We Are The Champions",
+    "artists": [
+      "Queen"
+    ],
+    "isrc": "GBUM71029619",
+    "start_time": "2025-11-23 20:21:14",
+    "radio": "expres",
+    "recorded_at": "2025-11-23T20:21:38.815143+01:00",
+    "raw_valid": true,
+    "song_session_id": "7ad95ccf-c818-4012-926c-3c3d294aea94"
+  },
+  {
+    "song": "Too Sweet",
+    "artists": [
+      "Hozier"
+    ],
+    "isrc": "IEACJ2300335",
+    "start_time": "2025-11-23 20:24:07",
+    "radio": "expres",
+    "recorded_at": "2025-11-23T20:24:16.602843+01:00",
+    "raw_valid": true,
+    "song_session_id": "c07160c8-e8ae-4d7f-98a6-8843cffaa4e8"
+  },
+  {
+    "song": "Okolo Nas",
+    "artists": [
+      "Jana Kirschner"
+    ],
+    "isrc": "SKP662201002",
+    "start_time": "2025-11-23 20:27:10",
+    "radio": "expres",
+    "recorded_at": "2025-11-23T20:27:23.448152+01:00",
+    "raw_valid": true,
+    "song_session_id": "cbce359d-bae8-4fa2-815a-cd9bb31cc614"
+  },
+  {
+    "song": "Million Good Reasons",
+    "artists": [
+      "Robin Schulz",
+      "Fast Boy"
+    ],
+    "isrc": "DEA622404738",
+    "start_time": "2025-11-23 20:32:52",
+    "radio": "expres",
+    "recorded_at": "2025-11-23T20:33:17.884752+01:00",
+    "raw_valid": true,
+    "song_session_id": "1fbb047b-109d-4e04-ba3c-1d7ca52c781c"
+  },
+  {
+    "song": "V Modlitbach",
+    "artists": [
+      "Katarina Knechtova"
+    ],
+    "isrc": "SKE431900135",
+    "start_time": "2025-11-23 20:35:37",
+    "radio": "expres",
+    "recorded_at": "2025-11-23T20:35:50.403768+01:00",
+    "raw_valid": true,
+    "song_session_id": "f981bd4a-f131-414a-8e6c-84dccb4fc4ed"
+  },
+  {
+    "song": "Shape Of You",
+    "artists": [
+      "Ed Sheeran"
+    ],
+    "isrc": "GBAHS1600463",
+    "start_time": "2025-11-23 20:39:28",
+    "radio": "expres",
+    "recorded_at": "2025-11-23T20:40:02.876250+01:00",
+    "raw_valid": true,
+    "song_session_id": "eca1cc0f-07f6-43d0-8d25-83f55d2ee52a"
+  },
+  {
+    "song": "Pride",
+    "artists": [
+      "Felix Jaehn",
+      "Jhart"
+    ],
+    "isrc": "DEUM72503423",
+    "start_time": "2025-11-23 20:43:31",
+    "radio": "expres",
+    "recorded_at": "2025-11-23T20:44:06.344834+01:00",
+    "raw_valid": true,
+    "song_session_id": "e32816e9-c310-4cf6-b075-5050f572bfc3"
+  },
+  {
+    "song": "Sitting Down Here",
+    "artists": [
+      "Lene Marlin"
+    ],
+    "isrc": "NOAHV9818040",
+    "start_time": "2025-11-23 20:46:30",
+    "radio": "expres",
+    "recorded_at": "2025-11-23T20:46:46.837181+01:00",
+    "raw_valid": true,
+    "song_session_id": "20b763e0-392c-484e-9200-4a9c692381c2"
+  },
+  {
+    "song": "Stargazing",
+    "artists": [
+      "Myles Smith"
+    ],
+    "isrc": "GBARL2400510",
+    "start_time": "2025-11-23 20:50:15",
+    "radio": "expres",
+    "recorded_at": "2025-11-23T20:50:48.048229+01:00",
+    "raw_valid": true,
+    "song_session_id": "a3e10ebd-cc18-4266-b95c-d23e0eae367b"
+  },
+  {
+    "song": "Love Me Not",
+    "artists": [
+      "Ravyn Lenae"
+    ],
+    "isrc": "USAT22401137",
+    "start_time": "2025-11-23 20:53:02",
+    "radio": "expres",
+    "recorded_at": "2025-11-23T20:53:27.715032+01:00",
+    "raw_valid": true,
+    "song_session_id": "b5329a6d-e1a7-43a2-83dd-fddb8c77218f"
+  },
+  {
+    "song": "Vonavky Dievcat",
+    "artists": [
+      "Vaso Patejdl"
+    ],
+    "isrc": "SKA128784003",
+    "start_time": "2025-11-23 20:56:41",
+    "radio": "expres",
+    "recorded_at": "2025-11-23T20:57:12.047855+01:00",
+    "raw_valid": true,
+    "song_session_id": "f59b552a-6f5f-42bf-ba39-82fa63e5897c"
+  },
+  {
+    "song": "Be Mine",
+    "artists": [
+      "Kamrad"
+    ],
+    "isrc": "DE1NJ2500035",
+    "start_time": "2025-11-23 21:05:15",
+    "radio": "expres",
+    "recorded_at": "2025-11-23T21:05:39.151791+01:00",
+    "raw_valid": true,
+    "song_session_id": "73907186-9ea4-4057-94de-108340e25d17"
+  },
+  {
+    "song": "Torn",
+    "artists": [
+      "Natalie Imbruglia"
+    ],
+    "isrc": "GBARL9700412",
+    "start_time": "2025-11-23 21:08:01",
+    "radio": "expres",
+    "recorded_at": "2025-11-23T21:08:21.818222+01:00",
+    "raw_valid": true,
+    "song_session_id": "6d5a81e6-a47d-45d7-a39e-efd298d0a355"
+  },
+  {
+    "song": "Gimme Love",
+    "artists": [
+      "Sia"
+    ],
+    "isrc": "USAT22307798",
+    "start_time": "2025-11-23 21:11:54",
+    "radio": "expres",
+    "recorded_at": "2025-11-23T21:12:24.863708+01:00",
+    "raw_valid": true,
+    "song_session_id": "1af1e8a0-2283-46b8-980f-c4bb54f66d33"
+  },
+  {
+    "song": "Danza Kuduro",
+    "artists": [
+      "Lucenzo",
+      "Don Omar"
+    ],
+    "isrc": "USUM71020778",
+    "start_time": "2025-11-23 21:14:49",
+    "radio": "expres",
+    "recorded_at": "2025-11-23T21:15:07.582164+01:00",
+    "raw_valid": true,
+    "song_session_id": "3627fc2e-9d2c-4866-96eb-7ce969c10335"
+  },
+  {
+    "song": "Vsetko Bude Dobre",
+    "artists": [
+      "Gladiator"
+    ],
+    "isrc": "SKCM72560001",
+    "start_time": "2025-11-23 21:18:15",
+    "radio": "expres",
+    "recorded_at": "2025-11-23T21:18:30.994170+01:00",
+    "raw_valid": true,
+    "song_session_id": "ef9e4396-086b-49e7-b75d-c256b49e7a4f"
+  },
+  {
+    "song": "Im Still Standing",
+    "artists": [
+      "Elton John"
+    ],
+    "isrc": "GBALX8300190",
+    "start_time": "2025-11-23 21:21:23",
+    "radio": "expres",
+    "recorded_at": "2025-11-23T21:21:33.892727+01:00",
+    "raw_valid": true,
+    "song_session_id": "914f8645-0e68-4630-8c56-e8eb78c09593"
+  },
+  {
+    "song": "Good News",
+    "artists": [
+      "Shaboozey"
+    ],
+    "isrc": "USUYG1580113",
+    "start_time": "2025-11-23 21:24:15",
+    "radio": "expres",
+    "recorded_at": "2025-11-23T21:24:36.981560+01:00",
+    "raw_valid": true,
+    "song_session_id": "24008c5d-0974-42fd-86f7-e03ac52b8af5"
+  },
+  {
+    "song": "Aurora",
+    "artists": [
+      "Nocaden"
+    ],
+    "isrc": "SKG971900102",
+    "start_time": "2025-11-23 21:27:42",
+    "radio": "expres",
+    "recorded_at": "2025-11-23T21:28:00.718532+01:00",
+    "raw_valid": true,
+    "song_session_id": "6daecf85-47f8-477e-abe0-63b70119d954"
+  },
+  {
+    "song": "The One",
+    "artists": [
+      "Michael Patrick Kelly"
+    ],
+    "isrc": "DEE862500476",
+    "start_time": "2025-11-23 21:33:25",
+    "radio": "expres",
+    "recorded_at": "2025-11-23T21:33:45.953669+01:00",
+    "raw_valid": true,
+    "song_session_id": "bbb52516-fac8-4741-beb7-9cf252fbc1c5"
+  },
+  {
+    "song": "Rano",
+    "artists": [
+      "Ine Kafe"
+    ],
+    "isrc": "SKA880000304",
+    "start_time": "2025-11-23 21:36:33",
+    "radio": "expres",
+    "recorded_at": "2025-11-23T21:36:58.920155+01:00",
+    "raw_valid": true,
+    "song_session_id": "242d1bd5-4af3-466e-acf4-715acc00991f"
+  },
+  {
+    "song": "Stay",
+    "artists": [
+      "Rihanna"
+    ],
+    "isrc": "USUM71214758",
+    "start_time": "2025-11-23 21:40:28",
+    "radio": "expres",
+    "recorded_at": "2025-11-23T21:41:03.225626+01:00",
+    "raw_valid": true,
+    "song_session_id": "837a59a5-fcc7-4ce7-a798-bb43a27ae3db"
+  },
+  {
+    "song": "Save My Love",
+    "artists": [
+      "Marshmello",
+      "Ellie Goulding",
+      "Avaion"
+    ],
+    "isrc": "USUG12504310",
+    "start_time": "2025-11-23 21:44:30",
+    "radio": "expres",
+    "recorded_at": "2025-11-23T21:44:56.787804+01:00",
+    "raw_valid": true,
+    "song_session_id": "adc52f48-2e0d-4c5d-a054-60e6ccaf2ccb"
+  },
+  {
+    "song": "Co Vsetko Sa Moze Stat",
+    "artists": [
+      "Imt Smile"
+    ],
+    "isrc": "SKA011800060",
+    "start_time": "2025-11-23 21:48:05",
+    "radio": "expres",
+    "recorded_at": "2025-11-23T21:48:20.091190+01:00",
+    "raw_valid": true,
+    "song_session_id": "98de63aa-aad9-4e5a-a685-aa2c4a57e05f"
+  },
+  {
+    "song": "Waterfall",
+    "artists": [
+      "Michael Schulte",
+      "R3Hab"
+    ],
+    "isrc": "DEUM72119688",
+    "start_time": "2025-11-23 21:51:16",
+    "radio": "expres",
+    "recorded_at": "2025-11-23T21:51:38.869029+01:00",
+    "raw_valid": true,
+    "song_session_id": "c2dfa1ec-ae19-417f-81ce-7321d3703314"
+  },
+  {
+    "song": "Man I Need",
+    "artists": [
+      "Olivia Dean"
+    ],
+    "isrc": "GBUM72503089",
+    "start_time": "2025-11-23 21:53:33",
+    "radio": "expres",
+    "recorded_at": "2025-11-23T21:53:41.529341+01:00",
+    "raw_valid": true,
+    "song_session_id": "2faa0112-4bb6-4b39-9904-ec46ac04078f"
+  },
+  {
+    "song": "Hallelujah",
+    "artists": [
+      "Alexandra Burke"
+    ],
+    "isrc": "GBHMU0800141",
+    "start_time": "2025-11-23 21:56:48",
+    "radio": "expres",
+    "recorded_at": "2025-11-23T21:57:12.888403+01:00",
+    "raw_valid": true,
+    "song_session_id": "80c01066-6395-40ad-9a63-59226f250fc7"
+  }
+]

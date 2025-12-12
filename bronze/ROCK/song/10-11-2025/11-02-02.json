@@ -1,0 +1,392 @@
+[
+  {
+    "last_update": "2025-11-10 09:05:09",
+    "song": {
+      "musicAuthor": "Nirvana",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851c4f52ef8782f0e8ede4c1aaf",
+      "musicTitle": "All Apologies",
+      "radio": "Rádio ROCK",
+      "startTime": "10:05"
+    },
+    "recorded_at": "2025-11-10T10:05:09.630131+01:00",
+    "raw_valid": true,
+    "song_session_id": "50634cab-e030-48f4-9110-b7f4de954bbe"
+  },
+  {
+    "last_update": "2025-11-10 09:09:09",
+    "song": {
+      "musicAuthor": "Metallica",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485196a926d07aea417327ea024a",
+      "musicTitle": "Fade To Black",
+      "radio": "Rádio ROCK",
+      "startTime": "10:09"
+    },
+    "recorded_at": "2025-11-10T10:09:09.866917+01:00",
+    "raw_valid": true,
+    "song_session_id": "e0fd088b-198f-4ccb-91b4-d1bd88896d0c"
+  },
+  {
+    "last_update": "2025-11-10 09:15:10",
+    "song": {
+      "musicAuthor": "Chad Kroeger Feat. Josey Scott",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851cab637c3978c4db066bfd16f",
+      "musicTitle": "Hero",
+      "radio": "Rádio ROCK",
+      "startTime": "10:14"
+    },
+    "recorded_at": "2025-11-10T10:15:10.214146+01:00",
+    "raw_valid": true,
+    "song_session_id": "cfaa7042-e065-45f9-a284-52b3a61cff1b"
+  },
+  {
+    "last_update": "2025-11-10 09:18:09",
+    "song": {
+      "musicAuthor": "Extreme",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851fb16b9b69eb891027654bcb1",
+      "musicTitle": "More Than Words",
+      "radio": "Rádio ROCK",
+      "startTime": "10:17"
+    },
+    "recorded_at": "2025-11-10T10:18:10.384882+01:00",
+    "raw_valid": true,
+    "song_session_id": "76e92751-1dc6-4119-8341-a18cc1be046c"
+  },
+  {
+    "last_update": "2025-11-10 09:22:10",
+    "song": {
+      "musicAuthor": "Sum 41",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851a7af96024a78654541fccc20",
+      "musicTitle": "Rise Up",
+      "radio": "Rádio ROCK",
+      "startTime": "10:21"
+    },
+    "recorded_at": "2025-11-10T10:22:11.166381+01:00",
+    "raw_valid": true,
+    "song_session_id": "366ac05b-804d-49bb-bdd7-c4efc98b5dc4"
+  },
+  {
+    "last_update": "2025-11-10 09:25:10",
+    "song": {
+      "musicAuthor": "The Police",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851c8e97cafeb2acb85b21a777e",
+      "musicTitle": "Every Breath You Take",
+      "radio": "Rádio ROCK",
+      "startTime": "10:25"
+    },
+    "recorded_at": "2025-11-10T10:25:11.341348+01:00",
+    "raw_valid": true,
+    "song_session_id": "9fa9ff72-0131-434b-861c-cb68d1f302e1"
+  },
+  {
+    "last_update": "2025-11-10 09:29:10",
+    "song": {
+      "musicAuthor": "Maneskin",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851dbc892b8194e35ca3524e767",
+      "musicTitle": "Honey (Are U Coming?)",
+      "radio": "Rádio ROCK",
+      "startTime": "10:29"
+    },
+    "recorded_at": "2025-11-10T10:29:11.659679+01:00",
+    "raw_valid": true,
+    "song_session_id": "68e4151c-bfde-4f94-b3ce-6ad183458b56"
+  },
+  {
+    "last_update": "2025-11-10 09:32:13",
+    "song": {
+      "musicAuthor": "Iné Kafe",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851a36a083c5dec894348b99b3c",
+      "musicTitle": "Ráno",
+      "radio": "Rádio ROCK",
+      "startTime": "10:31"
+    },
+    "recorded_at": "2025-11-10T10:32:13.514041+01:00",
+    "raw_valid": true,
+    "song_session_id": "153404a8-7b3f-444a-bb9e-38d7232dcc25"
+  },
+  {
+    "last_update": "2025-11-10 09:36:13",
+    "song": {
+      "musicAuthor": "Linkin Park",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485189a8fab8bf8cd2b77da1fd17",
+      "musicTitle": "Breaking The Habit",
+      "radio": "Rádio ROCK",
+      "startTime": "10:35"
+    },
+    "recorded_at": "2025-11-10T10:36:14.101903+01:00",
+    "raw_valid": true,
+    "song_session_id": "146d777c-6ae0-4483-b2b9-0711b2f30ccc"
+  },
+  {
+    "last_update": "2025-11-10 09:39:14",
+    "song": {
+      "musicAuthor": "Dire Straits",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048513d15b942408bff9f507f189e",
+      "musicTitle": "Walk Of Life",
+      "radio": "Rádio ROCK",
+      "startTime": "10:38"
+    },
+    "recorded_at": "2025-11-10T10:39:14.512820+01:00",
+    "raw_valid": true,
+    "song_session_id": "cd17e6ca-9fb1-426c-a0d7-aebecf45ac61"
+  },
+  {
+    "last_update": "2025-11-10 09:43:14",
+    "song": {
+      "musicAuthor": "Nightwish",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851fc452e32475d74850c7eec51",
+      "musicTitle": "Bless The Child",
+      "radio": "Rádio ROCK",
+      "startTime": "10:42"
+    },
+    "recorded_at": "2025-11-10T10:43:14.756640+01:00",
+    "raw_valid": true,
+    "song_session_id": "a134f498-211e-4593-8a9e-302c9e6567a3"
+  },
+  {
+    "last_update": "2025-11-10 09:49:15",
+    "song": {
+      "musicAuthor": "R.E.M.",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851ee83254432bbea156d10763f",
+      "musicTitle": "What's The Frequency Kenneth?",
+      "radio": "Rádio ROCK",
+      "startTime": "10:49"
+    },
+    "recorded_at": "2025-11-10T10:49:15.466543+01:00",
+    "raw_valid": true,
+    "song_session_id": "ad378050-dbc6-4d75-9472-5269f495bb35"
+  },
+  {
+    "last_update": "2025-11-10 09:53:15",
+    "song": {
+      "musicAuthor": "Ac/Dc",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851286a0837ff3424065a735e0a",
+      "musicTitle": "T.N.T.",
+      "radio": "Rádio ROCK",
+      "startTime": "10:53"
+    },
+    "recorded_at": "2025-11-10T10:53:15.712389+01:00",
+    "raw_valid": true,
+    "song_session_id": "0de35318-9332-4a67-b356-9d17dbb85429"
+  },
+  {
+    "last_update": "2025-11-10 09:57:16",
+    "song": {
+      "musicAuthor": "Kabát",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048517207a7c165c9c5c225ab97eb",
+      "musicTitle": "Houby Magický",
+      "radio": "Rádio ROCK",
+      "startTime": "10:56"
+    },
+    "recorded_at": "2025-11-10T10:57:16.128845+01:00",
+    "raw_valid": true,
+    "song_session_id": "b95f4da7-2bce-49a1-a66d-63f4f9b2f8e3"
+  },
+  {
+    "last_update": "2025-11-10 10:00:15",
+    "song": {
+      "musicAuthor": "The Offspring",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851cbd2ee7dff77bfb2b5f0af52",
+      "musicTitle": "The Kids Arent Alright",
+      "radio": "Rádio ROCK",
+      "startTime": "11:00"
+    },
+    "recorded_at": "2025-11-10T11:00:16.319148+01:00",
+    "raw_valid": true,
+    "song_session_id": "1b9df397-9009-439a-a1f1-fc94ec595f7f"
+  },
+  {
+    "last_update": "2025-11-10 10:04:17",
+    "song": {
+      "musicAuthor": "Eagles The",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048514637341b9f507521afa9a778",
+      "musicTitle": "Hotel California",
+      "radio": "Rádio ROCK",
+      "startTime": "11:03"
+    },
+    "recorded_at": "2025-11-10T11:04:17.656842+01:00",
+    "raw_valid": true,
+    "song_session_id": "266bb47b-5552-45fe-bb99-0b27497aa708"
+  },
+  {
+    "last_update": "2025-11-10 10:09:18",
+    "song": {
+      "musicAuthor": "Bon Jovi",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851a2841eb6e1649170cc312871",
+      "musicTitle": "Have A Nice Day",
+      "radio": "Rádio ROCK",
+      "startTime": "11:08"
+    },
+    "recorded_at": "2025-11-10T11:09:18.147597+01:00",
+    "raw_valid": true,
+    "song_session_id": "ba5a4ba5-a306-4a1f-8819-2b673e3a20e2"
+  },
+  {
+    "last_update": "2025-11-10 10:15:19",
+    "song": {
+      "musicAuthor": "Ozzy Osbourne",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851c2b61984b54ad58c8d6fdd19",
+      "musicTitle": "Mama, I'm Coming Home",
+      "radio": "Rádio ROCK",
+      "startTime": "11:15"
+    },
+    "recorded_at": "2025-11-10T11:15:19.350916+01:00",
+    "raw_valid": true,
+    "song_session_id": "f5c45303-c63d-429f-bdca-93938c74cbd8"
+  },
+  {
+    "last_update": "2025-11-10 10:20:18",
+    "song": {
+      "musicAuthor": "Tublatanka",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485170fd71ebc67a568023a387cb",
+      "musicTitle": "Šlabikár",
+      "radio": "Rádio ROCK",
+      "startTime": "11:19"
+    },
+    "recorded_at": "2025-11-10T11:20:19.639679+01:00",
+    "raw_valid": true,
+    "song_session_id": "543bbf87-c2ce-4cdf-b6d8-0676f844efc1"
+  },
+  {
+    "last_update": "2025-11-10 10:24:20",
+    "song": {
+      "musicAuthor": "Metallica",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851e5a07037750e97dca575c690",
+      "musicTitle": "Lux Aeterna",
+      "radio": "Rádio ROCK",
+      "startTime": "11:23"
+    },
+    "recorded_at": "2025-11-10T11:24:20.992142+01:00",
+    "raw_valid": true,
+    "song_session_id": "10c436ac-ec27-4738-b6be-8cc551dd5c55"
+  },
+  {
+    "last_update": "2025-11-10 10:27:21",
+    "song": {
+      "musicAuthor": "Rammstein",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048518b2c42026277efc3e058855b",
+      "musicTitle": "Sonne",
+      "radio": "Rádio ROCK",
+      "startTime": "11:26"
+    },
+    "recorded_at": "2025-11-10T11:27:21.512421+01:00",
+    "raw_valid": true,
+    "song_session_id": "062fd8db-54c8-437b-bada-cdc60ec64626"
+  },
+  {
+    "last_update": "2025-11-10 10:31:21",
+    "song": {
+      "musicAuthor": "Pearl Jam",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851d400d27cba05bb0545533864",
+      "musicTitle": "Jeremy",
+      "radio": "Rádio ROCK",
+      "startTime": "11:30"
+    },
+    "recorded_at": "2025-11-10T11:31:21.801191+01:00",
+    "raw_valid": true,
+    "song_session_id": "2d5deb17-4882-46a0-b649-d5538d6a8b9d"
+  },
+  {
+    "last_update": "2025-11-10 10:36:22",
+    "song": {
+      "musicAuthor": "Ram Jam",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851fa5dcfc4b1b99a0598224758",
+      "musicTitle": "Black Betty",
+      "radio": "Rádio ROCK",
+      "startTime": "11:35"
+    },
+    "recorded_at": "2025-11-10T11:36:22.475403+01:00",
+    "raw_valid": true,
+    "song_session_id": "f43a9ec7-bff0-4132-b9ca-8d589befd82f"
+  },
+  {
+    "last_update": "2025-11-10 10:40:22",
+    "song": {
+      "musicAuthor": "Marilyn Manson",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851dcca264f538d015a1c9733a5",
+      "musicTitle": "Tainted Love",
+      "radio": "Rádio ROCK",
+      "startTime": "11:39"
+    },
+    "recorded_at": "2025-11-10T11:40:23.573201+01:00",
+    "raw_valid": true,
+    "song_session_id": "b050c958-9cf4-45b7-a1cd-b4ee4e1babd5"
+  },
+  {
+    "last_update": "2025-11-10 10:43:23",
+    "song": {
+      "musicAuthor": "Nirvana",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048510f4a6f69950d2469e896226f",
+      "musicTitle": "About The Girl",
+      "radio": "Rádio ROCK",
+      "startTime": "11:42"
+    },
+    "recorded_at": "2025-11-10T11:43:24.341172+01:00",
+    "raw_valid": true,
+    "song_session_id": "5897adf2-f763-40cb-a173-be7f788a8ab1"
+  },
+  {
+    "last_update": "2025-11-10 10:46:24",
+    "song": {
+      "musicAuthor": "Dire Straits",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048513d15b942408bff9f507f189e",
+      "musicTitle": "Money For Nothing",
+      "radio": "Rádio ROCK",
+      "startTime": "11:45"
+    },
+    "recorded_at": "2025-11-10T11:46:24.519409+01:00",
+    "raw_valid": true,
+    "song_session_id": "397de977-a939-4162-aaab-8ab34b547650"
+  },
+  {
+    "last_update": "2025-11-10 10:49:24",
+    "song": {
+      "musicAuthor": "Linkin Park",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851b4ad7ebaf4575f120eb3f193",
+      "musicTitle": "Numb",
+      "radio": "Rádio ROCK",
+      "startTime": "11:49"
+    },
+    "recorded_at": "2025-11-10T11:49:24.820108+01:00",
+    "raw_valid": true,
+    "song_session_id": "240150c8-91f5-49f7-9c7a-dcfe3c4b4267"
+  },
+  {
+    "last_update": "2025-11-10 10:53:24",
+    "song": {
+      "musicAuthor": "Anouk",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485100a5b98285f6b0e7f4a2eb6a",
+      "musicTitle": "Nobody's Wife",
+      "radio": "Rádio ROCK",
+      "startTime": "11:52"
+    },
+    "recorded_at": "2025-11-10T11:53:25.235100+01:00",
+    "raw_valid": true,
+    "song_session_id": "8a2858d5-4c05-4a2b-935e-218482f2ae78"
+  },
+  {
+    "last_update": "2025-11-10 10:56:24",
+    "song": {
+      "musicAuthor": "Billy Joel",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048511946747b8692919f98918ec4",
+      "musicTitle": "We Didn't Start The Fire",
+      "radio": "Rádio ROCK",
+      "startTime": "11:55"
+    },
+    "recorded_at": "2025-11-10T11:56:25.440168+01:00",
+    "raw_valid": true,
+    "song_session_id": "298226be-6fb8-4ef4-b06b-11bdc6fc457f"
+  },
+  {
+    "last_update": "2025-11-10 11:01:24",
+    "song": {
+      "musicAuthor": "No Doubt",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048516ebd5e789646a833b8f7d4ba",
+      "musicTitle": "Just A Girl",
+      "radio": "Rádio ROCK",
+      "startTime": "12:00"
+    },
+    "recorded_at": "2025-11-10T12:01:25.831389+01:00",
+    "raw_valid": true,
+    "song_session_id": "c7031083-ccc7-46b4-bb58-aba60dbed7fd"
+  }
+]

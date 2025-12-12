@@ -1,0 +1,432 @@
+[
+  {
+    "song": "Mystical Magical",
+    "artists": [
+      "Benson Boone"
+    ],
+    "isrc": "USWB12500844",
+    "start_time": "2025-11-07 04:02:41",
+    "radio": "expres",
+    "recorded_at": "2025-11-07T04:02:55.849164+01:00",
+    "raw_valid": true,
+    "song_session_id": "2b39f8f8-3a08-441a-8514-eb7521c41cc2"
+  },
+  {
+    "song": "Drive",
+    "artists": [
+      "Celeste Buckingham"
+    ],
+    "isrc": "QMQNX2401801",
+    "start_time": "2025-11-07 04:05:35",
+    "radio": "expres",
+    "recorded_at": "2025-11-07T04:05:58.816420+01:00",
+    "raw_valid": true,
+    "song_session_id": "bdffb752-f2ee-47b6-827c-3865fecbee78"
+  },
+  {
+    "song": "World Gone Wild",
+    "artists": [
+      "Robin Schulz",
+      "Cyril",
+      "Sam Martin"
+    ],
+    "isrc": "DEA622403329",
+    "start_time": "2025-11-07 04:09:36",
+    "radio": "expres",
+    "recorded_at": "2025-11-07T04:09:59.030914+01:00",
+    "raw_valid": true,
+    "song_session_id": "24f98730-2963-49ae-bc1a-63f7fa3f7dd0"
+  },
+  {
+    "song": "Rano V Novinach",
+    "artists": [
+      "Komajota"
+    ],
+    "isrc": "SKA010700009",
+    "start_time": "2025-11-07 04:11:57",
+    "radio": "expres",
+    "recorded_at": "2025-11-07T04:12:21.457980+01:00",
+    "raw_valid": true,
+    "song_session_id": "16fbc5ff-fef3-48e3-948e-c9f118e7ef40"
+  },
+  {
+    "song": "Living On A Prayer",
+    "artists": [
+      "Bon Jovi"
+    ],
+    "isrc": "AUUS00634702",
+    "start_time": "2025-11-07 04:15:27",
+    "radio": "expres",
+    "recorded_at": "2025-11-07T04:15:45.055844+01:00",
+    "raw_valid": true,
+    "song_session_id": "c917f2e9-b5ce-44f8-9b11-add68e47c43d"
+  },
+  {
+    "song": "Medzi Nebom A Zenou",
+    "artists": [
+      "Banket",
+      "Richard Muller",
+      "Ema Muller"
+    ],
+    "isrc": "SKC362500009",
+    "start_time": "2025-11-07 04:19:03",
+    "radio": "expres",
+    "recorded_at": "2025-11-07T04:19:28.550499+01:00",
+    "raw_valid": true,
+    "song_session_id": "c4cc2fcd-e7cb-41f8-ab64-f6f5e77611f8"
+  },
+  {
+    "song": "Heavy Metal Love",
+    "artists": [
+      "Twocolors"
+    ],
+    "isrc": "DEUM72203320",
+    "start_time": "2025-11-07 04:23:09",
+    "radio": "expres",
+    "recorded_at": "2025-11-07T04:23:32.475714+01:00",
+    "raw_valid": true,
+    "song_session_id": "4bebc3ed-c900-4022-9694-4b1917de3ff2"
+  },
+  {
+    "song": "Cry",
+    "artists": [
+      "Mark Dann"
+    ],
+    "isrc": "SKM912400001",
+    "start_time": "2025-11-07 04:25:20",
+    "radio": "expres",
+    "recorded_at": "2025-11-07T04:25:39.857678+01:00",
+    "raw_valid": true,
+    "song_session_id": "fdcf2158-b2ef-4057-b0f5-28d6bbccb56e"
+  },
+  {
+    "song": "Marry You",
+    "artists": [
+      "Bruno Mars"
+    ],
+    "isrc": "USAT21001887",
+    "start_time": "2025-11-07 04:28:34",
+    "radio": "expres",
+    "recorded_at": "2025-11-07T04:29:02.897554+01:00",
+    "raw_valid": true,
+    "song_session_id": "8a39e71b-f4e6-4a2a-8414-faa0ee476319"
+  },
+  {
+    "song": "Lekna",
+    "artists": [
+      "No Name"
+    ],
+    "isrc": "SKA010305329",
+    "start_time": "2025-11-07 04:32:24",
+    "radio": "expres",
+    "recorded_at": "2025-11-07T04:32:45.743578+01:00",
+    "raw_valid": true,
+    "song_session_id": "26eb1b74-3e01-4dbb-9e5d-5f60d76f5df5"
+  },
+  {
+    "song": "Ordinary",
+    "artists": [
+      "Alex Warren"
+    ],
+    "isrc": "USAT22500463",
+    "start_time": "2025-11-07 04:36:27",
+    "radio": "expres",
+    "recorded_at": "2025-11-07T04:36:34.397350+01:00",
+    "raw_valid": true,
+    "song_session_id": "c42ec13b-ebb3-40c2-94c2-7194ad96e9ae"
+  },
+  {
+    "song": "Slova Uz Nevravia Nic",
+    "artists": [
+      "Nocaden"
+    ],
+    "isrc": "SKBW52400105",
+    "start_time": "2025-11-07 04:39:30",
+    "radio": "expres",
+    "recorded_at": "2025-11-07T04:39:43.433212+01:00",
+    "raw_valid": true,
+    "song_session_id": "67fc1910-fd1d-41d3-90a1-a5d38819ff75"
+  },
+  {
+    "song": "I Need Your Love",
+    "artists": [
+      "Calvin Harris",
+      "Ellie Goulding"
+    ],
+    "isrc": "GBARL1201390",
+    "start_time": "2025-11-07 04:43:14",
+    "radio": "expres",
+    "recorded_at": "2025-11-07T04:43:41.935592+01:00",
+    "raw_valid": true,
+    "song_session_id": "dc93650f-a09c-4435-83b3-d33a3f35dfc5"
+  },
+  {
+    "song": "Sestricka Z Kramarov",
+    "artists": [
+      "Elan"
+    ],
+    "isrc": "SKA129150302",
+    "start_time": "2025-11-07 04:47:11",
+    "radio": "expres",
+    "recorded_at": "2025-11-07T04:47:32.325322+01:00",
+    "raw_valid": true,
+    "song_session_id": "bf17f9e1-897d-48af-8a0c-bf7557f00a60"
+  },
+  {
+    "song": "Wonderful Life 25",
+    "artists": [
+      "Hurts",
+      "Purple Disco Machine"
+    ],
+    "isrc": "DEE862500677",
+    "start_time": "2025-11-07 04:50:56",
+    "radio": "expres",
+    "recorded_at": "2025-11-07T04:51:10.632176+01:00",
+    "raw_valid": true,
+    "song_session_id": "496d8812-6ccd-4fa2-8668-e06ec97bd1ac"
+  },
+  {
+    "song": "Rezonancia",
+    "artists": [
+      "Katarina Knechtova"
+    ],
+    "isrc": "SKE432100146",
+    "start_time": "2025-11-07 04:53:52",
+    "radio": "expres",
+    "recorded_at": "2025-11-07T04:54:12.748401+01:00",
+    "raw_valid": true,
+    "song_session_id": "ce926764-e8ab-4acc-ba30-1f429fe600f8"
+  },
+  {
+    "song": "Only Time (Two Tribes Remix)",
+    "artists": [
+      "Enya"
+    ],
+    "isrc": null,
+    "start_time": "2025-11-07 04:57:17",
+    "radio": "expres",
+    "recorded_at": "2025-11-07T04:57:32.711664+01:00",
+    "raw_valid": true,
+    "song_session_id": "a83e520f-4baf-46b1-b9da-003d994a9cb2"
+  },
+  {
+    "song": "Skandal",
+    "artists": [
+      "Polemic"
+    ],
+    "isrc": "CZA210202966",
+    "start_time": "2025-11-07 05:00:25",
+    "radio": "expres",
+    "recorded_at": "2025-11-07T05:00:53.677519+01:00",
+    "raw_valid": true,
+    "song_session_id": "d98f2f68-ef62-4b70-ad33-f0c0b76207c9"
+  },
+  {
+    "song": "Fading Like A Flower",
+    "artists": [
+      "Roxette",
+      "Galantis"
+    ],
+    "isrc": "SEAMA2200001",
+    "start_time": "2025-11-07 05:03:05",
+    "radio": "expres",
+    "recorded_at": "2025-11-07T05:03:24.318490+01:00",
+    "raw_valid": true,
+    "song_session_id": "1433fb16-3985-419a-a22b-2375402c1cd5"
+  },
+  {
+    "song": "Chybanie",
+    "artists": [
+      "Desmod"
+    ],
+    "isrc": "SKE491600203",
+    "start_time": "2025-11-07 05:05:41",
+    "radio": "expres",
+    "recorded_at": "2025-11-07T05:05:56.958740+01:00",
+    "raw_valid": true,
+    "song_session_id": "64ba0409-92d7-4291-9b93-192b1867fcb7"
+  },
+  {
+    "song": "Million Good Reasons",
+    "artists": [
+      "Robin Schulz",
+      "Fast Boy"
+    ],
+    "isrc": "DEA622404738",
+    "start_time": "2025-11-07 05:09:12",
+    "radio": "expres",
+    "recorded_at": "2025-11-07T05:09:20.122648+01:00",
+    "raw_valid": true,
+    "song_session_id": "e40734f0-616e-4080-8fd5-33c0ab58d36f"
+  },
+  {
+    "song": "Nothing",
+    "artists": [
+      "Lina Mayer"
+    ],
+    "isrc": "SKK311600101",
+    "start_time": "2025-11-07 05:11:54",
+    "radio": "expres",
+    "recorded_at": "2025-11-07T05:12:03.337981+01:00",
+    "raw_valid": true,
+    "song_session_id": "62c69791-9dfa-4788-9f90-3aa8b4027e32"
+  },
+  {
+    "song": "Let Her Go",
+    "artists": [
+      "Passenger"
+    ],
+    "isrc": "GBMQN1100004",
+    "start_time": "2025-11-07 05:15:16",
+    "radio": "expres",
+    "recorded_at": "2025-11-07T05:15:26.414638+01:00",
+    "raw_valid": true,
+    "song_session_id": "9eaa9cbe-e588-403b-b77a-656e2f32d697"
+  },
+  {
+    "song": "Ona Je Madona",
+    "artists": [
+      "Robo Grigorov"
+    ],
+    "isrc": "TCAEZ2066102",
+    "start_time": "2025-11-07 05:19:19",
+    "radio": "expres",
+    "recorded_at": "2025-11-07T05:19:30.513913+01:00",
+    "raw_valid": true,
+    "song_session_id": "303d40d0-f7ad-406f-add4-d3ef5fb6943b"
+  },
+  {
+    "song": "Undressed",
+    "artists": [
+      "Sombr"
+    ],
+    "isrc": "USWB12500737",
+    "start_time": "2025-11-07 05:22:09",
+    "radio": "expres",
+    "recorded_at": "2025-11-07T05:22:28.556077+01:00",
+    "raw_valid": true,
+    "song_session_id": "8343e589-46d6-4a9b-9ec8-88dfddd407e4"
+  },
+  {
+    "song": "Pre Vas Hram",
+    "artists": [
+      "Kali",
+      "Karol Duchon",
+      "Peter Pann"
+    ],
+    "isrc": "CZA232500151",
+    "start_time": "2025-11-07 05:25:10",
+    "radio": "expres",
+    "recorded_at": "2025-11-07T05:25:31.654428+01:00",
+    "raw_valid": true,
+    "song_session_id": "8a7f0124-84f5-4cf4-a3b1-f10725c0e6d5"
+  },
+  {
+    "song": "To Be With You",
+    "artists": [
+      "Mr Big"
+    ],
+    "isrc": "HKG292100094",
+    "start_time": "2025-11-07 05:27:48",
+    "radio": "expres",
+    "recorded_at": "2025-11-07T05:28:14.227666+01:00",
+    "raw_valid": true,
+    "song_session_id": "9b24f6bb-976b-43e5-ae29-95142d978337"
+  },
+  {
+    "song": "Vrat Trochu Lasky Medzi Nas",
+    "artists": [
+      "Money Factor"
+    ],
+    "isrc": "FRX201742441",
+    "start_time": "2025-11-07 05:31:03",
+    "radio": "expres",
+    "recorded_at": "2025-11-07T05:31:12.332548+01:00",
+    "raw_valid": true,
+    "song_session_id": "29016c4a-3824-4833-839c-53c3790621db"
+  },
+  {
+    "song": "Be Mine",
+    "artists": [
+      "Kamrad"
+    ],
+    "isrc": "DE1NJ2500035",
+    "start_time": "2025-11-07 05:35:29",
+    "radio": "expres",
+    "recorded_at": "2025-11-07T05:35:56.492425+01:00",
+    "raw_valid": true,
+    "song_session_id": "80afb40b-e723-43fd-afe7-21e2e950604d"
+  },
+  {
+    "song": "Tam Kde Sa Neumiera",
+    "artists": [
+      "Zuzana Smatanova"
+    ],
+    "isrc": "SKA770309105",
+    "start_time": "2025-11-07 05:38:08",
+    "radio": "expres",
+    "recorded_at": "2025-11-07T05:38:19.059685+01:00",
+    "raw_valid": true,
+    "song_session_id": "e15d986d-51fc-4c2f-b063-2ce9a019f7bb"
+  },
+  {
+    "song": "Love Yourself",
+    "artists": [
+      "Justin Bieber"
+    ],
+    "isrc": "USUM71516761",
+    "start_time": "2025-11-07 05:41:48",
+    "radio": "expres",
+    "recorded_at": "2025-11-07T05:41:57.529858+01:00",
+    "raw_valid": true,
+    "song_session_id": "69d6ecbe-0751-4111-9a12-27aec7aca89b"
+  },
+  {
+    "song": "Len Tebe",
+    "artists": [
+      "Ivan Tasler"
+    ],
+    "isrc": "SKA010202105",
+    "start_time": "2025-11-07 05:45:50",
+    "radio": "expres",
+    "recorded_at": "2025-11-07T05:46:01.229353+01:00",
+    "raw_valid": true,
+    "song_session_id": "ec8f0bee-623f-410b-a622-94f13db0a40d"
+  },
+  {
+    "song": "Teenage Dirtbag",
+    "artists": [
+      "Wheatus"
+    ],
+    "isrc": "USSM10008431",
+    "start_time": "2025-11-07 05:49:51",
+    "radio": "expres",
+    "recorded_at": "2025-11-07T05:49:59.758191+01:00",
+    "raw_valid": true,
+    "song_session_id": "645a9346-3cfc-40af-8647-d332a58ef759"
+  },
+  {
+    "song": "Do Neba",
+    "artists": [
+      "Dara Rolins"
+    ],
+    "isrc": "QZYFZ2505251",
+    "start_time": "2025-11-07 05:53:32",
+    "radio": "expres",
+    "recorded_at": "2025-11-07T05:53:55.888845+01:00",
+    "raw_valid": true,
+    "song_session_id": "034cf1d2-c581-47cb-a34a-7b27e4f06538"
+  },
+  {
+    "song": "Never Look Back",
+    "artists": [
+      "Tom Gregory"
+    ],
+    "isrc": "DEE862300498",
+    "start_time": "2025-11-07 05:57:06",
+    "radio": "expres",
+    "recorded_at": "2025-11-07T05:57:24.308523+01:00",
+    "raw_valid": true,
+    "song_session_id": "5cf7de60-b54f-49c4-b326-50cd1cbf3db3"
+  }
+]

@@ -1,0 +1,408 @@
+[
+  {
+    "song": "Regalo",
+    "artists": [
+      "Alvaro Soler"
+    ],
+    "isrc": "DEE862500388",
+    "start_time": "2025-11-22 22:05:51",
+    "radio": "expres",
+    "recorded_at": "2025-11-22T22:06:16.124205+01:00",
+    "raw_valid": true,
+    "song_session_id": "ce2c7b54-8de3-4969-976f-2ba6c6153844"
+  },
+  {
+    "song": "Friday Im In Love",
+    "artists": [
+      "Cure"
+    ],
+    "isrc": "GBALB9200002",
+    "start_time": "2025-11-22 22:09:04",
+    "radio": "expres",
+    "recorded_at": "2025-11-22T22:09:19.077753+01:00",
+    "raw_valid": true,
+    "song_session_id": "00d0a489-b324-45c8-9eb3-c7879c2e34e9"
+  },
+  {
+    "song": "Domov",
+    "artists": [
+      "Alan Murin"
+    ],
+    "isrc": "QZWDW2424416",
+    "start_time": "2025-11-22 22:12:29",
+    "radio": "expres",
+    "recorded_at": "2025-11-22T22:12:42.815024+01:00",
+    "raw_valid": true,
+    "song_session_id": "37f39e1f-d1d6-47c0-add4-90ef26a66931"
+  },
+  {
+    "song": "Just A Dream",
+    "artists": [
+      "Nelly"
+    ],
+    "isrc": "USUM71020948",
+    "start_time": "2025-11-22 22:16:27",
+    "radio": "expres",
+    "recorded_at": "2025-11-22T22:16:41.484599+01:00",
+    "raw_valid": true,
+    "song_session_id": "cc8b7bc3-05cf-446a-bb5b-cc242823b190"
+  },
+  {
+    "song": "Vsetko Bude Dobre",
+    "artists": [
+      "Gladiator"
+    ],
+    "isrc": "SKCM72560001",
+    "start_time": "2025-11-22 22:20:22",
+    "radio": "expres",
+    "recorded_at": "2025-11-22T22:20:46.027446+01:00",
+    "raw_valid": true,
+    "song_session_id": "2c3aface-6ffd-4424-9905-25ea3de50be1"
+  },
+  {
+    "song": "The Best",
+    "artists": [
+      "Tina Turner"
+    ],
+    "isrc": "USCA28900109",
+    "start_time": "2025-11-22 22:23:27",
+    "radio": "expres",
+    "recorded_at": "2025-11-22T22:23:58.847980+01:00",
+    "raw_valid": true,
+    "song_session_id": "8d68c6aa-46de-4597-81d6-4efde1100a42"
+  },
+  {
+    "song": "We Pray",
+    "artists": [
+      "Coldplay",
+      "Little Simz",
+      "Burna Boy",
+      "Elyanna",
+      "Tini"
+    ],
+    "isrc": "GBAYE2400890",
+    "start_time": "2025-11-22 22:27:34",
+    "radio": "expres",
+    "recorded_at": "2025-11-22T22:28:11.125659+01:00",
+    "raw_valid": true,
+    "song_session_id": "75d9b0be-a11d-417a-8cb0-5db366875c1a"
+  },
+  {
+    "song": "Cry",
+    "artists": [
+      "Mark Dann"
+    ],
+    "isrc": "SKM912400001",
+    "start_time": "2025-11-22 22:30:56",
+    "radio": "expres",
+    "recorded_at": "2025-11-22T22:31:21.708120+01:00",
+    "raw_valid": true,
+    "song_session_id": "266ec6ec-080c-4994-8a44-ba06c941e527"
+  },
+  {
+    "song": "Mystical Magical",
+    "artists": [
+      "Benson Boone"
+    ],
+    "isrc": "USWB12500844",
+    "start_time": "2025-11-22 22:34:18",
+    "radio": "expres",
+    "recorded_at": "2025-11-22T22:34:43.653408+01:00",
+    "raw_valid": true,
+    "song_session_id": "252e244e-9c12-49fa-996a-f08d4ea2ac8b"
+  },
+  {
+    "song": "Wannabe",
+    "artists": [
+      "Spice Girls"
+    ],
+    "isrc": "GBAAA9600008",
+    "start_time": "2025-11-22 22:37:03",
+    "radio": "expres",
+    "recorded_at": "2025-11-22T22:37:21.806561+01:00",
+    "raw_valid": true,
+    "song_session_id": "dfba5acd-44ed-4cea-9c19-79ab9c550e2d"
+  },
+  {
+    "song": "Somebody That I Used To Know",
+    "artists": [
+      "Gotye",
+      "Kimbra"
+    ],
+    "isrc": "AUZS21100040",
+    "start_time": "2025-11-22 22:39:49",
+    "radio": "expres",
+    "recorded_at": "2025-11-22T22:40:11.216585+01:00",
+    "raw_valid": true,
+    "song_session_id": "cf40edc8-0557-425d-ba1d-ab51167d6533"
+  },
+  {
+    "song": "The Fate Of Ophelia",
+    "artists": [
+      "Taylor Swift"
+    ],
+    "isrc": "USUG12506436",
+    "start_time": "2025-11-22 22:44:02",
+    "radio": "expres",
+    "recorded_at": "2025-11-22T22:44:26.187633+01:00",
+    "raw_valid": true,
+    "song_session_id": "703662c3-4108-48f8-b567-df0777ccfc79"
+  },
+  {
+    "song": "Spomal",
+    "artists": [
+      "Peha"
+    ],
+    "isrc": "CZA110500061",
+    "start_time": "2025-11-22 22:47:46",
+    "radio": "expres",
+    "recorded_at": "2025-11-22T22:48:04.679952+01:00",
+    "raw_valid": true,
+    "song_session_id": "2b38f8ef-cb06-42f9-952c-487f1ecde50c"
+  },
+  {
+    "song": "Rock N Roll",
+    "artists": [
+      "Leony",
+      "G-Eazy"
+    ],
+    "isrc": "DEN062400703",
+    "start_time": "2025-11-22 22:52:00",
+    "radio": "expres",
+    "recorded_at": "2025-11-22T22:52:28.592439+01:00",
+    "raw_valid": true,
+    "song_session_id": "7ffde9f8-d555-4442-ae4d-eed1edc00ff5"
+  },
+  {
+    "song": "Where Is My Husband",
+    "artists": [
+      "Raye"
+    ],
+    "isrc": "QMFME2535037",
+    "start_time": "2025-11-22 22:54:35",
+    "radio": "expres",
+    "recorded_at": "2025-11-22T22:54:51.735093+01:00",
+    "raw_valid": true,
+    "song_session_id": "ee068e24-70ce-4664-8afb-a4714319b053"
+  },
+  {
+    "song": "How You Remind Me",
+    "artists": [
+      "Nickelback"
+    ],
+    "isrc": "NLA320119533",
+    "start_time": "2025-11-22 22:58:06",
+    "radio": "expres",
+    "recorded_at": "2025-11-22T22:58:30.584137+01:00",
+    "raw_valid": true,
+    "song_session_id": "539d4b91-9d9d-4f41-9fda-e59712eca3bb"
+  },
+  {
+    "song": "Runaway",
+    "artists": [
+      "Onerepublic"
+    ],
+    "isrc": "USUM72304684",
+    "start_time": "2025-11-22 23:02:11",
+    "radio": "expres",
+    "recorded_at": "2025-11-22T23:02:44.763813+01:00",
+    "raw_valid": true,
+    "song_session_id": "5d0874ac-80b8-4956-a57b-e9f6f6bdd9ee"
+  },
+  {
+    "song": "Im With You",
+    "artists": [
+      "Avril Lavigne"
+    ],
+    "isrc": "USAR10200224",
+    "start_time": "2025-11-22 23:04:42",
+    "radio": "expres",
+    "recorded_at": "2025-11-22T23:04:57.164967+01:00",
+    "raw_valid": true,
+    "song_session_id": "5f93d041-ea11-4d17-8f88-0c31f55a7b24"
+  },
+  {
+    "song": "Undressed",
+    "artists": [
+      "Sombr"
+    ],
+    "isrc": "USWB12500737",
+    "start_time": "2025-11-22 23:08:21",
+    "radio": "expres",
+    "recorded_at": "2025-11-22T23:08:41.012015+01:00",
+    "raw_valid": true,
+    "song_session_id": "aef2ef24-c5f9-41ed-87d8-8886d06a54ba"
+  },
+  {
+    "song": "Roar",
+    "artists": [
+      "Katy Perry"
+    ],
+    "isrc": "USUM71308669",
+    "start_time": "2025-11-22 23:11:21",
+    "radio": "expres",
+    "recorded_at": "2025-11-22T23:11:45.104866+01:00",
+    "raw_valid": true,
+    "song_session_id": "79768d93-ef97-4624-a0c2-81d7b1d3bae8"
+  },
+  {
+    "song": "Good News",
+    "artists": [
+      "Shaboozey"
+    ],
+    "isrc": "USUYG1580113",
+    "start_time": "2025-11-22 23:15:12",
+    "radio": "expres",
+    "recorded_at": "2025-11-22T23:15:40.952661+01:00",
+    "raw_valid": true,
+    "song_session_id": "bf174b90-f7b7-4bff-a2d9-839b7b67d611"
+  },
+  {
+    "song": "Ak Nie Si Moja",
+    "artists": [
+      "Vaso Patejdl"
+    ],
+    "isrc": "SKA128676213",
+    "start_time": "2025-11-22 23:18:37",
+    "radio": "expres",
+    "recorded_at": "2025-11-22T23:19:04.067515+01:00",
+    "raw_valid": true,
+    "song_session_id": "13089fee-01e2-46ea-9daa-bc341d4e2765"
+  },
+  {
+    "song": "Feelslikeimfallinginlove",
+    "artists": [
+      "Coldplay"
+    ],
+    "isrc": "GBAYE2400676",
+    "start_time": "2025-11-22 23:22:43",
+    "radio": "expres",
+    "recorded_at": "2025-11-22T23:22:53.721619+01:00",
+    "raw_valid": true,
+    "song_session_id": "d75d8426-27bd-4fac-8f9a-8a3e92bbd4b1"
+  },
+  {
+    "song": "Koloseum",
+    "artists": [
+      "Marika Gombitova"
+    ],
+    "isrc": "SKA128791503",
+    "start_time": "2025-11-22 23:26:23",
+    "radio": "expres",
+    "recorded_at": "2025-11-22T23:26:37.171811+01:00",
+    "raw_valid": true,
+    "song_session_id": "ff08945d-5526-4fe1-8c88-c71609ea1b2e"
+  },
+  {
+    "song": "Afterlife",
+    "artists": [
+      "Michael Schulte"
+    ],
+    "isrc": "DECE72500509",
+    "start_time": "2025-11-22 23:32:35",
+    "radio": "expres",
+    "recorded_at": "2025-11-22T23:32:52.685431+01:00",
+    "raw_valid": true,
+    "song_session_id": "6b52fa71-4abe-4d76-af0d-16bcd9ac724b"
+  },
+  {
+    "song": "Narocni",
+    "artists": [
+      "Team"
+    ],
+    "isrc": "SKA128804501",
+    "start_time": "2025-11-22 23:35:16",
+    "radio": "expres",
+    "recorded_at": "2025-11-22T23:35:35.339651+01:00",
+    "raw_valid": true,
+    "song_session_id": "5d058164-80e7-4e43-aa83-8db4e0bd4c1f"
+  },
+  {
+    "song": "Let Her Go",
+    "artists": [
+      "Passenger"
+    ],
+    "isrc": "GBMQN1100004",
+    "start_time": "2025-11-22 23:40:05",
+    "radio": "expres",
+    "recorded_at": "2025-11-22T23:40:19.691806+01:00",
+    "raw_valid": true,
+    "song_session_id": "268f2ecf-7419-4bb3-bb8f-a55107e38735"
+  },
+  {
+    "song": "Head Above Water",
+    "artists": [
+      "Twocolors",
+      "Safri Duo",
+      "Chris De Sarandy"
+    ],
+    "isrc": "DEUM72503698",
+    "start_time": "2025-11-22 23:44:06",
+    "radio": "expres",
+    "recorded_at": "2025-11-22T23:44:33.289874+01:00",
+    "raw_valid": true,
+    "song_session_id": "833b3337-5630-4672-baa1-ad89289c29dd"
+  },
+  {
+    "song": "Chlap Z Kriza",
+    "artists": [
+      "Szidi Tobias"
+    ],
+    "isrc": "FRX201717075",
+    "start_time": "2025-11-22 23:47:16",
+    "radio": "expres",
+    "recorded_at": "2025-11-22T23:47:28.549234+01:00",
+    "raw_valid": true,
+    "song_session_id": "afb223ae-5bba-46bf-88c7-afe9226304b8"
+  },
+  {
+    "song": "My Oh My",
+    "artists": [
+      "Ava Max"
+    ],
+    "isrc": "USAT22401759",
+    "start_time": "2025-11-22 23:52:17",
+    "radio": "expres",
+    "recorded_at": "2025-11-22T23:52:33.906993+01:00",
+    "raw_valid": true,
+    "song_session_id": "3e284384-d7e5-490c-9049-4a6de8979909"
+  },
+  {
+    "song": "Gone Gone Gone",
+    "artists": [
+      "David Guetta",
+      "Teddy Swims",
+      "Tones And I"
+    ],
+    "isrc": "UKWLG2500132",
+    "start_time": "2025-11-22 23:54:46",
+    "radio": "expres",
+    "recorded_at": "2025-11-22T23:55:14.424707+01:00",
+    "raw_valid": true,
+    "song_session_id": "026ee8e4-9030-4408-afb8-8c24b99cd281"
+  },
+  {
+    "song": "I Follow Rivers (The Magician Remix)",
+    "artists": [
+      "Lykke Li"
+    ],
+    "isrc": "SEVUM1100103",
+    "start_time": "2025-11-22 23:58:35",
+    "radio": "expres",
+    "recorded_at": "2025-11-22T23:58:58.619026+01:00",
+    "raw_valid": true,
+    "song_session_id": "b9a2699d-35de-4738-bbe2-3e82a83d5150"
+  },
+  {
+    "song": "Be Mine",
+    "artists": [
+      "Kamrad"
+    ],
+    "isrc": "DE1NJ2500035",
+    "start_time": "2025-11-23 00:02:21",
+    "radio": "expres",
+    "recorded_at": "2025-11-23T00:02:37.137006+01:00",
+    "raw_valid": true,
+    "song_session_id": "05bf4b5b-32b9-43fc-aa24-6c2f7efc5a4b"
+  }
+]

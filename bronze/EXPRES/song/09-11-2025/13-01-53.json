@@ -1,0 +1,386 @@
+[
+  {
+    "song": "Let Me Die",
+    "artists": [
+      "Mark Dann",
+      "Giovanni Ricci"
+    ],
+    "isrc": "US38Y2520370",
+    "start_time": "2025-11-09 12:05:05",
+    "radio": "expres",
+    "recorded_at": "2025-11-09T12:05:58.801900+01:00",
+    "raw_valid": true,
+    "song_session_id": "5510c926-f22c-42d5-a5ad-fcd2ac26683c"
+  },
+  {
+    "song": "Cant Stop Loving You",
+    "artists": [
+      "Phil Collins"
+    ],
+    "isrc": "USRH11600031",
+    "start_time": "2025-11-09 12:07:36",
+    "radio": "expres",
+    "recorded_at": "2025-11-09T12:08:20.805281+01:00",
+    "raw_valid": true,
+    "song_session_id": "076ae2f1-6ca2-4633-826d-60330a8c2c13"
+  },
+  {
+    "song": "All I Know",
+    "artists": [
+      "Rudimental",
+      "Khalid"
+    ],
+    "isrc": "GBARL2500365",
+    "start_time": "2025-11-09 12:11:41",
+    "radio": "expres",
+    "recorded_at": "2025-11-09T12:11:55.258506+01:00",
+    "raw_valid": true,
+    "song_session_id": "0664069f-24b3-4608-9bfc-a85ddc0a2733"
+  },
+  {
+    "song": "V Piatok Podvecer",
+    "artists": [
+      "Hex"
+    ],
+    "isrc": "SKA010211102",
+    "start_time": "2025-11-09 12:14:38",
+    "radio": "expres",
+    "recorded_at": "2025-11-09T12:14:53.165512+01:00",
+    "raw_valid": true,
+    "song_session_id": "b4fed67c-30f1-442c-9f30-f1dc075983ac"
+  },
+  {
+    "song": "Love Me Not",
+    "artists": [
+      "Ravyn Lenae"
+    ],
+    "isrc": "USAT22401137",
+    "start_time": "2025-11-09 12:18:01",
+    "radio": "expres",
+    "recorded_at": "2025-11-09T12:18:11.204170+01:00",
+    "raw_valid": true,
+    "song_session_id": "38e33f5a-26ad-490c-b554-0178046d3309"
+  },
+  {
+    "song": "Umbrella",
+    "artists": [
+      "Rihanna"
+    ],
+    "isrc": "USUM70736771",
+    "start_time": "2025-11-09 12:21:45",
+    "radio": "expres",
+    "recorded_at": "2025-11-09T12:21:54.775493+01:00",
+    "raw_valid": true,
+    "song_session_id": "88fedada-8b3d-458b-8d05-bcf93b3a23a3"
+  },
+  {
+    "song": "Unhealthy",
+    "artists": [
+      "Anne-Marie",
+      "Shania Twain"
+    ],
+    "isrc": "GBAHS2300345",
+    "start_time": "2025-11-09 12:25:33",
+    "radio": "expres",
+    "recorded_at": "2025-11-09T12:25:53.518656+01:00",
+    "raw_valid": true,
+    "song_session_id": "3b413341-2d83-4ae8-8f72-928ddbe11eeb"
+  },
+  {
+    "song": "Regalo",
+    "artists": [
+      "Alvaro Soler"
+    ],
+    "isrc": "DEE862500388",
+    "start_time": "2025-11-09 12:30:00",
+    "radio": "expres",
+    "recorded_at": "2025-11-09T12:30:17.611777+01:00",
+    "raw_valid": true,
+    "song_session_id": "7ad402e4-66a7-4357-8dda-5d7d9c59c8e7"
+  },
+  {
+    "song": "Budapest",
+    "artists": [
+      "George Ezra"
+    ],
+    "isrc": "GBARL1400477",
+    "start_time": "2025-11-09 12:33:10",
+    "radio": "expres",
+    "recorded_at": "2025-11-09T12:33:35.849647+01:00",
+    "raw_valid": true,
+    "song_session_id": "cc6de732-9ff6-4459-92b6-a73b42782f52"
+  },
+  {
+    "song": "Cryin",
+    "artists": [
+      "Aerosmith"
+    ],
+    "isrc": "USIR10000430",
+    "start_time": "2025-11-09 12:36:32",
+    "radio": "expres",
+    "recorded_at": "2025-11-09T12:37:28.920292+01:00",
+    "raw_valid": true,
+    "song_session_id": "6620b78a-c50f-4063-b85d-cd35d80b4fc9"
+  },
+  {
+    "song": "Head Above Water",
+    "artists": [
+      "Twocolors",
+      "Safri Duo",
+      "Chris De Sarandy"
+    ],
+    "isrc": "DEUM72503698",
+    "start_time": "2025-11-09 12:41:36",
+    "radio": "expres",
+    "recorded_at": "2025-11-09T12:42:23.527314+01:00",
+    "raw_valid": true,
+    "song_session_id": "acd3e47c-fc7f-4ec3-9a19-67216078e5c9"
+  },
+  {
+    "song": "Yeah Baby!",
+    "artists": [
+      "Emma Drobna"
+    ],
+    "isrc": "CZA232000586",
+    "start_time": "2025-11-09 12:44:35",
+    "radio": "expres",
+    "recorded_at": "2025-11-09T12:45:25.185503+01:00",
+    "raw_valid": true,
+    "song_session_id": "94ae2a1c-3b36-424b-8877-803958a55dda"
+  },
+  {
+    "song": "We Pray",
+    "artists": [
+      "Coldplay",
+      "Little Simz",
+      "Burna Boy",
+      "Elyanna",
+      "Tini"
+    ],
+    "isrc": "GBAYE2400890",
+    "start_time": "2025-11-09 12:48:19",
+    "radio": "expres",
+    "recorded_at": "2025-11-09T12:49:18.212361+01:00",
+    "raw_valid": true,
+    "song_session_id": "8e990e5d-67e0-4a40-bd5d-83951c593d35"
+  },
+  {
+    "song": "Untitled",
+    "artists": [
+      "Simple Plan"
+    ],
+    "isrc": "USAT20402500",
+    "start_time": "2025-11-09 12:51:45",
+    "radio": "expres",
+    "recorded_at": "2025-11-09T12:52:24.368404+01:00",
+    "raw_valid": true,
+    "song_session_id": "f62a3032-820b-469f-8334-3d75d679d836"
+  },
+  {
+    "song": "Airplanes",
+    "artists": [
+      "B.o.b.",
+      "Hayley Williams"
+    ],
+    "isrc": "USAT21000477",
+    "start_time": "2025-11-09 12:55:10",
+    "radio": "expres",
+    "recorded_at": "2025-11-09T12:55:47.189837+01:00",
+    "raw_valid": true,
+    "song_session_id": "67bb77d7-5285-49d9-ba39-4b43c4e0636e"
+  },
+  {
+    "song": "Broken Sunshine",
+    "artists": [
+      "Michael Schulte"
+    ],
+    "isrc": "DECE72402375",
+    "start_time": "2025-11-09 12:58:06",
+    "radio": "expres",
+    "recorded_at": "2025-11-09T12:58:59.590252+01:00",
+    "raw_valid": true,
+    "song_session_id": "abc16210-d0b6-4d67-aa8c-32833313f587"
+  },
+  {
+    "song": "Too Sweet",
+    "artists": [
+      "Hozier"
+    ],
+    "isrc": "IEACJ2300335",
+    "start_time": "2025-11-09 13:04:52",
+    "radio": "expres",
+    "recorded_at": "2025-11-09T13:05:11.169908+01:00",
+    "raw_valid": true,
+    "song_session_id": "f6451018-bcd0-4634-b80a-3028ee29942c"
+  },
+  {
+    "song": "Flashdance... What A Feeling",
+    "artists": [
+      "Irene Cara"
+    ],
+    "isrc": "CAU118300354",
+    "start_time": "2025-11-09 13:09:08",
+    "radio": "expres",
+    "recorded_at": "2025-11-09T13:09:26.597990+01:00",
+    "raw_valid": true,
+    "song_session_id": "16e5ee0f-79a5-4367-9d17-9251367b44c9"
+  },
+  {
+    "song": "Mystical Magical",
+    "artists": [
+      "Benson Boone"
+    ],
+    "isrc": "USWB12500844",
+    "start_time": "2025-11-09 13:13:01",
+    "radio": "expres",
+    "recorded_at": "2025-11-09T13:13:30.413224+01:00",
+    "raw_valid": true,
+    "song_session_id": "8aa8a453-ea31-4ec6-b615-dc6d569fef46"
+  },
+  {
+    "song": "Perfect",
+    "artists": [
+      "Ed Sheeran"
+    ],
+    "isrc": "GBAHS1700024",
+    "start_time": "2025-11-09 13:15:45",
+    "radio": "expres",
+    "recorded_at": "2025-11-09T13:16:08.127384+01:00",
+    "raw_valid": true,
+    "song_session_id": "2ee9735c-4f41-4cfd-b355-2c5fe9ed7a97"
+  },
+  {
+    "song": "Forbidden Road",
+    "artists": [
+      "Robbie Williams"
+    ],
+    "isrc": "GBPS62400032",
+    "start_time": "2025-11-09 13:20:10",
+    "radio": "expres",
+    "recorded_at": "2025-11-09T13:20:32.170836+01:00",
+    "raw_valid": true,
+    "song_session_id": "52a60ec5-4cb1-45a6-b4cd-5f241b2819a7"
+  },
+  {
+    "song": "Take On Me",
+    "artists": [
+      "A-Ha"
+    ],
+    "isrc": "USWB19901214",
+    "start_time": "2025-11-09 13:23:21",
+    "radio": "expres",
+    "recorded_at": "2025-11-09T13:23:30.164338+01:00",
+    "raw_valid": true,
+    "song_session_id": "9e7ea245-4da0-483f-bdfd-aa76aa8aef86"
+  },
+  {
+    "song": "Ray Of Light",
+    "artists": [
+      "Nico Santos"
+    ],
+    "isrc": "DECE72402394",
+    "start_time": "2025-11-09 13:27:00",
+    "radio": "expres",
+    "recorded_at": "2025-11-09T13:27:13.643790+01:00",
+    "raw_valid": true,
+    "song_session_id": "03428e50-68ba-475a-9d68-dcada6ad20f4"
+  },
+  {
+    "song": "Ordinary",
+    "artists": [
+      "Alex Warren"
+    ],
+    "isrc": "USAT22500463",
+    "start_time": "2025-11-09 13:32:27",
+    "radio": "expres",
+    "recorded_at": "2025-11-09T13:32:55.585429+01:00",
+    "raw_valid": true,
+    "song_session_id": "5d4511dd-27b2-4c76-af27-20746871f727"
+  },
+  {
+    "song": "Duch Cloveka",
+    "artists": [
+      "Imt Smile"
+    ],
+    "isrc": "SKA010500076",
+    "start_time": "2025-11-09 13:35:35",
+    "radio": "expres",
+    "recorded_at": "2025-11-09T13:35:53.851822+01:00",
+    "raw_valid": true,
+    "song_session_id": "a0bbea4e-390b-4971-8c7f-f5abb669b4b8"
+  },
+  {
+    "song": "Comin Home",
+    "artists": [
+      "Diddy-Dirty Money",
+      "Skylar Grey"
+    ],
+    "isrc": "USUM71027542",
+    "start_time": "2025-11-09 13:39:15",
+    "radio": "expres",
+    "recorded_at": "2025-11-09T13:39:40.146293+01:00",
+    "raw_valid": true,
+    "song_session_id": "74ba2a08-b459-4e3e-98e9-0d479467c7d8"
+  },
+  {
+    "song": "Wonderful Life 25",
+    "artists": [
+      "Hurts",
+      "Purple Disco Machine"
+    ],
+    "isrc": "DEE862500677",
+    "start_time": "2025-11-09 13:43:21",
+    "radio": "expres",
+    "recorded_at": "2025-11-09T13:43:38.669969+01:00",
+    "raw_valid": true,
+    "song_session_id": "d137d0b1-0902-4061-af25-2160e9b926fd"
+  },
+  {
+    "song": "I Want To Break Free",
+    "artists": [
+      "Queen"
+    ],
+    "isrc": "GBUM71805978",
+    "start_time": "2025-11-09 13:46:22",
+    "radio": "expres",
+    "recorded_at": "2025-11-09T13:46:36.631960+01:00",
+    "raw_valid": true,
+    "song_session_id": "435780bd-07de-46e1-b3c4-a9d4f21076e4"
+  },
+  {
+    "song": "Green Green Grass",
+    "artists": [
+      "George Ezra"
+    ],
+    "isrc": "GBARL2200008",
+    "start_time": "2025-11-09 13:50:13",
+    "radio": "expres",
+    "recorded_at": "2025-11-09T13:50:40.612120+01:00",
+    "raw_valid": true,
+    "song_session_id": "fa4a8580-89e7-4ae2-9918-f9bea0308160"
+  },
+  {
+    "song": "No Time To Talk",
+    "artists": [
+      "Jonas Brothers"
+    ],
+    "isrc": "USUG12504831",
+    "start_time": "2025-11-09 13:52:58",
+    "radio": "expres",
+    "recorded_at": "2025-11-09T13:53:19.423764+01:00",
+    "raw_valid": true,
+    "song_session_id": "55608b59-d628-4314-a4e6-9e1b27e06607"
+  },
+  {
+    "song": "Follow You",
+    "artists": [
+      "Imagine Dragons"
+    ],
+    "isrc": "USUM72102981",
+    "start_time": "2025-11-09 13:55:40",
+    "radio": "expres",
+    "recorded_at": "2025-11-09T13:56:02.046799+01:00",
+    "raw_valid": true,
+    "song_session_id": "93a8cb97-21ce-47ce-98b0-e361b713990f"
+  }
+]

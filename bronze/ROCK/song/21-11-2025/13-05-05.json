@@ -1,0 +1,392 @@
+[
+  {
+    "last_update": "2025-11-21 11:08:35",
+    "song": {
+      "musicAuthor": "The Cure",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851ca40908d43a2a80fb34de8a3",
+      "musicTitle": "Boys Don't Cry",
+      "radio": "Rádio ROCK",
+      "startTime": "12:07"
+    },
+    "recorded_at": "2025-11-21T12:08:36.049645+01:00",
+    "raw_valid": true,
+    "song_session_id": "9512e13a-15a1-44ca-89e7-dad17eeff726"
+  },
+  {
+    "last_update": "2025-11-21 11:11:36",
+    "song": {
+      "musicAuthor": "Nightwish",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485183f074bfd3e213283dcdb561",
+      "musicTitle": "Amaranth",
+      "radio": "Rádio ROCK",
+      "startTime": "12:10"
+    },
+    "recorded_at": "2025-11-21T12:11:37.026043+01:00",
+    "raw_valid": true,
+    "song_session_id": "438eced8-b45e-49f0-a311-97bd034939c8"
+  },
+  {
+    "last_update": "2025-11-21 11:16:08",
+    "song": {
+      "musicAuthor": "Guns N Roses",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485192d21aef6c0d288cc4c05973",
+      "musicTitle": "Yesterdays",
+      "radio": "Rádio ROCK",
+      "startTime": "12:15"
+    },
+    "recorded_at": "2025-11-21T12:16:08.314194+01:00",
+    "raw_valid": true,
+    "song_session_id": "a9df2ff2-4365-4970-bcce-9464a512520a"
+  },
+  {
+    "last_update": "2025-11-21 11:19:07",
+    "song": {
+      "musicAuthor": "Foo Fighters",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851369b4c663e383f85fdc73ebc",
+      "musicTitle": "Asking For A Friend",
+      "radio": "Rádio ROCK",
+      "startTime": "12:18"
+    },
+    "recorded_at": "2025-11-21T12:19:08.524554+01:00",
+    "raw_valid": true,
+    "song_session_id": "78f29331-4c4b-4cb6-a134-b45a342f0ce3"
+  },
+  {
+    "last_update": "2025-11-21 11:24:09",
+    "song": {
+      "musicAuthor": "Iron Maiden",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048511d7e954fb2f8b98a4cea3eca",
+      "musicTitle": "Can I Play With Madness",
+      "radio": "Rádio ROCK",
+      "startTime": "12:23"
+    },
+    "recorded_at": "2025-11-21T12:24:09.293299+01:00",
+    "raw_valid": true,
+    "song_session_id": "94213d5c-094b-4cca-8cb4-faf408bbca5d"
+  },
+  {
+    "last_update": "2025-11-21 11:27:08",
+    "song": {
+      "musicAuthor": "Maneskin",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851dbc892b8194e35ca3524e767",
+      "musicTitle": "Honey (Are U Coming?)",
+      "radio": "Rádio ROCK",
+      "startTime": "12:26"
+    },
+    "recorded_at": "2025-11-21T12:27:09.474137+01:00",
+    "raw_valid": true,
+    "song_session_id": "e76ed715-1061-4975-8e9f-347b246f1316"
+  },
+  {
+    "last_update": "2025-11-21 11:30:08",
+    "song": {
+      "musicAuthor": "Iné Kafe",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048512f24981c95d815cac0e65b86",
+      "musicTitle": "Čumil",
+      "radio": "Rádio ROCK",
+      "startTime": "12:29"
+    },
+    "recorded_at": "2025-11-21T12:30:09.658337+01:00",
+    "raw_valid": true,
+    "song_session_id": "53254eeb-d6ac-4aa9-96fc-ece1ca287ee6"
+  },
+  {
+    "last_update": "2025-11-21 11:33:11",
+    "song": {
+      "musicAuthor": "Clawfinger",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485117a80cd3af5f01175215962f",
+      "musicTitle": "Do What I Say",
+      "radio": "Rádio ROCK",
+      "startTime": "12:32"
+    },
+    "recorded_at": "2025-11-21T12:33:11.209413+01:00",
+    "raw_valid": true,
+    "song_session_id": "bd19a813-d8fd-441a-a81e-c299213c0f87"
+  },
+  {
+    "last_update": "2025-11-21 11:37:13",
+    "song": {
+      "musicAuthor": "Bon Jovi",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048517a231174875d7930de9dad58",
+      "musicTitle": "It's My Life",
+      "radio": "Rádio ROCK",
+      "startTime": "12:37"
+    },
+    "recorded_at": "2025-11-21T12:37:13.537083+01:00",
+    "raw_valid": true,
+    "song_session_id": "d43ada47-7605-4e10-a92f-2aed4c484200"
+  },
+  {
+    "last_update": "2025-11-21 11:41:12",
+    "song": {
+      "musicAuthor": "The Rolling Stones",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485108fc42e575043a753f60d675",
+      "musicTitle": "Start Me Up",
+      "radio": "Rádio ROCK",
+      "startTime": "12:40"
+    },
+    "recorded_at": "2025-11-21T12:41:13.860065+01:00",
+    "raw_valid": true,
+    "song_session_id": "396b4444-09e2-4365-93c8-6ece2e532228"
+  },
+  {
+    "last_update": "2025-11-21 11:45:14",
+    "song": {
+      "musicAuthor": "Kings Of Leon",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048512519d01c0cca06f134eeadd8",
+      "musicTitle": "Sex On The Fire",
+      "radio": "Rádio ROCK",
+      "startTime": "12:44"
+    },
+    "recorded_at": "2025-11-21T12:45:14.642292+01:00",
+    "raw_valid": true,
+    "song_session_id": "d90e16fb-a67c-4422-a598-ed823021d861"
+  },
+  {
+    "last_update": "2025-11-21 11:48:13",
+    "song": {
+      "musicAuthor": "Guano Apes",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485190de79652ab78e4954dd7a8f",
+      "musicTitle": "Lords Of The Boards",
+      "radio": "Rádio ROCK",
+      "startTime": "12:47"
+    },
+    "recorded_at": "2025-11-21T12:48:14.827693+01:00",
+    "raw_valid": true,
+    "song_session_id": "7d4aeae1-cfbd-4434-b274-78dfd242f21a"
+  },
+  {
+    "last_update": "2025-11-21 11:52:14",
+    "song": {
+      "musicAuthor": "George Harrison",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048517b13e5323813ed4c441100ff",
+      "musicTitle": "Got My Mind Set On You",
+      "radio": "Rádio ROCK",
+      "startTime": "12:51"
+    },
+    "recorded_at": "2025-11-21T12:52:15.369709+01:00",
+    "raw_valid": true,
+    "song_session_id": "100c04ef-010b-491c-8947-2a0aeba8d389"
+  },
+  {
+    "last_update": "2025-11-21 11:56:15",
+    "song": {
+      "musicAuthor": "Horkýže Slíže",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851cdf1f087ff7f86569b256ca8",
+      "musicTitle": "Kozky Perie",
+      "radio": "Rádio ROCK",
+      "startTime": "12:55"
+    },
+    "recorded_at": "2025-11-21T12:56:15.803953+01:00",
+    "raw_valid": true,
+    "song_session_id": "0b047fc5-9053-4a7b-acda-24904f8ec550"
+  },
+  {
+    "last_update": "2025-11-21 12:03:19",
+    "song": {
+      "musicAuthor": "Metallica",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485106cb74d39d123ebe1b3c6631",
+      "musicTitle": "The Memory Remains",
+      "radio": "Rádio ROCK",
+      "startTime": "13:02"
+    },
+    "recorded_at": "2025-11-21T13:03:19.188694+01:00",
+    "raw_valid": true,
+    "song_session_id": "91acbe40-eb81-44a0-98a0-3839db749623"
+  },
+  {
+    "last_update": "2025-11-21 12:04:19",
+    "song": {
+      "musicAuthor": "System Of A Down",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485130d45198d0c9e8841f9a9578",
+      "musicTitle": "Aerials",
+      "radio": "Rádio ROCK",
+      "startTime": "13:03"
+    },
+    "recorded_at": "2025-11-21T13:04:19.260047+01:00",
+    "raw_valid": true,
+    "song_session_id": "c3956424-0a37-4505-98f9-28966b53109f"
+  },
+  {
+    "last_update": "2025-11-21 12:08:19",
+    "song": {
+      "musicAuthor": "Dereš",
+      "musicCover": "https://static.radia.sk/covers/32/54aafc3b-0156-48db-8d55-8432189887ac.jpg",
+      "musicTitle": "Na Panské",
+      "radio": "Rádio ROCK",
+      "startTime": "13:07"
+    },
+    "recorded_at": "2025-11-21T13:08:19.716197+01:00",
+    "raw_valid": true,
+    "song_session_id": "1c1e39a7-0d69-4746-9a3f-9a5f4fbcec80"
+  },
+  {
+    "last_update": "2025-11-21 12:12:20",
+    "song": {
+      "musicAuthor": "Nirvana",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851fbc71c99f9c1296c56dd51b6",
+      "musicTitle": "Polly",
+      "radio": "Rádio ROCK",
+      "startTime": "13:11"
+    },
+    "recorded_at": "2025-11-21T13:12:20.776056+01:00",
+    "raw_valid": true,
+    "song_session_id": "682af168-6e1d-4a7d-8f09-1e0cc32607b0"
+  },
+  {
+    "last_update": "2025-11-21 12:16:21",
+    "song": {
+      "musicAuthor": "Simple Plan",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048517e973b97ebe64cabf8e3dfa0",
+      "musicTitle": "I'm Just A Kid",
+      "radio": "Rádio ROCK",
+      "startTime": "13:15"
+    },
+    "recorded_at": "2025-11-21T13:16:21.508096+01:00",
+    "raw_valid": true,
+    "song_session_id": "6c159a54-4067-4187-bee8-f602a417d7b9"
+  },
+  {
+    "last_update": "2025-11-21 12:19:21",
+    "song": {
+      "musicAuthor": "Ac Dc",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485151c02a77d09dfcd53c8676d0",
+      "musicTitle": "Highway To Hell",
+      "radio": "Rádio ROCK",
+      "startTime": "13:19"
+    },
+    "recorded_at": "2025-11-21T13:19:21.907580+01:00",
+    "raw_valid": true,
+    "song_session_id": "636d7c89-5011-4ee6-a728-10b171a1c4dc"
+  },
+  {
+    "last_update": "2025-11-21 12:23:22",
+    "song": {
+      "musicAuthor": "Queen & David Bowie",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851d254ca497999ae980a5a38c5",
+      "musicTitle": "Under Pressure",
+      "radio": "Rádio ROCK",
+      "startTime": "13:23"
+    },
+    "recorded_at": "2025-11-21T13:23:22.855833+01:00",
+    "raw_valid": true,
+    "song_session_id": "4602d0bb-d432-47ce-ade0-1e3b0c5a93d4"
+  },
+  {
+    "last_update": "2025-11-21 12:27:22",
+    "song": {
+      "musicAuthor": "Rammstein",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048518b2c42026277efc3e058855b",
+      "musicTitle": "Sonne",
+      "radio": "Rádio ROCK",
+      "startTime": "13:26"
+    },
+    "recorded_at": "2025-11-21T13:27:23.242674+01:00",
+    "raw_valid": true,
+    "song_session_id": "5d7a25fa-95fb-4beb-afbd-b7a9e5fde0e6"
+  },
+  {
+    "last_update": "2025-11-21 12:31:27",
+    "song": {
+      "musicAuthor": "Iron Maiden",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048510335e5389b34f6acfb73a82d",
+      "musicTitle": "2 Minutes To Midnight",
+      "radio": "Rádio ROCK",
+      "startTime": "13:31"
+    },
+    "recorded_at": "2025-11-21T13:31:27.114251+01:00",
+    "raw_valid": true,
+    "song_session_id": "ec8c87e4-081c-4ad4-be0d-335f7dd389de"
+  },
+  {
+    "last_update": "2025-11-21 12:38:27",
+    "song": {
+      "musicAuthor": "The White Stripes",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851a69f71a8794e2d867a52f98f",
+      "musicTitle": "Seven Nation Army",
+      "radio": "Rádio ROCK",
+      "startTime": "13:37"
+    },
+    "recorded_at": "2025-11-21T13:38:28.143820+01:00",
+    "raw_valid": true,
+    "song_session_id": "086b76a7-2306-4b02-849e-32294f1cdd85"
+  },
+  {
+    "last_update": "2025-11-21 12:43:28",
+    "song": {
+      "musicAuthor": "Iné Kafe",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485162c956030346948c7662f08d",
+      "musicTitle": "Spomienky Na Budúcnosť",
+      "radio": "Rádio ROCK",
+      "startTime": "13:41"
+    },
+    "recorded_at": "2025-11-21T13:43:29.919550+01:00",
+    "raw_valid": true,
+    "song_session_id": "695f2e1e-10f3-4acc-80f5-2208b420b3f5"
+  },
+  {
+    "last_update": "2025-11-21 12:46:30",
+    "song": {
+      "musicAuthor": "Kabát",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048513b275d370a97516893dff21d",
+      "musicTitle": "Moderní Děvče",
+      "radio": "Rádio ROCK",
+      "startTime": "13:45"
+    },
+    "recorded_at": "2025-11-21T13:46:30.150679+01:00",
+    "raw_valid": true,
+    "song_session_id": "1fdf066f-b8dc-48b6-b9be-3dd9ec825d94"
+  },
+  {
+    "last_update": "2025-11-21 12:48:30",
+    "song": {
+      "musicAuthor": "Queen",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851056e90910cbaf5c5b892aeba",
+      "musicTitle": "Another One Bites The Dust",
+      "radio": "Rádio ROCK",
+      "startTime": "13:48"
+    },
+    "recorded_at": "2025-11-21T13:48:30.501817+01:00",
+    "raw_valid": true,
+    "song_session_id": "2e39b62a-2bc7-468b-82ae-b465f9f036a8"
+  },
+  {
+    "last_update": "2025-11-21 12:52:34",
+    "song": {
+      "musicAuthor": "Maneskin",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048515aa05015cfa7bd2943c29b21",
+      "musicTitle": "I Wanna Be Your Slave",
+      "radio": "Rádio ROCK",
+      "startTime": "13:51"
+    },
+    "recorded_at": "2025-11-21T13:52:35.275486+01:00",
+    "raw_valid": true,
+    "song_session_id": "74500a90-aab2-4761-8dfa-db20791ca565"
+  },
+  {
+    "last_update": "2025-11-21 12:55:36",
+    "song": {
+      "musicAuthor": "Guns N Roses",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485192d21aef6c0d288cc4c05973",
+      "musicTitle": "You Could Be Mine",
+      "radio": "Rádio ROCK",
+      "startTime": "13:54"
+    },
+    "recorded_at": "2025-11-21T13:55:36.926978+01:00",
+    "raw_valid": true,
+    "song_session_id": "31406e4e-14c0-4722-aa4d-42db783cf343"
+  },
+  {
+    "last_update": "2025-11-21 13:02:07",
+    "song": {
+      "musicAuthor": "Him",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851c62abeccd25dc4a0003bc754",
+      "musicTitle": "Wicked Game",
+      "radio": "Rádio ROCK",
+      "startTime": "14:01"
+    },
+    "recorded_at": "2025-11-21T14:02:08.672524+01:00",
+    "raw_valid": true,
+    "song_session_id": "13c04d8b-4ab6-4e8c-a3e4-9536eb146234"
+  }
+]

@@ -1,0 +1,404 @@
+[
+  {
+    "song": "Budapest",
+    "artists": [
+      "George Ezra"
+    ],
+    "isrc": "GBARL1400477",
+    "start_time": "2025-12-09 02:56:24",
+    "radio": "expres",
+    "recorded_at": "2025-12-09T02:56:51.179993+01:00",
+    "raw_valid": true,
+    "song_session_id": "e1e02681-b20f-4c8f-90bb-3d4fd62070cf"
+  },
+  {
+    "song": "All I Want For Christmas Is You",
+    "artists": [
+      "Mariah Carey"
+    ],
+    "isrc": "USSM19400325",
+    "start_time": "2025-12-09 02:59:46",
+    "radio": "expres",
+    "recorded_at": "2025-12-09T03:00:15.180389+01:00",
+    "raw_valid": true,
+    "song_session_id": "23dbbf2d-2307-49bf-9cfd-cc229e8a4c2e"
+  },
+  {
+    "song": "Undressed",
+    "artists": [
+      "Sombr"
+    ],
+    "isrc": "USWB12500737",
+    "start_time": "2025-12-09 03:03:33",
+    "radio": "expres",
+    "recorded_at": "2025-12-09T03:03:54.987092+01:00",
+    "raw_valid": true,
+    "song_session_id": "2de245f9-b22a-4932-b0f1-f41aa00c4190"
+  },
+  {
+    "song": "Si Sam",
+    "artists": [
+      "Tina"
+    ],
+    "isrc": "CZA231100692",
+    "start_time": "2025-12-09 03:06:41",
+    "radio": "expres",
+    "recorded_at": "2025-12-09T03:06:55.981771+01:00",
+    "raw_valid": true,
+    "song_session_id": "d8f9b847-ba9d-4dfc-900e-3947503f072a"
+  },
+  {
+    "song": "Good News",
+    "artists": [
+      "Shaboozey"
+    ],
+    "isrc": "USUYG1580113",
+    "start_time": "2025-12-09 03:10:32",
+    "radio": "expres",
+    "recorded_at": "2025-12-09T03:10:51.307918+01:00",
+    "raw_valid": true,
+    "song_session_id": "93a58c42-979d-4ff6-b93c-e14e63787ab9"
+  },
+  {
+    "song": "Do You Love Me",
+    "artists": [
+      "Made 2 Mate"
+    ],
+    "isrc": "SKA122200002",
+    "start_time": "2025-12-09 03:13:56",
+    "radio": "expres",
+    "recorded_at": "2025-12-09T03:14:14.384243+01:00",
+    "raw_valid": true,
+    "song_session_id": "599a6eba-b7f1-4301-b701-6e8f9cbe073d"
+  },
+  {
+    "song": "Beds Are Burning",
+    "artists": [
+      "Midnight Oil"
+    ],
+    "isrc": "AUBM00700707",
+    "start_time": "2025-12-09 03:17:39",
+    "radio": "expres",
+    "recorded_at": "2025-12-09T03:17:58.574339+01:00",
+    "raw_valid": true,
+    "song_session_id": "20434acb-c2ac-411f-88eb-d2900ebf1522"
+  },
+  {
+    "song": "Neuc Vtaka Lietat",
+    "artists": [
+      "Richard Muller"
+    ],
+    "isrc": "CZA110111007",
+    "start_time": "2025-12-09 03:21:55",
+    "radio": "expres",
+    "recorded_at": "2025-12-09T03:22:22.639510+01:00",
+    "raw_valid": true,
+    "song_session_id": "14d90119-b029-4b67-a3e5-0a07bb867181"
+  },
+  {
+    "song": "Gone Gone Gone",
+    "artists": [
+      "David Guetta",
+      "Teddy Swims",
+      "Tones And I"
+    ],
+    "isrc": "UKWLG2500132",
+    "start_time": "2025-12-09 03:25:25",
+    "radio": "expres",
+    "recorded_at": "2025-12-09T03:25:45.039919+01:00",
+    "raw_valid": true,
+    "song_session_id": "efaba563-9287-4def-9012-f23501f05561"
+  },
+  {
+    "song": "My Oh My",
+    "artists": [
+      "Ava Max"
+    ],
+    "isrc": "USAT22401759",
+    "start_time": "2025-12-09 03:29:02",
+    "radio": "expres",
+    "recorded_at": "2025-12-09T03:29:31.855787+01:00",
+    "raw_valid": true,
+    "song_session_id": "3da43da7-f4f4-4d2b-b674-623c72038b61"
+  },
+  {
+    "song": "Na Vianoce",
+    "artists": [
+      "Adam Durica"
+    ],
+    "isrc": "SKA011700088",
+    "start_time": "2025-12-09 03:31:41",
+    "radio": "expres",
+    "recorded_at": "2025-12-09T03:31:54.096030+01:00",
+    "raw_valid": true,
+    "song_session_id": "9c28752c-50da-46f3-8820-5e6fd7fb7fa9"
+  },
+  {
+    "song": "Pride",
+    "artists": [
+      "Felix Jaehn",
+      "Jhart"
+    ],
+    "isrc": "DEUM72503423",
+    "start_time": "2025-12-09 03:35:21",
+    "radio": "expres",
+    "recorded_at": "2025-12-09T03:35:38.634291+01:00",
+    "raw_valid": true,
+    "song_session_id": "d28f3d1a-c530-4c19-ae59-8dd0f73c4c6f"
+  },
+  {
+    "song": "Mesto Stratilo Dych",
+    "artists": [
+      "Hex",
+      "Tamara"
+    ],
+    "isrc": "SKC752000101",
+    "start_time": "2025-12-09 03:37:57",
+    "radio": "expres",
+    "recorded_at": "2025-12-09T03:38:21.872682+01:00",
+    "raw_valid": true,
+    "song_session_id": "897af20e-34bc-4d7c-9a02-a589b0e73106"
+  },
+  {
+    "song": "Wake Me Up When September Ends",
+    "artists": [
+      "Green Day"
+    ],
+    "isrc": "USRE10400992",
+    "start_time": "2025-12-09 03:41:35",
+    "radio": "expres",
+    "recorded_at": "2025-12-09T03:42:11.351995+01:00",
+    "raw_valid": true,
+    "song_session_id": "cfdbcc90-1cf8-44cc-b68c-baf335846b9f"
+  },
+  {
+    "song": "Spomal",
+    "artists": [
+      "Peha"
+    ],
+    "isrc": "CZA110500061",
+    "start_time": "2025-12-09 03:46:06",
+    "radio": "expres",
+    "recorded_at": "2025-12-09T03:46:30.953688+01:00",
+    "raw_valid": true,
+    "song_session_id": "36fda411-4578-4082-9b9f-e018fde24e8c"
+  },
+  {
+    "song": "Mystical Magical",
+    "artists": [
+      "Benson Boone"
+    ],
+    "isrc": "USWB12500844",
+    "start_time": "2025-12-09 03:50:10",
+    "radio": "expres",
+    "recorded_at": "2025-12-09T03:50:40.475088+01:00",
+    "raw_valid": true,
+    "song_session_id": "2b6d928e-d33c-4f8e-a589-9c32cca31069"
+  },
+  {
+    "song": "Bez Obav",
+    "artists": [
+      "Maria Cirova"
+    ],
+    "isrc": "SKB001008101",
+    "start_time": "2025-12-09 03:53:02",
+    "radio": "expres",
+    "recorded_at": "2025-12-09T03:53:22.697180+01:00",
+    "raw_valid": true,
+    "song_session_id": "71d24897-2fe9-4be9-9f53-55f9c7a0f8e8"
+  },
+  {
+    "song": "Under The Christmas Tree",
+    "artists": [
+      "Albert Hammond"
+    ],
+    "isrc": "DEE868900006",
+    "start_time": "2025-12-09 03:57:05",
+    "radio": "expres",
+    "recorded_at": "2025-12-09T03:57:20.721526+01:00",
+    "raw_valid": true,
+    "song_session_id": "c4873736-373b-4c72-a1c1-8d6bcbbc4fbc"
+  },
+  {
+    "song": "Gimme Love",
+    "artists": [
+      "Sia"
+    ],
+    "isrc": "USAT22307798",
+    "start_time": "2025-12-09 04:00:35",
+    "radio": "expres",
+    "recorded_at": "2025-12-09T04:01:04.997776+01:00",
+    "raw_valid": true,
+    "song_session_id": "ef4c1dc1-52cc-4b7d-b6c9-ed2c131f76db"
+  },
+  {
+    "song": "Bud Hviezda (Co Svieti Mi Nad Hlavou)",
+    "artists": [
+      "Nocaden"
+    ],
+    "isrc": "CZA210300147",
+    "start_time": "2025-12-09 04:03:28",
+    "radio": "expres",
+    "recorded_at": "2025-12-09T04:03:48.488825+01:00",
+    "raw_valid": true,
+    "song_session_id": "e7c8619d-e078-4a3d-9587-943015faff6d"
+  },
+  {
+    "song": "The Fate Of Ophelia",
+    "artists": [
+      "Taylor Swift"
+    ],
+    "isrc": "USUG12506436",
+    "start_time": "2025-12-09 04:07:21",
+    "radio": "expres",
+    "recorded_at": "2025-12-09T04:07:52.972374+01:00",
+    "raw_valid": true,
+    "song_session_id": "75caff11-6994-4921-ba0d-6978835c9f5d"
+  },
+  {
+    "song": "Voda Co Ma Drzi Nad Vodou",
+    "artists": [
+      "Jozo Raz"
+    ],
+    "isrc": "SKA019908110",
+    "start_time": "2025-12-09 04:11:07",
+    "radio": "expres",
+    "recorded_at": "2025-12-09T04:11:37.387617+01:00",
+    "raw_valid": true,
+    "song_session_id": "ad5f9dcf-57dd-49db-8259-8de40875b860"
+  },
+  {
+    "song": "U Make Me Wanna",
+    "artists": [
+      "Blue"
+    ],
+    "isrc": "GBAAA0300043",
+    "start_time": "2025-12-09 04:16:03",
+    "radio": "expres",
+    "recorded_at": "2025-12-09T04:16:20.235427+01:00",
+    "raw_valid": true,
+    "song_session_id": "c4a38c51-9438-4152-b998-a6bf7dc31355"
+  },
+  {
+    "song": "Viem Ze Povies Ano",
+    "artists": [
+      "Tina"
+    ],
+    "isrc": "CZA230600501",
+    "start_time": "2025-12-09 04:19:55",
+    "radio": "expres",
+    "recorded_at": "2025-12-09T04:20:09.640615+01:00",
+    "raw_valid": true,
+    "song_session_id": "07cca53c-50f8-4686-9726-478cf83a8840"
+  },
+  {
+    "song": "Eternity",
+    "artists": [
+      "Alex Warren"
+    ],
+    "isrc": "USAT22503779",
+    "start_time": "2025-12-09 04:23:37",
+    "radio": "expres",
+    "recorded_at": "2025-12-09T04:23:53.866161+01:00",
+    "raw_valid": true,
+    "song_session_id": "b3d1ff2b-9974-4087-a63a-a6b22e6f9b1c"
+  },
+  {
+    "song": "Srdce Nehasnou",
+    "artists": [
+      "Karel Gott",
+      "Charlotte Ella Gottova"
+    ],
+    "isrc": "CZA161900335",
+    "start_time": "2025-12-09 04:26:50",
+    "radio": "expres",
+    "recorded_at": "2025-12-09T04:27:12.906514+01:00",
+    "raw_valid": true,
+    "song_session_id": "b06472bd-5044-4c02-b307-64ee41885eef"
+  },
+  {
+    "song": "The One",
+    "artists": [
+      "Michael Patrick Kelly"
+    ],
+    "isrc": "DEE862500476",
+    "start_time": "2025-12-09 04:30:37",
+    "radio": "expres",
+    "recorded_at": "2025-12-09T04:30:54.472300+01:00",
+    "raw_valid": true,
+    "song_session_id": "d3a34971-49cc-401d-8fd6-940818bdaf5c"
+  },
+  {
+    "song": "Primetime",
+    "artists": [
+      "Majk Spirit"
+    ],
+    "isrc": "SKG401500201",
+    "start_time": "2025-12-09 04:33:37",
+    "radio": "expres",
+    "recorded_at": "2025-12-09T04:33:57.480512+01:00",
+    "raw_valid": true,
+    "song_session_id": "51d84a49-9ff6-419a-979f-44f549733004"
+  },
+  {
+    "song": "Im So Excited",
+    "artists": [
+      "Pointer Sisters"
+    ],
+    "isrc": "USRC18203285",
+    "start_time": "2025-12-09 04:37:41",
+    "radio": "expres",
+    "recorded_at": "2025-12-09T04:38:00.772678+01:00",
+    "raw_valid": true,
+    "song_session_id": "8709a4b0-9cfd-47f2-8dbb-757aad30f507"
+  },
+  {
+    "song": "Ako Vanok",
+    "artists": [
+      "Richard Muller"
+    ],
+    "isrc": "SKA010109106",
+    "start_time": "2025-12-09 04:41:46",
+    "radio": "expres",
+    "recorded_at": "2025-12-09T04:42:04.458168+01:00",
+    "raw_valid": true,
+    "song_session_id": "b56f4659-eae8-462c-adfb-7a384bfe5740"
+  },
+  {
+    "song": "Zoo",
+    "artists": [
+      "Shakira"
+    ],
+    "isrc": "USWD12538420",
+    "start_time": "2025-12-09 04:44:25",
+    "radio": "expres",
+    "recorded_at": "2025-12-09T04:44:45.417991+01:00",
+    "raw_valid": true,
+    "song_session_id": "4bb4421a-91a5-4b8c-8afc-ffb599401cfd"
+  },
+  {
+    "song": "Slnko Nevychadzaj",
+    "artists": [
+      "Metalinda"
+    ],
+    "isrc": "SKG871600305",
+    "start_time": "2025-12-09 04:48:03",
+    "radio": "expres",
+    "recorded_at": "2025-12-09T04:48:28.940722+01:00",
+    "raw_valid": true,
+    "song_session_id": "a87220ad-b2a3-4c2c-8169-cd0d6cfb34f7"
+  },
+  {
+    "song": "Hymn For The Weekend",
+    "artists": [
+      "Coldplay",
+      "Beyonce"
+    ],
+    "isrc": "GBAYE1500979",
+    "start_time": "2025-12-09 04:52:32",
+    "radio": "expres",
+    "recorded_at": "2025-12-09T04:52:51.400285+01:00",
+    "raw_valid": true,
+    "song_session_id": "10bba93e-0fbd-4450-876a-e99454743192"
+  }
+]

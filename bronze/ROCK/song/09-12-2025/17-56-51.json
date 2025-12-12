@@ -1,0 +1,379 @@
+[
+  {
+    "last_update": "2025-12-09 15:58:27",
+    "song": {
+      "musicAuthor": "The Rolling Stones",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851a1d9c9969f2a7ed27e449a3c",
+      "musicTitle": "Brown Sugar",
+      "radio": "Rádio ROCK",
+      "startTime": "16:56"
+    },
+    "recorded_at": "2025-12-09T16:58:28.182179+01:00",
+    "raw_valid": true,
+    "song_session_id": "e383ace3-03e6-4735-b324-35a7106f7ed1"
+  },
+  {
+    "last_update": "2025-12-09 16:01:28",
+    "song": {
+      "musicAuthor": "Rammstein",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851a715d32590424cd667879ba3",
+      "musicTitle": "Du Hast",
+      "radio": "Rádio ROCK",
+      "startTime": "17:01"
+    },
+    "recorded_at": "2025-12-09T17:01:28.488186+01:00",
+    "raw_valid": true,
+    "song_session_id": "d3657df2-cb2d-4be3-b8dd-c4e06f368517"
+  },
+  {
+    "last_update": "2025-12-09 16:05:28",
+    "song": {
+      "musicAuthor": "The Troggs",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485127b24620f0b3b592472552f5",
+      "musicTitle": "Wild Thing",
+      "radio": "Rádio ROCK",
+      "startTime": "17:05"
+    },
+    "recorded_at": "2025-12-09T17:05:28.757993+01:00",
+    "raw_valid": true,
+    "song_session_id": "a1a7504f-3de1-46ab-94eb-0529ad8ee05c"
+  },
+  {
+    "last_update": "2025-12-09 16:08:28",
+    "song": {
+      "musicAuthor": "Imagine Dragons",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048515675e83f707f1d7271e5cf8a",
+      "musicTitle": "Believer",
+      "radio": "Rádio ROCK",
+      "startTime": "17:08"
+    },
+    "recorded_at": "2025-12-09T17:08:28.981243+01:00",
+    "raw_valid": true,
+    "song_session_id": "0eb3e396-dc17-4bc7-9b8d-499b5b97463b"
+  },
+  {
+    "last_update": "2025-12-09 16:15:30",
+    "song": {
+      "musicAuthor": "Travis",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048512951c50b6cfcf7e0e26279aa",
+      "musicTitle": "Why Does It Always Rain On Me?",
+      "radio": "Rádio ROCK",
+      "startTime": "17:14"
+    },
+    "recorded_at": "2025-12-09T17:15:31.052808+01:00",
+    "raw_valid": true,
+    "song_session_id": "1c65fa5d-7080-4148-a102-2f0e541725f9"
+  },
+  {
+    "last_update": "2025-12-09 16:19:35",
+    "song": {
+      "musicAuthor": "Foo Fighters",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851369b4c663e383f85fdc73ebc",
+      "musicTitle": "Asking For A Friend",
+      "radio": "Rádio ROCK",
+      "startTime": "17:18"
+    },
+    "recorded_at": "2025-12-09T17:19:36.549703+01:00",
+    "raw_valid": true,
+    "song_session_id": "40bffcf0-dfce-47e4-b9df-37192ff795ce"
+  },
+  {
+    "last_update": "2025-12-09 16:23:36",
+    "song": {
+      "musicAuthor": "Queen",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048511f7077ae1018b5fbab08dfa8",
+      "musicTitle": "We Are The Champions",
+      "radio": "Rádio ROCK",
+      "startTime": "17:23"
+    },
+    "recorded_at": "2025-12-09T17:23:37.218357+01:00",
+    "raw_valid": true,
+    "song_session_id": "28d0b6e5-cf61-4cd9-8621-33decf1c379e"
+  },
+  {
+    "last_update": "2025-12-09 16:26:09",
+    "song": {
+      "musicAuthor": "U2",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485138fa0dfe55b1ff2e8c962bae",
+      "musicTitle": "Beautiful Day",
+      "radio": "Rádio ROCK",
+      "startTime": "17:26"
+    },
+    "recorded_at": "2025-12-09T17:26:09.901272+01:00",
+    "raw_valid": true,
+    "song_session_id": "11da2f69-351e-4478-88e3-59abf554823b"
+  },
+  {
+    "last_update": "2025-12-09 16:30:09",
+    "song": {
+      "musicAuthor": "Metallica",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851cf84c5b276431b473e924802",
+      "musicTitle": "Nothing Else Matters",
+      "radio": "Rádio ROCK",
+      "startTime": "17:30"
+    },
+    "recorded_at": "2025-12-09T17:30:10.156025+01:00",
+    "raw_valid": true,
+    "song_session_id": "caa699f1-eb66-4afe-a650-4a33f4642558"
+  },
+  {
+    "last_update": "2025-12-09 16:37:14",
+    "song": {
+      "musicAuthor": "Horkýže Slíže",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851a1dba7a16c82818421fc734a",
+      "musicTitle": "L.A.G. Song",
+      "radio": "Rádio ROCK",
+      "startTime": "17:36"
+    },
+    "recorded_at": "2025-12-09T17:37:14.728015+01:00",
+    "raw_valid": true,
+    "song_session_id": "4e0cdb33-ad00-4c93-bb87-260494e6d05c"
+  },
+  {
+    "last_update": "2025-12-09 16:40:14",
+    "song": {
+      "musicAuthor": "Tublatanka",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048514b813e7e56c0e4c85f8cb5d0",
+      "musicTitle": "Žeravé Znamenie Osudu",
+      "radio": "Rádio ROCK",
+      "startTime": "17:39"
+    },
+    "recorded_at": "2025-12-09T17:40:14.913616+01:00",
+    "raw_valid": true,
+    "song_session_id": "7bbb8bd9-7f90-4788-96b6-8e8096d13beb"
+  },
+  {
+    "last_update": "2025-12-09 16:45:21",
+    "song": {
+      "musicAuthor": "Evanescence",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485125f49ab23f0ec6332efef432",
+      "musicTitle": "My Immortal",
+      "radio": "Rádio ROCK",
+      "startTime": "17:44"
+    },
+    "recorded_at": "2025-12-09T17:45:22.268810+01:00",
+    "raw_valid": true,
+    "song_session_id": "6dbb94f8-b596-43aa-86d4-70258fbe3756"
+  },
+  {
+    "last_update": "2025-12-09 16:49:24",
+    "song": {
+      "musicAuthor": "Guns N Roses",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485192d21aef6c0d288cc4c05973",
+      "musicTitle": "Yesterdays",
+      "radio": "Rádio ROCK",
+      "startTime": "17:48"
+    },
+    "recorded_at": "2025-12-09T17:49:24.651608+01:00",
+    "raw_valid": true,
+    "song_session_id": "eb56e7b4-760f-453a-b3fe-938ba26bbeee"
+  },
+  {
+    "last_update": "2025-12-09 16:52:24",
+    "song": {
+      "musicAuthor": "Aerosmith",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851b11078ee23dcd99e085ac33e",
+      "musicTitle": "Dream On",
+      "radio": "Rádio ROCK",
+      "startTime": "17:51"
+    },
+    "recorded_at": "2025-12-09T17:52:25.006365+01:00",
+    "raw_valid": true,
+    "song_session_id": "0193bcb8-a075-438b-8988-1294e12d3073"
+  },
+  {
+    "last_update": "2025-12-09 16:56:24",
+    "song": {
+      "musicAuthor": "Guano Apes",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485180bae26d3a81bea9d83a710a",
+      "musicTitle": "Big In Japan",
+      "radio": "Rádio ROCK",
+      "startTime": "17:56"
+    },
+    "recorded_at": "2025-12-09T17:56:25.384714+01:00",
+    "raw_valid": true,
+    "song_session_id": "303a0271-143d-4e74-a72c-6dd0adad4695"
+  },
+  {
+    "last_update": "2025-12-09 16:59:24",
+    "song": {
+      "musicAuthor": "The Offspring",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048510158cbde70672dd821972907",
+      "musicTitle": "Gotta Get Away",
+      "radio": "Rádio ROCK",
+      "startTime": "17:58"
+    },
+    "recorded_at": "2025-12-09T17:59:25.587522+01:00",
+    "raw_valid": true,
+    "song_session_id": "698bf682-e1ec-445f-94e4-e333c0bc437a"
+  },
+  {
+    "last_update": "2025-12-09 17:03:26",
+    "song": {
+      "musicAuthor": "Iné Kafe",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851a36a083c5dec894348b99b3c",
+      "musicTitle": "Ráno",
+      "radio": "Rádio ROCK",
+      "startTime": "18:02"
+    },
+    "recorded_at": "2025-12-09T18:03:26.585070+01:00",
+    "raw_valid": true,
+    "song_session_id": "b3c2e960-65d2-4f79-b8c8-803c75e9d9f5"
+  },
+  {
+    "last_update": "2025-12-09 17:07:26",
+    "song": {
+      "musicAuthor": "Audioslave",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851a7292b6863258e889b78d787",
+      "musicTitle": "Like A Stone",
+      "radio": "Rádio ROCK",
+      "startTime": "18:06"
+    },
+    "recorded_at": "2025-12-09T18:07:27.007774+01:00",
+    "raw_valid": true,
+    "song_session_id": "56e6d6bf-d403-46e9-84ff-bcbbb0cce810"
+  },
+  {
+    "last_update": "2025-12-09 17:13:28",
+    "song": {
+      "musicAuthor": "Kiss",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048514384b6976cadaec272114022",
+      "musicTitle": "I Was Made For Lovin' You",
+      "radio": "Rádio ROCK",
+      "startTime": "18:12"
+    },
+    "recorded_at": "2025-12-09T18:13:28.454374+01:00",
+    "raw_valid": true,
+    "song_session_id": "92ee382c-d34a-4cf7-a82c-1ab3f32682f3"
+  },
+  {
+    "last_update": "2025-12-09 17:18:28",
+    "song": {
+      "musicAuthor": "Wohnout",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048514d5f8f3f698e04be1fb03634",
+      "musicTitle": "Svaz Ceskych Bohemu",
+      "radio": "Rádio ROCK",
+      "startTime": "18:17"
+    },
+    "recorded_at": "2025-12-09T18:18:28.958728+01:00",
+    "raw_valid": true,
+    "song_session_id": "de834b29-5e8f-4789-ae82-64f11f5033aa"
+  },
+  {
+    "last_update": "2025-12-09 17:22:29",
+    "song": {
+      "musicAuthor": "Kravitz Lenny",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485181bb674330f0276e88bd0722",
+      "musicTitle": "Again",
+      "radio": "Rádio ROCK",
+      "startTime": "18:21"
+    },
+    "recorded_at": "2025-12-09T18:22:29.434355+01:00",
+    "raw_valid": true,
+    "song_session_id": "49104e31-b5f1-4f93-ab1c-202e0c3ebf89"
+  },
+  {
+    "last_update": "2025-12-09 17:26:28",
+    "song": {
+      "musicAuthor": "Limp Bizkit",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485144971d48c21dbd132f2d506e",
+      "musicTitle": "Behind Blue Eyes",
+      "radio": "Rádio ROCK",
+      "startTime": "18:25"
+    },
+    "recorded_at": "2025-12-09T18:26:29.691193+01:00",
+    "raw_valid": true,
+    "song_session_id": "7682b76c-051a-40f2-b393-328605cffeba"
+  },
+  {
+    "last_update": "2025-12-09 17:30:29",
+    "song": {
+      "musicAuthor": "Reo Speedwagon",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851d514470784e3d02ee0bcdb80",
+      "musicTitle": "Keep On Loving You",
+      "radio": "Rádio ROCK",
+      "startTime": "18:29"
+    },
+    "recorded_at": "2025-12-09T18:30:30.077111+01:00",
+    "raw_valid": true,
+    "song_session_id": "85063059-d304-4005-b94d-793c75ff29c3"
+  },
+  {
+    "last_update": "2025-12-09 17:34:30",
+    "song": {
+      "musicAuthor": "Weezer",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048511e0dc5baaabda304b0ad1815",
+      "musicTitle": "Island In The Sun",
+      "radio": "Rádio ROCK",
+      "startTime": "18:33"
+    },
+    "recorded_at": "2025-12-09T18:34:31.176233+01:00",
+    "raw_valid": true,
+    "song_session_id": "0d3cf93d-deae-49cc-8175-5e28dce087d3"
+  },
+  {
+    "last_update": "2025-12-09 17:37:30",
+    "song": {
+      "musicAuthor": "Foo Fighters",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851593dc79bc85aa974a98d8cd6",
+      "musicTitle": "Medicine At Midnight",
+      "radio": "Rádio ROCK",
+      "startTime": "18:36"
+    },
+    "recorded_at": "2025-12-09T18:37:31.502209+01:00",
+    "raw_valid": true,
+    "song_session_id": "56c37288-5dc7-4663-8640-2258b97c327f"
+  },
+  {
+    "last_update": "2025-12-09 17:40:31",
+    "song": {
+      "musicAuthor": "Metallica",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485175e6375e11550746705a9645",
+      "musicTitle": "Turn The Page",
+      "radio": "Rádio ROCK",
+      "startTime": "18:40"
+    },
+    "recorded_at": "2025-12-09T18:40:31.743419+01:00",
+    "raw_valid": true,
+    "song_session_id": "e38844fd-d434-4ef9-bc47-23c15a970fa3"
+  },
+  {
+    "last_update": "2025-12-09 17:47:34",
+    "song": {
+      "musicAuthor": "Queen",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048512fcad2af6e3d43006c6f42c4",
+      "musicTitle": "I Want It All",
+      "radio": "Rádio ROCK",
+      "startTime": "18:46"
+    },
+    "recorded_at": "2025-12-09T18:47:34.552183+01:00",
+    "raw_valid": true,
+    "song_session_id": "9cc0a099-e76e-4b0b-8ba9-04b2ed7a7134"
+  },
+  {
+    "last_update": "2025-12-09 17:51:36",
+    "song": {
+      "musicAuthor": "Gladiator",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048519e1004ad4208503050590037",
+      "musicTitle": "Vsetko Bude Dobre",
+      "radio": "Rádio ROCK",
+      "startTime": "18:50"
+    },
+    "recorded_at": "2025-12-09T18:51:36.805485+01:00",
+    "raw_valid": true,
+    "song_session_id": "a03dd64d-eb32-4ef9-98d1-db6ac07a8c1e"
+  },
+  {
+    "last_update": "2025-12-09 17:54:07",
+    "song": {
+      "musicAuthor": "Zz Top",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485128a00032ff3b86af3d7e0e54",
+      "musicTitle": "Gimme All Your Lovin'",
+      "radio": "Rádio ROCK",
+      "startTime": "18:53"
+    },
+    "recorded_at": "2025-12-09T18:54:07.413946+01:00",
+    "raw_valid": true,
+    "song_session_id": "64066052-ee46-4e7f-bfa9-017a1918aa7a"
+  }
+]

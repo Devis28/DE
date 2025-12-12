@@ -1,0 +1,394 @@
+[
+  {
+    "song": "Be Mine",
+    "artists": [
+      "Kamrad"
+    ],
+    "isrc": "DE1NJ2500035",
+    "start_time": "2025-11-25 20:05:41",
+    "radio": "expres",
+    "recorded_at": "2025-11-25T20:06:13.138658+01:00",
+    "raw_valid": true,
+    "song_session_id": "10f14135-8c3e-4c89-8676-cb6b0335e16b"
+  },
+  {
+    "song": "Accidentally In Love",
+    "artists": [
+      "Counting Crows"
+    ],
+    "isrc": "USIR10400291",
+    "start_time": "2025-11-25 20:08:23",
+    "radio": "expres",
+    "recorded_at": "2025-11-25T20:08:45.009921+01:00",
+    "raw_valid": true,
+    "song_session_id": "df5eab7d-8305-4d74-b535-56fbd801404d"
+  },
+  {
+    "song": "Dive",
+    "artists": [
+      "Lost Frequencies",
+      "Tom Gregory"
+    ],
+    "isrc": "BEHP42300028",
+    "start_time": "2025-11-25 20:11:24",
+    "radio": "expres",
+    "recorded_at": "2025-11-25T20:11:43.141077+01:00",
+    "raw_valid": true,
+    "song_session_id": "de26d692-3426-4d39-873b-67d502491f11"
+  },
+  {
+    "song": "Senorita",
+    "artists": [
+      "Shawn Mendes",
+      "Camila Cabello"
+    ],
+    "isrc": "USUM71911283",
+    "start_time": "2025-11-25 20:14:01",
+    "radio": "expres",
+    "recorded_at": "2025-11-25T20:14:26.154585+01:00",
+    "raw_valid": true,
+    "song_session_id": "c68bfa3b-db25-470f-8074-7ceee87af4a9"
+  },
+  {
+    "song": "Zoo",
+    "artists": [
+      "Shakira"
+    ],
+    "isrc": "USWD12538420",
+    "start_time": "2025-11-25 20:17:10",
+    "radio": "expres",
+    "recorded_at": "2025-11-25T20:17:34.999232+01:00",
+    "raw_valid": true,
+    "song_session_id": "8852b624-bfbc-4984-97b7-a2f40fc0ec11"
+  },
+  {
+    "song": "Heaven Is A Place On Earth",
+    "artists": [
+      "Belinda Carlisle"
+    ],
+    "isrc": "GBBLG8700257",
+    "start_time": "2025-11-25 20:20:54",
+    "radio": "expres",
+    "recorded_at": "2025-11-25T20:21:08.876383+01:00",
+    "raw_valid": true,
+    "song_session_id": "1daa2942-27be-4190-a0f0-b4305d22d09d"
+  },
+  {
+    "song": "Eyes Closed",
+    "artists": [
+      "Imagine Dragons"
+    ],
+    "isrc": "USUM72402448",
+    "start_time": "2025-11-25 20:24:55",
+    "radio": "expres",
+    "recorded_at": "2025-11-25T20:25:07.854015+01:00",
+    "raw_valid": true,
+    "song_session_id": "696c5276-9733-472b-9e76-97b3e5bdf4df"
+  },
+  {
+    "song": "Spocitaj Ma",
+    "artists": [
+      "Richard Muller"
+    ],
+    "isrc": "SKA010109102",
+    "start_time": "2025-11-25 20:28:11",
+    "radio": "expres",
+    "recorded_at": "2025-11-25T20:28:31.072742+01:00",
+    "raw_valid": true,
+    "song_session_id": "dec83938-c65b-4b0d-9f78-77e8b105e5d3"
+  },
+  {
+    "song": "The One",
+    "artists": [
+      "Michael Patrick Kelly"
+    ],
+    "isrc": "DEE862500476",
+    "start_time": "2025-11-25 20:33:44",
+    "radio": "expres",
+    "recorded_at": "2025-11-25T20:34:16.304973+01:00",
+    "raw_valid": true,
+    "song_session_id": "672d576c-4283-4dfd-94d2-e4b8502f4790"
+  },
+  {
+    "song": "Hot Stuff",
+    "artists": [
+      "Kygo",
+      "Donna Summer"
+    ],
+    "isrc": "SEBGA2000777",
+    "start_time": "2025-11-25 20:36:48",
+    "radio": "expres",
+    "recorded_at": "2025-11-25T20:37:14.397349+01:00",
+    "raw_valid": true,
+    "song_session_id": "2e30aaa4-9f46-417e-9004-1155d1d8984d"
+  },
+  {
+    "song": "Angel",
+    "artists": [
+      "Shaggy"
+    ],
+    "isrc": "USMC19989405",
+    "start_time": "2025-11-25 20:39:56",
+    "radio": "expres",
+    "recorded_at": "2025-11-25T20:40:17.881481+01:00",
+    "raw_valid": true,
+    "song_session_id": "8c9055f9-d66c-4f7c-883b-4f7d1c43b986"
+  },
+  {
+    "song": "Head Above Water",
+    "artists": [
+      "Twocolors",
+      "Safri Duo",
+      "Chris De Sarandy"
+    ],
+    "isrc": "DEUM72503698",
+    "start_time": "2025-11-25 20:44:01",
+    "radio": "expres",
+    "recorded_at": "2025-11-25T20:44:17.892414+01:00",
+    "raw_valid": true,
+    "song_session_id": "708324f1-8ea4-4c1e-a998-110b0b4d4038"
+  },
+  {
+    "song": "Vrba",
+    "artists": [
+      "Desmod"
+    ],
+    "isrc": "SKM901700108",
+    "start_time": "2025-11-25 20:46:53",
+    "radio": "expres",
+    "recorded_at": "2025-11-25T20:47:21.575079+01:00",
+    "raw_valid": true,
+    "song_session_id": "a63fb3b3-90e2-431b-a232-c5f4b27d7b8b"
+  },
+  {
+    "song": "Espresso",
+    "artists": [
+      "Sabrina Carpenter"
+    ],
+    "isrc": "USUM72403305",
+    "start_time": "2025-11-25 20:51:12",
+    "radio": "expres",
+    "recorded_at": "2025-11-25T20:51:48.020347+01:00",
+    "raw_valid": true,
+    "song_session_id": "8fc9cfef-2ee2-41bd-95b9-e1c9191e97d0"
+  },
+  {
+    "song": "Mad",
+    "artists": [
+      "Martin Garrix",
+      "Lauv"
+    ],
+    "isrc": "NLM5S2502535",
+    "start_time": "2025-11-25 20:54:03",
+    "radio": "expres",
+    "recorded_at": "2025-11-25T20:54:28.409884+01:00",
+    "raw_valid": true,
+    "song_session_id": "973da6e5-00d3-451e-a846-3a03cc9cbecd"
+  },
+  {
+    "song": "Neda Sa Ujst",
+    "artists": [
+      "Imt Smile"
+    ],
+    "isrc": "SKA019903018",
+    "start_time": "2025-11-25 20:57:26",
+    "radio": "expres",
+    "recorded_at": "2025-11-25T20:57:48.254031+01:00",
+    "raw_valid": true,
+    "song_session_id": "151f0411-1adb-40e2-b828-fa9acc34df33"
+  },
+  {
+    "song": "Walk With Me",
+    "artists": [
+      "Felix Jaehn",
+      "Shouse"
+    ],
+    "isrc": "DEUM72411810",
+    "start_time": "2025-11-25 21:05:19",
+    "radio": "expres",
+    "recorded_at": "2025-11-25T21:05:58.717229+01:00",
+    "raw_valid": true,
+    "song_session_id": "40ebbe5e-3417-40cc-96e9-bce5f39c9bb1"
+  },
+  {
+    "song": "Boulevard Of Broken Dreams",
+    "artists": [
+      "Green Day"
+    ],
+    "isrc": "USRE11200337",
+    "start_time": "2025-11-25 21:07:56",
+    "radio": "expres",
+    "recorded_at": "2025-11-25T21:08:05.941736+01:00",
+    "raw_valid": true,
+    "song_session_id": "15725b3d-7dd3-4118-91e5-66ac347471b7"
+  },
+  {
+    "song": "Regalo",
+    "artists": [
+      "Alvaro Soler"
+    ],
+    "isrc": "DEE862500388",
+    "start_time": "2025-11-25 21:11:42",
+    "radio": "expres",
+    "recorded_at": "2025-11-25T21:12:10.088436+01:00",
+    "raw_valid": true,
+    "song_session_id": "a4905634-32ad-45a1-828d-71fc954a8f35"
+  },
+  {
+    "song": "Airplanes",
+    "artists": [
+      "B.o.b.",
+      "Hayley Williams"
+    ],
+    "isrc": "USAT21000477",
+    "start_time": "2025-11-25 21:14:51",
+    "radio": "expres",
+    "recorded_at": "2025-11-25T21:15:16.681394+01:00",
+    "raw_valid": true,
+    "song_session_id": "be72b6e9-f26c-4bf6-b696-90b67e637b4c"
+  },
+  {
+    "song": "Ked Odchadza Niekto",
+    "artists": [
+      "Ine Kafe"
+    ],
+    "isrc": "SKA722500002",
+    "start_time": "2025-11-25 21:17:34",
+    "radio": "expres",
+    "recorded_at": "2025-11-25T21:17:49.452969+01:00",
+    "raw_valid": true,
+    "song_session_id": "47a0eeb9-ce0c-42be-812f-fec0a2eaae37"
+  },
+  {
+    "song": "Flashdance... What A Feeling",
+    "artists": [
+      "Irene Cara"
+    ],
+    "isrc": "CAU118300354",
+    "start_time": "2025-11-25 21:21:36",
+    "radio": "expres",
+    "recorded_at": "2025-11-25T21:21:54.175498+01:00",
+    "raw_valid": true,
+    "song_session_id": "bfe0ddc8-2b3a-4fad-a5e0-9af65532e9e7"
+  },
+  {
+    "song": "Abracadabra",
+    "artists": [
+      "Lady Gaga"
+    ],
+    "isrc": "USUM72412581",
+    "start_time": "2025-11-25 21:25:29",
+    "radio": "expres",
+    "recorded_at": "2025-11-25T21:25:54.403555+01:00",
+    "raw_valid": true,
+    "song_session_id": "9d874e65-d83c-44b7-a1e5-cc06de5a1a3a"
+  },
+  {
+    "song": "Pravdupovediac",
+    "artists": [
+      "Adam Durica"
+    ],
+    "isrc": "SKA012000103",
+    "start_time": "2025-11-25 21:29:12",
+    "radio": "expres",
+    "recorded_at": "2025-11-25T21:29:38.042520+01:00",
+    "raw_valid": true,
+    "song_session_id": "535af325-6211-479c-b70f-984a42222fe6"
+  },
+  {
+    "song": "Mystical Magical",
+    "artists": [
+      "Benson Boone"
+    ],
+    "isrc": "USWB12500844",
+    "start_time": "2025-11-25 21:33:31",
+    "radio": "expres",
+    "recorded_at": "2025-11-25T21:34:05.484608+01:00",
+    "raw_valid": true,
+    "song_session_id": "35765372-4177-42a5-a0c4-7d38d8f906a5"
+  },
+  {
+    "song": "Kocka",
+    "artists": [
+      "Elan"
+    ],
+    "isrc": "TCAEF1942481",
+    "start_time": "2025-11-25 21:36:30",
+    "radio": "expres",
+    "recorded_at": "2025-11-25T21:36:47.538082+01:00",
+    "raw_valid": true,
+    "song_session_id": "fa6fc99f-1f6a-45d8-a74b-e07b2f709677"
+  },
+  {
+    "song": "Lost Without You",
+    "artists": [
+      "Delta Goodrem"
+    ],
+    "isrc": "AUSM00300002",
+    "start_time": "2025-11-25 21:40:42",
+    "radio": "expres",
+    "recorded_at": "2025-11-25T21:41:01.560581+01:00",
+    "raw_valid": true,
+    "song_session_id": "2ba07cc9-de5d-4faa-97ea-67c7b5691070"
+  },
+  {
+    "song": "Golden",
+    "artists": [
+      "Kpop Demon Hunters"
+    ],
+    "isrc": "QZ8BZ2513510",
+    "start_time": "2025-11-25 21:44:51",
+    "radio": "expres",
+    "recorded_at": "2025-11-25T21:45:10.946692+01:00",
+    "raw_valid": true,
+    "song_session_id": "2771197c-72e5-4514-ad42-3992b1d5a78b"
+  },
+  {
+    "song": "Viva La Vida",
+    "artists": [
+      "Coldplay"
+    ],
+    "isrc": "GBAYE0800265",
+    "start_time": "2025-11-25 21:47:32",
+    "radio": "expres",
+    "recorded_at": "2025-11-25T21:47:44.176681+01:00",
+    "raw_valid": true,
+    "song_session_id": "28c7bfa1-b136-4e2e-880d-4f60cded3be1"
+  },
+  {
+    "song": "Afterlife",
+    "artists": [
+      "Michael Schulte"
+    ],
+    "isrc": "DECE72500509",
+    "start_time": "2025-11-25 21:51:25",
+    "radio": "expres",
+    "recorded_at": "2025-11-25T21:51:48.524541+01:00",
+    "raw_valid": true,
+    "song_session_id": "94d35f61-257e-423c-a1f7-a5a6f6dd0b7c"
+  },
+  {
+    "song": "Eternity",
+    "artists": [
+      "Alex Warren"
+    ],
+    "isrc": "USAT22503779",
+    "start_time": "2025-11-25 21:54:01",
+    "radio": "expres",
+    "recorded_at": "2025-11-25T21:54:29.644312+01:00",
+    "raw_valid": true,
+    "song_session_id": "3a15e15c-c8c6-415a-a30d-ef62d47cfb6b"
+  },
+  {
+    "song": "Sweet Dreams",
+    "artists": [
+      "Eurythmics"
+    ],
+    "isrc": "GBARL0300589",
+    "start_time": "2025-11-25 21:57:29",
+    "radio": "expres",
+    "recorded_at": "2025-11-25T21:57:47.772185+01:00",
+    "raw_valid": true,
+    "song_session_id": "8f867af4-e19e-43b2-bd27-2441226c7f3c"
+  }
+]

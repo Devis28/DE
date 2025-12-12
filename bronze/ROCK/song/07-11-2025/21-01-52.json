@@ -1,0 +1,366 @@
+[
+  {
+    "last_update": "2025-11-07 19:04:19",
+    "song": {
+      "musicAuthor": "Billy Talent",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851c88a0bc8ef7f556fa864c4f1",
+      "musicTitle": "Try Honesty",
+      "radio": "Rádio ROCK",
+      "startTime": "20:03"
+    },
+    "recorded_at": "2025-11-07T20:04:20.047140+01:00",
+    "raw_valid": true,
+    "song_session_id": "d9dbc343-0adb-416d-b19a-a529c4459ec3"
+  },
+  {
+    "last_update": "2025-11-07 19:08:22",
+    "song": {
+      "musicAuthor": "Megadeth",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048513171798d5cfc745f0ba24c84",
+      "musicTitle": "Train Of Consequences",
+      "radio": "Rádio ROCK",
+      "startTime": "20:07"
+    },
+    "recorded_at": "2025-11-07T20:08:22.469953+01:00",
+    "raw_valid": true,
+    "song_session_id": "c04f3285-6af8-40b2-a88e-15ab0e72a66d"
+  },
+  {
+    "last_update": "2025-11-07 19:11:22",
+    "song": {
+      "musicAuthor": "Metallica",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485175e6375e11550746705a9645",
+      "musicTitle": "Die,Die My Darling",
+      "radio": "Rádio ROCK",
+      "startTime": "20:11"
+    },
+    "recorded_at": "2025-11-07T20:11:23.454841+01:00",
+    "raw_valid": true,
+    "song_session_id": "c7df039a-bb4c-4009-b31c-3f68520e426f"
+  },
+  {
+    "last_update": "2025-11-07 19:14:23",
+    "song": {
+      "musicAuthor": "Pantera",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485164fa027e7ef7ce20fa8b46f2",
+      "musicTitle": "Im Broken",
+      "radio": "Rádio ROCK",
+      "startTime": "20:13"
+    },
+    "recorded_at": "2025-11-07T20:14:23.642999+01:00",
+    "raw_valid": true,
+    "song_session_id": "6cbf2ad2-7978-426b-8fdf-1845426cb643"
+  },
+  {
+    "last_update": "2025-11-07 19:18:24",
+    "song": {
+      "musicAuthor": "The Beastie Boys",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851a7ea08ab3914c5fb2084a8ac",
+      "musicTitle": "No Sleep Till Brooklyn",
+      "radio": "Rádio ROCK",
+      "startTime": "20:17"
+    },
+    "recorded_at": "2025-11-07T20:18:25.539765+01:00",
+    "raw_valid": true,
+    "song_session_id": "aec34053-2478-4e84-bca1-0cc0e44cd4ce"
+  },
+  {
+    "last_update": "2025-11-07 19:22:25",
+    "song": {
+      "musicAuthor": "Faith No More",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485136842671366bfeb3d7c5f19e",
+      "musicTitle": "Midlife Crisis",
+      "radio": "Rádio ROCK",
+      "startTime": "20:21"
+    },
+    "recorded_at": "2025-11-07T20:22:25.775306+01:00",
+    "raw_valid": true,
+    "song_session_id": "efa01e62-51d7-48b1-aa68-db44b5d3adf4"
+  },
+  {
+    "last_update": "2025-11-07 19:26:26",
+    "song": {
+      "musicAuthor": "Foo Fighters",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851cdac19bbaee5cc123edcc26f",
+      "musicTitle": "White Limo",
+      "radio": "Rádio ROCK",
+      "startTime": "20:25"
+    },
+    "recorded_at": "2025-11-07T20:26:26.398386+01:00",
+    "raw_valid": true,
+    "song_session_id": "bdaa7c90-ebee-4a1d-9e43-3fac2ef6095d"
+  },
+  {
+    "last_update": "2025-11-07 19:29:26",
+    "song": {
+      "musicAuthor": "Iron Maiden",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048512277d1a849a63c7075ec38ff",
+      "musicTitle": "Flight Of Icarus",
+      "radio": "Rádio ROCK",
+      "startTime": "20:29"
+    },
+    "recorded_at": "2025-11-07T20:29:26.574172+01:00",
+    "raw_valid": true,
+    "song_session_id": "30380499-38f0-48f9-bd8e-8048780fbce5"
+  },
+  {
+    "last_update": "2025-11-07 19:33:26",
+    "song": {
+      "musicAuthor": "Tublatanka",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048514b813e7e56c0e4c85f8cb5d0",
+      "musicTitle": "Žeravé Znamenie Osudu",
+      "radio": "Rádio ROCK",
+      "startTime": "20:33"
+    },
+    "recorded_at": "2025-11-07T20:33:26.870758+01:00",
+    "raw_valid": true,
+    "song_session_id": "12aea6d5-074b-4f06-be37-b890f5c6e760"
+  },
+  {
+    "last_update": "2025-11-07 19:38:26",
+    "song": {
+      "musicAuthor": "Sum 41",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851d6176a711e031d6522840c52",
+      "musicTitle": "Still Waiting",
+      "radio": "Rádio ROCK",
+      "startTime": "20:37"
+    },
+    "recorded_at": "2025-11-07T20:38:27.214312+01:00",
+    "raw_valid": true,
+    "song_session_id": "eb574761-54b2-47f8-a738-ecb165844582"
+  },
+  {
+    "last_update": "2025-11-07 19:41:27",
+    "song": {
+      "musicAuthor": "Mötley Crüe",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851e2f18e7e962bc989b570a767",
+      "musicTitle": "Same Ol' Situation (S.O.S.)",
+      "radio": "Rádio ROCK",
+      "startTime": "20:40"
+    },
+    "recorded_at": "2025-11-07T20:41:27.403798+01:00",
+    "raw_valid": true,
+    "song_session_id": "52e31bdf-ffad-4835-89da-714da9dc905c"
+  },
+  {
+    "last_update": "2025-11-07 19:45:26",
+    "song": {
+      "musicAuthor": "Papa Roach",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851985bf5ede2fe4a048ee85f28",
+      "musicTitle": "Last Resort",
+      "radio": "Rádio ROCK",
+      "startTime": "20:44"
+    },
+    "recorded_at": "2025-11-07T20:45:27.849856+01:00",
+    "raw_valid": true,
+    "song_session_id": "00aac6b7-f59c-41ff-a94a-b3cf4be1a182"
+  },
+  {
+    "last_update": "2025-11-07 19:48:27",
+    "song": {
+      "musicAuthor": "Helloween",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048518130045e019aa2b2ed897e85",
+      "musicTitle": "Halloween",
+      "radio": "Rádio ROCK",
+      "startTime": "20:47"
+    },
+    "recorded_at": "2025-11-07T20:48:28.666555+01:00",
+    "raw_valid": true,
+    "song_session_id": "72faabad-36b5-4f70-835f-8d3b84dd8319"
+  },
+  {
+    "last_update": "2025-11-07 19:57:34",
+    "song": {
+      "musicAuthor": "Lamb Of God",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851b12877d8bdfaa0f19b4624fa",
+      "musicTitle": "Now You've Got Something To Die For",
+      "radio": "Rádio ROCK",
+      "startTime": "20:56"
+    },
+    "recorded_at": "2025-11-07T20:57:35.016553+01:00",
+    "raw_valid": true,
+    "song_session_id": "36d1bafc-3a61-4843-9246-b21fe869bfaa"
+  },
+  {
+    "last_update": "2025-11-07 20:00:36",
+    "song": {
+      "musicAuthor": "Rancid",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851063237ed53d1a93007b9f16e",
+      "musicTitle": "Olympia Wa.",
+      "radio": "Rádio ROCK",
+      "startTime": "21:00"
+    },
+    "recorded_at": "2025-11-07T21:00:36.883672+01:00",
+    "raw_valid": true,
+    "song_session_id": "be5fb541-c34c-4f53-8f19-e7c93e688491"
+  },
+  {
+    "last_update": "2025-11-07 20:04:07",
+    "song": {
+      "musicAuthor": "Audioslave",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851a7292b6863258e889b78d787",
+      "musicTitle": "Cochise",
+      "radio": "Rádio ROCK",
+      "startTime": "21:03"
+    },
+    "recorded_at": "2025-11-07T21:04:07.201834+01:00",
+    "raw_valid": true,
+    "song_session_id": "609b026c-09a5-4020-8945-72dd7c4ed2e5"
+  },
+  {
+    "last_update": "2025-11-07 20:08:37",
+    "song": {
+      "musicAuthor": "Korn",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851ad4ca82999655cfc56c86828",
+      "musicTitle": "A.D.I.D.A.S.",
+      "radio": "Rádio ROCK",
+      "startTime": "21:07"
+    },
+    "recorded_at": "2025-11-07T21:08:37.590636+01:00",
+    "raw_valid": true,
+    "song_session_id": "149cfd60-8cfa-46d8-8950-27bc5b7623a9"
+  },
+  {
+    "last_update": "2025-11-07 20:10:08",
+    "song": {
+      "musicAuthor": "Karpina",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048510799ed47ac3b8cf1f22d9481",
+      "musicTitle": "Prievidza",
+      "radio": "Rádio ROCK",
+      "startTime": "21:10"
+    },
+    "recorded_at": "2025-11-07T21:10:08.870243+01:00",
+    "raw_valid": true,
+    "song_session_id": "d7fede0c-769d-4b1c-8ec9-e2cae1fb4c81"
+  },
+  {
+    "last_update": "2025-11-07 20:16:09",
+    "song": {
+      "musicAuthor": "Arch Enemy",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851dcbd25c605dddb32022cecba",
+      "musicTitle": "Carry The Cross",
+      "radio": "Rádio ROCK",
+      "startTime": "21:16"
+    },
+    "recorded_at": "2025-11-07T21:16:10.612530+01:00",
+    "raw_valid": true,
+    "song_session_id": "1b3e01a5-df97-416c-8606-56f161d839d3"
+  },
+  {
+    "last_update": "2025-11-07 20:20:13",
+    "song": {
+      "musicAuthor": "Five Finger Death Punch",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851021dd6fc31a42ac4e4ab778c",
+      "musicTitle": "Bad Company",
+      "radio": "Rádio ROCK",
+      "startTime": "21:20"
+    },
+    "recorded_at": "2025-11-07T21:20:13.034823+01:00",
+    "raw_valid": true,
+    "song_session_id": "16bb355d-6041-45c4-b24c-a6266a276f2f"
+  },
+  {
+    "last_update": "2025-11-07 20:25:14",
+    "song": {
+      "musicAuthor": "Rammstein",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485102add2c77fb6999e311a3248",
+      "musicTitle": "Deutschland",
+      "radio": "Rádio ROCK",
+      "startTime": "21:24"
+    },
+    "recorded_at": "2025-11-07T21:25:14.955066+01:00",
+    "raw_valid": true,
+    "song_session_id": "4caeddda-84b8-4be6-90dc-5c5d4726ad88"
+  },
+  {
+    "last_update": "2025-11-07 20:30:15",
+    "song": {
+      "musicAuthor": "Ac/Dc",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485104db0e3bcd166c1d6cfd81f9",
+      "musicTitle": "Shot In The Dark",
+      "radio": "Rádio ROCK",
+      "startTime": "21:29"
+    },
+    "recorded_at": "2025-11-07T21:30:16.397378+01:00",
+    "raw_valid": true,
+    "song_session_id": "5903efb0-3683-4762-b60e-f65297fe5005"
+  },
+  {
+    "last_update": "2025-11-07 20:33:16",
+    "song": {
+      "musicAuthor": "Foo Fighters",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048510389027010b78a5e7dce426b",
+      "musicTitle": "Monkey Wrench",
+      "radio": "Rádio ROCK",
+      "startTime": "21:32"
+    },
+    "recorded_at": "2025-11-07T21:33:16.596355+01:00",
+    "raw_valid": true,
+    "song_session_id": "f9d85f23-4c09-4676-a333-26fcfda9f785"
+  },
+  {
+    "last_update": "2025-11-07 20:37:16",
+    "song": {
+      "musicAuthor": "Green Day",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851db89b08034de626ebee6823d",
+      "musicTitle": "Welcome To Paradise",
+      "radio": "Rádio ROCK",
+      "startTime": "21:36"
+    },
+    "recorded_at": "2025-11-07T21:37:16.941070+01:00",
+    "raw_valid": true,
+    "song_session_id": "fe563414-3f8a-4410-8eff-ecb9123079ab"
+  },
+  {
+    "last_update": "2025-11-07 20:41:16",
+    "song": {
+      "musicAuthor": "The Red Hot Chili Peppers",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485194d08ab63e57b0cae74e8595",
+      "musicTitle": "Around The World",
+      "radio": "Rádio ROCK",
+      "startTime": "21:40"
+    },
+    "recorded_at": "2025-11-07T21:41:17.746349+01:00",
+    "raw_valid": true,
+    "song_session_id": "b528b63f-c5ff-48d2-b013-f83f5b01092f"
+  },
+  {
+    "last_update": "2025-11-07 20:45:19",
+    "song": {
+      "musicAuthor": "Metallica",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851668e3aca3167e6e569a9aa20",
+      "musicTitle": "Master Of Puppets",
+      "radio": "Rádio ROCK",
+      "startTime": "21:44"
+    },
+    "recorded_at": "2025-11-07T21:45:19.979762+01:00",
+    "raw_valid": true,
+    "song_session_id": "a684b2de-db6a-4671-b7b4-54ff6b3c45b2"
+  },
+  {
+    "last_update": "2025-11-07 20:53:23",
+    "song": {
+      "musicAuthor": "Mötley Crüe",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048514a009912a0c46ed86461676d",
+      "musicTitle": "Girls, Girls, Girls",
+      "radio": "Rádio ROCK",
+      "startTime": "21:53"
+    },
+    "recorded_at": "2025-11-07T21:53:24.211507+01:00",
+    "raw_valid": true,
+    "song_session_id": "a3e670ff-ba26-40eb-bbd3-56b841fec1f1"
+  },
+  {
+    "last_update": "2025-11-07 20:58:23",
+    "song": {
+      "musicAuthor": "Slipknot",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851e7fbc0883149094912559f2c",
+      "musicTitle": "Psychosocial",
+      "radio": "Rádio ROCK",
+      "startTime": "21:57"
+    },
+    "recorded_at": "2025-11-07T21:58:24.519347+01:00",
+    "raw_valid": true,
+    "song_session_id": "f01ba6c9-7ac7-4532-afaa-c68fb23c96e1"
+  }
+]

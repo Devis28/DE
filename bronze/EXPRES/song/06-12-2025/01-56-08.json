@@ -1,0 +1,414 @@
+[
+  {
+    "song": "Rieka",
+    "artists": [
+      "Richard Muller"
+    ],
+    "isrc": "SKA010109108",
+    "start_time": "2025-12-06 00:57:47",
+    "radio": "expres",
+    "recorded_at": "2025-12-06T00:58:20.071094+01:00",
+    "raw_valid": true,
+    "song_session_id": "525daebd-1404-441d-9fa2-de8820059336"
+  },
+  {
+    "song": "Pride",
+    "artists": [
+      "Felix Jaehn",
+      "Jhart"
+    ],
+    "isrc": "DEUM72503423",
+    "start_time": "2025-12-06 01:01:12",
+    "radio": "expres",
+    "recorded_at": "2025-12-06T01:01:42.959612+01:00",
+    "raw_valid": true,
+    "song_session_id": "d480c987-b07f-4bbf-bdce-052e90792d6c"
+  },
+  {
+    "song": "Dobry Den To Som Ja",
+    "artists": [
+      "Sima Martausova"
+    ],
+    "isrc": "SKG081300109",
+    "start_time": "2025-12-06 01:04:02",
+    "radio": "expres",
+    "recorded_at": "2025-12-06T01:04:25.209038+01:00",
+    "raw_valid": true,
+    "song_session_id": "b5233c77-fdaf-4d39-9e9a-0a1014aba988"
+  },
+  {
+    "song": "Afterlife",
+    "artists": [
+      "Michael Schulte"
+    ],
+    "isrc": "DECE72500509",
+    "start_time": "2025-12-06 01:07:29",
+    "radio": "expres",
+    "recorded_at": "2025-12-06T01:07:48.027666+01:00",
+    "raw_valid": true,
+    "song_session_id": "bb0d5b95-2f12-4f17-84f5-a9922399f012"
+  },
+  {
+    "song": "Laska",
+    "artists": [
+      "Gladiator"
+    ],
+    "isrc": "CZA210000409",
+    "start_time": "2025-12-06 01:10:09",
+    "radio": "expres",
+    "recorded_at": "2025-12-06T01:10:30.280522+01:00",
+    "raw_valid": true,
+    "song_session_id": "e9ab861e-ffee-4a8a-ba8d-609c59c16d3f"
+  },
+  {
+    "song": "Unstoppable",
+    "artists": [
+      "Sia"
+    ],
+    "isrc": "USRC11502934",
+    "start_time": "2025-12-06 01:14:16",
+    "radio": "expres",
+    "recorded_at": "2025-12-06T01:14:33.585547+01:00",
+    "raw_valid": true,
+    "song_session_id": "588d6d9f-12a6-43ff-8db8-4387f68f3d36"
+  },
+  {
+    "song": "Ta Ktorej Niet",
+    "artists": [
+      "Imt Smile"
+    ],
+    "isrc": "SKA011000002",
+    "start_time": "2025-12-06 01:17:44",
+    "radio": "expres",
+    "recorded_at": "2025-12-06T01:18:16.769879+01:00",
+    "raw_valid": true,
+    "song_session_id": "cfa3241e-c623-4505-9e6b-0c80a6f1e987"
+  },
+  {
+    "song": "Man I Need",
+    "artists": [
+      "Olivia Dean"
+    ],
+    "isrc": "GBUM72503089",
+    "start_time": "2025-12-06 01:22:25",
+    "radio": "expres",
+    "recorded_at": "2025-12-06T01:23:00.581301+01:00",
+    "raw_valid": true,
+    "song_session_id": "e8745201-575b-4c0a-b12c-782b21244f7b"
+  },
+  {
+    "song": "Houdini",
+    "artists": [
+      "Dua Lipa"
+    ],
+    "isrc": "GBAHT2301246",
+    "start_time": "2025-12-06 01:25:39",
+    "radio": "expres",
+    "recorded_at": "2025-12-06T01:26:03.132317+01:00",
+    "raw_valid": true,
+    "song_session_id": "5009f557-f2ac-4281-9da5-70f25e4c95fd"
+  },
+  {
+    "song": "Vianocny Cas",
+    "artists": [
+      "Emma Drobna"
+    ],
+    "isrc": "SKB452300101",
+    "start_time": "2025-12-06 01:28:49",
+    "radio": "expres",
+    "recorded_at": "2025-12-06T01:29:05.651011+01:00",
+    "raw_valid": true,
+    "song_session_id": "7518d3dd-fd44-4546-8d44-6c36363a310f"
+  },
+  {
+    "song": "The Fate Of Ophelia",
+    "artists": [
+      "Taylor Swift"
+    ],
+    "isrc": "USUG12506436",
+    "start_time": "2025-12-06 01:31:50",
+    "radio": "expres",
+    "recorded_at": "2025-12-06T01:32:08.145707+01:00",
+    "raw_valid": true,
+    "song_session_id": "31bfa166-7b09-42db-bc28-66b26464b987"
+  },
+  {
+    "song": "Kralovna Bielych Tenisiek",
+    "artists": [
+      "Elan"
+    ],
+    "isrc": "SKA128562210",
+    "start_time": "2025-12-06 01:35:32",
+    "radio": "expres",
+    "recorded_at": "2025-12-06T01:35:56.332001+01:00",
+    "raw_valid": true,
+    "song_session_id": "c5d02d7f-2ab6-43f2-a441-5f88a6923d3a"
+  },
+  {
+    "song": "Enjoy The Silence",
+    "artists": [
+      "Depeche Mode"
+    ],
+    "isrc": "GBAJH0400045",
+    "start_time": "2025-12-06 01:39:02",
+    "radio": "expres",
+    "recorded_at": "2025-12-06T01:39:34.765053+01:00",
+    "raw_valid": true,
+    "song_session_id": "dae55491-197e-440a-b7b6-385a69e64464"
+  },
+  {
+    "song": "Mam Rad",
+    "artists": [
+      "Miro Zbirka"
+    ],
+    "isrc": "SKA010110109",
+    "start_time": "2025-12-06 01:43:29",
+    "radio": "expres",
+    "recorded_at": "2025-12-06T01:44:03.444598+01:00",
+    "raw_valid": true,
+    "song_session_id": "e09a7c03-63ca-4462-b065-9e9fb4a1ee82"
+  },
+  {
+    "song": "Glide",
+    "artists": [
+      "Neiked",
+      "Portugal The Man"
+    ],
+    "isrc": "DEE862500421",
+    "start_time": "2025-12-06 01:46:20",
+    "radio": "expres",
+    "recorded_at": "2025-12-06T01:46:40.600567+01:00",
+    "raw_valid": true,
+    "song_session_id": "dc9452fa-821a-41b8-9379-0eb97e7e4b7c"
+  },
+  {
+    "song": "Zober Ma Domov",
+    "artists": [
+      "Desmod"
+    ],
+    "isrc": "SKA010700118",
+    "start_time": "2025-12-06 01:49:22",
+    "radio": "expres",
+    "recorded_at": "2025-12-06T01:49:43.109187+01:00",
+    "raw_valid": true,
+    "song_session_id": "ea900b5c-2d19-4b35-b2cd-77e997567fa1"
+  },
+  {
+    "song": "Wonderful Dream (Holidays Are Coming)",
+    "artists": [
+      "Melanie Thornton"
+    ],
+    "isrc": "DEE860100979",
+    "start_time": "2025-12-06 01:54:08",
+    "radio": "expres",
+    "recorded_at": "2025-12-06T01:54:26.945534+01:00",
+    "raw_valid": true,
+    "song_session_id": "21e01509-4c13-40f3-9072-04401128123d"
+  },
+  {
+    "song": "Co To Znamena",
+    "artists": [
+      "Peter Cmorik"
+    ],
+    "isrc": "CZA210700798",
+    "start_time": "2025-12-06 01:57:58",
+    "radio": "expres",
+    "recorded_at": "2025-12-06T01:58:35.379198+01:00",
+    "raw_valid": true,
+    "song_session_id": "4921d556-afb6-4549-ae0a-309a9a61b617"
+  },
+  {
+    "song": "Espresso",
+    "artists": [
+      "Sabrina Carpenter"
+    ],
+    "isrc": "USUM72403305",
+    "start_time": "2025-12-06 02:01:45",
+    "radio": "expres",
+    "recorded_at": "2025-12-06T02:02:13.377757+01:00",
+    "raw_valid": true,
+    "song_session_id": "4ef4f0f1-3c10-404b-9f21-15fdf4295cc1"
+  },
+  {
+    "song": "Sadni Si Mi Na Kolena",
+    "artists": [
+      "Le Payaco"
+    ],
+    "isrc": "SKA831307005",
+    "start_time": "2025-12-06 02:04:46",
+    "radio": "expres",
+    "recorded_at": "2025-12-06T02:05:16.019110+01:00",
+    "raw_valid": true,
+    "song_session_id": "540b6184-5b6b-4bb2-97b6-77e4274e5eeb"
+  },
+  {
+    "song": "Regalo",
+    "artists": [
+      "Alvaro Soler"
+    ],
+    "isrc": "DEE862500388",
+    "start_time": "2025-12-06 02:06:51",
+    "radio": "expres",
+    "recorded_at": "2025-12-06T02:07:17.780817+01:00",
+    "raw_valid": true,
+    "song_session_id": "bae8168a-a055-4dc8-b9b9-73aae524f730"
+  },
+  {
+    "song": "Oteckovia",
+    "artists": [
+      "Hex"
+    ],
+    "isrc": "SKC751700201",
+    "start_time": "2025-12-06 02:09:56",
+    "radio": "expres",
+    "recorded_at": "2025-12-06T02:10:20.264919+01:00",
+    "raw_valid": true,
+    "song_session_id": "18e9482f-f7b6-43f3-a5a7-7ad08e3940ca"
+  },
+  {
+    "song": "Left Outside Alone",
+    "artists": [
+      "Anastacia"
+    ],
+    "isrc": "USSM10400150",
+    "start_time": "2025-12-06 02:13:24",
+    "radio": "expres",
+    "recorded_at": "2025-12-06T02:13:43.008922+01:00",
+    "raw_valid": true,
+    "song_session_id": "a8c0ada4-eac4-4fd7-9608-0257c5b881db"
+  },
+  {
+    "song": "Vietor",
+    "artists": [
+      "Adam Durica"
+    ],
+    "isrc": "SKA012300351",
+    "start_time": "2025-12-06 02:17:04",
+    "radio": "expres",
+    "recorded_at": "2025-12-06T02:17:31.094772+01:00",
+    "raw_valid": true,
+    "song_session_id": "099d804e-cf21-4313-b3f5-fe51bcd74bc0"
+  },
+  {
+    "song": "Love Me Not",
+    "artists": [
+      "Ravyn Lenae"
+    ],
+    "isrc": "USAT22401137",
+    "start_time": "2025-12-06 02:20:36",
+    "radio": "expres",
+    "recorded_at": "2025-12-06T02:21:14.521982+01:00",
+    "raw_valid": true,
+    "song_session_id": "ee2c2c2a-ea74-42ca-bcb7-13e91a9981d4"
+  },
+  {
+    "song": "Srdce Nehasnou",
+    "artists": [
+      "Karel Gott",
+      "Charlotte Ella Gottova"
+    ],
+    "isrc": "CZA161900335",
+    "start_time": "2025-12-06 02:24:01",
+    "radio": "expres",
+    "recorded_at": "2025-12-06T02:24:37.450303+01:00",
+    "raw_valid": true,
+    "song_session_id": "f1341fb6-d328-4dde-a02a-9b01168a85c9"
+  },
+  {
+    "song": "Too Sweet",
+    "artists": [
+      "Hozier"
+    ],
+    "isrc": "IEACJ2300335",
+    "start_time": "2025-12-06 02:27:57",
+    "radio": "expres",
+    "recorded_at": "2025-12-06T02:28:15.389816+01:00",
+    "raw_valid": true,
+    "song_session_id": "c7681406-4e32-49d2-9808-2171edf1e3a6"
+  },
+  {
+    "song": "Be Mine",
+    "artists": [
+      "Kamrad"
+    ],
+    "isrc": "DE1NJ2500035",
+    "start_time": "2025-12-06 02:32:54",
+    "radio": "expres",
+    "recorded_at": "2025-12-06T02:33:19.542746+01:00",
+    "raw_valid": true,
+    "song_session_id": "3104f2bf-1496-493c-b638-6345f2ee2a35"
+  },
+  {
+    "song": "Hej Sokoly!",
+    "artists": [
+      "Imt Smile",
+      "Ondrej Kandrac"
+    ],
+    "isrc": "SKA011700036",
+    "start_time": "2025-12-06 02:35:31",
+    "radio": "expres",
+    "recorded_at": "2025-12-06T02:36:02.243930+01:00",
+    "raw_valid": true,
+    "song_session_id": "548d1dd9-d980-40a9-9b6c-02dc0ac61b78"
+  },
+  {
+    "song": "Leave A Light On",
+    "artists": [
+      "Belinda Carlisle"
+    ],
+    "isrc": "GBAAA8900043",
+    "start_time": "2025-12-06 02:38:31",
+    "radio": "expres",
+    "recorded_at": "2025-12-06T02:39:09.899002+01:00",
+    "raw_valid": true,
+    "song_session_id": "995a9f7e-eb1a-4e51-9401-16462a180849"
+  },
+  {
+    "song": "Domino",
+    "artists": [
+      "Nocaden"
+    ],
+    "isrc": "SKG971900106",
+    "start_time": "2025-12-06 02:42:54",
+    "radio": "expres",
+    "recorded_at": "2025-12-06T02:43:33.405116+01:00",
+    "raw_valid": true,
+    "song_session_id": "8f72267b-c6df-4787-95d3-b7f412c43623"
+  },
+  {
+    "song": "Zoo",
+    "artists": [
+      "Shakira"
+    ],
+    "isrc": "USWD12538420",
+    "start_time": "2025-12-06 02:46:38",
+    "radio": "expres",
+    "recorded_at": "2025-12-06T02:47:11.435250+01:00",
+    "raw_valid": true,
+    "song_session_id": "6bb052e9-70b3-4aa2-83fa-444bfc9caef1"
+  },
+  {
+    "song": "Van Goghovo Ucho",
+    "artists": [
+      "Elan"
+    ],
+    "isrc": "SKA128912910",
+    "start_time": "2025-12-06 02:50:16",
+    "radio": "expres",
+    "recorded_at": "2025-12-06T02:50:39.315703+01:00",
+    "raw_valid": true,
+    "song_session_id": "e59f6cdc-932e-4826-85a1-27a8e1580094"
+  },
+  {
+    "song": "Driving Home For Christmas",
+    "artists": [
+      "Chris Rea"
+    ],
+    "isrc": "GBAHS9904091",
+    "start_time": "2025-12-06 02:55:25",
+    "radio": "expres",
+    "recorded_at": "2025-12-06T02:55:58.581173+01:00",
+    "raw_valid": true,
+    "song_session_id": "3f29ab45-b7f4-4e6f-a99d-5e5e99567378"
+  }
+]

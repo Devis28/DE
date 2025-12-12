@@ -1,0 +1,371 @@
+[
+  {
+    "song": "Stoj",
+    "artists": [
+      "Peter Bic Project"
+    ],
+    "isrc": "SKA011900107",
+    "start_time": "2025-12-05 04:56:32",
+    "radio": "expres",
+    "recorded_at": "2025-12-05T04:56:59.414092+01:00",
+    "raw_valid": true,
+    "song_session_id": "9d379c93-3cfa-4f84-bca5-a369362bd4dc"
+  },
+  {
+    "song": "Ray Of Light",
+    "artists": [
+      "Nico Santos"
+    ],
+    "isrc": "DECE72402394",
+    "start_time": "2025-12-05 05:01:36",
+    "radio": "expres",
+    "recorded_at": "2025-12-05T05:02:03.751871+01:00",
+    "raw_valid": true,
+    "song_session_id": "19436763-301a-40cb-ae87-a31aa1a457a1"
+  },
+  {
+    "song": "Verim",
+    "artists": [
+      "Katarina Knechtova"
+    ],
+    "isrc": "SKA012200135",
+    "start_time": "2025-12-05 05:04:39",
+    "radio": "expres",
+    "recorded_at": "2025-12-05T05:05:01.317651+01:00",
+    "raw_valid": true,
+    "song_session_id": "48e1eb90-75b5-48b7-b3e2-e90992cf98e6"
+  },
+  {
+    "song": "The Fate Of Ophelia",
+    "artists": [
+      "Taylor Swift"
+    ],
+    "isrc": "USUG12506436",
+    "start_time": "2025-12-05 05:08:06",
+    "radio": "expres",
+    "recorded_at": "2025-12-05T05:08:24.213690+01:00",
+    "raw_valid": true,
+    "song_session_id": "aa6f8150-7968-47b0-9d82-6fba21008263"
+  },
+  {
+    "song": "Po Com Zeny Tuzia",
+    "artists": [
+      "Robo Opatovsky",
+      "Marian Cekovsky"
+    ],
+    "isrc": "SKC252301807",
+    "start_time": "2025-12-05 05:11:58",
+    "radio": "expres",
+    "recorded_at": "2025-12-05T05:12:07.485946+01:00",
+    "raw_valid": true,
+    "song_session_id": "3f3afc98-a306-4a1f-8da1-9161bf4245fd"
+  },
+  {
+    "song": "Broken Sunshine",
+    "artists": [
+      "Michael Schulte"
+    ],
+    "isrc": "DECE72402375",
+    "start_time": "2025-12-05 05:15:28",
+    "radio": "expres",
+    "recorded_at": "2025-12-05T05:15:50.796114+01:00",
+    "raw_valid": true,
+    "song_session_id": "26cf8309-f4d7-48a4-a035-a28d5c6ba15c"
+  },
+  {
+    "song": "Kto Vie",
+    "artists": [
+      "Maria Cirova",
+      "Peter Bazik"
+    ],
+    "isrc": "SKK871700105",
+    "start_time": "2025-12-05 05:18:29",
+    "radio": "expres",
+    "recorded_at": "2025-12-05T05:18:48.566136+01:00",
+    "raw_valid": true,
+    "song_session_id": "1409b475-0ebd-4fe1-af67-f059a87724ad"
+  },
+  {
+    "song": "Love Me Not",
+    "artists": [
+      "Ravyn Lenae"
+    ],
+    "isrc": "USAT22401137",
+    "start_time": "2025-12-05 05:22:09",
+    "radio": "expres",
+    "recorded_at": "2025-12-05T05:22:31.740635+01:00",
+    "raw_valid": true,
+    "song_session_id": "1aab31b5-ee2a-4f5e-8ac3-be67e84cc5fa"
+  },
+  {
+    "song": "Iris",
+    "artists": [
+      "Goo Goo Dolls"
+    ],
+    "isrc": "USWB19800160",
+    "start_time": "2025-12-05 05:25:23",
+    "radio": "expres",
+    "recorded_at": "2025-12-05T05:25:34.404865+01:00",
+    "raw_valid": true,
+    "song_session_id": "7ac41603-34c3-4783-9f4e-8bbc5564ee29"
+  },
+  {
+    "song": "Vianocny Cas",
+    "artists": [
+      "Emma Drobna"
+    ],
+    "isrc": "SKB452300101",
+    "start_time": "2025-12-05 05:28:02",
+    "radio": "expres",
+    "recorded_at": "2025-12-05T05:28:16.727270+01:00",
+    "raw_valid": true,
+    "song_session_id": "5c79767c-0fdb-4ce0-8ed6-0c6fd6bf7674"
+  },
+  {
+    "song": "Regalo",
+    "artists": [
+      "Alvaro Soler"
+    ],
+    "isrc": "DEE862500388",
+    "start_time": "2025-12-05 05:31:24",
+    "radio": "expres",
+    "recorded_at": "2025-12-05T05:31:39.644592+01:00",
+    "raw_valid": true,
+    "song_session_id": "0c51b871-5a0c-4003-a06f-9f91e3882788"
+  },
+  {
+    "song": "Mam Pocit",
+    "artists": [
+      "Peter Cmorik"
+    ],
+    "isrc": "CZA210600429",
+    "start_time": "2025-12-05 05:34:31",
+    "radio": "expres",
+    "recorded_at": "2025-12-05T05:34:57.565614+01:00",
+    "raw_valid": true,
+    "song_session_id": "6208f4cc-dcf9-4d40-80bc-88bc4aec585a"
+  },
+  {
+    "song": "We Are The World",
+    "artists": [
+      "Usa For Africa",
+      "Michael Jackson"
+    ],
+    "isrc": "QMFMF2530606",
+    "start_time": "2025-12-05 05:38:42",
+    "radio": "expres",
+    "recorded_at": "2025-12-05T05:39:01.039183+01:00",
+    "raw_valid": true,
+    "song_session_id": "c46c31c1-4136-4178-8ffd-0d443bce4e8a"
+  },
+  {
+    "song": "Make Me",
+    "artists": [
+      "Celeste Buckingham"
+    ],
+    "isrc": "QMQNX2201801",
+    "start_time": "2025-12-05 05:43:41",
+    "radio": "expres",
+    "recorded_at": "2025-12-05T05:44:00.280512+01:00",
+    "raw_valid": true,
+    "song_session_id": "5fbf06a9-c09e-42aa-b2fb-3b758badbdb6"
+  },
+  {
+    "song": "Bad Romance",
+    "artists": [
+      "Lady Gaga"
+    ],
+    "isrc": "USUM70918596",
+    "start_time": "2025-12-05 05:47:35",
+    "radio": "expres",
+    "recorded_at": "2025-12-05T05:47:43.510494+01:00",
+    "raw_valid": true,
+    "song_session_id": "973cde4d-1976-49e1-ac7a-a76391cf78fd"
+  },
+  {
+    "song": "Vsetko Bude Dobre",
+    "artists": [
+      "Gladiator"
+    ],
+    "isrc": "SKCM72560001",
+    "start_time": "2025-12-05 05:51:53",
+    "radio": "expres",
+    "recorded_at": "2025-12-05T05:52:07.145876+01:00",
+    "raw_valid": true,
+    "song_session_id": "e7d17b1e-4022-49e2-8442-55e1030c6a38"
+  },
+  {
+    "song": "Dive",
+    "artists": [
+      "Lost Frequencies",
+      "Tom Gregory"
+    ],
+    "isrc": "BEHP42300028",
+    "start_time": "2025-12-05 05:54:51",
+    "radio": "expres",
+    "recorded_at": "2025-12-05T05:55:04.781257+01:00",
+    "raw_valid": true,
+    "song_session_id": "c069882a-18a8-423d-91f1-215f2db83c97"
+  },
+  {
+    "song": "Spolu",
+    "artists": [
+      "Adam Durica"
+    ],
+    "isrc": "SKA011600001",
+    "start_time": "2025-12-05 05:57:28",
+    "radio": "expres",
+    "recorded_at": "2025-12-05T05:57:47.226032+01:00",
+    "raw_valid": true,
+    "song_session_id": "758fcbbd-3494-4f3e-8347-6f4213a7dd7f"
+  },
+  {
+    "song": "Be Mine",
+    "artists": [
+      "Kamrad"
+    ],
+    "isrc": "DE1NJ2500035",
+    "start_time": "2025-12-05 06:07:18",
+    "radio": "expres",
+    "recorded_at": "2025-12-05T06:07:29.870363+01:00",
+    "raw_valid": true,
+    "song_session_id": "6aaa60f8-d0f9-4603-8de3-ff16f9498683"
+  },
+  {
+    "song": "Be Mine",
+    "artists": [
+      "Kamrad"
+    ],
+    "isrc": "DE1NJ2500035",
+    "start_time": "2025-12-05 06:07:18",
+    "radio": "expres",
+    "recorded_at": "2025-12-05T06:08:35.202686+01:00",
+    "raw_valid": true,
+    "song_session_id": "180e0bd3-1d79-4168-9cd7-15e6f4f53114"
+  },
+  {
+    "song": "Do They Know Its Christmas?",
+    "artists": [
+      "Band Aid"
+    ],
+    "isrc": "GBF088400001",
+    "start_time": "2025-12-05 06:10:03",
+    "radio": "expres",
+    "recorded_at": "2025-12-05T06:10:11.743778+01:00",
+    "raw_valid": true,
+    "song_session_id": "60810db7-5b59-4cd8-8ad7-83f8f9adc286"
+  },
+  {
+    "song": "Belong Together",
+    "artists": [
+      "Mark Ambor"
+    ],
+    "isrc": "QM24S2400638",
+    "start_time": "2025-12-05 06:15:11",
+    "radio": "expres",
+    "recorded_at": "2025-12-05T06:15:31.151044+01:00",
+    "raw_valid": true,
+    "song_session_id": "1eedae3e-1b39-4751-984a-7599b934dea2"
+  },
+  {
+    "song": "Unstoppable",
+    "artists": [
+      "Sia"
+    ],
+    "isrc": "USRC11502934",
+    "start_time": "2025-12-05 06:17:41",
+    "radio": "expres",
+    "recorded_at": "2025-12-05T06:17:53.270291+01:00",
+    "raw_valid": true,
+    "song_session_id": "ba711627-7580-45f0-b1c3-525ef2cf6015"
+  },
+  {
+    "song": "All I Know",
+    "artists": [
+      "Rudimental",
+      "Khalid"
+    ],
+    "isrc": "GBARL2500365",
+    "start_time": "2025-12-05 06:25:14",
+    "radio": "expres",
+    "recorded_at": "2025-12-05T06:25:34.533214+01:00",
+    "raw_valid": true,
+    "song_session_id": "fceb346d-e2cd-455c-a36d-2915aec81aba"
+  },
+  {
+    "song": "Blink Twice",
+    "artists": [
+      "Shaboozey",
+      "Myles Smith"
+    ],
+    "isrc": "USUYG1717098",
+    "start_time": "2025-12-05 06:28:13",
+    "radio": "expres",
+    "recorded_at": "2025-12-05T06:28:37.287505+01:00",
+    "raw_valid": true,
+    "song_session_id": "cc0cb156-7bb6-45a0-931e-61fe96777b6a"
+  },
+  {
+    "song": "You Get What You Give",
+    "artists": [
+      "New Radicals"
+    ],
+    "isrc": "USMC19858327",
+    "start_time": "2025-12-05 06:31:58",
+    "radio": "expres",
+    "recorded_at": "2025-12-05T06:32:15.471330+01:00",
+    "raw_valid": true,
+    "song_session_id": "bfc9344a-2d22-4c85-9c87-ea7f342a54ce"
+  },
+  {
+    "song": "World Gone Wild",
+    "artists": [
+      "Robin Schulz",
+      "Cyril",
+      "Sam Martin"
+    ],
+    "isrc": "DEA622403329",
+    "start_time": "2025-12-05 06:36:47",
+    "radio": "expres",
+    "recorded_at": "2025-12-05T06:36:59.470662+01:00",
+    "raw_valid": true,
+    "song_session_id": "405984c9-b8d1-4bcc-9e4c-ba1f26eb961e"
+  },
+  {
+    "song": "This Is What It Feels Like",
+    "artists": [
+      "Armin Van Buuren"
+    ],
+    "isrc": "NLF711303312",
+    "start_time": "2025-12-05 06:43:18",
+    "radio": "expres",
+    "recorded_at": "2025-12-05T06:43:40.001036+01:00",
+    "raw_valid": true,
+    "song_session_id": "83b2ba22-71b7-4624-b28b-93831a608f9c"
+  },
+  {
+    "song": "The One",
+    "artists": [
+      "Michael Patrick Kelly"
+    ],
+    "isrc": "DEE862500476",
+    "start_time": "2025-12-05 06:46:42",
+    "radio": "expres",
+    "recorded_at": "2025-12-05T06:46:57.890051+01:00",
+    "raw_valid": true,
+    "song_session_id": "ae8e264a-4eee-4324-aa03-723695325473"
+  },
+  {
+    "song": "Where Is The Love?",
+    "artists": [
+      "Black Eyed Peas",
+      "Justin Timberlake"
+    ],
+    "isrc": "USIR10311862",
+    "start_time": "2025-12-05 06:52:06",
+    "radio": "expres",
+    "recorded_at": "2025-12-05T06:52:22.461053+01:00",
+    "raw_valid": true,
+    "song_session_id": "e5d19e96-2f57-420d-8c56-9a5d19e5978f"
+  }
+]

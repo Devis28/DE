@@ -1,0 +1,35 @@
+[
+  {
+    "station": "Rádio Melody",
+    "title": "Thriller",
+    "artist": "Jackson Michael",
+    "date": "02.11.2025",
+    "time": "22:21",
+    "last_update": "02.11.2025 22:22:28",
+    "recorded_at": "02.11.2025 22:22:28",
+    "raw_valid": true,
+    "song_session_id": "9c62a0e0-4f38-4b00-ab8c-9b7f41e1383d"
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Moi...Lolita",
+    "artist": "Alizee",
+    "date": "02.11.2025",
+    "time": "22:25",
+    "last_update": "02.11.2025 22:26:30",
+    "recorded_at": "02.11.2025 22:26:30",
+    "raw_valid": true,
+    "song_session_id": "ce6b3e2c-b40e-41cb-8114-d794ceb8cc11"
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Blue Savannah",
+    "artist": "Erasure",
+    "date": "02.11.2025",
+    "time": "22:29",
+    "last_update": "02.11.2025 22:30:16",
+    "recorded_at": "02.11.2025 22:30:16",
+    "raw_valid": true,
+    "song_session_id": "73529f33-b347-44b8-a1ee-18350779cd8a"
+  }
+]

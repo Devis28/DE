@@ -1,0 +1,414 @@
+[
+  {
+    "song": "The One",
+    "artists": [
+      "Michael Patrick Kelly"
+    ],
+    "isrc": "DEE862500476",
+    "start_time": "2025-11-10 04:02:02",
+    "radio": "expres",
+    "recorded_at": "2025-11-10T04:02:39.139703+01:00",
+    "raw_valid": true,
+    "song_session_id": "aa1803f3-0484-4879-893a-f49e138b7359"
+  },
+  {
+    "song": "Laska Drz Ma Nad Hladinou",
+    "artists": [
+      "Tublatanka"
+    ],
+    "isrc": "SKA128810305",
+    "start_time": "2025-11-10 04:05:11",
+    "radio": "expres",
+    "recorded_at": "2025-11-10T04:05:26.868923+01:00",
+    "raw_valid": true,
+    "song_session_id": "dde7db0f-4429-42ae-b234-d738642214ce"
+  },
+  {
+    "song": "By Your Side (In My Mind)",
+    "artists": [
+      "Leony"
+    ],
+    "isrc": "DEN062400804",
+    "start_time": "2025-11-10 04:08:29",
+    "radio": "expres",
+    "recorded_at": "2025-11-10T04:08:56.107020+01:00",
+    "raw_valid": true,
+    "song_session_id": "bfe45c30-d2d5-415b-8920-b52e1a921f7e"
+  },
+  {
+    "song": "Hlava",
+    "artists": [
+      "Peter Bic Project"
+    ],
+    "isrc": "SKA012100207",
+    "start_time": "2025-11-10 04:11:28",
+    "radio": "expres",
+    "recorded_at": "2025-11-10T04:11:38.683075+01:00",
+    "raw_valid": true,
+    "song_session_id": "37aeb9f7-e096-421b-8b7d-367d42821f7c"
+  },
+  {
+    "song": "O Blaznech",
+    "artists": [
+      "Michal Penk"
+    ],
+    "isrc": "CZA549200308",
+    "start_time": "2025-11-10 04:14:30",
+    "radio": "expres",
+    "recorded_at": "2025-11-10T04:14:43.301657+01:00",
+    "raw_valid": true,
+    "song_session_id": "3cf9b8d9-7d15-45b1-be96-5f83326f8020"
+  },
+  {
+    "song": "Medzi Nebom A Zenou",
+    "artists": [
+      "Banket",
+      "Richard Muller",
+      "Ema Muller"
+    ],
+    "isrc": "SKC362500009",
+    "start_time": "2025-11-10 04:19:00",
+    "radio": "expres",
+    "recorded_at": "2025-11-10T04:19:22.718219+01:00",
+    "raw_valid": true,
+    "song_session_id": "66a7560e-3ecd-488e-9fe8-9bbb1dbc0c18"
+  },
+  {
+    "song": "Lay Low",
+    "artists": [
+      "Tiesto"
+    ],
+    "isrc": "NLZ542202348",
+    "start_time": "2025-11-10 04:23:05",
+    "radio": "expres",
+    "recorded_at": "2025-11-10T04:23:29.523906+01:00",
+    "raw_valid": true,
+    "song_session_id": "e46fee9e-e3bb-45e4-a301-30b05486bb7d"
+  },
+  {
+    "song": "Bosy A Sam",
+    "artists": [
+      "Robo Grigorov"
+    ],
+    "isrc": "GBBPW2501549",
+    "start_time": "2025-11-10 04:25:39",
+    "radio": "expres",
+    "recorded_at": "2025-11-10T04:25:52.637441+01:00",
+    "raw_valid": true,
+    "song_session_id": "384770d8-675b-4ab6-b9e7-5ce17e023c37"
+  },
+  {
+    "song": "Safe And Sound",
+    "artists": [
+      "Capital Cities"
+    ],
+    "isrc": "TCABD1246970",
+    "start_time": "2025-11-10 04:29:37",
+    "radio": "expres",
+    "recorded_at": "2025-11-10T04:30:05.368411+01:00",
+    "raw_valid": true,
+    "song_session_id": "ccd34ccf-f22e-4627-98d7-0663776bda66"
+  },
+  {
+    "song": "Glide",
+    "artists": [
+      "Neiked",
+      "Portugal The Man"
+    ],
+    "isrc": "DEE862500421",
+    "start_time": "2025-11-10 04:32:55",
+    "radio": "expres",
+    "recorded_at": "2025-11-10T04:33:13.270179+01:00",
+    "raw_valid": true,
+    "song_session_id": "ef52e780-1023-48e8-8f53-891c1484d835"
+  },
+  {
+    "song": "Pri Oltari",
+    "artists": [
+      "Kristina"
+    ],
+    "isrc": "SKA011000102",
+    "start_time": "2025-11-10 04:35:56",
+    "radio": "expres",
+    "recorded_at": "2025-11-10T04:36:29.184515+01:00",
+    "raw_valid": true,
+    "song_session_id": "9b205689-cb60-4a47-98df-a6600cdf7b93"
+  },
+  {
+    "song": "I See Fire",
+    "artists": [
+      "Ed Sheeran"
+    ],
+    "isrc": "GBAHS1400104",
+    "start_time": "2025-11-10 04:39:40",
+    "radio": "expres",
+    "recorded_at": "2025-11-10T04:40:04.767989+01:00",
+    "raw_valid": true,
+    "song_session_id": "a2b3141e-be0b-4fb9-a033-23e902847a91"
+  },
+  {
+    "song": "Vsetky Oci Na Mne",
+    "artists": [
+      "Majk Spirit"
+    ],
+    "isrc": "FRX202201096",
+    "start_time": "2025-11-10 04:44:07",
+    "radio": "expres",
+    "recorded_at": "2025-11-10T04:44:28.823968+01:00",
+    "raw_valid": true,
+    "song_session_id": "aabff6b1-d43c-42b8-ab28-9face8527414"
+  },
+  {
+    "song": "Golden",
+    "artists": [
+      "Kpop Demon Hunters"
+    ],
+    "isrc": "QZ8BZ2513510",
+    "start_time": "2025-11-10 04:47:29",
+    "radio": "expres",
+    "recorded_at": "2025-11-10T04:47:55.207285+01:00",
+    "raw_valid": true,
+    "song_session_id": "faa74cbd-b2d7-48fc-a960-064ad6881517"
+  },
+  {
+    "song": "Kapela",
+    "artists": [
+      "Imt Smile"
+    ],
+    "isrc": "SKA010400077",
+    "start_time": "2025-11-10 04:50:11",
+    "radio": "expres",
+    "recorded_at": "2025-11-10T04:50:44.963187+01:00",
+    "raw_valid": true,
+    "song_session_id": "cf596ba0-86ce-4169-ae8e-d748446d7f08"
+  },
+  {
+    "song": "Because Of You",
+    "artists": [
+      "Kelly Clarkson"
+    ],
+    "isrc": "GBCTA0400265",
+    "start_time": "2025-11-10 04:53:50",
+    "radio": "expres",
+    "recorded_at": "2025-11-10T04:54:05.666802+01:00",
+    "raw_valid": true,
+    "song_session_id": "6d656f1c-5179-4548-9d8b-a266f104e49f"
+  },
+  {
+    "song": "Ty Ja A Moj Brat (Sklicka Dotykov)",
+    "artists": [
+      "Modus"
+    ],
+    "isrc": "FRX202409019",
+    "start_time": "2025-11-10 04:57:29",
+    "radio": "expres",
+    "recorded_at": "2025-11-10T04:57:44.536775+01:00",
+    "raw_valid": true,
+    "song_session_id": "79e7cf7e-d1ea-4713-aaba-32dfcc621f57"
+  },
+  {
+    "song": "Never Look Back",
+    "artists": [
+      "Tom Gregory"
+    ],
+    "isrc": "DEE862300498",
+    "start_time": "2025-11-10 05:01:22",
+    "radio": "expres",
+    "recorded_at": "2025-11-10T05:01:48.934288+01:00",
+    "raw_valid": true,
+    "song_session_id": "31aa1f29-ebc7-4d7c-bdae-fb2ec5739f01"
+  },
+  {
+    "song": "Dazd",
+    "artists": [
+      "Peter Cmorik"
+    ],
+    "isrc": "CZA210600280",
+    "start_time": "2025-11-10 05:04:03",
+    "radio": "expres",
+    "recorded_at": "2025-11-10T05:04:41.310802+01:00",
+    "raw_valid": true,
+    "song_session_id": "e60be910-5a96-40fe-8fb0-dfa3ec774184"
+  },
+  {
+    "song": "Regalo",
+    "artists": [
+      "Alvaro Soler"
+    ],
+    "isrc": "DEE862500388",
+    "start_time": "2025-11-10 05:08:46",
+    "radio": "expres",
+    "recorded_at": "2025-11-10T05:08:55.204945+01:00",
+    "raw_valid": true,
+    "song_session_id": "be648335-fdc1-4591-afd6-a40780560fda"
+  },
+  {
+    "song": "V Nas",
+    "artists": [
+      "Nocaden"
+    ],
+    "isrc": "CZA231500032",
+    "start_time": "2025-11-10 05:11:51",
+    "radio": "expres",
+    "recorded_at": "2025-11-10T05:12:25.338148+01:00",
+    "raw_valid": true,
+    "song_session_id": "5034df7a-ed27-4cea-a388-81e02d5510b4"
+  },
+  {
+    "song": "Waka Waka (This Time For Africa)",
+    "artists": [
+      "Shakira",
+      "Freshlyground"
+    ],
+    "isrc": "USSM11001353",
+    "start_time": "2025-11-10 05:15:32",
+    "radio": "expres",
+    "recorded_at": "2025-11-10T05:15:46.320259+01:00",
+    "raw_valid": true,
+    "song_session_id": "72911579-8cde-48a2-9c8a-2d7adcadfe41"
+  },
+  {
+    "song": "Chlapci V Pasci",
+    "artists": [
+      "Marika Gombitova"
+    ],
+    "isrc": "SKA128673105",
+    "start_time": "2025-11-10 05:18:53",
+    "radio": "expres",
+    "recorded_at": "2025-11-10T05:19:06.815485+01:00",
+    "raw_valid": true,
+    "song_session_id": "6764f14d-6451-4293-af6e-0106499c132f"
+  },
+  {
+    "song": "The Fate Of Ophelia",
+    "artists": [
+      "Taylor Swift"
+    ],
+    "isrc": "USUG12506436",
+    "start_time": "2025-11-10 05:21:22",
+    "radio": "expres",
+    "recorded_at": "2025-11-10T05:21:47.201442+01:00",
+    "raw_valid": true,
+    "song_session_id": "8caf1ddb-5c52-4762-b55f-de29d3af6e78"
+  },
+  {
+    "song": "Len Sa Smej",
+    "artists": [
+      "Peter Bic Project"
+    ],
+    "isrc": "SKA012300333",
+    "start_time": "2025-11-10 05:25:09",
+    "radio": "expres",
+    "recorded_at": "2025-11-10T05:25:25.529607+01:00",
+    "raw_valid": true,
+    "song_session_id": "f09eefa4-cb29-4e56-a9e5-6fcd51368d3f"
+  },
+  {
+    "song": "I Believe",
+    "artists": [
+      "Kamrad"
+    ],
+    "isrc": "QMDA62184030",
+    "start_time": "2025-11-10 05:27:58",
+    "radio": "expres",
+    "recorded_at": "2025-11-10T05:28:08.524584+01:00",
+    "raw_valid": true,
+    "song_session_id": "dd575fa8-7461-4238-a9ce-5c135bec99c7"
+  },
+  {
+    "song": "Mystical Magical",
+    "artists": [
+      "Benson Boone"
+    ],
+    "isrc": "USWB12500844",
+    "start_time": "2025-11-10 05:31:12",
+    "radio": "expres",
+    "recorded_at": "2025-11-10T05:31:36.008643+01:00",
+    "raw_valid": true,
+    "song_session_id": "b8431545-e8b1-4f62-81ab-2632049957f4"
+  },
+  {
+    "song": "Milovanie V Dazdi",
+    "artists": [
+      "Richard Muller"
+    ],
+    "isrc": "CZUM71200012",
+    "start_time": "2025-11-10 05:34:08",
+    "radio": "expres",
+    "recorded_at": "2025-11-10T05:34:49.009855+01:00",
+    "raw_valid": true,
+    "song_session_id": "141f1568-71b9-46b2-ba6e-18b9aaa89c27"
+  },
+  {
+    "song": "The Best",
+    "artists": [
+      "Tina Turner"
+    ],
+    "isrc": "USCA28900109",
+    "start_time": "2025-11-10 05:38:22",
+    "radio": "expres",
+    "recorded_at": "2025-11-10T05:38:38.904144+01:00",
+    "raw_valid": true,
+    "song_session_id": "bcbcb6ad-e0ba-49ce-8df9-b48eab8f02e1"
+  },
+  {
+    "song": "Modlitba Lasky",
+    "artists": [
+      "Robo Grigorov"
+    ],
+    "isrc": "TCAEZ2066091",
+    "start_time": "2025-11-10 05:42:43",
+    "radio": "expres",
+    "recorded_at": "2025-11-10T05:43:11.062403+01:00",
+    "raw_valid": true,
+    "song_session_id": "0a141f5b-0f9c-4ed0-b5f0-4080d3dcdbec"
+  },
+  {
+    "song": "Eternity",
+    "artists": [
+      "Alex Warren"
+    ],
+    "isrc": "USAT22503779",
+    "start_time": "2025-11-10 05:47:01",
+    "radio": "expres",
+    "recorded_at": "2025-11-10T05:47:26.808878+01:00",
+    "raw_valid": true,
+    "song_session_id": "07cc068c-9c50-4b06-90bf-74178d5fa365"
+  },
+  {
+    "song": "Pravdupovediac",
+    "artists": [
+      "Adam Durica"
+    ],
+    "isrc": "SKA012000103",
+    "start_time": "2025-11-10 05:50:35",
+    "radio": "expres",
+    "recorded_at": "2025-11-10T05:51:11.833186+01:00",
+    "raw_valid": true,
+    "song_session_id": "d58bfb12-a0a9-470b-b298-ff4f451dc9ce"
+  },
+  {
+    "song": "Call Me Maybe",
+    "artists": [
+      "Carly Rae Jepsen"
+    ],
+    "isrc": "CAB391100615",
+    "start_time": "2025-11-10 05:54:09",
+    "radio": "expres",
+    "recorded_at": "2025-11-10T05:54:32.748840+01:00",
+    "raw_valid": true,
+    "song_session_id": "06d2f499-438c-479d-8f3b-d88b551a8181"
+  },
+  {
+    "song": "Spievaj So Mnou",
+    "artists": [
+      "Bystrik"
+    ],
+    "isrc": "SKB002008101",
+    "start_time": "2025-11-10 05:57:13",
+    "radio": "expres",
+    "recorded_at": "2025-11-10T05:57:59.155742+01:00",
+    "raw_valid": true,
+    "song_session_id": "9f58c9ed-6079-4759-94f8-2e367678ac6f"
+  }
+]

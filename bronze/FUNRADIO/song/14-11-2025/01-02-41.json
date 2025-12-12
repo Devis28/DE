@@ -1,0 +1,483 @@
+[
+  {
+    "last_update": "2025-11-13 23:03:18",
+    "song": {
+      "musicAuthor": "Imagine Dragons",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851bf6adf85773b11a1d06412d6",
+      "musicTitle": "Eyes Closed",
+      "radio": "Fun Rádio",
+      "startTime": "00:02"
+    },
+    "recorded_at": "2025-11-14T00:03:18.772222+01:00",
+    "raw_valid": true,
+    "song_session_id": "59e34596-bd61-448c-9701-daadd8cdf669"
+  },
+  {
+    "last_update": "2025-11-13 23:06:18",
+    "song": {
+      "musicAuthor": "Felix Jaehn & Jhart",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851ffac2a8ae059b046b4bfd4c2",
+      "musicTitle": "Pride",
+      "radio": "Fun Rádio",
+      "startTime": "00:06"
+    },
+    "recorded_at": "2025-11-14T00:06:18.952379+01:00",
+    "raw_valid": true,
+    "song_session_id": "9b74ad0c-a14f-4de4-8a88-6e8a7bd633c9"
+  },
+  {
+    "last_update": "2025-11-13 23:09:18",
+    "song": {
+      "musicAuthor": "Alice Merton",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485103a8b0508f24b466b7a01c5f",
+      "musicTitle": "No Roots",
+      "radio": "Fun Rádio",
+      "startTime": "00:08"
+    },
+    "recorded_at": "2025-11-14T00:09:19.116100+01:00",
+    "raw_valid": true,
+    "song_session_id": "b503c87c-0c85-4a6a-837d-408bd67c8a16"
+  },
+  {
+    "last_update": "2025-11-13 23:13:19",
+    "song": {
+      "musicAuthor": "Shaboozey",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851c97e11e794ddcd2c353ea390",
+      "musicTitle": "Good News",
+      "radio": "Fun Rádio",
+      "startTime": "00:12"
+    },
+    "recorded_at": "2025-11-14T00:13:19.381942+01:00",
+    "raw_valid": true,
+    "song_session_id": "90fd12cb-9638-4c2b-ab60-736874a4fb90"
+  },
+  {
+    "last_update": "2025-11-13 23:16:19",
+    "song": {
+      "musicAuthor": "David Guetta & Bebe Rexha",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851933c036cd61cd40d3f17a9c4",
+      "musicTitle": "Im Good (Blue)",
+      "radio": "Fun Rádio",
+      "startTime": "00:16"
+    },
+    "recorded_at": "2025-11-14T00:16:19.602582+01:00",
+    "raw_valid": true,
+    "song_session_id": "1688dc17-b6f2-4b7c-9f87-32475f00a11e"
+  },
+  {
+    "last_update": "2025-11-13 23:19:19",
+    "song": {
+      "musicAuthor": "Sombr",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851dad39d4906f76b7c176effb1",
+      "musicTitle": "Undressed",
+      "radio": "Fun Rádio",
+      "startTime": "00:19"
+    },
+    "recorded_at": "2025-11-14T00:19:19.765765+01:00",
+    "raw_valid": true,
+    "song_session_id": "ab9d253f-5c24-44e1-8f4a-c16124ea872e"
+  },
+  {
+    "last_update": "2025-11-13 23:23:19",
+    "song": {
+      "musicAuthor": "Mark Dann",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851c984f8f8b37fccc65a85d2b8",
+      "musicTitle": "Cry",
+      "radio": "Fun Rádio",
+      "startTime": "00:22"
+    },
+    "recorded_at": "2025-11-14T00:23:19.996893+01:00",
+    "raw_valid": true,
+    "song_session_id": "e62f4ec0-4a5a-41df-b62d-dc615b976f6a"
+  },
+  {
+    "last_update": "2025-11-13 23:26:19",
+    "song": {
+      "musicAuthor": "Ed Sheeran",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048516fbb60d6a7e03ccb940a518e",
+      "musicTitle": "Sapphire",
+      "radio": "Fun Rádio",
+      "startTime": "00:25"
+    },
+    "recorded_at": "2025-11-14T00:26:20.158968+01:00",
+    "raw_valid": true,
+    "song_session_id": "cd4788c1-f99e-41ad-bdb0-4651d15f3926"
+  },
+  {
+    "last_update": "2025-11-13 23:29:19",
+    "song": {
+      "musicAuthor": "Nelly Furtado",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851a6f439c8957170652f9410e2",
+      "musicTitle": "All Good Things (Come To An End)",
+      "radio": "Fun Rádio",
+      "startTime": "00:28"
+    },
+    "recorded_at": "2025-11-14T00:29:20.311633+01:00",
+    "raw_valid": true,
+    "song_session_id": "c4d3ec22-1c8e-4359-8376-3e48407abfd5"
+  },
+  {
+    "last_update": "2025-11-13 23:34:19",
+    "song": {
+      "musicAuthor": "Wizthemc, Bees & Honey",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048519263dc4504ccf1b02899d9ae",
+      "musicTitle": "Show Me Love",
+      "radio": "Fun Rádio",
+      "startTime": "00:33"
+    },
+    "recorded_at": "2025-11-14T00:34:20.626611+01:00",
+    "raw_valid": true,
+    "song_session_id": "7359711e-08e8-430f-91a9-3c72927cc9e8"
+  },
+  {
+    "last_update": "2025-11-13 23:37:20",
+    "song": {
+      "musicAuthor": "Dua Lipa",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048516b915e407b70e121e06fe979",
+      "musicTitle": "Idgaf",
+      "radio": "Fun Rádio",
+      "startTime": "00:36"
+    },
+    "recorded_at": "2025-11-14T00:37:20.840269+01:00",
+    "raw_valid": true,
+    "song_session_id": "bd66361d-6060-4cdd-a9fb-d5b33c1e37ad"
+  },
+  {
+    "last_update": "2025-11-13 23:40:20",
+    "song": {
+      "musicAuthor": "Myles Smith",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048510e649703ca325ccaabfe938d",
+      "musicTitle": "Stay (If You Wanna Dance)",
+      "radio": "Fun Rádio",
+      "startTime": "00:39"
+    },
+    "recorded_at": "2025-11-14T00:40:21.023376+01:00",
+    "raw_valid": true,
+    "song_session_id": "45499057-8cd5-4b29-9f66-15d02ac25125"
+  },
+  {
+    "last_update": "2025-11-13 23:43:21",
+    "song": {
+      "musicAuthor": "Celeste Buckingham",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851cb2f4bc88616470de491b708",
+      "musicTitle": "I'm Not Sorry",
+      "radio": "Fun Rádio",
+      "startTime": "00:43"
+    },
+    "recorded_at": "2025-11-14T00:43:21.247310+01:00",
+    "raw_valid": true,
+    "song_session_id": "f20a9276-9ff2-4870-b4e4-ff5a6987fa52"
+  },
+  {
+    "last_update": "2025-11-13 23:47:21",
+    "song": {
+      "musicAuthor": "David Guetta, Anne-Marie, Coi Leray",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048510b4ef75c3728599aa4104f7a",
+      "musicTitle": "Baby Don't Hurt Me",
+      "radio": "Fun Rádio",
+      "startTime": "00:46"
+    },
+    "recorded_at": "2025-11-14T00:47:21.561416+01:00",
+    "raw_valid": true,
+    "song_session_id": "b49cc8f6-26ec-4d95-8871-4457ec9845a2"
+  },
+  {
+    "last_update": "2025-11-13 23:49:21",
+    "song": {
+      "musicAuthor": "Benson Boone",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048518887b5e2d0247d6d84042c55",
+      "musicTitle": "Mystical Magical",
+      "radio": "Fun Rádio",
+      "startTime": "00:49"
+    },
+    "recorded_at": "2025-11-14T00:49:21.754879+01:00",
+    "raw_valid": true,
+    "song_session_id": "9e831f1b-add1-4920-97c3-c225726cb65c"
+  },
+  {
+    "last_update": "2025-11-13 23:52:20",
+    "song": {
+      "musicAuthor": "Miley Cyrus",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851cd222052a2594be29a6616b5",
+      "musicTitle": "Used To Be Young",
+      "radio": "Fun Rádio",
+      "startTime": "00:51"
+    },
+    "recorded_at": "2025-11-14T00:52:21.923565+01:00",
+    "raw_valid": true,
+    "song_session_id": "8276fe5b-8bfd-4c5b-8d5e-8a051c9437e5"
+  },
+  {
+    "last_update": "2025-11-13 23:55:21",
+    "song": {
+      "musicAuthor": "Huntrix Featuring Ejae & Audrey Nuna",
+      "musicCover": "https://i.scdn.co/image/ab6742d3000052b717f3963ae4a9f5422763140e",
+      "musicTitle": "Golden",
+      "radio": "Fun Rádio",
+      "startTime": "00:55"
+    },
+    "recorded_at": "2025-11-14T00:55:22.101256+01:00",
+    "raw_valid": true,
+    "song_session_id": "58e96e2f-70f1-4483-b9e3-a0742f40d4fc"
+  },
+  {
+    "last_update": "2025-11-13 23:59:22",
+    "song": {
+      "musicAuthor": "Gym Class Heroes Ft. Levine Adam",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485118b8088fe0c3dbf78398b55a",
+      "musicTitle": "Stereo Hearts",
+      "radio": "Fun Rádio",
+      "startTime": "00:58"
+    },
+    "recorded_at": "2025-11-14T00:59:22.357744+01:00",
+    "raw_valid": true,
+    "song_session_id": "bac49ab8-15ed-492b-a2b1-19cd20c88155"
+  },
+  {
+    "last_update": "2025-11-14 00:02:21",
+    "song": {
+      "musicAuthor": "Alex Warren",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851be63b155e4b40ff3017f8ac4",
+      "musicTitle": "Ordinary",
+      "radio": "Fun Rádio",
+      "startTime": "01:01"
+    },
+    "recorded_at": "2025-11-14T01:02:22.541176+01:00",
+    "raw_valid": true,
+    "song_session_id": "013e0d68-8606-4708-870e-c4ed6bd6f347"
+  },
+  {
+    "last_update": "2025-11-14 00:05:22",
+    "song": {
+      "musicAuthor": "Eminem",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851810603c94c9246379604cf1a",
+      "musicTitle": "Houdini",
+      "radio": "Fun Rádio",
+      "startTime": "01:04"
+    },
+    "recorded_at": "2025-11-14T01:05:22.784512+01:00",
+    "raw_valid": true,
+    "song_session_id": "e6a972ea-d7fa-4ae9-994b-1f17cab89806"
+  },
+  {
+    "last_update": "2025-11-14 00:09:22",
+    "song": {
+      "musicAuthor": "Sabrina Carpenter",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851062c6573009fdebd43de443b",
+      "musicTitle": "Manchild",
+      "radio": "Fun Rádio",
+      "startTime": "01:08"
+    },
+    "recorded_at": "2025-11-14T01:09:23.009925+01:00",
+    "raw_valid": true,
+    "song_session_id": "89671e6e-1be0-4653-905c-2c5af7bda034"
+  },
+  {
+    "last_update": "2025-11-14 00:12:22",
+    "song": {
+      "musicAuthor": "Martin Garrix & Lauv",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048515c0e5abe73559c2de9d2eee0",
+      "musicTitle": "Mad",
+      "radio": "Fun Rádio",
+      "startTime": "01:12"
+    },
+    "recorded_at": "2025-11-14T01:12:23.258583+01:00",
+    "raw_valid": true,
+    "song_session_id": "e3c2ce77-1b36-4b03-b196-38e045e49776"
+  },
+  {
+    "last_update": "2025-11-14 00:16:23",
+    "song": {
+      "musicAuthor": "Hozier",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048517a9bf5f82e32d33d4503fe7b",
+      "musicTitle": "Take Me To Church",
+      "radio": "Fun Rádio",
+      "startTime": "01:15"
+    },
+    "recorded_at": "2025-11-14T01:16:23.507017+01:00",
+    "raw_valid": true,
+    "song_session_id": "6b89ff89-1347-4958-bfb1-a549c6734545"
+  },
+  {
+    "last_update": "2025-11-14 00:19:23",
+    "song": {
+      "musicAuthor": "Tate Mcrae",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485122fd802bc61db666c7c81aa8",
+      "musicTitle": "Greedy",
+      "radio": "Fun Rádio",
+      "startTime": "01:19"
+    },
+    "recorded_at": "2025-11-14T01:19:23.682292+01:00",
+    "raw_valid": true,
+    "song_session_id": "c8527150-3217-4183-acc1-ffcbe0cbaa59"
+  },
+  {
+    "last_update": "2025-11-14 00:22:23",
+    "song": {
+      "musicAuthor": "Dara Rolins",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851b0c7da23e8bbd8ee7257a77e",
+      "musicTitle": "Do Neba",
+      "radio": "Fun Rádio",
+      "startTime": "01:21"
+    },
+    "recorded_at": "2025-11-14T01:22:23.895266+01:00",
+    "raw_valid": true,
+    "song_session_id": "53a803f1-0b62-4d4e-b771-721a998e68bf"
+  },
+  {
+    "last_update": "2025-11-14 00:25:23",
+    "song": {
+      "musicAuthor": "Imagine Dragons",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851ec182939cba3386ddcb93069",
+      "musicTitle": "Wrecked",
+      "radio": "Fun Rádio",
+      "startTime": "01:24"
+    },
+    "recorded_at": "2025-11-14T01:25:24.089073+01:00",
+    "raw_valid": true,
+    "song_session_id": "94ee8e5d-7c91-4eeb-a9d0-5d91715c90be"
+  },
+  {
+    "last_update": "2025-11-14 00:29:23",
+    "song": {
+      "musicAuthor": "Lady Gaga",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851e691217483df8798445c82e2",
+      "musicTitle": "Paparazzi",
+      "radio": "Fun Rádio",
+      "startTime": "01:28"
+    },
+    "recorded_at": "2025-11-14T01:29:24.333555+01:00",
+    "raw_valid": true,
+    "song_session_id": "86044779-9445-417b-a618-293d3668f73c"
+  },
+  {
+    "last_update": "2025-11-14 00:33:23",
+    "song": {
+      "musicAuthor": "Lola Young",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851a0cb974834e04f46b63b99a8",
+      "musicTitle": "Messy",
+      "radio": "Fun Rádio",
+      "startTime": "01:32"
+    },
+    "recorded_at": "2025-11-14T01:33:24.581266+01:00",
+    "raw_valid": true,
+    "song_session_id": "e1ff5110-1ec3-4aad-895c-69031be7fd5a"
+  },
+  {
+    "last_update": "2025-11-14 00:37:24",
+    "song": {
+      "musicAuthor": "Twocolors",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485169a297296cd7e38dfb1c2ba5",
+      "musicTitle": "Chemical",
+      "radio": "Fun Rádio",
+      "startTime": "01:36"
+    },
+    "recorded_at": "2025-11-14T01:37:24.833632+01:00",
+    "raw_valid": true,
+    "song_session_id": "12679037-6647-4c8d-a8d4-637674b97baf"
+  },
+  {
+    "last_update": "2025-11-14 00:39:24",
+    "song": {
+      "musicAuthor": "Ravyn Lenae",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048515511ceaa955a2bfd9ae90c21",
+      "musicTitle": "Love Me Not",
+      "radio": "Fun Rádio",
+      "startTime": "01:38"
+    },
+    "recorded_at": "2025-11-14T01:39:24.956598+01:00",
+    "raw_valid": true,
+    "song_session_id": "bdcdcb0a-f9ec-40bb-876e-e4bfc00a6410"
+  },
+  {
+    "last_update": "2025-11-14 00:43:24",
+    "song": {
+      "musicAuthor": "Ray Dalton",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851a1c204c401e519a65252fdb5",
+      "musicTitle": "In My Bones",
+      "radio": "Fun Rádio",
+      "startTime": "01:42"
+    },
+    "recorded_at": "2025-11-14T01:43:25.248542+01:00",
+    "raw_valid": true,
+    "song_session_id": "c5edda4f-5798-472b-9a9c-04daa188920f"
+  },
+  {
+    "last_update": "2025-11-14 00:46:25",
+    "song": {
+      "musicAuthor": "Sevdaliza Featuring Anitta, Pabllo Vittar & Yseult",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048513faa0df2405b9c5b1cdefbb4",
+      "musicTitle": "Alibi Pt. 2",
+      "radio": "Fun Rádio",
+      "startTime": "01:45"
+    },
+    "recorded_at": "2025-11-14T01:46:25.436615+01:00",
+    "raw_valid": true,
+    "song_session_id": "753da124-9662-46dc-b027-b450aea63026"
+  },
+  {
+    "last_update": "2025-11-14 00:49:24",
+    "song": {
+      "musicAuthor": "Sugababes",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851f2e1b0b7e449d39a66d8033c",
+      "musicTitle": "About You Now",
+      "radio": "Fun Rádio",
+      "startTime": "01:48"
+    },
+    "recorded_at": "2025-11-14T01:49:25.624553+01:00",
+    "raw_valid": true,
+    "song_session_id": "9c1f561b-8aa2-4c17-a081-dbaae890ceb3"
+  },
+  {
+    "last_update": "2025-11-14 00:52:25",
+    "song": {
+      "musicAuthor": "Myles Smith",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485181b12e1a0584e8ea7ba2ae4a",
+      "musicTitle": "Stargazing",
+      "radio": "Fun Rádio",
+      "startTime": "01:51"
+    },
+    "recorded_at": "2025-11-14T01:52:25.824033+01:00",
+    "raw_valid": true,
+    "song_session_id": "95235d97-979b-4951-9fec-64e5c842f887"
+  },
+  {
+    "last_update": "2025-11-14 00:55:25",
+    "song": {
+      "musicAuthor": "Celeste Buckingham",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851d2e4bb30c1b2e0c2b6d28680",
+      "musicTitle": "Come Again",
+      "radio": "Fun Rádio",
+      "startTime": "01:54"
+    },
+    "recorded_at": "2025-11-14T01:55:25.995137+01:00",
+    "raw_valid": true,
+    "song_session_id": "d5f2c98a-ae9e-42ff-ab2f-97849aaebdb5"
+  },
+  {
+    "last_update": "2025-11-14 00:59:25",
+    "song": {
+      "musicAuthor": "Twenty One Pilots",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851de03bfc2991fd5bcfde65ba3",
+      "musicTitle": "Stressed Out",
+      "radio": "Fun Rádio",
+      "startTime": "01:58"
+    },
+    "recorded_at": "2025-11-14T01:59:26.249215+01:00",
+    "raw_valid": true,
+    "song_session_id": "d4a31429-724f-4aa4-84f1-96e14eca73bd"
+  },
+  {
+    "last_update": "2025-11-14 01:02:26",
+    "song": {
+      "musicAuthor": "Alan Murin",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048513b4842e37a0d48808b868b1b",
+      "musicTitle": "Domov",
+      "radio": "Fun Rádio",
+      "startTime": "02:01"
+    },
+    "recorded_at": "2025-11-14T02:02:26.439879+01:00",
+    "raw_valid": true,
+    "song_session_id": "c963323f-6925-4cb8-9e06-f8285466693b"
+  }
+]

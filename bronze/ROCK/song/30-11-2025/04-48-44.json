@@ -1,0 +1,405 @@
+[
+  {
+    "last_update": "2025-11-30 02:50:23",
+    "song": {
+      "musicAuthor": "Linkin Park",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485146e207de66ba06422897f769",
+      "musicTitle": "Bleed It Out",
+      "radio": "Rádio ROCK",
+      "startTime": "03:50"
+    },
+    "recorded_at": "2025-11-30T03:50:23.226858+01:00",
+    "raw_valid": true,
+    "song_session_id": "d6aa8146-a4cc-4a8d-8b3c-7a52e9c936bf"
+  },
+  {
+    "last_update": "2025-11-30 02:53:24",
+    "song": {
+      "musicAuthor": "Tublatanka",
+      "musicCover": "https://static.radia.sk/covers/32/7ee86987-baad-48a6-9afa-0ca560d378f2.jpg",
+      "musicTitle": "Nekonečná Pieseň",
+      "radio": "Rádio ROCK",
+      "startTime": "03:52"
+    },
+    "recorded_at": "2025-11-30T03:53:25.090412+01:00",
+    "raw_valid": true,
+    "song_session_id": "9c98830b-49dd-4042-b966-c944e0703c73"
+  },
+  {
+    "last_update": "2025-11-30 02:56:24",
+    "song": {
+      "musicAuthor": "Lenny Kravitz",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851ac3605b837625e2c25159767",
+      "musicTitle": "Rock And Roll Is Dead",
+      "radio": "Rádio ROCK",
+      "startTime": "03:55"
+    },
+    "recorded_at": "2025-11-30T03:56:25.698481+01:00",
+    "raw_valid": true,
+    "song_session_id": "b422fc01-6420-4969-86d3-94f0fc3af69c"
+  },
+  {
+    "last_update": "2025-11-30 03:00:30",
+    "song": {
+      "musicAuthor": "Bijouterrier",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485135798bf8aa0f22ac441da31a",
+      "musicTitle": "Pozri",
+      "radio": "Rádio ROCK",
+      "startTime": "03:59"
+    },
+    "recorded_at": "2025-11-30T04:00:30.964106+01:00",
+    "raw_valid": true,
+    "song_session_id": "a9086058-0ac2-4c32-84d3-b69e44278111"
+  },
+  {
+    "last_update": "2025-11-30 03:03:30",
+    "song": {
+      "musicAuthor": "Queen",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851d1e7c0e1bf0980298428a1ae",
+      "musicTitle": "I Want To Break Free",
+      "radio": "Rádio ROCK",
+      "startTime": "04:02"
+    },
+    "recorded_at": "2025-11-30T04:03:31.203361+01:00",
+    "raw_valid": true,
+    "song_session_id": "9bc62720-6153-4faa-a819-ea73b7245f62"
+  },
+  {
+    "last_update": "2025-11-30 03:07:31",
+    "song": {
+      "musicAuthor": "Zoci Voci",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048518b376292ff48ae6411c6b854",
+      "musicTitle": "Milion Ciest",
+      "radio": "Rádio ROCK",
+      "startTime": "04:06"
+    },
+    "recorded_at": "2025-11-30T04:07:32.026192+01:00",
+    "raw_valid": true,
+    "song_session_id": "8fee39ff-b747-4a06-ad0f-08278dfeef27"
+  },
+  {
+    "last_update": "2025-11-30 03:10:31",
+    "song": {
+      "musicAuthor": "Fishing Strip",
+      "musicCover": "/layout/covers/default.png",
+      "musicTitle": "Mám Ťa Rád",
+      "radio": "Rádio ROCK",
+      "startTime": "04:10"
+    },
+    "recorded_at": "2025-11-30T04:10:32.350713+01:00",
+    "raw_valid": true,
+    "song_session_id": "8ecafafa-9475-41f7-82c3-26f89db1fa4c"
+  },
+  {
+    "last_update": "2025-11-30 03:14:32",
+    "song": {
+      "musicAuthor": "Aerosmith",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851587b26d49596162397b29ec8",
+      "musicTitle": "Cryin",
+      "radio": "Rádio ROCK",
+      "startTime": "04:13"
+    },
+    "recorded_at": "2025-11-30T04:14:32.946842+01:00",
+    "raw_valid": true,
+    "song_session_id": "d8890a59-e0bc-497f-a8f3-976ecbb80fa0"
+  },
+  {
+    "last_update": "2025-11-30 03:19:33",
+    "song": {
+      "musicAuthor": "Peter Cmorik",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048517016c9ed1680a22ee0d308b3",
+      "musicTitle": "Som Kto Som",
+      "radio": "Rádio ROCK",
+      "startTime": "04:18"
+    },
+    "recorded_at": "2025-11-30T04:19:33.513565+01:00",
+    "raw_valid": true,
+    "song_session_id": "f7c4aa72-9521-4d5a-be1c-e812b8909a6f"
+  },
+  {
+    "last_update": "2025-11-30 03:23:33",
+    "song": {
+      "musicAuthor": "Bring Me The Horizon",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851736145b97bab8fa92cb6113f",
+      "musicTitle": "Drown",
+      "radio": "Rádio ROCK",
+      "startTime": "04:22"
+    },
+    "recorded_at": "2025-11-30T04:23:34.745918+01:00",
+    "raw_valid": true,
+    "song_session_id": "0fd733b2-22d1-4a1b-891b-f3bbd1a68662"
+  },
+  {
+    "last_update": "2025-11-30 03:27:35",
+    "song": {
+      "musicAuthor": "Horkyže Sliže",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851911995709754b328f466267c",
+      "musicTitle": "Atomový Kryt",
+      "radio": "Rádio ROCK",
+      "startTime": "04:26"
+    },
+    "recorded_at": "2025-11-30T04:27:35.106766+01:00",
+    "raw_valid": true,
+    "song_session_id": "02f01ace-d02b-4c93-a4f5-49b34c14ebd9"
+  },
+  {
+    "last_update": "2025-11-30 03:30:34",
+    "song": {
+      "musicAuthor": "Hovada Sk",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851bc3c57994e44fc644e997e54",
+      "musicTitle": "Spominaj",
+      "radio": "Rádio ROCK",
+      "startTime": "04:30"
+    },
+    "recorded_at": "2025-11-30T04:30:35.317046+01:00",
+    "raw_valid": true,
+    "song_session_id": "796cb45a-dbd9-4fdc-a51a-c2d6e2189ad0"
+  },
+  {
+    "last_update": "2025-11-30 03:34:34",
+    "song": {
+      "musicAuthor": "Bez Ladu A Skladu",
+      "musicCover": "https://static.radia.sk/covers/32/e89c92d5-5e22-4249-9eed-1abc8177a0cb.jpg",
+      "musicTitle": "Parné Valce",
+      "radio": "Rádio ROCK",
+      "startTime": "04:33"
+    },
+    "recorded_at": "2025-11-30T04:34:35.786811+01:00",
+    "raw_valid": true,
+    "song_session_id": "e81393b8-d933-4c56-a8d6-374599ce502f"
+  },
+  {
+    "last_update": "2025-11-30 03:37:35",
+    "song": {
+      "musicAuthor": "Zz Top",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485128a00032ff3b86af3d7e0e54",
+      "musicTitle": "Gimme All Your Lovin'",
+      "radio": "Rádio ROCK",
+      "startTime": "04:36"
+    },
+    "recorded_at": "2025-11-30T04:37:36.339550+01:00",
+    "raw_valid": true,
+    "song_session_id": "5c8f8c24-cfd1-4336-a9b2-b3ea281f6f2a"
+  },
+  {
+    "last_update": "2025-11-30 03:41:08",
+    "song": {
+      "musicAuthor": "Metalinda",
+      "musicCover": "https://static.radia.sk/covers/32/27f79caa-b709-4a4b-a7d3-6b3a2b3c68b9.jpg",
+      "musicTitle": "Zaľúbená Žaba",
+      "radio": "Rádio ROCK",
+      "startTime": "04:40"
+    },
+    "recorded_at": "2025-11-30T04:41:08.470070+01:00",
+    "raw_valid": true,
+    "song_session_id": "c575c0c7-08e7-49a5-80b7-0fb180c2df5c"
+  },
+  {
+    "last_update": "2025-11-30 03:45:08",
+    "song": {
+      "musicAuthor": "Iné Kafe",
+      "musicCover": "https://is5-ssl.mzstatic.com/image/thumb/Music125/v4/ce/78/4e/ce784ef3-8742-9cf4-a357-a5e00982902f/source/64x64bb.jpg",
+      "musicTitle": "Vsetky Skladby Sveta",
+      "radio": "Rádio ROCK",
+      "startTime": "04:44"
+    },
+    "recorded_at": "2025-11-30T04:45:08.738432+01:00",
+    "raw_valid": true,
+    "song_session_id": "de0e0486-1289-4e24-96ac-9bb48ea035e0"
+  },
+  {
+    "last_update": "2025-11-30 03:49:08",
+    "song": {
+      "musicAuthor": "Nirvana",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851fbc71c99f9c1296c56dd51b6",
+      "musicTitle": "Lithium",
+      "radio": "Rádio ROCK",
+      "startTime": "04:48"
+    },
+    "recorded_at": "2025-11-30T04:49:09.116603+01:00",
+    "raw_valid": true,
+    "song_session_id": "888555f1-1aad-4849-83e6-38e016242a48"
+  },
+  {
+    "last_update": "2025-11-30 03:53:11",
+    "song": {
+      "musicAuthor": "The Last Day Of Jesus",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048519fe400785e8b11bbc54b1d27",
+      "musicTitle": "Arma Christi",
+      "radio": "Rádio ROCK",
+      "startTime": "04:53"
+    },
+    "recorded_at": "2025-11-30T04:53:11.108060+01:00",
+    "raw_valid": true,
+    "song_session_id": "8e0437f0-bd36-45dc-81b9-728bba170b03"
+  },
+  {
+    "last_update": "2025-11-30 03:58:11",
+    "song": {
+      "musicAuthor": "Counting Crows",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048517e09670f90cd47b3fb9a23e0",
+      "musicTitle": "Mr. Jones",
+      "radio": "Rádio ROCK",
+      "startTime": "04:57"
+    },
+    "recorded_at": "2025-11-30T04:58:11.597718+01:00",
+    "raw_valid": true,
+    "song_session_id": "36db06e9-ddf5-44fa-8731-8b56458b30fb"
+  },
+  {
+    "last_update": "2025-11-30 04:03:11",
+    "song": {
+      "musicAuthor": "R.E.M.",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851a7c7f94cfccd5ab6de233916",
+      "musicTitle": "It`s The End Of The World",
+      "radio": "Rádio ROCK",
+      "startTime": "05:02"
+    },
+    "recorded_at": "2025-11-30T05:03:11.923235+01:00",
+    "raw_valid": true,
+    "song_session_id": "016f5423-44b9-4131-b9c7-92e3d36d9b15"
+  },
+  {
+    "last_update": "2025-11-30 04:07:13",
+    "song": {
+      "musicAuthor": "Lepayaco",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485141a89ef5d65d2ee8e4e8d044",
+      "musicTitle": "Dobry Vecer Priatelia",
+      "radio": "Rádio ROCK",
+      "startTime": "05:07"
+    },
+    "recorded_at": "2025-11-30T05:07:13.597431+01:00",
+    "raw_valid": true,
+    "song_session_id": "ee5bbe22-6c24-4b1b-aa4c-772a232136c7"
+  },
+  {
+    "last_update": "2025-11-30 04:10:13",
+    "song": {
+      "musicAuthor": "Cmorík Peter",
+      "musicCover": "https://static.radia.sk/covers/32/205320a2-1b72-4e5d-bea3-1122e8c91064.jpg",
+      "musicTitle": "Mám Pocit",
+      "radio": "Rádio ROCK",
+      "startTime": "05:09"
+    },
+    "recorded_at": "2025-11-30T05:10:13.766837+01:00",
+    "raw_valid": true,
+    "song_session_id": "c746503c-b4e6-46e8-8852-26ecedac2e1c"
+  },
+  {
+    "last_update": "2025-11-30 04:14:14",
+    "song": {
+      "musicAuthor": "Fall Out Boy",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048513cf1c1dbcfa3f1ab7282719b",
+      "musicTitle": "Centuries",
+      "radio": "Rádio ROCK",
+      "startTime": "05:14"
+    },
+    "recorded_at": "2025-11-30T05:14:14.817978+01:00",
+    "raw_valid": true,
+    "song_session_id": "c2d36980-3277-4df5-a4c8-05c058541702"
+  },
+  {
+    "last_update": "2025-11-30 04:18:15",
+    "song": {
+      "musicAuthor": "Helenine Oci",
+      "musicCover": "/layout/covers/default.png",
+      "musicTitle": "Mariana",
+      "radio": "Rádio ROCK",
+      "startTime": "05:17"
+    },
+    "recorded_at": "2025-11-30T05:18:15.111122+01:00",
+    "raw_valid": true,
+    "song_session_id": "4f0a367c-5bc4-4d78-ae5b-9bab02b886fe"
+  },
+  {
+    "last_update": "2025-11-30 04:21:14",
+    "song": {
+      "musicAuthor": "Bijouterrier",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851e59090f28a251e44cacaa8ff",
+      "musicTitle": "Preco Places Vilem?",
+      "radio": "Rádio ROCK",
+      "startTime": "05:20"
+    },
+    "recorded_at": "2025-11-30T05:21:15.734619+01:00",
+    "raw_valid": true,
+    "song_session_id": "2b377459-3507-4252-9082-873421805f94"
+  },
+  {
+    "last_update": "2025-11-30 04:23:15",
+    "song": {
+      "musicAuthor": "Ac/Dc",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851a254f3777d9d262b432ebc1a",
+      "musicTitle": "Big Gun",
+      "radio": "Rádio ROCK",
+      "startTime": "05:22"
+    },
+    "recorded_at": "2025-11-30T05:23:15.854307+01:00",
+    "raw_valid": true,
+    "song_session_id": "6b944088-ccf9-49ab-8a54-beced8c22fb2"
+  },
+  {
+    "last_update": "2025-11-30 04:28:15",
+    "song": {
+      "musicAuthor": "Peha",
+      "musicCover": "https://static.radia.sk/covers/32/23af7415-fcaa-4716-aee4-ad3e0de7314a.jpg",
+      "musicTitle": "V Zaseknutom Výťahu",
+      "radio": "Rádio ROCK",
+      "startTime": "05:27"
+    },
+    "recorded_at": "2025-11-30T05:28:16.257792+01:00",
+    "raw_valid": true,
+    "song_session_id": "92fb2267-0368-44da-9773-73fefb4bb9ea"
+  },
+  {
+    "last_update": "2025-11-30 04:32:16",
+    "song": {
+      "musicAuthor": "Konflikt",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485128f8180f5629cf40c2930876",
+      "musicTitle": "To Sme My",
+      "radio": "Rádio ROCK",
+      "startTime": "05:31"
+    },
+    "recorded_at": "2025-11-30T05:32:17.375553+01:00",
+    "raw_valid": true,
+    "song_session_id": "f9edc4ba-1057-4954-91ae-78d22e6db40b"
+  },
+  {
+    "last_update": "2025-11-30 04:37:18",
+    "song": {
+      "musicAuthor": "David Bowie",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851db0917ddd4139153bc1d1a1a",
+      "musicTitle": "Let's Dance",
+      "radio": "Rádio ROCK",
+      "startTime": "05:36"
+    },
+    "recorded_at": "2025-11-30T05:37:18.977142+01:00",
+    "raw_valid": true,
+    "song_session_id": "c12d6ec0-3d16-4360-a8d4-bf58b9462659"
+  },
+  {
+    "last_update": "2025-11-30 04:41:19",
+    "song": {
+      "musicAuthor": "Le Payaco",
+      "musicCover": "https://static.radia.sk/covers/32/f26e2264-e19f-4fc4-91d2-1af864449ee2.jpg",
+      "musicTitle": "Vtáci",
+      "radio": "Rádio ROCK",
+      "startTime": "05:40"
+    },
+    "recorded_at": "2025-11-30T05:41:19.441151+01:00",
+    "raw_valid": true,
+    "song_session_id": "36152191-f4fd-498d-a45d-f38cc7c86869"
+  },
+  {
+    "last_update": "2025-11-30 04:45:19",
+    "song": {
+      "musicAuthor": "Sounds Like This",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851908a022420c5b7d800d4afaa",
+      "musicTitle": "Cudzinec",
+      "radio": "Rádio ROCK",
+      "startTime": "05:44"
+    },
+    "recorded_at": "2025-11-30T05:45:20.123773+01:00",
+    "raw_valid": true,
+    "song_session_id": "44582940-3672-4b20-a196-200f91428e37"
+  }
+]

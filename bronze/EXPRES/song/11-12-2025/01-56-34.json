@@ -1,0 +1,430 @@
+[
+  {
+    "song": "Vianocny Cas",
+    "artists": [
+      "Emma Drobna"
+    ],
+    "isrc": "SKB452300101",
+    "start_time": "2025-12-11 00:58:15",
+    "radio": "expres",
+    "recorded_at": "2025-12-11T00:58:42.989708+01:00",
+    "raw_valid": true,
+    "song_session_id": "16091623-bd7f-40db-981e-94d358b30aca"
+  },
+  {
+    "song": "The Fate Of Ophelia",
+    "artists": [
+      "Taylor Swift"
+    ],
+    "isrc": "USUG12506436",
+    "start_time": "2025-12-11 01:01:09",
+    "radio": "expres",
+    "recorded_at": "2025-12-11T01:01:26.061351+01:00",
+    "raw_valid": true,
+    "song_session_id": "5dbb1c57-73f4-44a0-94ca-914a8d33c9f2"
+  },
+  {
+    "song": "Zhori Vsetko Co Mam",
+    "artists": [
+      "Desmod"
+    ],
+    "isrc": "CZA210600215",
+    "start_time": "2025-12-11 01:05:03",
+    "radio": "expres",
+    "recorded_at": "2025-12-11T01:05:29.931173+01:00",
+    "raw_valid": true,
+    "song_session_id": "8036fc18-0116-4e27-824f-ddffcd453169"
+  },
+  {
+    "song": "Beautiful Reason",
+    "artists": [
+      "Michael Schulte"
+    ],
+    "isrc": "DECE72400963",
+    "start_time": "2025-12-11 01:09:30",
+    "radio": "expres",
+    "recorded_at": "2025-12-11T01:09:54.507598+01:00",
+    "raw_valid": true,
+    "song_session_id": "296642db-822e-418c-a552-b0b97cd5bfaf"
+  },
+  {
+    "song": "Den Medzi Nedelou A Pondelkom",
+    "artists": [
+      "Peha"
+    ],
+    "isrc": "CZA110500019",
+    "start_time": "2025-12-11 01:12:37",
+    "radio": "expres",
+    "recorded_at": "2025-12-11T01:12:57.169608+01:00",
+    "raw_valid": true,
+    "song_session_id": "045d6642-bf69-4927-97ff-d80529c3d6de"
+  },
+  {
+    "song": "I Want To Break Free",
+    "artists": [
+      "Queen"
+    ],
+    "isrc": "GBUM71805978",
+    "start_time": "2025-12-11 01:15:59",
+    "radio": "expres",
+    "recorded_at": "2025-12-11T01:16:26.289333+01:00",
+    "raw_valid": true,
+    "song_session_id": "d32cdfaa-6e9e-4b5b-8297-6b5dc9865a5c"
+  },
+  {
+    "song": "Co O Mne Vies",
+    "artists": [
+      "Darinka Rolincova"
+    ],
+    "isrc": "CZA168800007",
+    "start_time": "2025-12-11 01:19:52",
+    "radio": "expres",
+    "recorded_at": "2025-12-11T01:20:10.925428+01:00",
+    "raw_valid": true,
+    "song_session_id": "40eeecc6-da73-4091-8b49-4b8623a63e13"
+  },
+  {
+    "song": "Mad",
+    "artists": [
+      "Martin Garrix",
+      "Lauv"
+    ],
+    "isrc": "NLM5S2502535",
+    "start_time": "2025-12-11 01:22:21",
+    "radio": "expres",
+    "recorded_at": "2025-12-11T01:22:54.356953+01:00",
+    "raw_valid": true,
+    "song_session_id": "30758ba5-171a-46fa-b3db-8b1b25ae2bd7"
+  },
+  {
+    "song": "All I Know",
+    "artists": [
+      "Rudimental",
+      "Khalid"
+    ],
+    "isrc": "GBARL2500365",
+    "start_time": "2025-12-11 01:25:58",
+    "radio": "expres",
+    "recorded_at": "2025-12-11T01:26:18.259337+01:00",
+    "raw_valid": true,
+    "song_session_id": "8d8a2664-a65c-4d28-98f4-9b71095747b7"
+  },
+  {
+    "song": "Na Vianoce Domov",
+    "artists": [
+      "Alan Murin",
+      "Radio Expres"
+    ],
+    "isrc": "QZYFZ2540500",
+    "start_time": "2025-12-11 01:28:54",
+    "radio": "expres",
+    "recorded_at": "2025-12-11T01:29:20.876851+01:00",
+    "raw_valid": true,
+    "song_session_id": "c7013bef-494a-4711-b014-7fb9f8b93c0a"
+  },
+  {
+    "song": "The One",
+    "artists": [
+      "Michael Patrick Kelly"
+    ],
+    "isrc": "DEE862500476",
+    "start_time": "2025-12-11 01:33:38",
+    "radio": "expres",
+    "recorded_at": "2025-12-11T01:34:06.642739+01:00",
+    "raw_valid": true,
+    "song_session_id": "e3314e02-13ed-4ce3-8d74-2db332f18a58"
+  },
+  {
+    "song": "Denisa",
+    "artists": [
+      "Miro Zbirka"
+    ],
+    "isrc": "SKA120208205",
+    "start_time": "2025-12-11 01:36:45",
+    "radio": "expres",
+    "recorded_at": "2025-12-11T01:37:09.039107+01:00",
+    "raw_valid": true,
+    "song_session_id": "b66c301d-d344-49bb-906d-0e2ad4f81343"
+  },
+  {
+    "song": "Skin",
+    "artists": [
+      "Rag N Bone Man"
+    ],
+    "isrc": "GBARL1601147",
+    "start_time": "2025-12-11 01:39:38",
+    "radio": "expres",
+    "recorded_at": "2025-12-11T01:40:12.686648+01:00",
+    "raw_valid": true,
+    "song_session_id": "d6638efd-8990-4337-9b05-4ccb3ecc79ac"
+  },
+  {
+    "song": "Amnestia Na Neveru",
+    "artists": [
+      "Elan"
+    ],
+    "isrc": "TCAEF1942479",
+    "start_time": "2025-12-11 01:43:40",
+    "radio": "expres",
+    "recorded_at": "2025-12-11T01:43:56.078807+01:00",
+    "raw_valid": true,
+    "song_session_id": "58b76960-8eda-4acb-9d08-a32fcc752811"
+  },
+  {
+    "song": "The Dead Dance",
+    "artists": [
+      "Lady Gaga"
+    ],
+    "isrc": "USUM72407034",
+    "start_time": "2025-12-11 01:46:46",
+    "radio": "expres",
+    "recorded_at": "2025-12-11T01:46:59.723809+01:00",
+    "raw_valid": true,
+    "song_session_id": "21c52944-1223-4f24-a6d7-1b29e0640684"
+  },
+  {
+    "song": "Besame Mucho",
+    "artists": [
+      "Imt Smile"
+    ],
+    "isrc": "SKA010500072",
+    "start_time": "2025-12-11 01:50:21",
+    "radio": "expres",
+    "recorded_at": "2025-12-11T01:50:43.979872+01:00",
+    "raw_valid": true,
+    "song_session_id": "3766c11a-5451-4c60-9e06-c4a7c262b62a"
+  },
+  {
+    "song": "Leave Out All The Rest",
+    "artists": [
+      "Linkin Park"
+    ],
+    "isrc": "USWB10701212",
+    "start_time": "2025-12-11 01:53:54",
+    "radio": "expres",
+    "recorded_at": "2025-12-11T01:54:07.917814+01:00",
+    "raw_valid": true,
+    "song_session_id": "c1d62352-12b8-4c9f-8824-3d82bdfa80ce"
+  },
+  {
+    "song": "All I Want For Christmas Is You",
+    "artists": [
+      "Mariah Carey"
+    ],
+    "isrc": "USSM19400325",
+    "start_time": "2025-12-11 01:57:17",
+    "radio": "expres",
+    "recorded_at": "2025-12-11T01:57:36.940087+01:00",
+    "raw_valid": true,
+    "song_session_id": "c7d4251d-df2a-4668-a892-a0417b1a9012"
+  },
+  {
+    "song": "By Your Side (In My Mind)",
+    "artists": [
+      "Leony"
+    ],
+    "isrc": "DEN062400804",
+    "start_time": "2025-12-11 02:01:03",
+    "radio": "expres",
+    "recorded_at": "2025-12-11T02:01:21.232409+01:00",
+    "raw_valid": true,
+    "song_session_id": "87aed49f-e119-421a-b072-838af49532e0"
+  },
+  {
+    "song": "Medzi Nami",
+    "artists": [
+      "Adam Durica"
+    ],
+    "isrc": "SKA012100031",
+    "start_time": "2025-12-11 02:03:59",
+    "radio": "expres",
+    "recorded_at": "2025-12-11T02:04:24.945970+01:00",
+    "raw_valid": true,
+    "song_session_id": "23479ed1-7fc8-4c3c-ac65-0ae128881eb8"
+  },
+  {
+    "song": "Wonderful Life 25",
+    "artists": [
+      "Hurts",
+      "Purple Disco Machine"
+    ],
+    "isrc": "DEE862500677",
+    "start_time": "2025-12-11 02:07:49",
+    "radio": "expres",
+    "recorded_at": "2025-12-11T02:08:08.144571+01:00",
+    "raw_valid": true,
+    "song_session_id": "dc843f28-47a7-4b85-a7bf-72ab4620af62"
+  },
+  {
+    "song": "Snad Nie Je Hriech",
+    "artists": [
+      "Peter Cmorik"
+    ],
+    "isrc": "CZA210700802",
+    "start_time": "2025-12-11 02:10:48",
+    "radio": "expres",
+    "recorded_at": "2025-12-11T02:11:11.983293+01:00",
+    "raw_valid": true,
+    "song_session_id": "a9078ffe-e32f-4d34-a5e4-1acba66acaa7"
+  },
+  {
+    "song": "Desert Rose",
+    "artists": [
+      "Sting"
+    ],
+    "isrc": "USIR19902517",
+    "start_time": "2025-12-11 02:14:37",
+    "radio": "expres",
+    "recorded_at": "2025-12-11T02:14:56.176126+01:00",
+    "raw_valid": true,
+    "song_session_id": "284f6c95-d861-4b70-b84b-47a0b033cc92"
+  },
+  {
+    "song": "Normalny Zivot",
+    "artists": [
+      "Sima Martausova"
+    ],
+    "isrc": "SKG081300101",
+    "start_time": "2025-12-11 02:18:30",
+    "radio": "expres",
+    "recorded_at": "2025-12-11T02:19:00.718549+01:00",
+    "raw_valid": true,
+    "song_session_id": "fda7c331-14cc-4dec-80ad-19a87bf94e61"
+  },
+  {
+    "song": "Sapphire",
+    "artists": [
+      "Ed Sheeran"
+    ],
+    "isrc": "GBAHS2500262",
+    "start_time": "2025-12-11 02:21:08",
+    "radio": "expres",
+    "recorded_at": "2025-12-11T02:21:43.211559+01:00",
+    "raw_valid": true,
+    "song_session_id": "6f2db88d-2f09-42ee-93e6-c60c9a1fd9d5"
+  },
+  {
+    "song": "Som V Tom",
+    "artists": [
+      "Team"
+    ],
+    "isrc": "SKA128804509",
+    "start_time": "2025-12-11 02:24:03",
+    "radio": "expres",
+    "recorded_at": "2025-12-11T02:24:26.636155+01:00",
+    "raw_valid": true,
+    "song_session_id": "787acf77-980b-4ff2-a866-f380d7fff669"
+  },
+  {
+    "song": "Driving Home For Christmas",
+    "artists": [
+      "Chris Rea"
+    ],
+    "isrc": "GBAHS9904091",
+    "start_time": "2025-12-11 02:27:35",
+    "radio": "expres",
+    "recorded_at": "2025-12-11T02:27:50.189088+01:00",
+    "raw_valid": true,
+    "song_session_id": "60533018-8796-444a-9cd0-cd2106462023"
+  },
+  {
+    "song": "Blink Twice",
+    "artists": [
+      "Shaboozey",
+      "Myles Smith"
+    ],
+    "isrc": "USUYG1717098",
+    "start_time": "2025-12-11 02:31:24",
+    "radio": "expres",
+    "recorded_at": "2025-12-11T02:31:54.634943+01:00",
+    "raw_valid": true,
+    "song_session_id": "6e630439-00c3-4fd1-982d-1e71c2314565"
+  },
+  {
+    "song": "Thinking About You",
+    "artists": [
+      "Peter Bic Project"
+    ],
+    "isrc": "SKA011200054",
+    "start_time": "2025-12-11 02:33:57",
+    "radio": "expres",
+    "recorded_at": "2025-12-11T02:34:22.959127+01:00",
+    "raw_valid": true,
+    "song_session_id": "348ef68f-a401-4662-bdc6-671024263954"
+  },
+  {
+    "song": "Hungry Eyes",
+    "artists": [
+      "Eric Carmen"
+    ],
+    "isrc": "USRC19708312",
+    "start_time": "2025-12-11 02:37:43",
+    "radio": "expres",
+    "recorded_at": "2025-12-11T02:38:04.747611+01:00",
+    "raw_valid": true,
+    "song_session_id": "9beb0d34-b668-4077-b6ef-d240cc30d5af"
+  },
+  {
+    "song": "Ked Muz Miluje Zenu",
+    "artists": [
+      "Robo Opatovsky"
+    ],
+    "isrc": "SKC251701406",
+    "start_time": "2025-12-11 02:41:37",
+    "radio": "expres",
+    "recorded_at": "2025-12-11T02:41:50.987898+01:00",
+    "raw_valid": true,
+    "song_session_id": "2f5bd7a8-d7fe-4cc1-96f5-d8f5976e051c"
+  },
+  {
+    "song": "Comin Home",
+    "artists": [
+      "Diddy-Dirty Money",
+      "Skylar Grey"
+    ],
+    "isrc": "USUM71027542",
+    "start_time": "2025-12-11 02:45:58",
+    "radio": "expres",
+    "recorded_at": "2025-12-11T02:46:20.141060+01:00",
+    "raw_valid": true,
+    "song_session_id": "8a549e07-4671-4433-8c37-fbbfc5686f34"
+  },
+  {
+    "song": "Prepojeni",
+    "artists": [
+      "Para"
+    ],
+    "isrc": "SKCF92500001",
+    "start_time": "2025-12-11 02:48:53",
+    "radio": "expres",
+    "recorded_at": "2025-12-11T02:49:22.014579+01:00",
+    "raw_valid": true,
+    "song_session_id": "4ec58b4a-bef4-4d5b-beb4-3e05683269cd"
+  },
+  {
+    "song": "Wonders",
+    "artists": [
+      "Michael Patrick Kelly",
+      "Rakim"
+    ],
+    "isrc": "DEE862201500",
+    "start_time": "2025-12-11 02:52:16",
+    "radio": "expres",
+    "recorded_at": "2025-12-11T02:52:45.927804+01:00",
+    "raw_valid": true,
+    "song_session_id": "1fc6aeb3-a5b3-463d-b0f7-a175c1f3223d"
+  },
+  {
+    "song": "Kazdy Den Budu Vraj Vianoce",
+    "artists": [
+      "Lojzo",
+      "Miro Zbirka"
+    ],
+    "isrc": "SKA129075601",
+    "start_time": "2025-12-11 02:55:46",
+    "radio": "expres",
+    "recorded_at": "2025-12-11T02:56:14.888754+01:00",
+    "raw_valid": true,
+    "song_session_id": "0fd8f90a-aeec-4d60-9dee-388b4fd94d17"
+  }
+]

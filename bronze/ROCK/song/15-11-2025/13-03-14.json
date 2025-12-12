@@ -1,0 +1,366 @@
+[
+  {
+    "last_update": "2025-11-15 11:05:25",
+    "song": {
+      "musicAuthor": "Smash Mouth",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048514f3bbf9631faeb8de9912a23",
+      "musicTitle": "All Star",
+      "radio": "Rádio ROCK",
+      "startTime": "12:04"
+    },
+    "recorded_at": "2025-11-15T12:05:25.551206+01:00",
+    "raw_valid": true,
+    "song_session_id": "a88c9a09-022f-4730-af87-84d31dfc9378"
+  },
+  {
+    "last_update": "2025-11-15 11:09:27",
+    "song": {
+      "musicAuthor": "The Stranglers",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851a713f9b06accedba5d963d61",
+      "musicTitle": "Golden Brown",
+      "radio": "Rádio ROCK",
+      "startTime": "12:08"
+    },
+    "recorded_at": "2025-11-15T12:09:27.655573+01:00",
+    "raw_valid": true,
+    "song_session_id": "b1e6b0b1-a6a3-4b5b-952e-947364f38a03"
+  },
+  {
+    "last_update": "2025-11-15 11:13:27",
+    "song": {
+      "musicAuthor": "Metallica",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048517c05e69390ab7c628a83cee7",
+      "musicTitle": "One",
+      "radio": "Rádio ROCK",
+      "startTime": "12:12"
+    },
+    "recorded_at": "2025-11-15T12:13:28.162788+01:00",
+    "raw_valid": true,
+    "song_session_id": "8200eb97-93e6-4763-b0a2-fd4666f7dbe5"
+  },
+  {
+    "last_update": "2025-11-15 11:20:29",
+    "song": {
+      "musicAuthor": "Gladiator",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048519e1004ad4208503050590037",
+      "musicTitle": "Vsetko Bude Dobre",
+      "radio": "Rádio ROCK",
+      "startTime": "12:19"
+    },
+    "recorded_at": "2025-11-15T12:20:29.851243+01:00",
+    "raw_valid": true,
+    "song_session_id": "15a4e059-c77b-4637-9322-73e28e4ba09f"
+  },
+  {
+    "last_update": "2025-11-15 11:23:31",
+    "song": {
+      "musicAuthor": "Horkýže Slíže",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851a1dba7a16c82818421fc734a",
+      "musicTitle": "Brďokoky",
+      "radio": "Rádio ROCK",
+      "startTime": "12:22"
+    },
+    "recorded_at": "2025-11-15T12:23:32.656721+01:00",
+    "raw_valid": true,
+    "song_session_id": "3a82fec1-3e03-400f-a3fb-b9c8f958d030"
+  },
+  {
+    "last_update": "2025-11-15 11:26:32",
+    "song": {
+      "musicAuthor": "Uriah Heep",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851129b97b6a6d11c358be74e3b",
+      "musicTitle": "Lady In Black",
+      "radio": "Rádio ROCK",
+      "startTime": "12:25"
+    },
+    "recorded_at": "2025-11-15T12:26:32.865620+01:00",
+    "raw_valid": true,
+    "song_session_id": "d465e065-7953-4863-9fa7-6442fe7869b7"
+  },
+  {
+    "last_update": "2025-11-15 11:30:32",
+    "song": {
+      "musicAuthor": "Travis",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851f54b99bf27cda88f4a7403ce",
+      "musicTitle": "Sing",
+      "radio": "Rádio ROCK",
+      "startTime": "12:30"
+    },
+    "recorded_at": "2025-11-15T12:30:33.137959+01:00",
+    "raw_valid": true,
+    "song_session_id": "76a402da-9c54-4ffb-8237-b7237d2bf212"
+  },
+  {
+    "last_update": "2025-11-15 11:34:33",
+    "song": {
+      "musicAuthor": "Bullet For My Valentine",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851f467961e3089fd694c893584",
+      "musicTitle": "Your Betrayal",
+      "radio": "Rádio ROCK",
+      "startTime": "12:33"
+    },
+    "recorded_at": "2025-11-15T12:34:33.703263+01:00",
+    "raw_valid": true,
+    "song_session_id": "a2a6f86c-2e1d-4161-a69e-a4296b85df64"
+  },
+  {
+    "last_update": "2025-11-15 11:39:34",
+    "song": {
+      "musicAuthor": "Toto",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048514a052b99c042dc15f933145b",
+      "musicTitle": "Africa",
+      "radio": "Rádio ROCK",
+      "startTime": "12:38"
+    },
+    "recorded_at": "2025-11-15T12:39:34.189651+01:00",
+    "raw_valid": true,
+    "song_session_id": "27d3d002-f840-4d93-aca7-49a67114d77a"
+  },
+  {
+    "last_update": "2025-11-15 11:44:34",
+    "song": {
+      "musicAuthor": "Papa Roach & Maria Brink",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048511ba664a424bfd94836feb72f",
+      "musicTitle": "Gravity",
+      "radio": "Rádio ROCK",
+      "startTime": "12:43"
+    },
+    "recorded_at": "2025-11-15T12:44:34.968099+01:00",
+    "raw_valid": true,
+    "song_session_id": "a47b12c5-b48d-4568-9f2e-5638207e8a66"
+  },
+  {
+    "last_update": "2025-11-15 11:49:07",
+    "song": {
+      "musicAuthor": "Janis Joplin",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048511ba5ee8bc24979ce3eee4797",
+      "musicTitle": "Piece Of My Heart",
+      "radio": "Rádio ROCK",
+      "startTime": "12:47"
+    },
+    "recorded_at": "2025-11-15T12:49:08.013676+01:00",
+    "raw_valid": true,
+    "song_session_id": "5a2c70fd-73f3-4b4b-82c2-5aea161f5d97"
+  },
+  {
+    "last_update": "2025-11-15 11:52:07",
+    "song": {
+      "musicAuthor": "Disturbed",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048519ed426cd696d9bfc8215fff6",
+      "musicTitle": "Land Of Confusion",
+      "radio": "Rádio ROCK",
+      "startTime": "12:51"
+    },
+    "recorded_at": "2025-11-15T12:52:08.360320+01:00",
+    "raw_valid": true,
+    "song_session_id": "cb6ca18e-f5ca-445c-9346-f7e96f4c54bf"
+  },
+  {
+    "last_update": "2025-11-15 11:57:08",
+    "song": {
+      "musicAuthor": "Alanis Morissette",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851242e643ea07118ecf677a6ef",
+      "musicTitle": "You Oughta Know",
+      "radio": "Rádio ROCK",
+      "startTime": "12:56"
+    },
+    "recorded_at": "2025-11-15T12:57:08.945311+01:00",
+    "raw_valid": true,
+    "song_session_id": "b170301e-4152-4ee7-a782-0ca7ef23a39c"
+  },
+  {
+    "last_update": "2025-11-15 12:02:09",
+    "song": {
+      "musicAuthor": "All American Rejects",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048513ebbaf69ee21176cc04c9182",
+      "musicTitle": "Gives You Hell",
+      "radio": "Rádio ROCK",
+      "startTime": "13:01"
+    },
+    "recorded_at": "2025-11-15T13:02:10.052586+01:00",
+    "raw_valid": true,
+    "song_session_id": "ed577bad-4844-447f-a493-11a547262db6"
+  },
+  {
+    "last_update": "2025-11-15 12:05:09",
+    "song": {
+      "musicAuthor": "Wanastowi Vjecy",
+      "musicCover": "https://static.radia.sk/covers/32/5e454580-fa03-4ca6-89e2-d837eff7ac04.jpg",
+      "musicTitle": "Tak Mi To Teda Nandej",
+      "radio": "Rádio ROCK",
+      "startTime": "13:05"
+    },
+    "recorded_at": "2025-11-15T13:05:10.287796+01:00",
+    "raw_valid": true,
+    "song_session_id": "ef93093a-ed1e-4067-89f4-1ec7e26e9c66"
+  },
+  {
+    "last_update": "2025-11-15 12:09:10",
+    "song": {
+      "musicAuthor": "Twisted Sister",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851053893102d89b4f6d0e1354a",
+      "musicTitle": "We Are Not Gonna Take It",
+      "radio": "Rádio ROCK",
+      "startTime": "13:08"
+    },
+    "recorded_at": "2025-11-15T13:09:11.351188+01:00",
+    "raw_valid": true,
+    "song_session_id": "7b9b7a4d-2d7e-4a46-a0fa-2b9545211148"
+  },
+  {
+    "last_update": "2025-11-15 12:12:11",
+    "song": {
+      "musicAuthor": "Talent Billy",
+      "musicCover": "https://static.radia.sk/covers/32/de576c6c-e2e5-4950-86d1-14614b268803.jpg",
+      "musicTitle": "Viking Death March",
+      "radio": "Rádio ROCK",
+      "startTime": "13:11"
+    },
+    "recorded_at": "2025-11-15T13:12:11.532687+01:00",
+    "raw_valid": true,
+    "song_session_id": "d291c4bc-0a96-4793-83bb-8b9da068fba7"
+  },
+  {
+    "last_update": "2025-11-15 12:17:10",
+    "song": {
+      "musicAuthor": "Linkin Park",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851b4ad7ebaf4575f120eb3f193",
+      "musicTitle": "Faint",
+      "radio": "Rádio ROCK",
+      "startTime": "13:16"
+    },
+    "recorded_at": "2025-11-15T13:17:11.849519+01:00",
+    "raw_valid": true,
+    "song_session_id": "d52f78a1-8d7f-4a46-bf16-b7d6c212cef0"
+  },
+  {
+    "last_update": "2025-11-15 12:20:13",
+    "song": {
+      "musicAuthor": "Blink 182",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851dd062fffb1397a727f3f1fb6",
+      "musicTitle": "One More Time",
+      "radio": "Rádio ROCK",
+      "startTime": "13:19"
+    },
+    "recorded_at": "2025-11-15T13:20:13.030602+01:00",
+    "raw_valid": true,
+    "song_session_id": "4c8af648-2f36-49bb-9410-2d5396bea825"
+  },
+  {
+    "last_update": "2025-11-15 12:23:17",
+    "song": {
+      "musicAuthor": "The Clash",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485125a4df452a3c42ccc2e9288b",
+      "musicTitle": "Should I Stay Or Should I Go",
+      "radio": "Rádio ROCK",
+      "startTime": "13:22"
+    },
+    "recorded_at": "2025-11-15T13:23:18.196194+01:00",
+    "raw_valid": true,
+    "song_session_id": "a7e40db7-2fc8-4f1e-99c9-3dd5e8ddfa81"
+  },
+  {
+    "last_update": "2025-11-15 12:26:18",
+    "song": {
+      "musicAuthor": "The Goo Goo Dolls",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851eda9478c39a21e1cdc6609ca",
+      "musicTitle": "Iris",
+      "radio": "Rádio ROCK",
+      "startTime": "13:26"
+    },
+    "recorded_at": "2025-11-15T13:26:18.394875+01:00",
+    "raw_valid": true,
+    "song_session_id": "c7d6601f-15f5-4357-9db8-f298e4067213"
+  },
+  {
+    "last_update": "2025-11-15 12:31:19",
+    "song": {
+      "musicAuthor": "Evanescence",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485125f49ab23f0ec6332efef432",
+      "musicTitle": "My Immortal",
+      "radio": "Rádio ROCK",
+      "startTime": "13:30"
+    },
+    "recorded_at": "2025-11-15T13:31:20.337862+01:00",
+    "raw_valid": true,
+    "song_session_id": "409d2041-a5a8-4b06-9980-dcec8475a7b0"
+  },
+  {
+    "last_update": "2025-11-15 12:35:22",
+    "song": {
+      "musicAuthor": "Megadeth",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048517b178f928742be1492c6fba2",
+      "musicTitle": "Symphony Of Destruction",
+      "radio": "Rádio ROCK",
+      "startTime": "13:34"
+    },
+    "recorded_at": "2025-11-15T13:35:22.552441+01:00",
+    "raw_valid": true,
+    "song_session_id": "08f96e1a-e74e-4ee6-8453-5b30a9f24903"
+  },
+  {
+    "last_update": "2025-11-15 12:39:23",
+    "song": {
+      "musicAuthor": "Gladiátor",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851ac2af009c69cbc3a409035b9",
+      "musicTitle": "In Your Head",
+      "radio": "Rádio ROCK",
+      "startTime": "13:39"
+    },
+    "recorded_at": "2025-11-15T13:39:23.083626+01:00",
+    "raw_valid": true,
+    "song_session_id": "0d437a8a-edf3-4550-8946-d3daced81c9b"
+  },
+  {
+    "last_update": "2025-11-15 12:44:25",
+    "song": {
+      "musicAuthor": "Slade",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485184b6474df4a8ed448daa8295",
+      "musicTitle": "My, Oh My",
+      "radio": "Rádio ROCK",
+      "startTime": "13:44"
+    },
+    "recorded_at": "2025-11-15T13:44:25.909899+01:00",
+    "raw_valid": true,
+    "song_session_id": "0a542bd0-25ac-402f-b477-441ee44ef118"
+  },
+  {
+    "last_update": "2025-11-15 12:48:26",
+    "song": {
+      "musicAuthor": "Red Hot Chili Peppers",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485194d08ab63e57b0cae74e8595",
+      "musicTitle": "Californication",
+      "radio": "Rádio ROCK",
+      "startTime": "13:47"
+    },
+    "recorded_at": "2025-11-15T13:48:26.198505+01:00",
+    "raw_valid": true,
+    "song_session_id": "65dda047-4cfc-4300-91d2-7f4ee3171f83"
+  },
+  {
+    "last_update": "2025-11-15 12:54:26",
+    "song": {
+      "musicAuthor": "Nightwish",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485115c43f478bf43c734225b814",
+      "musicTitle": "I Wish I Had An Angel",
+      "radio": "Rádio ROCK",
+      "startTime": "13:53"
+    },
+    "recorded_at": "2025-11-15T13:54:27.099480+01:00",
+    "raw_valid": true,
+    "song_session_id": "a3e8ba44-1edb-40cc-911f-10dc63a3ea35"
+  },
+  {
+    "last_update": "2025-11-15 12:58:27",
+    "song": {
+      "musicAuthor": "Tublatanka",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048514b813e7e56c0e4c85f8cb5d0",
+      "musicTitle": "Pravda Víťazí",
+      "radio": "Rádio ROCK",
+      "startTime": "13:57"
+    },
+    "recorded_at": "2025-11-15T13:58:28.417634+01:00",
+    "raw_valid": true,
+    "song_session_id": "c22f8446-efc8-48a3-9f7a-2595f7232e07"
+  }
+]

@@ -1,0 +1,396 @@
+[
+  {
+    "song": "Ordinary",
+    "artists": [
+      "Alex Warren"
+    ],
+    "isrc": "USAT22500463",
+    "start_time": "2025-11-06 22:05:54",
+    "radio": "expres",
+    "recorded_at": "2025-11-06T22:06:23.992825+01:00",
+    "raw_valid": true,
+    "song_session_id": "d74b78ca-6a08-4a8b-a356-ec8576ab3d45"
+  },
+  {
+    "song": "Fuoco Nel Fuoco",
+    "artists": [
+      "Eros Ramazzotti"
+    ],
+    "isrc": "NLA200000084",
+    "start_time": "2025-11-06 22:09:04",
+    "radio": "expres",
+    "recorded_at": "2025-11-06T22:09:21.972706+01:00",
+    "raw_valid": true,
+    "song_session_id": "20941a07-0568-41f5-9b14-9352224981ab"
+  },
+  {
+    "song": "Domov",
+    "artists": [
+      "Alan Murin"
+    ],
+    "isrc": "QZWDW2424416",
+    "start_time": "2025-11-06 22:13:07",
+    "radio": "expres",
+    "recorded_at": "2025-11-06T22:13:30.043880+01:00",
+    "raw_valid": true,
+    "song_session_id": "6a90816b-40a3-428e-bca0-6da8be6bbedd"
+  },
+  {
+    "song": "Kings & Queens",
+    "artists": [
+      "Ava Max"
+    ],
+    "isrc": "USAT21906943",
+    "start_time": "2025-11-06 22:17:12",
+    "radio": "expres",
+    "recorded_at": "2025-11-06T22:17:34.282119+01:00",
+    "raw_valid": true,
+    "song_session_id": "e60ac8fa-e221-48e6-943d-5c433b93f4bd"
+  },
+  {
+    "song": "No Time To Talk",
+    "artists": [
+      "Jonas Brothers"
+    ],
+    "isrc": "USUG12504831",
+    "start_time": "2025-11-06 22:19:49",
+    "radio": "expres",
+    "recorded_at": "2025-11-06T22:20:21.602350+01:00",
+    "raw_valid": true,
+    "song_session_id": "4a58000b-cbf5-4f91-85f9-338dbdb60a6d"
+  },
+  {
+    "song": "Ill Be There For You",
+    "artists": [
+      "Rembrandts"
+    ],
+    "isrc": "USEE10001295",
+    "start_time": "2025-11-06 22:22:38",
+    "radio": "expres",
+    "recorded_at": "2025-11-06T22:23:04.798732+01:00",
+    "raw_valid": true,
+    "song_session_id": "51afe3ca-c903-437e-80a6-69c4e07aff26"
+  },
+  {
+    "song": "The Sound Of Silence",
+    "artists": [
+      "Disturbed"
+    ],
+    "isrc": "USRE12400063",
+    "start_time": "2025-11-06 22:25:38",
+    "radio": "expres",
+    "recorded_at": "2025-11-06T22:26:02.870704+01:00",
+    "raw_valid": true,
+    "song_session_id": "13bd78cc-c126-4067-8875-e267f1a7a932"
+  },
+  {
+    "song": "Papierove Kone",
+    "artists": [
+      "Nocaden"
+    ],
+    "isrc": "SKBW52400104",
+    "start_time": "2025-11-06 22:28:37",
+    "radio": "expres",
+    "recorded_at": "2025-11-06T22:29:05.774123+01:00",
+    "raw_valid": true,
+    "song_session_id": "6bc3aac2-d436-4327-ab28-7bd65626a554"
+  },
+  {
+    "song": "Million Good Reasons",
+    "artists": [
+      "Robin Schulz",
+      "Fast Boy"
+    ],
+    "isrc": "DEA622404738",
+    "start_time": "2025-11-06 22:34:10",
+    "radio": "expres",
+    "recorded_at": "2025-11-06T22:34:36.023173+01:00",
+    "raw_valid": true,
+    "song_session_id": "d9487588-f350-4abd-9886-f902b46243ec"
+  },
+  {
+    "song": "Dnes",
+    "artists": [
+      "Tublatanka"
+    ],
+    "isrc": "SKA128710206",
+    "start_time": "2025-11-06 22:36:55",
+    "radio": "expres",
+    "recorded_at": "2025-11-06T22:37:17.648390+01:00",
+    "raw_valid": true,
+    "song_session_id": "30b6cd35-182f-4c36-9208-fc60a7518f3e"
+  },
+  {
+    "song": "Perfect",
+    "artists": [
+      "Ed Sheeran"
+    ],
+    "isrc": "GBAHS1700024",
+    "start_time": "2025-11-06 22:41:31",
+    "radio": "expres",
+    "recorded_at": "2025-11-06T22:42:03.740790+01:00",
+    "raw_valid": true,
+    "song_session_id": "50c5a733-3334-4922-be40-5ae15bed25ee"
+  },
+  {
+    "song": "Wonderful Life 25",
+    "artists": [
+      "Hurts",
+      "Purple Disco Machine"
+    ],
+    "isrc": "DEE862500677",
+    "start_time": "2025-11-06 22:45:57",
+    "radio": "expres",
+    "recorded_at": "2025-11-06T22:46:21.830640+01:00",
+    "raw_valid": true,
+    "song_session_id": "68d9b4d7-5526-4ab0-9f36-a1267fda4d92"
+  },
+  {
+    "song": "Cudzinka V Tvojej Zemi",
+    "artists": [
+      "Xindl X",
+      "Mirka Miskechova"
+    ],
+    "isrc": "CZUM71400626",
+    "start_time": "2025-11-06 22:48:50",
+    "radio": "expres",
+    "recorded_at": "2025-11-06T22:48:59.696164+01:00",
+    "raw_valid": true,
+    "song_session_id": "40f0e2e6-0eea-4ce9-9702-cbd4ac09a655"
+  },
+  {
+    "song": "Waterfall",
+    "artists": [
+      "Michael Schulte",
+      "R3Hab"
+    ],
+    "isrc": "DEUM72119688",
+    "start_time": "2025-11-06 22:51:45",
+    "radio": "expres",
+    "recorded_at": "2025-11-06T22:52:11.544385+01:00",
+    "raw_valid": true,
+    "song_session_id": "c21ae1d5-8a51-4766-9f90-6e5df7bf8e1a"
+  },
+  {
+    "song": "Talk To Me",
+    "artists": [
+      "Damiano David",
+      "Tyla",
+      "Nile Rodgers"
+    ],
+    "isrc": "ITB002500942",
+    "start_time": "2025-11-06 22:54:02",
+    "radio": "expres",
+    "recorded_at": "2025-11-06T22:54:29.058144+01:00",
+    "raw_valid": true,
+    "song_session_id": "1e6e3bb9-ba58-4fc4-bb86-1fbd5c7959b8"
+  },
+  {
+    "song": "Follow You",
+    "artists": [
+      "Imagine Dragons"
+    ],
+    "isrc": "USUM72102981",
+    "start_time": "2025-11-06 22:57:30",
+    "radio": "expres",
+    "recorded_at": "2025-11-06T22:57:54.812398+01:00",
+    "raw_valid": true,
+    "song_session_id": "c508277b-8142-42ad-b7b0-598a8f259d75"
+  },
+  {
+    "song": "I Aint Worried",
+    "artists": [
+      "Onerepublic"
+    ],
+    "isrc": "USUM72206227",
+    "start_time": "2025-11-06 23:05:26",
+    "radio": "expres",
+    "recorded_at": "2025-11-06T23:05:45.288498+01:00",
+    "raw_valid": true,
+    "song_session_id": "107f469a-939e-4d41-bd12-9804e71fcdf9"
+  },
+  {
+    "song": "Clocks",
+    "artists": [
+      "Coldplay"
+    ],
+    "isrc": "GBAYE0200771",
+    "start_time": "2025-11-06 23:08:01",
+    "radio": "expres",
+    "recorded_at": "2025-11-06T23:08:26.434079+01:00",
+    "raw_valid": true,
+    "song_session_id": "34b7be7e-e079-407a-91e5-d6b80b848c4b"
+  },
+  {
+    "song": "Be Mine",
+    "artists": [
+      "Kamrad"
+    ],
+    "isrc": "DE1NJ2500035",
+    "start_time": "2025-11-06 23:12:09",
+    "radio": "expres",
+    "recorded_at": "2025-11-06T23:12:30.226996+01:00",
+    "raw_valid": true,
+    "song_session_id": "233ed06a-0a4e-42a0-be60-92bef4eef168"
+  },
+  {
+    "song": "Sofia",
+    "artists": [
+      "Alvaro Soler"
+    ],
+    "isrc": "DEUM71601055",
+    "start_time": "2025-11-06 23:14:47",
+    "radio": "expres",
+    "recorded_at": "2025-11-06T23:15:12.838138+01:00",
+    "raw_valid": true,
+    "song_session_id": "cd503b29-ed75-440b-ab0a-421031da83a3"
+  },
+  {
+    "song": "A Bar Song (Tipsy)",
+    "artists": [
+      "Shaboozey"
+    ],
+    "isrc": "USUYG1541249",
+    "start_time": "2025-11-06 23:18:23",
+    "radio": "expres",
+    "recorded_at": "2025-11-06T23:18:38.828165+01:00",
+    "raw_valid": true,
+    "song_session_id": "e6849f1a-f596-4a81-acae-f3b5400a2446"
+  },
+  {
+    "song": "Obchodnik S Destem",
+    "artists": [
+      "Krystof"
+    ],
+    "isrc": "CZA230200203",
+    "start_time": "2025-11-06 23:21:26",
+    "radio": "expres",
+    "recorded_at": "2025-11-06T23:21:45.658290+01:00",
+    "raw_valid": true,
+    "song_session_id": "ee2e0f40-e15e-4227-862d-de8b9f9181c9"
+  },
+  {
+    "song": "Pointless",
+    "artists": [
+      "Lewis Capaldi"
+    ],
+    "isrc": "DEUM72203211",
+    "start_time": "2025-11-06 23:25:02",
+    "radio": "expres",
+    "recorded_at": "2025-11-06T23:25:24.688848+01:00",
+    "raw_valid": true,
+    "song_session_id": "990c49d2-48dd-47ed-a7f9-dda6d11a44b9"
+  },
+  {
+    "song": "S Nohami Na Stole",
+    "artists": [
+      "Peter Nagy"
+    ],
+    "isrc": "FRX201716967",
+    "start_time": "2025-11-06 23:28:58",
+    "radio": "expres",
+    "recorded_at": "2025-11-06T23:29:24.915661+01:00",
+    "raw_valid": true,
+    "song_session_id": "e649a231-f841-49a5-a24a-e6428f051f9a"
+  },
+  {
+    "song": "The One",
+    "artists": [
+      "Michael Patrick Kelly"
+    ],
+    "isrc": "DEE862500476",
+    "start_time": "2025-11-06 23:33:23",
+    "radio": "expres",
+    "recorded_at": "2025-11-06T23:33:38.187091+01:00",
+    "raw_valid": true,
+    "song_session_id": "113943b4-8616-4c20-a9a7-5aae482012ba"
+  },
+  {
+    "song": "Adresa Ja Adresa Ty",
+    "artists": [
+      "Marika Gombitova"
+    ],
+    "isrc": "SKA128673104",
+    "start_time": "2025-11-06 23:36:21",
+    "radio": "expres",
+    "recorded_at": "2025-11-06T23:36:35.964764+01:00",
+    "raw_valid": true,
+    "song_session_id": "429e87a7-54fe-482e-905f-1affb030e44a"
+  },
+  {
+    "song": "Total Eclipse Of The Heart",
+    "artists": [
+      "Westlife"
+    ],
+    "isrc": "GBARL0601585",
+    "start_time": "2025-11-06 23:39:57",
+    "radio": "expres",
+    "recorded_at": "2025-11-06T23:40:30.339253+01:00",
+    "raw_valid": true,
+    "song_session_id": "b56d41bd-e1d6-4ecd-b629-ed3de940f80f"
+  },
+  {
+    "song": "Undressed",
+    "artists": [
+      "Sombr"
+    ],
+    "isrc": "USWB12500737",
+    "start_time": "2025-11-06 23:44:40",
+    "radio": "expres",
+    "recorded_at": "2025-11-06T23:45:15.691387+01:00",
+    "raw_valid": true,
+    "song_session_id": "c32f735f-170b-486d-89ef-c1eb79c4bf94"
+  },
+  {
+    "song": "La La La",
+    "artists": [
+      "Naughty Boy",
+      "Sam Smith"
+    ],
+    "isrc": "GBAAA1300148",
+    "start_time": "2025-11-06 23:47:47",
+    "radio": "expres",
+    "recorded_at": "2025-11-06T23:48:24.557334+01:00",
+    "raw_valid": true,
+    "song_session_id": "bf9562fa-38cd-45b6-9280-2103d80d7f7d"
+  },
+  {
+    "song": "Overdrive",
+    "artists": [
+      "Ofenbach",
+      "Norma Jean Martine"
+    ],
+    "isrc": "FR9W12347222",
+    "start_time": "2025-11-06 23:51:18",
+    "radio": "expres",
+    "recorded_at": "2025-11-06T23:51:32.465401+01:00",
+    "raw_valid": true,
+    "song_session_id": "e38b888b-dca0-46e0-ab99-735aee3d80fd"
+  },
+  {
+    "song": "Medzi Nebom A Zenou",
+    "artists": [
+      "Banket",
+      "Richard Muller",
+      "Ema Muller"
+    ],
+    "isrc": "SKC362500009",
+    "start_time": "2025-11-06 23:53:49",
+    "radio": "expres",
+    "recorded_at": "2025-11-06T23:54:20.878416+01:00",
+    "raw_valid": true,
+    "song_session_id": "c6e400fa-204b-4234-912c-b93e942b611a"
+  },
+  {
+    "song": "Lovefool",
+    "artists": [
+      "Twocolors"
+    ],
+    "isrc": "DEUM72001376",
+    "start_time": "2025-11-06 23:57:57",
+    "radio": "expres",
+    "recorded_at": "2025-11-06T23:58:24.544721+01:00",
+    "raw_valid": true,
+    "song_session_id": "d77b8b3a-2408-4737-9a52-f01332f33e50"
+  }
+]

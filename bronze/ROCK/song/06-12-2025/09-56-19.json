@@ -1,0 +1,405 @@
+[
+  {
+    "last_update": "2025-12-06 07:59:27",
+    "song": {
+      "musicAuthor": "Linkin Park",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851b4ad7ebaf4575f120eb3f193",
+      "musicTitle": "Numb",
+      "radio": "Rádio ROCK",
+      "startTime": "08:58"
+    },
+    "recorded_at": "2025-12-06T08:59:28.037095+01:00",
+    "raw_valid": true,
+    "song_session_id": "6474eecc-05c6-4ccd-b50f-ba3e4841738d"
+  },
+  {
+    "last_update": "2025-12-06 08:02:28",
+    "song": {
+      "musicAuthor": "Kabát",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851037ddf69c8399260eb890afd",
+      "musicTitle": "Burláci",
+      "radio": "Rádio ROCK",
+      "startTime": "09:01"
+    },
+    "recorded_at": "2025-12-06T09:02:28.387261+01:00",
+    "raw_valid": true,
+    "song_session_id": "2bf67046-3757-41d7-8321-d9dd612a151e"
+  },
+  {
+    "last_update": "2025-12-06 08:07:28",
+    "song": {
+      "musicAuthor": "Faith No More",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485136842671366bfeb3d7c5f19e",
+      "musicTitle": "Midlife Crisis",
+      "radio": "Rádio ROCK",
+      "startTime": "09:06"
+    },
+    "recorded_at": "2025-12-06T09:07:29.399262+01:00",
+    "raw_valid": true,
+    "song_session_id": "e9b5af17-69b1-4cc5-a205-96d16020cc65"
+  },
+  {
+    "last_update": "2025-12-06 08:11:30",
+    "song": {
+      "musicAuthor": "Bryan Adams",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851cf1fee2a55e98e22bf358512",
+      "musicTitle": "Summer Of '69",
+      "radio": "Rádio ROCK",
+      "startTime": "09:10"
+    },
+    "recorded_at": "2025-12-06T09:11:31.481533+01:00",
+    "raw_valid": true,
+    "song_session_id": "e04f2814-ed1d-4651-8aff-aff4f6d72e9f"
+  },
+  {
+    "last_update": "2025-12-06 08:15:31",
+    "song": {
+      "musicAuthor": "Weezer",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851345536847e60f622ee0eae96",
+      "musicTitle": "Buddy Holly",
+      "radio": "Rádio ROCK",
+      "startTime": "09:14"
+    },
+    "recorded_at": "2025-12-06T09:15:31.829883+01:00",
+    "raw_valid": true,
+    "song_session_id": "f35e42b5-c631-4f00-ab19-01ac69bdfd02"
+  },
+  {
+    "last_update": "2025-12-06 08:18:32",
+    "song": {
+      "musicAuthor": "Papa Roach",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851985bf5ede2fe4a048ee85f28",
+      "musicTitle": "Last Resort",
+      "radio": "Rádio ROCK",
+      "startTime": "09:17"
+    },
+    "recorded_at": "2025-12-06T09:18:33.224240+01:00",
+    "raw_valid": true,
+    "song_session_id": "d9e23bd2-a7a1-41ba-b73d-a5631e2e78a4"
+  },
+  {
+    "last_update": "2025-12-06 08:21:33",
+    "song": {
+      "musicAuthor": "Ine Kafe",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048518c650a994097bb30cdab2085",
+      "musicTitle": "Otazka Za Milion",
+      "radio": "Rádio ROCK",
+      "startTime": "09:21"
+    },
+    "recorded_at": "2025-12-06T09:21:33.531149+01:00",
+    "raw_valid": true,
+    "song_session_id": "2cc207b2-683c-42f6-8b07-a118e3cfc763"
+  },
+  {
+    "last_update": "2025-12-06 08:25:34",
+    "song": {
+      "musicAuthor": "Twisted Sister",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851053893102d89b4f6d0e1354a",
+      "musicTitle": "We Are Not Gonna Take It",
+      "radio": "Rádio ROCK",
+      "startTime": "09:24"
+    },
+    "recorded_at": "2025-12-06T09:25:35.463792+01:00",
+    "raw_valid": true,
+    "song_session_id": "8e04dfdb-011a-4b4f-a08f-6afdaa435994"
+  },
+  {
+    "last_update": "2025-12-06 08:29:37",
+    "song": {
+      "musicAuthor": "No Doubt",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048516ebd5e789646a833b8f7d4ba",
+      "musicTitle": "Just A Girl",
+      "radio": "Rádio ROCK",
+      "startTime": "09:28"
+    },
+    "recorded_at": "2025-12-06T09:29:37.535916+01:00",
+    "raw_valid": true,
+    "song_session_id": "e1fc5180-1a19-4380-82c5-371b39459fc8"
+  },
+  {
+    "last_update": "2025-12-06 08:32:07",
+    "song": {
+      "musicAuthor": "Metallica",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485196a926d07aea417327ea024a",
+      "musicTitle": "Fade To Black",
+      "radio": "Rádio ROCK",
+      "startTime": "09:31"
+    },
+    "recorded_at": "2025-12-06T09:32:07.769865+01:00",
+    "raw_valid": true,
+    "song_session_id": "e86f847f-d630-428c-b28a-808144c6f06f"
+  },
+  {
+    "last_update": "2025-12-06 08:37:09",
+    "song": {
+      "musicAuthor": "Horkýže Slíže",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485160348235029c408a3e558ab7",
+      "musicTitle": "Silný Refrén",
+      "radio": "Rádio ROCK",
+      "startTime": "09:36"
+    },
+    "recorded_at": "2025-12-06T09:37:09.671563+01:00",
+    "raw_valid": true,
+    "song_session_id": "657e1d3b-2351-441a-ae6e-e55ebf774ec8"
+  },
+  {
+    "last_update": "2025-12-06 08:40:08",
+    "song": {
+      "musicAuthor": "Rammstein",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048518b2c42026277efc3e058855b",
+      "musicTitle": "Links 2 3 4",
+      "radio": "Rádio ROCK",
+      "startTime": "09:40"
+    },
+    "recorded_at": "2025-12-06T09:40:09.849534+01:00",
+    "raw_valid": true,
+    "song_session_id": "aec1ef0f-ef75-42a2-ac87-6a5368a1cba5"
+  },
+  {
+    "last_update": "2025-12-06 08:44:09",
+    "song": {
+      "musicAuthor": "Ugly Kid Joe",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485159afd13f40fa2b0aab89bb0e",
+      "musicTitle": "Everything About You",
+      "radio": "Rádio ROCK",
+      "startTime": "09:43"
+    },
+    "recorded_at": "2025-12-06T09:44:10.336216+01:00",
+    "raw_valid": true,
+    "song_session_id": "57411549-6a25-4131-829b-f32c14080643"
+  },
+  {
+    "last_update": "2025-12-06 08:49:10",
+    "song": {
+      "musicAuthor": "De Burgh Chris",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851221400c5d5c0c66f6d638af8",
+      "musicTitle": "High On Emotion",
+      "radio": "Rádio ROCK",
+      "startTime": "09:48"
+    },
+    "recorded_at": "2025-12-06T09:49:11.183363+01:00",
+    "raw_valid": true,
+    "song_session_id": "2dc88431-1ae4-41eb-9cb3-ba9a106f9f4d"
+  },
+  {
+    "last_update": "2025-12-06 08:53:11",
+    "song": {
+      "musicAuthor": "Green Day",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851db89b08034de626ebee6823d",
+      "musicTitle": "Basket Case",
+      "radio": "Rádio ROCK",
+      "startTime": "09:52"
+    },
+    "recorded_at": "2025-12-06T09:53:11.505139+01:00",
+    "raw_valid": true,
+    "song_session_id": "bfd09894-019d-4fe2-8bd9-bd7128426399"
+  },
+  {
+    "last_update": "2025-12-06 08:56:13",
+    "song": {
+      "musicAuthor": "Maneskin & Tom Morello",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851e5c4776d41fd00198193ae53",
+      "musicTitle": "Gossip",
+      "radio": "Rádio ROCK",
+      "startTime": "09:55"
+    },
+    "recorded_at": "2025-12-06T09:56:13.321844+01:00",
+    "raw_valid": true,
+    "song_session_id": "b9480076-0630-4abe-af8e-da4118037740"
+  },
+  {
+    "last_update": "2025-12-06 08:59:13",
+    "song": {
+      "musicAuthor": "The Sex Pistols",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851b691fa29c123b5fc4bc5d469",
+      "musicTitle": "God Save The Queen",
+      "radio": "Rádio ROCK",
+      "startTime": "09:58"
+    },
+    "recorded_at": "2025-12-06T09:59:13.771752+01:00",
+    "raw_valid": true,
+    "song_session_id": "c3d508aa-464a-4fbe-8abd-37fde963c0b3"
+  },
+  {
+    "last_update": "2025-12-06 09:02:14",
+    "song": {
+      "musicAuthor": "Hoobastank",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485176cc6eedca8eb381afcd1e46",
+      "musicTitle": "The Reason",
+      "radio": "Rádio ROCK",
+      "startTime": "10:01"
+    },
+    "recorded_at": "2025-12-06T10:02:14.241604+01:00",
+    "raw_valid": true,
+    "song_session_id": "0936e1a7-82dd-4651-bfff-6b42329e7ed4"
+  },
+  {
+    "last_update": "2025-12-06 09:06:14",
+    "song": {
+      "musicAuthor": "Soul Asylum",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851a1b5db0138571e123e6c5894",
+      "musicTitle": "Runaway Train",
+      "radio": "Rádio ROCK",
+      "startTime": "10:05"
+    },
+    "recorded_at": "2025-12-06T10:06:15.323681+01:00",
+    "raw_valid": true,
+    "song_session_id": "ab4f0607-b105-456c-8d26-d9e98fb68f01"
+  },
+  {
+    "last_update": "2025-12-06 09:11:14",
+    "song": {
+      "musicAuthor": "The Fratellis",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851adba877024420660db2f124e",
+      "musicTitle": "Chelsea Dagger",
+      "radio": "Rádio ROCK",
+      "startTime": "10:10"
+    },
+    "recorded_at": "2025-12-06T10:11:15.815495+01:00",
+    "raw_valid": true,
+    "song_session_id": "348cab2a-d880-4d7f-a5ab-bd8dac22f92f"
+  },
+  {
+    "last_update": "2025-12-06 09:14:17",
+    "song": {
+      "musicAuthor": "Kiss",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048514384b6976cadaec272114022",
+      "musicTitle": "I Was Made For Lovin' You",
+      "radio": "Rádio ROCK",
+      "startTime": "10:13"
+    },
+    "recorded_at": "2025-12-06T10:14:17.826622+01:00",
+    "raw_valid": true,
+    "song_session_id": "735be425-d560-48d7-a0f3-1ff14119fc7b"
+  },
+  {
+    "last_update": "2025-12-06 09:18:18",
+    "song": {
+      "musicAuthor": "The Offspring",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485122d8ae3c8b5b1802ef1febf6",
+      "musicTitle": "Ok, But This Is The Last Time",
+      "radio": "Rádio ROCK",
+      "startTime": "10:18"
+    },
+    "recorded_at": "2025-12-06T10:18:18.793383+01:00",
+    "raw_valid": true,
+    "song_session_id": "7f8eff31-f59a-442e-bb23-913c6b4936c8"
+  },
+  {
+    "last_update": "2025-12-06 09:22:19",
+    "song": {
+      "musicAuthor": "Chad Kroeger Feat. Josey Scott",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851cab637c3978c4db066bfd16f",
+      "musicTitle": "Hero",
+      "radio": "Rádio ROCK",
+      "startTime": "10:21"
+    },
+    "recorded_at": "2025-12-06T10:22:19.756101+01:00",
+    "raw_valid": true,
+    "song_session_id": "26ec30b2-82f5-4880-971d-4455947877a8"
+  },
+  {
+    "last_update": "2025-12-06 09:25:21",
+    "song": {
+      "musicAuthor": "Dire Straits",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048513d15b942408bff9f507f189e",
+      "musicTitle": "Money For Nothing",
+      "radio": "Rádio ROCK",
+      "startTime": "10:24"
+    },
+    "recorded_at": "2025-12-06T10:25:21.624905+01:00",
+    "raw_valid": true,
+    "song_session_id": "6165472e-5e37-44bd-8a1f-8fe828a1772d"
+  },
+  {
+    "last_update": "2025-12-06 09:28:21",
+    "song": {
+      "musicAuthor": "Inxs",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048517ef5c661e64ec185d6180a40",
+      "musicTitle": "Disappear",
+      "radio": "Rádio ROCK",
+      "startTime": "10:28"
+    },
+    "recorded_at": "2025-12-06T10:28:21.906809+01:00",
+    "raw_valid": true,
+    "song_session_id": "06c8e334-c6ef-418b-99ef-cece1b55f33f"
+  },
+  {
+    "last_update": "2025-12-06 09:32:22",
+    "song": {
+      "musicAuthor": "Travis",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851a3af1ff0ed981bf3d9353af8",
+      "musicTitle": "Side",
+      "radio": "Rádio ROCK",
+      "startTime": "10:32"
+    },
+    "recorded_at": "2025-12-06T10:32:22.552056+01:00",
+    "raw_valid": true,
+    "song_session_id": "a64b8e47-9b25-4c45-bff3-388132887f01"
+  },
+  {
+    "last_update": "2025-12-06 09:36:24",
+    "song": {
+      "musicAuthor": "Iné Kafe",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851a36a083c5dec894348b99b3c",
+      "musicTitle": "Ráno",
+      "radio": "Rádio ROCK",
+      "startTime": "10:35"
+    },
+    "recorded_at": "2025-12-06T10:36:24.990449+01:00",
+    "raw_valid": true,
+    "song_session_id": "3e3bc5a4-202e-44ef-b6bc-09ad085b6144"
+  },
+  {
+    "last_update": "2025-12-06 09:40:25",
+    "song": {
+      "musicAuthor": "Bruce Springsteen",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851a7865e686c36a4adda6c9978",
+      "musicTitle": "Born In The U.S.A.",
+      "radio": "Rádio ROCK",
+      "startTime": "10:39"
+    },
+    "recorded_at": "2025-12-06T10:40:25.284025+01:00",
+    "raw_valid": true,
+    "song_session_id": "61a4b6ee-8a9f-4353-992b-07906c3655ee"
+  },
+  {
+    "last_update": "2025-12-06 09:45:25",
+    "song": {
+      "musicAuthor": "Pražský Výběr",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851dd4fbdc90c333d7f0b98b231",
+      "musicTitle": "Pražákům Je Hej",
+      "radio": "Rádio ROCK",
+      "startTime": "10:44"
+    },
+    "recorded_at": "2025-12-06T10:45:26.056800+01:00",
+    "raw_valid": true,
+    "song_session_id": "e4ac0c73-60fb-46b6-9fb2-595805d3ca5c"
+  },
+  {
+    "last_update": "2025-12-06 09:50:26",
+    "song": {
+      "musicAuthor": "Hooters The",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048519280b5fea3cde8e6caeaef00",
+      "musicTitle": "Johnny B.",
+      "radio": "Rádio ROCK",
+      "startTime": "10:49"
+    },
+    "recorded_at": "2025-12-06T10:50:26.345519+01:00",
+    "raw_valid": true,
+    "song_session_id": "1c85fe60-34aa-44da-a842-f23269ee0521"
+  },
+  {
+    "last_update": "2025-12-06 09:54:27",
+    "song": {
+      "musicAuthor": "Linkin Park",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485146e207de66ba06422897f769",
+      "musicTitle": "What I've Done",
+      "radio": "Rádio ROCK",
+      "startTime": "10:53"
+    },
+    "recorded_at": "2025-12-06T10:54:27.516928+01:00",
+    "raw_valid": true,
+    "song_session_id": "f83f86c4-4ca1-4475-a211-81bc057ed900"
+  }
+]

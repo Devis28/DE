@@ -1,0 +1,1154 @@
+[
+  {
+    "timestamp": "2025-11-26T16:03:21.371473",
+    "listeners": 69,
+    "radio": "jazz",
+    "recorded_at": "2025-11-26T16:04:32.063859+01:00",
+    "raw_valid": true,
+    "song_session_id": "7993c773-9890-436f-97f5-44f7567df90a"
+  },
+  {
+    "timestamp": "2025-11-26T16:03:21.371473",
+    "listeners": 69,
+    "radio": "jazz",
+    "recorded_at": "2025-11-26T16:04:32.119063+01:00",
+    "raw_valid": true,
+    "song_session_id": "7993c773-9890-436f-97f5-44f7567df90a"
+  },
+  {
+    "timestamp": "2025-11-26T16:05:03.914426",
+    "listeners": 76,
+    "radio": "jazz",
+    "recorded_at": "2025-11-26T16:06:08.107818+01:00",
+    "raw_valid": true,
+    "song_session_id": "8f4b1805-4d16-4a3e-a9e8-7ebb3dfc360b"
+  },
+  {
+    "timestamp": "2025-11-26T16:05:03.914426",
+    "listeners": 76,
+    "radio": "jazz",
+    "recorded_at": "2025-11-26T16:06:08.162392+01:00",
+    "raw_valid": true,
+    "song_session_id": "8f4b1805-4d16-4a3e-a9e8-7ebb3dfc360b"
+  },
+  {
+    "timestamp": "2025-11-26T16:06:42.161866",
+    "listeners": 62,
+    "radio": "jazz",
+    "recorded_at": "2025-11-26T16:07:52.266749+01:00",
+    "raw_valid": true,
+    "song_session_id": "8f4b1805-4d16-4a3e-a9e8-7ebb3dfc360b"
+  },
+  {
+    "timestamp": "2025-11-26T16:06:42.161866",
+    "listeners": 62,
+    "radio": "jazz",
+    "recorded_at": "2025-11-26T16:07:52.321583+01:00",
+    "raw_valid": true,
+    "song_session_id": "8f4b1805-4d16-4a3e-a9e8-7ebb3dfc360b"
+  },
+  {
+    "timestamp": "2025-11-26T16:08:24.105476",
+    "listeners": 66,
+    "radio": "jazz",
+    "recorded_at": "2025-11-26T16:09:28.321647+01:00",
+    "raw_valid": true,
+    "song_session_id": "8f4b1805-4d16-4a3e-a9e8-7ebb3dfc360b"
+  },
+  {
+    "timestamp": "2025-11-26T16:08:24.105476",
+    "listeners": 66,
+    "radio": "jazz",
+    "recorded_at": "2025-11-26T16:09:28.376967+01:00",
+    "raw_valid": true,
+    "song_session_id": "8f4b1805-4d16-4a3e-a9e8-7ebb3dfc360b"
+  },
+  {
+    "timestamp": "2025-11-26T16:10:00.154671",
+    "listeners": 68,
+    "radio": "jazz",
+    "recorded_at": "2025-11-26T16:11:12.901425+01:00",
+    "raw_valid": true,
+    "song_session_id": "e7c646b9-7108-4daf-b1c9-182ad2f39f9e"
+  },
+  {
+    "timestamp": "2025-11-26T16:10:00.154671",
+    "listeners": 68,
+    "radio": "jazz",
+    "recorded_at": "2025-11-26T16:11:16.644989+01:00",
+    "raw_valid": true,
+    "song_session_id": "e7c646b9-7108-4daf-b1c9-182ad2f39f9e"
+  },
+  {
+    "timestamp": "2025-11-26T16:11:48.447608",
+    "listeners": 71,
+    "radio": "jazz",
+    "recorded_at": "2025-11-26T16:12:52.826695+01:00",
+    "raw_valid": true,
+    "song_session_id": "e7c646b9-7108-4daf-b1c9-182ad2f39f9e"
+  },
+  {
+    "timestamp": "2025-11-26T16:11:48.447608",
+    "listeners": 71,
+    "radio": "jazz",
+    "recorded_at": "2025-11-26T16:12:52.881770+01:00",
+    "raw_valid": true,
+    "song_session_id": "e7c646b9-7108-4daf-b1c9-182ad2f39f9e"
+  },
+  {
+    "timestamp": "2025-11-26T16:13:24.658780",
+    "listeners": 66,
+    "radio": "jazz",
+    "recorded_at": "2025-11-26T16:14:32.281441+01:00",
+    "raw_valid": true,
+    "song_session_id": "e7c646b9-7108-4daf-b1c9-182ad2f39f9e"
+  },
+  {
+    "timestamp": "2025-11-26T16:13:24.658780",
+    "listeners": 66,
+    "radio": "jazz",
+    "recorded_at": "2025-11-26T16:14:32.337553+01:00",
+    "raw_valid": true,
+    "song_session_id": "e7c646b9-7108-4daf-b1c9-182ad2f39f9e"
+  },
+  {
+    "timestamp": "2025-11-26T16:15:08.420527",
+    "listeners": 73,
+    "radio": "jazz",
+    "recorded_at": "2025-11-26T16:16:12.825095+01:00",
+    "raw_valid": true,
+    "song_session_id": "e7c646b9-7108-4daf-b1c9-182ad2f39f9e"
+  },
+  {
+    "timestamp": "2025-11-26T16:15:08.420527",
+    "listeners": 73,
+    "radio": "jazz",
+    "recorded_at": "2025-11-26T16:16:12.882601+01:00",
+    "raw_valid": true,
+    "song_session_id": "e7c646b9-7108-4daf-b1c9-182ad2f39f9e"
+  },
+  {
+    "timestamp": "2025-11-26T16:16:44.658314",
+    "listeners": 69,
+    "radio": "jazz",
+    "recorded_at": "2025-11-26T16:17:52.431991+01:00",
+    "raw_valid": true,
+    "song_session_id": "e7c646b9-7108-4daf-b1c9-182ad2f39f9e"
+  },
+  {
+    "timestamp": "2025-11-26T16:16:44.658314",
+    "listeners": 69,
+    "radio": "jazz",
+    "recorded_at": "2025-11-26T16:17:52.486774+01:00",
+    "raw_valid": true,
+    "song_session_id": "e7c646b9-7108-4daf-b1c9-182ad2f39f9e"
+  },
+  {
+    "timestamp": "2025-11-26T16:18:24.251185",
+    "listeners": 72,
+    "radio": "jazz",
+    "recorded_at": "2025-11-26T16:19:28.645030+01:00",
+    "raw_valid": true,
+    "song_session_id": "e7c646b9-7108-4daf-b1c9-182ad2f39f9e"
+  },
+  {
+    "timestamp": "2025-11-26T16:18:24.251185",
+    "listeners": 72,
+    "radio": "jazz",
+    "recorded_at": "2025-11-26T16:19:28.699406+01:00",
+    "raw_valid": true,
+    "song_session_id": "e7c646b9-7108-4daf-b1c9-182ad2f39f9e"
+  },
+  {
+    "timestamp": "2025-11-26T16:20:00.470055",
+    "listeners": 67,
+    "radio": "jazz",
+    "recorded_at": "2025-11-26T16:21:04.661434+01:00",
+    "raw_valid": true,
+    "song_session_id": "196b825e-1240-48ad-9af6-0a70111daa2c"
+  },
+  {
+    "timestamp": "2025-11-26T16:20:00.470055",
+    "listeners": 67,
+    "radio": "jazz",
+    "recorded_at": "2025-11-26T16:21:04.720656+01:00",
+    "raw_valid": true,
+    "song_session_id": "196b825e-1240-48ad-9af6-0a70111daa2c"
+  },
+  {
+    "timestamp": "2025-11-26T16:21:36.734593",
+    "listeners": 79,
+    "radio": "jazz",
+    "recorded_at": "2025-11-26T16:22:40.951735+01:00",
+    "raw_valid": true,
+    "song_session_id": "196b825e-1240-48ad-9af6-0a70111daa2c"
+  },
+  {
+    "timestamp": "2025-11-26T16:21:36.734593",
+    "listeners": 79,
+    "radio": "jazz",
+    "recorded_at": "2025-11-26T16:22:41.005833+01:00",
+    "raw_valid": true,
+    "song_session_id": "196b825e-1240-48ad-9af6-0a70111daa2c"
+  },
+  {
+    "timestamp": "2025-11-26T16:23:14.591897",
+    "listeners": 77,
+    "radio": "jazz",
+    "recorded_at": "2025-11-26T16:24:18.809326+01:00",
+    "raw_valid": true,
+    "song_session_id": "196b825e-1240-48ad-9af6-0a70111daa2c"
+  },
+  {
+    "timestamp": "2025-11-26T16:23:14.591897",
+    "listeners": 77,
+    "radio": "jazz",
+    "recorded_at": "2025-11-26T16:24:18.864672+01:00",
+    "raw_valid": true,
+    "song_session_id": "196b825e-1240-48ad-9af6-0a70111daa2c"
+  },
+  {
+    "timestamp": "2025-11-26T16:24:55.639935",
+    "listeners": 69,
+    "radio": "jazz",
+    "recorded_at": "2025-11-26T16:26:00.033143+01:00",
+    "raw_valid": true,
+    "song_session_id": "d89badcb-6cbc-4f33-b0ae-fc3c389f0eb9"
+  },
+  {
+    "timestamp": "2025-11-26T16:24:55.639935",
+    "listeners": 69,
+    "radio": "jazz",
+    "recorded_at": "2025-11-26T16:26:00.096870+01:00",
+    "raw_valid": true,
+    "song_session_id": "d89badcb-6cbc-4f33-b0ae-fc3c389f0eb9"
+  },
+  {
+    "timestamp": "2025-11-26T16:26:32.927409",
+    "listeners": 69,
+    "radio": "jazz",
+    "recorded_at": "2025-11-26T16:27:37.111606+01:00",
+    "raw_valid": true,
+    "song_session_id": "d89badcb-6cbc-4f33-b0ae-fc3c389f0eb9"
+  },
+  {
+    "timestamp": "2025-11-26T16:26:32.927409",
+    "listeners": 69,
+    "radio": "jazz",
+    "recorded_at": "2025-11-26T16:27:37.165310+01:00",
+    "raw_valid": true,
+    "song_session_id": "d89badcb-6cbc-4f33-b0ae-fc3c389f0eb9"
+  },
+  {
+    "timestamp": "2025-11-26T16:28:09.272656",
+    "listeners": 67,
+    "radio": "jazz",
+    "recorded_at": "2025-11-26T16:29:18.185499+01:00",
+    "raw_valid": true,
+    "song_session_id": "d89badcb-6cbc-4f33-b0ae-fc3c389f0eb9"
+  },
+  {
+    "timestamp": "2025-11-26T16:28:09.272656",
+    "listeners": 67,
+    "radio": "jazz",
+    "recorded_at": "2025-11-26T16:29:18.246127+01:00",
+    "raw_valid": true,
+    "song_session_id": "d89badcb-6cbc-4f33-b0ae-fc3c389f0eb9"
+  },
+  {
+    "timestamp": "2025-11-26T16:29:50.023361",
+    "listeners": 65,
+    "radio": "jazz",
+    "recorded_at": "2025-11-26T16:30:57.276739+01:00",
+    "raw_valid": true,
+    "song_session_id": "4c77fce5-c21b-4a3a-8a9e-480caa4e4b5b"
+  },
+  {
+    "timestamp": "2025-11-26T16:29:50.023361",
+    "listeners": 65,
+    "radio": "jazz",
+    "recorded_at": "2025-11-26T16:30:57.334982+01:00",
+    "raw_valid": true,
+    "song_session_id": "4c77fce5-c21b-4a3a-8a9e-480caa4e4b5b"
+  },
+  {
+    "timestamp": "2025-11-26T16:31:29.107550",
+    "listeners": 70,
+    "radio": "jazz",
+    "recorded_at": "2025-11-26T16:32:40.906709+01:00",
+    "raw_valid": true,
+    "song_session_id": "4c77fce5-c21b-4a3a-8a9e-480caa4e4b5b"
+  },
+  {
+    "timestamp": "2025-11-26T16:31:29.107550",
+    "listeners": 70,
+    "radio": "jazz",
+    "recorded_at": "2025-11-26T16:32:40.961563+01:00",
+    "raw_valid": true,
+    "song_session_id": "4c77fce5-c21b-4a3a-8a9e-480caa4e4b5b"
+  },
+  {
+    "timestamp": "2025-11-26T16:33:12.697048",
+    "listeners": 70,
+    "radio": "jazz",
+    "recorded_at": "2025-11-26T16:34:16.879681+01:00",
+    "raw_valid": true,
+    "song_session_id": "4c77fce5-c21b-4a3a-8a9e-480caa4e4b5b"
+  },
+  {
+    "timestamp": "2025-11-26T16:33:12.697048",
+    "listeners": 70,
+    "radio": "jazz",
+    "recorded_at": "2025-11-26T16:34:16.934902+01:00",
+    "raw_valid": true,
+    "song_session_id": "4c77fce5-c21b-4a3a-8a9e-480caa4e4b5b"
+  },
+  {
+    "timestamp": "2025-11-26T16:34:48.708906",
+    "listeners": 71,
+    "radio": "jazz",
+    "recorded_at": "2025-11-26T16:36:00.503937+01:00",
+    "raw_valid": true,
+    "song_session_id": "5bd3ded5-762a-42a0-92c9-071175c56838"
+  },
+  {
+    "timestamp": "2025-11-26T16:34:48.708906",
+    "listeners": 71,
+    "radio": "jazz",
+    "recorded_at": "2025-11-26T16:36:00.559732+01:00",
+    "raw_valid": true,
+    "song_session_id": "5bd3ded5-762a-42a0-92c9-071175c56838"
+  },
+  {
+    "timestamp": "2025-11-26T16:36:32.351258",
+    "listeners": 63,
+    "radio": "jazz",
+    "recorded_at": "2025-11-26T16:37:36.593673+01:00",
+    "raw_valid": true,
+    "song_session_id": "5bd3ded5-762a-42a0-92c9-071175c56838"
+  },
+  {
+    "timestamp": "2025-11-26T16:36:32.351258",
+    "listeners": 63,
+    "radio": "jazz",
+    "recorded_at": "2025-11-26T16:37:36.658228+01:00",
+    "raw_valid": true,
+    "song_session_id": "5bd3ded5-762a-42a0-92c9-071175c56838"
+  },
+  {
+    "timestamp": "2025-11-26T16:38:09.271209",
+    "listeners": 66,
+    "radio": "jazz",
+    "recorded_at": "2025-11-26T16:39:20.703709+01:00",
+    "raw_valid": true,
+    "song_session_id": "5bd3ded5-762a-42a0-92c9-071175c56838"
+  },
+  {
+    "timestamp": "2025-11-26T16:38:09.271209",
+    "listeners": 66,
+    "radio": "jazz",
+    "recorded_at": "2025-11-26T16:39:20.757722+01:00",
+    "raw_valid": true,
+    "song_session_id": "5bd3ded5-762a-42a0-92c9-071175c56838"
+  },
+  {
+    "timestamp": "2025-11-26T16:39:52.527596",
+    "listeners": 65,
+    "radio": "jazz",
+    "recorded_at": "2025-11-26T16:40:56.756611+01:00",
+    "raw_valid": true,
+    "song_session_id": "152e79f0-b70b-4a48-a134-96ba6d22483a"
+  },
+  {
+    "timestamp": "2025-11-26T16:39:52.527596",
+    "listeners": 65,
+    "radio": "jazz",
+    "recorded_at": "2025-11-26T16:40:56.819312+01:00",
+    "raw_valid": true,
+    "song_session_id": "152e79f0-b70b-4a48-a134-96ba6d22483a"
+  },
+  {
+    "timestamp": "2025-11-26T16:41:28.581362",
+    "listeners": 71,
+    "radio": "jazz",
+    "recorded_at": "2025-11-26T16:42:40.601974+01:00",
+    "raw_valid": true,
+    "song_session_id": "152e79f0-b70b-4a48-a134-96ba6d22483a"
+  },
+  {
+    "timestamp": "2025-11-26T16:41:28.581362",
+    "listeners": 71,
+    "radio": "jazz",
+    "recorded_at": "2025-11-26T16:42:40.658207+01:00",
+    "raw_valid": true,
+    "song_session_id": "152e79f0-b70b-4a48-a134-96ba6d22483a"
+  },
+  {
+    "timestamp": "2025-11-26T16:43:19.431754",
+    "listeners": 72,
+    "radio": "jazz",
+    "recorded_at": "2025-11-26T16:44:23.765763+01:00",
+    "raw_valid": true,
+    "song_session_id": "152e79f0-b70b-4a48-a134-96ba6d22483a"
+  },
+  {
+    "timestamp": "2025-11-26T16:43:19.431754",
+    "listeners": 72,
+    "radio": "jazz",
+    "recorded_at": "2025-11-26T16:44:23.820240+01:00",
+    "raw_valid": true,
+    "song_session_id": "152e79f0-b70b-4a48-a134-96ba6d22483a"
+  },
+  {
+    "timestamp": "2025-11-26T16:44:55.590292",
+    "listeners": 59,
+    "radio": "jazz",
+    "recorded_at": "2025-11-26T16:46:00.719892+01:00",
+    "raw_valid": true,
+    "song_session_id": "dec64d1b-84f7-4ab6-b409-4d429a8a50e3"
+  },
+  {
+    "timestamp": "2025-11-26T16:44:55.590292",
+    "listeners": 59,
+    "radio": "jazz",
+    "recorded_at": "2025-11-26T16:46:00.774745+01:00",
+    "raw_valid": true,
+    "song_session_id": "dec64d1b-84f7-4ab6-b409-4d429a8a50e3"
+  },
+  {
+    "timestamp": "2025-11-26T16:46:42.521000",
+    "listeners": 71,
+    "radio": "jazz",
+    "recorded_at": "2025-11-26T16:47:46.782533+01:00",
+    "raw_valid": true,
+    "song_session_id": "dec64d1b-84f7-4ab6-b409-4d429a8a50e3"
+  },
+  {
+    "timestamp": "2025-11-26T16:46:42.521000",
+    "listeners": 71,
+    "radio": "jazz",
+    "recorded_at": "2025-11-26T16:47:46.836755+01:00",
+    "raw_valid": true,
+    "song_session_id": "dec64d1b-84f7-4ab6-b409-4d429a8a50e3"
+  },
+  {
+    "timestamp": "2025-11-26T16:48:18.855501",
+    "listeners": 56,
+    "radio": "jazz",
+    "recorded_at": "2025-11-26T16:49:25.699289+01:00",
+    "raw_valid": true,
+    "song_session_id": "dec64d1b-84f7-4ab6-b409-4d429a8a50e3"
+  },
+  {
+    "timestamp": "2025-11-26T16:48:18.855501",
+    "listeners": 56,
+    "radio": "jazz",
+    "recorded_at": "2025-11-26T16:49:25.752923+01:00",
+    "raw_valid": true,
+    "song_session_id": "dec64d1b-84f7-4ab6-b409-4d429a8a50e3"
+  },
+  {
+    "timestamp": "2025-11-26T16:49:57.512204",
+    "listeners": 73,
+    "radio": "jazz",
+    "recorded_at": "2025-11-26T16:51:01.689857+01:00",
+    "raw_valid": true,
+    "song_session_id": "77923584-85e1-425b-802c-87e99723cf3a"
+  },
+  {
+    "timestamp": "2025-11-26T16:49:57.512204",
+    "listeners": 73,
+    "radio": "jazz",
+    "recorded_at": "2025-11-26T16:51:01.744721+01:00",
+    "raw_valid": true,
+    "song_session_id": "77923584-85e1-425b-802c-87e99723cf3a"
+  },
+  {
+    "timestamp": "2025-11-26T16:51:33.504458",
+    "listeners": 63,
+    "radio": "jazz",
+    "recorded_at": "2025-11-26T16:52:45.150518+01:00",
+    "raw_valid": true,
+    "song_session_id": "77923584-85e1-425b-802c-87e99723cf3a"
+  },
+  {
+    "timestamp": "2025-11-26T16:51:33.504458",
+    "listeners": 63,
+    "radio": "jazz",
+    "recorded_at": "2025-11-26T16:52:45.207602+01:00",
+    "raw_valid": true,
+    "song_session_id": "77923584-85e1-425b-802c-87e99723cf3a"
+  },
+  {
+    "timestamp": "2025-11-26T16:53:17.053484",
+    "listeners": 59,
+    "radio": "jazz",
+    "recorded_at": "2025-11-26T16:54:21.294590+01:00",
+    "raw_valid": true,
+    "song_session_id": "77923584-85e1-425b-802c-87e99723cf3a"
+  },
+  {
+    "timestamp": "2025-11-26T16:53:17.053484",
+    "listeners": 59,
+    "radio": "jazz",
+    "recorded_at": "2025-11-26T16:54:21.348910+01:00",
+    "raw_valid": true,
+    "song_session_id": "77923584-85e1-425b-802c-87e99723cf3a"
+  },
+  {
+    "timestamp": "2025-11-26T16:54:53.131379",
+    "listeners": 74,
+    "radio": "jazz",
+    "recorded_at": "2025-11-26T16:56:05.568730+01:00",
+    "raw_valid": true,
+    "song_session_id": "4cbf8d43-a505-4ad9-97a7-943484e040f0"
+  },
+  {
+    "timestamp": "2025-11-26T16:54:53.131379",
+    "listeners": 74,
+    "radio": "jazz",
+    "recorded_at": "2025-11-26T16:56:05.622942+01:00",
+    "raw_valid": true,
+    "song_session_id": "4cbf8d43-a505-4ad9-97a7-943484e040f0"
+  },
+  {
+    "timestamp": "2025-11-26T16:56:38.126614",
+    "listeners": 55,
+    "radio": "jazz",
+    "recorded_at": "2025-11-26T16:57:42.338747+01:00",
+    "raw_valid": true,
+    "song_session_id": "4cbf8d43-a505-4ad9-97a7-943484e040f0"
+  },
+  {
+    "timestamp": "2025-11-26T16:56:38.126614",
+    "listeners": 55,
+    "radio": "jazz",
+    "recorded_at": "2025-11-26T16:57:42.393109+01:00",
+    "raw_valid": true,
+    "song_session_id": "4cbf8d43-a505-4ad9-97a7-943484e040f0"
+  },
+  {
+    "timestamp": "2025-11-26T16:58:14.140826",
+    "listeners": 74,
+    "radio": "jazz",
+    "recorded_at": "2025-11-26T16:59:25.335744+01:00",
+    "raw_valid": true,
+    "song_session_id": "4cbf8d43-a505-4ad9-97a7-943484e040f0"
+  },
+  {
+    "timestamp": "2025-11-26T16:58:14.140826",
+    "listeners": 74,
+    "radio": "jazz",
+    "recorded_at": "2025-11-26T16:59:25.390408+01:00",
+    "raw_valid": true,
+    "song_session_id": "4cbf8d43-a505-4ad9-97a7-943484e040f0"
+  },
+  {
+    "timestamp": "2025-11-26T16:59:57.152162",
+    "listeners": 61,
+    "radio": "jazz",
+    "recorded_at": "2025-11-26T17:01:01.592777+01:00",
+    "raw_valid": true,
+    "song_session_id": "4ef3c489-0952-481c-a722-054d47e8085e"
+  },
+  {
+    "timestamp": "2025-11-26T16:59:57.152162",
+    "listeners": 61,
+    "radio": "jazz",
+    "recorded_at": "2025-11-26T17:01:01.651782+01:00",
+    "raw_valid": true,
+    "song_session_id": "4ef3c489-0952-481c-a722-054d47e8085e"
+  },
+  {
+    "timestamp": "2025-11-26T17:01:39.334904",
+    "listeners": 91,
+    "radio": "jazz",
+    "recorded_at": "2025-11-26T17:02:45.433307+01:00",
+    "raw_valid": true,
+    "song_session_id": "4ef3c489-0952-481c-a722-054d47e8085e"
+  },
+  {
+    "timestamp": "2025-11-26T17:01:39.334904",
+    "listeners": 91,
+    "radio": "jazz",
+    "recorded_at": "2025-11-26T17:02:45.487942+01:00",
+    "raw_valid": true,
+    "song_session_id": "4ef3c489-0952-481c-a722-054d47e8085e"
+  },
+  {
+    "timestamp": "2025-11-26T17:03:17.326213",
+    "listeners": 94,
+    "radio": "jazz",
+    "recorded_at": "2025-11-26T17:04:21.604900+01:00",
+    "raw_valid": true,
+    "song_session_id": "4ef3c489-0952-481c-a722-054d47e8085e"
+  },
+  {
+    "timestamp": "2025-11-26T17:03:17.326213",
+    "listeners": 94,
+    "radio": "jazz",
+    "recorded_at": "2025-11-26T17:04:21.658813+01:00",
+    "raw_valid": true,
+    "song_session_id": "4ef3c489-0952-481c-a722-054d47e8085e"
+  },
+  {
+    "timestamp": "2025-11-26T17:04:53.431028",
+    "listeners": 88,
+    "radio": "jazz",
+    "recorded_at": "2025-11-26T17:06:05.665132+01:00",
+    "raw_valid": true,
+    "song_session_id": "d680168a-99e2-4d11-a88c-ae70fcc77cd8"
+  },
+  {
+    "timestamp": "2025-11-26T17:04:53.431028",
+    "listeners": 88,
+    "radio": "jazz",
+    "recorded_at": "2025-11-26T17:06:05.719146+01:00",
+    "raw_valid": true,
+    "song_session_id": "d680168a-99e2-4d11-a88c-ae70fcc77cd8"
+  },
+  {
+    "timestamp": "2025-11-26T17:06:37.471239",
+    "listeners": 92,
+    "radio": "jazz",
+    "recorded_at": "2025-11-26T17:07:41.761390+01:00",
+    "raw_valid": true,
+    "song_session_id": "d680168a-99e2-4d11-a88c-ae70fcc77cd8"
+  },
+  {
+    "timestamp": "2025-11-26T17:06:37.471239",
+    "listeners": 92,
+    "radio": "jazz",
+    "recorded_at": "2025-11-26T17:07:41.814851+01:00",
+    "raw_valid": true,
+    "song_session_id": "d680168a-99e2-4d11-a88c-ae70fcc77cd8"
+  },
+  {
+    "timestamp": "2025-11-26T17:08:18.592492",
+    "listeners": 90,
+    "radio": "jazz",
+    "recorded_at": "2025-11-26T17:09:25.633497+01:00",
+    "raw_valid": true,
+    "song_session_id": "d680168a-99e2-4d11-a88c-ae70fcc77cd8"
+  },
+  {
+    "timestamp": "2025-11-26T17:08:18.592492",
+    "listeners": 90,
+    "radio": "jazz",
+    "recorded_at": "2025-11-26T17:09:25.687815+01:00",
+    "raw_valid": true,
+    "song_session_id": "d680168a-99e2-4d11-a88c-ae70fcc77cd8"
+  },
+  {
+    "timestamp": "2025-11-26T17:09:57.657337",
+    "listeners": 95,
+    "radio": "jazz",
+    "recorded_at": "2025-11-26T17:11:04.960632+01:00",
+    "raw_valid": true,
+    "song_session_id": "daeec15a-e35b-45d1-b3ca-297a3a6b1aed"
+  },
+  {
+    "timestamp": "2025-11-26T17:09:57.657337",
+    "listeners": 95,
+    "radio": "jazz",
+    "recorded_at": "2025-11-26T17:11:05.014945+01:00",
+    "raw_valid": true,
+    "song_session_id": "daeec15a-e35b-45d1-b3ca-297a3a6b1aed"
+  },
+  {
+    "timestamp": "2025-11-26T17:11:37.128100",
+    "listeners": 81,
+    "radio": "jazz",
+    "recorded_at": "2025-11-26T17:12:45.850214+01:00",
+    "raw_valid": true,
+    "song_session_id": "daeec15a-e35b-45d1-b3ca-297a3a6b1aed"
+  },
+  {
+    "timestamp": "2025-11-26T17:11:37.128100",
+    "listeners": 81,
+    "radio": "jazz",
+    "recorded_at": "2025-11-26T17:12:45.921710+01:00",
+    "raw_valid": true,
+    "song_session_id": "daeec15a-e35b-45d1-b3ca-297a3a6b1aed"
+  },
+  {
+    "timestamp": "2025-11-26T17:13:18.009845",
+    "listeners": 113,
+    "radio": "jazz",
+    "recorded_at": "2025-11-26T17:14:22.263262+01:00",
+    "raw_valid": true,
+    "song_session_id": "daeec15a-e35b-45d1-b3ca-297a3a6b1aed"
+  },
+  {
+    "timestamp": "2025-11-26T17:13:18.009845",
+    "listeners": 113,
+    "radio": "jazz",
+    "recorded_at": "2025-11-26T17:14:22.321068+01:00",
+    "raw_valid": true,
+    "song_session_id": "daeec15a-e35b-45d1-b3ca-297a3a6b1aed"
+  },
+  {
+    "timestamp": "2025-11-26T17:14:54.078254",
+    "listeners": 96,
+    "radio": "jazz",
+    "recorded_at": "2025-11-26T17:16:05.734733+01:00",
+    "raw_valid": true,
+    "song_session_id": "ed92410c-9ab1-4999-b74a-e93223edca57"
+  },
+  {
+    "timestamp": "2025-11-26T17:14:54.078254",
+    "listeners": 96,
+    "radio": "jazz",
+    "recorded_at": "2025-11-26T17:16:05.789881+01:00",
+    "raw_valid": true,
+    "song_session_id": "ed92410c-9ab1-4999-b74a-e93223edca57"
+  },
+  {
+    "timestamp": "2025-11-26T17:16:37.544113",
+    "listeners": 92,
+    "radio": "jazz",
+    "recorded_at": "2025-11-26T17:17:41.804441+01:00",
+    "raw_valid": true,
+    "song_session_id": "ed92410c-9ab1-4999-b74a-e93223edca57"
+  },
+  {
+    "timestamp": "2025-11-26T17:16:37.544113",
+    "listeners": 92,
+    "radio": "jazz",
+    "recorded_at": "2025-11-26T17:17:41.859117+01:00",
+    "raw_valid": true,
+    "song_session_id": "ed92410c-9ab1-4999-b74a-e93223edca57"
+  },
+  {
+    "timestamp": "2025-11-26T17:18:13.844276",
+    "listeners": 107,
+    "radio": "jazz",
+    "recorded_at": "2025-11-26T17:19:25.953210+01:00",
+    "raw_valid": true,
+    "song_session_id": "ed92410c-9ab1-4999-b74a-e93223edca57"
+  },
+  {
+    "timestamp": "2025-11-26T17:18:13.844276",
+    "listeners": 107,
+    "radio": "jazz",
+    "recorded_at": "2025-11-26T17:19:26.007747+01:00",
+    "raw_valid": true,
+    "song_session_id": "ed92410c-9ab1-4999-b74a-e93223edca57"
+  },
+  {
+    "timestamp": "2025-11-26T17:19:57.755175",
+    "listeners": 94,
+    "radio": "jazz",
+    "recorded_at": "2025-11-26T17:21:02.236060+01:00",
+    "raw_valid": true,
+    "song_session_id": "ed92410c-9ab1-4999-b74a-e93223edca57"
+  },
+  {
+    "timestamp": "2025-11-26T17:19:57.755175",
+    "listeners": 94,
+    "radio": "jazz",
+    "recorded_at": "2025-11-26T17:21:02.290560+01:00",
+    "raw_valid": true,
+    "song_session_id": "ed92410c-9ab1-4999-b74a-e93223edca57"
+  },
+  {
+    "timestamp": "2025-11-26T17:21:34.036904",
+    "listeners": 104,
+    "radio": "jazz",
+    "recorded_at": "2025-11-26T17:22:45.848137+01:00",
+    "raw_valid": true,
+    "song_session_id": "ed92410c-9ab1-4999-b74a-e93223edca57"
+  },
+  {
+    "timestamp": "2025-11-26T17:21:34.036904",
+    "listeners": 104,
+    "radio": "jazz",
+    "recorded_at": "2025-11-26T17:22:45.904036+01:00",
+    "raw_valid": true,
+    "song_session_id": "ed92410c-9ab1-4999-b74a-e93223edca57"
+  },
+  {
+    "timestamp": "2025-11-26T17:23:17.990183",
+    "listeners": 97,
+    "radio": "jazz",
+    "recorded_at": "2025-11-26T17:24:22.264899+01:00",
+    "raw_valid": true,
+    "song_session_id": "ed92410c-9ab1-4999-b74a-e93223edca57"
+  },
+  {
+    "timestamp": "2025-11-26T17:23:17.990183",
+    "listeners": 97,
+    "radio": "jazz",
+    "recorded_at": "2025-11-26T17:24:22.319427+01:00",
+    "raw_valid": true,
+    "song_session_id": "ed92410c-9ab1-4999-b74a-e93223edca57"
+  },
+  {
+    "timestamp": "2025-11-26T17:24:54.066909",
+    "listeners": 89,
+    "radio": "jazz",
+    "recorded_at": "2025-11-26T17:26:06.522585+01:00",
+    "raw_valid": true,
+    "song_session_id": "ab5f8a18-f3f0-4ce5-a562-5b847b3fa62e"
+  },
+  {
+    "timestamp": "2025-11-26T17:24:54.066909",
+    "listeners": 89,
+    "radio": "jazz",
+    "recorded_at": "2025-11-26T17:26:06.577270+01:00",
+    "raw_valid": true,
+    "song_session_id": "ab5f8a18-f3f0-4ce5-a562-5b847b3fa62e"
+  },
+  {
+    "timestamp": "2025-11-26T17:26:39.317091",
+    "listeners": 100,
+    "radio": "jazz",
+    "recorded_at": "2025-11-26T17:27:43.580705+01:00",
+    "raw_valid": true,
+    "song_session_id": "ab5f8a18-f3f0-4ce5-a562-5b847b3fa62e"
+  },
+  {
+    "timestamp": "2025-11-26T17:26:39.317091",
+    "listeners": 100,
+    "radio": "jazz",
+    "recorded_at": "2025-11-26T17:27:43.648662+01:00",
+    "raw_valid": true,
+    "song_session_id": "ab5f8a18-f3f0-4ce5-a562-5b847b3fa62e"
+  },
+  {
+    "timestamp": "2025-11-26T17:28:15.390825",
+    "listeners": 106,
+    "radio": "jazz",
+    "recorded_at": "2025-11-26T17:29:26.294112+01:00",
+    "raw_valid": true,
+    "song_session_id": "ab5f8a18-f3f0-4ce5-a562-5b847b3fa62e"
+  },
+  {
+    "timestamp": "2025-11-26T17:28:15.390825",
+    "listeners": 106,
+    "radio": "jazz",
+    "recorded_at": "2025-11-26T17:29:26.347845+01:00",
+    "raw_valid": true,
+    "song_session_id": "ab5f8a18-f3f0-4ce5-a562-5b847b3fa62e"
+  },
+  {
+    "timestamp": "2025-11-26T17:29:58.067328",
+    "listeners": 84,
+    "radio": "jazz",
+    "recorded_at": "2025-11-26T17:31:02.325132+01:00",
+    "raw_valid": true,
+    "song_session_id": "5a18caa8-89e6-4ec4-915a-8d37c6ec1bbc"
+  },
+  {
+    "timestamp": "2025-11-26T17:29:58.067328",
+    "listeners": 84,
+    "radio": "jazz",
+    "recorded_at": "2025-11-26T17:31:02.381979+01:00",
+    "raw_valid": true,
+    "song_session_id": "5a18caa8-89e6-4ec4-915a-8d37c6ec1bbc"
+  },
+  {
+    "timestamp": "2025-11-26T17:31:40.224101",
+    "listeners": 91,
+    "radio": "jazz",
+    "recorded_at": "2025-11-26T17:32:46.687009+01:00",
+    "raw_valid": true,
+    "song_session_id": "5a18caa8-89e6-4ec4-915a-8d37c6ec1bbc"
+  },
+  {
+    "timestamp": "2025-11-26T17:31:40.224101",
+    "listeners": 91,
+    "radio": "jazz",
+    "recorded_at": "2025-11-26T17:32:46.741944+01:00",
+    "raw_valid": true,
+    "song_session_id": "5a18caa8-89e6-4ec4-915a-8d37c6ec1bbc"
+  },
+  {
+    "timestamp": "2025-11-26T17:33:18.468394",
+    "listeners": 103,
+    "radio": "jazz",
+    "recorded_at": "2025-11-26T17:34:22.726303+01:00",
+    "raw_valid": true,
+    "song_session_id": "5a18caa8-89e6-4ec4-915a-8d37c6ec1bbc"
+  },
+  {
+    "timestamp": "2025-11-26T17:33:18.468394",
+    "listeners": 103,
+    "radio": "jazz",
+    "recorded_at": "2025-11-26T17:34:22.780358+01:00",
+    "raw_valid": true,
+    "song_session_id": "5a18caa8-89e6-4ec4-915a-8d37c6ec1bbc"
+  },
+  {
+    "timestamp": "2025-11-26T17:34:54.535090",
+    "listeners": 101,
+    "radio": "jazz",
+    "recorded_at": "2025-11-26T17:36:06.581332+01:00",
+    "raw_valid": true,
+    "song_session_id": "a8094f5a-04bd-4673-98fd-f7911d48dfd7"
+  },
+  {
+    "timestamp": "2025-11-26T17:34:54.535090",
+    "listeners": 101,
+    "radio": "jazz",
+    "recorded_at": "2025-11-26T17:36:06.634617+01:00",
+    "raw_valid": true,
+    "song_session_id": "a8094f5a-04bd-4673-98fd-f7911d48dfd7"
+  },
+  {
+    "timestamp": "2025-11-26T17:36:38.364577",
+    "listeners": 93,
+    "radio": "jazz",
+    "recorded_at": "2025-11-26T17:37:42.723530+01:00",
+    "raw_valid": true,
+    "song_session_id": "a8094f5a-04bd-4673-98fd-f7911d48dfd7"
+  },
+  {
+    "timestamp": "2025-11-26T17:36:38.364577",
+    "listeners": 93,
+    "radio": "jazz",
+    "recorded_at": "2025-11-26T17:37:42.777065+01:00",
+    "raw_valid": true,
+    "song_session_id": "a8094f5a-04bd-4673-98fd-f7911d48dfd7"
+  },
+  {
+    "timestamp": "2025-11-26T17:38:14.523479",
+    "listeners": 102,
+    "radio": "jazz",
+    "recorded_at": "2025-11-26T17:39:26.766335+01:00",
+    "raw_valid": true,
+    "song_session_id": "a8094f5a-04bd-4673-98fd-f7911d48dfd7"
+  },
+  {
+    "timestamp": "2025-11-26T17:38:14.523479",
+    "listeners": 102,
+    "radio": "jazz",
+    "recorded_at": "2025-11-26T17:39:26.820761+01:00",
+    "raw_valid": true,
+    "song_session_id": "a8094f5a-04bd-4673-98fd-f7911d48dfd7"
+  },
+  {
+    "timestamp": "2025-11-26T17:39:58.553022",
+    "listeners": 92,
+    "radio": "jazz",
+    "recorded_at": "2025-11-26T17:41:02.789825+01:00",
+    "raw_valid": true,
+    "song_session_id": "2653cfc7-2a7d-40ca-b8fb-136929ee3eaa"
+  },
+  {
+    "timestamp": "2025-11-26T17:39:58.553022",
+    "listeners": 92,
+    "radio": "jazz",
+    "recorded_at": "2025-11-26T17:41:02.845656+01:00",
+    "raw_valid": true,
+    "song_session_id": "2653cfc7-2a7d-40ca-b8fb-136929ee3eaa"
+  },
+  {
+    "timestamp": "2025-11-26T17:41:34.707615",
+    "listeners": 103,
+    "radio": "jazz",
+    "recorded_at": "2025-11-26T17:42:46.700214+01:00",
+    "raw_valid": true,
+    "song_session_id": "2653cfc7-2a7d-40ca-b8fb-136929ee3eaa"
+  },
+  {
+    "timestamp": "2025-11-26T17:41:34.707615",
+    "listeners": 103,
+    "radio": "jazz",
+    "recorded_at": "2025-11-26T17:42:46.756473+01:00",
+    "raw_valid": true,
+    "song_session_id": "2653cfc7-2a7d-40ca-b8fb-136929ee3eaa"
+  },
+  {
+    "timestamp": "2025-11-26T17:43:28.456815",
+    "listeners": 96,
+    "radio": "jazz",
+    "recorded_at": "2025-11-26T17:44:32.899839+01:00",
+    "raw_valid": true,
+    "song_session_id": "2653cfc7-2a7d-40ca-b8fb-136929ee3eaa"
+  },
+  {
+    "timestamp": "2025-11-26T17:43:28.456815",
+    "listeners": 96,
+    "radio": "jazz",
+    "recorded_at": "2025-11-26T17:44:32.953200+01:00",
+    "raw_valid": true,
+    "song_session_id": "2653cfc7-2a7d-40ca-b8fb-136929ee3eaa"
+  },
+  {
+    "timestamp": "2025-11-26T17:45:04.870547",
+    "listeners": 111,
+    "radio": "jazz",
+    "recorded_at": "2025-11-26T17:46:15.452562+01:00",
+    "raw_valid": true,
+    "song_session_id": "b63e79fd-8fa0-49b8-bd69-a63d74221c76"
+  },
+  {
+    "timestamp": "2025-11-26T17:45:04.870547",
+    "listeners": 111,
+    "radio": "jazz",
+    "recorded_at": "2025-11-26T17:46:15.509539+01:00",
+    "raw_valid": true,
+    "song_session_id": "b63e79fd-8fa0-49b8-bd69-a63d74221c76"
+  },
+  {
+    "timestamp": "2025-11-26T17:46:47.687564",
+    "listeners": 103,
+    "radio": "jazz",
+    "recorded_at": "2025-11-26T17:47:51.992807+01:00",
+    "raw_valid": true,
+    "song_session_id": "b63e79fd-8fa0-49b8-bd69-a63d74221c76"
+  },
+  {
+    "timestamp": "2025-11-26T17:46:47.687564",
+    "listeners": 103,
+    "radio": "jazz",
+    "recorded_at": "2025-11-26T17:47:52.047440+01:00",
+    "raw_valid": true,
+    "song_session_id": "b63e79fd-8fa0-49b8-bd69-a63d74221c76"
+  },
+  {
+    "timestamp": "2025-11-26T17:48:24.604809",
+    "listeners": 105,
+    "radio": "jazz",
+    "recorded_at": "2025-11-26T17:49:28.845447+01:00",
+    "raw_valid": true,
+    "song_session_id": "b63e79fd-8fa0-49b8-bd69-a63d74221c76"
+  },
+  {
+    "timestamp": "2025-11-26T17:48:24.604809",
+    "listeners": 105,
+    "radio": "jazz",
+    "recorded_at": "2025-11-26T17:49:28.899833+01:00",
+    "raw_valid": true,
+    "song_session_id": "b63e79fd-8fa0-49b8-bd69-a63d74221c76"
+  },
+  {
+    "timestamp": "2025-11-26T17:50:00.680298",
+    "listeners": 109,
+    "radio": "jazz",
+    "recorded_at": "2025-11-26T17:51:05.136657+01:00",
+    "raw_valid": true,
+    "song_session_id": "68e07b27-0b5d-4c97-86dc-cea9cbf06204"
+  },
+  {
+    "timestamp": "2025-11-26T17:50:00.680298",
+    "listeners": 109,
+    "radio": "jazz",
+    "recorded_at": "2025-11-26T17:51:05.191211+01:00",
+    "raw_valid": true,
+    "song_session_id": "68e07b27-0b5d-4c97-86dc-cea9cbf06204"
+  },
+  {
+    "timestamp": "2025-11-26T17:51:37.071722",
+    "listeners": 96,
+    "radio": "jazz",
+    "recorded_at": "2025-11-26T17:52:46.985801+01:00",
+    "raw_valid": true,
+    "song_session_id": "68e07b27-0b5d-4c97-86dc-cea9cbf06204"
+  },
+  {
+    "timestamp": "2025-11-26T17:51:37.071722",
+    "listeners": 96,
+    "radio": "jazz",
+    "recorded_at": "2025-11-26T17:52:47.054653+01:00",
+    "raw_valid": true,
+    "song_session_id": "68e07b27-0b5d-4c97-86dc-cea9cbf06204"
+  },
+  {
+    "timestamp": "2025-11-26T17:53:18.768882",
+    "listeners": 91,
+    "radio": "jazz",
+    "recorded_at": "2025-11-26T17:54:23.079006+01:00",
+    "raw_valid": true,
+    "song_session_id": "68e07b27-0b5d-4c97-86dc-cea9cbf06204"
+  },
+  {
+    "timestamp": "2025-11-26T17:53:18.768882",
+    "listeners": 91,
+    "radio": "jazz",
+    "recorded_at": "2025-11-26T17:54:23.133520+01:00",
+    "raw_valid": true,
+    "song_session_id": "68e07b27-0b5d-4c97-86dc-cea9cbf06204"
+  },
+  {
+    "timestamp": "2025-11-26T17:54:55.249153",
+    "listeners": 91,
+    "radio": "jazz",
+    "recorded_at": "2025-11-26T17:56:07.229487+01:00",
+    "raw_valid": true,
+    "song_session_id": "0fb3ffda-7b25-4510-8adb-809fafd3aff6"
+  },
+  {
+    "timestamp": "2025-11-26T17:54:55.249153",
+    "listeners": 91,
+    "radio": "jazz",
+    "recorded_at": "2025-11-26T17:56:07.284341+01:00",
+    "raw_valid": true,
+    "song_session_id": "0fb3ffda-7b25-4510-8adb-809fafd3aff6"
+  },
+  {
+    "timestamp": "2025-11-26T17:56:38.990110",
+    "listeners": 93,
+    "radio": "jazz",
+    "recorded_at": "2025-11-26T17:57:46.568695+01:00",
+    "raw_valid": true,
+    "song_session_id": "0fb3ffda-7b25-4510-8adb-809fafd3aff6"
+  },
+  {
+    "timestamp": "2025-11-26T17:56:38.990110",
+    "listeners": 93,
+    "radio": "jazz",
+    "recorded_at": "2025-11-26T17:57:46.622109+01:00",
+    "raw_valid": true,
+    "song_session_id": "0fb3ffda-7b25-4510-8adb-809fafd3aff6"
+  },
+  {
+    "timestamp": "2025-11-26T17:58:19.124221",
+    "listeners": 101,
+    "radio": "jazz",
+    "recorded_at": "2025-11-26T17:59:27.633284+01:00",
+    "raw_valid": true,
+    "song_session_id": "0fb3ffda-7b25-4510-8adb-809fafd3aff6"
+  },
+  {
+    "timestamp": "2025-11-26T17:58:19.124221",
+    "listeners": 101,
+    "radio": "jazz",
+    "recorded_at": "2025-11-26T17:59:27.694064+01:00",
+    "raw_valid": true,
+    "song_session_id": "0fb3ffda-7b25-4510-8adb-809fafd3aff6"
+  },
+  {
+    "timestamp": "2025-11-26T17:59:59.405861",
+    "listeners": 98,
+    "radio": "jazz",
+    "recorded_at": "2025-11-26T18:01:04.041587+01:00",
+    "raw_valid": true,
+    "song_session_id": "aad25b88-1e0b-47c8-86a7-f4be456667d2"
+  },
+  {
+    "timestamp": "2025-11-26T17:59:59.405861",
+    "listeners": 98,
+    "radio": "jazz",
+    "recorded_at": "2025-11-26T18:01:04.095594+01:00",
+    "raw_valid": true,
+    "song_session_id": "aad25b88-1e0b-47c8-86a7-f4be456667d2"
+  },
+  {
+    "timestamp": "2025-11-26T18:01:36.063009",
+    "listeners": 91,
+    "radio": "jazz",
+    "recorded_at": "2025-11-26T18:02:47.661544+01:00",
+    "raw_valid": true,
+    "song_session_id": "aad25b88-1e0b-47c8-86a7-f4be456667d2"
+  },
+  {
+    "timestamp": "2025-11-26T18:01:36.063009",
+    "listeners": 91,
+    "radio": "jazz",
+    "recorded_at": "2025-11-26T18:02:47.717169+01:00",
+    "raw_valid": true,
+    "song_session_id": "aad25b88-1e0b-47c8-86a7-f4be456667d2"
+  }
+]

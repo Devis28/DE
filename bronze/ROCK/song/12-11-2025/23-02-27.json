@@ -1,0 +1,405 @@
+[
+  {
+    "last_update": "2025-11-12 21:03:24",
+    "song": {
+      "musicAuthor": "Bryan Adams",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851cf1fee2a55e98e22bf358512",
+      "musicTitle": "Summer Of '69",
+      "radio": "Rádio ROCK",
+      "startTime": "22:02"
+    },
+    "recorded_at": "2025-11-12T22:03:25.780359+01:00",
+    "raw_valid": true,
+    "song_session_id": "05682241-9ced-4527-9bb5-3593c3024f89"
+  },
+  {
+    "last_update": "2025-11-12 21:07:25",
+    "song": {
+      "musicAuthor": "Hex",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048510f84b352c86a11603fb21691",
+      "musicTitle": "Vetroň",
+      "radio": "Rádio ROCK",
+      "startTime": "22:06"
+    },
+    "recorded_at": "2025-11-12T22:07:26.341494+01:00",
+    "raw_valid": true,
+    "song_session_id": "71ae5f90-0181-418d-9141-e4c157ccf483"
+  },
+  {
+    "last_update": "2025-11-12 21:11:26",
+    "song": {
+      "musicAuthor": "Desmod",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485146909b60d48035e205d30d61",
+      "musicTitle": "Na Tebe Závislý",
+      "radio": "Rádio ROCK",
+      "startTime": "22:10"
+    },
+    "recorded_at": "2025-11-12T22:11:26.831757+01:00",
+    "raw_valid": true,
+    "song_session_id": "6ecd6ab8-0574-49f3-a828-ecdaf57a3c5c"
+  },
+  {
+    "last_update": "2025-11-12 21:14:26",
+    "song": {
+      "musicAuthor": "Audioslave",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851a7292b6863258e889b78d787",
+      "musicTitle": "Like A Stone",
+      "radio": "Rádio ROCK",
+      "startTime": "22:13"
+    },
+    "recorded_at": "2025-11-12T22:14:27.005892+01:00",
+    "raw_valid": true,
+    "song_session_id": "52978965-6ba7-4a33-8fd6-49ad5d2f29e9"
+  },
+  {
+    "last_update": "2025-11-12 21:19:31",
+    "song": {
+      "musicAuthor": "Billy Barman",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851ae1583f55bdb133b5df6fd2f",
+      "musicTitle": "Introvert",
+      "radio": "Rádio ROCK",
+      "startTime": "22:18"
+    },
+    "recorded_at": "2025-11-12T22:19:32.346857+01:00",
+    "raw_valid": true,
+    "song_session_id": "db312b3f-77fc-4d84-847b-c7afb804401a"
+  },
+  {
+    "last_update": "2025-11-12 21:21:31",
+    "song": {
+      "musicAuthor": "Tublatanka",
+      "musicCover": "https://static.radia.sk/covers/32/7ee86987-baad-48a6-9afa-0ca560d378f2.jpg",
+      "musicTitle": "Nekonečná Pieseň",
+      "radio": "Rádio ROCK",
+      "startTime": "22:20"
+    },
+    "recorded_at": "2025-11-12T22:21:32.481604+01:00",
+    "raw_valid": true,
+    "song_session_id": "a2e6c525-0733-493b-848a-7b44a43eace3"
+  },
+  {
+    "last_update": "2025-11-12 21:24:31",
+    "song": {
+      "musicAuthor": "The Red Hot Chili Peppers",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851153d79816d853f2694b2cc70",
+      "musicTitle": "Under The Bridge",
+      "radio": "Rádio ROCK",
+      "startTime": "22:23"
+    },
+    "recorded_at": "2025-11-12T22:24:32.663963+01:00",
+    "raw_valid": true,
+    "song_session_id": "48f07690-6b4c-4297-8989-f25341202b10"
+  },
+  {
+    "last_update": "2025-11-12 21:29:32",
+    "song": {
+      "musicAuthor": "Konflikt",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851729df4aa42fcb6507a04f2a4",
+      "musicTitle": "Exot",
+      "radio": "Rádio ROCK",
+      "startTime": "22:28"
+    },
+    "recorded_at": "2025-11-12T22:29:33.701012+01:00",
+    "raw_valid": true,
+    "song_session_id": "802fdf35-4a23-474e-820c-89e59cd4ddc1"
+  },
+  {
+    "last_update": "2025-11-12 21:32:32",
+    "song": {
+      "musicAuthor": "Bijouterrier",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485135798bf8aa0f22ac441da31a",
+      "musicTitle": "Pozri",
+      "radio": "Rádio ROCK",
+      "startTime": "22:31"
+    },
+    "recorded_at": "2025-11-12T22:32:33.986913+01:00",
+    "raw_valid": true,
+    "song_session_id": "eec093a8-0bb0-465e-8988-a2560c68eebf"
+  },
+  {
+    "last_update": "2025-11-12 21:35:33",
+    "song": {
+      "musicAuthor": "Nickelback",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485107fb7d8037f3962394c493ca",
+      "musicTitle": "Photograph",
+      "radio": "Rádio ROCK",
+      "startTime": "22:34"
+    },
+    "recorded_at": "2025-11-12T22:35:34.195734+01:00",
+    "raw_valid": true,
+    "song_session_id": "484251a5-fac6-4f27-913c-a3d8001395cc"
+  },
+  {
+    "last_update": "2025-11-12 21:39:34",
+    "song": {
+      "musicAuthor": "Zoci Voci",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048518b376292ff48ae6411c6b854",
+      "musicTitle": "Milion Ciest",
+      "radio": "Rádio ROCK",
+      "startTime": "22:38"
+    },
+    "recorded_at": "2025-11-12T22:39:34.473876+01:00",
+    "raw_valid": true,
+    "song_session_id": "85bb239c-2514-4a89-8e9c-455fee978448"
+  },
+  {
+    "last_update": "2025-11-12 21:42:33",
+    "song": {
+      "musicAuthor": "The Last Day Of Jesus",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048519fe400785e8b11bbc54b1d27",
+      "musicTitle": "Arma Christi",
+      "radio": "Rádio ROCK",
+      "startTime": "22:41"
+    },
+    "recorded_at": "2025-11-12T22:42:34.728148+01:00",
+    "raw_valid": true,
+    "song_session_id": "9562c807-e56f-44f5-84da-bb48f8f671d0"
+  },
+  {
+    "last_update": "2025-11-12 21:47:36",
+    "song": {
+      "musicAuthor": "The White Stripes",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851a69f71a8794e2d867a52f98f",
+      "musicTitle": "Seven Nation Army",
+      "radio": "Rádio ROCK",
+      "startTime": "22:46"
+    },
+    "recorded_at": "2025-11-12T22:47:36.241360+01:00",
+    "raw_valid": true,
+    "song_session_id": "9b5971ef-ffed-467e-9224-ca7b8b4d8725"
+  },
+  {
+    "last_update": "2025-11-12 21:51:36",
+    "song": {
+      "musicAuthor": "Fishing Strip",
+      "musicCover": "/layout/covers/default.png",
+      "musicTitle": "Mám Ťa Rád",
+      "radio": "Rádio ROCK",
+      "startTime": "22:50"
+    },
+    "recorded_at": "2025-11-12T22:51:36.826747+01:00",
+    "raw_valid": true,
+    "song_session_id": "9fd202b6-e7b4-48da-a0bc-edaf4fc392b7"
+  },
+  {
+    "last_update": "2025-11-12 21:55:36",
+    "song": {
+      "musicAuthor": "R.E.M.",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851e2dd4e821bcc3f70dc0c8ffd",
+      "musicTitle": "Shiny Happy People",
+      "radio": "Rádio ROCK",
+      "startTime": "22:54"
+    },
+    "recorded_at": "2025-11-12T22:55:37.169121+01:00",
+    "raw_valid": true,
+    "song_session_id": "541d68f2-1a4b-411b-846b-230bc09cb339"
+  },
+  {
+    "last_update": "2025-11-12 21:58:37",
+    "song": {
+      "musicAuthor": "Peter Cmorik",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048517016c9ed1680a22ee0d308b3",
+      "musicTitle": "Som Kto Som",
+      "radio": "Rádio ROCK",
+      "startTime": "22:58"
+    },
+    "recorded_at": "2025-11-12T22:58:37.438962+01:00",
+    "raw_valid": true,
+    "song_session_id": "e32bbe6c-fc81-4351-9bd9-ecd42dff0fa8"
+  },
+  {
+    "last_update": "2025-11-12 22:03:09",
+    "song": {
+      "musicAuthor": "Led Zeppelin",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851c8a11e48c91a982d086afc69",
+      "musicTitle": "Stairway To Heaven",
+      "radio": "Rádio ROCK",
+      "startTime": "23:02"
+    },
+    "recorded_at": "2025-11-12T23:03:09.696815+01:00",
+    "raw_valid": true,
+    "song_session_id": "bdc7124a-d564-4406-88df-a261783761d0"
+  },
+  {
+    "last_update": "2025-11-12 22:11:10",
+    "song": {
+      "musicAuthor": "Imt Smile",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851716dda2bb120f723ec5f55b7",
+      "musicTitle": "Tajné Milovanie",
+      "radio": "Rádio ROCK",
+      "startTime": "23:10"
+    },
+    "recorded_at": "2025-11-12T23:11:11.563775+01:00",
+    "raw_valid": true,
+    "song_session_id": "d42531f3-3fc2-42ec-beac-16a603780724"
+  },
+  {
+    "last_update": "2025-11-12 22:15:11",
+    "song": {
+      "musicAuthor": "Hovada Sk",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851bc3c57994e44fc644e997e54",
+      "musicTitle": "Spominaj",
+      "radio": "Rádio ROCK",
+      "startTime": "23:14"
+    },
+    "recorded_at": "2025-11-12T23:15:12.159880+01:00",
+    "raw_valid": true,
+    "song_session_id": "2049f921-ac56-43da-a565-89f70dd50ab4"
+  },
+  {
+    "last_update": "2025-11-12 22:18:11",
+    "song": {
+      "musicAuthor": "Creed",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851f8f048a5f4749c970078a4fb",
+      "musicTitle": "With Arms Wide Open",
+      "radio": "Rádio ROCK",
+      "startTime": "23:17"
+    },
+    "recorded_at": "2025-11-12T23:18:12.335872+01:00",
+    "raw_valid": true,
+    "song_session_id": "f2f411f2-1270-40e5-a49d-049b73002d27"
+  },
+  {
+    "last_update": "2025-11-12 22:22:14",
+    "song": {
+      "musicAuthor": "Bez Ladu A Skladu",
+      "musicCover": "https://static.radia.sk/covers/32/e89c92d5-5e22-4249-9eed-1abc8177a0cb.jpg",
+      "musicTitle": "Parné Valce",
+      "radio": "Rádio ROCK",
+      "startTime": "23:22"
+    },
+    "recorded_at": "2025-11-12T23:22:14.387335+01:00",
+    "raw_valid": true,
+    "song_session_id": "ad990bd5-8fdc-4391-bbf3-12fed4f3a347"
+  },
+  {
+    "last_update": "2025-11-12 22:25:15",
+    "song": {
+      "musicAuthor": "Plus Mínus",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485140792a31bc4f1ec81ed2b0b2",
+      "musicTitle": "40",
+      "radio": "Rádio ROCK",
+      "startTime": "23:24"
+    },
+    "recorded_at": "2025-11-12T23:25:15.586773+01:00",
+    "raw_valid": true,
+    "song_session_id": "386d8f69-2f90-4914-b1f0-a14de4a7785d"
+  },
+  {
+    "last_update": "2025-11-12 22:29:15",
+    "song": {
+      "musicAuthor": "Genesis",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485101f20b98b794099707e43375",
+      "musicTitle": "Jesus He Knows Me",
+      "radio": "Rádio ROCK",
+      "startTime": "23:28"
+    },
+    "recorded_at": "2025-11-12T23:29:15.812352+01:00",
+    "raw_valid": true,
+    "song_session_id": "e5dc4c26-c956-484f-8c75-c6460dc2cea1"
+  },
+  {
+    "last_update": "2025-11-12 22:33:17",
+    "song": {
+      "musicAuthor": "Elán",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851c787956f04279f2509a1dc36",
+      "musicTitle": "Detektívka",
+      "radio": "Rádio ROCK",
+      "startTime": "23:32"
+    },
+    "recorded_at": "2025-11-12T23:33:17.824601+01:00",
+    "raw_valid": true,
+    "song_session_id": "c789c1a7-6879-43b6-9f80-da52ad40f2c3"
+  },
+  {
+    "last_update": "2025-11-12 22:37:17",
+    "song": {
+      "musicAuthor": "Gladiator",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485186e529ea2228c92d860632d6",
+      "musicTitle": "Slovenská",
+      "radio": "Rádio ROCK",
+      "startTime": "23:37"
+    },
+    "recorded_at": "2025-11-12T23:37:18.182950+01:00",
+    "raw_valid": true,
+    "song_session_id": "2b7dce13-4b7c-4b22-b7cd-6f82587adadc"
+  },
+  {
+    "last_update": "2025-11-12 22:42:19",
+    "song": {
+      "musicAuthor": "Five Finger Death Punch Featuring Rob Halford",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485176df46a3fd82c419a2dc0a43",
+      "musicTitle": "Lift Me Up",
+      "radio": "Rádio ROCK",
+      "startTime": "23:41"
+    },
+    "recorded_at": "2025-11-12T23:42:19.960099+01:00",
+    "raw_valid": true,
+    "song_session_id": "55d939fe-9bf3-47aa-a8ff-bcc54b4e6a39"
+  },
+  {
+    "last_update": "2025-11-12 22:46:20",
+    "song": {
+      "musicAuthor": "Slobodná Európa",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851bb1dd5e38b4d5bbbf8912209",
+      "musicTitle": "Relatívny Pokoj",
+      "radio": "Rádio ROCK",
+      "startTime": "23:45"
+    },
+    "recorded_at": "2025-11-12T23:46:20.533087+01:00",
+    "raw_valid": true,
+    "song_session_id": "899aada0-bbca-49b9-8702-977837e7799d"
+  },
+  {
+    "last_update": "2025-11-12 22:49:20",
+    "song": {
+      "musicAuthor": "Tublatanka",
+      "musicCover": "https://static.radia.sk/covers/32/7ee86987-baad-48a6-9afa-0ca560d378f2.jpg",
+      "musicTitle": "Kúpim Si Kilo Lásky",
+      "radio": "Rádio ROCK",
+      "startTime": "23:49"
+    },
+    "recorded_at": "2025-11-12T23:49:20.758602+01:00",
+    "raw_valid": true,
+    "song_session_id": "35e51e7e-f619-49c5-869e-f436626d13bf"
+  },
+  {
+    "last_update": "2025-11-12 22:53:20",
+    "song": {
+      "musicAuthor": "Linkin Park",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851e2f039481babe23658fc719a",
+      "musicTitle": "In The End",
+      "radio": "Rádio ROCK",
+      "startTime": "23:53"
+    },
+    "recorded_at": "2025-11-12T23:53:21.010714+01:00",
+    "raw_valid": true,
+    "song_session_id": "260e4f52-dbb9-4813-b2bb-acd96652d25e"
+  },
+  {
+    "last_update": "2025-11-12 22:57:20",
+    "song": {
+      "musicAuthor": "Lepayaco",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485141a89ef5d65d2ee8e4e8d044",
+      "musicTitle": "Dobry Vecer Priatelia",
+      "radio": "Rádio ROCK",
+      "startTime": "23:56"
+    },
+    "recorded_at": "2025-11-12T23:57:21.242799+01:00",
+    "raw_valid": true,
+    "song_session_id": "5efed6c6-828e-48d8-8532-428b948f3468"
+  },
+  {
+    "last_update": "2025-11-12 22:59:21",
+    "song": {
+      "musicAuthor": "Plus Mínus",
+      "musicCover": "/layout/covers/default.png",
+      "musicTitle": "Nádej",
+      "radio": "Rádio ROCK",
+      "startTime": "23:59"
+    },
+    "recorded_at": "2025-11-12T23:59:21.685025+01:00",
+    "raw_valid": true,
+    "song_session_id": "7e1bd8ea-2e1b-4efb-9a0e-f5ef8795fe8f"
+  }
+]

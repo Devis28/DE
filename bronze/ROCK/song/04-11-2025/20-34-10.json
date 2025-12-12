@@ -1,0 +1,41 @@
+[
+  {
+    "last_update": "2025-11-04 20:25:13",
+    "song": {
+      "musicAuthor": "Kabát",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851037ddf69c8399260eb890afd",
+      "musicTitle": "Burláci",
+      "radio": "Rádio ROCK",
+      "startTime": "21:24"
+    },
+    "recorded_at": "2025-11-04T21:25:14.241946+01:00",
+    "raw_valid": true,
+    "song_session_id": "651fb617-758e-46ff-b835-288d65b738d4"
+  },
+  {
+    "last_update": "2025-11-04 20:30:16",
+    "song": {
+      "musicAuthor": "Peha",
+      "musicCover": "https://static.radia.sk/covers/32/23af7415-fcaa-4716-aee4-ad3e0de7314a.jpg",
+      "musicTitle": "Diaľkové Ovládanie",
+      "radio": "Rádio ROCK",
+      "startTime": "21:29"
+    },
+    "recorded_at": "2025-11-04T21:30:16.553747+01:00",
+    "raw_valid": true,
+    "song_session_id": "381daac2-9203-4782-9454-f108aede6711"
+  },
+  {
+    "last_update": "2025-11-04 20:33:18",
+    "song": {
+      "musicAuthor": "Zz Top",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485128a00032ff3b86af3d7e0e54",
+      "musicTitle": "Gimme All Your Lovin'",
+      "radio": "Rádio ROCK",
+      "startTime": "21:33"
+    },
+    "recorded_at": "2025-11-04T21:33:19.003523+01:00",
+    "raw_valid": true,
+    "song_session_id": "f634dfe5-ad60-40ff-8bbc-2b1f2065369a"
+  }
+]

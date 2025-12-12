@@ -1,0 +1,327 @@
+[
+  {
+    "last_update": "2025-11-26 05:06:30",
+    "song": {
+      "musicAuthor": "The Police",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851c8e97cafeb2acb85b21a777e",
+      "musicTitle": "Every Breath You Take",
+      "radio": "Rádio ROCK",
+      "startTime": "06:05"
+    },
+    "recorded_at": "2025-11-26T06:06:31.081220+01:00",
+    "raw_valid": true,
+    "song_session_id": "d5c6a8df-7e8d-41b6-b591-3ffe9cef21c8"
+  },
+  {
+    "last_update": "2025-11-26 05:10:31",
+    "song": {
+      "musicAuthor": "Karpina",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048510799ed47ac3b8cf1f22d9481",
+      "musicTitle": "Prievidza",
+      "radio": "Rádio ROCK",
+      "startTime": "06:09"
+    },
+    "recorded_at": "2025-11-26T06:10:32.050986+01:00",
+    "raw_valid": true,
+    "song_session_id": "dfbb2e04-511d-4e3d-b325-4fb748e97ef6"
+  },
+  {
+    "last_update": "2025-11-26 05:15:31",
+    "song": {
+      "musicAuthor": "Guns N Roses",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851e44963b8bb127552ac761873",
+      "musicTitle": "Don't Cry",
+      "radio": "Rádio ROCK",
+      "startTime": "06:14"
+    },
+    "recorded_at": "2025-11-26T06:15:32.379953+01:00",
+    "raw_valid": true,
+    "song_session_id": "bbd4c5d0-df53-4714-a9e9-f6e0241a82e9"
+  },
+  {
+    "last_update": "2025-11-26 05:21:33",
+    "song": {
+      "musicAuthor": "Smith Patti",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851a28eabe111f67a386e75a31a",
+      "musicTitle": "Because The Night",
+      "radio": "Rádio ROCK",
+      "startTime": "06:20"
+    },
+    "recorded_at": "2025-11-26T06:21:33.414545+01:00",
+    "raw_valid": true,
+    "song_session_id": "8b320a91-ecb5-48b6-b4cc-78e558f61a57"
+  },
+  {
+    "last_update": "2025-11-26 05:24:32",
+    "song": {
+      "musicAuthor": "Nickelback",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851699a422d25adc550dc5aa11c",
+      "musicTitle": "How You Remind Me",
+      "radio": "Rádio ROCK",
+      "startTime": "06:23"
+    },
+    "recorded_at": "2025-11-26T06:24:33.630887+01:00",
+    "raw_valid": true,
+    "song_session_id": "200b63be-d445-4d62-a197-b802ce6f96ad"
+  },
+  {
+    "last_update": "2025-11-26 05:28:36",
+    "song": {
+      "musicAuthor": "Volbeat",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048513bf8ce7eb3ceb6847ba1ab65",
+      "musicTitle": "Lola Montez",
+      "radio": "Rádio ROCK",
+      "startTime": "06:27"
+    },
+    "recorded_at": "2025-11-26T06:28:37.457643+01:00",
+    "raw_valid": true,
+    "song_session_id": "a5ef705b-4f28-4606-8f6c-21283b61367c"
+  },
+  {
+    "last_update": "2025-11-26 05:34:09",
+    "song": {
+      "musicAuthor": "Queen",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851e98d08fbea1a2f03229abc20",
+      "musicTitle": "A Kind Of Magic",
+      "radio": "Rádio ROCK",
+      "startTime": "06:33"
+    },
+    "recorded_at": "2025-11-26T06:34:09.391849+01:00",
+    "raw_valid": true,
+    "song_session_id": "eaa1b232-f8aa-46d8-b93c-15ca3738b01f"
+  },
+  {
+    "last_update": "2025-11-26 05:38:10",
+    "song": {
+      "musicAuthor": "Travis",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851a3af1ff0ed981bf3d9353af8",
+      "musicTitle": "Side",
+      "radio": "Rádio ROCK",
+      "startTime": "06:37"
+    },
+    "recorded_at": "2025-11-26T06:38:11.503885+01:00",
+    "raw_valid": true,
+    "song_session_id": "15f01877-b346-42ee-8c6c-2ce66ce182c9"
+  },
+  {
+    "last_update": "2025-11-26 05:42:11",
+    "song": {
+      "musicAuthor": "Placebo",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048516745a70abfc25f45612c4d32",
+      "musicTitle": "The Bitter End",
+      "radio": "Rádio ROCK",
+      "startTime": "06:41"
+    },
+    "recorded_at": "2025-11-26T06:42:11.727300+01:00",
+    "raw_valid": true,
+    "song_session_id": "20b095d3-0fda-4eca-a644-37890979c6c6"
+  },
+  {
+    "last_update": "2025-11-26 05:45:10",
+    "song": {
+      "musicAuthor": "Metallica",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485175e6375e11550746705a9645",
+      "musicTitle": "Whiskey In The Jar",
+      "radio": "Rádio ROCK",
+      "startTime": "06:44"
+    },
+    "recorded_at": "2025-11-26T06:45:11.908346+01:00",
+    "raw_valid": true,
+    "song_session_id": "3fc676bc-93b4-407c-8cbd-84c38b9d46c1"
+  },
+  {
+    "last_update": "2025-11-26 05:51:13",
+    "song": {
+      "musicAuthor": "U2",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851673526fcf35ab235e1a9d94c",
+      "musicTitle": "Sunday Bloody Sunday",
+      "radio": "Rádio ROCK",
+      "startTime": "06:50"
+    },
+    "recorded_at": "2025-11-26T06:51:13.110668+01:00",
+    "raw_valid": true,
+    "song_session_id": "b50f965c-96ce-4438-8a75-5302b1a70c77"
+  },
+  {
+    "last_update": "2025-11-26 05:56:14",
+    "song": {
+      "musicAuthor": "Linkin Park",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485146e207de66ba06422897f769",
+      "musicTitle": "What I've Done",
+      "radio": "Rádio ROCK",
+      "startTime": "06:55"
+    },
+    "recorded_at": "2025-11-26T06:56:14.706179+01:00",
+    "raw_valid": true,
+    "song_session_id": "c15e4d4a-ac09-4653-a8ac-53296cda0318"
+  },
+  {
+    "last_update": "2025-11-26 05:59:14",
+    "song": {
+      "musicAuthor": "Hole",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048510649124c37ce988317263671",
+      "musicTitle": "Celebrity Skin",
+      "radio": "Rádio ROCK",
+      "startTime": "06:58"
+    },
+    "recorded_at": "2025-11-26T06:59:14.891133+01:00",
+    "raw_valid": true,
+    "song_session_id": "e0c1a443-050b-4e91-97e1-9ba347f975aa"
+  },
+  {
+    "last_update": "2025-11-26 06:06:14",
+    "song": {
+      "musicAuthor": "Smash Mouth",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048511c36662f70967a1210a42741",
+      "musicTitle": "I'm Believer",
+      "radio": "Rádio ROCK",
+      "startTime": "07:05"
+    },
+    "recorded_at": "2025-11-26T07:06:15.385015+01:00",
+    "raw_valid": true,
+    "song_session_id": "12adc0d4-fe70-4249-850e-f03c9b4a793e"
+  },
+  {
+    "last_update": "2025-11-26 06:09:14",
+    "song": {
+      "musicAuthor": "Dereš",
+      "musicCover": "https://static.radia.sk/covers/32/54aafc3b-0156-48db-8d55-8432189887ac.jpg",
+      "musicTitle": "Na Panské",
+      "radio": "Rádio ROCK",
+      "startTime": "07:08"
+    },
+    "recorded_at": "2025-11-26T07:09:15.577776+01:00",
+    "raw_valid": true,
+    "song_session_id": "0e77560c-0190-44cc-844c-a7cd0dcd460b"
+  },
+  {
+    "last_update": "2025-11-26 06:13:15",
+    "song": {
+      "musicAuthor": "The Red Hot Chili Peppers",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851153d79816d853f2694b2cc70",
+      "musicTitle": "Under The Bridge",
+      "radio": "Rádio ROCK",
+      "startTime": "07:12"
+    },
+    "recorded_at": "2025-11-26T07:13:15.948523+01:00",
+    "raw_valid": true,
+    "song_session_id": "d8d26c0e-1659-4b5a-b03a-518b5a7facb5"
+  },
+  {
+    "last_update": "2025-11-26 06:18:15",
+    "song": {
+      "musicAuthor": "Blink-182",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485154a8f4f9158546472fbb7280",
+      "musicTitle": "The Rock Show",
+      "radio": "Rádio ROCK",
+      "startTime": "07:18"
+    },
+    "recorded_at": "2025-11-26T07:18:16.397731+01:00",
+    "raw_valid": true,
+    "song_session_id": "e11d4560-2892-4e80-9af6-cf08f19ab304"
+  },
+  {
+    "last_update": "2025-11-26 06:21:15",
+    "song": {
+      "musicAuthor": "Led Zeppelin",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851c8a11e48c91a982d086afc69",
+      "musicTitle": "Stairway To Heaven",
+      "radio": "Rádio ROCK",
+      "startTime": "07:20"
+    },
+    "recorded_at": "2025-11-26T07:21:16.662686+01:00",
+    "raw_valid": true,
+    "song_session_id": "f5f6ba02-8000-432d-be9a-fa9b128d7f21"
+  },
+  {
+    "last_update": "2025-11-26 06:29:17",
+    "song": {
+      "musicAuthor": "Kabát",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048513b275d370a97516893dff21d",
+      "musicTitle": "Moderní Děvče",
+      "radio": "Rádio ROCK",
+      "startTime": "07:29"
+    },
+    "recorded_at": "2025-11-26T07:29:18.316009+01:00",
+    "raw_valid": true,
+    "song_session_id": "2107f029-4bd4-4b11-86b3-8385f3933f08"
+  },
+  {
+    "last_update": "2025-11-26 06:35:18",
+    "song": {
+      "musicAuthor": "Depeche Mode",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048510a7d45a345534966a4ad2c39",
+      "musicTitle": "Enjoy The Silence",
+      "radio": "Rádio ROCK",
+      "startTime": "07:34"
+    },
+    "recorded_at": "2025-11-26T07:35:19.181859+01:00",
+    "raw_valid": true,
+    "song_session_id": "23bb5d52-cdfe-4c2c-bcce-149a847b08d9"
+  },
+  {
+    "last_update": "2025-11-26 06:38:20",
+    "song": {
+      "musicAuthor": "Fleetwood Mac",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851aaba065944cd82a6f15c86b6",
+      "musicTitle": "Little Lies",
+      "radio": "Rádio ROCK",
+      "startTime": "07:37"
+    },
+    "recorded_at": "2025-11-26T07:38:21.040448+01:00",
+    "raw_valid": true,
+    "song_session_id": "df6fa114-6bcb-432d-bd78-6402f82bb524"
+  },
+  {
+    "last_update": "2025-11-26 06:41:21",
+    "song": {
+      "musicAuthor": "Verve, The",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851707d13d3f87652e737e94d45",
+      "musicTitle": "Bitter Sweet Symphony",
+      "radio": "Rádio ROCK",
+      "startTime": "07:41"
+    },
+    "recorded_at": "2025-11-26T07:41:21.293689+01:00",
+    "raw_valid": true,
+    "song_session_id": "e466743a-b835-434d-9603-915a04029b28"
+  },
+  {
+    "last_update": "2025-11-26 06:48:21",
+    "song": {
+      "musicAuthor": "Survivor",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851f4a2ccbe20d6d52f16816812",
+      "musicTitle": "Eye Of The Tiger",
+      "radio": "Rádio ROCK",
+      "startTime": "07:48"
+    },
+    "recorded_at": "2025-11-26T07:48:22.567795+01:00",
+    "raw_valid": true,
+    "song_session_id": "bdf94a05-8197-4a27-be10-c707b69f2af6"
+  },
+  {
+    "last_update": "2025-11-26 06:52:22",
+    "song": {
+      "musicAuthor": "Nickelback",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485115a5f571e2e14b2c182bd0a3",
+      "musicTitle": "Someday",
+      "radio": "Rádio ROCK",
+      "startTime": "07:52"
+    },
+    "recorded_at": "2025-11-26T07:52:22.857642+01:00",
+    "raw_valid": true,
+    "song_session_id": "6a0b3887-543f-4e7c-a5bf-33814b3ebf13"
+  },
+  {
+    "last_update": "2025-11-26 06:55:24",
+    "song": {
+      "musicAuthor": "Scorpions",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851d81745a4bbb5e8b169f9f13b",
+      "musicTitle": "You And I",
+      "radio": "Rádio ROCK",
+      "startTime": "07:55"
+    },
+    "recorded_at": "2025-11-26T07:55:24.973256+01:00",
+    "raw_valid": true,
+    "song_session_id": "58b240b2-05c6-4a6b-8b2c-124e1f88aad2"
+  }
+]

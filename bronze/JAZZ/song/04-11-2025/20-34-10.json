@@ -1,0 +1,29 @@
+[
+  {
+    "song": {
+      "play_date": "2025-11-04",
+      "play_time": "21:25",
+      "artist": [
+        "Oscar Peterson Trio"
+      ],
+      "title": "Band Call"
+    },
+    "recorded_at": "2025-11-04T21:27:13.338431+01:00",
+    "raw_valid": true,
+    "song_session_id": "fe256430-e5ab-4690-9eb6-79f21e46ded0"
+  },
+  {
+    "song": {
+      "play_date": "2025-11-04",
+      "play_time": "21:29",
+      "artist": [
+        "Lukas Oravec Quartet",
+        "Jerry Bergonzi"
+      ],
+      "title": "Michaela"
+    },
+    "recorded_at": "2025-11-04T21:32:14.016612+01:00",
+    "raw_valid": true,
+    "song_session_id": "b1eb187c-0d67-471c-bdb3-71e8f9962aaa"
+  }
+]

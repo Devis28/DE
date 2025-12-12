@@ -1,0 +1,405 @@
+[
+  {
+    "last_update": "2025-11-12 23:03:21",
+    "song": {
+      "musicAuthor": "Toto",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048514a052b99c042dc15f933145b",
+      "musicTitle": "Africa",
+      "radio": "Rádio ROCK",
+      "startTime": "00:03"
+    },
+    "recorded_at": "2025-11-13T00:03:21.931309+01:00",
+    "raw_valid": true,
+    "song_session_id": "fca516f8-aa2f-46ee-a2a0-a40bb46de858"
+  },
+  {
+    "last_update": "2025-11-12 23:08:22",
+    "song": {
+      "musicAuthor": "The Youniverse",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851edec1fd617f7c4481d51588d",
+      "musicTitle": "Aftershock",
+      "radio": "Rádio ROCK",
+      "startTime": "00:08"
+    },
+    "recorded_at": "2025-11-13T00:08:22.524694+01:00",
+    "raw_valid": true,
+    "song_session_id": "9eb8ae65-f577-4603-b6c9-132020152fdf"
+  },
+  {
+    "last_update": "2025-11-12 23:11:22",
+    "song": {
+      "musicAuthor": "The Paranoid",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048514709458a8bdb635952f15a82",
+      "musicTitle": "Anjeli Spia",
+      "radio": "Rádio ROCK",
+      "startTime": "00:11"
+    },
+    "recorded_at": "2025-11-13T00:11:22.715087+01:00",
+    "raw_valid": true,
+    "song_session_id": "021a9852-8f5b-4480-bf18-c7ed09a05231"
+  },
+  {
+    "last_update": "2025-11-12 23:15:22",
+    "song": {
+      "musicAuthor": "Rammstein",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048518b2c42026277efc3e058855b",
+      "musicTitle": "Feuer Frei",
+      "radio": "Rádio ROCK",
+      "startTime": "00:14"
+    },
+    "recorded_at": "2025-11-13T00:15:22.941953+01:00",
+    "raw_valid": true,
+    "song_session_id": "d87bd079-f7ed-43a2-9723-730a33c6d478"
+  },
+  {
+    "last_update": "2025-11-12 23:18:23",
+    "song": {
+      "musicAuthor": "Helenine Oci",
+      "musicCover": "/layout/covers/default.png",
+      "musicTitle": "Mariana",
+      "radio": "Rádio ROCK",
+      "startTime": "00:17"
+    },
+    "recorded_at": "2025-11-13T00:18:23.544344+01:00",
+    "raw_valid": true,
+    "song_session_id": "409a2480-36d5-4c5b-a389-2b4eb757a5f8"
+  },
+  {
+    "last_update": "2025-11-12 23:21:23",
+    "song": {
+      "musicAuthor": "Billy Barman",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851d98c7bc0c8671b5727b2a044",
+      "musicTitle": "Traja",
+      "radio": "Rádio ROCK",
+      "startTime": "00:20"
+    },
+    "recorded_at": "2025-11-13T00:21:23.765924+01:00",
+    "raw_valid": true,
+    "song_session_id": "91a5b2f6-a4d8-4602-8ad1-2870a4460cc8"
+  },
+  {
+    "last_update": "2025-11-12 23:24:24",
+    "song": {
+      "musicAuthor": "Deep Blue Something",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851038f8fad2f75b637f1c9aef5",
+      "musicTitle": "Breakfast At Tiffany's",
+      "radio": "Rádio ROCK",
+      "startTime": "00:23"
+    },
+    "recorded_at": "2025-11-13T00:24:24.752114+01:00",
+    "raw_valid": true,
+    "song_session_id": "5bfc8bf1-b8ee-4881-9b1e-2685f5208c95"
+  },
+  {
+    "last_update": "2025-11-12 23:28:24",
+    "song": {
+      "musicAuthor": "The Youniverse",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485181ef6dda031fce0adb2f3a1b",
+      "musicTitle": "Unfollow Me",
+      "radio": "Rádio ROCK",
+      "startTime": "00:27"
+    },
+    "recorded_at": "2025-11-13T00:28:25.545574+01:00",
+    "raw_valid": true,
+    "song_session_id": "6b1d75d4-d2a4-44a7-ae65-c3e489151900"
+  },
+  {
+    "last_update": "2025-11-12 23:33:24",
+    "song": {
+      "musicAuthor": "Gladiátor",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851c78b897fa249ccb87f832a83",
+      "musicTitle": "Dnes Je Skvelý Den",
+      "radio": "Rádio ROCK",
+      "startTime": "00:32"
+    },
+    "recorded_at": "2025-11-13T00:33:25.857143+01:00",
+    "raw_valid": true,
+    "song_session_id": "0b0b85b4-4d9c-446d-a6c3-7ea50b53336b"
+  },
+  {
+    "last_update": "2025-11-12 23:38:25",
+    "song": {
+      "musicAuthor": "U2",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048513f4be7b80314bc44154f2e1a",
+      "musicTitle": "Desire",
+      "radio": "Rádio ROCK",
+      "startTime": "00:37"
+    },
+    "recorded_at": "2025-11-13T00:38:26.187939+01:00",
+    "raw_valid": true,
+    "song_session_id": "49b460f7-0440-42f0-9845-bc22313175d8"
+  },
+  {
+    "last_update": "2025-11-12 23:41:26",
+    "song": {
+      "musicAuthor": "Sounds Like This",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851908a022420c5b7d800d4afaa",
+      "musicTitle": "Cudzinec",
+      "radio": "Rádio ROCK",
+      "startTime": "00:40"
+    },
+    "recorded_at": "2025-11-13T00:41:26.415498+01:00",
+    "raw_valid": true,
+    "song_session_id": "d22b2c54-ba80-494a-8b64-6b22c168b889"
+  },
+  {
+    "last_update": "2025-11-12 23:45:27",
+    "song": {
+      "musicAuthor": "Le Payaco",
+      "musicCover": "https://static.radia.sk/covers/32/f26e2264-e19f-4fc4-91d2-1af864449ee2.jpg",
+      "musicTitle": "Vtáci",
+      "radio": "Rádio ROCK",
+      "startTime": "00:44"
+    },
+    "recorded_at": "2025-11-13T00:45:27.645845+01:00",
+    "raw_valid": true,
+    "song_session_id": "c48ee449-cd7c-4f19-ae84-c1c215adbaf9"
+  },
+  {
+    "last_update": "2025-11-12 23:49:27",
+    "song": {
+      "musicAuthor": "The Red Hot Chili Peppers",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851f3686323bf737cb7ba3de792",
+      "musicTitle": "Snow (Hey Oh)",
+      "radio": "Rádio ROCK",
+      "startTime": "00:49"
+    },
+    "recorded_at": "2025-11-13T00:49:27.919516+01:00",
+    "raw_valid": true,
+    "song_session_id": "f9520c32-c252-47ea-bcab-0b51935c2270"
+  },
+  {
+    "last_update": "2025-11-12 23:55:28",
+    "song": {
+      "musicAuthor": "Team",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851aaa0cb08e6a6ca74ccf28506",
+      "musicTitle": "Malá Nočná Búrka",
+      "radio": "Rádio ROCK",
+      "startTime": "00:54"
+    },
+    "recorded_at": "2025-11-13T00:55:28.849862+01:00",
+    "raw_valid": true,
+    "song_session_id": "a9a73b32-0668-4e76-85d4-f669b4bcf4bb"
+  },
+  {
+    "last_update": "2025-11-12 23:59:28",
+    "song": {
+      "musicAuthor": "Three Days Grace",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048519dcf31d6b5eb82fa24de783a",
+      "musicTitle": "Never Too Late",
+      "radio": "Rádio ROCK",
+      "startTime": "00:58"
+    },
+    "recorded_at": "2025-11-13T00:59:29.140540+01:00",
+    "raw_valid": true,
+    "song_session_id": "0cff9715-f58b-4af1-8239-2ae3d1eb678d"
+  },
+  {
+    "last_update": "2025-11-13 00:03:29",
+    "song": {
+      "musicAuthor": "Survivor",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048514ea1fd36ef7d78214011371c",
+      "musicTitle": "Burning Heart",
+      "radio": "Rádio ROCK",
+      "startTime": "01:03"
+    },
+    "recorded_at": "2025-11-13T01:03:29.833679+01:00",
+    "raw_valid": true,
+    "song_session_id": "742b7d74-e50e-41f1-a400-d93b50470a20"
+  },
+  {
+    "last_update": "2025-11-13 00:07:29",
+    "song": {
+      "musicAuthor": "Tublatanka",
+      "musicCover": "https://static.radia.sk/covers/32/7ee86987-baad-48a6-9afa-0ca560d378f2.jpg",
+      "musicTitle": "O Nás",
+      "radio": "Rádio ROCK",
+      "startTime": "01:06"
+    },
+    "recorded_at": "2025-11-13T01:07:30.166893+01:00",
+    "raw_valid": true,
+    "song_session_id": "31a0abcc-db12-4dae-be54-56d768a1ce5f"
+  },
+  {
+    "last_update": "2025-11-13 00:12:31",
+    "song": {
+      "musicAuthor": "Karpina",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048510799ed47ac3b8cf1f22d9481",
+      "musicTitle": "Nekromanca",
+      "radio": "Rádio ROCK",
+      "startTime": "01:11"
+    },
+    "recorded_at": "2025-11-13T01:12:31.671349+01:00",
+    "raw_valid": true,
+    "song_session_id": "297a20ed-aa27-4888-895b-8cff194a2e82"
+  },
+  {
+    "last_update": "2025-11-13 00:16:32",
+    "song": {
+      "musicAuthor": "Guns N Roses",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485192d21aef6c0d288cc4c05973",
+      "musicTitle": "Yesterdays",
+      "radio": "Rádio ROCK",
+      "startTime": "01:15"
+    },
+    "recorded_at": "2025-11-13T01:16:32.633246+01:00",
+    "raw_valid": true,
+    "song_session_id": "6709eaa0-225d-42fa-9b30-6b8cb793f017"
+  },
+  {
+    "last_update": "2025-11-13 00:19:32",
+    "song": {
+      "musicAuthor": "Volume",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048512f8f7c6960c100ccd4f76b11",
+      "musicTitle": "Sme Slobodni",
+      "radio": "Rádio ROCK",
+      "startTime": "01:18"
+    },
+    "recorded_at": "2025-11-13T01:19:32.903940+01:00",
+    "raw_valid": true,
+    "song_session_id": "3f06bf4f-a89a-44b4-b981-7ae50373f15b"
+  },
+  {
+    "last_update": "2025-11-13 00:23:33",
+    "song": {
+      "musicAuthor": "James",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048510137f8e79dc60001c2dc5b79",
+      "musicTitle": "Sit Down",
+      "radio": "Rádio ROCK",
+      "startTime": "01:22"
+    },
+    "recorded_at": "2025-11-13T01:23:33.269766+01:00",
+    "raw_valid": true,
+    "song_session_id": "7897dbc3-9846-43e7-9b6d-0446f5d37e6a"
+  },
+  {
+    "last_update": "2025-11-13 00:27:34",
+    "song": {
+      "musicAuthor": "Imagine Dragons",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851407bd04707c463bbb3410737",
+      "musicTitle": "Demons",
+      "radio": "Rádio ROCK",
+      "startTime": "01:26"
+    },
+    "recorded_at": "2025-11-13T01:27:35.537140+01:00",
+    "raw_valid": true,
+    "song_session_id": "d17a7367-3ad4-42da-9a54-5ced9924ebca"
+  },
+  {
+    "last_update": "2025-11-13 00:30:37",
+    "song": {
+      "musicAuthor": "Peha",
+      "musicCover": "https://static.radia.sk/covers/32/23af7415-fcaa-4716-aee4-ad3e0de7314a.jpg",
+      "musicTitle": "V Zaseknutom Výťahu",
+      "radio": "Rádio ROCK",
+      "startTime": "01:29"
+    },
+    "recorded_at": "2025-11-13T01:30:37.986819+01:00",
+    "raw_valid": true,
+    "song_session_id": "25662007-724a-4480-9142-d542152bdbd7"
+  },
+  {
+    "last_update": "2025-11-13 00:34:08",
+    "song": {
+      "musicAuthor": "Hex",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851a224357a82f21d6f9f2e584a",
+      "musicTitle": "Nikdy Nebolo Lepšie",
+      "radio": "Rádio ROCK",
+      "startTime": "01:33"
+    },
+    "recorded_at": "2025-11-13T01:34:08.929157+01:00",
+    "raw_valid": true,
+    "song_session_id": "60975fc5-4a9c-4879-80fa-a11663baca49"
+  },
+  {
+    "last_update": "2025-11-13 00:38:08",
+    "song": {
+      "musicAuthor": "Slade",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485184b6474df4a8ed448daa8295",
+      "musicTitle": "My, Oh My",
+      "radio": "Rádio ROCK",
+      "startTime": "01:37"
+    },
+    "recorded_at": "2025-11-13T01:38:09.350928+01:00",
+    "raw_valid": true,
+    "song_session_id": "7f9f1eac-56bc-46d5-b543-65617280ae85"
+  },
+  {
+    "last_update": "2025-11-13 00:42:10",
+    "song": {
+      "musicAuthor": "Le Payaco",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485107a595f71faaf812b9eedaf7",
+      "musicTitle": "Sadni Si Mi Na Kolená",
+      "radio": "Rádio ROCK",
+      "startTime": "01:41"
+    },
+    "recorded_at": "2025-11-13T01:42:11.052896+01:00",
+    "raw_valid": true,
+    "song_session_id": "aab3b84d-7551-4939-bd8d-6527c656b260"
+  },
+  {
+    "last_update": "2025-11-13 00:44:10",
+    "song": {
+      "musicAuthor": "Team",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851aaa0cb08e6a6ca74ccf28506",
+      "musicTitle": "Nároční",
+      "radio": "Rádio ROCK",
+      "startTime": "01:43"
+    },
+    "recorded_at": "2025-11-13T01:44:11.172771+01:00",
+    "raw_valid": true,
+    "song_session_id": "46bd072b-8c23-4da5-94ae-bbad12fb9dff"
+  },
+  {
+    "last_update": "2025-11-13 00:49:13",
+    "song": {
+      "musicAuthor": "The Offspring",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851cbd2ee7dff77bfb2b5f0af52",
+      "musicTitle": "The Kids Arent Alright",
+      "radio": "Rádio ROCK",
+      "startTime": "01:48"
+    },
+    "recorded_at": "2025-11-13T01:49:13.585202+01:00",
+    "raw_valid": true,
+    "song_session_id": "e28c2b22-08c2-4419-8283-1918a03456a4"
+  },
+  {
+    "last_update": "2025-11-13 00:52:14",
+    "song": {
+      "musicAuthor": "Para",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851ddae98c15583b210d7db7a93",
+      "musicTitle": "Keď Ťa Stretnem",
+      "radio": "Rádio ROCK",
+      "startTime": "01:51"
+    },
+    "recorded_at": "2025-11-13T01:52:15.310816+01:00",
+    "raw_valid": true,
+    "song_session_id": "85364ddf-c3a2-4a3a-bc23-2e1ab2a9eb76"
+  },
+  {
+    "last_update": "2025-11-13 00:56:15",
+    "song": {
+      "musicAuthor": "Queens Of The Stone Age",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048519eec33b045d88f87b9b06e67",
+      "musicTitle": "No One Knows",
+      "radio": "Rádio ROCK",
+      "startTime": "01:56"
+    },
+    "recorded_at": "2025-11-13T01:56:15.608326+01:00",
+    "raw_valid": true,
+    "song_session_id": "d377dbff-99f7-4ae8-83db-e1ea789a3798"
+  },
+  {
+    "last_update": "2025-11-13 01:01:17",
+    "song": {
+      "musicAuthor": "Lynyrd Skynyrd",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485117e1907923e91181f38290ac",
+      "musicTitle": "Sweet Home Alabama",
+      "radio": "Rádio ROCK",
+      "startTime": "02:00"
+    },
+    "recorded_at": "2025-11-13T02:01:17.538505+01:00",
+    "raw_valid": true,
+    "song_session_id": "cef7157a-cd65-43f0-b44f-0cf1f9774026"
+  }
+]

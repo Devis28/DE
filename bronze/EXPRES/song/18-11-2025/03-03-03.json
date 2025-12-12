@@ -1,0 +1,423 @@
+[
+  {
+    "song": "Spocitaj Ma",
+    "artists": [
+      "Richard Muller"
+    ],
+    "isrc": "SKA010109102",
+    "start_time": "2025-11-18 02:03:35",
+    "radio": "expres",
+    "recorded_at": "2025-11-18T02:04:04.616572+01:00",
+    "raw_valid": true,
+    "song_session_id": "c9767445-9380-4e22-ac95-ccf15d7cafca"
+  },
+  {
+    "song": "The One",
+    "artists": [
+      "Michael Patrick Kelly"
+    ],
+    "isrc": "DEE862500476",
+    "start_time": "2025-11-18 02:08:05",
+    "radio": "expres",
+    "recorded_at": "2025-11-18T02:08:42.196401+01:00",
+    "raw_valid": true,
+    "song_session_id": "0d66be80-9505-4934-b048-61f0013e8819"
+  },
+  {
+    "song": "Srdce",
+    "artists": [
+      "Hex"
+    ],
+    "isrc": "SKC751700107",
+    "start_time": "2025-11-18 02:11:11",
+    "radio": "expres",
+    "recorded_at": "2025-11-18T02:11:44.049370+01:00",
+    "raw_valid": true,
+    "song_session_id": "febf4405-1d5a-40e8-a2aa-e2053382b0e5"
+  },
+  {
+    "song": "Boulevard Of Broken Dreams",
+    "artists": [
+      "Green Day"
+    ],
+    "isrc": "USRE11200337",
+    "start_time": "2025-11-18 02:15:01",
+    "radio": "expres",
+    "recorded_at": "2025-11-18T02:15:22.816630+01:00",
+    "raw_valid": true,
+    "song_session_id": "4be38e3f-ef0a-4b8f-9d70-0265edf33a91"
+  },
+  {
+    "song": "V Nas",
+    "artists": [
+      "Nocaden"
+    ],
+    "isrc": "CZA231500032",
+    "start_time": "2025-11-18 02:18:58",
+    "radio": "expres",
+    "recorded_at": "2025-11-18T02:19:26.603171+01:00",
+    "raw_valid": true,
+    "song_session_id": "9f9faf9f-4742-4ce1-ba63-1f5ab4d602f0"
+  },
+  {
+    "song": "Pride",
+    "artists": [
+      "Felix Jaehn",
+      "Jhart"
+    ],
+    "isrc": "DEUM72503423",
+    "start_time": "2025-11-18 02:22:43",
+    "radio": "expres",
+    "recorded_at": "2025-11-18T02:23:10.232590+01:00",
+    "raw_valid": true,
+    "song_session_id": "7a1ec546-67ff-44b8-a4ce-788003701cd4"
+  },
+  {
+    "song": "Vyznanie",
+    "artists": [
+      "Marika Gombitova",
+      "Modus"
+    ],
+    "isrc": "SKA127985812",
+    "start_time": "2025-11-18 02:25:23",
+    "radio": "expres",
+    "recorded_at": "2025-11-18T02:25:53.091212+01:00",
+    "raw_valid": true,
+    "song_session_id": "39ee4ef5-32fc-4f33-bf34-f80210624353"
+  },
+  {
+    "song": "Austin",
+    "artists": [
+      "Dasha"
+    ],
+    "isrc": "QZTB92360479",
+    "start_time": "2025-11-18 02:30:12",
+    "radio": "expres",
+    "recorded_at": "2025-11-18T02:30:44.845236+01:00",
+    "raw_valid": true,
+    "song_session_id": "fc952fba-66c0-47a1-90d9-7587d24a15f2"
+  },
+  {
+    "song": "Glide",
+    "artists": [
+      "Neiked",
+      "Portugal The Man"
+    ],
+    "isrc": "DEE862500421",
+    "start_time": "2025-11-18 02:33:40",
+    "radio": "expres",
+    "recorded_at": "2025-11-18T02:34:05.098428+01:00",
+    "raw_valid": true,
+    "song_session_id": "1c751375-8d3e-4edd-a708-44cacb89746d"
+  },
+  {
+    "song": "Kaskader",
+    "artists": [
+      "Elan"
+    ],
+    "isrc": "SKA129250602",
+    "start_time": "2025-11-18 02:36:37",
+    "radio": "expres",
+    "recorded_at": "2025-11-18T02:37:08.147703+01:00",
+    "raw_valid": true,
+    "song_session_id": "8d8b150a-cda7-4eaa-ae26-5c582f4828b8"
+  },
+  {
+    "song": "Every Breath You Take",
+    "artists": [
+      "Police"
+    ],
+    "isrc": "GBAAM0201110",
+    "start_time": "2025-11-18 02:40:28",
+    "radio": "expres",
+    "recorded_at": "2025-11-18T02:40:51.477183+01:00",
+    "raw_valid": true,
+    "song_session_id": "a8cc83c2-9d27-4e57-91f0-8d6b786f4ef8"
+  },
+  {
+    "song": "Usmev A Caj",
+    "artists": [
+      "Imt Smile",
+      "Zuzana Smatanova"
+    ],
+    "isrc": "SKA010400081",
+    "start_time": "2025-11-18 02:44:27",
+    "radio": "expres",
+    "recorded_at": "2025-11-18T02:44:55.329416+01:00",
+    "raw_valid": true,
+    "song_session_id": "fabe1f46-c3c6-4d94-9f32-a2859bd26011"
+  },
+  {
+    "song": "Gone Gone Gone",
+    "artists": [
+      "David Guetta",
+      "Teddy Swims",
+      "Tones And I"
+    ],
+    "isrc": "UKWLG2500132",
+    "start_time": "2025-11-18 02:48:13",
+    "radio": "expres",
+    "recorded_at": "2025-11-18T02:48:46.359766+01:00",
+    "raw_valid": true,
+    "song_session_id": "65628383-49ff-465b-ab22-f672ef4048b6"
+  },
+  {
+    "song": "Taki Sme",
+    "artists": [
+      "Katarina Knechtova",
+      "Adam Durica"
+    ],
+    "isrc": "SKE432000137",
+    "start_time": "2025-11-18 02:52:00",
+    "radio": "expres",
+    "recorded_at": "2025-11-18T02:52:26.550239+01:00",
+    "raw_valid": true,
+    "song_session_id": "448d09e7-b235-45f4-af3f-d3507ee62a6f"
+  },
+  {
+    "song": "Just A Dream",
+    "artists": [
+      "Nelly"
+    ],
+    "isrc": "USUM71020948",
+    "start_time": "2025-11-18 02:54:44",
+    "radio": "expres",
+    "recorded_at": "2025-11-18T02:55:09.163116+01:00",
+    "raw_valid": true,
+    "song_session_id": "86aa06fd-6467-4b33-979b-1a77ddce9b8a"
+  },
+  {
+    "song": "Len Sa Smej",
+    "artists": [
+      "Peter Bic Project"
+    ],
+    "isrc": "SKA012300333",
+    "start_time": "2025-11-18 02:58:43",
+    "radio": "expres",
+    "recorded_at": "2025-11-18T02:59:26.488540+01:00",
+    "raw_valid": true,
+    "song_session_id": "e166202e-2d7c-46e8-9038-94865d4e9673"
+  },
+  {
+    "song": "Regalo",
+    "artists": [
+      "Alvaro Soler"
+    ],
+    "isrc": "DEE862500388",
+    "start_time": "2025-11-18 03:01:25",
+    "radio": "expres",
+    "recorded_at": "2025-11-18T03:02:06.670916+01:00",
+    "raw_valid": true,
+    "song_session_id": "a1b4c5aa-83c2-4211-adc2-f9a824421a6e"
+  },
+  {
+    "song": "Vrba",
+    "artists": [
+      "Desmod"
+    ],
+    "isrc": "SKM901700108",
+    "start_time": "2025-11-18 03:04:38",
+    "radio": "expres",
+    "recorded_at": "2025-11-18T03:05:07.020436+01:00",
+    "raw_valid": true,
+    "song_session_id": "c682a94f-2301-4e18-aaa8-59d8bfd4cb50"
+  },
+  {
+    "song": "Eyes Closed",
+    "artists": [
+      "Imagine Dragons"
+    ],
+    "isrc": "USUM72402448",
+    "start_time": "2025-11-18 03:08:49",
+    "radio": "expres",
+    "recorded_at": "2025-11-18T03:09:15.748676+01:00",
+    "raw_valid": true,
+    "song_session_id": "ad7f97fe-9f40-4cb9-84a2-bc23b69fa4d9"
+  },
+  {
+    "song": "Podme Sa Zachranit",
+    "artists": [
+      "Peter Nagy"
+    ],
+    "isrc": "SKA128666501",
+    "start_time": "2025-11-18 03:12:08",
+    "radio": "expres",
+    "recorded_at": "2025-11-18T03:12:46.880164+01:00",
+    "raw_valid": true,
+    "song_session_id": "b8f35500-da4d-4908-8d06-c7cc11f34424"
+  },
+  {
+    "song": "Why Dont You Get A Job?",
+    "artists": [
+      "Offspring"
+    ],
+    "isrc": "USSM19804369",
+    "start_time": "2025-11-18 03:15:36",
+    "radio": "expres",
+    "recorded_at": "2025-11-18T03:16:07.051056+01:00",
+    "raw_valid": true,
+    "song_session_id": "4cd4bc89-e379-4869-8e09-fb7baede2fcf"
+  },
+  {
+    "song": "Medzi Nebom A Zenou",
+    "artists": [
+      "Banket",
+      "Richard Muller",
+      "Ema Muller"
+    ],
+    "isrc": "SKC362500009",
+    "start_time": "2025-11-18 03:18:14",
+    "radio": "expres",
+    "recorded_at": "2025-11-18T03:18:47.492014+01:00",
+    "raw_valid": true,
+    "song_session_id": "998b4a10-7561-4c0a-919a-b0e4c4cc9e00"
+  },
+  {
+    "song": "End Of The World",
+    "artists": [
+      "Miley Cyrus"
+    ],
+    "isrc": "USSM12501019",
+    "start_time": "2025-11-18 03:22:18",
+    "radio": "expres",
+    "recorded_at": "2025-11-18T03:22:57.772588+01:00",
+    "raw_valid": true,
+    "song_session_id": "05960f49-1d0f-40a9-9c39-ae21d531b063"
+  },
+  {
+    "song": "Normalny Zivot",
+    "artists": [
+      "Sima Martausova"
+    ],
+    "isrc": "SKG081300101",
+    "start_time": "2025-11-18 03:26:14",
+    "radio": "expres",
+    "recorded_at": "2025-11-18T03:26:47.877630+01:00",
+    "raw_valid": true,
+    "song_session_id": "b83c5a9d-6e37-4f59-a0ae-0b120a00e2e2"
+  },
+  {
+    "song": "Want To Want Me",
+    "artists": [
+      "Jason Derulo"
+    ],
+    "isrc": "USWB11503046",
+    "start_time": "2025-11-18 03:28:59",
+    "radio": "expres",
+    "recorded_at": "2025-11-18T03:29:27.782169+01:00",
+    "raw_valid": true,
+    "song_session_id": "53bec7a2-e5b3-400c-ad34-4bdd20cc8af7"
+  },
+  {
+    "song": "Mystical Magical",
+    "artists": [
+      "Benson Boone"
+    ],
+    "isrc": "USWB12500844",
+    "start_time": "2025-11-18 03:32:41",
+    "radio": "expres",
+    "recorded_at": "2025-11-18T03:33:12.226525+01:00",
+    "raw_valid": true,
+    "song_session_id": "00d5d52a-2ba5-4190-b5d4-3ad1f41115a0"
+  },
+  {
+    "song": "Ten Pribeh Je Prec",
+    "artists": [
+      "Beata Dubasova"
+    ],
+    "isrc": "CZA239300061",
+    "start_time": "2025-11-18 03:35:29",
+    "radio": "expres",
+    "recorded_at": "2025-11-18T03:35:55.209324+01:00",
+    "raw_valid": true,
+    "song_session_id": "83326985-9fba-4d94-8619-6b92493a98a3"
+  },
+  {
+    "song": "Otherside",
+    "artists": [
+      "Red Hot Chili Peppers"
+    ],
+    "isrc": "USWB19900693",
+    "start_time": "2025-11-18 03:39:35",
+    "radio": "expres",
+    "recorded_at": "2025-11-18T03:40:07.931499+01:00",
+    "raw_valid": true,
+    "song_session_id": "20ad5b06-1b8e-4ab3-9731-34acaabe2a99"
+  },
+  {
+    "song": "Laska Moja",
+    "artists": [
+      "Elan"
+    ],
+    "isrc": "CZA210300225",
+    "start_time": "2025-11-18 03:43:55",
+    "radio": "expres",
+    "recorded_at": "2025-11-18T03:44:27.694225+01:00",
+    "raw_valid": true,
+    "song_session_id": "012e216f-968e-4502-9181-a75b57cf4bdc"
+  },
+  {
+    "song": "Save My Love",
+    "artists": [
+      "Marshmello",
+      "Ellie Goulding",
+      "Avaion"
+    ],
+    "isrc": "USUG12504310",
+    "start_time": "2025-11-18 03:47:42",
+    "radio": "expres",
+    "recorded_at": "2025-11-18T03:48:10.972443+01:00",
+    "raw_valid": true,
+    "song_session_id": "b047ea8e-b379-4bdd-acfe-e06c4bae3190"
+  },
+  {
+    "song": "Voda Divoka",
+    "artists": [
+      "Jana Kirschner"
+    ],
+    "isrc": "CZW851200003",
+    "start_time": "2025-11-18 03:51:23",
+    "radio": "expres",
+    "recorded_at": "2025-11-18T03:51:54.665727+01:00",
+    "raw_valid": true,
+    "song_session_id": "ef684d4c-fee5-4176-8fbb-53bfe84cb806"
+  },
+  {
+    "song": "Forever Young",
+    "artists": [
+      "David Guetta",
+      "Alphaville",
+      "Ava Max"
+    ],
+    "isrc": "UKWLG2400102",
+    "start_time": "2025-11-18 03:55:05",
+    "radio": "expres",
+    "recorded_at": "2025-11-18T03:55:37.960289+01:00",
+    "raw_valid": true,
+    "song_session_id": "c302d333-f202-4431-b3e6-f748c8514004"
+  },
+  {
+    "song": "Bella Ciao",
+    "artists": [
+      "Skampi Na Zaru"
+    ],
+    "isrc": "FR22F1800090",
+    "start_time": "2025-11-18 03:57:44",
+    "radio": "expres",
+    "recorded_at": "2025-11-18T03:58:10.676418+01:00",
+    "raw_valid": true,
+    "song_session_id": "181f7c59-3d64-4210-88b1-73627af41439"
+  },
+  {
+    "song": "Feel Alive",
+    "artists": [
+      "Kamrad"
+    ],
+    "isrc": "DEE862202500",
+    "start_time": "2025-11-18 04:00:32",
+    "radio": "expres",
+    "recorded_at": "2025-11-18T04:01:09.546443+01:00",
+    "raw_valid": true,
+    "song_session_id": "9abd06c1-fb61-46da-86ab-d5d0cf44b021"
+  }
+]

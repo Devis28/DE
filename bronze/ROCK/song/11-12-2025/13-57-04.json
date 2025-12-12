@@ -1,0 +1,340 @@
+[
+  {
+    "last_update": "2025-12-11 12:00:20",
+    "song": {
+      "musicAuthor": "Linkin Park",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485146e207de66ba06422897f769",
+      "musicTitle": "What I've Done",
+      "radio": "Rádio ROCK",
+      "startTime": "13:00"
+    },
+    "recorded_at": "2025-12-11T13:00:20.826925+01:00",
+    "raw_valid": true,
+    "song_session_id": "c7b924ce-5741-47b7-bd7c-c2bf8b9e65ea"
+  },
+  {
+    "last_update": "2025-12-11 12:04:20",
+    "song": {
+      "musicAuthor": "The Red Hot Chili Peppers",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851de1af2785a83cc660155a0c4",
+      "musicTitle": "Can't Stop",
+      "radio": "Rádio ROCK",
+      "startTime": "13:03"
+    },
+    "recorded_at": "2025-12-11T13:04:21.196088+01:00",
+    "raw_valid": true,
+    "song_session_id": "5742523b-e68c-4ac5-b3fb-6a38254dfc39"
+  },
+  {
+    "last_update": "2025-12-11 12:09:22",
+    "song": {
+      "musicAuthor": "Bryan Adams",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851cf1fee2a55e98e22bf358512",
+      "musicTitle": "Heaven",
+      "radio": "Rádio ROCK",
+      "startTime": "13:08"
+    },
+    "recorded_at": "2025-12-11T13:09:22.709597+01:00",
+    "raw_valid": true,
+    "song_session_id": "c4db2785-31a9-4285-bf98-55d630a2aa8c"
+  },
+  {
+    "last_update": "2025-12-11 12:14:23",
+    "song": {
+      "musicAuthor": "R.E.M.",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851e2dd4e821bcc3f70dc0c8ffd",
+      "musicTitle": "Losing My Religion",
+      "radio": "Rádio ROCK",
+      "startTime": "13:14"
+    },
+    "recorded_at": "2025-12-11T13:14:24.066791+01:00",
+    "raw_valid": true,
+    "song_session_id": "fde02eff-1899-4ebb-868f-b1e302056aeb"
+  },
+  {
+    "last_update": "2025-12-11 12:19:23",
+    "song": {
+      "musicAuthor": "Nightwish",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485115c43f478bf43c734225b814",
+      "musicTitle": "Nemo",
+      "radio": "Rádio ROCK",
+      "startTime": "13:18"
+    },
+    "recorded_at": "2025-12-11T13:19:24.674860+01:00",
+    "raw_valid": true,
+    "song_session_id": "01127f4a-684e-4bd5-8e4c-d680543c41cd"
+  },
+  {
+    "last_update": "2025-12-11 12:24:24",
+    "song": {
+      "musicAuthor": "Kiss",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048514384b6976cadaec272114022",
+      "musicTitle": "I Was Made For Lovin' You",
+      "radio": "Rádio ROCK",
+      "startTime": "13:23"
+    },
+    "recorded_at": "2025-12-11T13:24:25.322208+01:00",
+    "raw_valid": true,
+    "song_session_id": "267d06bb-97c3-4e08-a960-a96b70550c8a"
+  },
+  {
+    "last_update": "2025-12-11 12:28:26",
+    "song": {
+      "musicAuthor": "Volbeat",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048513bf8ce7eb3ceb6847ba1ab65",
+      "musicTitle": "Lola Montez",
+      "radio": "Rádio ROCK",
+      "startTime": "13:27"
+    },
+    "recorded_at": "2025-12-11T13:28:26.145535+01:00",
+    "raw_valid": true,
+    "song_session_id": "d6474d8c-1f77-42a9-bbc9-a5665b177878"
+  },
+  {
+    "last_update": "2025-12-11 12:32:25",
+    "song": {
+      "musicAuthor": "Foo Fighters",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485183e260c313dc1ff1f17909cf",
+      "musicTitle": "The Pretender",
+      "radio": "Rádio ROCK",
+      "startTime": "13:32"
+    },
+    "recorded_at": "2025-12-11T13:32:26.663791+01:00",
+    "raw_valid": true,
+    "song_session_id": "f68def0b-80a5-4522-b693-77d3bbe7a126"
+  },
+  {
+    "last_update": "2025-12-11 12:37:26",
+    "song": {
+      "musicAuthor": "Aerosmith",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851a8a965df6a845b265ee19106",
+      "musicTitle": "Dude Looks Like A Lady",
+      "radio": "Rádio ROCK",
+      "startTime": "13:36"
+    },
+    "recorded_at": "2025-12-11T13:37:27.234678+01:00",
+    "raw_valid": true,
+    "song_session_id": "3c08c19a-9b0a-480d-88c0-66cf9fd560ba"
+  },
+  {
+    "last_update": "2025-12-11 12:41:27",
+    "song": {
+      "musicAuthor": "Ac/Dc",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048510b51f8d91f3a21e8426361ae",
+      "musicTitle": "You Shook Me All Night Long",
+      "radio": "Rádio ROCK",
+      "startTime": "13:41"
+    },
+    "recorded_at": "2025-12-11T13:41:28.463266+01:00",
+    "raw_valid": true,
+    "song_session_id": "dd1eb7e8-afb0-4398-b4ed-2f3f6f6c78d7"
+  },
+  {
+    "last_update": "2025-12-11 12:45:29",
+    "song": {
+      "musicAuthor": "Creed",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851a32f2ae4dade83e0d7a294f4",
+      "musicTitle": "My Sacrifice",
+      "radio": "Rádio ROCK",
+      "startTime": "13:44"
+    },
+    "recorded_at": "2025-12-11T13:45:29.666008+01:00",
+    "raw_valid": true,
+    "song_session_id": "0d880918-eccb-413a-9fc7-6d728f79dfb5"
+  },
+  {
+    "last_update": "2025-12-11 12:50:31",
+    "song": {
+      "musicAuthor": "Myles Alannah",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851b335b494476d5b018c96c25a",
+      "musicTitle": "Black Velvet",
+      "radio": "Rádio ROCK",
+      "startTime": "13:49"
+    },
+    "recorded_at": "2025-12-11T13:50:31.828589+01:00",
+    "raw_valid": true,
+    "song_session_id": "a45ffd48-de1b-4698-a34d-c64702313897"
+  },
+  {
+    "last_update": "2025-12-11 12:54:32",
+    "song": {
+      "musicAuthor": "Genesis",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851087ca24aa58e7c67514061a1",
+      "musicTitle": "Land Of Confusion",
+      "radio": "Rádio ROCK",
+      "startTime": "13:54"
+    },
+    "recorded_at": "2025-12-11T13:54:32.389422+01:00",
+    "raw_valid": true,
+    "song_session_id": "d14b6a03-7cf0-4f6c-9133-2a357ed62500"
+  },
+  {
+    "last_update": "2025-12-11 12:59:32",
+    "song": {
+      "musicAuthor": "Rammstein",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851cbe7573e1175f842e24b34c2",
+      "musicTitle": "Amerika",
+      "radio": "Rádio ROCK",
+      "startTime": "13:58"
+    },
+    "recorded_at": "2025-12-11T13:59:32.701539+01:00",
+    "raw_valid": true,
+    "song_session_id": "0311262b-a867-490d-9f51-0b0db3ea2045"
+  },
+  {
+    "last_update": "2025-12-11 13:04:32",
+    "song": {
+      "musicAuthor": "Iné Kafe",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851e7722075c3a98a65b612a6a5",
+      "musicTitle": "Vianoce",
+      "radio": "Rádio ROCK",
+      "startTime": "14:03"
+    },
+    "recorded_at": "2025-12-11T14:04:32.995423+01:00",
+    "raw_valid": true,
+    "song_session_id": "f4e2ca82-56d2-4984-bad5-3244a8ba6008"
+  },
+  {
+    "last_update": "2025-12-11 13:07:32",
+    "song": {
+      "musicAuthor": "The Calling",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851e4cd26d38c6f0661a363bc65",
+      "musicTitle": "Wherever You Will Go",
+      "radio": "Rádio ROCK",
+      "startTime": "14:06"
+    },
+    "recorded_at": "2025-12-11T14:07:33.201292+01:00",
+    "raw_valid": true,
+    "song_session_id": "06b81b6b-a729-4ad0-8a0c-0a5d4ecbe8fc"
+  },
+  {
+    "last_update": "2025-12-11 13:10:33",
+    "song": {
+      "musicAuthor": "Nirvana",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851fbc71c99f9c1296c56dd51b6",
+      "musicTitle": "Lithium",
+      "radio": "Rádio ROCK",
+      "startTime": "14:09"
+    },
+    "recorded_at": "2025-12-11T14:10:33.747537+01:00",
+    "raw_valid": true,
+    "song_session_id": "7c3b1715-738c-45c3-b586-47202eb52b76"
+  },
+  {
+    "last_update": "2025-12-11 13:18:34",
+    "song": {
+      "musicAuthor": "Europe",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048512d925cec3072ed1b74e5188f",
+      "musicTitle": "Carrie",
+      "radio": "Rádio ROCK",
+      "startTime": "14:17"
+    },
+    "recorded_at": "2025-12-11T14:18:34.524894+01:00",
+    "raw_valid": true,
+    "song_session_id": "181f73e6-c456-457c-8c6f-e2cab603c78c"
+  },
+  {
+    "last_update": "2025-12-11 13:22:34",
+    "song": {
+      "musicAuthor": "Blink 182",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851108b261e589019d965c57da0",
+      "musicTitle": "Dance With Me",
+      "radio": "Rádio ROCK",
+      "startTime": "14:22"
+    },
+    "recorded_at": "2025-12-11T14:22:35.118792+01:00",
+    "raw_valid": true,
+    "song_session_id": "8247bb0d-d6a9-4db7-9877-988ddca0ea24"
+  },
+  {
+    "last_update": "2025-12-11 13:28:35",
+    "song": {
+      "musicAuthor": "Good Charlotte",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851e3db4a50dbaed2c0cd38ac8e",
+      "musicTitle": "Dance Floor Anthem (I Don't Want To Be In Love",
+      "radio": "Rádio ROCK",
+      "startTime": "14:27"
+    },
+    "recorded_at": "2025-12-11T14:28:36.402084+01:00",
+    "raw_valid": true,
+    "song_session_id": "bc170400-a085-438e-a4fd-0306e4679e90"
+  },
+  {
+    "last_update": "2025-12-11 13:31:36",
+    "song": {
+      "musicAuthor": "Radiohead",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851df55e326ed144ab4f5cecf95",
+      "musicTitle": "Creep",
+      "radio": "Rádio ROCK",
+      "startTime": "14:31"
+    },
+    "recorded_at": "2025-12-11T14:31:36.695818+01:00",
+    "raw_valid": true,
+    "song_session_id": "3c4da808-5611-4099-a31f-5bf5a2c5cc25"
+  },
+  {
+    "last_update": "2025-12-11 13:35:36",
+    "song": {
+      "musicAuthor": "Boston",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485190ef9760e57fafd8f966d17a",
+      "musicTitle": "More Than A Feeling",
+      "radio": "Rádio ROCK",
+      "startTime": "14:35"
+    },
+    "recorded_at": "2025-12-11T14:35:37.230056+01:00",
+    "raw_valid": true,
+    "song_session_id": "baa19a23-50db-46f3-9eac-f3695be91f3b"
+  },
+  {
+    "last_update": "2025-12-11 13:40:37",
+    "song": {
+      "musicAuthor": "Hoobastank",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485176cc6eedca8eb381afcd1e46",
+      "musicTitle": "The Reason",
+      "radio": "Rádio ROCK",
+      "startTime": "14:39"
+    },
+    "recorded_at": "2025-12-11T14:40:37.537558+01:00",
+    "raw_valid": true,
+    "song_session_id": "e86d443c-2d5e-41e5-b8f5-488cc1a10fb5"
+  },
+  {
+    "last_update": "2025-12-11 13:43:37",
+    "song": {
+      "musicAuthor": "Guns N' Roses",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485192d21aef6c0d288cc4c05973",
+      "musicTitle": "Knockin' On Heaven's Door",
+      "radio": "Rádio ROCK",
+      "startTime": "14:43"
+    },
+    "recorded_at": "2025-12-11T14:43:37.768660+01:00",
+    "raw_valid": true,
+    "song_session_id": "af31e980-416e-4008-8d8c-8608007ec82e"
+  },
+  {
+    "last_update": "2025-12-11 13:52:08",
+    "song": {
+      "musicAuthor": "Black Sabbath",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048519683e5d7361bb80bfb00f46d",
+      "musicTitle": "Iron Man",
+      "radio": "Rádio ROCK",
+      "startTime": "14:52"
+    },
+    "recorded_at": "2025-12-11T14:52:09.526421+01:00",
+    "raw_valid": true,
+    "song_session_id": "616c990f-e1b4-4024-adf6-712349de6d17"
+  },
+  {
+    "last_update": "2025-12-11 13:56:09",
+    "song": {
+      "musicAuthor": "Imagine Dragons",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851407bd04707c463bbb3410737",
+      "musicTitle": "Demons",
+      "radio": "Rádio ROCK",
+      "startTime": "14:55"
+    },
+    "recorded_at": "2025-12-11T14:56:10.105971+01:00",
+    "raw_valid": true,
+    "song_session_id": "57fbbd91-74a5-4c7e-83e0-b75dcfa4bbd0"
+  }
+]

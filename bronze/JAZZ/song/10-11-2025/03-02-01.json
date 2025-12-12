@@ -1,0 +1,319 @@
+[
+  {
+    "song": {
+      "play_date": "2025-11-10",
+      "play_time": "02:01",
+      "artist": [
+        "Soulstance"
+      ],
+      "title": "Honesty"
+    },
+    "recorded_at": "2025-11-10T02:05:55.142057+01:00",
+    "raw_valid": true,
+    "song_session_id": "0f153e0e-5fa4-4fe9-88f2-db642a6f91ae"
+  },
+  {
+    "song": {
+      "play_date": "2025-11-10",
+      "play_time": "02:06",
+      "artist": [
+        "Ennio Máno"
+      ],
+      "title": "Veins"
+    },
+    "recorded_at": "2025-11-10T02:10:55.810503+01:00",
+    "raw_valid": true,
+    "song_session_id": "5d7edcf7-6a04-4318-a567-75cb6f6472ff"
+  },
+  {
+    "song": {
+      "play_date": "2025-11-10",
+      "play_time": "02:12",
+      "artist": [
+        "Tm Juke",
+        "Alice Russell"
+      ],
+      "title": "Playground Games [Diesler Mix]"
+    },
+    "recorded_at": "2025-11-10T02:15:56.480689+01:00",
+    "raw_valid": true,
+    "song_session_id": "0a9b4e8c-f4ee-440e-a118-0bf0cd0b480c"
+  },
+  {
+    "song": {
+      "play_date": "2025-11-10",
+      "play_time": "02:19",
+      "artist": [
+        "Jojo Effect",
+        "Iain Mackenzie"
+      ],
+      "title": "More Or Less"
+    },
+    "recorded_at": "2025-11-10T02:20:57.140388+01:00",
+    "raw_valid": true,
+    "song_session_id": "bd80f943-016a-4b62-9819-d36919a28a8c"
+  },
+  {
+    "song": {
+      "play_date": "2025-11-10",
+      "play_time": "02:22",
+      "artist": [
+        "Cal Tjader Quintet"
+      ],
+      "title": "Cubano Chant"
+    },
+    "recorded_at": "2025-11-10T02:25:57.841060+01:00",
+    "raw_valid": true,
+    "song_session_id": "2ced27cc-2bc9-4548-8f9a-3fc97011492b"
+  },
+  {
+    "song": {
+      "play_date": "2025-11-10",
+      "play_time": "02:26",
+      "artist": [
+        "Miles Davis"
+      ],
+      "title": "Tutu (Remastered)"
+    },
+    "recorded_at": "2025-11-10T02:30:58.553627+01:00",
+    "raw_valid": true,
+    "song_session_id": "3eb5520b-1fed-4804-8429-a45bd8128025"
+  },
+  {
+    "song": {
+      "play_date": "2025-11-10",
+      "play_time": "02:31",
+      "artist": [
+        "Paco Fern",
+        "ez"
+      ],
+      "title": "Mani"
+    },
+    "recorded_at": "2025-11-10T02:35:59.219643+01:00",
+    "raw_valid": true,
+    "song_session_id": "d6f7bc82-d7ef-4f15-b0fe-0c8a4b47d895"
+  },
+  {
+    "song": {
+      "play_date": "2025-11-10",
+      "play_time": "02:37",
+      "artist": [
+        "Jazzinho"
+      ],
+      "title": "Da Tempo Ao Tempo (Nicola Conte Rework)"
+    },
+    "recorded_at": "2025-11-10T02:40:59.893125+01:00",
+    "raw_valid": true,
+    "song_session_id": "1fbdabcf-4cfe-46fa-9c72-5da612b57046"
+  },
+  {
+    "song": {
+      "play_date": "2025-11-10",
+      "play_time": "02:44",
+      "artist": [
+        "Gerry Mulligan Quartet"
+      ],
+      "title": "Bernie's Tune"
+    },
+    "recorded_at": "2025-11-10T02:46:00.575022+01:00",
+    "raw_valid": true,
+    "song_session_id": "deec908c-b6bf-47be-8fca-bc743361d47e"
+  },
+  {
+    "song": {
+      "play_date": "2025-11-10",
+      "play_time": "02:47",
+      "artist": [
+        "Eliane Elias"
+      ],
+      "title": "Call Me"
+    },
+    "recorded_at": "2025-11-10T02:51:01.259923+01:00",
+    "raw_valid": true,
+    "song_session_id": "0eb18412-c910-4c3d-8328-a0d9d59e7d14"
+  },
+  {
+    "song": {
+      "play_date": "2025-11-10",
+      "play_time": "02:51",
+      "artist": [
+        "Gabin"
+      ],
+      "title": "Doo Uap, Doo Uap, Doo Uap"
+    },
+    "recorded_at": "2025-11-10T02:56:01.939320+01:00",
+    "raw_valid": true,
+    "song_session_id": "1a556d8d-8333-45b7-afa0-2d51c711fe79"
+  },
+  {
+    "song": {
+      "play_date": "2025-11-10",
+      "play_time": "02:58",
+      "artist": [
+        "Weather Report"
+      ],
+      "title": "Harlequin"
+    },
+    "recorded_at": "2025-11-10T03:01:02.712513+01:00",
+    "raw_valid": true,
+    "song_session_id": "c1dbe0ca-632a-4d34-924b-5b1094efb7c2"
+  },
+  {
+    "song": {
+      "play_date": "2025-11-10",
+      "play_time": "03:03",
+      "artist": [
+        "Chris St",
+        "ring"
+      ],
+      "title": "Alphabet Soup"
+    },
+    "recorded_at": "2025-11-10T03:06:03.407112+01:00",
+    "raw_valid": true,
+    "song_session_id": "1919bce7-c55c-4aab-a5fe-000c081e62d3"
+  },
+  {
+    "song": {
+      "play_date": "2025-11-10",
+      "play_time": "03:09",
+      "artist": [
+        "Alfredo Rodriguez"
+      ],
+      "title": "Beethoven - Fur Elise"
+    },
+    "recorded_at": "2025-11-10T03:11:04.077754+01:00",
+    "raw_valid": true,
+    "song_session_id": "b077144a-147e-4258-8867-b3fb2612afe8"
+  },
+  {
+    "song": {
+      "play_date": "2025-11-10",
+      "play_time": "03:13",
+      "artist": [
+        "Gerardo Frisina"
+      ],
+      "title": "Tokyo's Dream"
+    },
+    "recorded_at": "2025-11-10T03:16:04.766210+01:00",
+    "raw_valid": true,
+    "song_session_id": "134bb45e-bbb4-4e63-ac52-9d7e5a689a8d"
+  },
+  {
+    "song": {
+      "play_date": "2025-11-10",
+      "play_time": "03:20",
+      "artist": [
+        "Louis Armstrong"
+      ],
+      "title": "Mack The Knife"
+    },
+    "recorded_at": "2025-11-10T03:21:05.429013+01:00",
+    "raw_valid": true,
+    "song_session_id": "ffd17f5a-1846-413d-92eb-799c32ccd566"
+  },
+  {
+    "song": {
+      "play_date": "2025-11-10",
+      "play_time": "03:23",
+      "artist": [
+        "Duke Ellington"
+      ],
+      "title": "Laura"
+    },
+    "recorded_at": "2025-11-10T03:26:06.107731+01:00",
+    "raw_valid": true,
+    "song_session_id": "dfde695e-7334-412b-8ec4-92f391123940"
+  },
+  {
+    "song": {
+      "play_date": "2025-11-10",
+      "play_time": "03:27",
+      "artist": [
+        "Oscar Peterson Trio"
+      ],
+      "title": "You Look Good To Me"
+    },
+    "recorded_at": "2025-11-10T03:31:06.783443+01:00",
+    "raw_valid": true,
+    "song_session_id": "d8dd2521-909f-47fc-bf86-d763ae6f77df"
+  },
+  {
+    "song": {
+      "play_date": "2025-11-10",
+      "play_time": "03:32",
+      "artist": [
+        "Soulstance"
+      ],
+      "title": "Zenith"
+    },
+    "recorded_at": "2025-11-10T03:36:07.503749+01:00",
+    "raw_valid": true,
+    "song_session_id": "f721d8ae-6424-48ba-87ed-cc46e503acb8"
+  },
+  {
+    "song": {
+      "play_date": "2025-11-10",
+      "play_time": "03:37",
+      "artist": [
+        "Gregg Karukas"
+      ],
+      "title": "First Flight Home"
+    },
+    "recorded_at": "2025-11-10T03:41:08.178364+01:00",
+    "raw_valid": true,
+    "song_session_id": "b726faab-a672-4f48-9324-78bfc7600e3b"
+  },
+  {
+    "song": {
+      "play_date": "2025-11-10",
+      "play_time": "03:42",
+      "artist": [
+        "Eddie Harris"
+      ],
+      "title": "The Shadow Of Your Smile"
+    },
+    "recorded_at": "2025-11-10T03:46:08.842413+01:00",
+    "raw_valid": true,
+    "song_session_id": "e916e638-7804-4460-9c91-60e05f55402b"
+  },
+  {
+    "song": {
+      "play_date": "2025-11-10",
+      "play_time": "03:47",
+      "artist": [
+        "Count Basie",
+        "His Orchestra"
+      ],
+      "title": "Blue Five Jive"
+    },
+    "recorded_at": "2025-11-10T03:51:09.516760+01:00",
+    "raw_valid": true,
+    "song_session_id": "6dfc8423-7f80-4189-b4c1-686aa6a8bcd8"
+  },
+  {
+    "song": {
+      "play_date": "2025-11-10",
+      "play_time": "03:51",
+      "artist": [
+        "Paco Fernández"
+      ],
+      "title": "What Are We Living"
+    },
+    "recorded_at": "2025-11-10T03:56:10.190496+01:00",
+    "raw_valid": true,
+    "song_session_id": "5930f2b0-307b-476e-8851-627f0b05341d"
+  },
+  {
+    "song": {
+      "play_date": "2025-11-10",
+      "play_time": "03:59",
+      "artist": [
+        "Steve Turre"
+      ],
+      "title": "Smoke Gets In Your Eyes"
+    },
+    "recorded_at": "2025-11-10T04:01:10.864869+01:00",
+    "raw_valid": true,
+    "song_session_id": "e3b7d74f-bcdf-45d0-bbf3-954c5d544751"
+  }
+]

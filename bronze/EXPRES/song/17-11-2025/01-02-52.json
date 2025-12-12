@@ -1,0 +1,420 @@
+[
+  {
+    "song": "Prva Laska",
+    "artists": [
+      "Jozo Raz"
+    ],
+    "isrc": "SKA128676201",
+    "start_time": "2025-11-17 00:05:01",
+    "radio": "expres",
+    "recorded_at": "2025-11-17T00:05:33.688969+01:00",
+    "raw_valid": true,
+    "song_session_id": "7b8f4a1c-20a8-48a3-aeb5-92780bed3240"
+  },
+  {
+    "song": "Good News",
+    "artists": [
+      "Shaboozey"
+    ],
+    "isrc": "USUYG1580113",
+    "start_time": "2025-11-17 00:08:56",
+    "radio": "expres",
+    "recorded_at": "2025-11-17T00:09:23.085821+01:00",
+    "raw_valid": true,
+    "song_session_id": "6db6fb2b-cc82-42de-9260-61e50795c276"
+  },
+  {
+    "song": "V Lete ...",
+    "artists": [
+      "Imt Smile"
+    ],
+    "isrc": "SKA012100245",
+    "start_time": "2025-11-17 00:12:16",
+    "radio": "expres",
+    "recorded_at": "2025-11-17T00:12:42.970024+01:00",
+    "raw_valid": true,
+    "song_session_id": "5c7664ed-29ab-4efd-be22-2afe59717538"
+  },
+  {
+    "song": "Everytime We Touch",
+    "artists": [
+      "Maggie Reilly"
+    ],
+    "isrc": "GBMUJ1900001",
+    "start_time": "2025-11-17 00:15:37",
+    "radio": "expres",
+    "recorded_at": "2025-11-17T00:16:03.378376+01:00",
+    "raw_valid": true,
+    "song_session_id": "fff84a54-80db-46ee-bcbc-cd161f9e9dbd"
+  },
+  {
+    "song": "Len Ty Smies",
+    "artists": [
+      "Zdenka Predna"
+    ],
+    "isrc": "CZA210500897",
+    "start_time": "2025-11-17 00:19:32",
+    "radio": "expres",
+    "recorded_at": "2025-11-17T00:20:12.252326+01:00",
+    "raw_valid": true,
+    "song_session_id": "986286b2-8fff-4f87-a15b-e35f68242ad2"
+  },
+  {
+    "song": "Eternity",
+    "artists": [
+      "Alex Warren"
+    ],
+    "isrc": "USAT22503779",
+    "start_time": "2025-11-17 00:23:45",
+    "radio": "expres",
+    "recorded_at": "2025-11-17T00:24:06.644489+01:00",
+    "raw_valid": true,
+    "song_session_id": "d150d61d-1ea1-4067-958e-b5e91917ec36"
+  },
+  {
+    "song": "Chvilu Ano Chvilu Nie",
+    "artists": [
+      "Hex"
+    ],
+    "isrc": "SKA010211105",
+    "start_time": "2025-11-17 00:27:23",
+    "radio": "expres",
+    "recorded_at": "2025-11-17T00:27:49.986656+01:00",
+    "raw_valid": true,
+    "song_session_id": "5231fa12-e8bf-40a3-b6f3-c364bfbd60fd"
+  },
+  {
+    "song": "Unhealthy",
+    "artists": [
+      "Anne-Marie",
+      "Shania Twain"
+    ],
+    "isrc": "GBAHS2300345",
+    "start_time": "2025-11-17 00:31:06",
+    "radio": "expres",
+    "recorded_at": "2025-11-17T00:31:33.396343+01:00",
+    "raw_valid": true,
+    "song_session_id": "55136085-e595-44ae-aefe-c7bb18924960"
+  },
+  {
+    "song": "Regalo",
+    "artists": [
+      "Alvaro Soler"
+    ],
+    "isrc": "DEE862500388",
+    "start_time": "2025-11-17 00:33:49",
+    "radio": "expres",
+    "recorded_at": "2025-11-17T00:34:23.389155+01:00",
+    "raw_valid": true,
+    "song_session_id": "56bad954-8b32-4ccd-bd1b-11cc74e908fa"
+  },
+  {
+    "song": "Laska",
+    "artists": [
+      "Marcel Palonder"
+    ],
+    "isrc": "SKA129235403",
+    "start_time": "2025-11-17 00:36:59",
+    "radio": "expres",
+    "recorded_at": "2025-11-17T00:37:26.764062+01:00",
+    "raw_valid": true,
+    "song_session_id": "189286d6-6a9f-483f-82a4-960379413557"
+  },
+  {
+    "song": "Wrecked",
+    "artists": [
+      "Imagine Dragons"
+    ],
+    "isrc": "USUM72110166",
+    "start_time": "2025-11-17 00:40:37",
+    "radio": "expres",
+    "recorded_at": "2025-11-17T00:41:12.331680+01:00",
+    "raw_valid": true,
+    "song_session_id": "380e4ce8-2395-4d84-a435-4f5a7274f4c8"
+  },
+  {
+    "song": "Stramak",
+    "artists": [
+      "Polemic",
+      "Matej Ruppert"
+    ],
+    "isrc": "SKB812300421",
+    "start_time": "2025-11-17 00:44:46",
+    "radio": "expres",
+    "recorded_at": "2025-11-17T00:45:12.677300+01:00",
+    "raw_valid": true,
+    "song_session_id": "9308108d-a89d-4021-b2b2-e03d0c327c1e"
+  },
+  {
+    "song": "Wonderful Life 25",
+    "artists": [
+      "Hurts",
+      "Purple Disco Machine"
+    ],
+    "isrc": "DEE862500677",
+    "start_time": "2025-11-17 00:48:10",
+    "radio": "expres",
+    "recorded_at": "2025-11-17T00:48:32.566499+01:00",
+    "raw_valid": true,
+    "song_session_id": "2121efd2-0430-4801-91b9-e98c7a3b2121"
+  },
+  {
+    "song": "V Tichu",
+    "artists": [
+      "Katarina Knechtova"
+    ],
+    "isrc": "CZUM70800919",
+    "start_time": "2025-11-17 00:51:12",
+    "radio": "expres",
+    "recorded_at": "2025-11-17T00:51:35.540925+01:00",
+    "raw_valid": true,
+    "song_session_id": "acfeb811-4db0-4a92-980d-a8f1724c5b6f"
+  },
+  {
+    "song": "Here I Am",
+    "artists": [
+      "Bryan Adams"
+    ],
+    "isrc": "USAM10200173",
+    "start_time": "2025-11-17 00:54:35",
+    "radio": "expres",
+    "recorded_at": "2025-11-17T00:54:53.417334+01:00",
+    "raw_valid": true,
+    "song_session_id": "26393fe6-6ca8-42ae-a0f9-d676603f605e"
+  },
+  {
+    "song": "Ked Muz Miluje Zenu",
+    "artists": [
+      "Robo Opatovsky"
+    ],
+    "isrc": "SKC251701406",
+    "start_time": "2025-11-17 00:58:15",
+    "radio": "expres",
+    "recorded_at": "2025-11-17T00:58:49.959657+01:00",
+    "raw_valid": true,
+    "song_session_id": "d7fb3bce-c2e7-4dd1-85fc-44d129865942"
+  },
+  {
+    "song": "Broken Sunshine",
+    "artists": [
+      "Michael Schulte"
+    ],
+    "isrc": "DECE72402375",
+    "start_time": "2025-11-17 01:02:23",
+    "radio": "expres",
+    "recorded_at": "2025-11-17T01:02:50.515097+01:00",
+    "raw_valid": true,
+    "song_session_id": "b459b93c-0df6-43e9-85ca-a5a6e83ea4b8"
+  },
+  {
+    "song": "Nebude To Lahke",
+    "artists": [
+      "Richard Muller"
+    ],
+    "isrc": "CZA110111002",
+    "start_time": "2025-11-17 01:05:19",
+    "radio": "expres",
+    "recorded_at": "2025-11-17T01:05:54.127636+01:00",
+    "raw_valid": true,
+    "song_session_id": "104c890d-546f-4f0f-9882-752e0485e948"
+  },
+  {
+    "song": "Mystical Magical",
+    "artists": [
+      "Benson Boone"
+    ],
+    "isrc": "USWB12500844",
+    "start_time": "2025-11-17 01:09:12",
+    "radio": "expres",
+    "recorded_at": "2025-11-17T01:09:38.934606+01:00",
+    "raw_valid": true,
+    "song_session_id": "4a50430f-9516-41fe-99f2-3fb25f24d204"
+  },
+  {
+    "song": "V Dolinach",
+    "artists": [
+      "Desmod"
+    ],
+    "isrc": "CZA210600107",
+    "start_time": "2025-11-17 01:11:56",
+    "radio": "expres",
+    "recorded_at": "2025-11-17T01:12:21.442352+01:00",
+    "raw_valid": true,
+    "song_session_id": "521a7f09-43e4-478b-9a86-75934866d1e1"
+  },
+  {
+    "song": "Waving Flag",
+    "artists": [
+      "Knaan"
+    ],
+    "isrc": "GBBKS2200009",
+    "start_time": "2025-11-17 01:15:14",
+    "radio": "expres",
+    "recorded_at": "2025-11-17T01:16:00.197862+01:00",
+    "raw_valid": true,
+    "song_session_id": "3a4cbe47-a87e-44bd-a121-234b68f20dd8"
+  },
+  {
+    "song": "Bergen",
+    "artists": [
+      "Zuzana Smatanova"
+    ],
+    "isrc": "SKI941800608",
+    "start_time": "2025-11-17 01:18:55",
+    "radio": "expres",
+    "recorded_at": "2025-11-17T01:19:46.200909+01:00",
+    "raw_valid": true,
+    "song_session_id": "2cc23785-4d8e-4d87-9990-a458371ee1a3"
+  },
+  {
+    "song": "Pride",
+    "artists": [
+      "Felix Jaehn",
+      "Jhart"
+    ],
+    "isrc": "DEUM72503423",
+    "start_time": "2025-11-17 01:22:33",
+    "radio": "expres",
+    "recorded_at": "2025-11-17T01:23:15.198692+01:00",
+    "raw_valid": true,
+    "song_session_id": "951d9f8e-58f5-4752-b300-b78605c5766b"
+  },
+  {
+    "song": "Hej Sokoly!",
+    "artists": [
+      "Imt Smile",
+      "Ondrej Kandrac"
+    ],
+    "isrc": "SKA011700036",
+    "start_time": "2025-11-17 01:25:17",
+    "radio": "expres",
+    "recorded_at": "2025-11-17T01:25:56.189810+01:00",
+    "raw_valid": true,
+    "song_session_id": "661c3158-76f6-4c1a-91a7-425f0d97d7ab"
+  },
+  {
+    "song": "A Bar Song (Tipsy)",
+    "artists": [
+      "Shaboozey"
+    ],
+    "isrc": "USUYG1541249",
+    "start_time": "2025-11-17 01:28:23",
+    "radio": "expres",
+    "recorded_at": "2025-11-17T01:28:53.935906+01:00",
+    "raw_valid": true,
+    "song_session_id": "dfdd9708-d1c1-4d0e-b5bd-4afa3733d805"
+  },
+  {
+    "song": "Kto Je On",
+    "artists": [
+      "Dominika Mirgova",
+      "Robert Burian"
+    ],
+    "isrc": "SKE271200003",
+    "start_time": "2025-11-17 01:31:13",
+    "radio": "expres",
+    "recorded_at": "2025-11-17T01:31:36.512494+01:00",
+    "raw_valid": true,
+    "song_session_id": "a81e4cfc-2ec5-4f47-8157-0a883c7a9f66"
+  },
+  {
+    "song": "Undressed",
+    "artists": [
+      "Sombr"
+    ],
+    "isrc": "USWB12500737",
+    "start_time": "2025-11-17 01:34:45",
+    "radio": "expres",
+    "recorded_at": "2025-11-17T01:35:34.697258+01:00",
+    "raw_valid": true,
+    "song_session_id": "06cae6bc-ffab-4acd-bba7-74b2b21dcf0c"
+  },
+  {
+    "song": "Psi Sa Brania Utokom",
+    "artists": [
+      "Peter Nagy",
+      "Jozef Raz"
+    ],
+    "isrc": "SKA128797207",
+    "start_time": "2025-11-17 01:37:51",
+    "radio": "expres",
+    "recorded_at": "2025-11-17T01:38:35.564374+01:00",
+    "raw_valid": true,
+    "song_session_id": "f64cfe7e-9c6c-464e-b6c0-801321c05630"
+  },
+  {
+    "song": "Just Give Me A Reason",
+    "artists": [
+      "Pink",
+      "Nate Ruess"
+    ],
+    "isrc": "USRC11200786",
+    "start_time": "2025-11-17 01:41:11",
+    "radio": "expres",
+    "recorded_at": "2025-11-17T01:41:33.881550+01:00",
+    "raw_valid": true,
+    "song_session_id": "416a19d3-eb88-443a-b192-9318a4f36b16"
+  },
+  {
+    "song": "Navzajom",
+    "artists": [
+      "Adam Durica"
+    ],
+    "isrc": "SKA011600035",
+    "start_time": "2025-11-17 01:45:23",
+    "radio": "expres",
+    "recorded_at": "2025-11-17T01:45:58.242690+01:00",
+    "raw_valid": true,
+    "song_session_id": "603d41f1-7205-4327-ba87-cceebc8cc5a4"
+  },
+  {
+    "song": "Talk To Me",
+    "artists": [
+      "Damiano David",
+      "Tyla",
+      "Nile Rodgers"
+    ],
+    "isrc": "ITB002500942",
+    "start_time": "2025-11-17 01:48:38",
+    "radio": "expres",
+    "recorded_at": "2025-11-17T01:49:20.940393+01:00",
+    "raw_valid": true,
+    "song_session_id": "462cd74f-c426-436b-b8cf-98ae728a557f"
+  },
+  {
+    "song": "Ak Nie Si Moja",
+    "artists": [
+      "Vaso Patejdl"
+    ],
+    "isrc": "SKA128676213",
+    "start_time": "2025-11-17 01:52:16",
+    "radio": "expres",
+    "recorded_at": "2025-11-17T01:52:55.157764+01:00",
+    "raw_valid": true,
+    "song_session_id": "65f9b578-e4b9-4474-8aec-5c951c2493d3"
+  },
+  {
+    "song": "By Your Side (In My Mind)",
+    "artists": [
+      "Leony"
+    ],
+    "isrc": "DEN062400804",
+    "start_time": "2025-11-17 01:56:17",
+    "radio": "expres",
+    "recorded_at": "2025-11-17T01:56:57.594229+01:00",
+    "raw_valid": true,
+    "song_session_id": "156ded2d-1fee-40cc-b2be-fbe0e038f446"
+  },
+  {
+    "song": "Neviem Ta Najst",
+    "artists": [
+      "Gladiator"
+    ],
+    "isrc": "CZA210900800",
+    "start_time": "2025-11-17 01:59:23",
+    "radio": "expres",
+    "recorded_at": "2025-11-17T01:59:56.091814+01:00",
+    "raw_valid": true,
+    "song_session_id": "bbe8a5e5-1536-4558-abbd-9bab668560b1"
+  }
+]

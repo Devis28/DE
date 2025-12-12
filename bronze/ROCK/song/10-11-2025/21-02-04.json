@@ -1,0 +1,379 @@
+[
+  {
+    "last_update": "2025-11-10 19:05:09",
+    "song": {
+      "musicAuthor": "Motörhead",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851b00cf2fa71e5c784525ae7c4",
+      "musicTitle": "Overkill",
+      "radio": "Rádio ROCK",
+      "startTime": "20:04"
+    },
+    "recorded_at": "2025-11-10T20:05:10.753826+01:00",
+    "raw_valid": true,
+    "song_session_id": "3fab9939-50b7-4347-9dd3-c35be2c36429"
+  },
+  {
+    "last_update": "2025-11-10 19:09:10",
+    "song": {
+      "musicAuthor": "Motörhead",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485138dc4d7a7892537e6fd70852",
+      "musicTitle": "Bomber",
+      "radio": "Rádio ROCK",
+      "startTime": "20:08"
+    },
+    "recorded_at": "2025-11-10T20:09:11.357925+01:00",
+    "raw_valid": true,
+    "song_session_id": "82bbb4ef-5143-4324-a1bf-9f4da59079dd"
+  },
+  {
+    "last_update": "2025-11-10 19:12:11",
+    "song": {
+      "musicAuthor": "Motörhead",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851af825cdf79bd0ed1d73b177f",
+      "musicTitle": "Iron Fist",
+      "radio": "Rádio ROCK",
+      "startTime": "20:11"
+    },
+    "recorded_at": "2025-11-10T20:12:11.886655+01:00",
+    "raw_valid": true,
+    "song_session_id": "1bc1b1c9-60b0-4f3c-8804-02c71a5b3d40"
+  },
+  {
+    "last_update": "2025-11-10 19:15:11",
+    "song": {
+      "musicAuthor": "Motörhead",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485163a1d1050a0562cb2ac53234",
+      "musicTitle": "Killed By Death",
+      "radio": "Rádio ROCK",
+      "startTime": "20:14"
+    },
+    "recorded_at": "2025-11-10T20:15:12.108656+01:00",
+    "raw_valid": true,
+    "song_session_id": "0c1ae502-e6dd-4d86-b424-7dfd943894ed"
+  },
+  {
+    "last_update": "2025-11-10 19:24:14",
+    "song": {
+      "musicAuthor": "Motörhead",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851bb7d33186e4a26421c6a77ae",
+      "musicTitle": "Ace Of Spades",
+      "radio": "Rádio ROCK",
+      "startTime": "20:23"
+    },
+    "recorded_at": "2025-11-10T20:24:15.294991+01:00",
+    "raw_valid": true,
+    "song_session_id": "9834e37b-b269-457b-b1a8-20677dc38a2a"
+  },
+  {
+    "last_update": "2025-11-10 19:26:14",
+    "song": {
+      "musicAuthor": "Motörhead",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851bb7d33186e4a26421c6a77ae",
+      "musicTitle": "Motörhead",
+      "radio": "Rádio ROCK",
+      "startTime": "20:26"
+    },
+    "recorded_at": "2025-11-10T20:26:15.494241+01:00",
+    "raw_valid": true,
+    "song_session_id": "d082ce22-e77f-47e7-833d-b67300596991"
+  },
+  {
+    "last_update": "2025-11-10 19:30:14",
+    "song": {
+      "musicAuthor": "Motörhead",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048519f13ddb566ef9dcbd1f47152",
+      "musicTitle": "Orgasmatron",
+      "radio": "Rádio ROCK",
+      "startTime": "20:29"
+    },
+    "recorded_at": "2025-11-10T20:30:15.837615+01:00",
+    "raw_valid": true,
+    "song_session_id": "c5eb976b-3b1f-407a-adfe-5b6c96d49433"
+  },
+  {
+    "last_update": "2025-11-10 19:41:17",
+    "song": {
+      "musicAuthor": "Motorhead",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851836b6ad8369dbbc1b4cdd600",
+      "musicTitle": "Deaf Forever",
+      "radio": "Rádio ROCK",
+      "startTime": "20:39"
+    },
+    "recorded_at": "2025-11-10T20:41:17.166659+01:00",
+    "raw_valid": true,
+    "song_session_id": "86980a64-08b1-464c-90b6-72add3a5208a"
+  },
+  {
+    "last_update": "2025-11-10 19:45:18",
+    "song": {
+      "musicAuthor": "Motorhead",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485130544be6e5ee1b9e88957f94",
+      "musicTitle": "No Calss",
+      "radio": "Rádio ROCK",
+      "startTime": "20:44"
+    },
+    "recorded_at": "2025-11-10T20:45:18.384954+01:00",
+    "raw_valid": true,
+    "song_session_id": "764539a1-d65a-4c3d-974a-53cb660ee662"
+  },
+  {
+    "last_update": "2025-11-10 19:47:18",
+    "song": {
+      "musicAuthor": "Motorhead",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485121ac7f50ed7951e5eac92ea4",
+      "musicTitle": "We Are The Road Crew",
+      "radio": "Rádio ROCK",
+      "startTime": "20:46"
+    },
+    "recorded_at": "2025-11-10T20:47:19.319805+01:00",
+    "raw_valid": true,
+    "song_session_id": "eaaa7734-708a-4987-aa75-83756c821ed8"
+  },
+  {
+    "last_update": "2025-11-10 19:54:19",
+    "song": {
+      "musicAuthor": "Motorhead",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851bb7d33186e4a26421c6a77ae",
+      "musicTitle": "Love Me Like A Reptile",
+      "radio": "Rádio ROCK",
+      "startTime": "20:53"
+    },
+    "recorded_at": "2025-11-10T20:54:19.788249+01:00",
+    "raw_valid": true,
+    "song_session_id": "493cf8d4-bf93-4cdc-b883-cbcaaaf1a512"
+  },
+  {
+    "last_update": "2025-11-10 19:58:20",
+    "song": {
+      "musicAuthor": "Motorhead",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851b00cf2fa71e5c784525ae7c4",
+      "musicTitle": "Louie Louie",
+      "radio": "Rádio ROCK",
+      "startTime": "20:57"
+    },
+    "recorded_at": "2025-11-10T20:58:21.894552+01:00",
+    "raw_valid": true,
+    "song_session_id": "c812c513-6803-413f-be01-f0a233f635ca"
+  },
+  {
+    "last_update": "2025-11-10 20:01:21",
+    "song": {
+      "musicAuthor": "Motorhead",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851060d3ab63f78af6e21f70b40",
+      "musicTitle": "Over The Top",
+      "radio": "Rádio ROCK",
+      "startTime": "21:00"
+    },
+    "recorded_at": "2025-11-10T21:01:22.091864+01:00",
+    "raw_valid": true,
+    "song_session_id": "25b34315-1500-4780-b472-72f33bd1668b"
+  },
+  {
+    "last_update": "2025-11-10 20:04:21",
+    "song": {
+      "musicAuthor": "Kiss",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048518c2105ce9c02ccb83f7a9cb8",
+      "musicTitle": "Crazy, Crazy Nights",
+      "radio": "Rádio ROCK",
+      "startTime": "21:03"
+    },
+    "recorded_at": "2025-11-10T21:04:22.321167+01:00",
+    "raw_valid": true,
+    "song_session_id": "dae9cf93-48a0-403a-a04c-5e527f939ed4"
+  },
+  {
+    "last_update": "2025-11-10 20:07:22",
+    "song": {
+      "musicAuthor": "Tublatanka",
+      "musicCover": "https://static.radia.sk/covers/32/7ee86987-baad-48a6-9afa-0ca560d378f2.jpg",
+      "musicTitle": "Bez Tvojej Lásky",
+      "radio": "Rádio ROCK",
+      "startTime": "21:07"
+    },
+    "recorded_at": "2025-11-10T21:07:22.504697+01:00",
+    "raw_valid": true,
+    "song_session_id": "3e8e3b96-204c-4b2a-80ec-536295c229e7"
+  },
+  {
+    "last_update": "2025-11-10 20:11:21",
+    "song": {
+      "musicAuthor": "Hex",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048510f84b352c86a11603fb21691",
+      "musicTitle": "Madelaine",
+      "radio": "Rádio ROCK",
+      "startTime": "21:11"
+    },
+    "recorded_at": "2025-11-10T21:11:22.741274+01:00",
+    "raw_valid": true,
+    "song_session_id": "17b85e39-1136-421f-8669-fa4d42f0b25d"
+  },
+  {
+    "last_update": "2025-11-10 20:15:22",
+    "song": {
+      "musicAuthor": "Emf",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048511cfc7506e5aa43fc22fca3f2",
+      "musicTitle": "Unbelievable",
+      "radio": "Rádio ROCK",
+      "startTime": "21:15"
+    },
+    "recorded_at": "2025-11-10T21:15:22.992248+01:00",
+    "raw_valid": true,
+    "song_session_id": "77a92efd-e222-42ce-ae8d-c70bcd270ab1"
+  },
+  {
+    "last_update": "2025-11-10 20:19:22",
+    "song": {
+      "musicAuthor": "Iné Kafe",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485103c27ca0bab589f21321ec20",
+      "musicTitle": "Ani Minútu",
+      "radio": "Rádio ROCK",
+      "startTime": "21:18"
+    },
+    "recorded_at": "2025-11-10T21:19:23.626982+01:00",
+    "raw_valid": true,
+    "song_session_id": "c7409a5f-9195-4012-877c-b329d513e837"
+  },
+  {
+    "last_update": "2025-11-10 20:22:24",
+    "song": {
+      "musicAuthor": "Clawfinger",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485117a80cd3af5f01175215962f",
+      "musicTitle": "Do What I Say",
+      "radio": "Rádio ROCK",
+      "startTime": "21:21"
+    },
+    "recorded_at": "2025-11-10T21:22:24.282263+01:00",
+    "raw_valid": true,
+    "song_session_id": "c20df91a-390a-4bfa-95d2-462ae97183e3"
+  },
+  {
+    "last_update": "2025-11-10 20:26:26",
+    "song": {
+      "musicAuthor": "Kabát",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048518cf0b6961cca5924c2e6485a",
+      "musicTitle": "Pohoda",
+      "radio": "Rádio ROCK",
+      "startTime": "21:26"
+    },
+    "recorded_at": "2025-11-10T21:26:26.468920+01:00",
+    "raw_valid": true,
+    "song_session_id": "aaf43573-a369-4af9-938f-00d35957817a"
+  },
+  {
+    "last_update": "2025-11-10 20:30:25",
+    "song": {
+      "musicAuthor": "Tublatanka",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048519fc3c59a54cfa19a7c5d565c",
+      "musicTitle": "Spálená Láska",
+      "radio": "Rádio ROCK",
+      "startTime": "21:29"
+    },
+    "recorded_at": "2025-11-10T21:30:26.725259+01:00",
+    "raw_valid": true,
+    "song_session_id": "d3cfd342-5dad-419a-b83f-746710c99ad7"
+  },
+  {
+    "last_update": "2025-11-10 20:35:26",
+    "song": {
+      "musicAuthor": "Plus Minus",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851383e7409ec12e5e9802be3e6",
+      "musicTitle": "Srdce A Pot",
+      "radio": "Rádio ROCK",
+      "startTime": "21:34"
+    },
+    "recorded_at": "2025-11-10T21:35:27.185655+01:00",
+    "raw_valid": true,
+    "song_session_id": "815c5047-db0c-4927-b41d-898b1fdd63c4"
+  },
+  {
+    "last_update": "2025-11-10 20:38:27",
+    "song": {
+      "musicAuthor": "Bruce Springsteen",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851a7865e686c36a4adda6c9978",
+      "musicTitle": "Dancing In The Dark",
+      "radio": "Rádio ROCK",
+      "startTime": "21:37"
+    },
+    "recorded_at": "2025-11-10T21:38:27.883494+01:00",
+    "raw_valid": true,
+    "song_session_id": "bf46bb3f-a7e9-42b2-abd7-4c9b6d5e33c4"
+  },
+  {
+    "last_update": "2025-11-10 20:42:27",
+    "song": {
+      "musicAuthor": "Elevenhill",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048514892aae28648372d6c2b8191",
+      "musicTitle": "Damn Woman",
+      "radio": "Rádio ROCK",
+      "startTime": "21:41"
+    },
+    "recorded_at": "2025-11-10T21:42:28.103613+01:00",
+    "raw_valid": true,
+    "song_session_id": "7b15e8bf-aacb-4748-90c8-ce784d809d88"
+  },
+  {
+    "last_update": "2025-11-10 20:46:28",
+    "song": {
+      "musicAuthor": "Peha",
+      "musicCover": "https://static.radia.sk/covers/32/23af7415-fcaa-4716-aee4-ad3e0de7314a.jpg",
+      "musicTitle": "Vaňa Plná Piraní",
+      "radio": "Rádio ROCK",
+      "startTime": "21:45"
+    },
+    "recorded_at": "2025-11-10T21:46:28.821700+01:00",
+    "raw_valid": true,
+    "song_session_id": "98a65653-49fc-448e-9308-0b085bc710fa"
+  },
+  {
+    "last_update": "2025-11-10 20:49:28",
+    "song": {
+      "musicAuthor": "Him",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851f7046d79c721fcb949d18fbd",
+      "musicTitle": "Right Here In My Arms",
+      "radio": "Rádio ROCK",
+      "startTime": "21:48"
+    },
+    "recorded_at": "2025-11-10T21:49:28.991150+01:00",
+    "raw_valid": true,
+    "song_session_id": "6c587c10-336a-4d64-8c57-b60172680469"
+  },
+  {
+    "last_update": "2025-11-10 20:52:28",
+    "song": {
+      "musicAuthor": "Smola A Hrusky",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851f060e70d20ae7ac9eaf17978",
+      "musicTitle": "Pivo Bez Palenky",
+      "radio": "Rádio ROCK",
+      "startTime": "21:52"
+    },
+    "recorded_at": "2025-11-10T21:52:29.232896+01:00",
+    "raw_valid": true,
+    "song_session_id": "df98cbba-0b28-4cee-a378-13ccebf43aa7"
+  },
+  {
+    "last_update": "2025-11-10 20:56:28",
+    "song": {
+      "musicAuthor": "Iggy Pop",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048514aa5f679427e35409a06f225",
+      "musicTitle": "Lust For Life",
+      "radio": "Rádio ROCK",
+      "startTime": "21:55"
+    },
+    "recorded_at": "2025-11-10T21:56:29.526583+01:00",
+    "raw_valid": true,
+    "song_session_id": "376ea6df-ffdd-4704-84ea-42e5282690a1"
+  },
+  {
+    "last_update": "2025-11-10 21:01:29",
+    "song": {
+      "musicAuthor": "Queen",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485109e2ec500166cf2d5ac21050",
+      "musicTitle": "Killer Queen",
+      "radio": "Rádio ROCK",
+      "startTime": "22:00"
+    },
+    "recorded_at": "2025-11-10T22:01:30.044167+01:00",
+    "raw_valid": true,
+    "song_session_id": "b1a44807-b606-450d-8d04-bde4303e6aad"
+  }
+]

@@ -1,0 +1,337 @@
+[
+  {
+    "song": "Africa",
+    "artists": [
+      "Toto"
+    ],
+    "isrc": "USSM19801941",
+    "start_time": "2025-11-30 15:51:07",
+    "radio": "expres",
+    "recorded_at": "2025-11-30T15:51:40.353754+01:00",
+    "raw_valid": true,
+    "song_session_id": "8315e44b-43df-4138-9783-4bbd64b7a4bc"
+  },
+  {
+    "song": "Diamonds",
+    "artists": [
+      "Rihanna"
+    ],
+    "isrc": "USUM71211793",
+    "start_time": "2025-11-30 15:55:49",
+    "radio": "expres",
+    "recorded_at": "2025-11-30T15:56:16.698243+01:00",
+    "raw_valid": true,
+    "song_session_id": "a6058f7c-f7b0-4368-bbe8-84c7ce8dbbd9"
+  },
+  {
+    "song": "The Look",
+    "artists": [
+      "Roxette"
+    ],
+    "isrc": "SEAME8878010",
+    "start_time": "2025-11-30 16:08:08",
+    "radio": "expres",
+    "recorded_at": "2025-11-30T16:08:21.277388+01:00",
+    "raw_valid": true,
+    "song_session_id": "77f37cd6-6168-4bfc-bb74-27292d71473b"
+  },
+  {
+    "song": "Try Everything",
+    "artists": [
+      "Shakira"
+    ],
+    "isrc": "USWD11575402",
+    "start_time": "2025-11-30 16:11:58",
+    "radio": "expres",
+    "recorded_at": "2025-11-30T16:12:22.792005+01:00",
+    "raw_valid": true,
+    "song_session_id": "a2ff010b-efd3-46be-839e-f1648edab44b"
+  },
+  {
+    "song": "Be Mine",
+    "artists": [
+      "Kamrad"
+    ],
+    "isrc": "DE1NJ2500035",
+    "start_time": "2025-11-30 16:15:12",
+    "radio": "expres",
+    "recorded_at": "2025-11-30T16:15:21.268614+01:00",
+    "raw_valid": true,
+    "song_session_id": "0442e420-d345-49fe-96f7-b1400f4d67da"
+  },
+  {
+    "song": "Quit Playing Games With My Heart",
+    "artists": [
+      "Backstreet Boys"
+    ],
+    "isrc": "USJI19710152",
+    "start_time": "2025-11-30 16:17:50",
+    "radio": "expres",
+    "recorded_at": "2025-11-30T16:18:04.036299+01:00",
+    "raw_valid": true,
+    "song_session_id": "978fab3f-6e92-4edc-b70e-278c0b1f54d1"
+  },
+  {
+    "song": "Vsetko Bude Dobre",
+    "artists": [
+      "Gladiator"
+    ],
+    "isrc": "SKCM72560001",
+    "start_time": "2025-11-30 16:21:39",
+    "radio": "expres",
+    "recorded_at": "2025-11-30T16:22:02.736657+01:00",
+    "raw_valid": true,
+    "song_session_id": "934c5a4b-e687-4886-9f18-8f51a1a086d7"
+  },
+  {
+    "song": "Leave Before You Love Me",
+    "artists": [
+      "Marshmello",
+      "Jonas Brothers"
+    ],
+    "isrc": "USUG12102313",
+    "start_time": "2025-11-30 16:24:47",
+    "radio": "expres",
+    "recorded_at": "2025-11-30T16:25:22.796921+01:00",
+    "raw_valid": true,
+    "song_session_id": "0aaaa70b-6435-40fb-a6f7-0ea33ab49b7d"
+  },
+  {
+    "song": "We Pray",
+    "artists": [
+      "Coldplay",
+      "Little Simz",
+      "Burna Boy",
+      "Elyanna",
+      "Tini"
+    ],
+    "isrc": "GBAYE2400890",
+    "start_time": "2025-11-30 16:33:03",
+    "radio": "expres",
+    "recorded_at": "2025-11-30T16:33:24.675026+01:00",
+    "raw_valid": true,
+    "song_session_id": "932f952d-43c2-43bb-bd1b-2d115a2d4a0d"
+  },
+  {
+    "song": "Another Brick In The Wall (Part 2)",
+    "artists": [
+      "Pink Floyd"
+    ],
+    "isrc": "GBN9Y1100099",
+    "start_time": "2025-11-30 16:36:28",
+    "radio": "expres",
+    "recorded_at": "2025-11-30T16:36:54.293524+01:00",
+    "raw_valid": true,
+    "song_session_id": "b5703819-d86a-4e1f-9fdd-aa14c12b0b26"
+  },
+  {
+    "song": "74 - 75",
+    "artists": [
+      "Connells"
+    ],
+    "isrc": "USRZ51010979",
+    "start_time": "2025-11-30 16:40:05",
+    "radio": "expres",
+    "recorded_at": "2025-11-30T16:40:31.355687+01:00",
+    "raw_valid": true,
+    "song_session_id": "92c76daf-5975-4555-8e70-95a61f98248a"
+  },
+  {
+    "song": "Glide",
+    "artists": [
+      "Neiked",
+      "Portugal The Man"
+    ],
+    "isrc": "DEE862500421",
+    "start_time": "2025-11-30 16:44:35",
+    "radio": "expres",
+    "recorded_at": "2025-11-30T16:44:51.205339+01:00",
+    "raw_valid": true,
+    "song_session_id": "31d76a8a-7fdb-4cb9-a505-33e2a7f421e3"
+  },
+  {
+    "song": "Hvezdari",
+    "artists": [
+      "Krystof",
+      "Sima Martausova"
+    ],
+    "isrc": "CZUM71900470",
+    "start_time": "2025-11-30 16:47:40",
+    "radio": "expres",
+    "recorded_at": "2025-11-30T16:47:53.085438+01:00",
+    "raw_valid": true,
+    "song_session_id": "6cfe7408-74e1-4542-b3dc-70175ecaccb2"
+  },
+  {
+    "song": "Walk With Me",
+    "artists": [
+      "Felix Jaehn",
+      "Shouse"
+    ],
+    "isrc": "DEUM72411810",
+    "start_time": "2025-11-30 16:51:39",
+    "radio": "expres",
+    "recorded_at": "2025-11-30T16:52:02.419038+01:00",
+    "raw_valid": true,
+    "song_session_id": "64df22d5-7e09-4f23-9545-5bb4a0832f02"
+  },
+  {
+    "song": "Ill Be There For You",
+    "artists": [
+      "Rembrandts"
+    ],
+    "isrc": "USEE10001295",
+    "start_time": "2025-11-30 16:54:13",
+    "radio": "expres",
+    "recorded_at": "2025-11-30T16:54:52.575627+01:00",
+    "raw_valid": true,
+    "song_session_id": "fa29bfd0-c5f0-4144-a4be-db82c5e1c6ef"
+  },
+  {
+    "song": "Just Dance",
+    "artists": [
+      "Lady Gaga"
+    ],
+    "isrc": "USUM70807646",
+    "start_time": "2025-11-30 16:57:14",
+    "radio": "expres",
+    "recorded_at": "2025-11-30T16:57:36.058632+01:00",
+    "raw_valid": true,
+    "song_session_id": "8bc38b61-0b03-400d-afb3-a20b1414b0c9"
+  },
+  {
+    "song": "V Blbym Veku",
+    "artists": [
+      "Xindl X"
+    ],
+    "isrc": "CZUM71400233",
+    "start_time": "2025-11-30 17:07:49",
+    "radio": "expres",
+    "recorded_at": "2025-11-30T17:08:15.139150+01:00",
+    "raw_valid": true,
+    "song_session_id": "fa8e9b2f-2ef5-44f5-8102-c5252c853eee"
+  },
+  {
+    "song": "Be My Lover",
+    "artists": [
+      "La Bouche"
+    ],
+    "isrc": "DEE862300656",
+    "start_time": "2025-11-30 17:11:36",
+    "radio": "expres",
+    "recorded_at": "2025-11-30T17:12:01.183922+01:00",
+    "raw_valid": true,
+    "song_session_id": "c2bab81f-cef4-41f3-8922-1f7201b9ee3e"
+  },
+  {
+    "song": "Love Me Not",
+    "artists": [
+      "Ravyn Lenae"
+    ],
+    "isrc": "USAT22401137",
+    "start_time": "2025-11-30 17:15:43",
+    "radio": "expres",
+    "recorded_at": "2025-11-30T17:16:01.089408+01:00",
+    "raw_valid": true,
+    "song_session_id": "49e699ea-556e-46a3-869f-a9c644941918"
+  },
+  {
+    "song": "Like A Prayer",
+    "artists": [
+      "Madonna"
+    ],
+    "isrc": "USWB10903606",
+    "start_time": "2025-11-30 17:19:03",
+    "radio": "expres",
+    "recorded_at": "2025-11-30T17:19:28.358033+01:00",
+    "raw_valid": true,
+    "song_session_id": "72987c04-216c-4364-b509-db14eede22b9"
+  },
+  {
+    "song": "The One",
+    "artists": [
+      "Michael Patrick Kelly"
+    ],
+    "isrc": "DEE862500476",
+    "start_time": "2025-11-30 17:22:02",
+    "radio": "expres",
+    "recorded_at": "2025-11-30T17:22:22.187282+01:00",
+    "raw_valid": true,
+    "song_session_id": "0789cd1d-90af-4de5-8aa0-648e0b8316f3"
+  },
+  {
+    "song": "Sapphire",
+    "artists": [
+      "Ed Sheeran"
+    ],
+    "isrc": "GBAHS2500262",
+    "start_time": "2025-11-30 17:25:07",
+    "radio": "expres",
+    "recorded_at": "2025-11-30T17:25:21.431697+01:00",
+    "raw_valid": true,
+    "song_session_id": "10e4b986-8452-4044-bc25-47f92e6e59d6"
+  },
+  {
+    "song": "Forbidden Road",
+    "artists": [
+      "Robbie Williams"
+    ],
+    "isrc": "GBPS62400032",
+    "start_time": "2025-11-30 17:31:51",
+    "radio": "expres",
+    "recorded_at": "2025-11-30T17:32:12.279564+01:00",
+    "raw_valid": true,
+    "song_session_id": "523bf90e-7794-49ee-9a45-c3b1717e935a"
+  },
+  {
+    "song": "Love Me Like You Do",
+    "artists": [
+      "Ellie Goulding"
+    ],
+    "isrc": "GBUM71406823",
+    "start_time": "2025-11-30 17:35:01",
+    "radio": "expres",
+    "recorded_at": "2025-11-30T17:35:25.176540+01:00",
+    "raw_valid": true,
+    "song_session_id": "a9984570-3cc7-4fef-83d8-bb281cfa31ea"
+  },
+  {
+    "song": "Zombie",
+    "artists": [
+      "Cranberries"
+    ],
+    "isrc": "USUM72009888",
+    "start_time": "2025-11-30 17:38:52",
+    "radio": "expres",
+    "recorded_at": "2025-11-30T17:39:13.850303+01:00",
+    "raw_valid": true,
+    "song_session_id": "9d5150d5-dc8b-41bc-ae51-c41faee584aa"
+  },
+  {
+    "song": "Pohoda",
+    "artists": [
+      "Sam Sebou",
+      "Kali"
+    ],
+    "isrc": "SKE502400602",
+    "start_time": "2025-11-30 17:43:08",
+    "radio": "expres",
+    "recorded_at": "2025-11-30T17:43:32.700697+01:00",
+    "raw_valid": true,
+    "song_session_id": "9aa329f4-43a0-4145-8231-aa6d535b0c76"
+  },
+  {
+    "song": "Gone Gone Gone",
+    "artists": [
+      "David Guetta",
+      "Teddy Swims",
+      "Tones And I"
+    ],
+    "isrc": "UKWLG2500132",
+    "start_time": "2025-11-30 17:45:49",
+    "radio": "expres",
+    "recorded_at": "2025-11-30T17:46:15.502422+01:00",
+    "raw_valid": true,
+    "song_session_id": "8a7776a2-fe2e-47e4-9257-8abc555392de"
+  }
+]

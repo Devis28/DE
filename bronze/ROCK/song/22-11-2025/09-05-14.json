@@ -1,0 +1,379 @@
+[
+  {
+    "last_update": "2025-11-22 07:07:33",
+    "song": {
+      "musicAuthor": "Metallica",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851d691ec833eb067d9a9e4ded7",
+      "musicTitle": "Until It Sleeps",
+      "radio": "Rádio ROCK",
+      "startTime": "08:07"
+    },
+    "recorded_at": "2025-11-22T08:07:34.087056+01:00",
+    "raw_valid": true,
+    "song_session_id": "4904f68d-b64d-409c-9c53-46b06583eb5e"
+  },
+  {
+    "last_update": "2025-11-22 07:12:34",
+    "song": {
+      "musicAuthor": "Motörhead",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851b00cf2fa71e5c784525ae7c4",
+      "musicTitle": "Overkill",
+      "radio": "Rádio ROCK",
+      "startTime": "08:11"
+    },
+    "recorded_at": "2025-11-22T08:12:34.487836+01:00",
+    "raw_valid": true,
+    "song_session_id": "6c6b09a9-9c30-4eed-a5c3-f5dc06e5ee9b"
+  },
+  {
+    "last_update": "2025-11-22 07:15:34",
+    "song": {
+      "musicAuthor": "Queen",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485109e2ec500166cf2d5ac21050",
+      "musicTitle": "Killer Queen",
+      "radio": "Rádio ROCK",
+      "startTime": "08:15"
+    },
+    "recorded_at": "2025-11-22T08:15:34.710281+01:00",
+    "raw_valid": true,
+    "song_session_id": "6d32e7b9-466c-4434-b228-bafb6510fc59"
+  },
+  {
+    "last_update": "2025-11-22 07:19:35",
+    "song": {
+      "musicAuthor": "Blink 182",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851108b261e589019d965c57da0",
+      "musicTitle": "Dance With Me",
+      "radio": "Rádio ROCK",
+      "startTime": "08:18"
+    },
+    "recorded_at": "2025-11-22T08:19:35.811895+01:00",
+    "raw_valid": true,
+    "song_session_id": "2a824d33-2f70-41fe-9668-6697d892675e"
+  },
+  {
+    "last_update": "2025-11-22 07:22:36",
+    "song": {
+      "musicAuthor": "Manson Marylin",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048513e2c4ed336c6b4ebb1a4bde9",
+      "musicTitle": "Personal Jesus",
+      "radio": "Rádio ROCK",
+      "startTime": "08:21"
+    },
+    "recorded_at": "2025-11-22T08:22:37.090923+01:00",
+    "raw_valid": true,
+    "song_session_id": "8e7b0ca5-62a7-40d9-a69e-244227fa80fb"
+  },
+  {
+    "last_update": "2025-11-22 07:26:07",
+    "song": {
+      "musicAuthor": "Lucie",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048517afcc43e2db56da4728d2a52",
+      "musicTitle": "Oheň",
+      "radio": "Rádio ROCK",
+      "startTime": "08:25"
+    },
+    "recorded_at": "2025-11-22T08:26:07.537777+01:00",
+    "raw_valid": true,
+    "song_session_id": "2bd8339a-53bf-4e1d-91ef-367af06680f4"
+  },
+  {
+    "last_update": "2025-11-22 07:30:08",
+    "song": {
+      "musicAuthor": "Joe Cocker",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851e04777728b19263959d1a073",
+      "musicTitle": "Summer In The City",
+      "radio": "Rádio ROCK",
+      "startTime": "08:30"
+    },
+    "recorded_at": "2025-11-22T08:30:08.419992+01:00",
+    "raw_valid": true,
+    "song_session_id": "c325f948-501d-4971-a39b-2f98ddc93c55"
+  },
+  {
+    "last_update": "2025-11-22 07:34:17",
+    "song": {
+      "musicAuthor": "Thirty Seconds To Mars",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485164219d797874eecfd69f2458",
+      "musicTitle": "Closer To The Edge",
+      "radio": "Rádio ROCK",
+      "startTime": "08:33"
+    },
+    "recorded_at": "2025-11-22T08:34:17.870411+01:00",
+    "raw_valid": true,
+    "song_session_id": "5faa3441-d692-4f7e-a95c-903a5fef291b"
+  },
+  {
+    "last_update": "2025-11-22 07:38:17",
+    "song": {
+      "musicAuthor": "4 Non Blondes",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851381371cb8ce680d0dc324600",
+      "musicTitle": "What's Up",
+      "radio": "Rádio ROCK",
+      "startTime": "08:38"
+    },
+    "recorded_at": "2025-11-22T08:38:18.135136+01:00",
+    "raw_valid": true,
+    "song_session_id": "dde42272-abb7-49c8-bf7e-6fd84239de90"
+  },
+  {
+    "last_update": "2025-11-22 07:43:20",
+    "song": {
+      "musicAuthor": "Ac/Dc",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851286a0837ff3424065a735e0a",
+      "musicTitle": "T.N.T.",
+      "radio": "Rádio ROCK",
+      "startTime": "08:42"
+    },
+    "recorded_at": "2025-11-22T08:43:20.557627+01:00",
+    "raw_valid": true,
+    "song_session_id": "6f271d70-ba77-4481-bc3e-dd66feea9fb2"
+  },
+  {
+    "last_update": "2025-11-22 07:47:20",
+    "song": {
+      "musicAuthor": "Nirvana",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851aca059cebc1841277db22d1c",
+      "musicTitle": "Heart-Shaped Box",
+      "radio": "Rádio ROCK",
+      "startTime": "08:46"
+    },
+    "recorded_at": "2025-11-22T08:47:20.885976+01:00",
+    "raw_valid": true,
+    "song_session_id": "008d8f5f-c1f8-459a-b693-30c2da39677e"
+  },
+  {
+    "last_update": "2025-11-22 07:52:20",
+    "song": {
+      "musicAuthor": "Depeche Mode",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485113ccc3e363f27a4a3d06d1b1",
+      "musicTitle": "Never Let Me Down Again",
+      "radio": "Rádio ROCK",
+      "startTime": "08:51"
+    },
+    "recorded_at": "2025-11-22T08:52:21.399073+01:00",
+    "raw_valid": true,
+    "song_session_id": "ed3ddd1c-9acb-4c5f-bb1b-477e8c757f44"
+  },
+  {
+    "last_update": "2025-11-22 07:56:22",
+    "song": {
+      "musicAuthor": "Good Charlotte",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851a58ea3c31c1fd13a659a4ef0",
+      "musicTitle": "I Just Wanna Live",
+      "radio": "Rádio ROCK",
+      "startTime": "08:55"
+    },
+    "recorded_at": "2025-11-22T08:56:22.148846+01:00",
+    "raw_valid": true,
+    "song_session_id": "5f893534-497b-4dea-8c03-3be08645f77f"
+  },
+  {
+    "last_update": "2025-11-22 07:59:21",
+    "song": {
+      "musicAuthor": "Pearl Jam",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851d400d27cba05bb0545533864",
+      "musicTitle": "Even Flow",
+      "radio": "Rádio ROCK",
+      "startTime": "08:58"
+    },
+    "recorded_at": "2025-11-22T08:59:22.346794+01:00",
+    "raw_valid": true,
+    "song_session_id": "ff3ca95f-8bcd-4229-b2ae-dc8e492b1028"
+  },
+  {
+    "last_update": "2025-11-22 08:04:25",
+    "song": {
+      "musicAuthor": "Limp Bizkit",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048514a31b146c7cf07705d912efe",
+      "musicTitle": "My Way",
+      "radio": "Rádio ROCK",
+      "startTime": "09:03"
+    },
+    "recorded_at": "2025-11-22T09:04:25.796055+01:00",
+    "raw_valid": true,
+    "song_session_id": "396d1e84-5efe-42c6-a0cd-f59c105fd4dd"
+  },
+  {
+    "last_update": "2025-11-22 08:09:25",
+    "song": {
+      "musicAuthor": "Green Day",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851db89b08034de626ebee6823d",
+      "musicTitle": "When I Come Around",
+      "radio": "Rádio ROCK",
+      "startTime": "09:08"
+    },
+    "recorded_at": "2025-11-22T09:09:26.169729+01:00",
+    "raw_valid": true,
+    "song_session_id": "b9a825ec-297b-4294-a32c-cc13f68bf0fa"
+  },
+  {
+    "last_update": "2025-11-22 08:12:26",
+    "song": {
+      "musicAuthor": "Survivor",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048514ea1fd36ef7d78214011371c",
+      "musicTitle": "Burning Heart",
+      "radio": "Rádio ROCK",
+      "startTime": "09:11"
+    },
+    "recorded_at": "2025-11-22T09:12:26.418981+01:00",
+    "raw_valid": true,
+    "song_session_id": "0406cf3c-6cca-49e8-ab68-015d7ee89b78"
+  },
+  {
+    "last_update": "2025-11-22 08:19:27",
+    "song": {
+      "musicAuthor": "Kabát",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851920aa71d8d923b8f3ed44186",
+      "musicTitle": "Dole V Dole",
+      "radio": "Rádio ROCK",
+      "startTime": "09:18"
+    },
+    "recorded_at": "2025-11-22T09:19:28.050742+01:00",
+    "raw_valid": true,
+    "song_session_id": "9679bea0-d60d-4966-b41a-52a0326e24bf"
+  },
+  {
+    "last_update": "2025-11-22 08:22:27",
+    "song": {
+      "musicAuthor": "Linkin Park",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851c0db065619ed208515412917",
+      "musicTitle": "The Emptiness Machine",
+      "radio": "Rádio ROCK",
+      "startTime": "09:21"
+    },
+    "recorded_at": "2025-11-22T09:22:28.376146+01:00",
+    "raw_valid": true,
+    "song_session_id": "5722a92d-10fb-4b74-bb34-37f5107ced5b"
+  },
+  {
+    "last_update": "2025-11-22 08:25:27",
+    "song": {
+      "musicAuthor": "Queen",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048517c39dd133836c2c1c87e34d6",
+      "musicTitle": "Don't Stop Me Now",
+      "radio": "Rádio ROCK",
+      "startTime": "09:24"
+    },
+    "recorded_at": "2025-11-22T09:25:28.587103+01:00",
+    "raw_valid": true,
+    "song_session_id": "6c7833f9-8dc7-4e94-8717-05938c1f2815"
+  },
+  {
+    "last_update": "2025-11-22 08:28:29",
+    "song": {
+      "musicAuthor": "The Offspring",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048510158cbde70672dd821972907",
+      "musicTitle": "Self Esteem",
+      "radio": "Rádio ROCK",
+      "startTime": "09:27"
+    },
+    "recorded_at": "2025-11-22T09:28:29.507070+01:00",
+    "raw_valid": true,
+    "song_session_id": "c4e7f42d-05bd-4fcd-8180-4c56638d6542"
+  },
+  {
+    "last_update": "2025-11-22 08:33:30",
+    "song": {
+      "musicAuthor": "Def Leppard",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048513061b8dbb3c061b853b8e799",
+      "musicTitle": "Let's Get Rocked",
+      "radio": "Rádio ROCK",
+      "startTime": "09:32"
+    },
+    "recorded_at": "2025-11-22T09:33:30.226268+01:00",
+    "raw_valid": true,
+    "song_session_id": "2a3b2287-0085-4fb2-b8cc-9d1ceb0c5205"
+  },
+  {
+    "last_update": "2025-11-22 08:38:31",
+    "song": {
+      "musicAuthor": "The Red Hot Chili Peppers",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851de1af2785a83cc660155a0c4",
+      "musicTitle": "By The Way",
+      "radio": "Rádio ROCK",
+      "startTime": "09:37"
+    },
+    "recorded_at": "2025-11-22T09:38:31.998754+01:00",
+    "raw_valid": true,
+    "song_session_id": "baa43240-07bb-47f5-9790-8b64ef731e49"
+  },
+  {
+    "last_update": "2025-11-22 08:41:32",
+    "song": {
+      "musicAuthor": "The Black Keys",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048516a21b97de47168df4f0c1993",
+      "musicTitle": "Lonely Boy",
+      "radio": "Rádio ROCK",
+      "startTime": "09:40"
+    },
+    "recorded_at": "2025-11-22T09:41:32.471443+01:00",
+    "raw_valid": true,
+    "song_session_id": "10dafafa-9699-41b6-a8ec-38dfe952b3c3"
+  },
+  {
+    "last_update": "2025-11-22 08:45:32",
+    "song": {
+      "musicAuthor": "Wanastowi Vjecy",
+      "musicCover": "https://static.radia.sk/covers/32/5e454580-fa03-4ca6-89e2-d837eff7ac04.jpg",
+      "musicTitle": "Tak Mi To Teda Nandej",
+      "radio": "Rádio ROCK",
+      "startTime": "09:44"
+    },
+    "recorded_at": "2025-11-22T09:45:32.844950+01:00",
+    "raw_valid": true,
+    "song_session_id": "49163f4b-1342-417c-bef2-b41e7146a8c6"
+  },
+  {
+    "last_update": "2025-11-22 08:48:33",
+    "song": {
+      "musicAuthor": "Cocker Joe",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485120714a75aad942d4d695d618",
+      "musicTitle": "Unchain My Heart",
+      "radio": "Rádio ROCK",
+      "startTime": "09:47"
+    },
+    "recorded_at": "2025-11-22T09:48:33.732920+01:00",
+    "raw_valid": true,
+    "song_session_id": "4018b973-8862-4652-ba33-e5feec7f914a"
+  },
+  {
+    "last_update": "2025-11-22 08:53:35",
+    "song": {
+      "musicAuthor": "Nirvana",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851fbc71c99f9c1296c56dd51b6",
+      "musicTitle": "Lithium",
+      "radio": "Rádio ROCK",
+      "startTime": "09:52"
+    },
+    "recorded_at": "2025-11-22T09:53:35.820340+01:00",
+    "raw_valid": true,
+    "song_session_id": "6fc1cc8b-77f5-4b5a-9dcb-b075cd778c83"
+  },
+  {
+    "last_update": "2025-11-22 08:57:39",
+    "song": {
+      "musicAuthor": "Imagine Dragons",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048515675e83f707f1d7271e5cf8a",
+      "musicTitle": "Thunder",
+      "radio": "Rádio ROCK",
+      "startTime": "09:57"
+    },
+    "recorded_at": "2025-11-22T09:57:39.204349+01:00",
+    "raw_valid": true,
+    "song_session_id": "8b72458e-d378-4e7f-8459-64b0c805cf66"
+  },
+  {
+    "last_update": "2025-11-22 09:00:14",
+    "song": {
+      "musicAuthor": "Ozzy Osbourne",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851c8dec214036a4cfb3dcf143a",
+      "musicTitle": "Shot In The Dark",
+      "radio": "Rádio ROCK",
+      "startTime": "10:00"
+    },
+    "recorded_at": "2025-11-22T10:00:14.122788+01:00",
+    "raw_valid": true,
+    "song_session_id": "31c531f6-07f0-41ba-b09f-916057ce8a6d"
+  }
+]

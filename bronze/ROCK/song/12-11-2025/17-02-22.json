@@ -1,0 +1,379 @@
+[
+  {
+    "last_update": "2025-11-12 15:03:15",
+    "song": {
+      "musicAuthor": "Evanescence",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485125f49ab23f0ec6332efef432",
+      "musicTitle": "My Immortal",
+      "radio": "Rádio ROCK",
+      "startTime": "16:02"
+    },
+    "recorded_at": "2025-11-12T16:03:17.033664+01:00",
+    "raw_valid": true,
+    "song_session_id": "64a8f138-68e7-4dc2-8d28-a8c465f2d716"
+  },
+  {
+    "last_update": "2025-11-12 15:08:17",
+    "song": {
+      "musicAuthor": "The Sweet",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048518f5522a7474d9a925f040342",
+      "musicTitle": "Fox On The Run",
+      "radio": "Rádio ROCK",
+      "startTime": "16:07"
+    },
+    "recorded_at": "2025-11-12T16:08:17.729701+01:00",
+    "raw_valid": true,
+    "song_session_id": "8f582886-045b-493a-b438-18b442d0383f"
+  },
+  {
+    "last_update": "2025-11-12 15:12:17",
+    "song": {
+      "musicAuthor": "Linkin Park",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485146e207de66ba06422897f769",
+      "musicTitle": "What I've Done",
+      "radio": "Rádio ROCK",
+      "startTime": "16:11"
+    },
+    "recorded_at": "2025-11-12T16:12:18.321276+01:00",
+    "raw_valid": true,
+    "song_session_id": "f449ba09-4011-42e5-ae3a-f872ca4f0e22"
+  },
+  {
+    "last_update": "2025-11-12 15:15:18",
+    "song": {
+      "musicAuthor": "Meat Loaf",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048516fe5282882cb14e14558f697",
+      "musicTitle": "I'd Do Anything For Love But I Won't Do That",
+      "radio": "Rádio ROCK",
+      "startTime": "16:14"
+    },
+    "recorded_at": "2025-11-12T16:15:18.617292+01:00",
+    "raw_valid": true,
+    "song_session_id": "14592d4f-f813-490d-b64a-ad62c803286c"
+  },
+  {
+    "last_update": "2025-11-12 15:22:19",
+    "song": {
+      "musicAuthor": "Papa Roach",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851d22a0b7f13a38f1ab87b43c7",
+      "musicTitle": "Even If It Kills Me",
+      "radio": "Rádio ROCK",
+      "startTime": "16:21"
+    },
+    "recorded_at": "2025-11-12T16:22:20.173020+01:00",
+    "raw_valid": true,
+    "song_session_id": "01793e7e-0feb-4632-b99b-5fb9cbe01bc1"
+  },
+  {
+    "last_update": "2025-11-12 15:25:19",
+    "song": {
+      "musicAuthor": "Whitesnake",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851facf92d793609aa3bc5cc4e7",
+      "musicTitle": "Here I Go Again",
+      "radio": "Rádio ROCK",
+      "startTime": "16:25"
+    },
+    "recorded_at": "2025-11-12T16:25:20.369371+01:00",
+    "raw_valid": true,
+    "song_session_id": "997aa9fd-b029-46b0-90ff-d05e87260a8b"
+  },
+  {
+    "last_update": "2025-11-12 15:29:21",
+    "song": {
+      "musicAuthor": "Simple Plan",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851fa258256ced1ce3a7fa0246a",
+      "musicTitle": "Welcome To My Life",
+      "radio": "Rádio ROCK",
+      "startTime": "16:29"
+    },
+    "recorded_at": "2025-11-12T16:29:21.747871+01:00",
+    "raw_valid": true,
+    "song_session_id": "5096f2c5-e157-417c-b525-ea1c20c41be9"
+  },
+  {
+    "last_update": "2025-11-12 15:33:21",
+    "song": {
+      "musicAuthor": "Iné Kafe",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048512f24981c95d815cac0e65b86",
+      "musicTitle": "Čumil",
+      "radio": "Rádio ROCK",
+      "startTime": "16:32"
+    },
+    "recorded_at": "2025-11-12T16:33:22.374300+01:00",
+    "raw_valid": true,
+    "song_session_id": "8f786995-12c7-44af-8fff-5cb7e451ea50"
+  },
+  {
+    "last_update": "2025-11-12 15:36:22",
+    "song": {
+      "musicAuthor": "Limp Bizkit",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048514a31b146c7cf07705d912efe",
+      "musicTitle": "Take A Look Around",
+      "radio": "Rádio ROCK",
+      "startTime": "16:35"
+    },
+    "recorded_at": "2025-11-12T16:36:22.573712+01:00",
+    "raw_valid": true,
+    "song_session_id": "77a1d494-11f9-4bb5-ab03-b9bf920d96cd"
+  },
+  {
+    "last_update": "2025-11-12 15:41:22",
+    "song": {
+      "musicAuthor": "Tublatanka",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485170fd71ebc67a568023a387cb",
+      "musicTitle": "Šlabikár",
+      "radio": "Rádio ROCK",
+      "startTime": "16:40"
+    },
+    "recorded_at": "2025-11-12T16:41:23.126579+01:00",
+    "raw_valid": true,
+    "song_session_id": "40f497fa-dc22-4233-bfc7-1c1988d0348a"
+  },
+  {
+    "last_update": "2025-11-12 15:46:24",
+    "song": {
+      "musicAuthor": "Blink 182",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048510538b48c180256e0bdd8363f",
+      "musicTitle": "I Miss You",
+      "radio": "Rádio ROCK",
+      "startTime": "16:46"
+    },
+    "recorded_at": "2025-11-12T16:46:24.754918+01:00",
+    "raw_valid": true,
+    "song_session_id": "9582a8a1-3647-4cfd-a2ae-b1971cad27fc"
+  },
+  {
+    "last_update": "2025-11-12 15:50:24",
+    "song": {
+      "musicAuthor": "Lenny Kravitz",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851f1157b7dcd21bae0c2c75d89",
+      "musicTitle": "American Woman",
+      "radio": "Rádio ROCK",
+      "startTime": "16:49"
+    },
+    "recorded_at": "2025-11-12T16:50:25.096354+01:00",
+    "raw_valid": true,
+    "song_session_id": "3e0ba7e3-e093-4e7e-abdf-8fc681e8de5d"
+  },
+  {
+    "last_update": "2025-11-12 15:54:26",
+    "song": {
+      "musicAuthor": "Tom Petty And The Heartbreakers",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048519408f4aa5294b0573bab2ed2",
+      "musicTitle": "Free Fallin",
+      "radio": "Rádio ROCK",
+      "startTime": "16:54"
+    },
+    "recorded_at": "2025-11-12T16:54:27.410518+01:00",
+    "raw_valid": true,
+    "song_session_id": "2313ed3d-7005-4297-ba03-a6e5783ebb10"
+  },
+  {
+    "last_update": "2025-11-12 15:59:27",
+    "song": {
+      "musicAuthor": "Korn",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485174c1560b64750a1774495144",
+      "musicTitle": "Coming Undone",
+      "radio": "Rádio ROCK",
+      "startTime": "16:58"
+    },
+    "recorded_at": "2025-11-12T16:59:28.014315+01:00",
+    "raw_valid": true,
+    "song_session_id": "de6bc694-4667-4429-85eb-6e3b26151b63"
+  },
+  {
+    "last_update": "2025-11-12 16:03:28",
+    "song": {
+      "musicAuthor": "R.E.M.",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851a7c7f94cfccd5ab6de233916",
+      "musicTitle": "It`s The End Of The World",
+      "radio": "Rádio ROCK",
+      "startTime": "17:02"
+    },
+    "recorded_at": "2025-11-12T17:03:28.322985+01:00",
+    "raw_valid": true,
+    "song_session_id": "b0d90377-38de-4d67-9ab8-c65ec01e29ae"
+  },
+  {
+    "last_update": "2025-11-12 16:07:27",
+    "song": {
+      "musicAuthor": "Nightwish",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485115c43f478bf43c734225b814",
+      "musicTitle": "Nemo",
+      "radio": "Rádio ROCK",
+      "startTime": "17:06"
+    },
+    "recorded_at": "2025-11-12T17:07:28.683757+01:00",
+    "raw_valid": true,
+    "song_session_id": "1d494215-1374-46d8-895a-21c022cd73a4"
+  },
+  {
+    "last_update": "2025-11-12 16:14:28",
+    "song": {
+      "musicAuthor": "The Red Hot Chili Peppers",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851f3686323bf737cb7ba3de792",
+      "musicTitle": "Otherside",
+      "radio": "Rádio ROCK",
+      "startTime": "17:13"
+    },
+    "recorded_at": "2025-11-12T17:14:29.337080+01:00",
+    "raw_valid": true,
+    "song_session_id": "27d5b22e-4821-47c2-994e-149945783de1"
+  },
+  {
+    "last_update": "2025-11-12 16:18:29",
+    "song": {
+      "musicAuthor": "Ac Dc",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048510b51f8d91f3a21e8426361ae",
+      "musicTitle": "Back In Black",
+      "radio": "Rádio ROCK",
+      "startTime": "17:17"
+    },
+    "recorded_at": "2025-11-12T17:18:30.156706+01:00",
+    "raw_valid": true,
+    "song_session_id": "9c3ef103-9201-4345-a483-a4f5ca0c12e9"
+  },
+  {
+    "last_update": "2025-11-12 16:22:29",
+    "song": {
+      "musicAuthor": "Green Day",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851ecf325211ee12671f180852a",
+      "musicTitle": "Smash It Like Belushi",
+      "radio": "Rádio ROCK",
+      "startTime": "17:21"
+    },
+    "recorded_at": "2025-11-12T17:22:30.665920+01:00",
+    "raw_valid": true,
+    "song_session_id": "c5ddcf8b-ada3-44d1-a25f-700bf7a214f3"
+  },
+  {
+    "last_update": "2025-11-12 16:25:29",
+    "song": {
+      "musicAuthor": "Bon Jovi",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048517a231174875d7930de9dad58",
+      "musicTitle": "It's My Life",
+      "radio": "Rádio ROCK",
+      "startTime": "17:24"
+    },
+    "recorded_at": "2025-11-12T17:25:30.850809+01:00",
+    "raw_valid": true,
+    "song_session_id": "59454ced-1614-419e-abea-1282971a1033"
+  },
+  {
+    "last_update": "2025-11-12 16:29:32",
+    "song": {
+      "musicAuthor": "Edwyn Collins",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851583f1300f2b356b42dd231b4",
+      "musicTitle": "A Girl Like You",
+      "radio": "Rádio ROCK",
+      "startTime": "17:28"
+    },
+    "recorded_at": "2025-11-12T17:29:33.149289+01:00",
+    "raw_valid": true,
+    "song_session_id": "957830f2-9677-4190-9e83-043d4127bc97"
+  },
+  {
+    "last_update": "2025-11-12 16:33:32",
+    "song": {
+      "musicAuthor": "Van Halen",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851b414c63fb435b622238c15ed",
+      "musicTitle": "Jump",
+      "radio": "Rádio ROCK",
+      "startTime": "17:32"
+    },
+    "recorded_at": "2025-11-12T17:33:33.803177+01:00",
+    "raw_valid": true,
+    "song_session_id": "07548b59-0b5d-4790-9351-07f6026aeaa7"
+  },
+  {
+    "last_update": "2025-11-12 16:37:33",
+    "song": {
+      "musicAuthor": "My Chemical Romance",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485117f77fab7e8f18d5f9fee4a1",
+      "musicTitle": "Welcome To The Black Parade",
+      "radio": "Rádio ROCK",
+      "startTime": "17:36"
+    },
+    "recorded_at": "2025-11-12T17:37:34.080579+01:00",
+    "raw_valid": true,
+    "song_session_id": "8181ded1-9edf-4e56-be93-8f5c6913b7d9"
+  },
+  {
+    "last_update": "2025-11-12 16:41:33",
+    "song": {
+      "musicAuthor": "The Lemonheads",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485192b65c451cdaa683e214ebb1",
+      "musicTitle": "Mrs. Robinson",
+      "radio": "Rádio ROCK",
+      "startTime": "17:40"
+    },
+    "recorded_at": "2025-11-12T17:41:34.530601+01:00",
+    "raw_valid": true,
+    "song_session_id": "56c39e7d-2cbb-4dcb-8869-43b510e091bb"
+  },
+  {
+    "last_update": "2025-11-12 16:45:35",
+    "song": {
+      "musicAuthor": "Genesis",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485101f20b98b794099707e43375",
+      "musicTitle": "No Son Of Mine",
+      "radio": "Rádio ROCK",
+      "startTime": "17:44"
+    },
+    "recorded_at": "2025-11-12T17:45:35.652214+01:00",
+    "raw_valid": true,
+    "song_session_id": "65aecd2b-00be-40a3-891d-a94cb2fbb109"
+  },
+  {
+    "last_update": "2025-11-12 16:51:36",
+    "song": {
+      "musicAuthor": "Horkýže Slíže",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851d908a63a01282b0e2ac770ab",
+      "musicTitle": "Nazdar",
+      "radio": "Rádio ROCK",
+      "startTime": "17:50"
+    },
+    "recorded_at": "2025-11-12T17:51:36.822872+01:00",
+    "raw_valid": true,
+    "song_session_id": "91ef92e7-8580-48b0-97a9-09f4c8a186f6"
+  },
+  {
+    "last_update": "2025-11-12 16:54:37",
+    "song": {
+      "musicAuthor": "Foo Fighters",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048510389027010b78a5e7dce426b",
+      "musicTitle": "My Hero",
+      "radio": "Rádio ROCK",
+      "startTime": "17:53"
+    },
+    "recorded_at": "2025-11-12T17:54:37.166581+01:00",
+    "raw_valid": true,
+    "song_session_id": "d9b9700c-535a-4bd1-8902-856fecdc9990"
+  },
+  {
+    "last_update": "2025-11-12 16:58:07",
+    "song": {
+      "musicAuthor": "Joan Jett & The Blackhearts",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048513c73b2e0a6aa490736f19751",
+      "musicTitle": "I Love Rock 'n' Roll",
+      "radio": "Rádio ROCK",
+      "startTime": "17:57"
+    },
+    "recorded_at": "2025-11-12T17:58:07.386745+01:00",
+    "raw_valid": true,
+    "song_session_id": "32053c37-6fb3-482b-b0c9-1e361cb3188e"
+  },
+  {
+    "last_update": "2025-11-12 17:01:37",
+    "song": {
+      "musicAuthor": "Wheatus",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048510a3740efa638f10f14fabc46",
+      "musicTitle": "Teenage Dirtbag",
+      "radio": "Rádio ROCK",
+      "startTime": "18:00"
+    },
+    "recorded_at": "2025-11-12T18:01:38.505807+01:00",
+    "raw_valid": true,
+    "song_session_id": "4b8d0934-c9b9-49e5-a597-fd4dab216691"
+  }
+]

@@ -1,0 +1,391 @@
+[
+  {
+    "song": "Thats So True",
+    "artists": [
+      "Gracie Abrams"
+    ],
+    "isrc": "USUG12406903",
+    "start_time": "2025-11-24 22:06:01",
+    "radio": "expres",
+    "recorded_at": "2025-11-24T22:06:21.277325+01:00",
+    "raw_valid": true,
+    "song_session_id": "c9a278e1-13a6-4c32-8176-e19fa5279814"
+  },
+  {
+    "song": "Teenage Dirtbag",
+    "artists": [
+      "Wheatus"
+    ],
+    "isrc": "USSM10008431",
+    "start_time": "2025-11-24 22:08:51",
+    "radio": "expres",
+    "recorded_at": "2025-11-24T22:08:58.865396+01:00",
+    "raw_valid": true,
+    "song_session_id": "89841120-dc3a-4df2-a26a-754e9c744284"
+  },
+  {
+    "song": "The One",
+    "artists": [
+      "Michael Patrick Kelly"
+    ],
+    "isrc": "DEE862500476",
+    "start_time": "2025-11-24 22:12:32",
+    "radio": "expres",
+    "recorded_at": "2025-11-24T22:12:42.751277+01:00",
+    "raw_valid": true,
+    "song_session_id": "1f6d8623-58f4-4b58-b934-0fc42d6f67f0"
+  },
+  {
+    "song": "Bad Memories",
+    "artists": [
+      "Meduza",
+      "James Carter",
+      "Elley Duhe",
+      "Fast Boy"
+    ],
+    "isrc": "GBUM72203666",
+    "start_time": "2025-11-24 22:15:28",
+    "radio": "expres",
+    "recorded_at": "2025-11-24T22:15:54.002825+01:00",
+    "raw_valid": true,
+    "song_session_id": "273969ef-2223-47e0-b4df-230137a91e4c"
+  },
+  {
+    "song": "Blood Running",
+    "artists": [
+      "Ray Dalton"
+    ],
+    "isrc": "DEUM72507812",
+    "start_time": "2025-11-24 22:17:47",
+    "radio": "expres",
+    "recorded_at": "2025-11-24T22:18:11.915220+01:00",
+    "raw_valid": true,
+    "song_session_id": "17a0309d-8064-49ad-905e-6ce08c7bd33a"
+  },
+  {
+    "song": "I Wanna Dance With Somebody",
+    "artists": [
+      "Whitney Houston"
+    ],
+    "isrc": "USAR18700121",
+    "start_time": "2025-11-24 22:21:03",
+    "radio": "expres",
+    "recorded_at": "2025-11-24T22:21:15.808248+01:00",
+    "raw_valid": true,
+    "song_session_id": "8288ea6d-d416-4e10-b792-d88e0eaeb046"
+  },
+  {
+    "song": "Azizam",
+    "artists": [
+      "Ed Sheeran"
+    ],
+    "isrc": "GBAHS2500125",
+    "start_time": "2025-11-24 22:25:50",
+    "radio": "expres",
+    "recorded_at": "2025-11-24T22:26:20.359894+01:00",
+    "raw_valid": true,
+    "song_session_id": "758c5746-7ff4-44a1-a119-32d727dcff59"
+  },
+  {
+    "song": "Navzdy",
+    "artists": [
+      "Kristina"
+    ],
+    "isrc": "SKG061400301",
+    "start_time": "2025-11-24 22:28:32",
+    "radio": "expres",
+    "recorded_at": "2025-11-24T22:29:03.049651+01:00",
+    "raw_valid": true,
+    "song_session_id": "feb06926-1853-47bb-800c-67070630cc31"
+  },
+  {
+    "song": "Regalo",
+    "artists": [
+      "Alvaro Soler"
+    ],
+    "isrc": "DEE862500388",
+    "start_time": "2025-11-24 22:32:32",
+    "radio": "expres",
+    "recorded_at": "2025-11-24T22:32:47.303921+01:00",
+    "raw_valid": true,
+    "song_session_id": "a1e4fbf0-a5cb-4751-a22b-403708e384ed"
+  },
+  {
+    "song": "Kamarati",
+    "artists": [
+      "Elan"
+    ],
+    "isrc": "SKA128229901",
+    "start_time": "2025-11-24 22:35:44",
+    "radio": "expres",
+    "recorded_at": "2025-11-24T22:36:05.400913+01:00",
+    "raw_valid": true,
+    "song_session_id": "2aaca327-9748-407e-bc72-8878313ed424"
+  },
+  {
+    "song": "Wind Of Change",
+    "artists": [
+      "Scorpions"
+    ],
+    "isrc": "USPG19090037",
+    "start_time": "2025-11-24 22:38:19",
+    "radio": "expres",
+    "recorded_at": "2025-11-24T22:38:35.289886+01:00",
+    "raw_valid": true,
+    "song_session_id": "78cb24d0-fb9e-49f7-af17-65d0115d032a"
+  },
+  {
+    "song": "Glide",
+    "artists": [
+      "Neiked",
+      "Portugal The Man"
+    ],
+    "isrc": "DEE862500421",
+    "start_time": "2025-11-24 22:43:35",
+    "radio": "expres",
+    "recorded_at": "2025-11-24T22:43:55.471360+01:00",
+    "raw_valid": true,
+    "song_session_id": "8ec8ed43-4bf2-42ad-b286-2227471e2cd2"
+  },
+  {
+    "song": "Believe",
+    "artists": [
+      "Cher"
+    ],
+    "isrc": "GBAHT9803002",
+    "start_time": "2025-11-24 22:46:29",
+    "radio": "expres",
+    "recorded_at": "2025-11-24T22:46:38.287964+01:00",
+    "raw_valid": true,
+    "song_session_id": "5cd0c0ad-f0d4-4c64-a5a5-e4411b668084"
+  },
+  {
+    "song": "Bad Dreams",
+    "artists": [
+      "Teddy Swims"
+    ],
+    "isrc": "USWB12403749",
+    "start_time": "2025-11-24 22:49:56",
+    "radio": "expres",
+    "recorded_at": "2025-11-24T22:50:35.856417+01:00",
+    "raw_valid": true,
+    "song_session_id": "17b59791-8b0c-47c6-9d28-0e0bafcae8ca"
+  },
+  {
+    "song": "Zoo",
+    "artists": [
+      "Shakira"
+    ],
+    "isrc": "USWD12538420",
+    "start_time": "2025-11-24 22:52:51",
+    "radio": "expres",
+    "recorded_at": "2025-11-24T22:53:15.753585+01:00",
+    "raw_valid": true,
+    "song_session_id": "675a5e98-c304-4af0-bbfc-d58def713087"
+  },
+  {
+    "song": "Waiting For Love",
+    "artists": [
+      "Avicii"
+    ],
+    "isrc": "CHB701400134",
+    "start_time": "2025-11-24 22:56:17",
+    "radio": "expres",
+    "recorded_at": "2025-11-24T22:56:36.075126+01:00",
+    "raw_valid": true,
+    "song_session_id": "82550f29-51f7-4736-91ad-cb2c5b271f0e"
+  },
+  {
+    "song": "Mystical Magical",
+    "artists": [
+      "Benson Boone"
+    ],
+    "isrc": "USWB12500844",
+    "start_time": "2025-11-24 23:05:13",
+    "radio": "expres",
+    "recorded_at": "2025-11-24T23:05:23.585563+01:00",
+    "raw_valid": true,
+    "song_session_id": "56c97df9-a58f-48aa-919e-04d3ffe6c0b4"
+  },
+  {
+    "song": "We Are",
+    "artists": [
+      "Ana Johnsson"
+    ],
+    "isrc": "DEE860400428",
+    "start_time": "2025-11-24 23:08:03",
+    "radio": "expres",
+    "recorded_at": "2025-11-24T23:08:35.987274+01:00",
+    "raw_valid": true,
+    "song_session_id": "edcaa9bc-a72c-4bd6-b503-0f3a896e9248"
+  },
+  {
+    "song": "Austin",
+    "artists": [
+      "Dasha"
+    ],
+    "isrc": "QZTB92360479",
+    "start_time": "2025-11-24 23:11:36",
+    "radio": "expres",
+    "recorded_at": "2025-11-24T23:11:56.319196+01:00",
+    "raw_valid": true,
+    "song_session_id": "baf795f8-3ae2-4970-baf7-fa61c0f6d970"
+  },
+  {
+    "song": "Just Give Me A Reason",
+    "artists": [
+      "Pink",
+      "Nate Ruess"
+    ],
+    "isrc": "USRC11200786",
+    "start_time": "2025-11-24 23:14:23",
+    "radio": "expres",
+    "recorded_at": "2025-11-24T23:14:37.461634+01:00",
+    "raw_valid": true,
+    "song_session_id": "afe8acf8-a641-43f2-ab43-9801ef33a7ff"
+  },
+  {
+    "song": "Eternity",
+    "artists": [
+      "Alex Warren"
+    ],
+    "isrc": "USAT22503779",
+    "start_time": "2025-11-24 23:18:19",
+    "radio": "expres",
+    "recorded_at": "2025-11-24T23:18:41.368612+01:00",
+    "raw_valid": true,
+    "song_session_id": "4034d0c7-9123-4f7b-85e5-4e453176f15d"
+  },
+  {
+    "song": "Wake Me Up Before You Go Go",
+    "artists": [
+      "Wham"
+    ],
+    "isrc": "GBBBN0009712",
+    "start_time": "2025-11-24 23:21:46",
+    "radio": "expres",
+    "recorded_at": "2025-11-24T23:22:04.683866+01:00",
+    "raw_valid": true,
+    "song_session_id": "d0261ec0-9fef-4f38-942b-48010973919b"
+  },
+  {
+    "song": "Feel Alive",
+    "artists": [
+      "Kamrad"
+    ],
+    "isrc": "DEE862202500",
+    "start_time": "2025-11-24 23:25:29",
+    "radio": "expres",
+    "recorded_at": "2025-11-24T23:25:56.691090+01:00",
+    "raw_valid": true,
+    "song_session_id": "619ef9ff-7103-476a-ab93-56d113267044"
+  },
+  {
+    "song": "Neviem Ta Najst",
+    "artists": [
+      "Gladiator"
+    ],
+    "isrc": "CZA210900800",
+    "start_time": "2025-11-24 23:28:01",
+    "radio": "expres",
+    "recorded_at": "2025-11-24T23:28:14.097944+01:00",
+    "raw_valid": true,
+    "song_session_id": "949112c0-c058-4f95-9ddd-fb12bed4d6ae"
+  },
+  {
+    "song": "Undressed",
+    "artists": [
+      "Sombr"
+    ],
+    "isrc": "USWB12500737",
+    "start_time": "2025-11-24 23:32:40",
+    "radio": "expres",
+    "recorded_at": "2025-11-24T23:34:59.880554+01:00",
+    "raw_valid": true,
+    "song_session_id": "db981f6f-8577-45bb-a7ae-b46d2ebcae06"
+  },
+  {
+    "song": "Summer",
+    "artists": [
+      "Calvin Harris"
+    ],
+    "isrc": "GBARL1400296",
+    "start_time": "2025-11-24 23:35:40",
+    "radio": "expres",
+    "recorded_at": "2025-11-24T23:36:01.306360+01:00",
+    "raw_valid": true,
+    "song_session_id": "96a381bb-cf21-4a25-9d9e-f98b47ddee50"
+  },
+  {
+    "song": "Complicated",
+    "artists": [
+      "Avril Lavigne"
+    ],
+    "isrc": "USAR10200223",
+    "start_time": "2025-11-24 23:39:14",
+    "radio": "expres",
+    "recorded_at": "2025-11-24T23:39:44.716292+01:00",
+    "raw_valid": true,
+    "song_session_id": "97c8fa97-5c9b-4df8-bf5e-20a13deb0ddf"
+  },
+  {
+    "song": "Love Me Not",
+    "artists": [
+      "Ravyn Lenae"
+    ],
+    "isrc": "USAT22401137",
+    "start_time": "2025-11-24 23:43:24",
+    "radio": "expres",
+    "recorded_at": "2025-11-24T23:43:56.956429+01:00",
+    "raw_valid": true,
+    "song_session_id": "5fc4553a-b946-435d-ba73-d14dbaab8df9"
+  },
+  {
+    "song": "Zhori Vsetko Co Mam",
+    "artists": [
+      "Desmod"
+    ],
+    "isrc": "CZA210600215",
+    "start_time": "2025-11-24 23:46:34",
+    "radio": "expres",
+    "recorded_at": "2025-11-24T23:46:49.801925+01:00",
+    "raw_valid": true,
+    "song_session_id": "376b9cb7-3039-4795-a137-9b63380fcd33"
+  },
+  {
+    "song": "The Sound Of Silence",
+    "artists": [
+      "Disturbed"
+    ],
+    "isrc": "USRE12400063",
+    "start_time": "2025-11-24 23:50:59",
+    "radio": "expres",
+    "recorded_at": "2025-11-24T23:51:20.288294+01:00",
+    "raw_valid": true,
+    "song_session_id": "3fb1467d-c1fe-4e0c-b16b-f45cc8329ccb"
+  },
+  {
+    "song": "This Love",
+    "artists": [
+      "Maroon 5"
+    ],
+    "isrc": "USJAY0300080",
+    "start_time": "2025-11-24 23:54:13",
+    "radio": "expres",
+    "recorded_at": "2025-11-24T23:54:38.430121+01:00",
+    "raw_valid": true,
+    "song_session_id": "d7c44ade-3184-42c0-941f-200f0a6231de"
+  },
+  {
+    "song": "El Mismo Sol",
+    "artists": [
+      "Alvaro Soler"
+    ],
+    "isrc": "DEUM71500508",
+    "start_time": "2025-11-24 23:57:25",
+    "radio": "expres",
+    "recorded_at": "2025-11-24T23:57:47.889721+01:00",
+    "raw_valid": true,
+    "song_session_id": "63f22752-ab0b-4034-90fc-c04c749bccd9"
+  }
+]

@@ -1,0 +1,28 @@
+[
+  {
+    "song": {
+      "play_date": "2025-11-04",
+      "play_time": "21:12",
+      "artist": [
+        "Marcus Miller"
+      ],
+      "title": "Your Amazing Grace"
+    },
+    "recorded_at": "2025-11-04T21:17:11.964847+01:00",
+    "raw_valid": true,
+    "song_session_id": "30eb523d-44f8-4522-8a1c-9f02288bb119"
+  },
+  {
+    "song": {
+      "play_date": "2025-11-04",
+      "play_time": "21:20",
+      "artist": [
+        "Jana Gavačová"
+      ],
+      "title": "Dážď"
+    },
+    "recorded_at": "2025-11-04T21:22:12.653518+01:00",
+    "raw_valid": true,
+    "song_session_id": "68d604c2-73cc-4608-a9d3-bb3a11115ae1"
+  }
+]

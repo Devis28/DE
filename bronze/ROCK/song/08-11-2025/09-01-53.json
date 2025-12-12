@@ -1,0 +1,405 @@
+[
+  {
+    "last_update": "2025-11-08 07:02:38",
+    "song": {
+      "musicAuthor": "Snow Patrol",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048515da2756220da9b6f17924f8f",
+      "musicTitle": "Chasing Cars",
+      "radio": "Rádio ROCK",
+      "startTime": "08:02"
+    },
+    "recorded_at": "2025-11-08T08:02:38.735698+01:00",
+    "raw_valid": true,
+    "song_session_id": "1b904cad-14b9-4716-a88c-d90b20ee7925"
+  },
+  {
+    "last_update": "2025-11-08 07:07:09",
+    "song": {
+      "musicAuthor": "Nirvana",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048510f4a6f69950d2469e896226f",
+      "musicTitle": "About The Girl",
+      "radio": "Rádio ROCK",
+      "startTime": "08:06"
+    },
+    "recorded_at": "2025-11-08T08:07:09.528417+01:00",
+    "raw_valid": true,
+    "song_session_id": "26921e6e-a5a1-4354-b278-5f4eab173be5"
+  },
+  {
+    "last_update": "2025-11-08 07:10:09",
+    "song": {
+      "musicAuthor": "Pink Floyd",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851e56b1ba06c4e0871e5ec5f83",
+      "musicTitle": "Learning To Fly",
+      "radio": "Rádio ROCK",
+      "startTime": "08:09"
+    },
+    "recorded_at": "2025-11-08T08:10:10.115656+01:00",
+    "raw_valid": true,
+    "song_session_id": "f385fd87-f3cc-4622-b7e8-896cd8bfa182"
+  },
+  {
+    "last_update": "2025-11-08 07:14:10",
+    "song": {
+      "musicAuthor": "Creedence Clearwater Revival",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485151f311c2fb06ad2789e3ff91",
+      "musicTitle": "Have You Ever Seen The Rain",
+      "radio": "Rádio ROCK",
+      "startTime": "08:14"
+    },
+    "recorded_at": "2025-11-08T08:14:11.668711+01:00",
+    "raw_valid": true,
+    "song_session_id": "468a7c7c-abbc-4571-a300-ebfbaddb1588"
+  },
+  {
+    "last_update": "2025-11-08 07:17:11",
+    "song": {
+      "musicAuthor": "Adams Bryan",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048518c996a02e385a1a98fa07db1",
+      "musicTitle": "Roll With The Punches",
+      "radio": "Rádio ROCK",
+      "startTime": "08:16"
+    },
+    "recorded_at": "2025-11-08T08:17:11.837376+01:00",
+    "raw_valid": true,
+    "song_session_id": "4795b8db-d2c6-4bb7-a71a-feb38fda8958"
+  },
+  {
+    "last_update": "2025-11-08 07:21:13",
+    "song": {
+      "musicAuthor": "Crazy Town",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851be3d60f650c3b9dbad061f7f",
+      "musicTitle": "Butterfly",
+      "radio": "Rádio ROCK",
+      "startTime": "08:20"
+    },
+    "recorded_at": "2025-11-08T08:21:13.440955+01:00",
+    "raw_valid": true,
+    "song_session_id": "fc864fef-1c02-4bcb-b0e6-13b93831304e"
+  },
+  {
+    "last_update": "2025-11-08 07:24:12",
+    "song": {
+      "musicAuthor": "Iron Maiden",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048515c29a88ba5341ca428f0c322",
+      "musicTitle": "Run To The Hills",
+      "radio": "Rádio ROCK",
+      "startTime": "08:23"
+    },
+    "recorded_at": "2025-11-08T08:24:13.695726+01:00",
+    "raw_valid": true,
+    "song_session_id": "2c23da61-8a62-4c56-a0d6-76eff95e90fb"
+  },
+  {
+    "last_update": "2025-11-08 07:28:14",
+    "song": {
+      "musicAuthor": "Iné Kafe",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485191e61a01eabf26f66f67e261",
+      "musicTitle": "090x",
+      "radio": "Rádio ROCK",
+      "startTime": "08:27"
+    },
+    "recorded_at": "2025-11-08T08:28:14.067892+01:00",
+    "raw_valid": true,
+    "song_session_id": "3ad0f508-1912-46ee-bacc-1c576674bf9a"
+  },
+  {
+    "last_update": "2025-11-08 07:32:15",
+    "song": {
+      "musicAuthor": "Linkin Park",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851987fb4c5ec8790e9f637a4a4",
+      "musicTitle": "Burn It Down",
+      "radio": "Rádio ROCK",
+      "startTime": "08:31"
+    },
+    "recorded_at": "2025-11-08T08:32:15.993993+01:00",
+    "raw_valid": true,
+    "song_session_id": "b9f670ca-256c-434b-b1c4-0dc47ecc1c22"
+  },
+  {
+    "last_update": "2025-11-08 07:36:17",
+    "song": {
+      "musicAuthor": "Queen",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851024b36346101df444742cde2",
+      "musicTitle": "The Show Must Go On",
+      "radio": "Rádio ROCK",
+      "startTime": "08:35"
+    },
+    "recorded_at": "2025-11-08T08:36:18.438601+01:00",
+    "raw_valid": true,
+    "song_session_id": "135fdb3a-df47-4700-8c17-ef2a830293da"
+  },
+  {
+    "last_update": "2025-11-08 07:40:18",
+    "song": {
+      "musicAuthor": "Hex",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851a224357a82f21d6f9f2e584a",
+      "musicTitle": "Nikdy Nebolo Lepšie",
+      "radio": "Rádio ROCK",
+      "startTime": "08:39"
+    },
+    "recorded_at": "2025-11-08T08:40:18.669765+01:00",
+    "raw_valid": true,
+    "song_session_id": "ab51b522-7aa9-4a95-a7fe-9971621f5167"
+  },
+  {
+    "last_update": "2025-11-08 07:44:21",
+    "song": {
+      "musicAuthor": "Europe",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048512d925cec3072ed1b74e5188f",
+      "musicTitle": "Rock The Night",
+      "radio": "Rádio ROCK",
+      "startTime": "08:43"
+    },
+    "recorded_at": "2025-11-08T08:44:21.377438+01:00",
+    "raw_valid": true,
+    "song_session_id": "72fb1966-f301-4e73-bedc-62b4c5206b0b"
+  },
+  {
+    "last_update": "2025-11-08 07:49:21",
+    "song": {
+      "musicAuthor": "Manic Street Preachers",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851326f28b8d0099329cecb01c8",
+      "musicTitle": "You Stole The Sun From My Heart",
+      "radio": "Rádio ROCK",
+      "startTime": "08:48"
+    },
+    "recorded_at": "2025-11-08T08:49:22.191015+01:00",
+    "raw_valid": true,
+    "song_session_id": "03de00f6-abeb-4db7-b552-b995068fec2d"
+  },
+  {
+    "last_update": "2025-11-08 07:53:23",
+    "song": {
+      "musicAuthor": "The Sex Pistols",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851b691fa29c123b5fc4bc5d469",
+      "musicTitle": "God Save The Queen",
+      "radio": "Rádio ROCK",
+      "startTime": "08:52"
+    },
+    "recorded_at": "2025-11-08T08:53:23.628060+01:00",
+    "raw_valid": true,
+    "song_session_id": "c2f48689-97d8-4713-9fae-ed0fb3474072"
+  },
+  {
+    "last_update": "2025-11-08 07:56:23",
+    "song": {
+      "musicAuthor": "Nickelback",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851699a422d25adc550dc5aa11c",
+      "musicTitle": "How You Remind Me",
+      "radio": "Rádio ROCK",
+      "startTime": "08:56"
+    },
+    "recorded_at": "2025-11-08T08:56:23.839270+01:00",
+    "raw_valid": true,
+    "song_session_id": "1f795230-ab89-4839-9e9d-6ed90da1cd79"
+  },
+  {
+    "last_update": "2025-11-08 08:00:24",
+    "song": {
+      "musicAuthor": "Kabát",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048513b275d370a97516893dff21d",
+      "musicTitle": "Moderní Děvče",
+      "radio": "Rádio ROCK",
+      "startTime": "08:59"
+    },
+    "recorded_at": "2025-11-08T09:00:25.325371+01:00",
+    "raw_valid": true,
+    "song_session_id": "ed63618e-64b6-4481-bd3e-7ee4495db4e0"
+  },
+  {
+    "last_update": "2025-11-08 08:02:26",
+    "song": {
+      "musicAuthor": "P.O.D.",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485195741aa186187b05e0653245",
+      "musicTitle": "Youth Of The Nation",
+      "radio": "Rádio ROCK",
+      "startTime": "09:02"
+    },
+    "recorded_at": "2025-11-08T09:02:26.151224+01:00",
+    "raw_valid": true,
+    "song_session_id": "d6490f0e-946e-4005-82e4-5db28ecf865f"
+  },
+  {
+    "last_update": "2025-11-08 08:07:27",
+    "song": {
+      "musicAuthor": "The Scorpions",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851787674b6a114f98cad6f834b",
+      "musicTitle": "Wind Of Change",
+      "radio": "Rádio ROCK",
+      "startTime": "09:06"
+    },
+    "recorded_at": "2025-11-08T09:07:28.095667+01:00",
+    "raw_valid": true,
+    "song_session_id": "b42ae314-9fc4-483e-86d3-9cbdbfc92fd8"
+  },
+  {
+    "last_update": "2025-11-08 08:11:28",
+    "song": {
+      "musicAuthor": "Clapton, Eric",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851d55ec7fcfacd95e73877b787",
+      "musicTitle": "Layla",
+      "radio": "Rádio ROCK",
+      "startTime": "09:10"
+    },
+    "recorded_at": "2025-11-08T09:11:28.395743+01:00",
+    "raw_valid": true,
+    "song_session_id": "f91753c2-3eed-4a8d-a5b5-7d2234750d66"
+  },
+  {
+    "last_update": "2025-11-08 08:18:29",
+    "song": {
+      "musicAuthor": "Arctic Monkeys",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048514ae1c4c5c45aabe565499163",
+      "musicTitle": "R U Mine",
+      "radio": "Rádio ROCK",
+      "startTime": "09:17"
+    },
+    "recorded_at": "2025-11-08T09:18:30.036971+01:00",
+    "raw_valid": true,
+    "song_session_id": "c1a3a463-bf43-43c9-9376-f84784cf2b36"
+  },
+  {
+    "last_update": "2025-11-08 08:21:29",
+    "song": {
+      "musicAuthor": "Aerosmith",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048515a1317139c5482acf2b51f6f",
+      "musicTitle": "Jaded",
+      "radio": "Rádio ROCK",
+      "startTime": "09:20"
+    },
+    "recorded_at": "2025-11-08T09:21:30.311057+01:00",
+    "raw_valid": true,
+    "song_session_id": "30a114b9-fc4b-45e1-8a0c-f2dc110d5c8a"
+  },
+  {
+    "last_update": "2025-11-08 08:24:29",
+    "song": {
+      "musicAuthor": "Avril Lavigne & Simple Plan",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851dcb4445d2acfe556bb3269f7",
+      "musicTitle": "Young And Dumb",
+      "radio": "Rádio ROCK",
+      "startTime": "09:24"
+    },
+    "recorded_at": "2025-11-08T09:24:30.698338+01:00",
+    "raw_valid": true,
+    "song_session_id": "269735f0-9a6c-41aa-8523-425fc5e9a845"
+  },
+  {
+    "last_update": "2025-11-08 08:27:32",
+    "song": {
+      "musicAuthor": "Lucie",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048517afcc43e2db56da4728d2a52",
+      "musicTitle": "Dotknu Se Ohně",
+      "radio": "Rádio ROCK",
+      "startTime": "09:27"
+    },
+    "recorded_at": "2025-11-08T09:27:32.746927+01:00",
+    "raw_valid": true,
+    "song_session_id": "92e7ef55-ff69-4bac-a396-9501778e0eb9"
+  },
+  {
+    "last_update": "2025-11-08 08:32:33",
+    "song": {
+      "musicAuthor": "The New Radicals",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485117c105f1291ccc0d26a37b37",
+      "musicTitle": "You Get What You Give",
+      "radio": "Rádio ROCK",
+      "startTime": "09:32"
+    },
+    "recorded_at": "2025-11-08T09:32:33.195325+01:00",
+    "raw_valid": true,
+    "song_session_id": "d6b57252-4b45-4520-bfb9-13c8f3fd4533"
+  },
+  {
+    "last_update": "2025-11-08 08:37:34",
+    "song": {
+      "musicAuthor": "Imagine Dragons",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048515675e83f707f1d7271e5cf8a",
+      "musicTitle": "Believer",
+      "radio": "Rádio ROCK",
+      "startTime": "09:36"
+    },
+    "recorded_at": "2025-11-08T09:37:34.404411+01:00",
+    "raw_valid": true,
+    "song_session_id": "bfb85196-8bb4-4003-a428-912c493bbe30"
+  },
+  {
+    "last_update": "2025-11-08 08:41:34",
+    "song": {
+      "musicAuthor": "R.E.M.",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851e2dd4e821bcc3f70dc0c8ffd",
+      "musicTitle": "Shiny Happy People",
+      "radio": "Rádio ROCK",
+      "startTime": "09:40"
+    },
+    "recorded_at": "2025-11-08T09:41:34.864909+01:00",
+    "raw_valid": true,
+    "song_session_id": "4040e12e-2d8f-4760-93ba-21640a14ec61"
+  },
+  {
+    "last_update": "2025-11-08 08:44:34",
+    "song": {
+      "musicAuthor": "The Offspring",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048510158cbde70672dd821972907",
+      "musicTitle": "Come Out And Play",
+      "radio": "Rádio ROCK",
+      "startTime": "09:44"
+    },
+    "recorded_at": "2025-11-08T09:44:35.533046+01:00",
+    "raw_valid": true,
+    "song_session_id": "eae119ac-a36d-42b3-bffa-e841f46533b8"
+  },
+  {
+    "last_update": "2025-11-08 08:48:35",
+    "song": {
+      "musicAuthor": "Dire Straits",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048513d15b942408bff9f507f189e",
+      "musicTitle": "Money For Nothing",
+      "radio": "Rádio ROCK",
+      "startTime": "09:47"
+    },
+    "recorded_at": "2025-11-08T09:48:35.758339+01:00",
+    "raw_valid": true,
+    "song_session_id": "d2d7d4f7-497a-4a59-9320-e4b65d14f581"
+  },
+  {
+    "last_update": "2025-11-08 08:51:35",
+    "song": {
+      "musicAuthor": "Republica",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048513d577eba3860affba2f2d334",
+      "musicTitle": "Ready To Go",
+      "radio": "Rádio ROCK",
+      "startTime": "09:50"
+    },
+    "recorded_at": "2025-11-08T09:51:36.179174+01:00",
+    "raw_valid": true,
+    "song_session_id": "41622410-1656-468b-8c80-0341f0d4a8e9"
+  },
+  {
+    "last_update": "2025-11-08 08:56:07",
+    "song": {
+      "musicAuthor": "System Of A Down",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851f5e7b2e5adaa87430a3eccff",
+      "musicTitle": "Hypnotize",
+      "radio": "Rádio ROCK",
+      "startTime": "09:55"
+    },
+    "recorded_at": "2025-11-08T09:56:08.525094+01:00",
+    "raw_valid": true,
+    "song_session_id": "615ad793-f42a-41c8-be38-bd5b9dcf326b"
+  },
+  {
+    "last_update": "2025-11-08 08:59:09",
+    "song": {
+      "musicAuthor": "Tublatanka",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485170fd71ebc67a568023a387cb",
+      "musicTitle": "Šlabikár",
+      "radio": "Rádio ROCK",
+      "startTime": "09:59"
+    },
+    "recorded_at": "2025-11-08T09:59:09.956681+01:00",
+    "raw_valid": true,
+    "song_session_id": "b97c13ec-8979-4ffa-a3d2-cb47ddd878d2"
+  }
+]

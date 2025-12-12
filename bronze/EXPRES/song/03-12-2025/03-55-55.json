@@ -1,0 +1,428 @@
+[
+  {
+    "song": "Linda",
+    "artists": [
+      "Para"
+    ],
+    "isrc": "TCACS1685920",
+    "start_time": "2025-12-03 02:58:45",
+    "radio": "expres",
+    "recorded_at": "2025-12-03T02:58:55.563823+01:00",
+    "raw_valid": true,
+    "song_session_id": "cce9a974-072b-4106-bb55-dd651c001560"
+  },
+  {
+    "song": "Flowers",
+    "artists": [
+      "Miley Cyrus"
+    ],
+    "isrc": "USSM12209777",
+    "start_time": "2025-12-03 03:01:57",
+    "radio": "expres",
+    "recorded_at": "2025-12-03T03:02:18.477144+01:00",
+    "raw_valid": true,
+    "song_session_id": "552e5eca-d2d9-4043-a239-a7f8eca7d44f"
+  },
+  {
+    "song": "Otec",
+    "artists": [
+      "Korben Dallas"
+    ],
+    "isrc": "SKE011305113",
+    "start_time": "2025-12-03 03:05:05",
+    "radio": "expres",
+    "recorded_at": "2025-12-03T03:05:26.147019+01:00",
+    "raw_valid": true,
+    "song_session_id": "3cf88503-9d6c-4573-ac76-caad0d70ee10"
+  },
+  {
+    "song": "Undressed",
+    "artists": [
+      "Sombr"
+    ],
+    "isrc": "USWB12500737",
+    "start_time": "2025-12-03 03:08:50",
+    "radio": "expres",
+    "recorded_at": "2025-12-03T03:09:09.249425+01:00",
+    "raw_valid": true,
+    "song_session_id": "3532fb26-3783-4d5c-8c25-f31a072b8bad"
+  },
+  {
+    "song": "Anjel",
+    "artists": [
+      "Desmod"
+    ],
+    "isrc": "SKE491500202",
+    "start_time": "2025-12-03 03:11:52",
+    "radio": "expres",
+    "recorded_at": "2025-12-03T03:12:07.063410+01:00",
+    "raw_valid": true,
+    "song_session_id": "9ed04921-eb6e-4856-8eca-64c76cd4c343"
+  },
+  {
+    "song": "Where Is The Love?",
+    "artists": [
+      "Black Eyed Peas",
+      "Justin Timberlake"
+    ],
+    "isrc": "USIR10311862",
+    "start_time": "2025-12-03 03:14:50",
+    "radio": "expres",
+    "recorded_at": "2025-12-03T03:15:09.852834+01:00",
+    "raw_valid": true,
+    "song_session_id": "386eea5a-cf4c-4e60-80ee-bec608f9046a"
+  },
+  {
+    "song": "Tancuj Mi",
+    "artists": [
+      "Lukas Adamec"
+    ],
+    "isrc": "SKI601900001",
+    "start_time": "2025-12-03 03:18:40",
+    "radio": "expres",
+    "recorded_at": "2025-12-03T03:18:58.130360+01:00",
+    "raw_valid": true,
+    "song_session_id": "5bd7ec86-f498-4c32-a665-b899417333c6"
+  },
+  {
+    "song": "Love Me Not",
+    "artists": [
+      "Ravyn Lenae"
+    ],
+    "isrc": "USAT22401137",
+    "start_time": "2025-12-03 03:21:16",
+    "radio": "expres",
+    "recorded_at": "2025-12-03T03:21:40.640211+01:00",
+    "raw_valid": true,
+    "song_session_id": "c411b49c-13b1-44cd-8e38-7474d224b896"
+  },
+  {
+    "song": "Den Medzi Nedelou A Pondelkom",
+    "artists": [
+      "Peha"
+    ],
+    "isrc": "CZA110500019",
+    "start_time": "2025-12-03 03:24:33",
+    "radio": "expres",
+    "recorded_at": "2025-12-03T03:25:03.540258+01:00",
+    "raw_valid": true,
+    "song_session_id": "f6791331-135e-4cef-a797-f8bbd93f8c7b"
+  },
+  {
+    "song": "Stumblin In",
+    "artists": [
+      "Cyril"
+    ],
+    "isrc": "NLZ542301810",
+    "start_time": "2025-12-03 03:27:54",
+    "radio": "expres",
+    "recorded_at": "2025-12-03T03:28:01.152563+01:00",
+    "raw_valid": true,
+    "song_session_id": "b260b63d-66bc-40da-b01a-489958afc288"
+  },
+  {
+    "song": "Srdce Nehasnou",
+    "artists": [
+      "Karel Gott",
+      "Charlotte Ella Gottova"
+    ],
+    "isrc": "CZA161900335",
+    "start_time": "2025-12-03 03:31:14",
+    "radio": "expres",
+    "recorded_at": "2025-12-03T03:31:29.241537+01:00",
+    "raw_valid": true,
+    "song_session_id": "7566e0f0-f4c1-4bda-80e6-2e87e7b536ab"
+  },
+  {
+    "song": "Pride",
+    "artists": [
+      "Felix Jaehn",
+      "Jhart"
+    ],
+    "isrc": "DEUM72503423",
+    "start_time": "2025-12-03 03:35:03",
+    "radio": "expres",
+    "recorded_at": "2025-12-03T03:35:32.571501+01:00",
+    "raw_valid": true,
+    "song_session_id": "9a441d53-da43-4be0-8d2f-0abd3fa28b02"
+  },
+  {
+    "song": "Uprimnu Sustrast",
+    "artists": [
+      "Imt Smile"
+    ],
+    "isrc": "SKA010011202",
+    "start_time": "2025-12-03 03:37:51",
+    "radio": "expres",
+    "recorded_at": "2025-12-03T03:38:15.123182+01:00",
+    "raw_valid": true,
+    "song_session_id": "ac3a72f7-a87d-410e-b884-3c1d20df1f09"
+  },
+  {
+    "song": "Heaven Is A Place On Earth",
+    "artists": [
+      "Belinda Carlisle"
+    ],
+    "isrc": "GBBLG8700257",
+    "start_time": "2025-12-03 03:41:13",
+    "radio": "expres",
+    "recorded_at": "2025-12-03T03:41:32.954145+01:00",
+    "raw_valid": true,
+    "song_session_id": "7d08e792-8288-4e79-bd3b-fa0a85116991"
+  },
+  {
+    "song": "Pravdupovediac",
+    "artists": [
+      "Adam Durica"
+    ],
+    "isrc": "SKA012000103",
+    "start_time": "2025-12-03 03:45:20",
+    "radio": "expres",
+    "recorded_at": "2025-12-03T03:45:41.471580+01:00",
+    "raw_valid": true,
+    "song_session_id": "31ca67a5-ed32-4c42-9559-ecad82d1aff9"
+  },
+  {
+    "song": "Eternity",
+    "artists": [
+      "Alex Warren"
+    ],
+    "isrc": "USAT22503779",
+    "start_time": "2025-12-03 03:48:51",
+    "radio": "expres",
+    "recorded_at": "2025-12-03T03:49:04.536858+01:00",
+    "raw_valid": true,
+    "song_session_id": "79df526c-a4db-4edc-b8a9-ae2fa53c0c61"
+  },
+  {
+    "song": "Stuzkova",
+    "artists": [
+      "Elan"
+    ],
+    "isrc": "SKA128562209",
+    "start_time": "2025-12-03 03:52:26",
+    "radio": "expres",
+    "recorded_at": "2025-12-03T03:52:42.639901+01:00",
+    "raw_valid": true,
+    "song_session_id": "a4d3f250-ca27-404d-a2f8-018fccc82c9d"
+  },
+  {
+    "song": "Apologize",
+    "artists": [
+      "Timbaland",
+      "Onerepublic"
+    ],
+    "isrc": "USUM70722793",
+    "start_time": "2025-12-03 03:55:19",
+    "radio": "expres",
+    "recorded_at": "2025-12-03T03:55:30.058976+01:00",
+    "raw_valid": true,
+    "song_session_id": "589947a8-9023-4569-8a90-08b59776ea7b"
+  },
+  {
+    "song": "Crushin My Fairytale",
+    "artists": [
+      "Celeste Buckingham"
+    ],
+    "isrc": "QMQNX1300004",
+    "start_time": "2025-12-03 03:58:26",
+    "radio": "expres",
+    "recorded_at": "2025-12-03T03:58:53.017085+01:00",
+    "raw_valid": true,
+    "song_session_id": "345c79d0-35ec-4ff7-8e55-4420166d2b36"
+  },
+  {
+    "song": "The Fate Of Ophelia",
+    "artists": [
+      "Taylor Swift"
+    ],
+    "isrc": "USUG12506436",
+    "start_time": "2025-12-03 04:02:18",
+    "radio": "expres",
+    "recorded_at": "2025-12-03T04:02:36.209275+01:00",
+    "raw_valid": true,
+    "song_session_id": "2c355a82-b0c0-4578-a373-ae0cac64ea65"
+  },
+  {
+    "song": "Balada O Polnych Vtakoch 2006",
+    "artists": [
+      "Meky Revival"
+    ],
+    "isrc": null,
+    "start_time": "2025-12-03 04:06:11",
+    "radio": "expres",
+    "recorded_at": "2025-12-03T04:06:34.844729+01:00",
+    "raw_valid": true,
+    "song_session_id": "dbaa5374-e598-44db-9d33-fc9bda8e6887"
+  },
+  {
+    "song": "Beautiful Things",
+    "artists": [
+      "Benson Boone"
+    ],
+    "isrc": "USWB12307016",
+    "start_time": "2025-12-03 04:09:48",
+    "radio": "expres",
+    "recorded_at": "2025-12-03T04:10:02.824541+01:00",
+    "raw_valid": true,
+    "song_session_id": "3655850c-dcdb-4607-b771-ef85c3fe9386"
+  },
+  {
+    "song": "Zijeme Len Raz",
+    "artists": [
+      "Ego",
+      "Robert Burian"
+    ],
+    "isrc": "CZA231204265",
+    "start_time": "2025-12-03 04:12:53",
+    "radio": "expres",
+    "recorded_at": "2025-12-03T04:13:00.636278+01:00",
+    "raw_valid": true,
+    "song_session_id": "77691cd7-edfe-4edb-994b-14926d24731b"
+  },
+  {
+    "song": "Every Breath You Take",
+    "artists": [
+      "Police"
+    ],
+    "isrc": "GBAAM0201110",
+    "start_time": "2025-12-03 04:16:23",
+    "radio": "expres",
+    "recorded_at": "2025-12-03T04:16:43.807115+01:00",
+    "raw_valid": true,
+    "song_session_id": "1cdd7590-21f4-44ed-b036-561ae871384d"
+  },
+  {
+    "song": "Vsetko Bude Dobre",
+    "artists": [
+      "Gladiator"
+    ],
+    "isrc": "SKCM72560001",
+    "start_time": "2025-12-03 04:20:08",
+    "radio": "expres",
+    "recorded_at": "2025-12-03T04:20:32.022523+01:00",
+    "raw_valid": true,
+    "song_session_id": "a40156b9-25eb-44ff-b774-68d6f8745277"
+  },
+  {
+    "song": "Too Sweet",
+    "artists": [
+      "Hozier"
+    ],
+    "isrc": "IEACJ2300335",
+    "start_time": "2025-12-03 04:23:05",
+    "radio": "expres",
+    "recorded_at": "2025-12-03T04:23:29.540382+01:00",
+    "raw_valid": true,
+    "song_session_id": "4f65eaf3-829e-4bdc-a3b6-05c91acfee9f"
+  },
+  {
+    "song": "Dokola",
+    "artists": [
+      "Alan Murin"
+    ],
+    "isrc": "QZZ662451350",
+    "start_time": "2025-12-03 04:26:08",
+    "radio": "expres",
+    "recorded_at": "2025-12-03T04:26:32.264906+01:00",
+    "raw_valid": true,
+    "song_session_id": "1213ca28-e73e-4aa6-81ca-93c6c82986c6"
+  },
+  {
+    "song": "Do They Know Its Christmas?",
+    "artists": [
+      "Band Aid"
+    ],
+    "isrc": "GBF088400001",
+    "start_time": "2025-12-03 04:28:42",
+    "radio": "expres",
+    "recorded_at": "2025-12-03T04:28:59.494726+01:00",
+    "raw_valid": true,
+    "song_session_id": "d97bcb24-3fa1-4422-a41f-47b5c61fe29c"
+  },
+  {
+    "song": "Regalo",
+    "artists": [
+      "Alvaro Soler"
+    ],
+    "isrc": "DEE862500388",
+    "start_time": "2025-12-03 04:33:14",
+    "radio": "expres",
+    "recorded_at": "2025-12-03T04:33:33.438926+01:00",
+    "raw_valid": true,
+    "song_session_id": "6dc1f262-0462-4ea2-973e-ffc04167fbd1"
+  },
+  {
+    "song": "Biely Kvet",
+    "artists": [
+      "Miro Zbirka"
+    ],
+    "isrc": "SKA128225801",
+    "start_time": "2025-12-03 04:36:21",
+    "radio": "expres",
+    "recorded_at": "2025-12-03T04:36:36.287829+01:00",
+    "raw_valid": true,
+    "song_session_id": "d166678c-dbe0-4c03-a9a2-75f4d2eeb21c"
+  },
+  {
+    "song": "Locked Out Of Heaven",
+    "artists": [
+      "Bruno Mars"
+    ],
+    "isrc": "USAT21203287",
+    "start_time": "2025-12-03 04:39:38",
+    "radio": "expres",
+    "recorded_at": "2025-12-03T04:39:59.450723+01:00",
+    "raw_valid": true,
+    "song_session_id": "d0ec5349-2c33-45e6-9608-5ee46c7fba2c"
+  },
+  {
+    "song": "Lietam V Tom Tiez",
+    "artists": [
+      "Team"
+    ],
+    "isrc": "SKA128917006",
+    "start_time": "2025-12-03 04:43:34",
+    "radio": "expres",
+    "recorded_at": "2025-12-03T04:43:42.635025+01:00",
+    "raw_valid": true,
+    "song_session_id": "1baee06f-6b93-4209-8a37-3df9631f44c6"
+  },
+  {
+    "song": "Blink Twice",
+    "artists": [
+      "Shaboozey",
+      "Myles Smith"
+    ],
+    "isrc": "USUYG1717098",
+    "start_time": "2025-12-03 04:47:29",
+    "radio": "expres",
+    "recorded_at": "2025-12-03T04:47:45.998153+01:00",
+    "raw_valid": true,
+    "song_session_id": "c11329d5-48ec-4abd-ba55-2f8bb36156fd"
+  },
+  {
+    "song": "V Nas",
+    "artists": [
+      "Nocaden"
+    ],
+    "isrc": "CZA231500032",
+    "start_time": "2025-12-03 04:50:04",
+    "radio": "expres",
+    "recorded_at": "2025-12-03T04:50:28.421361+01:00",
+    "raw_valid": true,
+    "song_session_id": "75440cf6-fc87-4cf2-a87f-d6fb1ef6eb52"
+  },
+  {
+    "song": "Freed From Desire",
+    "artists": [
+      "Gala"
+    ],
+    "isrc": "ITA179700143",
+    "start_time": "2025-12-03 04:53:52",
+    "radio": "expres",
+    "recorded_at": "2025-12-03T04:54:11.531986+01:00",
+    "raw_valid": true,
+    "song_session_id": "9dedb6de-6ea4-4880-9aa2-3690e46daaf3"
+  }
+]

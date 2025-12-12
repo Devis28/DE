@@ -1,0 +1,418 @@
+[
+  {
+    "song": "Cardas Dvoch Srdc",
+    "artists": [
+      "Karol Duchon"
+    ],
+    "isrc": "SKA127650807",
+    "start_time": "2025-11-15 02:05:43",
+    "radio": "expres",
+    "recorded_at": "2025-11-15T02:06:08.070375+01:00",
+    "raw_valid": true,
+    "song_session_id": "39721ba9-045d-44bf-a9a2-716500d34536"
+  },
+  {
+    "song": "Regalo",
+    "artists": [
+      "Alvaro Soler"
+    ],
+    "isrc": "DEE862500388",
+    "start_time": "2025-11-15 02:09:15",
+    "radio": "expres",
+    "recorded_at": "2025-11-15T02:09:42.210989+01:00",
+    "raw_valid": true,
+    "song_session_id": "8a6c6312-1e8d-4ed5-bb0f-800631f24eb3"
+  },
+  {
+    "song": "Chlap Z Kriza",
+    "artists": [
+      "Szidi Tobias"
+    ],
+    "isrc": "FRX201717075",
+    "start_time": "2025-11-15 02:12:32",
+    "radio": "expres",
+    "recorded_at": "2025-11-15T02:13:02.227609+01:00",
+    "raw_valid": true,
+    "song_session_id": "deff5dbe-1862-4ab5-84b5-f10643599c52"
+  },
+  {
+    "song": "Reality",
+    "artists": [
+      "Lost Frequencies",
+      "Janieck Devy"
+    ],
+    "isrc": "NLF711506121",
+    "start_time": "2025-11-15 02:16:24",
+    "radio": "expres",
+    "recorded_at": "2025-11-15T02:16:46.204629+01:00",
+    "raw_valid": true,
+    "song_session_id": "c333e0c5-146e-45ee-a7e0-142dba8622ac"
+  },
+  {
+    "song": "Naveky",
+    "artists": [
+      "Katarina Knechtova"
+    ],
+    "isrc": "QZMER2590765",
+    "start_time": "2025-11-15 02:19:13",
+    "radio": "expres",
+    "recorded_at": "2025-11-15T02:19:50.235865+01:00",
+    "raw_valid": true,
+    "song_session_id": "531bf444-46a6-4a47-8915-bac964de3060"
+  },
+  {
+    "song": "Save My Love",
+    "artists": [
+      "Marshmello",
+      "Ellie Goulding",
+      "Avaion"
+    ],
+    "isrc": "USUG12504310",
+    "start_time": "2025-11-15 02:22:43",
+    "radio": "expres",
+    "recorded_at": "2025-11-15T02:23:13.395098+01:00",
+    "raw_valid": true,
+    "song_session_id": "fb0f8f60-00a8-4e9f-82a7-75425537054c"
+  },
+  {
+    "song": "Chybanie",
+    "artists": [
+      "Desmod"
+    ],
+    "isrc": "SKE491600203",
+    "start_time": "2025-11-15 02:26:26",
+    "radio": "expres",
+    "recorded_at": "2025-11-15T02:27:02.317593+01:00",
+    "raw_valid": true,
+    "song_session_id": "abe0652a-bf8f-4cac-a102-03f0051fd31a"
+  },
+  {
+    "song": "By Your Side (In My Mind)",
+    "artists": [
+      "Leony"
+    ],
+    "isrc": "DEN062400804",
+    "start_time": "2025-11-15 02:29:57",
+    "radio": "expres",
+    "recorded_at": "2025-11-15T02:30:25.465036+01:00",
+    "raw_valid": true,
+    "song_session_id": "b69ce0e1-fa9a-4e9a-8423-eaf3b98bdad5"
+  },
+  {
+    "song": "Mystical Magical",
+    "artists": [
+      "Benson Boone"
+    ],
+    "isrc": "USWB12500844",
+    "start_time": "2025-11-15 02:33:34",
+    "radio": "expres",
+    "recorded_at": "2025-11-15T02:34:22.425029+01:00",
+    "raw_valid": true,
+    "song_session_id": "36557cd2-f234-40a4-bd7e-09fe4ff5fb87"
+  },
+  {
+    "song": "Ako Vanok",
+    "artists": [
+      "Richard Muller"
+    ],
+    "isrc": "SKA010109106",
+    "start_time": "2025-11-15 02:36:24",
+    "radio": "expres",
+    "recorded_at": "2025-11-15T02:37:05.320887+01:00",
+    "raw_valid": true,
+    "song_session_id": "f31debbe-5f7f-4f99-8cab-25fd4c82f46a"
+  },
+  {
+    "song": "Careless Whisper",
+    "artists": [
+      "George Michael"
+    ],
+    "isrc": "GBARL0601610",
+    "start_time": "2025-11-15 02:39:05",
+    "radio": "expres",
+    "recorded_at": "2025-11-15T02:39:45.635136+01:00",
+    "raw_valid": true,
+    "song_session_id": "b0517076-d163-4c09-85dd-83a2f6eef741"
+  },
+  {
+    "song": "Len Tebe",
+    "artists": [
+      "Ivan Tasler"
+    ],
+    "isrc": "SKA010202105",
+    "start_time": "2025-11-15 02:44:06",
+    "radio": "expres",
+    "recorded_at": "2025-11-15T02:44:30.574254+01:00",
+    "raw_valid": true,
+    "song_session_id": "7366c5fa-ed77-4ba6-b9ee-4b333db087fe"
+  },
+  {
+    "song": "Eternity",
+    "artists": [
+      "Alex Warren"
+    ],
+    "isrc": "USAT22503779",
+    "start_time": "2025-11-15 02:47:54",
+    "radio": "expres",
+    "recorded_at": "2025-11-15T02:48:34.081971+01:00",
+    "raw_valid": true,
+    "song_session_id": "80953aa8-eb7c-409e-9a41-94902d04d5d6"
+  },
+  {
+    "song": "Tak Si So Mnou Opakuj",
+    "artists": [
+      "Marika Gombitova"
+    ],
+    "isrc": "SKA128791511",
+    "start_time": "2025-11-15 02:51:29",
+    "radio": "expres",
+    "recorded_at": "2025-11-15T02:51:57.318918+01:00",
+    "raw_valid": true,
+    "song_session_id": "1a90a6f2-0c2b-4f29-8854-a6a24f9b1fd7"
+  },
+  {
+    "song": "Bad Liar",
+    "artists": [
+      "Imagine Dragons"
+    ],
+    "isrc": "USUM71816161",
+    "start_time": "2025-11-15 02:54:48",
+    "radio": "expres",
+    "recorded_at": "2025-11-15T02:55:30.137094+01:00",
+    "raw_valid": true,
+    "song_session_id": "463d697b-56d6-4435-9efc-2b19fcc573ca"
+  },
+  {
+    "song": "Ak Nahodou",
+    "artists": [
+      "Darina Rolincova"
+    ],
+    "isrc": "CZA168700010",
+    "start_time": "2025-11-15 02:58:26",
+    "radio": "expres",
+    "recorded_at": "2025-11-15T02:58:53.160380+01:00",
+    "raw_valid": true,
+    "song_session_id": "da8ed243-0acc-44eb-811f-21eb0aab6d03"
+  },
+  {
+    "song": "Undressed",
+    "artists": [
+      "Sombr"
+    ],
+    "isrc": "USWB12500737",
+    "start_time": "2025-11-15 03:00:59",
+    "radio": "expres",
+    "recorded_at": "2025-11-15T03:01:35.857402+01:00",
+    "raw_valid": true,
+    "song_session_id": "b9e20455-a34c-4e64-b3ea-8e80ef7be6b9"
+  },
+  {
+    "song": "Denisa",
+    "artists": [
+      "Miro Zbirka"
+    ],
+    "isrc": "SKA120208205",
+    "start_time": "2025-11-15 03:04:15",
+    "radio": "expres",
+    "recorded_at": "2025-11-15T03:04:50.163755+01:00",
+    "raw_valid": true,
+    "song_session_id": "eced9e00-e87d-4156-9152-bf186d90fb2f"
+  },
+  {
+    "song": "Beautiful People",
+    "artists": [
+      "David Guetta",
+      "Sia"
+    ],
+    "isrc": "UKWLG2500016",
+    "start_time": "2025-11-15 03:07:01",
+    "radio": "expres",
+    "recorded_at": "2025-11-15T03:07:31.046277+01:00",
+    "raw_valid": true,
+    "song_session_id": "e63db191-ea02-4445-bb79-e6442340bf56"
+  },
+  {
+    "song": "Hory Medzi Nami",
+    "artists": [
+      "Billy Barman"
+    ],
+    "isrc": "SKE012415106",
+    "start_time": "2025-11-15 03:10:05",
+    "radio": "expres",
+    "recorded_at": "2025-11-15T03:10:38.117210+01:00",
+    "raw_valid": true,
+    "song_session_id": "cf1b0f91-e638-42e2-858e-d0d281fb4d69"
+  },
+  {
+    "song": "Every Breath You Take",
+    "artists": [
+      "Police"
+    ],
+    "isrc": "GBAAM0201110",
+    "start_time": "2025-11-15 03:13:01",
+    "radio": "expres",
+    "recorded_at": "2025-11-15T03:13:48.950199+01:00",
+    "raw_valid": true,
+    "song_session_id": "1bbdaa9e-a48f-4dc2-b465-62ab13a9b65c"
+  },
+  {
+    "song": "Mam Kym Nemam",
+    "artists": [
+      "Elan"
+    ],
+    "isrc": "SKA128343906",
+    "start_time": "2025-11-15 03:16:46",
+    "radio": "expres",
+    "recorded_at": "2025-11-15T03:17:09.012401+01:00",
+    "raw_valid": true,
+    "song_session_id": "868ba7f8-09b1-4a59-a904-8ab9578b8c6e"
+  },
+  {
+    "song": "Talk To Me",
+    "artists": [
+      "Damiano David",
+      "Tyla",
+      "Nile Rodgers"
+    ],
+    "isrc": "ITB002500942",
+    "start_time": "2025-11-15 03:19:27",
+    "radio": "expres",
+    "recorded_at": "2025-11-15T03:19:51.953189+01:00",
+    "raw_valid": true,
+    "song_session_id": "3254e541-6f3e-4aeb-b0c1-9b6ce4e84812"
+  },
+  {
+    "song": "Pre Vas Hram",
+    "artists": [
+      "Kali",
+      "Karol Duchon",
+      "Peter Pann"
+    ],
+    "isrc": "CZA232500151",
+    "start_time": "2025-11-15 03:23:09",
+    "radio": "expres",
+    "recorded_at": "2025-11-15T03:23:35.158487+01:00",
+    "raw_valid": true,
+    "song_session_id": "e3bc61c8-6b2c-40d2-ac53-8303c33d7d35"
+  },
+  {
+    "song": "To The Moon And Back",
+    "artists": [
+      "Savage Garden"
+    ],
+    "isrc": "AURQ09700001",
+    "start_time": "2025-11-15 03:25:47",
+    "radio": "expres",
+    "recorded_at": "2025-11-15T03:26:34.135708+01:00",
+    "raw_valid": true,
+    "song_session_id": "9d311946-7700-452c-a1a4-713a73ab3f3f"
+  },
+  {
+    "song": "Afterlife",
+    "artists": [
+      "Michael Schulte"
+    ],
+    "isrc": "DECE72500509",
+    "start_time": "2025-11-15 03:30:56",
+    "radio": "expres",
+    "recorded_at": "2025-11-15T03:31:33.766297+01:00",
+    "raw_valid": true,
+    "song_session_id": "cded0f5e-97e5-4abc-83c8-0ba2c973fc6b"
+  },
+  {
+    "song": "Coskoro",
+    "artists": [
+      "Peter Bic Project"
+    ],
+    "isrc": "SKA011900105",
+    "start_time": "2025-11-15 03:33:38",
+    "radio": "expres",
+    "recorded_at": "2025-11-15T03:34:13.539752+01:00",
+    "raw_valid": true,
+    "song_session_id": "e30f54a6-66c3-4b81-975e-f34893068d1b"
+  },
+  {
+    "song": "A Sky Full Of Stars",
+    "artists": [
+      "Coldplay"
+    ],
+    "isrc": "GBAYE1400217",
+    "start_time": "2025-11-15 03:37:04",
+    "radio": "expres",
+    "recorded_at": "2025-11-15T03:37:36.655433+01:00",
+    "raw_valid": true,
+    "song_session_id": "30fbe6d0-4dc5-4393-8be0-9c832351e764"
+  },
+  {
+    "song": "Co S Tym",
+    "artists": [
+      "Team"
+    ],
+    "isrc": "FRX201742867",
+    "start_time": "2025-11-15 03:41:13",
+    "radio": "expres",
+    "recorded_at": "2025-11-15T03:41:52.431225+01:00",
+    "raw_valid": true,
+    "song_session_id": "89c3ab89-32ee-403a-a1d5-b28483f6ddba"
+  },
+  {
+    "song": "Golden",
+    "artists": [
+      "Kpop Demon Hunters"
+    ],
+    "isrc": "QZ8BZ2513510",
+    "start_time": "2025-11-15 03:46:03",
+    "radio": "expres",
+    "recorded_at": "2025-11-15T03:46:26.560247+01:00",
+    "raw_valid": true,
+    "song_session_id": "e12e4fd0-0c3c-4dd2-ab6d-466d1694f84e"
+  },
+  {
+    "song": "Pridaj Sa K Nam (Ked Sme S Vami)",
+    "artists": [
+      "Hex"
+    ],
+    "isrc": "SKC751900101",
+    "start_time": "2025-11-15 03:48:56",
+    "radio": "expres",
+    "recorded_at": "2025-11-15T03:49:34.262510+01:00",
+    "raw_valid": true,
+    "song_session_id": "7c7730fb-27c1-4e7b-95cc-8865f4a8058b"
+  },
+  {
+    "song": "Bitter Sweet Symphony",
+    "artists": [
+      "Verve"
+    ],
+    "isrc": "GBUM71601816",
+    "start_time": "2025-11-15 03:52:31",
+    "radio": "expres",
+    "recorded_at": "2025-11-15T03:52:59.660786+01:00",
+    "raw_valid": true,
+    "song_session_id": "24d075b2-0673-4aed-b2eb-677bba226b44"
+  },
+  {
+    "song": "Hladam",
+    "artists": [
+      "No Name"
+    ],
+    "isrc": "SKA010305338",
+    "start_time": "2025-11-15 03:57:27",
+    "radio": "expres",
+    "recorded_at": "2025-11-15T03:58:04.032102+01:00",
+    "raw_valid": true,
+    "song_session_id": "9720fc6c-f57e-43e1-87ea-f2c458210dfc"
+  },
+  {
+    "song": "Trustfall",
+    "artists": [
+      "Pink"
+    ],
+    "isrc": "USRC12204190",
+    "start_time": "2025-11-15 04:00:50",
+    "radio": "expres",
+    "recorded_at": "2025-11-15T04:01:22.051585+01:00",
+    "raw_valid": true,
+    "song_session_id": "cd902217-4690-4bff-a11b-f9993afabaac"
+  }
+]

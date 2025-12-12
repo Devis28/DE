@@ -1,0 +1,340 @@
+[
+  {
+    "last_update": "2025-11-25 05:06:34",
+    "song": {
+      "musicAuthor": "Evanescence",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485125f49ab23f0ec6332efef432",
+      "musicTitle": "My Immortal",
+      "radio": "Rádio ROCK",
+      "startTime": "06:05"
+    },
+    "recorded_at": "2025-11-25T06:06:34.523232+01:00",
+    "raw_valid": true,
+    "song_session_id": "53499d34-65fe-48ae-8bbf-5ffa73d6c661"
+  },
+  {
+    "last_update": "2025-11-25 05:10:35",
+    "song": {
+      "musicAuthor": "Journey",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851c5653f9038e42efad2f8a266",
+      "musicTitle": "Don't Stop Believin'",
+      "radio": "Rádio ROCK",
+      "startTime": "06:09"
+    },
+    "recorded_at": "2025-11-25T06:10:35.359590+01:00",
+    "raw_valid": true,
+    "song_session_id": "071b80b2-0a19-4695-90f9-0997c29ee497"
+  },
+  {
+    "last_update": "2025-11-25 05:14:35",
+    "song": {
+      "musicAuthor": "The Lemonheads",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485192b65c451cdaa683e214ebb1",
+      "musicTitle": "Mrs. Robinson",
+      "radio": "Rádio ROCK",
+      "startTime": "06:14"
+    },
+    "recorded_at": "2025-11-25T06:14:35.582148+01:00",
+    "raw_valid": true,
+    "song_session_id": "c70455f0-7767-4c84-b2d4-a080972ccb80"
+  },
+  {
+    "last_update": "2025-11-25 05:19:37",
+    "song": {
+      "musicAuthor": "The Calling",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851e4cd26d38c6f0661a363bc65",
+      "musicTitle": "Wherever You Will Go",
+      "radio": "Rádio ROCK",
+      "startTime": "06:18"
+    },
+    "recorded_at": "2025-11-25T06:19:37.529731+01:00",
+    "raw_valid": true,
+    "song_session_id": "1ad69ca0-9afc-4639-acd9-dfcca3a9bdd2"
+  },
+  {
+    "last_update": "2025-11-25 05:22:08",
+    "song": {
+      "musicAuthor": "Queen",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851e319baafd16e84f0408af2a0",
+      "musicTitle": "Bohemian Rhapsody",
+      "radio": "Rádio ROCK",
+      "startTime": "06:22"
+    },
+    "recorded_at": "2025-11-25T06:22:08.850744+01:00",
+    "raw_valid": true,
+    "song_session_id": "785409a6-90bc-4859-b2cb-b52e56d5151a"
+  },
+  {
+    "last_update": "2025-11-25 05:29:09",
+    "song": {
+      "musicAuthor": "Iné Kafe",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485191e61a01eabf26f66f67e261",
+      "musicTitle": "090x",
+      "radio": "Rádio ROCK",
+      "startTime": "06:28"
+    },
+    "recorded_at": "2025-11-25T06:29:09.458203+01:00",
+    "raw_valid": true,
+    "song_session_id": "e10f4337-b1c7-405b-a778-b72fc5160986"
+  },
+  {
+    "last_update": "2025-11-25 05:34:10",
+    "song": {
+      "musicAuthor": "Sum 41",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048519a482180e6a306229bff49dc",
+      "musicTitle": "Fat Lip",
+      "radio": "Rádio ROCK",
+      "startTime": "06:33"
+    },
+    "recorded_at": "2025-11-25T06:34:10.184846+01:00",
+    "raw_valid": true,
+    "song_session_id": "4f5a8c4f-38bd-49ec-900d-00b539db652b"
+  },
+  {
+    "last_update": "2025-11-25 05:37:10",
+    "song": {
+      "musicAuthor": "Janis Joplin",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048511ba5ee8bc24979ce3eee4797",
+      "musicTitle": "Piece Of My Heart",
+      "radio": "Rádio ROCK",
+      "startTime": "06:36"
+    },
+    "recorded_at": "2025-11-25T06:37:10.856226+01:00",
+    "raw_valid": true,
+    "song_session_id": "631250e2-bf6d-4056-b839-1c1241cd39f9"
+  },
+  {
+    "last_update": "2025-11-25 05:41:11",
+    "song": {
+      "musicAuthor": "Rammstein",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851a715d32590424cd667879ba3",
+      "musicTitle": "Du Hast",
+      "radio": "Rádio ROCK",
+      "startTime": "06:40"
+    },
+    "recorded_at": "2025-11-25T06:41:11.211994+01:00",
+    "raw_valid": true,
+    "song_session_id": "1fa8fa47-14c5-48eb-86af-b0c6ff70ec0a"
+  },
+  {
+    "last_update": "2025-11-25 05:45:11",
+    "song": {
+      "musicAuthor": "Marilyn Manson",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851dcca264f538d015a1c9733a5",
+      "musicTitle": "Tainted Love",
+      "radio": "Rádio ROCK",
+      "startTime": "06:44"
+    },
+    "recorded_at": "2025-11-25T06:45:12.217789+01:00",
+    "raw_valid": true,
+    "song_session_id": "52298cf9-a1a7-47db-80a6-e0c306bfa2f1"
+  },
+  {
+    "last_update": "2025-11-25 05:51:15",
+    "song": {
+      "musicAuthor": "Iron Maiden",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048511d7e954fb2f8b98a4cea3eca",
+      "musicTitle": "Can I Play With Madness",
+      "radio": "Rádio ROCK",
+      "startTime": "06:51"
+    },
+    "recorded_at": "2025-11-25T06:51:15.616851+01:00",
+    "raw_valid": true,
+    "song_session_id": "08bbb717-4503-4d29-847d-7de8b8a9366f"
+  },
+  {
+    "last_update": "2025-11-25 05:55:16",
+    "song": {
+      "musicAuthor": "The Cranberries",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851b81b7c1663be64a39433eb35",
+      "musicTitle": "Animal Instinct",
+      "radio": "Rádio ROCK",
+      "startTime": "06:54"
+    },
+    "recorded_at": "2025-11-25T06:55:16.418247+01:00",
+    "raw_valid": true,
+    "song_session_id": "b6d2710b-8c7e-4360-bb31-469cafd091c3"
+  },
+  {
+    "last_update": "2025-11-25 05:59:16",
+    "song": {
+      "musicAuthor": "Muse",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851b6d4566db0d12894a1a3b7a2",
+      "musicTitle": "Uprising",
+      "radio": "Rádio ROCK",
+      "startTime": "06:58"
+    },
+    "recorded_at": "2025-11-25T06:59:16.768727+01:00",
+    "raw_valid": true,
+    "song_session_id": "31ff74d6-d0a9-4092-9bc9-58c78a59f5f1"
+  },
+  {
+    "last_update": "2025-11-25 06:06:16",
+    "song": {
+      "musicAuthor": "Ram Jam",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851fa5dcfc4b1b99a0598224758",
+      "musicTitle": "Black Betty",
+      "radio": "Rádio ROCK",
+      "startTime": "07:05"
+    },
+    "recorded_at": "2025-11-25T07:06:17.512197+01:00",
+    "raw_valid": true,
+    "song_session_id": "252d93da-a9c7-4791-9e79-ade8edf89f3a"
+  },
+  {
+    "last_update": "2025-11-25 06:10:17",
+    "song": {
+      "musicAuthor": "3 Doors Down",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485183c39b0d32eb4a2064e1e228",
+      "musicTitle": "Here Without You",
+      "radio": "Rádio ROCK",
+      "startTime": "07:09"
+    },
+    "recorded_at": "2025-11-25T07:10:17.978159+01:00",
+    "raw_valid": true,
+    "song_session_id": "4826f178-b0a9-4fe4-8967-18d053c90625"
+  },
+  {
+    "last_update": "2025-11-25 06:14:19",
+    "song": {
+      "musicAuthor": "Lucie",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048518d8d0e40bd3b70756f01044c",
+      "musicTitle": "Černí Andělé",
+      "radio": "Rádio ROCK",
+      "startTime": "07:13"
+    },
+    "recorded_at": "2025-11-25T07:14:19.679229+01:00",
+    "raw_valid": true,
+    "song_session_id": "5ddd7d97-f5f3-4319-ba3b-0fed48410eda"
+  },
+  {
+    "last_update": "2025-11-25 06:19:19",
+    "song": {
+      "musicAuthor": "Black Sabbath",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048519683e5d7361bb80bfb00f46d",
+      "musicTitle": "Iron Man",
+      "radio": "Rádio ROCK",
+      "startTime": "07:18"
+    },
+    "recorded_at": "2025-11-25T07:19:20.171179+01:00",
+    "raw_valid": true,
+    "song_session_id": "d94d8c82-8516-4492-b6e3-b0dd95a7bbf8"
+  },
+  {
+    "last_update": "2025-11-25 06:22:21",
+    "song": {
+      "musicAuthor": "Green Day",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485108a1b1e0674086d3f1995e1b",
+      "musicTitle": "Wake Me Up When September Ends",
+      "radio": "Rádio ROCK",
+      "startTime": "07:21"
+    },
+    "recorded_at": "2025-11-25T07:22:21.030039+01:00",
+    "raw_valid": true,
+    "song_session_id": "58b4ad76-8478-46e8-b27e-6b86b1c2a890"
+  },
+  {
+    "last_update": "2025-11-25 06:26:21",
+    "song": {
+      "musicAuthor": "Radiohead",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851df55e326ed144ab4f5cecf95",
+      "musicTitle": "Creep",
+      "radio": "Rádio ROCK",
+      "startTime": "07:26"
+    },
+    "recorded_at": "2025-11-25T07:26:22.671018+01:00",
+    "raw_valid": true,
+    "song_session_id": "06a82be8-8560-4780-9538-ca2ea3e0f638"
+  },
+  {
+    "last_update": "2025-11-25 06:33:26",
+    "song": {
+      "musicAuthor": "Bryan Adams",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851cf1fee2a55e98e22bf358512",
+      "musicTitle": "Summer Of '69",
+      "radio": "Rádio ROCK",
+      "startTime": "07:32"
+    },
+    "recorded_at": "2025-11-25T07:33:27.336328+01:00",
+    "raw_valid": true,
+    "song_session_id": "a867ad37-9c25-4a0b-83b7-6cbb113ab330"
+  },
+  {
+    "last_update": "2025-11-25 06:36:27",
+    "song": {
+      "musicAuthor": "Awolnation",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485132f1572738340ddc9569c54b",
+      "musicTitle": "Sail",
+      "radio": "Rádio ROCK",
+      "startTime": "07:35"
+    },
+    "recorded_at": "2025-11-25T07:36:27.515213+01:00",
+    "raw_valid": true,
+    "song_session_id": "3e01bfcc-070a-4de0-b820-3e1d15c16764"
+  },
+  {
+    "last_update": "2025-11-25 06:40:27",
+    "song": {
+      "musicAuthor": "The Offspring",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048510158cbde70672dd821972907",
+      "musicTitle": "Gotta Get Away",
+      "radio": "Rádio ROCK",
+      "startTime": "07:39"
+    },
+    "recorded_at": "2025-11-25T07:40:28.457619+01:00",
+    "raw_valid": true,
+    "song_session_id": "3ea08175-8232-4230-b77b-e4c4f08773fa"
+  },
+  {
+    "last_update": "2025-11-25 06:44:29",
+    "song": {
+      "musicAuthor": "Billy Idol",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851a20464e6697dc1149d3a5cdc",
+      "musicTitle": "White Wedding",
+      "radio": "Rádio ROCK",
+      "startTime": "07:43"
+    },
+    "recorded_at": "2025-11-25T07:44:29.905150+01:00",
+    "raw_valid": true,
+    "song_session_id": "95eb17c0-2b7d-46c6-a1cf-a14bbc770467"
+  },
+  {
+    "last_update": "2025-11-25 06:49:29",
+    "song": {
+      "musicAuthor": "Wheatus",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048510a3740efa638f10f14fabc46",
+      "musicTitle": "Teenage Dirtbag",
+      "radio": "Rádio ROCK",
+      "startTime": "07:49"
+    },
+    "recorded_at": "2025-11-25T07:49:30.221713+01:00",
+    "raw_valid": true,
+    "song_session_id": "cce0b857-65cf-4b9a-a4c6-c412290ddb50"
+  },
+  {
+    "last_update": "2025-11-25 06:53:32",
+    "song": {
+      "musicAuthor": "Alanis Morissette",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851242e643ea07118ecf677a6ef",
+      "musicTitle": "You Oughta Know",
+      "radio": "Rádio ROCK",
+      "startTime": "07:52"
+    },
+    "recorded_at": "2025-11-25T07:53:32.256853+01:00",
+    "raw_valid": true,
+    "song_session_id": "4aef6241-d146-48ba-9bd3-f719db65256f"
+  },
+  {
+    "last_update": "2025-11-25 06:57:34",
+    "song": {
+      "musicAuthor": "Aerosmith",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851d5fdfcb083cb825348505a93",
+      "musicTitle": "Love In An Elevator",
+      "radio": "Rádio ROCK",
+      "startTime": "07:57"
+    },
+    "recorded_at": "2025-11-25T07:57:35.504023+01:00",
+    "raw_valid": true,
+    "song_session_id": "330f57a3-0eba-4cd7-af65-f02c92bceb2f"
+  }
+]

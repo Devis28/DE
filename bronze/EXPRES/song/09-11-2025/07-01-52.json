@@ -1,0 +1,394 @@
+[
+  {
+    "song": "Mystical Magical",
+    "artists": [
+      "Benson Boone"
+    ],
+    "isrc": "USWB12500844",
+    "start_time": "2025-11-09 06:05:33",
+    "radio": "expres",
+    "recorded_at": "2025-11-09T06:05:44.734670+01:00",
+    "raw_valid": true,
+    "song_session_id": "7fa9d526-eec3-4fcc-8a33-2ec95caea250"
+  },
+  {
+    "song": "Stramak",
+    "artists": [
+      "Polemic",
+      "Matej Ruppert"
+    ],
+    "isrc": "SKB812300421",
+    "start_time": "2025-11-09 06:08:17",
+    "radio": "expres",
+    "recorded_at": "2025-11-09T06:08:28.239006+01:00",
+    "raw_valid": true,
+    "song_session_id": "c2861a75-4a95-4084-a6e4-cea680a23aa0"
+  },
+  {
+    "song": "I Like The Way You Kiss Me",
+    "artists": [
+      "Artemas"
+    ],
+    "isrc": "QZJ842400387",
+    "start_time": "2025-11-09 06:11:40",
+    "radio": "expres",
+    "recorded_at": "2025-11-09T06:11:51.681659+01:00",
+    "raw_valid": true,
+    "song_session_id": "573ccd01-b55b-4844-a1b0-d321c08c9316"
+  },
+  {
+    "song": "Kazdy Den Je Nedela",
+    "artists": [
+      "Hex"
+    ],
+    "isrc": "SKC751300419",
+    "start_time": "2025-11-09 06:14:04",
+    "radio": "expres",
+    "recorded_at": "2025-11-09T06:14:23.396737+01:00",
+    "raw_valid": true,
+    "song_session_id": "88ac83d4-72a3-4357-88ec-7210f164c9b2"
+  },
+  {
+    "song": "Can You Feel The Love Tonight",
+    "artists": [
+      "Elton John"
+    ],
+    "isrc": "USWD10220758",
+    "start_time": "2025-11-09 06:18:19",
+    "radio": "expres",
+    "recorded_at": "2025-11-09T06:18:37.412032+01:00",
+    "raw_valid": true,
+    "song_session_id": "b5fd3e1d-6d43-489f-b2c7-216a0f1bbbc5"
+  },
+  {
+    "song": "Kto Je On",
+    "artists": [
+      "Dominika Mirgova",
+      "Robert Burian"
+    ],
+    "isrc": "SKE271200003",
+    "start_time": "2025-11-09 06:22:13",
+    "radio": "expres",
+    "recorded_at": "2025-11-09T06:22:26.273375+01:00",
+    "raw_valid": true,
+    "song_session_id": "11e79730-2b54-40ba-885d-1f1d23d7892d"
+  },
+  {
+    "song": "No Time To Talk",
+    "artists": [
+      "Jonas Brothers"
+    ],
+    "isrc": "USUG12504831",
+    "start_time": "2025-11-09 06:25:35",
+    "radio": "expres",
+    "recorded_at": "2025-11-09T06:25:44.479763+01:00",
+    "raw_valid": true,
+    "song_session_id": "3b2f3d41-09d9-4191-87ca-552ab371c792"
+  },
+  {
+    "song": "Gimme Love",
+    "artists": [
+      "Sia"
+    ],
+    "isrc": "USAT22307798",
+    "start_time": "2025-11-09 06:28:16",
+    "radio": "expres",
+    "recorded_at": "2025-11-09T06:28:27.155158+01:00",
+    "raw_valid": true,
+    "song_session_id": "ae9b7d19-2f93-458b-8a79-d06c3a9416b7"
+  },
+  {
+    "song": "Ordinary",
+    "artists": [
+      "Alex Warren"
+    ],
+    "isrc": "USAT22500463",
+    "start_time": "2025-11-09 06:32:29",
+    "radio": "expres",
+    "recorded_at": "2025-11-09T06:32:51.511340+01:00",
+    "raw_valid": true,
+    "song_session_id": "3f8b933b-13cb-4578-88f1-bf6eadd64382"
+  },
+  {
+    "song": "Thinking About You",
+    "artists": [
+      "Peter Bic Project"
+    ],
+    "isrc": "SKA011200054",
+    "start_time": "2025-11-09 06:35:31",
+    "radio": "expres",
+    "recorded_at": "2025-11-09T06:35:49.677125+01:00",
+    "raw_valid": true,
+    "song_session_id": "23486b5b-149e-4126-854e-49dd3da22844"
+  },
+  {
+    "song": "A Thousand Years",
+    "artists": [
+      "Christina Perri"
+    ],
+    "isrc": "USAT21102141",
+    "start_time": "2025-11-09 06:39:18",
+    "radio": "expres",
+    "recorded_at": "2025-11-09T06:39:33.260277+01:00",
+    "raw_valid": true,
+    "song_session_id": "06d16873-212d-4f59-8784-06c2c665d212"
+  },
+  {
+    "song": "Neviem Ta Najst",
+    "artists": [
+      "Gladiator"
+    ],
+    "isrc": "CZA210900800",
+    "start_time": "2025-11-09 06:44:12",
+    "radio": "expres",
+    "recorded_at": "2025-11-09T06:44:38.108529+01:00",
+    "raw_valid": true,
+    "song_session_id": "45f47452-3fd7-4d53-aa54-6cabe2d959df"
+  },
+  {
+    "song": "Wonderful Life 25",
+    "artists": [
+      "Hurts",
+      "Purple Disco Machine"
+    ],
+    "isrc": "DEE862500677",
+    "start_time": "2025-11-09 06:48:14",
+    "radio": "expres",
+    "recorded_at": "2025-11-09T06:48:41.955275+01:00",
+    "raw_valid": true,
+    "song_session_id": "2a7e6627-8f09-40c6-a4ba-4b964970013b"
+  },
+  {
+    "song": "Love In Your Soul",
+    "artists": [
+      "Celeste Buckingham"
+    ],
+    "isrc": "USUM71312321",
+    "start_time": "2025-11-09 06:51:03",
+    "radio": "expres",
+    "recorded_at": "2025-11-09T06:51:20.090531+01:00",
+    "raw_valid": true,
+    "song_session_id": "c25cdcce-7e07-41ab-8e32-668c94c64ba1"
+  },
+  {
+    "song": "Right Round",
+    "artists": [
+      "Flo Rida",
+      "Kesha"
+    ],
+    "isrc": "USAT20900156",
+    "start_time": "2025-11-09 06:54:12",
+    "radio": "expres",
+    "recorded_at": "2025-11-09T06:54:28.758042+01:00",
+    "raw_valid": true,
+    "song_session_id": "8de6a2aa-f589-40cf-8fd8-0321a08e2278"
+  },
+  {
+    "song": "To Okolo Nas",
+    "artists": [
+      "Para"
+    ],
+    "isrc": "SKP662201002",
+    "start_time": "2025-11-09 06:57:33",
+    "radio": "expres",
+    "recorded_at": "2025-11-09T06:57:49.206593+01:00",
+    "raw_valid": true,
+    "song_session_id": "906e2514-7501-40b5-90dd-151e6cccbd44"
+  },
+  {
+    "song": "Podme Sa Zachranit",
+    "artists": [
+      "Peter Nagy"
+    ],
+    "isrc": "SKA128666501",
+    "start_time": "2025-11-09 07:06:00",
+    "radio": "expres",
+    "recorded_at": "2025-11-09T07:06:11.338694+01:00",
+    "raw_valid": true,
+    "song_session_id": "d61bdb94-1ac6-44fa-af9c-872309e3a709"
+  },
+  {
+    "song": "Na Bieleho Kona",
+    "artists": [
+      "Kristina"
+    ],
+    "isrc": "SKK641700105",
+    "start_time": "2025-11-09 07:09:15",
+    "radio": "expres",
+    "recorded_at": "2025-11-09T07:09:34.438087+01:00",
+    "raw_valid": true,
+    "song_session_id": "5edcd5db-2cb9-467a-b6fa-19545d24da70"
+  },
+  {
+    "song": "Vonavky Dievcat",
+    "artists": [
+      "Vaso Patejdl"
+    ],
+    "isrc": "SKA128784003",
+    "start_time": "2025-11-09 07:12:37",
+    "radio": "expres",
+    "recorded_at": "2025-11-09T07:13:04.892951+01:00",
+    "raw_valid": true,
+    "song_session_id": "8f5f768b-d459-43cc-89d8-eddcd958826d"
+  },
+  {
+    "song": "Hej Sokoly!",
+    "artists": [
+      "Imt Smile",
+      "Ondrej Kandrac"
+    ],
+    "isrc": "SKA011700036",
+    "start_time": "2025-11-09 07:15:49",
+    "radio": "expres",
+    "recorded_at": "2025-11-09T07:16:17.863867+01:00",
+    "raw_valid": true,
+    "song_session_id": "24ebbe1e-031e-419d-a915-92281f66f2e2"
+  },
+  {
+    "song": "Velky Sen Mora",
+    "artists": [
+      "Modus"
+    ],
+    "isrc": "SKA127143801",
+    "start_time": "2025-11-09 07:18:48",
+    "radio": "expres",
+    "recorded_at": "2025-11-09T07:18:55.605265+01:00",
+    "raw_valid": true,
+    "song_session_id": "66ced672-1050-417e-b7ab-799357b4b821"
+  },
+  {
+    "song": "Nevrav Mi Aky Som",
+    "artists": [
+      "Desmod"
+    ],
+    "isrc": "SKM901700103",
+    "start_time": "2025-11-09 07:22:41",
+    "radio": "expres",
+    "recorded_at": "2025-11-09T07:23:08.594883+01:00",
+    "raw_valid": true,
+    "song_session_id": "0699caac-bb8d-49ed-952a-63b5a5948fa1"
+  },
+  {
+    "song": "Tak Si So Mnou Opakuj",
+    "artists": [
+      "Marika Gombitova"
+    ],
+    "isrc": "SKA128791511",
+    "start_time": "2025-11-09 07:26:08",
+    "radio": "expres",
+    "recorded_at": "2025-11-09T07:26:21.933387+01:00",
+    "raw_valid": true,
+    "song_session_id": "e805d7a8-2d9e-4216-aadb-29a6e2175fb9"
+  },
+  {
+    "song": "Nenahraditelna",
+    "artists": [
+      "Sima Martausova",
+      "For You"
+    ],
+    "isrc": "TCADT1800486",
+    "start_time": "2025-11-09 07:30:32",
+    "radio": "expres",
+    "recorded_at": "2025-11-09T07:30:40.738577+01:00",
+    "raw_valid": true,
+    "song_session_id": "47cb8ad4-bd85-42a7-90fc-3d0a457ba401"
+  },
+  {
+    "song": "Laska Sialena",
+    "artists": [
+      "Pavol Habera",
+      "Lucie Bila"
+    ],
+    "isrc": "FRX201717074",
+    "start_time": "2025-11-09 07:33:53",
+    "radio": "expres",
+    "recorded_at": "2025-11-09T07:34:04.150263+01:00",
+    "raw_valid": true,
+    "song_session_id": "bad38e70-cdaf-4033-b1c7-f39bd15a8872"
+  },
+  {
+    "song": "Kym Vies Snivat",
+    "artists": [
+      "Superstar Top 11"
+    ],
+    "isrc": "CZA210500001",
+    "start_time": "2025-11-09 07:37:34",
+    "radio": "expres",
+    "recorded_at": "2025-11-09T07:37:53.701398+01:00",
+    "raw_valid": true,
+    "song_session_id": "b710af10-8dfd-41c3-9209-31ad0211f7c8"
+  },
+  {
+    "song": "Vsetci Sa Zideme V Jednej Posteli",
+    "artists": [
+      "Robo Grigorov"
+    ],
+    "isrc": "TCAEZ2066117",
+    "start_time": "2025-11-09 07:41:52",
+    "radio": "expres",
+    "recorded_at": "2025-11-09T07:42:07.603654+01:00",
+    "raw_valid": true,
+    "song_session_id": "032d523d-c1f6-4f5d-88b6-018749fc78dd"
+  },
+  {
+    "song": "Pohoda",
+    "artists": [
+      "Sam Sebou",
+      "Kali"
+    ],
+    "isrc": "SKE502400602",
+    "start_time": "2025-11-09 07:44:58",
+    "radio": "expres",
+    "recorded_at": "2025-11-09T07:45:20.330587+01:00",
+    "raw_valid": true,
+    "song_session_id": "6f7eda35-73d6-4d44-991a-edc5ed3a8cf5"
+  },
+  {
+    "song": "Mozno Sa Ti Zda",
+    "artists": [
+      "Miro Zbirka"
+    ],
+    "isrc": "SKA128804807",
+    "start_time": "2025-11-09 07:47:45",
+    "radio": "expres",
+    "recorded_at": "2025-11-09T07:48:08.143061+01:00",
+    "raw_valid": true,
+    "song_session_id": "30b51e12-c392-4102-a6a7-0e1fb5fdb1e2"
+  },
+  {
+    "song": "Bergen",
+    "artists": [
+      "Zuzana Smatanova"
+    ],
+    "isrc": "SKI941800608",
+    "start_time": "2025-11-09 07:51:03",
+    "radio": "expres",
+    "recorded_at": "2025-11-09T07:51:31.279629+01:00",
+    "raw_valid": true,
+    "song_session_id": "5f05b4f1-dba6-434e-8561-11cf5973a5b1"
+  },
+  {
+    "song": "Stuzkova",
+    "artists": [
+      "Elan"
+    ],
+    "isrc": "SKA128562209",
+    "start_time": "2025-11-09 07:54:47",
+    "radio": "expres",
+    "recorded_at": "2025-11-09T07:55:14.341741+01:00",
+    "raw_valid": true,
+    "song_session_id": "9f39d3ca-b13a-409e-9946-28bd90b050b1"
+  },
+  {
+    "song": "Hlava Vinna Telo Nevinne",
+    "artists": [
+      "Peha"
+    ],
+    "isrc": "SKA770109302",
+    "start_time": "2025-11-09 07:57:44",
+    "radio": "expres",
+    "recorded_at": "2025-11-09T07:57:54.346235+01:00",
+    "raw_valid": true,
+    "song_session_id": "b8ec8d3b-1a45-4883-9f47-553d7d28b2fc"
+  }
+]

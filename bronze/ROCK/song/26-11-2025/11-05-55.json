@@ -1,0 +1,392 @@
+[
+  {
+    "last_update": "2025-11-26 09:06:24",
+    "song": {
+      "musicAuthor": "Queen",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851024b36346101df444742cde2",
+      "musicTitle": "The Show Must Go On",
+      "radio": "Rádio ROCK",
+      "startTime": "10:05"
+    },
+    "recorded_at": "2025-11-26T10:06:24.722681+01:00",
+    "raw_valid": true,
+    "song_session_id": "ed4cbf15-2fb9-44ef-bd81-75b5d02136c9"
+  },
+  {
+    "last_update": "2025-11-26 09:10:25",
+    "song": {
+      "musicAuthor": "Bachmann-Turner Overdrive",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851fe44d6d9e182758f2b0582c8",
+      "musicTitle": "You Ain't Seen Nothin' Yet",
+      "radio": "Rádio ROCK",
+      "startTime": "10:09"
+    },
+    "recorded_at": "2025-11-26T10:10:25.867280+01:00",
+    "raw_valid": true,
+    "song_session_id": "380fb7ae-e7b1-41f2-91d7-1fe9c0b006d0"
+  },
+  {
+    "last_update": "2025-11-26 09:14:27",
+    "song": {
+      "musicAuthor": "Good Charlotte",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851a58ea3c31c1fd13a659a4ef0",
+      "musicTitle": "I Just Wanna Live",
+      "radio": "Rádio ROCK",
+      "startTime": "10:14"
+    },
+    "recorded_at": "2025-11-26T10:14:27.594902+01:00",
+    "raw_valid": true,
+    "song_session_id": "97ef1945-2ced-4f97-8a2f-f28f9e2ce21e"
+  },
+  {
+    "last_update": "2025-11-26 09:17:27",
+    "song": {
+      "musicAuthor": "Limp Bizkit",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048513783782de74f61e36795bf9c",
+      "musicTitle": "Break Stuff",
+      "radio": "Rádio ROCK",
+      "startTime": "10:16"
+    },
+    "recorded_at": "2025-11-26T10:17:27.937091+01:00",
+    "raw_valid": true,
+    "song_session_id": "20059ac6-8741-45f9-93f4-c3a0d39ce7fe"
+  },
+  {
+    "last_update": "2025-11-26 09:20:28",
+    "song": {
+      "musicAuthor": "Blink 182",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851dd062fffb1397a727f3f1fb6",
+      "musicTitle": "One More Time",
+      "radio": "Rádio ROCK",
+      "startTime": "10:19"
+    },
+    "recorded_at": "2025-11-26T10:20:28.197527+01:00",
+    "raw_valid": true,
+    "song_session_id": "4449d2ff-117c-49af-929c-ad94512caf50"
+  },
+  {
+    "last_update": "2025-11-26 09:23:29",
+    "song": {
+      "musicAuthor": "Bon Jovi",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851ede118b5f0e159dd18d42b90",
+      "musicTitle": "Runaway",
+      "radio": "Rádio ROCK",
+      "startTime": "10:23"
+    },
+    "recorded_at": "2025-11-26T10:23:29.756706+01:00",
+    "raw_valid": true,
+    "song_session_id": "eef54689-a4f7-46a7-8557-45182869e7c6"
+  },
+  {
+    "last_update": "2025-11-26 09:27:29",
+    "song": {
+      "musicAuthor": "Mick Jagger",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851a196f9a07530702c5230a896",
+      "musicTitle": "God Gave Me Everything",
+      "radio": "Rádio ROCK",
+      "startTime": "10:26"
+    },
+    "recorded_at": "2025-11-26T10:27:30.015127+01:00",
+    "raw_valid": true,
+    "song_session_id": "e2089f17-2dc5-4590-9939-7320674dbeb6"
+  },
+  {
+    "last_update": "2025-11-26 09:31:30",
+    "song": {
+      "musicAuthor": "Ozzy Osbourne",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851c2b61984b54ad58c8d6fdd19",
+      "musicTitle": "Mama, I'm Coming Home",
+      "radio": "Rádio ROCK",
+      "startTime": "10:30"
+    },
+    "recorded_at": "2025-11-26T10:31:30.892107+01:00",
+    "raw_valid": true,
+    "song_session_id": "8fd2bc51-6e17-40ce-ab1e-c05d8844b12c"
+  },
+  {
+    "last_update": "2025-11-26 09:35:30",
+    "song": {
+      "musicAuthor": "The Red Hot Chili Peppers",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851f3686323bf737cb7ba3de792",
+      "musicTitle": "Snow (Hey Oh)",
+      "radio": "Rádio ROCK",
+      "startTime": "10:34"
+    },
+    "recorded_at": "2025-11-26T10:35:31.164605+01:00",
+    "raw_valid": true,
+    "song_session_id": "4865f8ea-47bd-4f93-9870-c08b7c943d01"
+  },
+  {
+    "last_update": "2025-11-26 09:40:32",
+    "song": {
+      "musicAuthor": "The Ramones",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851db687db0afb257abdee10816",
+      "musicTitle": "Blitzkrieg Bop",
+      "radio": "Rádio ROCK",
+      "startTime": "10:39"
+    },
+    "recorded_at": "2025-11-26T10:40:33.876250+01:00",
+    "raw_valid": true,
+    "song_session_id": "587093f7-798f-4308-a9d7-788396022981"
+  },
+  {
+    "last_update": "2025-11-26 09:42:33",
+    "song": {
+      "musicAuthor": "Evanescence",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485125f49ab23f0ec6332efef432",
+      "musicTitle": "My Immortal",
+      "radio": "Rádio ROCK",
+      "startTime": "10:42"
+    },
+    "recorded_at": "2025-11-26T10:42:34.589551+01:00",
+    "raw_valid": true,
+    "song_session_id": "27624f48-2b8f-46c3-9d35-20cdc3caec58"
+  },
+  {
+    "last_update": "2025-11-26 09:47:35",
+    "song": {
+      "musicAuthor": "The Offspring",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048510158cbde70672dd821972907",
+      "musicTitle": "Come Out And Play",
+      "radio": "Rádio ROCK",
+      "startTime": "10:46"
+    },
+    "recorded_at": "2025-11-26T10:47:35.976144+01:00",
+    "raw_valid": true,
+    "song_session_id": "3877b9b1-ae77-41e6-ab42-5950e29108bc"
+  },
+  {
+    "last_update": "2025-11-26 09:50:36",
+    "song": {
+      "musicAuthor": "Lynyrd Skynyrd",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485117e1907923e91181f38290ac",
+      "musicTitle": "Sweet Home Alabama",
+      "radio": "Rádio ROCK",
+      "startTime": "10:50"
+    },
+    "recorded_at": "2025-11-26T10:50:37.097256+01:00",
+    "raw_valid": true,
+    "song_session_id": "0d92f241-fb51-470f-9df8-1cb556724782"
+  },
+  {
+    "last_update": "2025-11-26 09:55:08",
+    "song": {
+      "musicAuthor": "Green Day",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851af71e889d130283bcd08b8a7",
+      "musicTitle": "Revolution Radio",
+      "radio": "Rádio ROCK",
+      "startTime": "10:54"
+    },
+    "recorded_at": "2025-11-26T10:55:08.284827+01:00",
+    "raw_valid": true,
+    "song_session_id": "9eead9fa-6be2-43c2-bc43-9bd0ac264ee5"
+  },
+  {
+    "last_update": "2025-11-26 09:58:08",
+    "song": {
+      "musicAuthor": "Metallica",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851d691ec833eb067d9a9e4ded7",
+      "musicTitle": "Until It Sleeps",
+      "radio": "Rádio ROCK",
+      "startTime": "10:57"
+    },
+    "recorded_at": "2025-11-26T10:58:08.471537+01:00",
+    "raw_valid": true,
+    "song_session_id": "d70fa317-46dd-4c29-bdb7-bc6cfcd4f39d"
+  },
+  {
+    "last_update": "2025-11-26 10:03:08",
+    "song": {
+      "musicAuthor": "U2",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485177df2aceaf90f06a20b56b14",
+      "musicTitle": "Pride (In The Name Of Love)",
+      "radio": "Rádio ROCK",
+      "startTime": "11:03"
+    },
+    "recorded_at": "2025-11-26T11:03:08.802086+01:00",
+    "raw_valid": true,
+    "song_session_id": "37ec95a8-209f-4124-820e-05150e02908d"
+  },
+  {
+    "last_update": "2025-11-26 10:07:08",
+    "song": {
+      "musicAuthor": "Hoobastank",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485176cc6eedca8eb381afcd1e46",
+      "musicTitle": "The Reason",
+      "radio": "Rádio ROCK",
+      "startTime": "11:06"
+    },
+    "recorded_at": "2025-11-26T11:07:09.680930+01:00",
+    "raw_valid": true,
+    "song_session_id": "b0088cf9-fbac-4cc8-a946-fb4642ed3687"
+  },
+  {
+    "last_update": "2025-11-26 10:11:09",
+    "song": {
+      "musicAuthor": "Kabát",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851792f710fc17104ab9b514cb1",
+      "musicTitle": "Colorado",
+      "radio": "Rádio ROCK",
+      "startTime": "11:10"
+    },
+    "recorded_at": "2025-11-26T11:11:10.004027+01:00",
+    "raw_valid": true,
+    "song_session_id": "479424b1-fe2b-4bbd-93c1-619fe25a28cf"
+  },
+  {
+    "last_update": "2025-11-26 10:16:10",
+    "song": {
+      "musicAuthor": "Def Leppard",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048513061b8dbb3c061b853b8e799",
+      "musicTitle": "Let's Get Rocked",
+      "radio": "Rádio ROCK",
+      "startTime": "11:16"
+    },
+    "recorded_at": "2025-11-26T11:16:10.343739+01:00",
+    "raw_valid": true,
+    "song_session_id": "ac58a7bb-3486-4ef4-8d1f-bde52515e518"
+  },
+  {
+    "last_update": "2025-11-26 10:21:11",
+    "song": {
+      "musicAuthor": "Ine Kafe",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485133e81d2d263e20b02d3cc3a2",
+      "musicTitle": "Kolagenova Nitka",
+      "radio": "Rádio ROCK",
+      "startTime": "11:21"
+    },
+    "recorded_at": "2025-11-26T11:21:11.511646+01:00",
+    "raw_valid": true,
+    "song_session_id": "2d058689-a215-4067-996c-e3a7920cde8d"
+  },
+  {
+    "last_update": "2025-11-26 10:24:11",
+    "song": {
+      "musicAuthor": "Nightwish",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851fc452e32475d74850c7eec51",
+      "musicTitle": "Bless The Child",
+      "radio": "Rádio ROCK",
+      "startTime": "11:23"
+    },
+    "recorded_at": "2025-11-26T11:24:11.763318+01:00",
+    "raw_valid": true,
+    "song_session_id": "8fcb4ff4-7b23-4c5a-8574-326aaf6fc35e"
+  },
+  {
+    "last_update": "2025-11-26 10:30:13",
+    "song": {
+      "musicAuthor": "Tublatanka",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048517d744b6206ab9d559d6d7d77",
+      "musicTitle": "Matka",
+      "radio": "Rádio ROCK",
+      "startTime": "11:30"
+    },
+    "recorded_at": "2025-11-26T11:30:13.481314+01:00",
+    "raw_valid": true,
+    "song_session_id": "e28a70e1-5048-449f-a2df-0f6e2396b589"
+  },
+  {
+    "last_update": "2025-11-26 10:35:14",
+    "song": {
+      "musicAuthor": "Slade",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048516832fb0dccc14e5930045202",
+      "musicTitle": "Far Far Away",
+      "radio": "Rádio ROCK",
+      "startTime": "11:34"
+    },
+    "recorded_at": "2025-11-26T11:35:14.147290+01:00",
+    "raw_valid": true,
+    "song_session_id": "576967b3-d846-431b-afdb-c35bfdca76d3"
+  },
+  {
+    "last_update": "2025-11-26 10:39:15",
+    "song": {
+      "musicAuthor": "Korn",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485174c1560b64750a1774495144",
+      "musicTitle": "Coming Undone",
+      "radio": "Rádio ROCK",
+      "startTime": "11:38"
+    },
+    "recorded_at": "2025-11-26T11:39:16.326442+01:00",
+    "raw_valid": true,
+    "song_session_id": "97e36b01-2729-425e-a99e-2b379e6aaf28"
+  },
+  {
+    "last_update": "2025-11-26 10:42:16",
+    "song": {
+      "musicAuthor": "R.E.M.",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851ace3e7aae0b7c78bbe1c4f35",
+      "musicTitle": "Drive",
+      "radio": "Rádio ROCK",
+      "startTime": "11:41"
+    },
+    "recorded_at": "2025-11-26T11:42:17.287576+01:00",
+    "raw_valid": true,
+    "song_session_id": "4424b862-ab3a-4975-84c7-53a832c5533c"
+  },
+  {
+    "last_update": "2025-11-26 10:47:18",
+    "song": {
+      "musicAuthor": "The Steve Miller Band",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851375445cc7a2aedff11361b51",
+      "musicTitle": "The Joker",
+      "radio": "Rádio ROCK",
+      "startTime": "11:46"
+    },
+    "recorded_at": "2025-11-26T11:47:19.381069+01:00",
+    "raw_valid": true,
+    "song_session_id": "7e2a56d4-dca7-4b07-a0fd-b38d6ec8925f"
+  },
+  {
+    "last_update": "2025-11-26 10:50:18",
+    "song": {
+      "musicAuthor": "Horkýže Slíže",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851d908a63a01282b0e2ac770ab",
+      "musicTitle": "Mam V P... Na Lehátku",
+      "radio": "Rádio ROCK",
+      "startTime": "11:50"
+    },
+    "recorded_at": "2025-11-26T11:50:19.858368+01:00",
+    "raw_valid": true,
+    "song_session_id": "7f7eff25-c750-4c16-a51a-4270ed4797b8"
+  },
+  {
+    "last_update": "2025-11-26 10:54:19",
+    "song": {
+      "musicAuthor": "Myles Alannah",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851b335b494476d5b018c96c25a",
+      "musicTitle": "Black Velvet",
+      "radio": "Rádio ROCK",
+      "startTime": "11:53"
+    },
+    "recorded_at": "2025-11-26T11:54:20.095047+01:00",
+    "raw_valid": true,
+    "song_session_id": "c2b7a690-17f0-4c97-96cb-96eb56158ebb"
+  },
+  {
+    "last_update": "2025-11-26 10:58:22",
+    "song": {
+      "musicAuthor": "Queen",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485109e2ec500166cf2d5ac21050",
+      "musicTitle": "Killer Queen",
+      "radio": "Rádio ROCK",
+      "startTime": "11:57"
+    },
+    "recorded_at": "2025-11-26T11:58:22.307023+01:00",
+    "raw_valid": true,
+    "song_session_id": "db6766da-942c-48ab-9ee9-d10b290f317c"
+  },
+  {
+    "last_update": "2025-11-26 11:02:21",
+    "song": {
+      "musicAuthor": "Guns N Roses",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485192d21aef6c0d288cc4c05973",
+      "musicTitle": "You Could Be Mine",
+      "radio": "Rádio ROCK",
+      "startTime": "12:01"
+    },
+    "recorded_at": "2025-11-26T12:02:22.569563+01:00",
+    "raw_valid": true,
+    "song_session_id": "fead8254-5be9-468f-9d05-ad4d7e82ca29"
+  }
+]

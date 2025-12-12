@@ -1,0 +1,392 @@
+[
+  {
+    "last_update": "2025-11-09 19:06:31",
+    "song": {
+      "musicAuthor": "Creedence Clearwater Revival",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048519f39192f9f8ca1c90847b3e5",
+      "musicTitle": "Fortunate Son",
+      "radio": "Rádio ROCK",
+      "startTime": "20:06"
+    },
+    "recorded_at": "2025-11-09T20:06:31.746883+01:00",
+    "raw_valid": true,
+    "song_session_id": "0551fd42-ea72-4f4f-befa-594026b656c6"
+  },
+  {
+    "last_update": "2025-11-09 19:09:31",
+    "song": {
+      "musicAuthor": "The Who",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851fe24dcd263c08c6dd84b6e8c",
+      "musicTitle": "Too Much Of Anything",
+      "radio": "Rádio ROCK",
+      "startTime": "20:08"
+    },
+    "recorded_at": "2025-11-09T20:09:31.942419+01:00",
+    "raw_valid": true,
+    "song_session_id": "5a7c1524-5dbd-4575-9d21-b4c8920381b7"
+  },
+  {
+    "last_update": "2025-11-09 19:13:34",
+    "song": {
+      "musicAuthor": "Kabát",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485157bf7825968feeeb043a5872",
+      "musicTitle": "Starej Bar",
+      "radio": "Rádio ROCK",
+      "startTime": "20:12"
+    },
+    "recorded_at": "2025-11-09T20:13:34.778092+01:00",
+    "raw_valid": true,
+    "song_session_id": "ec0a5ac2-7c51-49f4-b3cb-da62aa8cd438"
+  },
+  {
+    "last_update": "2025-11-09 19:17:34",
+    "song": {
+      "musicAuthor": "The Kinks",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048511f85ec215e1d73b9ab48b9ae",
+      "musicTitle": "Sunny Afternoon",
+      "radio": "Rádio ROCK",
+      "startTime": "20:16"
+    },
+    "recorded_at": "2025-11-09T20:17:35.213627+01:00",
+    "raw_valid": true,
+    "song_session_id": "2a5c084f-8918-4475-b786-6916e58dc3fb"
+  },
+  {
+    "last_update": "2025-11-09 19:21:07",
+    "song": {
+      "musicAuthor": "Cinderella",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851f6c21a13a1fff5174fe35ed1",
+      "musicTitle": "Coming Home",
+      "radio": "Rádio ROCK",
+      "startTime": "20:20"
+    },
+    "recorded_at": "2025-11-09T20:21:07.140115+01:00",
+    "raw_valid": true,
+    "song_session_id": "cae65145-147f-4731-8cf0-eebe2199d6f0"
+  },
+  {
+    "last_update": "2025-11-09 19:25:37",
+    "song": {
+      "musicAuthor": "Slade",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485123840816dd15f4053bdd494d",
+      "musicTitle": "Cum On Feel The Noize",
+      "radio": "Rádio ROCK",
+      "startTime": "20:25"
+    },
+    "recorded_at": "2025-11-09T20:25:37.435239+01:00",
+    "raw_valid": true,
+    "song_session_id": "72c45db5-ad0d-41d0-8937-70f286a39343"
+  },
+  {
+    "last_update": "2025-11-09 19:31:07",
+    "song": {
+      "musicAuthor": "Aerosmith",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048519662c6535fb4bf5767e50f32",
+      "musicTitle": "Walk This Way",
+      "radio": "Rádio ROCK",
+      "startTime": "20:29"
+    },
+    "recorded_at": "2025-11-09T20:31:08.274771+01:00",
+    "raw_valid": true,
+    "song_session_id": "237a9870-9f98-46d4-92e8-1509657b294c"
+  },
+  {
+    "last_update": "2025-11-09 19:33:40",
+    "song": {
+      "musicAuthor": "Mötley Crüe",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851e2f18e7e962bc989b570a767",
+      "musicTitle": "Dr. Feelgood",
+      "radio": "Rádio ROCK",
+      "startTime": "20:32"
+    },
+    "recorded_at": "2025-11-09T20:33:41.138611+01:00",
+    "raw_valid": true,
+    "song_session_id": "b1092aa5-1359-4968-bfcf-277960d3e4a4"
+  },
+  {
+    "last_update": "2025-11-09 19:38:10",
+    "song": {
+      "musicAuthor": "Extreme",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851fb16b9b69eb891027654bcb1",
+      "musicTitle": "Hole Hearted",
+      "radio": "Rádio ROCK",
+      "startTime": "20:37"
+    },
+    "recorded_at": "2025-11-09T20:38:11.593249+01:00",
+    "raw_valid": true,
+    "song_session_id": "c984713c-c00b-44f0-9797-0a5ca3b2f237"
+  },
+  {
+    "last_update": "2025-11-09 19:41:12",
+    "song": {
+      "musicAuthor": "Lucie",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048517afcc43e2db56da4728d2a52",
+      "musicTitle": "Oheň",
+      "radio": "Rádio ROCK",
+      "startTime": "20:40"
+    },
+    "recorded_at": "2025-11-09T20:41:12.659108+01:00",
+    "raw_valid": true,
+    "song_session_id": "1b37d9ef-f5f3-476f-a9a1-fb0a20bae732"
+  },
+  {
+    "last_update": "2025-11-09 19:45:13",
+    "song": {
+      "musicAuthor": "The Alan Parsons Project",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851182cfcd0cc42013557f64c89",
+      "musicTitle": "Eye In The Sky",
+      "radio": "Rádio ROCK",
+      "startTime": "20:45"
+    },
+    "recorded_at": "2025-11-09T20:45:14.797426+01:00",
+    "raw_valid": true,
+    "song_session_id": "d5350e3e-5e26-42d2-92f6-9d99601ecd72"
+  },
+  {
+    "last_update": "2025-11-09 19:50:14",
+    "song": {
+      "musicAuthor": "The Rolling Stones",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851ba42bfcfeed19018b1f8cab8",
+      "musicTitle": "Tumbling Dice",
+      "radio": "Rádio ROCK",
+      "startTime": "20:49"
+    },
+    "recorded_at": "2025-11-09T20:50:15.350946+01:00",
+    "raw_valid": true,
+    "song_session_id": "c84ff616-76a2-4613-9c5f-f7896782ccd5"
+  },
+  {
+    "last_update": "2025-11-09 19:54:16",
+    "song": {
+      "musicAuthor": "Guano Apes",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485190de79652ab78e4954dd7a8f",
+      "musicTitle": "Open Your Eyes",
+      "radio": "Rádio ROCK",
+      "startTime": "20:53"
+    },
+    "recorded_at": "2025-11-09T20:54:16.388263+01:00",
+    "raw_valid": true,
+    "song_session_id": "6cc3b9a7-7759-4972-9708-f324eb49decf"
+  },
+  {
+    "last_update": "2025-11-09 19:57:18",
+    "song": {
+      "musicAuthor": "Foreigner",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485162d48acfd5073491df46f7ac",
+      "musicTitle": "Urgent",
+      "radio": "Rádio ROCK",
+      "startTime": "20:56"
+    },
+    "recorded_at": "2025-11-09T20:57:18.309511+01:00",
+    "raw_valid": true,
+    "song_session_id": "f97c0d6e-fe71-42f5-98a1-c255e71be7e5"
+  },
+  {
+    "last_update": "2025-11-09 20:01:17",
+    "song": {
+      "musicAuthor": "Steppenwolf",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851ec7e2c5c7ecd29301f1c4b93",
+      "musicTitle": "Born To Be Wild",
+      "radio": "Rádio ROCK",
+      "startTime": "21:00"
+    },
+    "recorded_at": "2025-11-09T21:01:18.546507+01:00",
+    "raw_valid": true,
+    "song_session_id": "23e47d56-a2b0-4f34-8245-6cea55c377a7"
+  },
+  {
+    "last_update": "2025-11-09 20:05:19",
+    "song": {
+      "musicAuthor": "Soundgarden",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048515124ed45a94033830b320500",
+      "musicTitle": "Spoonman",
+      "radio": "Rádio ROCK",
+      "startTime": "21:04"
+    },
+    "recorded_at": "2025-11-09T21:05:19.426332+01:00",
+    "raw_valid": true,
+    "song_session_id": "41d7619d-ba23-46f6-8e31-0213c4c7f01e"
+  },
+  {
+    "last_update": "2025-11-09 20:09:19",
+    "song": {
+      "musicAuthor": "Jethro Tull",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048517c8bffd8179c3b2aa7a70615",
+      "musicTitle": "Too Old To Rock And Roll",
+      "radio": "Rádio ROCK",
+      "startTime": "21:08"
+    },
+    "recorded_at": "2025-11-09T21:09:19.658010+01:00",
+    "raw_valid": true,
+    "song_session_id": "ceb32576-74cf-4242-875f-f79d656dee61"
+  },
+  {
+    "last_update": "2025-11-09 20:13:19",
+    "song": {
+      "musicAuthor": "Ugly Kid Joe",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485159afd13f40fa2b0aab89bb0e",
+      "musicTitle": "Cat's In The Cradle",
+      "radio": "Rádio ROCK",
+      "startTime": "21:12"
+    },
+    "recorded_at": "2025-11-09T21:13:19.910161+01:00",
+    "raw_valid": true,
+    "song_session_id": "3f4bc621-e98c-4be5-a9da-1feca323e823"
+  },
+  {
+    "last_update": "2025-11-09 20:17:19",
+    "song": {
+      "musicAuthor": "Jiří Schelinger",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851fc41085f499a82d592680741",
+      "musicTitle": "Jahody Mražený",
+      "radio": "Rádio ROCK",
+      "startTime": "21:16"
+    },
+    "recorded_at": "2025-11-09T21:17:20.336765+01:00",
+    "raw_valid": true,
+    "song_session_id": "c869aa4d-0404-4ef3-9cec-45fc042de41c"
+  },
+  {
+    "last_update": "2025-11-09 20:20:19",
+    "song": {
+      "musicAuthor": "Santana",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851930858249e7abbb9b5317929",
+      "musicTitle": "Black Magic Woman",
+      "radio": "Rádio ROCK",
+      "startTime": "21:19"
+    },
+    "recorded_at": "2025-11-09T21:20:20.505389+01:00",
+    "raw_valid": true,
+    "song_session_id": "ef424d06-a350-42d4-9253-583babb6d3cd"
+  },
+  {
+    "last_update": "2025-11-09 20:23:21",
+    "song": {
+      "musicAuthor": "Pink Floyd",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851e56b1ba06c4e0871e5ec5f83",
+      "musicTitle": "Learning To Fly",
+      "radio": "Rádio ROCK",
+      "startTime": "21:23"
+    },
+    "recorded_at": "2025-11-09T21:23:21.070329+01:00",
+    "raw_valid": true,
+    "song_session_id": "eba92a58-50b8-4f56-b850-ee3d9b904e7d"
+  },
+  {
+    "last_update": "2025-11-09 20:28:20",
+    "song": {
+      "musicAuthor": "Twisted Sister",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048513469ef94acfa666fde83dec5",
+      "musicTitle": "I Wanna Rock",
+      "radio": "Rádio ROCK",
+      "startTime": "21:27"
+    },
+    "recorded_at": "2025-11-09T21:28:21.716193+01:00",
+    "raw_valid": true,
+    "song_session_id": "fee23582-3f78-4e31-bf74-f23318ed7d8a"
+  },
+  {
+    "last_update": "2025-11-09 20:31:22",
+    "song": {
+      "musicAuthor": "Beatles, The",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851dbeec63ad914c973e75c24df",
+      "musicTitle": "Twist And Shout",
+      "radio": "Rádio ROCK",
+      "startTime": "21:30"
+    },
+    "recorded_at": "2025-11-09T21:31:22.714197+01:00",
+    "raw_valid": true,
+    "song_session_id": "9190d86d-3f7c-4ee7-8538-918fec99fc34"
+  },
+  {
+    "last_update": "2025-11-09 20:33:22",
+    "song": {
+      "musicAuthor": "Ac/Dc",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485105a19220d37bc871db939b64",
+      "musicTitle": "Let There Be Rock",
+      "radio": "Rádio ROCK",
+      "startTime": "21:33"
+    },
+    "recorded_at": "2025-11-09T21:33:22.858683+01:00",
+    "raw_valid": true,
+    "song_session_id": "ab71e8b7-9e06-408a-8072-fb44c132bdd9"
+  },
+  {
+    "last_update": "2025-11-09 20:40:23",
+    "song": {
+      "musicAuthor": "Tublatanka",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048514b813e7e56c0e4c85f8cb5d0",
+      "musicTitle": "Pravda Víťazí",
+      "radio": "Rádio ROCK",
+      "startTime": "21:39"
+    },
+    "recorded_at": "2025-11-09T21:40:23.445986+01:00",
+    "raw_valid": true,
+    "song_session_id": "d8c5891a-c8a5-4985-9b30-c1c2611c53d4"
+  },
+  {
+    "last_update": "2025-11-09 20:44:26",
+    "song": {
+      "musicAuthor": "The Eagles",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048512d73b1bb77cee09f0278be04",
+      "musicTitle": "Desperado",
+      "radio": "Rádio ROCK",
+      "startTime": "21:44"
+    },
+    "recorded_at": "2025-11-09T21:44:26.233057+01:00",
+    "raw_valid": true,
+    "song_session_id": "f8b60f52-f82b-4289-80f7-bc16ad1dc814"
+  },
+  {
+    "last_update": "2025-11-09 20:48:26",
+    "song": {
+      "musicAuthor": "Moore Gary",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485125fbfe01ca17e9984362f805",
+      "musicTitle": "Friday On My Mind",
+      "radio": "Rádio ROCK",
+      "startTime": "21:47"
+    },
+    "recorded_at": "2025-11-09T21:48:27.462736+01:00",
+    "raw_valid": true,
+    "song_session_id": "77030b1f-302c-4ce5-adc3-3e6db1ab80a6"
+  },
+  {
+    "last_update": "2025-11-09 20:52:27",
+    "song": {
+      "musicAuthor": "Queen",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851024b36346101df444742cde2",
+      "musicTitle": "The Show Must Go On",
+      "radio": "Rádio ROCK",
+      "startTime": "21:51"
+    },
+    "recorded_at": "2025-11-09T21:52:27.875735+01:00",
+    "raw_valid": true,
+    "song_session_id": "041eab2b-fb96-431e-8d2d-7802e4de12df"
+  },
+  {
+    "last_update": "2025-11-09 20:56:28",
+    "song": {
+      "musicAuthor": "The Rolling Stones",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851809460628dd7e48885b73af5",
+      "musicTitle": "Highwire",
+      "radio": "Rádio ROCK",
+      "startTime": "21:55"
+    },
+    "recorded_at": "2025-11-09T21:56:29.095228+01:00",
+    "raw_valid": true,
+    "song_session_id": "b1b888de-fa8d-4f27-8870-ea0b5d806c2c"
+  },
+  {
+    "last_update": "2025-11-09 21:01:29",
+    "song": {
+      "musicAuthor": "Toto",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048514a052b99c042dc15f933145b",
+      "musicTitle": "Africa",
+      "radio": "Rádio ROCK",
+      "startTime": "22:01"
+    },
+    "recorded_at": "2025-11-09T22:01:29.887049+01:00",
+    "raw_valid": true,
+    "song_session_id": "410671c1-ca96-4fb3-a6ec-1f66f6e028d2"
+  }
+]

@@ -1,0 +1,418 @@
+[
+  {
+    "last_update": "2025-11-26 01:07:18",
+    "song": {
+      "musicAuthor": "Fishing Strip",
+      "musicCover": "/layout/covers/default.png",
+      "musicTitle": "Mám Ťa Rád",
+      "radio": "Rádio ROCK",
+      "startTime": "02:06"
+    },
+    "recorded_at": "2025-11-26T02:07:19.341687+01:00",
+    "raw_valid": true,
+    "song_session_id": "23310db3-c9c3-4764-861f-351901708d9a"
+  },
+  {
+    "last_update": "2025-11-26 01:11:19",
+    "song": {
+      "musicAuthor": "Peter Cmorik",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048517016c9ed1680a22ee0d308b3",
+      "musicTitle": "Som Kto Som",
+      "radio": "Rádio ROCK",
+      "startTime": "02:10"
+    },
+    "recorded_at": "2025-11-26T02:11:19.573653+01:00",
+    "raw_valid": true,
+    "song_session_id": "c8315443-9f3c-4448-ba9a-422876372e0c"
+  },
+  {
+    "last_update": "2025-11-26 01:15:19",
+    "song": {
+      "musicAuthor": "The Cranberries",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851b81b7c1663be64a39433eb35",
+      "musicTitle": "Animal Instinct",
+      "radio": "Rádio ROCK",
+      "startTime": "02:14"
+    },
+    "recorded_at": "2025-11-26T02:15:19.778974+01:00",
+    "raw_valid": true,
+    "song_session_id": "6d06572c-17d7-4a5c-a23b-253045806d70"
+  },
+  {
+    "last_update": "2025-11-26 01:18:20",
+    "song": {
+      "musicAuthor": "Hovada Sk",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851bc3c57994e44fc644e997e54",
+      "musicTitle": "Spominaj",
+      "radio": "Rádio ROCK",
+      "startTime": "02:18"
+    },
+    "recorded_at": "2025-11-26T02:18:20.574221+01:00",
+    "raw_valid": true,
+    "song_session_id": "b9b709a6-d859-4d38-9dd2-d4d7e2a4c2a1"
+  },
+  {
+    "last_update": "2025-11-26 01:22:20",
+    "song": {
+      "musicAuthor": "Slade",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485184b6474df4a8ed448daa8295",
+      "musicTitle": "Run Runaway",
+      "radio": "Rádio ROCK",
+      "startTime": "02:21"
+    },
+    "recorded_at": "2025-11-26T02:22:20.791897+01:00",
+    "raw_valid": true,
+    "song_session_id": "6f183695-c086-4e4c-b3ef-031d48deba29"
+  },
+  {
+    "last_update": "2025-11-26 01:26:21",
+    "song": {
+      "musicAuthor": "Green Day",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485108a1b1e0674086d3f1995e1b",
+      "musicTitle": "Wake Me Up When September Ends",
+      "radio": "Rádio ROCK",
+      "startTime": "02:25"
+    },
+    "recorded_at": "2025-11-26T02:26:22.325113+01:00",
+    "raw_valid": true,
+    "song_session_id": "d2c5ef62-fb77-4af2-90bd-e2e27620a611"
+  },
+  {
+    "last_update": "2025-11-26 01:30:22",
+    "song": {
+      "musicAuthor": "Bez Ladu A Skladu",
+      "musicCover": "https://static.radia.sk/covers/32/e89c92d5-5e22-4249-9eed-1abc8177a0cb.jpg",
+      "musicTitle": "Parné Valce",
+      "radio": "Rádio ROCK",
+      "startTime": "02:29"
+    },
+    "recorded_at": "2025-11-26T02:30:22.922869+01:00",
+    "raw_valid": true,
+    "song_session_id": "82fcdb83-4f53-4135-8a24-31549a261cd1"
+  },
+  {
+    "last_update": "2025-11-26 01:33:23",
+    "song": {
+      "musicAuthor": "Lavagance",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048519dd73490cb009108f64049f2",
+      "musicTitle": "Miles",
+      "radio": "Rádio ROCK",
+      "startTime": "02:32"
+    },
+    "recorded_at": "2025-11-26T02:33:24.232583+01:00",
+    "raw_valid": true,
+    "song_session_id": "ce82250c-487c-4cb5-bdd7-19e6135a3fd4"
+  },
+  {
+    "last_update": "2025-11-26 01:36:25",
+    "song": {
+      "musicAuthor": "Janis Joplin",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048511ba5ee8bc24979ce3eee4797",
+      "musicTitle": "Piece Of My Heart",
+      "radio": "Rádio ROCK",
+      "startTime": "02:35"
+    },
+    "recorded_at": "2025-11-26T02:36:25.936124+01:00",
+    "raw_valid": true,
+    "song_session_id": "6078ea4e-63d6-464e-89f4-a93e80ee4323"
+  },
+  {
+    "last_update": "2025-11-26 01:40:25",
+    "song": {
+      "musicAuthor": "Metalinda",
+      "musicCover": "https://static.radia.sk/covers/32/27f79caa-b709-4a4b-a7d3-6b3a2b3c68b9.jpg",
+      "musicTitle": "Zaľúbená Žaba",
+      "radio": "Rádio ROCK",
+      "startTime": "02:39"
+    },
+    "recorded_at": "2025-11-26T02:40:26.313314+01:00",
+    "raw_valid": true,
+    "song_session_id": "a50edd79-0407-4a7b-8eb1-ce755f4e1008"
+  },
+  {
+    "last_update": "2025-11-26 01:44:26",
+    "song": {
+      "musicAuthor": "Iné Kafe",
+      "musicCover": "https://is5-ssl.mzstatic.com/image/thumb/Music125/v4/ce/78/4e/ce784ef3-8742-9cf4-a357-a5e00982902f/source/64x64bb.jpg",
+      "musicTitle": "Vsetky Skladby Sveta",
+      "radio": "Rádio ROCK",
+      "startTime": "02:43"
+    },
+    "recorded_at": "2025-11-26T02:44:26.902333+01:00",
+    "raw_valid": true,
+    "song_session_id": "4ea6f7ec-3627-4de7-bd96-66865570dec0"
+  },
+  {
+    "last_update": "2025-11-26 01:48:26",
+    "song": {
+      "musicAuthor": "The Offspring",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048510158cbde70672dd821972907",
+      "musicTitle": "Gotta Get Away",
+      "radio": "Rádio ROCK",
+      "startTime": "02:48"
+    },
+    "recorded_at": "2025-11-26T02:48:27.157422+01:00",
+    "raw_valid": true,
+    "song_session_id": "f415e4f7-e337-47f1-acb9-e99a79f52802"
+  },
+  {
+    "last_update": "2025-11-26 01:52:26",
+    "song": {
+      "musicAuthor": "Elán",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851c787956f04279f2509a1dc36",
+      "musicTitle": "Detektívka",
+      "radio": "Rádio ROCK",
+      "startTime": "02:51"
+    },
+    "recorded_at": "2025-11-26T02:52:27.423427+01:00",
+    "raw_valid": true,
+    "song_session_id": "6a6f94a1-59ad-4737-8f29-5b2d2c09201e"
+  },
+  {
+    "last_update": "2025-11-26 01:57:28",
+    "song": {
+      "musicAuthor": "Three Days Grace",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048519dcf31d6b5eb82fa24de783a",
+      "musicTitle": "Never Too Late",
+      "radio": "Rádio ROCK",
+      "startTime": "02:56"
+    },
+    "recorded_at": "2025-11-26T02:57:28.946675+01:00",
+    "raw_valid": true,
+    "song_session_id": "efd20972-3be1-4303-ad7c-c4dda3e8a2e9"
+  },
+  {
+    "last_update": "2025-11-26 02:00:28",
+    "song": {
+      "musicAuthor": "Paranoid, The",
+      "musicCover": "https://static.radia.sk/covers/32/6a4240f7-0415-4426-b5d7-761e04b4985b.jpg",
+      "musicTitle": "Noc Patri Nam",
+      "radio": "Rádio ROCK",
+      "startTime": "03:00"
+    },
+    "recorded_at": "2025-11-26T03:00:29.321493+01:00",
+    "raw_valid": true,
+    "song_session_id": "2cef6a9a-894c-4d2e-b05e-17c453418fdc"
+  },
+  {
+    "last_update": "2025-11-26 02:04:29",
+    "song": {
+      "musicAuthor": "Bryan Adams",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851cf1fee2a55e98e22bf358512",
+      "musicTitle": "Summer Of '69",
+      "radio": "Rádio ROCK",
+      "startTime": "03:03"
+    },
+    "recorded_at": "2025-11-26T03:04:29.910262+01:00",
+    "raw_valid": true,
+    "song_session_id": "7dee678c-6e3b-4638-994d-8e3598179167"
+  },
+  {
+    "last_update": "2025-11-26 02:07:31",
+    "song": {
+      "musicAuthor": "The Last Day Of Jesus",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048519fe400785e8b11bbc54b1d27",
+      "musicTitle": "Arma Christi",
+      "radio": "Rádio ROCK",
+      "startTime": "03:07"
+    },
+    "recorded_at": "2025-11-26T03:07:31.281605+01:00",
+    "raw_valid": true,
+    "song_session_id": "775b418d-a64d-44cb-a635-01f2fae9a728"
+  },
+  {
+    "last_update": "2025-11-26 02:12:30",
+    "song": {
+      "musicAuthor": "Slobodná Európa",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851bb1dd5e38b4d5bbbf8912209",
+      "musicTitle": "Relatívny Pokoj",
+      "radio": "Rádio ROCK",
+      "startTime": "03:11"
+    },
+    "recorded_at": "2025-11-26T03:12:31.666392+01:00",
+    "raw_valid": true,
+    "song_session_id": "6946de83-973f-428d-990e-12edba49a836"
+  },
+  {
+    "last_update": "2025-11-26 02:16:33",
+    "song": {
+      "musicAuthor": "Marilyn Manson",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851dcca264f538d015a1c9733a5",
+      "musicTitle": "Tainted Love",
+      "radio": "Rádio ROCK",
+      "startTime": "03:15"
+    },
+    "recorded_at": "2025-11-26T03:16:33.883801+01:00",
+    "raw_valid": true,
+    "song_session_id": "6cda38a5-527c-45a5-8d37-b3669fcd484c"
+  },
+  {
+    "last_update": "2025-11-26 02:19:33",
+    "song": {
+      "musicAuthor": "Lepayaco",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485141a89ef5d65d2ee8e4e8d044",
+      "musicTitle": "Dobry Vecer Priatelia",
+      "radio": "Rádio ROCK",
+      "startTime": "03:18"
+    },
+    "recorded_at": "2025-11-26T03:19:34.332067+01:00",
+    "raw_valid": true,
+    "song_session_id": "b37dfb63-e0a8-46c7-9da2-6991491bd327"
+  },
+  {
+    "last_update": "2025-11-26 02:21:34",
+    "song": {
+      "musicAuthor": "Cmorík Peter",
+      "musicCover": "https://static.radia.sk/covers/32/205320a2-1b72-4e5d-bea3-1122e8c91064.jpg",
+      "musicTitle": "Mám Pocit",
+      "radio": "Rádio ROCK",
+      "startTime": "03:21"
+    },
+    "recorded_at": "2025-11-26T03:21:34.546605+01:00",
+    "raw_valid": true,
+    "song_session_id": "6168cb6d-9171-433c-a48d-9dfb6a5943f3"
+  },
+  {
+    "last_update": "2025-11-26 02:26:33",
+    "song": {
+      "musicAuthor": "Lucie",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048518d8d0e40bd3b70756f01044c",
+      "musicTitle": "Černí Andělé",
+      "radio": "Rádio ROCK",
+      "startTime": "03:25"
+    },
+    "recorded_at": "2025-11-26T03:26:34.904486+01:00",
+    "raw_valid": true,
+    "song_session_id": "43976db5-6c91-4c67-9984-61b6149c1512"
+  },
+  {
+    "last_update": "2025-11-26 02:29:34",
+    "song": {
+      "musicAuthor": "Helenine Oci",
+      "musicCover": "/layout/covers/default.png",
+      "musicTitle": "Mariana",
+      "radio": "Rádio ROCK",
+      "startTime": "03:29"
+    },
+    "recorded_at": "2025-11-26T03:29:35.070677+01:00",
+    "raw_valid": true,
+    "song_session_id": "b7c6c303-2415-4583-ae42-f01b8bc73d0c"
+  },
+  {
+    "last_update": "2025-11-26 02:32:35",
+    "song": {
+      "musicAuthor": "Bijouterrier",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851e59090f28a251e44cacaa8ff",
+      "musicTitle": "Preco Places Vilem?",
+      "radio": "Rádio ROCK",
+      "startTime": "03:31"
+    },
+    "recorded_at": "2025-11-26T03:32:35.679968+01:00",
+    "raw_valid": true,
+    "song_session_id": "046d880e-58e4-460a-afee-b3ea71b022a5"
+  },
+  {
+    "last_update": "2025-11-26 02:35:35",
+    "song": {
+      "musicAuthor": "Limp Bizkit",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048514a31b146c7cf07705d912efe",
+      "musicTitle": "Rollin",
+      "radio": "Rádio ROCK",
+      "startTime": "03:34"
+    },
+    "recorded_at": "2025-11-26T03:35:35.936761+01:00",
+    "raw_valid": true,
+    "song_session_id": "c8aaafae-6b0f-40bc-8c05-1be752469ff3"
+  },
+  {
+    "last_update": "2025-11-26 02:38:35",
+    "song": {
+      "musicAuthor": "Peha",
+      "musicCover": "https://static.radia.sk/covers/32/23af7415-fcaa-4716-aee4-ad3e0de7314a.jpg",
+      "musicTitle": "V Zaseknutom Výťahu",
+      "radio": "Rádio ROCK",
+      "startTime": "03:37"
+    },
+    "recorded_at": "2025-11-26T03:38:36.101374+01:00",
+    "raw_valid": true,
+    "song_session_id": "2554c592-94ef-4c68-838b-43f0cde550fc"
+  },
+  {
+    "last_update": "2025-11-26 02:42:38",
+    "song": {
+      "musicAuthor": "Elán",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048516f93b2fb748d6ada175e7a53",
+      "musicTitle": "Kamaráti",
+      "radio": "Rádio ROCK",
+      "startTime": "03:42"
+    },
+    "recorded_at": "2025-11-26T03:42:38.477513+01:00",
+    "raw_valid": true,
+    "song_session_id": "dbb314d9-fb69-4988-9901-2fae47b8a4ac"
+  },
+  {
+    "last_update": "2025-11-26 02:45:08",
+    "song": {
+      "musicAuthor": "Sounds Like This",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851908a022420c5b7d800d4afaa",
+      "musicTitle": "Cudzinec",
+      "radio": "Rádio ROCK",
+      "startTime": "03:44"
+    },
+    "recorded_at": "2025-11-26T03:45:08.736779+01:00",
+    "raw_valid": true,
+    "song_session_id": "7b24d9d6-e19f-4626-af8b-670109c22180"
+  },
+  {
+    "last_update": "2025-11-26 02:49:08",
+    "song": {
+      "musicAuthor": "Wheatus",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048510a3740efa638f10f14fabc46",
+      "musicTitle": "Teenage Dirtbag",
+      "radio": "Rádio ROCK",
+      "startTime": "03:48"
+    },
+    "recorded_at": "2025-11-26T03:49:08.970420+01:00",
+    "raw_valid": true,
+    "song_session_id": "e41bc756-9de8-42e1-b3aa-96615d7deb88"
+  },
+  {
+    "last_update": "2025-11-26 02:53:08",
+    "song": {
+      "musicAuthor": "The Paranoid",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048514709458a8bdb635952f15a82",
+      "musicTitle": "Anjeli Spia",
+      "radio": "Rádio ROCK",
+      "startTime": "03:52"
+    },
+    "recorded_at": "2025-11-26T03:53:09.358570+01:00",
+    "raw_valid": true,
+    "song_session_id": "e7b2e241-940f-4429-a481-8793d24a654c"
+  },
+  {
+    "last_update": "2025-11-26 02:56:09",
+    "song": {
+      "musicAuthor": "Korn",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485150d216aebaf98e8ac9947fd5",
+      "musicTitle": "Got The Life",
+      "radio": "Rádio ROCK",
+      "startTime": "03:56"
+    },
+    "recorded_at": "2025-11-26T03:56:09.987300+01:00",
+    "raw_valid": true,
+    "song_session_id": "9029187b-4690-4b7c-af72-ae8199be0384"
+  },
+  {
+    "last_update": "2025-11-26 03:02:09",
+    "song": {
+      "musicAuthor": "Def Leppard",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851222cb38afc3b3b47d9df26aa",
+      "musicTitle": "Pour Some Sugar On Me",
+      "radio": "Rádio ROCK",
+      "startTime": "04:01"
+    },
+    "recorded_at": "2025-11-26T04:02:10.408485+01:00",
+    "raw_valid": true,
+    "song_session_id": "08d1562a-620d-4bb5-bd15-2c96f625ae44"
+  }
+]

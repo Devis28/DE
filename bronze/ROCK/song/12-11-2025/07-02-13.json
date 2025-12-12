@@ -1,0 +1,340 @@
+[
+  {
+    "last_update": "2025-11-12 05:06:17",
+    "song": {
+      "musicAuthor": "Toto",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048514a052b99c042dc15f933145b",
+      "musicTitle": "Africa",
+      "radio": "Rádio ROCK",
+      "startTime": "06:05"
+    },
+    "recorded_at": "2025-11-12T06:06:18.403000+01:00",
+    "raw_valid": true,
+    "song_session_id": "af2737aa-6361-4898-b761-47baa5bfb8c9"
+  },
+  {
+    "last_update": "2025-11-12 05:11:20",
+    "song": {
+      "musicAuthor": "Rammstein",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048518b2c42026277efc3e058855b",
+      "musicTitle": "Feuer Frei",
+      "radio": "Rádio ROCK",
+      "startTime": "06:10"
+    },
+    "recorded_at": "2025-11-12T06:11:20.229237+01:00",
+    "raw_valid": true,
+    "song_session_id": "330160d4-d634-4f10-8909-6db990a71654"
+  },
+  {
+    "last_update": "2025-11-12 05:14:20",
+    "song": {
+      "musicAuthor": "Deep Blue Something",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851038f8fad2f75b637f1c9aef5",
+      "musicTitle": "Breakfast At Tiffany's",
+      "radio": "Rádio ROCK",
+      "startTime": "06:13"
+    },
+    "recorded_at": "2025-11-12T06:14:20.446011+01:00",
+    "raw_valid": true,
+    "song_session_id": "b3e61548-ac6e-4e7c-b66d-bf6b686f0614"
+  },
+  {
+    "last_update": "2025-11-12 05:21:20",
+    "song": {
+      "musicAuthor": "Slade",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485184b6474df4a8ed448daa8295",
+      "musicTitle": "My, Oh My",
+      "radio": "Rádio ROCK",
+      "startTime": "06:20"
+    },
+    "recorded_at": "2025-11-12T06:21:21.123608+01:00",
+    "raw_valid": true,
+    "song_session_id": "73f7499a-83a2-4dce-bf48-95215276f0a5"
+  },
+  {
+    "last_update": "2025-11-12 05:25:21",
+    "song": {
+      "musicAuthor": "The Red Hot Chili Peppers",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851f3686323bf737cb7ba3de792",
+      "musicTitle": "Snow (Hey Oh)",
+      "radio": "Rádio ROCK",
+      "startTime": "06:24"
+    },
+    "recorded_at": "2025-11-12T06:25:21.914852+01:00",
+    "raw_valid": true,
+    "song_session_id": "64669abc-797c-47b4-a49a-5a11285e63a2"
+  },
+  {
+    "last_update": "2025-11-12 05:30:22",
+    "song": {
+      "musicAuthor": "Guns N Roses",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485192d21aef6c0d288cc4c05973",
+      "musicTitle": "Yesterdays",
+      "radio": "Rádio ROCK",
+      "startTime": "06:30"
+    },
+    "recorded_at": "2025-11-12T06:30:22.250420+01:00",
+    "raw_valid": true,
+    "song_session_id": "eae3ac72-dc58-4cdc-bfb8-711ef7e6ff8f"
+  },
+  {
+    "last_update": "2025-11-12 05:35:22",
+    "song": {
+      "musicAuthor": "Survivor",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048514ea1fd36ef7d78214011371c",
+      "musicTitle": "Burning Heart",
+      "radio": "Rádio ROCK",
+      "startTime": "06:34"
+    },
+    "recorded_at": "2025-11-12T06:35:23.299080+01:00",
+    "raw_valid": true,
+    "song_session_id": "bba7a0a9-fc69-491b-9928-e49715aab921"
+  },
+  {
+    "last_update": "2025-11-12 05:39:24",
+    "song": {
+      "musicAuthor": "Fall Out Boy",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485171565eda831124be86c603d5",
+      "musicTitle": "Dance, Dance",
+      "radio": "Rádio ROCK",
+      "startTime": "06:38"
+    },
+    "recorded_at": "2025-11-12T06:39:24.150214+01:00",
+    "raw_valid": true,
+    "song_session_id": "11b6a54f-d00a-4bd7-9a0f-93b994f58029"
+  },
+  {
+    "last_update": "2025-11-12 05:42:24",
+    "song": {
+      "musicAuthor": "The Offspring",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851cbd2ee7dff77bfb2b5f0af52",
+      "musicTitle": "The Kids Arent Alright",
+      "radio": "Rádio ROCK",
+      "startTime": "06:41"
+    },
+    "recorded_at": "2025-11-12T06:42:24.563529+01:00",
+    "raw_valid": true,
+    "song_session_id": "16f8a7e9-189f-4e5d-a174-18e8ebeac4a6"
+  },
+  {
+    "last_update": "2025-11-12 05:45:24",
+    "song": {
+      "musicAuthor": "The Beatles",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851e3e3b64cea45265469d4cafa",
+      "musicTitle": "Help!",
+      "radio": "Rádio ROCK",
+      "startTime": "06:44"
+    },
+    "recorded_at": "2025-11-12T06:45:25.703868+01:00",
+    "raw_valid": true,
+    "song_session_id": "a79367d1-4848-479f-ba24-18493c803cd0"
+  },
+  {
+    "last_update": "2025-11-12 05:49:27",
+    "song": {
+      "musicAuthor": "Imagine Dragons",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851407bd04707c463bbb3410737",
+      "musicTitle": "Demons",
+      "radio": "Rádio ROCK",
+      "startTime": "06:48"
+    },
+    "recorded_at": "2025-11-12T06:49:27.191858+01:00",
+    "raw_valid": true,
+    "song_session_id": "47713963-a3ff-4e84-b9b1-4748f0218a00"
+  },
+  {
+    "last_update": "2025-11-12 05:52:27",
+    "song": {
+      "musicAuthor": "Slobodná Európa",
+      "musicCover": "https://static.radia.sk/covers/32/689a01be-a309-445d-af99-b8ee3c76f58d.jpg",
+      "musicTitle": "Podvod",
+      "radio": "Rádio ROCK",
+      "startTime": "06:51"
+    },
+    "recorded_at": "2025-11-12T06:52:27.592370+01:00",
+    "raw_valid": true,
+    "song_session_id": "49f87765-cc2a-43fa-a8ae-2e813d541f5c"
+  },
+  {
+    "last_update": "2025-11-12 05:55:28",
+    "song": {
+      "musicAuthor": "Led Zeppelin",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851765b0617b572bdd1dbdc7d8e",
+      "musicTitle": "Kashmir",
+      "radio": "Rádio ROCK",
+      "startTime": "06:54"
+    },
+    "recorded_at": "2025-11-12T06:55:28.927886+01:00",
+    "raw_valid": true,
+    "song_session_id": "b2ba5da6-b851-48c7-b37d-45d7197f66ff"
+  },
+  {
+    "last_update": "2025-11-12 06:06:29",
+    "song": {
+      "musicAuthor": "Red Hot Chili Peppers",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485109fd83d32aee93dceba78517",
+      "musicTitle": "Tell Me Baby",
+      "radio": "Rádio ROCK",
+      "startTime": "07:05"
+    },
+    "recorded_at": "2025-11-12T07:06:29.926589+01:00",
+    "raw_valid": true,
+    "song_session_id": "a2c174b7-3e99-423f-bbc1-2c82114e2250"
+  },
+  {
+    "last_update": "2025-11-12 06:10:30",
+    "song": {
+      "musicAuthor": "Tublatanka",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048514b813e7e56c0e4c85f8cb5d0",
+      "musicTitle": "Pravda Víťazí",
+      "radio": "Rádio ROCK",
+      "startTime": "07:09"
+    },
+    "recorded_at": "2025-11-12T07:10:30.795499+01:00",
+    "raw_valid": true,
+    "song_session_id": "aad6b288-a851-4302-9312-2415e17196a1"
+  },
+  {
+    "last_update": "2025-11-12 06:15:31",
+    "song": {
+      "musicAuthor": "Foo Fighters",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048511759635c92b6314d3d3c9fe9",
+      "musicTitle": "Learn To Fly",
+      "radio": "Rádio ROCK",
+      "startTime": "07:14"
+    },
+    "recorded_at": "2025-11-12T07:15:31.271717+01:00",
+    "raw_valid": true,
+    "song_session_id": "c1527248-63d7-4dd8-a058-5730a9240ce3"
+  },
+  {
+    "last_update": "2025-11-12 06:20:31",
+    "song": {
+      "musicAuthor": "Nickelback",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048518ad2adfa59683b9c8ace96c1",
+      "musicTitle": "Rockstar",
+      "radio": "Rádio ROCK",
+      "startTime": "07:19"
+    },
+    "recorded_at": "2025-11-12T07:20:31.600108+01:00",
+    "raw_valid": true,
+    "song_session_id": "8a38947b-3a8c-4688-bb93-8ff48cf5c1b2"
+  },
+  {
+    "last_update": "2025-11-12 06:24:32",
+    "song": {
+      "musicAuthor": "Lynyrd Skynyrd",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485117e1907923e91181f38290ac",
+      "musicTitle": "Sweet Home Alabama",
+      "radio": "Rádio ROCK",
+      "startTime": "07:24"
+    },
+    "recorded_at": "2025-11-12T07:24:33.079579+01:00",
+    "raw_valid": true,
+    "song_session_id": "2f6e780f-5e80-4179-ba42-d6df936a4aee"
+  },
+  {
+    "last_update": "2025-11-12 06:29:32",
+    "song": {
+      "musicAuthor": "Ozzy Osbourne",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048511c06588e25004be37447a4e9",
+      "musicTitle": "Perry Mason",
+      "radio": "Rádio ROCK",
+      "startTime": "07:28"
+    },
+    "recorded_at": "2025-11-12T07:29:33.464026+01:00",
+    "raw_valid": true,
+    "song_session_id": "ce710137-b494-4f52-a7a1-67e28c7fc43c"
+  },
+  {
+    "last_update": "2025-11-12 06:36:33",
+    "song": {
+      "musicAuthor": "Horkýže Slíže",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851a1dba7a16c82818421fc734a",
+      "musicTitle": "Brďokoky",
+      "radio": "Rádio ROCK",
+      "startTime": "07:35"
+    },
+    "recorded_at": "2025-11-12T07:36:33.994799+01:00",
+    "raw_valid": true,
+    "song_session_id": "774ebb4e-f6de-41a3-80b7-4b8a700a25c4"
+  },
+  {
+    "last_update": "2025-11-12 06:39:33",
+    "song": {
+      "musicAuthor": "The Kinks",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048513e55d44d1e71dab08c35cc1c",
+      "musicTitle": "You Really Got Me",
+      "radio": "Rádio ROCK",
+      "startTime": "07:38"
+    },
+    "recorded_at": "2025-11-12T07:39:34.182159+01:00",
+    "raw_valid": true,
+    "song_session_id": "b3cdca63-eb84-45ec-8a8d-1fee55f7b274"
+  },
+  {
+    "last_update": "2025-11-12 06:42:34",
+    "song": {
+      "musicAuthor": "Iné Kafe",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851a36a083c5dec894348b99b3c",
+      "musicTitle": "Ráno",
+      "radio": "Rádio ROCK",
+      "startTime": "07:41"
+    },
+    "recorded_at": "2025-11-12T07:42:34.509806+01:00",
+    "raw_valid": true,
+    "song_session_id": "a8fb1460-7243-48b3-ab74-67c6d0517f24"
+  },
+  {
+    "last_update": "2025-11-12 06:46:35",
+    "song": {
+      "musicAuthor": "Adams Bryan",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048518c996a02e385a1a98fa07db1",
+      "musicTitle": "Roll With The Punches",
+      "radio": "Rádio ROCK",
+      "startTime": "07:45"
+    },
+    "recorded_at": "2025-11-12T07:46:35.987912+01:00",
+    "raw_valid": true,
+    "song_session_id": "74ca48cf-efe1-4c3f-a2f6-67829075a178"
+  },
+  {
+    "last_update": "2025-11-12 06:51:38",
+    "song": {
+      "musicAuthor": "Bon Jovi",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851a2841eb6e1649170cc312871",
+      "musicTitle": "Have A Nice Day",
+      "radio": "Rádio ROCK",
+      "startTime": "07:50"
+    },
+    "recorded_at": "2025-11-12T07:51:38.470610+01:00",
+    "raw_valid": true,
+    "song_session_id": "e5b7c59e-4ce7-4df4-b826-89b231c3b187"
+  },
+  {
+    "last_update": "2025-11-12 06:55:08",
+    "song": {
+      "musicAuthor": "Bruce Springsteen",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851a7865e686c36a4adda6c9978",
+      "musicTitle": "Born In The U.S.A.",
+      "radio": "Rádio ROCK",
+      "startTime": "07:54"
+    },
+    "recorded_at": "2025-11-12T07:55:08.951046+01:00",
+    "raw_valid": true,
+    "song_session_id": "d2b72869-637c-48db-8b4c-531a8cf05a54"
+  },
+  {
+    "last_update": "2025-11-12 06:59:09",
+    "song": {
+      "musicAuthor": "Oasis",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851580abb98fc826cfe362a65cb",
+      "musicTitle": "Whatever",
+      "radio": "Rádio ROCK",
+      "startTime": "07:59"
+    },
+    "recorded_at": "2025-11-12T07:59:09.976422+01:00",
+    "raw_valid": true,
+    "song_session_id": "ae6f2e20-ed88-4483-b744-55780012d3fd"
+  }
+]

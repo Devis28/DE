@@ -1,0 +1,392 @@
+[
+  {
+    "last_update": "2025-11-08 17:02:31",
+    "song": {
+      "musicAuthor": "Creed",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851a32f2ae4dade83e0d7a294f4",
+      "musicTitle": "My Sacrifice",
+      "radio": "Rádio ROCK",
+      "startTime": "18:02"
+    },
+    "recorded_at": "2025-11-08T18:02:31.706929+01:00",
+    "raw_valid": true,
+    "song_session_id": "fa904c36-12dc-44df-803f-bc92b1a5e1e5"
+  },
+  {
+    "last_update": "2025-11-08 17:07:32",
+    "song": {
+      "musicAuthor": "Metallica",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851cf84c5b276431b473e924802",
+      "musicTitle": "Nothing Else Matters",
+      "radio": "Rádio ROCK",
+      "startTime": "18:06"
+    },
+    "recorded_at": "2025-11-08T18:07:32.815502+01:00",
+    "raw_valid": true,
+    "song_session_id": "dbc4a80c-d59a-46a8-b12b-251ef28d5ea1"
+  },
+  {
+    "last_update": "2025-11-08 17:14:33",
+    "song": {
+      "musicAuthor": "Lenny Kravitz",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851542d87e4d1512bf7facb3860",
+      "musicTitle": "Are You Gonna Go My Way",
+      "radio": "Rádio ROCK",
+      "startTime": "18:13"
+    },
+    "recorded_at": "2025-11-08T18:14:33.402583+01:00",
+    "raw_valid": true,
+    "song_session_id": "3054a9f6-d4c0-4658-85cf-95ecdb537cd0"
+  },
+  {
+    "last_update": "2025-11-08 17:17:33",
+    "song": {
+      "musicAuthor": "Billy Joel",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048511946747b8692919f98918ec4",
+      "musicTitle": "We Didn't Start The Fire",
+      "radio": "Rádio ROCK",
+      "startTime": "18:16"
+    },
+    "recorded_at": "2025-11-08T18:17:33.965294+01:00",
+    "raw_valid": true,
+    "song_session_id": "719a22d9-dc96-4abf-88f5-96a9854d7ef3"
+  },
+  {
+    "last_update": "2025-11-08 17:22:34",
+    "song": {
+      "musicAuthor": "Foo Fighters",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048514cf13503a5fafa24d8c63059",
+      "musicTitle": "Todays Song",
+      "radio": "Rádio ROCK",
+      "startTime": "18:21"
+    },
+    "recorded_at": "2025-11-08T18:22:34.816154+01:00",
+    "raw_valid": true,
+    "song_session_id": "5cd96b3c-880f-4482-aaa0-ea80417cf5bc"
+  },
+  {
+    "last_update": "2025-11-08 17:25:34",
+    "song": {
+      "musicAuthor": "Rammstein",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048518b2c42026277efc3e058855b",
+      "musicTitle": "Sonne",
+      "radio": "Rádio ROCK",
+      "startTime": "18:24"
+    },
+    "recorded_at": "2025-11-08T18:25:34.989685+01:00",
+    "raw_valid": true,
+    "song_session_id": "36c0ece8-c847-45f8-b3ef-21cee93f6d36"
+  },
+  {
+    "last_update": "2025-11-08 17:29:34",
+    "song": {
+      "musicAuthor": "Bon Jovi",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851901d0116a03d30a5c45bb99c",
+      "musicTitle": "Bad Medicine",
+      "radio": "Rádio ROCK",
+      "startTime": "18:28"
+    },
+    "recorded_at": "2025-11-08T18:29:35.220531+01:00",
+    "raw_valid": true,
+    "song_session_id": "31dd1d4f-999a-4394-83c4-15ee7c7d5fed"
+  },
+  {
+    "last_update": "2025-11-08 17:34:36",
+    "song": {
+      "musicAuthor": "Scorpions",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851787674b6a114f98cad6f834b",
+      "musicTitle": "Send Me An Angel",
+      "radio": "Rádio ROCK",
+      "startTime": "18:33"
+    },
+    "recorded_at": "2025-11-08T18:34:37.278374+01:00",
+    "raw_valid": true,
+    "song_session_id": "ca11ad7d-b9ac-407b-910a-722b6f8dbe9e"
+  },
+  {
+    "last_update": "2025-11-08 17:39:12",
+    "song": {
+      "musicAuthor": "Franz Ferdinand",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485109a90531b85be7899c3234c4",
+      "musicTitle": "Take Me Out",
+      "radio": "Rádio ROCK",
+      "startTime": "18:38"
+    },
+    "recorded_at": "2025-11-08T18:39:12.610689+01:00",
+    "raw_valid": true,
+    "song_session_id": "773775e5-0f71-4569-9a3b-ea8ffe7b853c"
+  },
+  {
+    "last_update": "2025-11-08 17:42:12",
+    "song": {
+      "musicAuthor": "Iné Kafe",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851a36a083c5dec894348b99b3c",
+      "musicTitle": "Ráno",
+      "radio": "Rádio ROCK",
+      "startTime": "18:42"
+    },
+    "recorded_at": "2025-11-08T18:42:12.849199+01:00",
+    "raw_valid": true,
+    "song_session_id": "0db880d4-1f1d-412d-9121-e276e974c0eb"
+  },
+  {
+    "last_update": "2025-11-08 17:47:14",
+    "song": {
+      "musicAuthor": "Pink Floyd",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048513e6b6b961dbe279540b72cb5",
+      "musicTitle": "Another Brick In The Wall",
+      "radio": "Rádio ROCK",
+      "startTime": "18:46"
+    },
+    "recorded_at": "2025-11-08T18:47:14.720493+01:00",
+    "raw_valid": true,
+    "song_session_id": "32954b0a-2656-4801-b2c9-a7ae7f2769a0"
+  },
+  {
+    "last_update": "2025-11-08 17:50:14",
+    "song": {
+      "musicAuthor": "The Beatles",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851dc30583ba717007b00cceb25",
+      "musicTitle": "Come Together",
+      "radio": "Rádio ROCK",
+      "startTime": "18:49"
+    },
+    "recorded_at": "2025-11-08T18:50:15.029290+01:00",
+    "raw_valid": true,
+    "song_session_id": "9ef9a89c-ccb7-4cc0-b4b8-d8bcbe8dc259"
+  },
+  {
+    "last_update": "2025-11-08 17:54:15",
+    "song": {
+      "musicAuthor": "Red Hot Chili Peppers",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485109fd83d32aee93dceba78517",
+      "musicTitle": "Tell Me Baby",
+      "radio": "Rádio ROCK",
+      "startTime": "18:54"
+    },
+    "recorded_at": "2025-11-08T18:54:15.344991+01:00",
+    "raw_valid": true,
+    "song_session_id": "031e89fa-12d2-4bac-b39e-3b20afe62516"
+  },
+  {
+    "last_update": "2025-11-08 17:58:15",
+    "song": {
+      "musicAuthor": "Meredith Brooks",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048517a8ebb7a3a8c0cadc4490cb4",
+      "musicTitle": "Bitch",
+      "radio": "Rádio ROCK",
+      "startTime": "18:58"
+    },
+    "recorded_at": "2025-11-08T18:58:15.600332+01:00",
+    "raw_valid": true,
+    "song_session_id": "68707eb2-0b33-427d-84d5-6668b1d6e924"
+  },
+  {
+    "last_update": "2025-11-08 18:02:15",
+    "song": {
+      "musicAuthor": "Evanescence",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485125f49ab23f0ec6332efef432",
+      "musicTitle": "My Immortal",
+      "radio": "Rádio ROCK",
+      "startTime": "19:02"
+    },
+    "recorded_at": "2025-11-08T19:02:15.918608+01:00",
+    "raw_valid": true,
+    "song_session_id": "49dc403a-5cd4-4418-a67c-5b461122e8f7"
+  },
+  {
+    "last_update": "2025-11-08 18:07:16",
+    "song": {
+      "musicAuthor": "Travis",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048512951c50b6cfcf7e0e26279aa",
+      "musicTitle": "Why Does It Always Rain On Me?",
+      "radio": "Rádio ROCK",
+      "startTime": "19:06"
+    },
+    "recorded_at": "2025-11-08T19:07:16.642791+01:00",
+    "raw_valid": true,
+    "song_session_id": "76ced9b4-9881-4a50-8c3c-9c76c2975709"
+  },
+  {
+    "last_update": "2025-11-08 18:11:17",
+    "song": {
+      "musicAuthor": "Slade",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048516832fb0dccc14e5930045202",
+      "musicTitle": "Far Far Away",
+      "radio": "Rádio ROCK",
+      "startTime": "19:11"
+    },
+    "recorded_at": "2025-11-08T19:11:18.059436+01:00",
+    "raw_valid": true,
+    "song_session_id": "1e4ddd2c-c36e-4e0b-8102-cdc0cd36c656"
+  },
+  {
+    "last_update": "2025-11-08 18:15:19",
+    "song": {
+      "musicAuthor": "Hole",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048510649124c37ce988317263671",
+      "musicTitle": "Malibu",
+      "radio": "Rádio ROCK",
+      "startTime": "19:14"
+    },
+    "recorded_at": "2025-11-08T19:15:19.761847+01:00",
+    "raw_valid": true,
+    "song_session_id": "5145667c-8a79-4ad3-90c4-26dc1977bece"
+  },
+  {
+    "last_update": "2025-11-08 18:19:19",
+    "song": {
+      "musicAuthor": "Horkýže Slíže",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851911995709754b328f466267c",
+      "musicTitle": "Logická Hádanka",
+      "radio": "Rádio ROCK",
+      "startTime": "19:18"
+    },
+    "recorded_at": "2025-11-08T19:19:20.159809+01:00",
+    "raw_valid": true,
+    "song_session_id": "ee897478-1bdb-49fc-978b-7adc969f64ae"
+  },
+  {
+    "last_update": "2025-11-08 18:21:18",
+    "song": {
+      "musicAuthor": "Green Day",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851ecf325211ee12671f180852a",
+      "musicTitle": "Smash It Like Belushi",
+      "radio": "Rádio ROCK",
+      "startTime": "19:20"
+    },
+    "recorded_at": "2025-11-08T19:21:20.274448+01:00",
+    "raw_valid": true,
+    "song_session_id": "3eb59f5c-c0d9-4a86-a42d-f589d2606675"
+  },
+  {
+    "last_update": "2025-11-08 18:24:20",
+    "song": {
+      "musicAuthor": "Metallica",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048517c05e69390ab7c628a83cee7",
+      "musicTitle": "One",
+      "radio": "Rádio ROCK",
+      "startTime": "19:23"
+    },
+    "recorded_at": "2025-11-08T19:24:20.450523+01:00",
+    "raw_valid": true,
+    "song_session_id": "343306f6-c656-4740-86f6-aafe448597ea"
+  },
+  {
+    "last_update": "2025-11-08 18:31:20",
+    "song": {
+      "musicAuthor": "The Offspring",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851ba12c467b8cc7eb3be9e7d8b",
+      "musicTitle": "All I Want",
+      "radio": "Rádio ROCK",
+      "startTime": "19:30"
+    },
+    "recorded_at": "2025-11-08T19:31:21.011580+01:00",
+    "raw_valid": true,
+    "song_session_id": "7df5ff53-ec89-41bb-98d4-63b40102350b"
+  },
+  {
+    "last_update": "2025-11-08 18:33:22",
+    "song": {
+      "musicAuthor": "Cocker Joe",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485120714a75aad942d4d695d618",
+      "musicTitle": "Unchain My Heart",
+      "radio": "Rádio ROCK",
+      "startTime": "19:32"
+    },
+    "recorded_at": "2025-11-08T19:33:22.630061+01:00",
+    "raw_valid": true,
+    "song_session_id": "1b7994ed-9ebe-488e-990a-61d60a07065e"
+  },
+  {
+    "last_update": "2025-11-08 18:38:22",
+    "song": {
+      "musicAuthor": "Blink 182",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048516da502e35a7a3e48de2b0f74",
+      "musicTitle": "All The Small Things",
+      "radio": "Rádio ROCK",
+      "startTime": "19:37"
+    },
+    "recorded_at": "2025-11-08T19:38:23.104514+01:00",
+    "raw_valid": true,
+    "song_session_id": "7eb9945c-3853-4bd8-9ba5-605c649bc675"
+  },
+  {
+    "last_update": "2025-11-08 18:41:22",
+    "song": {
+      "musicAuthor": "Wohnout",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048514d5f8f3f698e04be1fb03634",
+      "musicTitle": "Svaz Ceskych Bohemu",
+      "radio": "Rádio ROCK",
+      "startTime": "19:40"
+    },
+    "recorded_at": "2025-11-08T19:41:23.541423+01:00",
+    "raw_valid": true,
+    "song_session_id": "2e94b9f3-e6f3-4e34-830c-607e6e3ce32b"
+  },
+  {
+    "last_update": "2025-11-08 18:45:23",
+    "song": {
+      "musicAuthor": "Oasis",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851580abb98fc826cfe362a65cb",
+      "musicTitle": "Whatever",
+      "radio": "Rádio ROCK",
+      "startTime": "19:44"
+    },
+    "recorded_at": "2025-11-08T19:45:24.227424+01:00",
+    "raw_valid": true,
+    "song_session_id": "1530dac9-c1da-4672-b246-c93d6c7bcbe5"
+  },
+  {
+    "last_update": "2025-11-08 18:49:25",
+    "song": {
+      "musicAuthor": "Hooters The",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048519280b5fea3cde8e6caeaef00",
+      "musicTitle": "Johnny B.",
+      "radio": "Rádio ROCK",
+      "startTime": "19:48"
+    },
+    "recorded_at": "2025-11-08T19:49:26.247766+01:00",
+    "raw_valid": true,
+    "song_session_id": "b061c0d2-1d83-4761-8734-29cdffe1f792"
+  },
+  {
+    "last_update": "2025-11-08 18:53:25",
+    "song": {
+      "musicAuthor": "Blur",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851482869c6f9416161dab79d39",
+      "musicTitle": "Song 2",
+      "radio": "Rádio ROCK",
+      "startTime": "19:52"
+    },
+    "recorded_at": "2025-11-08T19:53:26.738846+01:00",
+    "raw_valid": true,
+    "song_session_id": "78c00795-de8c-488e-b4eb-41d51f0f63d8"
+  },
+  {
+    "last_update": "2025-11-08 18:55:26",
+    "song": {
+      "musicAuthor": "Keane",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048517d6cd95a046a3c0dacbc7d33",
+      "musicTitle": "Everybody's Changing",
+      "radio": "Rádio ROCK",
+      "startTime": "19:54"
+    },
+    "recorded_at": "2025-11-08T19:55:26.852235+01:00",
+    "raw_valid": true,
+    "song_session_id": "4924f719-4092-4ce9-8271-9f16f1e66b69"
+  },
+  {
+    "last_update": "2025-11-08 18:59:30",
+    "song": {
+      "musicAuthor": "Rainbow",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851380a8be605d3765f34ec54f7",
+      "musicTitle": "Since You Been Gone",
+      "radio": "Rádio ROCK",
+      "startTime": "19:58"
+    },
+    "recorded_at": "2025-11-08T19:59:30.871293+01:00",
+    "raw_valid": true,
+    "song_session_id": "6508e50c-d3c4-459e-bbdb-a23044ead083"
+  }
+]

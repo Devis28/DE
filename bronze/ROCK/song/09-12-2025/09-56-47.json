@@ -1,0 +1,340 @@
+[
+  {
+    "last_update": "2025-12-09 07:59:18",
+    "song": {
+      "musicAuthor": "Jimi Hendrix",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851c9adfbd773852e286faed040",
+      "musicTitle": "Hey Joe",
+      "radio": "Rádio ROCK",
+      "startTime": "08:59"
+    },
+    "recorded_at": "2025-12-09T08:59:19.534368+01:00",
+    "raw_valid": true,
+    "song_session_id": "b5d21dcf-5d58-440a-8c2e-52920a3c1264"
+  },
+  {
+    "last_update": "2025-12-09 08:07:21",
+    "song": {
+      "musicAuthor": "U2",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851b7bea3d01f04e6d0408d2afe",
+      "musicTitle": "I Still Haven't Found What I'm Looking For",
+      "radio": "Rádio ROCK",
+      "startTime": "09:06"
+    },
+    "recorded_at": "2025-12-09T09:07:21.204787+01:00",
+    "raw_valid": true,
+    "song_session_id": "4743414e-88fe-4786-84c9-c9e2ec22d33d"
+  },
+  {
+    "last_update": "2025-12-09 08:11:21",
+    "song": {
+      "musicAuthor": "Horkýže Slíže",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851cdf1f087ff7f86569b256ca8",
+      "musicTitle": "Kozky Perie",
+      "radio": "Rádio ROCK",
+      "startTime": "09:10"
+    },
+    "recorded_at": "2025-12-09T09:11:22.423164+01:00",
+    "raw_valid": true,
+    "song_session_id": "6a8331ef-ae68-4154-a33c-2c30d6680ee6"
+  },
+  {
+    "last_update": "2025-12-09 08:14:22",
+    "song": {
+      "musicAuthor": "Genesis",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485101f20b98b794099707e43375",
+      "musicTitle": "Jesus He Knows Me",
+      "radio": "Rádio ROCK",
+      "startTime": "09:14"
+    },
+    "recorded_at": "2025-12-09T09:14:22.744747+01:00",
+    "raw_valid": true,
+    "song_session_id": "79f60ef7-1be3-47eb-92c2-0f00af8ad685"
+  },
+  {
+    "last_update": "2025-12-09 08:21:25",
+    "song": {
+      "musicAuthor": "The Sweet",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851aaca298e6fc1b377b699572b",
+      "musicTitle": "The Ballroom Blitz",
+      "radio": "Rádio ROCK",
+      "startTime": "09:20"
+    },
+    "recorded_at": "2025-12-09T09:21:25.352416+01:00",
+    "raw_valid": true,
+    "song_session_id": "30516845-500b-4ece-8ba4-7b697d4e4ecd"
+  },
+  {
+    "last_update": "2025-12-09 08:25:25",
+    "song": {
+      "musicAuthor": "Foo Fighters",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048516c44679425e2695001b35d72",
+      "musicTitle": "The Best Of You",
+      "radio": "Rádio ROCK",
+      "startTime": "09:24"
+    },
+    "recorded_at": "2025-12-09T09:25:25.600711+01:00",
+    "raw_valid": true,
+    "song_session_id": "205d1912-fdb7-43d8-a990-aec481a6b25f"
+  },
+  {
+    "last_update": "2025-12-09 08:29:25",
+    "song": {
+      "musicAuthor": "Meredith Brooks",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048517a8ebb7a3a8c0cadc4490cb4",
+      "musicTitle": "Bitch",
+      "radio": "Rádio ROCK",
+      "startTime": "09:28"
+    },
+    "recorded_at": "2025-12-09T09:29:26.680817+01:00",
+    "raw_valid": true,
+    "song_session_id": "5212f36d-949f-4e11-aafc-053f179cfe72"
+  },
+  {
+    "last_update": "2025-12-09 08:35:26",
+    "song": {
+      "musicAuthor": "Scorpions",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048519f2023d391c3bd4acf4d51c6",
+      "musicTitle": "Still Loving You",
+      "radio": "Rádio ROCK",
+      "startTime": "09:34"
+    },
+    "recorded_at": "2025-12-09T09:35:27.270383+01:00",
+    "raw_valid": true,
+    "song_session_id": "8a0b9f21-e764-4630-80ea-171838b51205"
+  },
+  {
+    "last_update": "2025-12-09 08:40:28",
+    "song": {
+      "musicAuthor": "Konflikt",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851a971d942d8000f8b2958393c",
+      "musicTitle": "Rebel",
+      "radio": "Rádio ROCK",
+      "startTime": "09:39"
+    },
+    "recorded_at": "2025-12-09T09:40:28.508897+01:00",
+    "raw_valid": true,
+    "song_session_id": "c208379e-17c7-4602-91d8-7ea8fcf3b067"
+  },
+  {
+    "last_update": "2025-12-09 08:43:28",
+    "song": {
+      "musicAuthor": "Guns N Roses",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851e44963b8bb127552ac761873",
+      "musicTitle": "November Rain",
+      "radio": "Rádio ROCK",
+      "startTime": "09:43"
+    },
+    "recorded_at": "2025-12-09T09:43:28.815887+01:00",
+    "raw_valid": true,
+    "song_session_id": "9797a5b1-9572-4297-b2b7-987209d12b63"
+  },
+  {
+    "last_update": "2025-12-09 08:54:31",
+    "song": {
+      "musicAuthor": "Bruce Springsteen",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851a7865e686c36a4adda6c9978",
+      "musicTitle": "Dancing In The Dark",
+      "radio": "Rádio ROCK",
+      "startTime": "09:53"
+    },
+    "recorded_at": "2025-12-09T09:54:31.597908+01:00",
+    "raw_valid": true,
+    "song_session_id": "daa541d0-0932-4a70-9595-6bed2f8072ab"
+  },
+  {
+    "last_update": "2025-12-09 08:57:31",
+    "song": {
+      "musicAuthor": "Kabát",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485157bf7825968feeeb043a5872",
+      "musicTitle": "Bára",
+      "radio": "Rádio ROCK",
+      "startTime": "09:57"
+    },
+    "recorded_at": "2025-12-09T09:57:32.527604+01:00",
+    "raw_valid": true,
+    "song_session_id": "a1a906b1-11dd-4602-997a-df1d840b9582"
+  },
+  {
+    "last_update": "2025-12-09 09:04:34",
+    "song": {
+      "musicAuthor": "Ac Dc",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485151c02a77d09dfcd53c8676d0",
+      "musicTitle": "Highway To Hell",
+      "radio": "Rádio ROCK",
+      "startTime": "10:03"
+    },
+    "recorded_at": "2025-12-09T10:04:34.284133+01:00",
+    "raw_valid": true,
+    "song_session_id": "6fbce64b-d6ef-4ec3-8b41-fc98fe61c026"
+  },
+  {
+    "last_update": "2025-12-09 09:07:33",
+    "song": {
+      "musicAuthor": "Paramore",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485169966efa45b125ed6711b43c",
+      "musicTitle": "Misery Business",
+      "radio": "Rádio ROCK",
+      "startTime": "10:07"
+    },
+    "recorded_at": "2025-12-09T10:07:34.477995+01:00",
+    "raw_valid": true,
+    "song_session_id": "d69febd3-f2cb-44b9-8411-027ac3083391"
+  },
+  {
+    "last_update": "2025-12-09 09:11:35",
+    "song": {
+      "musicAuthor": "Chumbawamba",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048516cfc470251e23a7bb6a38d66",
+      "musicTitle": "Tubthumping",
+      "radio": "Rádio ROCK",
+      "startTime": "10:10"
+    },
+    "recorded_at": "2025-12-09T10:11:35.714036+01:00",
+    "raw_valid": true,
+    "song_session_id": "34c33517-0da9-49d6-bcc2-d3111fab59a9"
+  },
+  {
+    "last_update": "2025-12-09 09:14:35",
+    "song": {
+      "musicAuthor": "Blondie",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048516d23211741238ed227699c9d",
+      "musicTitle": "One Way Or Another",
+      "radio": "Rádio ROCK",
+      "startTime": "10:14"
+    },
+    "recorded_at": "2025-12-09T10:14:36.095882+01:00",
+    "raw_valid": true,
+    "song_session_id": "47859364-8b3a-43a5-8c8d-0b80c9e08b85"
+  },
+  {
+    "last_update": "2025-12-09 09:18:07",
+    "song": {
+      "musicAuthor": "Bijouterrier",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485169059f3685b992f9ce22cd4c",
+      "musicTitle": "Stryc Of Persia",
+      "radio": "Rádio ROCK",
+      "startTime": "10:17"
+    },
+    "recorded_at": "2025-12-09T10:18:07.749091+01:00",
+    "raw_valid": true,
+    "song_session_id": "ab1ddd35-b66d-495c-891b-9c8ff2492add"
+  },
+  {
+    "last_update": "2025-12-09 09:21:10",
+    "song": {
+      "musicAuthor": "U2",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485138fa0dfe55b1ff2e8c962bae",
+      "musicTitle": "Elevation",
+      "radio": "Rádio ROCK",
+      "startTime": "10:20"
+    },
+    "recorded_at": "2025-12-09T10:21:10.873086+01:00",
+    "raw_valid": true,
+    "song_session_id": "14dbca7b-a721-43ba-a553-dadb7b406620"
+  },
+  {
+    "last_update": "2025-12-09 09:24:11",
+    "song": {
+      "musicAuthor": "Pearl Jam",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851d400d27cba05bb0545533864",
+      "musicTitle": "Jeremy",
+      "radio": "Rádio ROCK",
+      "startTime": "10:24"
+    },
+    "recorded_at": "2025-12-09T10:24:11.813889+01:00",
+    "raw_valid": true,
+    "song_session_id": "c990f96b-a41e-4e50-bde1-ffc6b413af86"
+  },
+  {
+    "last_update": "2025-12-09 09:29:11",
+    "song": {
+      "musicAuthor": "The Rolling Stones",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485105c5be85b64eaff732f7cb0b",
+      "musicTitle": "/I Can't Get No/ Satisfaction",
+      "radio": "Rádio ROCK",
+      "startTime": "10:28"
+    },
+    "recorded_at": "2025-12-09T10:29:12.319578+01:00",
+    "raw_valid": true,
+    "song_session_id": "5adc8a90-9df3-4f2a-bbcb-7e3df5cdce86"
+  },
+  {
+    "last_update": "2025-12-09 09:33:12",
+    "song": {
+      "musicAuthor": "Snow Patrol",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048515da2756220da9b6f17924f8f",
+      "musicTitle": "Chasing Cars",
+      "radio": "Rádio ROCK",
+      "startTime": "10:32"
+    },
+    "recorded_at": "2025-12-09T10:33:12.635857+01:00",
+    "raw_valid": true,
+    "song_session_id": "4f86d2df-de39-4999-8c6f-ad71ed1b03c6"
+  },
+  {
+    "last_update": "2025-12-09 09:37:14",
+    "song": {
+      "musicAuthor": "Guns N Roses",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485192d21aef6c0d288cc4c05973",
+      "musicTitle": "You Could Be Mine",
+      "radio": "Rádio ROCK",
+      "startTime": "10:36"
+    },
+    "recorded_at": "2025-12-09T10:37:14.757775+01:00",
+    "raw_valid": true,
+    "song_session_id": "53792572-e46e-4f1f-a0bf-61a5d6d816d1"
+  },
+  {
+    "last_update": "2025-12-09 09:43:15",
+    "song": {
+      "musicAuthor": "Fleetwood Mac",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851aaba065944cd82a6f15c86b6",
+      "musicTitle": "Little Lies",
+      "radio": "Rádio ROCK",
+      "startTime": "10:42"
+    },
+    "recorded_at": "2025-12-09T10:43:16.117552+01:00",
+    "raw_valid": true,
+    "song_session_id": "c8bd5b3d-0c86-457b-b108-640ed93d4d0c"
+  },
+  {
+    "last_update": "2025-12-09 09:47:16",
+    "song": {
+      "musicAuthor": "Horkýže Slíže",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851a1dba7a16c82818421fc734a",
+      "musicTitle": "Brďokoky",
+      "radio": "Rádio ROCK",
+      "startTime": "10:46"
+    },
+    "recorded_at": "2025-12-09T10:47:17.134948+01:00",
+    "raw_valid": true,
+    "song_session_id": "424648fb-70a4-43d4-9225-b18e89d3958c"
+  },
+  {
+    "last_update": "2025-12-09 09:50:17",
+    "song": {
+      "musicAuthor": "Foo Fighters",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048510389027010b78a5e7dce426b",
+      "musicTitle": "My Hero",
+      "radio": "Rádio ROCK",
+      "startTime": "10:50"
+    },
+    "recorded_at": "2025-12-09T10:50:17.975324+01:00",
+    "raw_valid": true,
+    "song_session_id": "c6446616-03c0-4cd2-b10d-76e7af0e2e66"
+  },
+  {
+    "last_update": "2025-12-09 09:54:18",
+    "song": {
+      "musicAuthor": "Creedence Clearwater Revival",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485151f311c2fb06ad2789e3ff91",
+      "musicTitle": "Have You Ever Seen The Rain",
+      "radio": "Rádio ROCK",
+      "startTime": "10:54"
+    },
+    "recorded_at": "2025-12-09T10:54:18.240980+01:00",
+    "raw_valid": true,
+    "song_session_id": "8106d4a4-7c1d-420c-867f-c1cbd93c8c6b"
+  }
+]

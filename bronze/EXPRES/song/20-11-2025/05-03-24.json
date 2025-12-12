@@ -1,0 +1,392 @@
+[
+  {
+    "song": "Afterlife",
+    "artists": [
+      "Michael Schulte"
+    ],
+    "isrc": "DECE72500509",
+    "start_time": "2025-11-20 04:06:41",
+    "radio": "expres",
+    "recorded_at": "2025-11-20T04:07:11.566702+01:00",
+    "raw_valid": true,
+    "song_session_id": "57204e00-35c7-4ac8-bff6-be5e97e30770"
+  },
+  {
+    "song": "Ked Sme Sami",
+    "artists": [
+      "Hex"
+    ],
+    "isrc": "SKC751300401",
+    "start_time": "2025-11-20 04:09:22",
+    "radio": "expres",
+    "recorded_at": "2025-11-20T04:09:50.609161+01:00",
+    "raw_valid": true,
+    "song_session_id": "890045fa-bf9a-4a36-949b-6cb71acf8439"
+  },
+  {
+    "song": "Obchodnik S Destem",
+    "artists": [
+      "Krystof"
+    ],
+    "isrc": "CZA230200203",
+    "start_time": "2025-11-20 04:13:34",
+    "radio": "expres",
+    "recorded_at": "2025-11-20T04:13:55.079846+01:00",
+    "raw_valid": true,
+    "song_session_id": "9d7251ae-13fd-41bf-9368-bfb89430d652"
+  },
+  {
+    "song": "Kamaratka Nadej",
+    "artists": [
+      "Vaso Patejdl"
+    ],
+    "isrc": "SKA128919702",
+    "start_time": "2025-11-20 04:17:08",
+    "radio": "expres",
+    "recorded_at": "2025-11-20T04:17:45.741813+01:00",
+    "raw_valid": true,
+    "song_session_id": "56496761-0c42-4fd4-86d9-cabb6b13e457"
+  },
+  {
+    "song": "Pride",
+    "artists": [
+      "Felix Jaehn",
+      "Jhart"
+    ],
+    "isrc": "DEUM72503423",
+    "start_time": "2025-11-20 04:20:23",
+    "radio": "expres",
+    "recorded_at": "2025-11-20T04:20:43.725366+01:00",
+    "raw_valid": true,
+    "song_session_id": "64688818-2d9d-4f99-bd6f-6ae52b7f6b3b"
+  },
+  {
+    "song": "Nekracaj Predo Mnou",
+    "artists": [
+      "Zuzana Smatanova"
+    ],
+    "isrc": "CZA210500632",
+    "start_time": "2025-11-20 04:23:05",
+    "radio": "expres",
+    "recorded_at": "2025-11-20T04:23:30.325588+01:00",
+    "raw_valid": true,
+    "song_session_id": "e35c50bf-21dc-455d-8a6e-30f449321060"
+  },
+  {
+    "song": "Austin",
+    "artists": [
+      "Dasha"
+    ],
+    "isrc": "QZTB92360479",
+    "start_time": "2025-11-20 04:26:31",
+    "radio": "expres",
+    "recorded_at": "2025-11-20T04:26:56.128409+01:00",
+    "raw_valid": true,
+    "song_session_id": "91f82b08-b6a5-4e79-acd5-eaf2cab5a915"
+  },
+  {
+    "song": "Million Good Reasons",
+    "artists": [
+      "Robin Schulz",
+      "Fast Boy"
+    ],
+    "isrc": "DEA622404738",
+    "start_time": "2025-11-20 04:29:20",
+    "radio": "expres",
+    "recorded_at": "2025-11-20T04:30:08.516595+01:00",
+    "raw_valid": true,
+    "song_session_id": "b0e0ce57-00dd-4a64-8626-3f53c114c4de"
+  },
+  {
+    "song": "Co Ak",
+    "artists": [
+      "Imt Smile"
+    ],
+    "isrc": "SKA019903005",
+    "start_time": "2025-11-20 04:32:05",
+    "radio": "expres",
+    "recorded_at": "2025-11-20T04:32:49.322276+01:00",
+    "raw_valid": true,
+    "song_session_id": "5f429622-aa75-43b1-b8ad-7c254711e4d1"
+  },
+  {
+    "song": "Total Eclipse Of The Heart",
+    "artists": [
+      "Westlife"
+    ],
+    "isrc": "GBARL0601585",
+    "start_time": "2025-11-20 04:35:10",
+    "radio": "expres",
+    "recorded_at": "2025-11-20T04:35:48.599817+01:00",
+    "raw_valid": true,
+    "song_session_id": "abafa892-c64e-44bf-aaf8-544a0c59bffe"
+  },
+  {
+    "song": "Laska",
+    "artists": [
+      "Gladiator"
+    ],
+    "isrc": "CZA210000409",
+    "start_time": "2025-11-20 04:39:53",
+    "radio": "expres",
+    "recorded_at": "2025-11-20T04:40:28.637669+01:00",
+    "raw_valid": true,
+    "song_session_id": "2021f786-3e64-48ac-b478-056d6eb01f08"
+  },
+  {
+    "song": "Always Remember Us This Way",
+    "artists": [
+      "Lady Gaga"
+    ],
+    "isrc": "USUM71813195",
+    "start_time": "2025-11-20 04:44:00",
+    "radio": "expres",
+    "recorded_at": "2025-11-20T04:44:35.231640+01:00",
+    "raw_valid": true,
+    "song_session_id": "e7bdf528-9be5-4818-ade5-b3a7d649da2f"
+  },
+  {
+    "song": "Medzi Nebom A Zenou",
+    "artists": [
+      "Banket",
+      "Richard Muller",
+      "Ema Muller"
+    ],
+    "isrc": "SKC362500009",
+    "start_time": "2025-11-20 04:47:18",
+    "radio": "expres",
+    "recorded_at": "2025-11-20T04:47:56.786537+01:00",
+    "raw_valid": true,
+    "song_session_id": "e6bd9e96-b7f0-4f3f-b57d-370df9a41a49"
+  },
+  {
+    "song": "Runaway",
+    "artists": [
+      "Onerepublic"
+    ],
+    "isrc": "USUM72304684",
+    "start_time": "2025-11-20 04:51:21",
+    "radio": "expres",
+    "recorded_at": "2025-11-20T04:51:40.066313+01:00",
+    "raw_valid": true,
+    "song_session_id": "f84a7a3f-9f4f-4e47-b6af-8ee0e74bb18c"
+  },
+  {
+    "song": "Nemam Co Stratit",
+    "artists": [
+      "Team"
+    ],
+    "isrc": "SKA010400061",
+    "start_time": "2025-11-20 04:53:44",
+    "radio": "expres",
+    "recorded_at": "2025-11-20T04:54:22.949827+01:00",
+    "raw_valid": true,
+    "song_session_id": "3456f8c8-dc1d-473e-9ff7-e29313078548"
+  },
+  {
+    "song": "I Love You Always Forever",
+    "artists": [
+      "Donna Lewis"
+    ],
+    "isrc": "USAT29600040",
+    "start_time": "2025-11-20 04:57:58",
+    "radio": "expres",
+    "recorded_at": "2025-11-20T04:58:27.314389+01:00",
+    "raw_valid": true,
+    "song_session_id": "440f8b94-8fc9-4b99-be4f-2279e9657786"
+  },
+  {
+    "song": "Be Mine",
+    "artists": [
+      "Kamrad"
+    ],
+    "isrc": "DE1NJ2500035",
+    "start_time": "2025-11-20 05:01:03",
+    "radio": "expres",
+    "recorded_at": "2025-11-20T05:01:30.280684+01:00",
+    "raw_valid": true,
+    "song_session_id": "cec3854c-f646-4424-ac15-c6efb293ff10"
+  },
+  {
+    "song": "Najviac",
+    "artists": [
+      "Lukas Adamec"
+    ],
+    "isrc": "SKI601900020",
+    "start_time": "2025-11-20 05:03:45",
+    "radio": "expres",
+    "recorded_at": "2025-11-20T05:04:08.437562+01:00",
+    "raw_valid": true,
+    "song_session_id": "04255836-d337-4fb9-bd7c-f112adb9c761"
+  },
+  {
+    "song": "Stargazing",
+    "artists": [
+      "Myles Smith"
+    ],
+    "isrc": "GBARL2400510",
+    "start_time": "2025-11-20 05:07:13",
+    "radio": "expres",
+    "recorded_at": "2025-11-20T05:07:39.176954+01:00",
+    "raw_valid": true,
+    "song_session_id": "20e55a7a-dd13-4788-b398-dcab15b21c36"
+  },
+  {
+    "song": "Laska - Veda",
+    "artists": [
+      "Adam Durica"
+    ],
+    "isrc": "SKA011500054",
+    "start_time": "2025-11-20 05:10:05",
+    "radio": "expres",
+    "recorded_at": "2025-11-20T05:10:45.596320+01:00",
+    "raw_valid": true,
+    "song_session_id": "824d4b79-6d05-4458-803d-c5f1f603ef71"
+  },
+  {
+    "song": "Radio Ga Ga",
+    "artists": [
+      "Queen"
+    ],
+    "isrc": "GBUM71029623",
+    "start_time": "2025-11-20 05:13:31",
+    "radio": "expres",
+    "recorded_at": "2025-11-20T05:13:53.585438+01:00",
+    "raw_valid": true,
+    "song_session_id": "d0c45f34-7618-4b4e-a00a-4ee77bbdd836"
+  },
+  {
+    "song": "Mam Ta Rad",
+    "artists": [
+      "Peter Cmorik"
+    ],
+    "isrc": "CZA210900965",
+    "start_time": "2025-11-20 05:17:15",
+    "radio": "expres",
+    "recorded_at": "2025-11-20T05:17:45.159632+01:00",
+    "raw_valid": true,
+    "song_session_id": "aee751e8-b8ce-4b9d-837d-db353ff9367f"
+  },
+  {
+    "song": "Eternity",
+    "artists": [
+      "Alex Warren"
+    ],
+    "isrc": "USAT22503779",
+    "start_time": "2025-11-20 05:21:17",
+    "radio": "expres",
+    "recorded_at": "2025-11-20T05:21:45.469205+01:00",
+    "raw_valid": true,
+    "song_session_id": "e8e6b591-ac9e-43e3-a266-7fb4967982df"
+  },
+  {
+    "song": "Mato A Linda",
+    "artists": [
+      "Hex"
+    ],
+    "isrc": "SKA129757605",
+    "start_time": "2025-11-20 05:24:53",
+    "radio": "expres",
+    "recorded_at": "2025-11-20T05:25:28.971826+01:00",
+    "raw_valid": true,
+    "song_session_id": "85bbaa22-776f-4888-8202-35aebf76fc62"
+  },
+  {
+    "song": "Flowers",
+    "artists": [
+      "Miley Cyrus"
+    ],
+    "isrc": "USSM12209777",
+    "start_time": "2025-11-20 05:29:09",
+    "radio": "expres",
+    "recorded_at": "2025-11-20T05:29:45.835842+01:00",
+    "raw_valid": true,
+    "song_session_id": "93c4c0d5-22a4-4ddd-a4e6-dfe8f7d0c654"
+  },
+  {
+    "song": "The One",
+    "artists": [
+      "Michael Patrick Kelly"
+    ],
+    "isrc": "DEE862500476",
+    "start_time": "2025-11-20 05:32:57",
+    "radio": "expres",
+    "recorded_at": "2025-11-20T05:33:32.187603+01:00",
+    "raw_valid": true,
+    "song_session_id": "c9ffce4d-ebaa-4cee-8040-74edee20d5d8"
+  },
+  {
+    "song": "Nepriznana",
+    "artists": [
+      "Vaso Patejdl"
+    ],
+    "isrc": "SKA128919703",
+    "start_time": "2025-11-20 05:35:53",
+    "radio": "expres",
+    "recorded_at": "2025-11-20T05:36:35.349328+01:00",
+    "raw_valid": true,
+    "song_session_id": "80be23db-4a87-4ba8-b836-c6ec1421889e"
+  },
+  {
+    "song": "Wake Me Up",
+    "artists": [
+      "Avicii",
+      "Aloe Blacc"
+    ],
+    "isrc": "SEUM71301326",
+    "start_time": "2025-11-20 05:40:24",
+    "radio": "expres",
+    "recorded_at": "2025-11-20T05:40:51.923266+01:00",
+    "raw_valid": true,
+    "song_session_id": "69c3b246-30c5-469e-b4d6-51b00ce0ec88"
+  },
+  {
+    "song": "Cakam Ta Laska",
+    "artists": [
+      "Elan"
+    ],
+    "isrc": "TCAEF1942465",
+    "start_time": "2025-11-20 05:44:37",
+    "radio": "expres",
+    "recorded_at": "2025-11-20T05:45:15.721670+01:00",
+    "raw_valid": true,
+    "song_session_id": "44dadda4-e7f4-459e-8c03-9a61654cb0c6"
+  },
+  {
+    "song": "Golden",
+    "artists": [
+      "Kpop Demon Hunters"
+    ],
+    "isrc": "QZ8BZ2513510",
+    "start_time": "2025-11-20 05:49:18",
+    "radio": "expres",
+    "recorded_at": "2025-11-20T05:49:55.683106+01:00",
+    "raw_valid": true,
+    "song_session_id": "4527100c-ef6c-4ea4-acc5-4c5472980695"
+  },
+  {
+    "song": "Aj Keby...",
+    "artists": [
+      "Imt Smile"
+    ],
+    "isrc": "SKA011800062",
+    "start_time": "2025-11-20 05:52:01",
+    "radio": "expres",
+    "recorded_at": "2025-11-20T05:52:35.988191+01:00",
+    "raw_valid": true,
+    "song_session_id": "1816a4c2-49aa-46bf-a995-562181b1b3be"
+  },
+  {
+    "song": "Where Is The Love?",
+    "artists": [
+      "Black Eyed Peas",
+      "Justin Timberlake"
+    ],
+    "isrc": "USIR10311862",
+    "start_time": "2025-11-20 05:57:20",
+    "radio": "expres",
+    "recorded_at": "2025-11-20T05:58:00.873398+01:00",
+    "raw_valid": true,
+    "song_session_id": "fb975427-2b3b-4c67-9706-88e077aad655"
+  }
+]

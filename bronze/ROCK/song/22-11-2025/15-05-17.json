@@ -1,0 +1,379 @@
+[
+  {
+    "last_update": "2025-11-22 13:06:08",
+    "song": {
+      "musicAuthor": "Green Day",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851db89b08034de626ebee6823d",
+      "musicTitle": "Basket Case",
+      "radio": "Rádio ROCK",
+      "startTime": "14:06"
+    },
+    "recorded_at": "2025-11-22T14:06:08.633876+01:00",
+    "raw_valid": true,
+    "song_session_id": "913ede43-5efb-46c4-b4cf-efc444d3561f"
+  },
+  {
+    "last_update": "2025-11-22 13:10:08",
+    "song": {
+      "musicAuthor": "Acdc",
+      "musicCover": "https://static.radia.sk/covers/32/6cc40ad3-52a6-46e3-a16d-832d6f924fdd.jpg",
+      "musicTitle": "Rock N Roll Train",
+      "radio": "Rádio ROCK",
+      "startTime": "14:09"
+    },
+    "recorded_at": "2025-11-22T14:10:09.089137+01:00",
+    "raw_valid": true,
+    "song_session_id": "89768a7c-0d5e-4845-9f96-760b80bf5047"
+  },
+  {
+    "last_update": "2025-11-22 13:14:09",
+    "song": {
+      "musicAuthor": "Genesis",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851087ca24aa58e7c67514061a1",
+      "musicTitle": "Land Of Confusion",
+      "radio": "Rádio ROCK",
+      "startTime": "14:13"
+    },
+    "recorded_at": "2025-11-22T14:14:09.341518+01:00",
+    "raw_valid": true,
+    "song_session_id": "cad35694-7d16-4445-a70d-e671f9d9bc43"
+  },
+  {
+    "last_update": "2025-11-22 13:19:10",
+    "song": {
+      "musicAuthor": "The Offspring",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851cac23b6eddc76b57eb3d7239",
+      "musicTitle": "Make It All Right",
+      "radio": "Rádio ROCK",
+      "startTime": "14:18"
+    },
+    "recorded_at": "2025-11-22T14:19:11.044178+01:00",
+    "raw_valid": true,
+    "song_session_id": "2f489360-2e67-4701-ad2b-67b61482d983"
+  },
+  {
+    "last_update": "2025-11-22 13:23:11",
+    "song": {
+      "musicAuthor": "Horkýže Slíže",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851d908a63a01282b0e2ac770ab",
+      "musicTitle": "Nazdar",
+      "radio": "Rádio ROCK",
+      "startTime": "14:22"
+    },
+    "recorded_at": "2025-11-22T14:23:11.696331+01:00",
+    "raw_valid": true,
+    "song_session_id": "b267e4be-b474-4bfd-bf63-f66de37158dd"
+  },
+  {
+    "last_update": "2025-11-22 13:26:11",
+    "song": {
+      "musicAuthor": "Def Leppard",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485143511b8c20112757edddc7ba",
+      "musicTitle": "Animal",
+      "radio": "Rádio ROCK",
+      "startTime": "14:25"
+    },
+    "recorded_at": "2025-11-22T14:26:11.939194+01:00",
+    "raw_valid": true,
+    "song_session_id": "f5867cc5-0139-47d3-8a68-9b954943adf1"
+  },
+  {
+    "last_update": "2025-11-22 13:30:12",
+    "song": {
+      "musicAuthor": "Volbeat",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048513bf8ce7eb3ceb6847ba1ab65",
+      "musicTitle": "Lola Montez",
+      "radio": "Rádio ROCK",
+      "startTime": "14:29"
+    },
+    "recorded_at": "2025-11-22T14:30:12.481755+01:00",
+    "raw_valid": true,
+    "song_session_id": "49788e69-6cfb-4892-b58e-12985ef25989"
+  },
+  {
+    "last_update": "2025-11-22 13:34:12",
+    "song": {
+      "musicAuthor": "Linkin Park",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851987fb4c5ec8790e9f637a4a4",
+      "musicTitle": "Burn It Down",
+      "radio": "Rádio ROCK",
+      "startTime": "14:33"
+    },
+    "recorded_at": "2025-11-22T14:34:13.134680+01:00",
+    "raw_valid": true,
+    "song_session_id": "5d021ba0-f46c-4782-8b7f-2ae9f93866e4"
+  },
+  {
+    "last_update": "2025-11-22 13:38:16",
+    "song": {
+      "musicAuthor": "The Red Hot Chili Peppers",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851f3686323bf737cb7ba3de792",
+      "musicTitle": "Otherside",
+      "radio": "Rádio ROCK",
+      "startTime": "14:37"
+    },
+    "recorded_at": "2025-11-22T14:38:16.254612+01:00",
+    "raw_valid": true,
+    "song_session_id": "73d23d4f-16aa-49a8-9fa9-9644a70a600c"
+  },
+  {
+    "last_update": "2025-11-22 13:42:15",
+    "song": {
+      "musicAuthor": "Queen",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851d1e7c0e1bf0980298428a1ae",
+      "musicTitle": "I Want To Break Free",
+      "radio": "Rádio ROCK",
+      "startTime": "14:41"
+    },
+    "recorded_at": "2025-11-22T14:42:16.502848+01:00",
+    "raw_valid": true,
+    "song_session_id": "fa90e76f-c16c-4999-9d51-dd754334d542"
+  },
+  {
+    "last_update": "2025-11-22 13:46:16",
+    "song": {
+      "musicAuthor": "Faith No More",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485136842671366bfeb3d7c5f19e",
+      "musicTitle": "Easy",
+      "radio": "Rádio ROCK",
+      "startTime": "14:46"
+    },
+    "recorded_at": "2025-11-22T14:46:16.744891+01:00",
+    "raw_valid": true,
+    "song_session_id": "4ee084ad-85b3-451f-800f-d5bb85929747"
+  },
+  {
+    "last_update": "2025-11-22 13:54:18",
+    "song": {
+      "musicAuthor": "Ozzy Osbourne",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851962c158ac47845e7051fae4e",
+      "musicTitle": "Dreamer",
+      "radio": "Rádio ROCK",
+      "startTime": "14:53"
+    },
+    "recorded_at": "2025-11-22T14:54:18.755797+01:00",
+    "raw_valid": true,
+    "song_session_id": "d0f98c92-8db6-42f7-a167-89c56669d153"
+  },
+  {
+    "last_update": "2025-11-22 13:58:19",
+    "song": {
+      "musicAuthor": "Pink Floyd",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851eb8d074f4d9759afd208568e",
+      "musicTitle": "High Hopes",
+      "radio": "Rádio ROCK",
+      "startTime": "14:57"
+    },
+    "recorded_at": "2025-11-22T14:58:19.853818+01:00",
+    "raw_valid": true,
+    "song_session_id": "aad48d68-0945-45eb-83ad-da101f47cf93"
+  },
+  {
+    "last_update": "2025-11-22 14:03:21",
+    "song": {
+      "musicAuthor": "Smash Mouth",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048511c36662f70967a1210a42741",
+      "musicTitle": "I'm Believer",
+      "radio": "Rádio ROCK",
+      "startTime": "15:02"
+    },
+    "recorded_at": "2025-11-22T15:03:22.897685+01:00",
+    "raw_valid": true,
+    "song_session_id": "0e09ab28-5f8d-406d-b640-dc4885d9dd59"
+  },
+  {
+    "last_update": "2025-11-22 14:06:27",
+    "song": {
+      "musicAuthor": "Kabát",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048513b275d370a97516893dff21d",
+      "musicTitle": "Moderní Děvče",
+      "radio": "Rádio ROCK",
+      "startTime": "15:05"
+    },
+    "recorded_at": "2025-11-22T15:06:27.837718+01:00",
+    "raw_valid": true,
+    "song_session_id": "467e5ee5-6763-4610-8f4d-b7af1c2ade1c"
+  },
+  {
+    "last_update": "2025-11-22 14:09:28",
+    "song": {
+      "musicAuthor": "Van Halen",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851b414c63fb435b622238c15ed",
+      "musicTitle": "Jump",
+      "radio": "Rádio ROCK",
+      "startTime": "15:08"
+    },
+    "recorded_at": "2025-11-22T15:09:28.420022+01:00",
+    "raw_valid": true,
+    "song_session_id": "d1aa98a9-62e2-464b-9ece-c4b6b6ec3517"
+  },
+  {
+    "last_update": "2025-11-22 14:12:28",
+    "song": {
+      "musicAuthor": "Rammstein",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048518b2c42026277efc3e058855b",
+      "musicTitle": "Links 2 3 4",
+      "radio": "Rádio ROCK",
+      "startTime": "15:12"
+    },
+    "recorded_at": "2025-11-22T15:12:28.631641+01:00",
+    "raw_valid": true,
+    "song_session_id": "00d3c4f0-f2c4-45cc-af6a-25b9357cfa9d"
+  },
+  {
+    "last_update": "2025-11-22 14:16:29",
+    "song": {
+      "musicAuthor": "Muse",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851b6d4566db0d12894a1a3b7a2",
+      "musicTitle": "Uprising",
+      "radio": "Rádio ROCK",
+      "startTime": "15:15"
+    },
+    "recorded_at": "2025-11-22T15:16:30.078591+01:00",
+    "raw_valid": true,
+    "song_session_id": "edfea356-08ea-44a8-bc66-1a781c18ee88"
+  },
+  {
+    "last_update": "2025-11-22 14:21:31",
+    "song": {
+      "musicAuthor": "Electric Callboy & Frank Zummo",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851b259a190030bb40fc7ddfdc4",
+      "musicTitle": "Still Waiting",
+      "radio": "Rádio ROCK",
+      "startTime": "15:20"
+    },
+    "recorded_at": "2025-11-22T15:21:32.460821+01:00",
+    "raw_valid": true,
+    "song_session_id": "63688e8c-ca1a-4c66-b021-26b65f36187e"
+  },
+  {
+    "last_update": "2025-11-22 14:24:32",
+    "song": {
+      "musicAuthor": "Helloween",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048513ab4dc4b31ad6870b455ac80",
+      "musicTitle": "I Want Out",
+      "radio": "Rádio ROCK",
+      "startTime": "15:23"
+    },
+    "recorded_at": "2025-11-22T15:24:32.673232+01:00",
+    "raw_valid": true,
+    "song_session_id": "cc30e501-4f5e-45bb-9a25-d7c629cdc977"
+  },
+  {
+    "last_update": "2025-11-22 14:28:35",
+    "song": {
+      "musicAuthor": "The New Radicals",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485117c105f1291ccc0d26a37b37",
+      "musicTitle": "You Get What You Give",
+      "radio": "Rádio ROCK",
+      "startTime": "15:28"
+    },
+    "recorded_at": "2025-11-22T15:28:35.343205+01:00",
+    "raw_valid": true,
+    "song_session_id": "681a097f-105a-448e-b732-c6670804d3b0"
+  },
+  {
+    "last_update": "2025-11-22 14:33:07",
+    "song": {
+      "musicAuthor": "Horkýže Slíže",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485160348235029c408a3e558ab7",
+      "musicTitle": "Silný Refrén",
+      "radio": "Rádio ROCK",
+      "startTime": "15:32"
+    },
+    "recorded_at": "2025-11-22T15:33:07.443499+01:00",
+    "raw_valid": true,
+    "song_session_id": "01f5378d-60be-47ae-b5ee-6a5ce8dc3597"
+  },
+  {
+    "last_update": "2025-11-22 14:36:07",
+    "song": {
+      "musicAuthor": "Simple Minds",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048515695a657aef0e81bde0c6001",
+      "musicTitle": "Alive And Kicking",
+      "radio": "Rádio ROCK",
+      "startTime": "15:36"
+    },
+    "recorded_at": "2025-11-22T15:36:08.064667+01:00",
+    "raw_valid": true,
+    "song_session_id": "a374f152-911e-49a2-870e-24f233b19417"
+  },
+  {
+    "last_update": "2025-11-22 14:41:37",
+    "song": {
+      "musicAuthor": "Tublatanka",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048517d744b6206ab9d559d6d7d77",
+      "musicTitle": "Matka",
+      "radio": "Rádio ROCK",
+      "startTime": "15:40"
+    },
+    "recorded_at": "2025-11-22T15:41:38.889287+01:00",
+    "raw_valid": true,
+    "song_session_id": "e5db03a4-bc38-4f49-b354-33fc38374f63"
+  },
+  {
+    "last_update": "2025-11-22 14:45:11",
+    "song": {
+      "musicAuthor": "Janis Joplin",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048511ba5ee8bc24979ce3eee4797",
+      "musicTitle": "Piece Of My Heart",
+      "radio": "Rádio ROCK",
+      "startTime": "15:45"
+    },
+    "recorded_at": "2025-11-22T15:45:12.517740+01:00",
+    "raw_valid": true,
+    "song_session_id": "2a05a71d-f210-4d12-a217-74657efd0afb"
+  },
+  {
+    "last_update": "2025-11-22 14:50:13",
+    "song": {
+      "musicAuthor": "Guns N' Roses",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485192d21aef6c0d288cc4c05973",
+      "musicTitle": "Knockin' On Heaven's Door",
+      "radio": "Rádio ROCK",
+      "startTime": "15:49"
+    },
+    "recorded_at": "2025-11-22T15:50:13.802876+01:00",
+    "raw_valid": true,
+    "song_session_id": "373d7de9-acdc-4da1-b72a-89cf063118e5"
+  },
+  {
+    "last_update": "2025-11-22 14:55:16",
+    "song": {
+      "musicAuthor": "System Of A Down",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851f5e7b2e5adaa87430a3eccff",
+      "musicTitle": "Hypnotize",
+      "radio": "Rádio ROCK",
+      "startTime": "15:55"
+    },
+    "recorded_at": "2025-11-22T15:55:16.804335+01:00",
+    "raw_valid": true,
+    "song_session_id": "6aac03e7-443c-475b-a4a5-136b974f8dd8"
+  },
+  {
+    "last_update": "2025-11-22 14:59:17",
+    "song": {
+      "musicAuthor": "Black Sabbath",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048519683e5d7361bb80bfb00f46d",
+      "musicTitle": "Iron Man",
+      "radio": "Rádio ROCK",
+      "startTime": "15:58"
+    },
+    "recorded_at": "2025-11-22T15:59:18.010543+01:00",
+    "raw_valid": true,
+    "song_session_id": "37e4d295-5790-440e-bad9-4b212ca64391"
+  },
+  {
+    "last_update": "2025-11-22 15:03:17",
+    "song": {
+      "musicAuthor": "Metallica",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851ee5869b2880109918fc47199",
+      "musicTitle": "St. Anger",
+      "radio": "Rádio ROCK",
+      "startTime": "16:02"
+    },
+    "recorded_at": "2025-11-22T16:03:18.467739+01:00",
+    "raw_valid": true,
+    "song_session_id": "78c6cbe1-0f27-4472-be2b-4378ad0f70fa"
+  }
+]

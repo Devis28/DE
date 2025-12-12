@@ -1,0 +1,428 @@
+[
+  {
+    "song": "The One",
+    "artists": [
+      "Michael Patrick Kelly"
+    ],
+    "isrc": "DEE862500476",
+    "start_time": "2025-11-05 04:02:10",
+    "radio": "expres",
+    "recorded_at": "2025-11-05T04:02:26.882809+01:00",
+    "raw_valid": true,
+    "song_session_id": "9acc2eaf-37bc-4df5-9f08-0dbc1a24f281"
+  },
+  {
+    "song": "Fero",
+    "artists": [
+      "Elan"
+    ],
+    "isrc": "SKA128678703",
+    "start_time": "2025-11-05 04:05:12",
+    "radio": "expres",
+    "recorded_at": "2025-11-05T04:05:35.750357+01:00",
+    "raw_valid": true,
+    "song_session_id": "02069b2c-4178-401a-8793-afe150612f19"
+  },
+  {
+    "song": "I Like The Way You Kiss Me",
+    "artists": [
+      "Artemas"
+    ],
+    "isrc": "QZJ842400387",
+    "start_time": "2025-11-05 04:08:28",
+    "radio": "expres",
+    "recorded_at": "2025-11-05T04:08:55.965814+01:00",
+    "raw_valid": true,
+    "song_session_id": "c762f0ee-7e53-4690-9e5a-95e4b3316853"
+  },
+  {
+    "song": "Cim To Je",
+    "artists": [
+      "No Name"
+    ],
+    "isrc": "SKA010500063",
+    "start_time": "2025-11-05 04:10:56",
+    "radio": "expres",
+    "recorded_at": "2025-11-05T04:11:18.273058+01:00",
+    "raw_valid": true,
+    "song_session_id": "88c20d0c-0ae1-40f9-8418-ccf12ae6cfdf"
+  },
+  {
+    "song": "Everybody",
+    "artists": [
+      "Dj Bobo"
+    ],
+    "isrc": "DEMI60600006",
+    "start_time": "2025-11-05 04:14:13",
+    "radio": "expres",
+    "recorded_at": "2025-11-05T04:14:41.606900+01:00",
+    "raw_valid": true,
+    "song_session_id": "f6981da5-cb68-4b0a-9632-941f9c6f3a9f"
+  },
+  {
+    "song": "Do Neba",
+    "artists": [
+      "Dara Rolins"
+    ],
+    "isrc": "QZYFZ2505251",
+    "start_time": "2025-11-05 04:16:35",
+    "radio": "expres",
+    "recorded_at": "2025-11-05T04:17:04.087153+01:00",
+    "raw_valid": true,
+    "song_session_id": "5f6c2446-d0f8-42c2-a083-e0f950cf0d97"
+  },
+  {
+    "song": "Pointless",
+    "artists": [
+      "Lewis Capaldi"
+    ],
+    "isrc": "DEUM72203211",
+    "start_time": "2025-11-05 04:20:13",
+    "radio": "expres",
+    "recorded_at": "2025-11-05T04:20:27.872242+01:00",
+    "raw_valid": true,
+    "song_session_id": "8a710400-1a63-4cd8-a991-a5a60bf6c0f4"
+  },
+  {
+    "song": "Edo",
+    "artists": [
+      "Robo Grigorov"
+    ],
+    "isrc": "TCAEJ1930261",
+    "start_time": "2025-11-05 04:24:11",
+    "radio": "expres",
+    "recorded_at": "2025-11-05T04:24:31.548972+01:00",
+    "raw_valid": true,
+    "song_session_id": "debcd7fd-9283-43fa-805b-d443cce9f631"
+  },
+  {
+    "song": "Little Bit Of Love",
+    "artists": [
+      "Tom Grennan"
+    ],
+    "isrc": "GBARL2001197",
+    "start_time": "2025-11-05 04:27:45",
+    "radio": "expres",
+    "recorded_at": "2025-11-05T04:28:16.520482+01:00",
+    "raw_valid": true,
+    "song_session_id": "fae13d6c-8844-4b9b-8528-e78d909f3ae3"
+  },
+  {
+    "song": "Glide",
+    "artists": [
+      "Neiked",
+      "Portugal The Man"
+    ],
+    "isrc": "DEE862500421",
+    "start_time": "2025-11-05 04:31:29",
+    "radio": "expres",
+    "recorded_at": "2025-11-05T04:31:55.188602+01:00",
+    "raw_valid": true,
+    "song_session_id": "d6575b80-c6fe-44f7-86e4-bb0b7141a966"
+  },
+  {
+    "song": "Zeny A Kvety Sa Nekradnu",
+    "artists": [
+      "Team"
+    ],
+    "isrc": "SKA129031205",
+    "start_time": "2025-11-05 04:34:29",
+    "radio": "expres",
+    "recorded_at": "2025-11-05T04:34:37.954562+01:00",
+    "raw_valid": true,
+    "song_session_id": "d698755a-e90d-4233-86e9-ea96bb51cf3e"
+  },
+  {
+    "song": "The Rhythm Of The Night",
+    "artists": [
+      "Corona"
+    ],
+    "isrc": "ITA199800041",
+    "start_time": "2025-11-05 04:38:41",
+    "radio": "expres",
+    "recorded_at": "2025-11-05T04:39:01.871163+01:00",
+    "raw_valid": true,
+    "song_session_id": "c0a8a980-deb6-439b-b959-9eefaf570db3"
+  },
+  {
+    "song": "Motyl Hlavolam",
+    "artists": [
+      "Katarina Knechtova"
+    ],
+    "isrc": "SKE431500128",
+    "start_time": "2025-11-05 04:43:11",
+    "radio": "expres",
+    "recorded_at": "2025-11-05T04:43:27.538247+01:00",
+    "raw_valid": true,
+    "song_session_id": "7e3d1778-d7cb-4328-9b7b-95107e8225ef"
+  },
+  {
+    "song": "Pride",
+    "artists": [
+      "Felix Jaehn",
+      "Jhart"
+    ],
+    "isrc": "DEUM72503423",
+    "start_time": "2025-11-05 04:46:40",
+    "radio": "expres",
+    "recorded_at": "2025-11-05T04:46:57.413891+01:00",
+    "raw_valid": true,
+    "song_session_id": "355e1a8b-fe27-4cf7-a17b-6806a1ca4fd7"
+  },
+  {
+    "song": "Pre Tuto Chvilu",
+    "artists": [
+      "Imt Smile"
+    ],
+    "isrc": "SKA010305104",
+    "start_time": "2025-11-05 04:49:19",
+    "radio": "expres",
+    "recorded_at": "2025-11-05T04:49:36.889442+01:00",
+    "raw_valid": true,
+    "song_session_id": "74eb7f00-68e8-4f7a-8bd1-1e98f69be04e"
+  },
+  {
+    "song": "Simple Life",
+    "artists": [
+      "Leony"
+    ],
+    "isrc": "DEN062400058",
+    "start_time": "2025-11-05 04:52:54",
+    "radio": "expres",
+    "recorded_at": "2025-11-05T04:53:20.528794+01:00",
+    "raw_valid": true,
+    "song_session_id": "c67d3f91-66d8-4108-94ac-4549e2ee99d8"
+  },
+  {
+    "song": "Ja Som To Vedel",
+    "artists": [
+      "Polemic"
+    ],
+    "isrc": "CZA210000560",
+    "start_time": "2025-11-05 04:55:28",
+    "radio": "expres",
+    "recorded_at": "2025-11-05T04:55:43.928700+01:00",
+    "raw_valid": true,
+    "song_session_id": "50380a14-cdb0-4626-a06a-016e2505fc78"
+  },
+  {
+    "song": "Believer",
+    "artists": [
+      "Imagine Dragons"
+    ],
+    "isrc": "USUM71700626",
+    "start_time": "2025-11-05 04:57:58",
+    "radio": "expres",
+    "recorded_at": "2025-11-05T04:58:21.538136+01:00",
+    "raw_valid": true,
+    "song_session_id": "48922724-9788-47e0-9f2f-dcff3193c2f7"
+  },
+  {
+    "song": "Let Me Die",
+    "artists": [
+      "Mark Dann",
+      "Giovanni Ricci"
+    ],
+    "isrc": "US38Y2520370",
+    "start_time": "2025-11-05 05:00:26",
+    "radio": "expres",
+    "recorded_at": "2025-11-05T05:00:44.049199+01:00",
+    "raw_valid": true,
+    "song_session_id": "48669956-9dc6-4812-a026-867e0ad3d7a1"
+  },
+  {
+    "song": "Maj",
+    "artists": [
+      "Peter Bic Project"
+    ],
+    "isrc": "SKA012100047",
+    "start_time": "2025-11-05 05:02:52",
+    "radio": "expres",
+    "recorded_at": "2025-11-05T05:03:06.408684+01:00",
+    "raw_valid": true,
+    "song_session_id": "83103c25-1fd4-4486-8621-c466d2a53793"
+  },
+  {
+    "song": "Waterfall",
+    "artists": [
+      "Michael Schulte",
+      "R3Hab"
+    ],
+    "isrc": "DEUM72119688",
+    "start_time": "2025-11-05 05:06:47",
+    "radio": "expres",
+    "recorded_at": "2025-11-05T05:07:15.517268+01:00",
+    "raw_valid": true,
+    "song_session_id": "c76bf17d-1b59-45aa-bd70-55795a6f0d47"
+  },
+  {
+    "song": "Bud Hviezda (Co Svieti Mi Nad Hlavou)",
+    "artists": [
+      "Nocaden"
+    ],
+    "isrc": "CZA210300147",
+    "start_time": "2025-11-05 05:09:10",
+    "radio": "expres",
+    "recorded_at": "2025-11-05T05:09:37.648499+01:00",
+    "raw_valid": true,
+    "song_session_id": "47613e4f-ba7f-4d35-b138-0440c944a00f"
+  },
+  {
+    "song": "Rolling In The Deep",
+    "artists": [
+      "Adele"
+    ],
+    "isrc": "GBBKS1000335",
+    "start_time": "2025-11-05 05:12:59",
+    "radio": "expres",
+    "recorded_at": "2025-11-05T05:13:21.743911+01:00",
+    "raw_valid": true,
+    "song_session_id": "eb726376-8a9c-4ecb-a7fd-f0e60ac39e98"
+  },
+  {
+    "song": "Aj Ked Bez Penazi",
+    "artists": [
+      "Elan"
+    ],
+    "isrc": "SKA128229906",
+    "start_time": "2025-11-05 05:16:49",
+    "radio": "expres",
+    "recorded_at": "2025-11-05T05:17:00.546486+01:00",
+    "raw_valid": true,
+    "song_session_id": "a36a34df-c904-4303-914c-058255a1dd94"
+  },
+  {
+    "song": "The Dead Dance",
+    "artists": [
+      "Lady Gaga"
+    ],
+    "isrc": "USUM72407034",
+    "start_time": "2025-11-05 05:20:29",
+    "radio": "expres",
+    "recorded_at": "2025-11-05T05:20:44.415881+01:00",
+    "raw_valid": true,
+    "song_session_id": "a147a304-a3b5-41e6-9fce-d520b0eb0f23"
+  },
+  {
+    "song": "Tlakova Niz",
+    "artists": [
+      "Banket"
+    ],
+    "isrc": "SKA128678604",
+    "start_time": "2025-11-05 05:24:12",
+    "radio": "expres",
+    "recorded_at": "2025-11-05T05:24:28.520550+01:00",
+    "raw_valid": true,
+    "song_session_id": "cff1c3ea-8c69-4cb1-a816-78a77c689a70"
+  },
+  {
+    "song": "Unhealthy",
+    "artists": [
+      "Anne-Marie",
+      "Shania Twain"
+    ],
+    "isrc": "GBAHS2300345",
+    "start_time": "2025-11-05 05:28:45",
+    "radio": "expres",
+    "recorded_at": "2025-11-05T05:29:12.805358+01:00",
+    "raw_valid": true,
+    "song_session_id": "9fd6c5b7-8a31-4e5e-8d2b-e8c1d5673534"
+  },
+  {
+    "song": "Regalo",
+    "artists": [
+      "Alvaro Soler"
+    ],
+    "isrc": "DEE862500388",
+    "start_time": "2025-11-05 05:31:52",
+    "radio": "expres",
+    "recorded_at": "2025-11-05T05:32:18.685946+01:00",
+    "raw_valid": true,
+    "song_session_id": "73b2f8e7-bec7-43a0-b41f-7838399083b0"
+  },
+  {
+    "song": "Naladu Mi Dvihas",
+    "artists": [
+      "Misha"
+    ],
+    "isrc": "SKA770206102",
+    "start_time": "2025-11-05 05:35:02",
+    "radio": "expres",
+    "recorded_at": "2025-11-05T05:35:16.983380+01:00",
+    "raw_valid": true,
+    "song_session_id": "edcf5edf-7d4c-4273-81cb-eca9a395bd7b"
+  },
+  {
+    "song": "Feel",
+    "artists": [
+      "Robbie Williams"
+    ],
+    "isrc": "GBFFG0200002",
+    "start_time": "2025-11-05 05:38:34",
+    "radio": "expres",
+    "recorded_at": "2025-11-05T05:39:00.294373+01:00",
+    "raw_valid": true,
+    "song_session_id": "f182c849-53ea-43b4-96e3-438b2b2b5ac3"
+  },
+  {
+    "song": "Kym Ty Spis",
+    "artists": [
+      "Tina"
+    ],
+    "isrc": "CZA230600522",
+    "start_time": "2025-11-05 05:43:04",
+    "radio": "expres",
+    "recorded_at": "2025-11-05T05:43:19.361434+01:00",
+    "raw_valid": true,
+    "song_session_id": "501b87c7-55f1-4894-9042-e8d3efb531dc"
+  },
+  {
+    "song": "The Fate Of Ophelia",
+    "artists": [
+      "Taylor Swift"
+    ],
+    "isrc": "USUG12506436",
+    "start_time": "2025-11-05 05:46:01",
+    "radio": "expres",
+    "recorded_at": "2025-11-05T05:46:22.938279+01:00",
+    "raw_valid": true,
+    "song_session_id": "2507513b-88fe-428d-bf7a-188a22727a8d"
+  },
+  {
+    "song": "Prievan V Penazenke",
+    "artists": [
+      "Team"
+    ],
+    "isrc": "SKA128917012",
+    "start_time": "2025-11-05 05:50:06",
+    "radio": "expres",
+    "recorded_at": "2025-11-05T05:50:26.989020+01:00",
+    "raw_valid": true,
+    "song_session_id": "2f227a9f-fa76-4fd1-87fd-03364693f091"
+  },
+  {
+    "song": "On The Floor",
+    "artists": [
+      "Jennifer Lopez",
+      "Pitbull"
+    ],
+    "isrc": "USUM71104034",
+    "start_time": "2025-11-05 05:53:02",
+    "radio": "expres",
+    "recorded_at": "2025-11-05T05:53:39.827256+01:00",
+    "raw_valid": true,
+    "song_session_id": "fa5ce4c2-6ef6-4b8b-a283-7f46e0b38ebb"
+  },
+  {
+    "song": "Niekto Ti To Povie Skor Nez Ja",
+    "artists": [
+      "Desmod"
+    ],
+    "isrc": "CZA210600216",
+    "start_time": "2025-11-05 05:56:27",
+    "radio": "expres",
+    "recorded_at": "2025-11-05T05:56:48.073015+01:00",
+    "raw_valid": true,
+    "song_session_id": "12f13317-9161-45b3-ae5d-af141245456a"
+  }
+]

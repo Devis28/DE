@@ -1,0 +1,54 @@
+[
+  {
+    "last_update": "2025-11-04 19:35:38",
+    "song": {
+      "musicAuthor": "Plus Mínus",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485140792a31bc4f1ec81ed2b0b2",
+      "musicTitle": "40",
+      "radio": "Rádio ROCK",
+      "startTime": "20:33"
+    },
+    "recorded_at": "2025-11-04T20:35:38.937911+01:00",
+    "raw_valid": true,
+    "song_session_id": "f504235a-1235-49b4-95ed-066092acf89b"
+  },
+  {
+    "last_update": "2025-11-04 19:38:08",
+    "song": {
+      "musicAuthor": "Motörhead",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851bb7d33186e4a26421c6a77ae",
+      "musicTitle": "Ace Of Spades",
+      "radio": "Rádio ROCK",
+      "startTime": "20:37"
+    },
+    "recorded_at": "2025-11-04T20:38:09.124075+01:00",
+    "raw_valid": true,
+    "song_session_id": "90376652-11f6-448a-a22d-759e150cd3fe"
+  },
+  {
+    "last_update": "2025-11-04 19:41:10",
+    "song": {
+      "musicAuthor": "Karpina",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048510799ed47ac3b8cf1f22d9481",
+      "musicTitle": "Nekromanca",
+      "radio": "Rádio ROCK",
+      "startTime": "20:40"
+    },
+    "recorded_at": "2025-11-04T20:41:11.380347+01:00",
+    "raw_valid": true,
+    "song_session_id": "1a69b418-bd2e-4535-bfdb-48fef1d3a106"
+  },
+  {
+    "last_update": "2025-11-04 19:45:11",
+    "song": {
+      "musicAuthor": "The Paranoid",
+      "musicCover": "https://static.radia.sk/covers/32/6a4240f7-0415-4426-b5d7-761e04b4985b.jpg",
+      "musicTitle": "Unos",
+      "radio": "Rádio ROCK",
+      "startTime": "20:45"
+    },
+    "recorded_at": "2025-11-04T20:45:12.923329+01:00",
+    "raw_valid": true,
+    "song_session_id": "e4c71e57-f52a-4172-9396-10c5eca4fe47"
+  }
+]

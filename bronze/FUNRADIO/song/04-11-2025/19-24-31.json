@@ -1,0 +1,54 @@
+[
+  {
+    "last_update": "2025-11-04 19:14:30",
+    "song": {
+      "musicAuthor": "Mirai, Emma Drobná",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851f448bb803913c8411b6b0d3e",
+      "musicTitle": "Promiň",
+      "radio": "Fun Rádio",
+      "startTime": "20:13"
+    },
+    "recorded_at": "2025-11-04T20:14:31.437626+01:00",
+    "raw_valid": true,
+    "song_session_id": "1aa4d8c6-3c5e-488f-bd10-e06f03420aac"
+  },
+  {
+    "last_update": "2025-11-04 19:16:31",
+    "song": {
+      "musicAuthor": "Celeste Buckingham",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851b290d395edba46941ec2bce3",
+      "musicTitle": "Pretty Girls",
+      "radio": "Fun Rádio",
+      "startTime": "20:16"
+    },
+    "recorded_at": "2025-11-04T20:16:31.608739+01:00",
+    "raw_valid": true,
+    "song_session_id": "d59010a7-e870-4c5d-9b54-d227cf8c7e16"
+  },
+  {
+    "last_update": "2025-11-04 19:20:31",
+    "song": {
+      "musicAuthor": "Katarína Knechtová & Adam Durica",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048518f10a34d1f3a6b181669d36b",
+      "musicTitle": "Takí Sme",
+      "radio": "Fun Rádio",
+      "startTime": "20:19"
+    },
+    "recorded_at": "2025-11-04T20:20:31.899421+01:00",
+    "raw_valid": true,
+    "song_session_id": "0c541096-5340-4566-aed5-76821e1913fc"
+  },
+  {
+    "last_update": "2025-11-04 19:23:31",
+    "song": {
+      "musicAuthor": "Liia",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048512639fc2fd8b6ec86fc2449c2",
+      "musicTitle": "Substitute",
+      "radio": "Fun Rádio",
+      "startTime": "20:22"
+    },
+    "recorded_at": "2025-11-04T20:23:32.108036+01:00",
+    "raw_valid": true,
+    "song_session_id": "fd8e1db6-53db-48b7-95de-d6aee749f05d"
+  }
+]

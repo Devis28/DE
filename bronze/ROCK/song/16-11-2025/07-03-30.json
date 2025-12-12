@@ -1,0 +1,379 @@
+[
+  {
+    "last_update": "2025-11-16 05:07:14",
+    "song": {
+      "musicAuthor": "Red Hot Chili Peppers",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048517f3dcf99224570b053294ccf",
+      "musicTitle": "Aeroplane",
+      "radio": "Rádio ROCK",
+      "startTime": "06:06"
+    },
+    "recorded_at": "2025-11-16T06:07:14.178617+01:00",
+    "raw_valid": true,
+    "song_session_id": "61d417a0-bbe5-4166-ba64-3016c0020ee6"
+  },
+  {
+    "last_update": "2025-11-16 05:11:15",
+    "song": {
+      "musicAuthor": "Queen",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048515be5f807f6f0549e198a44b4",
+      "musicTitle": "Radio Ga Ga",
+      "radio": "Rádio ROCK",
+      "startTime": "06:10"
+    },
+    "recorded_at": "2025-11-16T06:11:16.197239+01:00",
+    "raw_valid": true,
+    "song_session_id": "d0c97756-249f-4cde-b515-e1e3b783e26a"
+  },
+  {
+    "last_update": "2025-11-16 05:17:17",
+    "song": {
+      "musicAuthor": "James",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048510137f8e79dc60001c2dc5b79",
+      "musicTitle": "Sit Down",
+      "radio": "Rádio ROCK",
+      "startTime": "06:16"
+    },
+    "recorded_at": "2025-11-16T06:17:17.302074+01:00",
+    "raw_valid": true,
+    "song_session_id": "761ff4a9-b9b9-4789-94fb-3ee8109df452"
+  },
+  {
+    "last_update": "2025-11-16 05:21:16",
+    "song": {
+      "musicAuthor": "3 Doors Down",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048512868c4713a3912fd476b42f1",
+      "musicTitle": "Kryptonite",
+      "radio": "Rádio ROCK",
+      "startTime": "06:20"
+    },
+    "recorded_at": "2025-11-16T06:21:17.678646+01:00",
+    "raw_valid": true,
+    "song_session_id": "d3c0e095-5306-43b0-abc6-71e933c0fd7f"
+  },
+  {
+    "last_update": "2025-11-16 05:25:18",
+    "song": {
+      "musicAuthor": "The Offspring",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851cac23b6eddc76b57eb3d7239",
+      "musicTitle": "Make It All Right",
+      "radio": "Rádio ROCK",
+      "startTime": "06:24"
+    },
+    "recorded_at": "2025-11-16T06:25:18.738944+01:00",
+    "raw_valid": true,
+    "song_session_id": "fad5389c-b1e6-4d8b-b060-d78123effc0c"
+  },
+  {
+    "last_update": "2025-11-16 05:28:18",
+    "song": {
+      "musicAuthor": "Ram Jam",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851fa5dcfc4b1b99a0598224758",
+      "musicTitle": "Black Betty",
+      "radio": "Rádio ROCK",
+      "startTime": "06:27"
+    },
+    "recorded_at": "2025-11-16T06:28:18.915503+01:00",
+    "raw_valid": true,
+    "song_session_id": "365eff01-3d77-4a50-bc80-994ed3606a21"
+  },
+  {
+    "last_update": "2025-11-16 05:32:18",
+    "song": {
+      "musicAuthor": "Iné Kafe",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048518505682353250894f1d0a0fd",
+      "musicTitle": "Ružová Záhrada",
+      "radio": "Rádio ROCK",
+      "startTime": "06:31"
+    },
+    "recorded_at": "2025-11-16T06:32:19.416728+01:00",
+    "raw_valid": true,
+    "song_session_id": "45a7d76e-e9a1-4074-8756-8b1373a3a4d7"
+  },
+  {
+    "last_update": "2025-11-16 05:36:19",
+    "song": {
+      "musicAuthor": "Smash Mouth",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048511c36662f70967a1210a42741",
+      "musicTitle": "I'm Believer",
+      "radio": "Rádio ROCK",
+      "startTime": "06:35"
+    },
+    "recorded_at": "2025-11-16T06:36:19.656353+01:00",
+    "raw_valid": true,
+    "song_session_id": "385ff2db-265c-4d5b-9a5e-924f5bfce62d"
+  },
+  {
+    "last_update": "2025-11-16 05:39:26",
+    "song": {
+      "musicAuthor": "Queens Of The Stone Age",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048519eec33b045d88f87b9b06e67",
+      "musicTitle": "No One Knows",
+      "radio": "Rádio ROCK",
+      "startTime": "06:38"
+    },
+    "recorded_at": "2025-11-16T06:39:26.682779+01:00",
+    "raw_valid": true,
+    "song_session_id": "1ce39835-096d-450b-b696-87fd1539bdf2"
+  },
+  {
+    "last_update": "2025-11-16 05:43:26",
+    "song": {
+      "musicAuthor": "Aerosmith",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851d9172c4bd345d358497e64d6",
+      "musicTitle": "I Don't Want To Miss A Thing",
+      "radio": "Rádio ROCK",
+      "startTime": "06:43"
+    },
+    "recorded_at": "2025-11-16T06:43:27.014822+01:00",
+    "raw_valid": true,
+    "song_session_id": "19efe08e-bbda-46ec-b886-fde3a0c291d4"
+  },
+  {
+    "last_update": "2025-11-16 05:48:27",
+    "song": {
+      "musicAuthor": "Bryan Adams",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851cf1fee2a55e98e22bf358512",
+      "musicTitle": "Somebody",
+      "radio": "Rádio ROCK",
+      "startTime": "06:47"
+    },
+    "recorded_at": "2025-11-16T06:48:27.296638+01:00",
+    "raw_valid": true,
+    "song_session_id": "cdd29b5b-e96a-4495-ab9a-ee37240ee375"
+  },
+  {
+    "last_update": "2025-11-16 05:52:27",
+    "song": {
+      "musicAuthor": "Oasis",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485185e5dcc05cc216a10f141480",
+      "musicTitle": "Wonderwall",
+      "radio": "Rádio ROCK",
+      "startTime": "06:51"
+    },
+    "recorded_at": "2025-11-16T06:52:28.661157+01:00",
+    "raw_valid": true,
+    "song_session_id": "c658a0af-3b8c-4765-9951-cf79e5f557ed"
+  },
+  {
+    "last_update": "2025-11-16 05:56:31",
+    "song": {
+      "musicAuthor": "Kings Of Leon",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048512519d01c0cca06f134eeadd8",
+      "musicTitle": "Use Somebody",
+      "radio": "Rádio ROCK",
+      "startTime": "06:55"
+    },
+    "recorded_at": "2025-11-16T06:56:31.591569+01:00",
+    "raw_valid": true,
+    "song_session_id": "ded7204e-a8fa-44fa-86c1-b3bff7fa29ce"
+  },
+  {
+    "last_update": "2025-11-16 06:00:32",
+    "song": {
+      "musicAuthor": "Black Sabbath",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048519683e5d7361bb80bfb00f46d",
+      "musicTitle": "Iron Man",
+      "radio": "Rádio ROCK",
+      "startTime": "06:59"
+    },
+    "recorded_at": "2025-11-16T07:00:33.071769+01:00",
+    "raw_valid": true,
+    "song_session_id": "072bf88f-c5f1-4ab9-bd03-92ff73358458"
+  },
+  {
+    "last_update": "2025-11-16 06:03:33",
+    "song": {
+      "musicAuthor": "Weezer",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048511e0dc5baaabda304b0ad1815",
+      "musicTitle": "Island In The Sun",
+      "radio": "Rádio ROCK",
+      "startTime": "07:02"
+    },
+    "recorded_at": "2025-11-16T07:03:33.911162+01:00",
+    "raw_valid": true,
+    "song_session_id": "9aa4d694-1019-46d8-9024-3fb1f7c65924"
+  },
+  {
+    "last_update": "2025-11-16 06:06:34",
+    "song": {
+      "musicAuthor": "Kabát",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048518e3164854b6001e1c95f2840",
+      "musicTitle": "Šaman",
+      "radio": "Rádio ROCK",
+      "startTime": "07:06"
+    },
+    "recorded_at": "2025-11-16T07:06:34.125954+01:00",
+    "raw_valid": true,
+    "song_session_id": "d5c922db-7f9c-44d7-a1cd-7a2da96fa0ba"
+  },
+  {
+    "last_update": "2025-11-16 06:10:35",
+    "song": {
+      "musicAuthor": "Royal Republic",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485158be78908b167a3e7cef3a06",
+      "musicTitle": "My House",
+      "radio": "Rádio ROCK",
+      "startTime": "07:10"
+    },
+    "recorded_at": "2025-11-16T07:10:35.673844+01:00",
+    "raw_valid": true,
+    "song_session_id": "9ee3db47-85dd-48b0-83cb-327f955a68bc"
+  },
+  {
+    "last_update": "2025-11-16 06:14:35",
+    "song": {
+      "musicAuthor": "Billy Joel",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048511946747b8692919f98918ec4",
+      "musicTitle": "We Didn't Start The Fire",
+      "radio": "Rádio ROCK",
+      "startTime": "07:13"
+    },
+    "recorded_at": "2025-11-16T07:14:36.851727+01:00",
+    "raw_valid": true,
+    "song_session_id": "fc7faeab-b00f-4926-825a-f2dac790ffa5"
+  },
+  {
+    "last_update": "2025-11-16 06:18:36",
+    "song": {
+      "musicAuthor": "Electric Callboy & Frank Zummo",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851b259a190030bb40fc7ddfdc4",
+      "musicTitle": "Still Waiting",
+      "radio": "Rádio ROCK",
+      "startTime": "07:17"
+    },
+    "recorded_at": "2025-11-16T07:18:37.251618+01:00",
+    "raw_valid": true,
+    "song_session_id": "52d9ddd7-8e92-4b6d-ac94-0ab025db0dc7"
+  },
+  {
+    "last_update": "2025-11-16 06:21:37",
+    "song": {
+      "musicAuthor": "Chad Kroeger Feat. Josey Scott",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851cab637c3978c4db066bfd16f",
+      "musicTitle": "Hero",
+      "radio": "Rádio ROCK",
+      "startTime": "07:20"
+    },
+    "recorded_at": "2025-11-16T07:21:37.452300+01:00",
+    "raw_valid": true,
+    "song_session_id": "f26395fd-0696-4223-acf8-95de6a0546cf"
+  },
+  {
+    "last_update": "2025-11-16 06:24:07",
+    "song": {
+      "musicAuthor": "Metallica",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851668e3aca3167e6e569a9aa20",
+      "musicTitle": "Master Of Puppets",
+      "radio": "Rádio ROCK",
+      "startTime": "07:23"
+    },
+    "recorded_at": "2025-11-16T07:24:07.629354+01:00",
+    "raw_valid": true,
+    "song_session_id": "9cce5194-0d0c-41b0-9cdc-d02d4d693380"
+  },
+  {
+    "last_update": "2025-11-16 06:33:08",
+    "song": {
+      "musicAuthor": "I.M.T.Smile",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048519f87f415d273aea02df2ca65",
+      "musicTitle": "Nepoznám",
+      "radio": "Rádio ROCK",
+      "startTime": "07:33"
+    },
+    "recorded_at": "2025-11-16T07:33:08.958018+01:00",
+    "raw_valid": true,
+    "song_session_id": "bad0b4d9-89cb-4797-9d66-6f87731da2b0"
+  },
+  {
+    "last_update": "2025-11-16 06:37:09",
+    "song": {
+      "musicAuthor": "Imagine Dragons",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851407bd04707c463bbb3410737",
+      "musicTitle": "Radioactive",
+      "radio": "Rádio ROCK",
+      "startTime": "07:36"
+    },
+    "recorded_at": "2025-11-16T07:37:09.978683+01:00",
+    "raw_valid": true,
+    "song_session_id": "2dd10b63-c206-424e-88da-084a12d674a2"
+  },
+  {
+    "last_update": "2025-11-16 06:40:10",
+    "song": {
+      "musicAuthor": "Horkýže Slíže",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851911995709754b328f466267c",
+      "musicTitle": "Maštaľ",
+      "radio": "Rádio ROCK",
+      "startTime": "07:39"
+    },
+    "recorded_at": "2025-11-16T07:40:11.498358+01:00",
+    "raw_valid": true,
+    "song_session_id": "a7f9c0ef-02a3-4e83-b9d6-1e4303f53423"
+  },
+  {
+    "last_update": "2025-11-16 06:42:10",
+    "song": {
+      "musicAuthor": "Queen & David Bowie",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851d254ca497999ae980a5a38c5",
+      "musicTitle": "Under Pressure",
+      "radio": "Rádio ROCK",
+      "startTime": "07:42"
+    },
+    "recorded_at": "2025-11-16T07:42:11.613983+01:00",
+    "raw_valid": true,
+    "song_session_id": "9645a0dd-2c50-4fd9-bf29-30d8e20fb650"
+  },
+  {
+    "last_update": "2025-11-16 06:46:11",
+    "song": {
+      "musicAuthor": "Sabaton",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048514f41a332a8deb1ff7b9ebafe",
+      "musicTitle": "Bismarck",
+      "radio": "Rádio ROCK",
+      "startTime": "07:46"
+    },
+    "recorded_at": "2025-11-16T07:46:11.912328+01:00",
+    "raw_valid": true,
+    "song_session_id": "060c8934-06a7-4bff-bea9-1a2a5dfbb416"
+  },
+  {
+    "last_update": "2025-11-16 06:51:14",
+    "song": {
+      "musicAuthor": "Bon Jovi",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851901d0116a03d30a5c45bb99c",
+      "musicTitle": "Bad Medicine",
+      "radio": "Rádio ROCK",
+      "startTime": "07:50"
+    },
+    "recorded_at": "2025-11-16T07:51:14.865351+01:00",
+    "raw_valid": true,
+    "song_session_id": "9ab3b19c-e0b6-4f5d-9ce1-d88c50417e41"
+  },
+  {
+    "last_update": "2025-11-16 06:56:15",
+    "song": {
+      "musicAuthor": "Evanescence",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485125f49ab23f0ec6332efef432",
+      "musicTitle": "Bring Me To Life",
+      "radio": "Rádio ROCK",
+      "startTime": "07:55"
+    },
+    "recorded_at": "2025-11-16T07:56:15.747591+01:00",
+    "raw_valid": true,
+    "song_session_id": "35acc87b-982c-40e5-97a8-bb89a1a60881"
+  },
+  {
+    "last_update": "2025-11-16 07:00:15",
+    "song": {
+      "musicAuthor": "Extreme",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851fb16b9b69eb891027654bcb1",
+      "musicTitle": "More Than Words",
+      "radio": "Rádio ROCK",
+      "startTime": "07:59"
+    },
+    "recorded_at": "2025-11-16T08:00:16.033287+01:00",
+    "raw_valid": true,
+    "song_session_id": "2cd99503-16d4-4d9f-8b89-bf90c6d5de28"
+  }
+]

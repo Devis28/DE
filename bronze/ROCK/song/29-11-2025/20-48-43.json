@@ -1,0 +1,106 @@
+[
+  {
+    "last_update": "2025-11-29 18:50:09",
+    "song": {
+      "musicAuthor": "The Rolling Stones",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485144934a06d21864415376f5f2",
+      "musicTitle": "Sympathy For The Devil",
+      "radio": "Rádio ROCK",
+      "startTime": "19:49"
+    },
+    "recorded_at": "2025-11-29T19:50:10.454658+01:00",
+    "raw_valid": true,
+    "song_session_id": "00496ca1-f6f0-4e85-b92c-587870441329"
+  },
+  {
+    "last_update": "2025-11-29 18:56:11",
+    "song": {
+      "musicAuthor": "Soul Asylum",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851a1b5db0138571e123e6c5894",
+      "musicTitle": "Runaway Train",
+      "radio": "Rádio ROCK",
+      "startTime": "19:56"
+    },
+    "recorded_at": "2025-11-29T19:56:11.947216+01:00",
+    "raw_valid": true,
+    "song_session_id": "ab86bdf5-d12d-4d23-87ec-c3dbc86e6aa4"
+  },
+  {
+    "last_update": "2025-11-29 20:25:09",
+    "song": {
+      "musicAuthor": "Idol Billy",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851ea07dca8b4ca808c1e5b17fb",
+      "musicTitle": "Rebel Yell",
+      "radio": "Rádio ROCK",
+      "startTime": "21:24"
+    },
+    "recorded_at": "2025-11-29T21:25:09.893876+01:00",
+    "raw_valid": true,
+    "song_session_id": "3c702656-7e1a-4da3-b772-d427ac1e5929"
+  },
+  {
+    "last_update": "2025-11-29 20:29:09",
+    "song": {
+      "musicAuthor": "Dany Moment",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851adf92c59ac526bfb0857741d",
+      "musicTitle": "Stale Sa Pytam",
+      "radio": "Rádio ROCK",
+      "startTime": "21:28"
+    },
+    "recorded_at": "2025-11-29T21:29:10.191882+01:00",
+    "raw_valid": true,
+    "song_session_id": "923a179d-9ea2-4d1a-800d-8d0efcf47f5f"
+  },
+  {
+    "last_update": "2025-11-29 20:32:10",
+    "song": {
+      "musicAuthor": "Cherry Street",
+      "musicCover": "https://static.radia.sk/covers/32/e3967325-0ac6-4545-8595-faa4ffa235fd.jpg",
+      "musicTitle": "Punkrock Show",
+      "radio": "Rádio ROCK",
+      "startTime": "21:32"
+    },
+    "recorded_at": "2025-11-29T21:32:10.833677+01:00",
+    "raw_valid": true,
+    "song_session_id": "58174b62-f0bf-4be2-83c2-d8803fb31728"
+  },
+  {
+    "last_update": "2025-11-29 20:35:11",
+    "song": {
+      "musicAuthor": "The Soundgarden",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048513dfbf5d9c933c07cb866a8d7",
+      "musicTitle": "Black Hole Sun",
+      "radio": "Rádio ROCK",
+      "startTime": "21:35"
+    },
+    "recorded_at": "2025-11-29T21:35:11.147902+01:00",
+    "raw_valid": true,
+    "song_session_id": "fe08a48d-575c-43fa-a8ae-011911a386f2"
+  },
+  {
+    "last_update": "2025-11-29 20:41:12",
+    "song": {
+      "musicAuthor": "Tublatanka",
+      "musicCover": "https://static.radia.sk/covers/32/7ee86987-baad-48a6-9afa-0ca560d378f2.jpg",
+      "musicTitle": "Tuláčik S Dobrou Povesťou",
+      "radio": "Rádio ROCK",
+      "startTime": "21:40"
+    },
+    "recorded_at": "2025-11-29T21:41:12.623334+01:00",
+    "raw_valid": true,
+    "song_session_id": "8d14ac1f-b5a1-43ad-9bdf-74caba0111e2"
+  },
+  {
+    "last_update": "2025-11-29 20:46:16",
+    "song": {
+      "musicAuthor": "Radiohead",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851c8b444df094279e70d0ed856",
+      "musicTitle": "Karma Police",
+      "radio": "Rádio ROCK",
+      "startTime": "21:45"
+    },
+    "recorded_at": "2025-11-29T21:46:17.402315+01:00",
+    "raw_valid": true,
+    "song_session_id": "1d3655d3-4abb-4e76-aedd-9dace3fa5cd9"
+  }
+]

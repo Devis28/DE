@@ -1,0 +1,314 @@
+[
+  {
+    "last_update": "2025-11-06 07:06:11",
+    "song": {
+      "musicAuthor": "Evanescence",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485125f49ab23f0ec6332efef432",
+      "musicTitle": "Bring Me To Life",
+      "radio": "Rádio ROCK",
+      "startTime": "08:05"
+    },
+    "recorded_at": "2025-11-06T08:06:11.218818+01:00",
+    "raw_valid": true,
+    "song_session_id": "77e75e45-2b4a-4eac-9a6d-072f795d743c"
+  },
+  {
+    "last_update": "2025-11-06 07:10:11",
+    "song": {
+      "musicAuthor": "Metallica",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485196a926d07aea417327ea024a",
+      "musicTitle": "Fade To Black",
+      "radio": "Rádio ROCK",
+      "startTime": "08:09"
+    },
+    "recorded_at": "2025-11-06T08:10:11.759799+01:00",
+    "raw_valid": true,
+    "song_session_id": "30b22a8d-e6f2-4b3d-898a-daa830fbadaf"
+  },
+  {
+    "last_update": "2025-11-06 07:15:12",
+    "song": {
+      "musicAuthor": "Nirvana",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851fbc71c99f9c1296c56dd51b6",
+      "musicTitle": "Come As You Are",
+      "radio": "Rádio ROCK",
+      "startTime": "08:14"
+    },
+    "recorded_at": "2025-11-06T08:15:12.805731+01:00",
+    "raw_valid": true,
+    "song_session_id": "1c158830-b754-468f-ab10-5d51b5c7204d"
+  },
+  {
+    "last_update": "2025-11-06 07:19:12",
+    "song": {
+      "musicAuthor": "Limp Bizkit",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048514a31b146c7cf07705d912efe",
+      "musicTitle": "My Generation",
+      "radio": "Rádio ROCK",
+      "startTime": "08:19"
+    },
+    "recorded_at": "2025-11-06T08:19:13.073221+01:00",
+    "raw_valid": true,
+    "song_session_id": "b0eaa76f-d011-4a68-b598-a6c68602b421"
+  },
+  {
+    "last_update": "2025-11-06 07:23:13",
+    "song": {
+      "musicAuthor": "Queen & David Bowie",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851d254ca497999ae980a5a38c5",
+      "musicTitle": "Under Pressure",
+      "radio": "Rádio ROCK",
+      "startTime": "08:22"
+    },
+    "recorded_at": "2025-11-06T08:23:13.912047+01:00",
+    "raw_valid": true,
+    "song_session_id": "9e76472c-df65-47fb-9cf6-2983d3c17456"
+  },
+  {
+    "last_update": "2025-11-06 07:27:13",
+    "song": {
+      "musicAuthor": "The New Radicals",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048517d1327a4c19aad3c03e5557c",
+      "musicTitle": "Someday We'll Know",
+      "radio": "Rádio ROCK",
+      "startTime": "08:26"
+    },
+    "recorded_at": "2025-11-06T08:27:14.410106+01:00",
+    "raw_valid": true,
+    "song_session_id": "e8e23945-7967-4696-a472-ce69827716f6"
+  },
+  {
+    "last_update": "2025-11-06 07:34:14",
+    "song": {
+      "musicAuthor": "Linkin Park",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485146e207de66ba06422897f769",
+      "musicTitle": "What I've Done",
+      "radio": "Rádio ROCK",
+      "startTime": "08:33"
+    },
+    "recorded_at": "2025-11-06T08:34:15.176184+01:00",
+    "raw_valid": true,
+    "song_session_id": "390c0f05-1c70-4f81-9983-ea425608bb84"
+  },
+  {
+    "last_update": "2025-11-06 07:37:15",
+    "song": {
+      "musicAuthor": "Uriah Heep",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851129b97b6a6d11c358be74e3b",
+      "musicTitle": "Lady In Black",
+      "radio": "Rádio ROCK",
+      "startTime": "08:36"
+    },
+    "recorded_at": "2025-11-06T08:37:15.448542+01:00",
+    "raw_valid": true,
+    "song_session_id": "a1e0b2a0-0201-4775-bed8-6e3d279eac66"
+  },
+  {
+    "last_update": "2025-11-06 07:42:14",
+    "song": {
+      "musicAuthor": "The Offspring",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851cbd2ee7dff77bfb2b5f0af52",
+      "musicTitle": "The Kids Arent Alright",
+      "radio": "Rádio ROCK",
+      "startTime": "08:41"
+    },
+    "recorded_at": "2025-11-06T08:42:15.877440+01:00",
+    "raw_valid": true,
+    "song_session_id": "20b408d8-05f2-4727-acf0-b8a60e20a8fd"
+  },
+  {
+    "last_update": "2025-11-06 07:46:17",
+    "song": {
+      "musicAuthor": "R.E.M.",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851e2dd4e821bcc3f70dc0c8ffd",
+      "musicTitle": "Losing My Religion",
+      "radio": "Rádio ROCK",
+      "startTime": "08:45"
+    },
+    "recorded_at": "2025-11-06T08:46:18.207935+01:00",
+    "raw_valid": true,
+    "song_session_id": "60f10603-37f3-40e0-9dd4-4ff5b2dec802"
+  },
+  {
+    "last_update": "2025-11-06 07:51:18",
+    "song": {
+      "musicAuthor": "Led Zeppelin",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851c8a11e48c91a982d086afc69",
+      "musicTitle": "Stairway To Heaven",
+      "radio": "Rádio ROCK",
+      "startTime": "08:50"
+    },
+    "recorded_at": "2025-11-06T08:51:18.791035+01:00",
+    "raw_valid": true,
+    "song_session_id": "db94bab5-9c45-4bf3-9f60-7ebb201b31f3"
+  },
+  {
+    "last_update": "2025-11-06 07:59:20",
+    "song": {
+      "musicAuthor": "Beastie Boys",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851436a305db8bd85b820da3e5a",
+      "musicTitle": "Sabotage",
+      "radio": "Rádio ROCK",
+      "startTime": "08:58"
+    },
+    "recorded_at": "2025-11-06T08:59:20.387213+01:00",
+    "raw_valid": true,
+    "song_session_id": "20a445f9-ea21-4a58-ab14-8edfda05a2d2"
+  },
+  {
+    "last_update": "2025-11-06 08:05:22",
+    "song": {
+      "musicAuthor": "Kiss",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048514384b6976cadaec272114022",
+      "musicTitle": "I Was Made For Lovin' You",
+      "radio": "Rádio ROCK",
+      "startTime": "09:05"
+    },
+    "recorded_at": "2025-11-06T09:05:22.805916+01:00",
+    "raw_valid": true,
+    "song_session_id": "9cbd798a-306d-4aa6-8302-59e3fe9c2ed1"
+  },
+  {
+    "last_update": "2025-11-06 08:10:22",
+    "song": {
+      "musicAuthor": "Fall Out Boy",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485171565eda831124be86c603d5",
+      "musicTitle": "Dance, Dance",
+      "radio": "Rádio ROCK",
+      "startTime": "09:09"
+    },
+    "recorded_at": "2025-11-06T09:10:23.115607+01:00",
+    "raw_valid": true,
+    "song_session_id": "5ba3e938-d3f8-41c3-a225-bf6fef2f7350"
+  },
+  {
+    "last_update": "2025-11-06 08:13:23",
+    "song": {
+      "musicAuthor": "Slobodna Europa",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851f183160ecfd94bfb1d3bbe9f",
+      "musicTitle": "Analyza Dokazala Hovno",
+      "radio": "Rádio ROCK",
+      "startTime": "09:12"
+    },
+    "recorded_at": "2025-11-06T09:13:23.750032+01:00",
+    "raw_valid": true,
+    "song_session_id": "c28feac5-5191-4df0-baae-16b16cb0c074"
+  },
+  {
+    "last_update": "2025-11-06 08:17:23",
+    "song": {
+      "musicAuthor": "Genesis",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485101f20b98b794099707e43375",
+      "musicTitle": "No Son Of Mine",
+      "radio": "Rádio ROCK",
+      "startTime": "09:17"
+    },
+    "recorded_at": "2025-11-06T09:17:23.981654+01:00",
+    "raw_valid": true,
+    "song_session_id": "a9ad43ef-3a81-4ff3-a3ec-0e1951280c34"
+  },
+  {
+    "last_update": "2025-11-06 08:24:27",
+    "song": {
+      "musicAuthor": "Kabát",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851037ddf69c8399260eb890afd",
+      "musicTitle": "Malá Dáma",
+      "radio": "Rádio ROCK",
+      "startTime": "09:23"
+    },
+    "recorded_at": "2025-11-06T09:24:27.604159+01:00",
+    "raw_valid": true,
+    "song_session_id": "d6592b0c-625c-44c3-89c2-dda0b781c2fc"
+  },
+  {
+    "last_update": "2025-11-06 08:27:28",
+    "song": {
+      "musicAuthor": "Myles Alannah",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851b335b494476d5b018c96c25a",
+      "musicTitle": "Black Velvet",
+      "radio": "Rádio ROCK",
+      "startTime": "09:26"
+    },
+    "recorded_at": "2025-11-06T09:27:28.307595+01:00",
+    "raw_valid": true,
+    "song_session_id": "75e03fda-f6c0-49d3-a183-a126f80f93bb"
+  },
+  {
+    "last_update": "2025-11-06 08:34:30",
+    "song": {
+      "musicAuthor": "Aerosmith",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851b11078ee23dcd99e085ac33e",
+      "musicTitle": "Dream On",
+      "radio": "Rádio ROCK",
+      "startTime": "09:33"
+    },
+    "recorded_at": "2025-11-06T09:34:30.148420+01:00",
+    "raw_valid": true,
+    "song_session_id": "ce3fbc2e-5805-48c1-ac1c-5e317d86b1e1"
+  },
+  {
+    "last_update": "2025-11-06 08:38:33",
+    "song": {
+      "musicAuthor": "Metallica",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851ee5869b2880109918fc47199",
+      "musicTitle": "St. Anger",
+      "radio": "Rádio ROCK",
+      "startTime": "09:37"
+    },
+    "recorded_at": "2025-11-06T09:38:33.506159+01:00",
+    "raw_valid": true,
+    "song_session_id": "a2c076ad-883c-4cc1-8c73-2f06ca609611"
+  },
+  {
+    "last_update": "2025-11-06 08:44:35",
+    "song": {
+      "musicAuthor": "4 Non Blondes",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851381371cb8ce680d0dc324600",
+      "musicTitle": "What's Up",
+      "radio": "Rádio ROCK",
+      "startTime": "09:43"
+    },
+    "recorded_at": "2025-11-06T09:44:35.189125+01:00",
+    "raw_valid": true,
+    "song_session_id": "ae8a1ac1-846c-448b-9891-1d08691f6a18"
+  },
+  {
+    "last_update": "2025-11-06 08:50:34",
+    "song": {
+      "musicAuthor": "Horkýže Slíže",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485160348235029c408a3e558ab7",
+      "musicTitle": "Emanuel Bacigala",
+      "radio": "Rádio ROCK",
+      "startTime": "09:49"
+    },
+    "recorded_at": "2025-11-06T09:50:35.604290+01:00",
+    "raw_valid": true,
+    "song_session_id": "af372d0a-be5a-4c76-989f-4a976ca3f98b"
+  },
+  {
+    "last_update": "2025-11-06 08:52:36",
+    "song": {
+      "musicAuthor": "Def Leppard",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048513061b8dbb3c061b853b8e799",
+      "musicTitle": "Let's Get Rocked",
+      "radio": "Rádio ROCK",
+      "startTime": "09:52"
+    },
+    "recorded_at": "2025-11-06T09:52:37.087344+01:00",
+    "raw_valid": true,
+    "song_session_id": "59651cd0-149e-4191-9a06-eb1570de2aeb"
+  },
+  {
+    "last_update": "2025-11-06 08:57:37",
+    "song": {
+      "musicAuthor": "Manic Street Preachers",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851b5f24b5004d008f05b0cb148",
+      "musicTitle": "Motorcycle Emptiness",
+      "radio": "Rádio ROCK",
+      "startTime": "09:57"
+    },
+    "recorded_at": "2025-11-06T09:57:37.905118+01:00",
+    "raw_valid": true,
+    "song_session_id": "0ec52266-df37-41c1-987e-bd6a1544e35b"
+  }
+]

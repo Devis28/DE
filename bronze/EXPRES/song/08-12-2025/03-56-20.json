@@ -1,0 +1,438 @@
+[
+  {
+    "song": "Overdrive",
+    "artists": [
+      "Ofenbach",
+      "Norma Jean Martine"
+    ],
+    "isrc": "FR9W12347222",
+    "start_time": "2025-12-08 02:56:40",
+    "radio": "expres",
+    "recorded_at": "2025-12-08T02:56:58.323660+01:00",
+    "raw_valid": true,
+    "song_session_id": "99ab0572-6dab-4499-9451-638ec78f06a8"
+  },
+  {
+    "song": "Happy Xmas (War Is Over)",
+    "artists": [
+      "John Lennon"
+    ],
+    "isrc": "GBAYE1000862",
+    "start_time": "2025-12-08 02:59:17",
+    "radio": "expres",
+    "recorded_at": "2025-12-08T02:59:41.808305+01:00",
+    "raw_valid": true,
+    "song_session_id": "68bcbbb1-3ae5-47a9-94a9-015c863ccdb0"
+  },
+  {
+    "song": "Wonders",
+    "artists": [
+      "Michael Patrick Kelly",
+      "Rakim"
+    ],
+    "isrc": "DEE862201500",
+    "start_time": "2025-12-08 03:02:36",
+    "radio": "expres",
+    "recorded_at": "2025-12-08T03:03:08.696962+01:00",
+    "raw_valid": true,
+    "song_session_id": "f3ffdc3d-c53f-47cf-92dc-a50938a34d2f"
+  },
+  {
+    "song": "Tancujem S Tebou Rad",
+    "artists": [
+      "Karol Duchon"
+    ],
+    "isrc": "SKA127650809",
+    "start_time": "2025-12-08 03:06:00",
+    "radio": "expres",
+    "recorded_at": "2025-12-08T03:06:32.526799+01:00",
+    "raw_valid": true,
+    "song_session_id": "ab5b2688-9a75-4fd8-8816-0a201966ab38"
+  },
+  {
+    "song": "Blink Twice",
+    "artists": [
+      "Shaboozey",
+      "Myles Smith"
+    ],
+    "isrc": "USUYG1717098",
+    "start_time": "2025-12-08 03:09:03",
+    "radio": "expres",
+    "recorded_at": "2025-12-08T03:09:36.237903+01:00",
+    "raw_valid": true,
+    "song_session_id": "7df41fdb-02cf-413a-a17b-ecd8b238bbbe"
+  },
+  {
+    "song": "Skusky Z Lasky",
+    "artists": [
+      "Gravis"
+    ],
+    "isrc": "SKA128912006",
+    "start_time": "2025-12-08 03:11:42",
+    "radio": "expres",
+    "recorded_at": "2025-12-08T03:12:04.973153+01:00",
+    "raw_valid": true,
+    "song_session_id": "ca9444e6-5f31-4e48-b843-2354d47e7440"
+  },
+  {
+    "song": "Cant Fight The Moonlight",
+    "artists": [
+      "Leann Rimes"
+    ],
+    "isrc": "USCRB0000703",
+    "start_time": "2025-12-08 03:15:21",
+    "radio": "expres",
+    "recorded_at": "2025-12-08T03:15:44.366452+01:00",
+    "raw_valid": true,
+    "song_session_id": "3ed26d4f-a7ca-4639-9fb9-79c061037f4a"
+  },
+  {
+    "song": "Lekna",
+    "artists": [
+      "No Name"
+    ],
+    "isrc": "SKA010305329",
+    "start_time": "2025-12-08 03:19:04",
+    "radio": "expres",
+    "recorded_at": "2025-12-08T03:19:28.559107+01:00",
+    "raw_valid": true,
+    "song_session_id": "4a529937-c3ba-4f33-9000-07b733b3238e"
+  },
+  {
+    "song": "Eternity",
+    "artists": [
+      "Alex Warren"
+    ],
+    "isrc": "USAT22503779",
+    "start_time": "2025-12-08 03:22:29",
+    "radio": "expres",
+    "recorded_at": "2025-12-08T03:22:51.980723+01:00",
+    "raw_valid": true,
+    "song_session_id": "5933b19a-a84b-4c5b-90a7-13b3ff831595"
+  },
+  {
+    "song": "Fero",
+    "artists": [
+      "Elan"
+    ],
+    "isrc": "SKA128678703",
+    "start_time": "2025-12-08 03:25:36",
+    "radio": "expres",
+    "recorded_at": "2025-12-08T03:25:53.484669+01:00",
+    "raw_valid": true,
+    "song_session_id": "3f655fc4-9112-423c-87d4-54b95c802b27"
+  },
+  {
+    "song": "Driving Home For Christmas",
+    "artists": [
+      "Chris Rea"
+    ],
+    "isrc": "GBAHS9904091",
+    "start_time": "2025-12-08 03:29:00",
+    "radio": "expres",
+    "recorded_at": "2025-12-08T03:29:17.518121+01:00",
+    "raw_valid": true,
+    "song_session_id": "7185c0a6-c62d-400d-8843-ffc31f9a1687"
+  },
+  {
+    "song": "Love Me Not",
+    "artists": [
+      "Ravyn Lenae"
+    ],
+    "isrc": "USAT22401137",
+    "start_time": "2025-12-08 03:32:51",
+    "radio": "expres",
+    "recorded_at": "2025-12-08T03:33:22.058257+01:00",
+    "raw_valid": true,
+    "song_session_id": "9e1307ad-d2d9-4e22-8610-7be9cf0316d0"
+  },
+  {
+    "song": "Dovtedy",
+    "artists": [
+      "Adam Durica"
+    ],
+    "isrc": "SKA011600030",
+    "start_time": "2025-12-08 03:36:06",
+    "radio": "expres",
+    "recorded_at": "2025-12-08T03:36:30.799144+01:00",
+    "raw_valid": true,
+    "song_session_id": "4ba45051-a005-47b3-845b-93ffe22f1ab6"
+  },
+  {
+    "song": "Right Here Waiting",
+    "artists": [
+      "Richard Marx"
+    ],
+    "isrc": "USEM38900208",
+    "start_time": "2025-12-08 03:38:19",
+    "radio": "expres",
+    "recorded_at": "2025-12-08T03:38:48.973418+01:00",
+    "raw_valid": true,
+    "song_session_id": "387d0b40-ed13-4c9d-b446-cbfce8000b83"
+  },
+  {
+    "song": "Rano V Novinach",
+    "artists": [
+      "Komajota"
+    ],
+    "isrc": "SKA010700009",
+    "start_time": "2025-12-08 03:42:31",
+    "radio": "expres",
+    "recorded_at": "2025-12-08T03:42:52.907531+01:00",
+    "raw_valid": true,
+    "song_session_id": "d87119e0-802e-47f0-addb-c78e038ed76e"
+  },
+  {
+    "song": "Shut Up And Dance",
+    "artists": [
+      "Walk The Moon"
+    ],
+    "isrc": "USRC11401949",
+    "start_time": "2025-12-08 03:46:05",
+    "radio": "expres",
+    "recorded_at": "2025-12-08T03:46:22.025334+01:00",
+    "raw_valid": true,
+    "song_session_id": "b496fb5e-be96-4af0-9181-4ab95fb1f977"
+  },
+  {
+    "song": "Prepojeni",
+    "artists": [
+      "Para"
+    ],
+    "isrc": "SKCF92500001",
+    "start_time": "2025-12-08 03:49:20",
+    "radio": "expres",
+    "recorded_at": "2025-12-08T03:49:41.036504+01:00",
+    "raw_valid": true,
+    "song_session_id": "dcd42cf7-074c-465d-beef-d7203086a927"
+  },
+  {
+    "song": "Flowers",
+    "artists": [
+      "Miley Cyrus"
+    ],
+    "isrc": "USSM12209777",
+    "start_time": "2025-12-08 03:52:44",
+    "radio": "expres",
+    "recorded_at": "2025-12-08T03:53:05.066887+01:00",
+    "raw_valid": true,
+    "song_session_id": "9ce241f9-72e0-4faf-b74f-86079ff34907"
+  },
+  {
+    "song": "Zivotne Cesty",
+    "artists": [
+      "Peter Cmorik"
+    ],
+    "isrc": "QZHN72579459",
+    "start_time": "2025-12-08 03:55:52",
+    "radio": "expres",
+    "recorded_at": "2025-12-08T03:56:14.122628+01:00",
+    "raw_valid": true,
+    "song_session_id": "9a6c14e7-f1e1-4a63-9c65-5720916ab69f"
+  },
+  {
+    "song": "Last Christmas",
+    "artists": [
+      "Wham"
+    ],
+    "isrc": "GBBBM8400019",
+    "start_time": "2025-12-08 03:59:04",
+    "radio": "expres",
+    "recorded_at": "2025-12-08T03:59:36.075523+01:00",
+    "raw_valid": true,
+    "song_session_id": "1afd68a6-14ed-4a8b-a4eb-3441adf697f2"
+  },
+  {
+    "song": "Be Mine",
+    "artists": [
+      "Kamrad"
+    ],
+    "isrc": "DE1NJ2500035",
+    "start_time": "2025-12-08 04:03:19",
+    "radio": "expres",
+    "recorded_at": "2025-12-08T04:03:38.311716+01:00",
+    "raw_valid": true,
+    "song_session_id": "36216e2b-a837-4571-8126-0ac5cebf3c41"
+  },
+  {
+    "song": "Po Schodoch",
+    "artists": [
+      "Banket"
+    ],
+    "isrc": "SKA128678606",
+    "start_time": "2025-12-08 04:06:03",
+    "radio": "expres",
+    "recorded_at": "2025-12-08T04:06:19.455611+01:00",
+    "raw_valid": true,
+    "song_session_id": "6138dfe4-9ed6-4ea8-822c-75e0b9e023a5"
+  },
+  {
+    "song": "Nice To Meet You",
+    "artists": [
+      "Myles Smith"
+    ],
+    "isrc": "GBARL2401376",
+    "start_time": "2025-12-08 04:09:09",
+    "radio": "expres",
+    "recorded_at": "2025-12-08T04:09:28.169627+01:00",
+    "raw_valid": true,
+    "song_session_id": "3a4c6d13-9f82-4979-ad63-81b8f11440f4"
+  },
+  {
+    "song": "Smej Sa",
+    "artists": [
+      "Sima Martausova"
+    ],
+    "isrc": "SKG081607101",
+    "start_time": "2025-12-08 04:12:03",
+    "radio": "expres",
+    "recorded_at": "2025-12-08T04:12:36.968230+01:00",
+    "raw_valid": true,
+    "song_session_id": "8fde0f37-a881-43fc-81e1-743d342a4310"
+  },
+  {
+    "song": "Summer Of 69",
+    "artists": [
+      "Bryan Adams"
+    ],
+    "isrc": "USAM18490006",
+    "start_time": "2025-12-08 04:15:25",
+    "radio": "expres",
+    "recorded_at": "2025-12-08T04:16:01.099629+01:00",
+    "raw_valid": true,
+    "song_session_id": "31569abd-cb79-4af0-9719-fe665278aedb"
+  },
+  {
+    "song": "Koralky Od Natalky",
+    "artists": [
+      "Peter Nagy"
+    ],
+    "isrc": "SKA128915408",
+    "start_time": "2025-12-08 04:18:48",
+    "radio": "expres",
+    "recorded_at": "2025-12-08T04:19:04.904145+01:00",
+    "raw_valid": true,
+    "song_session_id": "b04be23c-00d5-4e9f-b529-ff0742b9f2b5"
+  },
+  {
+    "song": "Blood Running",
+    "artists": [
+      "Ray Dalton"
+    ],
+    "isrc": "DEUM72507812",
+    "start_time": "2025-12-08 04:21:57",
+    "radio": "expres",
+    "recorded_at": "2025-12-08T04:22:28.906447+01:00",
+    "raw_valid": true,
+    "song_session_id": "288833a1-db35-43cf-8f92-a28f600ca27e"
+  },
+  {
+    "song": "Tak Si So Mnou Opakuj",
+    "artists": [
+      "Marika Gombitova"
+    ],
+    "isrc": "SKA128791511",
+    "start_time": "2025-12-08 04:25:13",
+    "radio": "expres",
+    "recorded_at": "2025-12-08T04:25:32.587378+01:00",
+    "raw_valid": true,
+    "song_session_id": "073c1fcd-dbf2-49d7-bbd3-363c732423ec"
+  },
+  {
+    "song": "Thats So True",
+    "artists": [
+      "Gracie Abrams"
+    ],
+    "isrc": "USUG12406903",
+    "start_time": "2025-12-08 04:28:38",
+    "radio": "expres",
+    "recorded_at": "2025-12-08T04:28:56.458502+01:00",
+    "raw_valid": true,
+    "song_session_id": "446335bd-8e00-4c59-8035-d79c890ca870"
+  },
+  {
+    "song": "Vianocny Cas",
+    "artists": [
+      "Emma Drobna"
+    ],
+    "isrc": "SKB452300101",
+    "start_time": "2025-12-08 04:31:26",
+    "radio": "expres",
+    "recorded_at": "2025-12-08T04:31:57.227031+01:00",
+    "raw_valid": true,
+    "song_session_id": "a3bfd6ef-4a65-48ac-87bb-c5083382a407"
+  },
+  {
+    "song": "Undressed",
+    "artists": [
+      "Sombr"
+    ],
+    "isrc": "USWB12500737",
+    "start_time": "2025-12-08 04:34:20",
+    "radio": "expres",
+    "recorded_at": "2025-12-08T04:34:40.795105+01:00",
+    "raw_valid": true,
+    "song_session_id": "2a77b9ad-178d-4b3b-998c-d82ba02dbbf3"
+  },
+  {
+    "song": "Tam Kde Sa Neumiera",
+    "artists": [
+      "Zuzana Smatanova"
+    ],
+    "isrc": "SKA770309105",
+    "start_time": "2025-12-08 04:37:18",
+    "radio": "expres",
+    "recorded_at": "2025-12-08T04:37:48.200979+01:00",
+    "raw_valid": true,
+    "song_session_id": "7e43a838-f1a7-486f-9c0a-d7d86a601cd2"
+  },
+  {
+    "song": "Bitter Sweet Symphony",
+    "artists": [
+      "Verve"
+    ],
+    "isrc": "GBUM71601816",
+    "start_time": "2025-12-08 04:40:59",
+    "radio": "expres",
+    "recorded_at": "2025-12-08T04:41:29.804305+01:00",
+    "raw_valid": true,
+    "song_session_id": "0ec65311-f60e-49ee-b78d-5304d355a67a"
+  },
+  {
+    "song": "L.a.s.k.a.",
+    "artists": [
+      "Dominika Mirgova",
+      "Rakby"
+    ],
+    "isrc": "SKE271300030",
+    "start_time": "2025-12-08 04:45:59",
+    "radio": "expres",
+    "recorded_at": "2025-12-08T04:46:13.836665+01:00",
+    "raw_valid": true,
+    "song_session_id": "1a2fea6c-18f2-45fb-8904-f52c0ed2a58c"
+  },
+  {
+    "song": "The Dead Dance",
+    "artists": [
+      "Lady Gaga"
+    ],
+    "isrc": "USUM72407034",
+    "start_time": "2025-12-08 04:49:51",
+    "radio": "expres",
+    "recorded_at": "2025-12-08T04:50:18.186199+01:00",
+    "raw_valid": true,
+    "song_session_id": "04bdaabb-4f24-49a4-a33d-1cdaa264be27"
+  },
+  {
+    "song": "Kratke Lasky",
+    "artists": [
+      "Team"
+    ],
+    "isrc": "SKA880000103",
+    "start_time": "2025-12-08 04:53:23",
+    "radio": "expres",
+    "recorded_at": "2025-12-08T04:53:42.298742+01:00",
+    "raw_valid": true,
+    "song_session_id": "3a0e5cd2-2dc4-48d4-a438-023cf613bbb4"
+  }
+]

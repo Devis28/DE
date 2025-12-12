@@ -1,0 +1,415 @@
+[
+  {
+    "song": "Stargazing",
+    "artists": [
+      "Myles Smith"
+    ],
+    "isrc": "GBARL2400510",
+    "start_time": "2025-11-30 23:51:20",
+    "radio": "expres",
+    "recorded_at": "2025-11-30T23:51:52.801647+01:00",
+    "raw_valid": true,
+    "song_session_id": "45657f08-77b6-4387-9f84-d6398de8d1fe"
+  },
+  {
+    "song": "Crazy",
+    "artists": [
+      "Aerosmith"
+    ],
+    "isrc": "USIR10000428",
+    "start_time": "2025-11-30 23:54:18",
+    "radio": "expres",
+    "recorded_at": "2025-11-30T23:54:55.709117+01:00",
+    "raw_valid": true,
+    "song_session_id": "87dc3573-c98f-46c1-aaf5-c5c816a80961"
+  },
+  {
+    "song": "Some Say",
+    "artists": [
+      "Nea"
+    ],
+    "isrc": "SEBGA1902742",
+    "start_time": "2025-11-30 23:57:16",
+    "radio": "expres",
+    "recorded_at": "2025-11-30T23:58:02.409262+01:00",
+    "raw_valid": true,
+    "song_session_id": "a39dce9a-2238-4cab-8d22-b0d29d2d12b4"
+  },
+  {
+    "song": "Be Mine",
+    "artists": [
+      "Kamrad"
+    ],
+    "isrc": "DE1NJ2500035",
+    "start_time": "2025-12-01 00:00:13",
+    "radio": "expres",
+    "recorded_at": "2025-12-01T00:00:58.897727+01:00",
+    "raw_valid": true,
+    "song_session_id": "92364494-adc2-49f4-b6b2-8027007ac043"
+  },
+  {
+    "song": "Rande",
+    "artists": [
+      "Emma Drobna",
+      "Ego"
+    ],
+    "isrc": "SKB452400101",
+    "start_time": "2025-12-01 00:02:58",
+    "radio": "expres",
+    "recorded_at": "2025-12-01T00:03:45.190332+01:00",
+    "raw_valid": true,
+    "song_session_id": "6b1eefff-fafe-40d4-a267-7e482e8d90cd"
+  },
+  {
+    "song": "Ordinary",
+    "artists": [
+      "Alex Warren"
+    ],
+    "isrc": "USAT22500463",
+    "start_time": "2025-12-01 00:05:51",
+    "radio": "expres",
+    "recorded_at": "2025-12-01T00:06:26.564986+01:00",
+    "raw_valid": true,
+    "song_session_id": "1f48a8df-1208-40da-89cb-9fe927bd984c"
+  },
+  {
+    "song": "Horuca Laska",
+    "artists": [
+      "Lukas Adamec"
+    ],
+    "isrc": "SKI601700009",
+    "start_time": "2025-12-01 00:08:54",
+    "radio": "expres",
+    "recorded_at": "2025-12-01T00:09:35.804198+01:00",
+    "raw_valid": true,
+    "song_session_id": "a5dd2ef4-ed99-4e27-85a6-f8f429688ca3"
+  },
+  {
+    "song": "Forever Young",
+    "artists": [
+      "Alphaville"
+    ],
+    "isrc": "DEA629260150",
+    "start_time": "2025-12-01 00:12:30",
+    "radio": "expres",
+    "recorded_at": "2025-12-01T00:13:12.848278+01:00",
+    "raw_valid": true,
+    "song_session_id": "dd739909-bd8a-45ae-a462-70d06641db3c"
+  },
+  {
+    "song": "Len Tebe",
+    "artists": [
+      "Ivan Tasler"
+    ],
+    "isrc": "SKA010202105",
+    "start_time": "2025-12-01 00:16:04",
+    "radio": "expres",
+    "recorded_at": "2025-12-01T00:16:56.042103+01:00",
+    "raw_valid": true,
+    "song_session_id": "2899f4ed-e1bf-4fbc-bb40-aa6319c27ec6"
+  },
+  {
+    "song": "Zoo",
+    "artists": [
+      "Shakira"
+    ],
+    "isrc": "USWD12538420",
+    "start_time": "2025-12-01 00:19:52",
+    "radio": "expres",
+    "recorded_at": "2025-12-01T00:20:38.151814+01:00",
+    "raw_valid": true,
+    "song_session_id": "af8403fd-96f9-4fee-9f50-83e4f288055a"
+  },
+  {
+    "song": "Koloseum",
+    "artists": [
+      "Marika Gombitova"
+    ],
+    "isrc": "SKA128791503",
+    "start_time": "2025-12-01 00:23:21",
+    "radio": "expres",
+    "recorded_at": "2025-12-01T00:24:04.943723+01:00",
+    "raw_valid": true,
+    "song_session_id": "c5b9e865-5afe-4147-85fb-0a3050b42542"
+  },
+  {
+    "song": "By Your Side (In My Mind)",
+    "artists": [
+      "Leony"
+    ],
+    "isrc": "DEN062400804",
+    "start_time": "2025-12-01 00:27:37",
+    "radio": "expres",
+    "recorded_at": "2025-12-01T00:28:32.554824+01:00",
+    "raw_valid": true,
+    "song_session_id": "07f5a5b7-35a7-4806-8200-8095f308e268"
+  },
+  {
+    "song": "The One",
+    "artists": [
+      "Michael Patrick Kelly"
+    ],
+    "isrc": "DEE862500476",
+    "start_time": "2025-12-01 00:30:35",
+    "radio": "expres",
+    "recorded_at": "2025-12-01T00:31:13.846648+01:00",
+    "raw_valid": true,
+    "song_session_id": "a940cce0-c931-478b-bce0-a08be47e18e8"
+  },
+  {
+    "song": "Voda Co Ma Drzi Nad Vodou",
+    "artists": [
+      "Jozo Raz"
+    ],
+    "isrc": "SKA019908110",
+    "start_time": "2025-12-01 00:33:27",
+    "radio": "expres",
+    "recorded_at": "2025-12-01T00:34:20.572168+01:00",
+    "raw_valid": true,
+    "song_session_id": "9391682d-b5b7-4774-bfa0-0dbeb8338430"
+  },
+  {
+    "song": "(Everything I Do) I Do It For You",
+    "artists": [
+      "Bryan Adams"
+    ],
+    "isrc": "USAM19190012",
+    "start_time": "2025-12-01 00:38:22",
+    "radio": "expres",
+    "recorded_at": "2025-12-01T00:39:03.662145+01:00",
+    "raw_valid": true,
+    "song_session_id": "bacaf029-6347-48d6-a2c0-99d803ab7f44"
+  },
+  {
+    "song": "Stratena",
+    "artists": [
+      "Lina Mayer"
+    ],
+    "isrc": "SKK312100201",
+    "start_time": "2025-12-01 00:42:37",
+    "radio": "expres",
+    "recorded_at": "2025-12-01T00:43:26.229978+01:00",
+    "raw_valid": true,
+    "song_session_id": "dffcef2d-3387-4716-88e8-9b154d359b76"
+  },
+  {
+    "song": "Glide",
+    "artists": [
+      "Neiked",
+      "Portugal The Man"
+    ],
+    "isrc": "DEE862500421",
+    "start_time": "2025-12-01 00:46:19",
+    "radio": "expres",
+    "recorded_at": "2025-12-01T00:46:58.092058+01:00",
+    "raw_valid": true,
+    "song_session_id": "974efba3-d259-4b7d-b846-5af26c5e74a1"
+  },
+  {
+    "song": "Miliony Ciest",
+    "artists": [
+      "Gladiator"
+    ],
+    "isrc": "SKI021701402",
+    "start_time": "2025-12-01 00:49:15",
+    "radio": "expres",
+    "recorded_at": "2025-12-01T00:49:59.632615+01:00",
+    "raw_valid": true,
+    "song_session_id": "c98346fb-60a6-489f-ba79-a4e507b8255a"
+  },
+  {
+    "song": "Whatever It Takes",
+    "artists": [
+      "Imagine Dragons"
+    ],
+    "isrc": "USUM71703515",
+    "start_time": "2025-12-01 00:52:11",
+    "radio": "expres",
+    "recorded_at": "2025-12-01T00:52:46.235180+01:00",
+    "raw_valid": true,
+    "song_session_id": "ac0b0410-15a4-4bd8-acb1-96c31f66a2d8"
+  },
+  {
+    "song": "Skuska Snov",
+    "artists": [
+      "Miro Zbirka",
+      "Katarina Knechtova"
+    ],
+    "isrc": "CZUM71800108",
+    "start_time": "2025-12-01 00:55:27",
+    "radio": "expres",
+    "recorded_at": "2025-12-01T00:56:17.646285+01:00",
+    "raw_valid": true,
+    "song_session_id": "230b6dd9-4d3f-4583-a00b-bdb45a8b5459"
+  },
+  {
+    "song": "Overdrive",
+    "artists": [
+      "Ofenbach",
+      "Norma Jean Martine"
+    ],
+    "isrc": "FR9W12347222",
+    "start_time": "2025-12-01 00:58:58",
+    "radio": "expres",
+    "recorded_at": "2025-12-01T00:59:49.573736+01:00",
+    "raw_valid": true,
+    "song_session_id": "2dd627b0-2124-42c9-a12c-3425959feeee"
+  },
+  {
+    "song": "Povedzme",
+    "artists": [
+      "Robo Grigorov"
+    ],
+    "isrc": "CZA210800043",
+    "start_time": "2025-12-01 01:01:34",
+    "radio": "expres",
+    "recorded_at": "2025-12-01T01:02:18.367856+01:00",
+    "raw_valid": true,
+    "song_session_id": "ec262b34-c7b9-4ee8-b3d1-6987dfc652a5"
+  },
+  {
+    "song": "Wonderful Life 25",
+    "artists": [
+      "Hurts",
+      "Purple Disco Machine"
+    ],
+    "isrc": "DEE862500677",
+    "start_time": "2025-12-01 01:05:07",
+    "radio": "expres",
+    "recorded_at": "2025-12-01T01:06:00.332593+01:00",
+    "raw_valid": true,
+    "song_session_id": "4964341c-9b27-4a03-b0b2-d96f658c1be4"
+  },
+  {
+    "song": "Pridaj Sa K Nam (Ked Sme S Vami)",
+    "artists": [
+      "Hex"
+    ],
+    "isrc": "SKC751900101",
+    "start_time": "2025-12-01 01:08:03",
+    "radio": "expres",
+    "recorded_at": "2025-12-01T01:08:46.747277+01:00",
+    "raw_valid": true,
+    "song_session_id": "49c7ad53-050d-4d80-821e-0eeef73dfd45"
+  },
+  {
+    "song": "Happy Ending",
+    "artists": [
+      "Mika"
+    ],
+    "isrc": "USC7R0600016",
+    "start_time": "2025-12-01 01:11:31",
+    "radio": "expres",
+    "recorded_at": "2025-12-01T01:12:17.834896+01:00",
+    "raw_valid": true,
+    "song_session_id": "2d2830a2-ca6b-4d82-a2ff-5ca2dbb60b2e"
+  },
+  {
+    "song": "Hladam",
+    "artists": [
+      "No Name"
+    ],
+    "isrc": "SKA010305338",
+    "start_time": "2025-12-01 01:15:54",
+    "radio": "expres",
+    "recorded_at": "2025-12-01T01:16:35.377394+01:00",
+    "raw_valid": true,
+    "song_session_id": "48ed93a0-0514-49d1-a7d1-c5c784de7c50"
+  },
+  {
+    "song": "Love Me Not",
+    "artists": [
+      "Ravyn Lenae"
+    ],
+    "isrc": "USAT22401137",
+    "start_time": "2025-12-01 01:19:19",
+    "radio": "expres",
+    "recorded_at": "2025-12-01T01:20:02.382115+01:00",
+    "raw_valid": true,
+    "song_session_id": "38e462f3-9600-4d21-84b9-00b4a902eacd"
+  },
+  {
+    "song": "Mam Kym Nemam",
+    "artists": [
+      "Elan"
+    ],
+    "isrc": "SKA128343906",
+    "start_time": "2025-12-01 01:22:33",
+    "radio": "expres",
+    "recorded_at": "2025-12-01T01:23:09.066871+01:00",
+    "raw_valid": true,
+    "song_session_id": "38c94ead-fa81-4e37-8f4c-b8ac05faf4b4"
+  },
+  {
+    "song": "Gimme Love",
+    "artists": [
+      "Sia"
+    ],
+    "isrc": "USAT22307798",
+    "start_time": "2025-12-01 01:26:21",
+    "radio": "expres",
+    "recorded_at": "2025-12-01T01:27:11.359341+01:00",
+    "raw_valid": true,
+    "song_session_id": "69d15c91-c9aa-4680-b655-bf113d1661fa"
+  },
+  {
+    "song": "Mystical Magical",
+    "artists": [
+      "Benson Boone"
+    ],
+    "isrc": "USWB12500844",
+    "start_time": "2025-12-01 01:29:13",
+    "radio": "expres",
+    "recorded_at": "2025-12-01T01:29:52.770443+01:00",
+    "raw_valid": true,
+    "song_session_id": "8633e54e-1386-4185-966a-b4ec427c99ba"
+  },
+  {
+    "song": "Bez Obav",
+    "artists": [
+      "Maria Cirova"
+    ],
+    "isrc": "SKB001008101",
+    "start_time": "2025-12-01 01:31:58",
+    "radio": "expres",
+    "recorded_at": "2025-12-01T01:32:34.074724+01:00",
+    "raw_valid": true,
+    "song_session_id": "bcf23d0a-bda6-42bf-b9cb-0474ae7b4ad4"
+  },
+  {
+    "song": "Another Day In Paradise",
+    "artists": [
+      "Phil Collins"
+    ],
+    "isrc": "USRH11602150",
+    "start_time": "2025-12-01 01:35:55",
+    "radio": "expres",
+    "recorded_at": "2025-12-01T01:36:46.515908+01:00",
+    "raw_valid": true,
+    "song_session_id": "5d652ed4-9ae0-436d-8852-962ebc6a358b"
+  },
+  {
+    "song": "Navzdy",
+    "artists": [
+      "Kristina"
+    ],
+    "isrc": "SKG061400301",
+    "start_time": "2025-12-01 01:40:53",
+    "radio": "expres",
+    "recorded_at": "2025-12-01T01:41:38.306389+01:00",
+    "raw_valid": true,
+    "song_session_id": "add0b839-c390-43dd-a790-e358678106da"
+  },
+  {
+    "song": "Where Is My Husband",
+    "artists": [
+      "Raye"
+    ],
+    "isrc": "QMFME2535037",
+    "start_time": "2025-12-01 01:44:45",
+    "radio": "expres",
+    "recorded_at": "2025-12-01T01:45:39.209278+01:00",
+    "raw_valid": true,
+    "song_session_id": "8fc96d1f-9ac8-4045-bed5-c6ea9d29234b"
+  }
+]

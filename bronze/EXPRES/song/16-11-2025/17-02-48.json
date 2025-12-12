@@ -1,0 +1,330 @@
+[
+  {
+    "song": "Glide",
+    "artists": [
+      "Neiked",
+      "Portugal The Man"
+    ],
+    "isrc": "DEE862500421",
+    "start_time": "2025-11-16 16:07:17",
+    "radio": "expres",
+    "recorded_at": "2025-11-16T16:07:55.166041+01:00",
+    "raw_valid": true,
+    "song_session_id": "3f6d7682-0d2f-4fb6-94a0-a82e7ae03758"
+  },
+  {
+    "song": "My Universe",
+    "artists": [
+      "Coldplay",
+      "Bts"
+    ],
+    "isrc": "GBAYE2100952",
+    "start_time": "2025-11-16 16:10:19",
+    "radio": "expres",
+    "recorded_at": "2025-11-16T16:10:53.292851+01:00",
+    "raw_valid": true,
+    "song_session_id": "38a1171f-efcf-46e5-9b81-25e1717bb527"
+  },
+  {
+    "song": "Take On Me",
+    "artists": [
+      "A-Ha"
+    ],
+    "isrc": "USWB19901214",
+    "start_time": "2025-11-16 16:13:25",
+    "radio": "expres",
+    "recorded_at": "2025-11-16T16:13:46.463871+01:00",
+    "raw_valid": true,
+    "song_session_id": "4ffb13b4-d90d-44e3-9b23-ae9e858c651b"
+  },
+  {
+    "song": "Nechavam Ta",
+    "artists": [
+      "Juraj Baca"
+    ],
+    "isrc": "QT6EU2508333",
+    "start_time": "2025-11-16 16:18:20",
+    "radio": "expres",
+    "recorded_at": "2025-11-16T16:18:58.893798+01:00",
+    "raw_valid": true,
+    "song_session_id": "69590cd2-816f-4d1b-9c38-f9927c1177a4"
+  },
+  {
+    "song": "Demons",
+    "artists": [
+      "Imagine Dragons"
+    ],
+    "isrc": "USUM71201071",
+    "start_time": "2025-11-16 16:21:35",
+    "radio": "expres",
+    "recorded_at": "2025-11-16T16:22:18.469202+01:00",
+    "raw_valid": true,
+    "song_session_id": "203c616b-5ff5-4026-a8e9-9736ef6c0b57"
+  },
+  {
+    "song": "Sitting Down Here",
+    "artists": [
+      "Lene Marlin"
+    ],
+    "isrc": "NOAHV9818040",
+    "start_time": "2025-11-16 16:24:39",
+    "radio": "expres",
+    "recorded_at": "2025-11-16T16:25:11.553415+01:00",
+    "raw_valid": true,
+    "song_session_id": "5572b5bb-ccd2-456f-8804-ebf8dfbab018"
+  },
+  {
+    "song": "World Gone Wild",
+    "artists": [
+      "Robin Schulz",
+      "Cyril",
+      "Sam Martin"
+    ],
+    "isrc": "DEA622403329",
+    "start_time": "2025-11-16 16:33:38",
+    "radio": "expres",
+    "recorded_at": "2025-11-16T16:34:19.160763+01:00",
+    "raw_valid": true,
+    "song_session_id": "f40d8364-46b9-4afb-9124-5b15e81c36d1"
+  },
+  {
+    "song": "I Want To Break Free",
+    "artists": [
+      "Queen"
+    ],
+    "isrc": "GBUM71805978",
+    "start_time": "2025-11-16 16:36:00",
+    "radio": "expres",
+    "recorded_at": "2025-11-16T16:36:46.125749+01:00",
+    "raw_valid": true,
+    "song_session_id": "a7a43f80-c51d-4fac-9cbd-7e26e09f02c4"
+  },
+  {
+    "song": "Feel",
+    "artists": [
+      "Robbie Williams"
+    ],
+    "isrc": "GBFFG0200002",
+    "start_time": "2025-11-16 16:39:50",
+    "radio": "expres",
+    "recorded_at": "2025-11-16T16:40:20.653785+01:00",
+    "raw_valid": true,
+    "song_session_id": "2bb7f981-d7e4-4955-9b73-9b1ab25bcebd"
+  },
+  {
+    "song": "The Fate Of Ophelia",
+    "artists": [
+      "Taylor Swift"
+    ],
+    "isrc": "USUG12506436",
+    "start_time": "2025-11-16 16:44:18",
+    "radio": "expres",
+    "recorded_at": "2025-11-16T16:44:45.272771+01:00",
+    "raw_valid": true,
+    "song_session_id": "8be367d7-3387-4af5-96a6-fd492706e0b9"
+  },
+  {
+    "song": "Zustan Tu Se Mnou (Za Sny)",
+    "artists": [
+      "Krystof"
+    ],
+    "isrc": "CZUM71700170",
+    "start_time": "2025-11-16 16:48:13",
+    "radio": "expres",
+    "recorded_at": "2025-11-16T16:48:48.920370+01:00",
+    "raw_valid": true,
+    "song_session_id": "a15f621d-ee07-4d37-9e78-3cdd63b60f6d"
+  },
+  {
+    "song": "Walk With Me",
+    "artists": [
+      "Felix Jaehn",
+      "Shouse"
+    ],
+    "isrc": "DEUM72411810",
+    "start_time": "2025-11-16 16:53:23",
+    "radio": "expres",
+    "recorded_at": "2025-11-16T16:53:43.450998+01:00",
+    "raw_valid": true,
+    "song_session_id": "bea45ca9-2e7b-4c2c-8783-b7718baa76ce"
+  },
+  {
+    "song": "Nikdy Nebolo Lepsie",
+    "artists": [
+      "Hex"
+    ],
+    "isrc": "SKA010600047",
+    "start_time": "2025-11-16 16:55:53",
+    "radio": "expres",
+    "recorded_at": "2025-11-16T16:56:23.599064+01:00",
+    "raw_valid": true,
+    "song_session_id": "09ce5338-ef2f-4fa9-aa20-92a695dd9a23"
+  },
+  {
+    "song": "Say It Right",
+    "artists": [
+      "Nelly Furtado"
+    ],
+    "isrc": "USUM70603368",
+    "start_time": "2025-11-16 17:07:08",
+    "radio": "expres",
+    "recorded_at": "2025-11-16T17:07:37.175630+01:00",
+    "raw_valid": true,
+    "song_session_id": "dc647a9b-f8b2-474f-a083-b329a7977f43"
+  },
+  {
+    "song": "Lost Without You",
+    "artists": [
+      "Delta Goodrem"
+    ],
+    "isrc": "AUSM00300002",
+    "start_time": "2025-11-16 17:10:11",
+    "radio": "expres",
+    "recorded_at": "2025-11-16T17:10:51.061869+01:00",
+    "raw_valid": true,
+    "song_session_id": "8bc360d7-e0b8-4b35-a6dd-e0e2f7561192"
+  },
+  {
+    "song": "Head Above Water",
+    "artists": [
+      "Twocolors",
+      "Safri Duo",
+      "Chris De Sarandy"
+    ],
+    "isrc": "DEUM72503698",
+    "start_time": "2025-11-16 17:14:18",
+    "radio": "expres",
+    "recorded_at": "2025-11-16T17:14:53.272905+01:00",
+    "raw_valid": true,
+    "song_session_id": "d3807c61-a236-4fca-a0a0-ddd41b0e0c5f"
+  },
+  {
+    "song": "Leave A Light On",
+    "artists": [
+      "Belinda Carlisle"
+    ],
+    "isrc": "GBAAA8900043",
+    "start_time": "2025-11-16 17:17:16",
+    "radio": "expres",
+    "recorded_at": "2025-11-16T17:17:57.396856+01:00",
+    "raw_valid": true,
+    "song_session_id": "673d4f01-7452-4236-9b23-5e16cdb30162"
+  },
+  {
+    "song": "Regalo",
+    "artists": [
+      "Alvaro Soler"
+    ],
+    "isrc": "DEE862500388",
+    "start_time": "2025-11-16 17:21:31",
+    "radio": "expres",
+    "recorded_at": "2025-11-16T17:22:01.152214+01:00",
+    "raw_valid": true,
+    "song_session_id": "2c8846b9-dd66-4f9b-accb-70aecd11fcf1"
+  },
+  {
+    "song": "Dilemma",
+    "artists": [
+      "Nelly",
+      "Kelly Rowland"
+    ],
+    "isrc": "USUR10200370",
+    "start_time": "2025-11-16 17:24:43",
+    "radio": "expres",
+    "recorded_at": "2025-11-16T17:25:16.957437+01:00",
+    "raw_valid": true,
+    "song_session_id": "16d38312-29df-4f8a-92af-174c08c6e564"
+  },
+  {
+    "song": "We Pray",
+    "artists": [
+      "Coldplay",
+      "Little Simz",
+      "Burna Boy",
+      "Elyanna",
+      "Tini"
+    ],
+    "isrc": "GBAYE2400890",
+    "start_time": "2025-11-16 17:35:05",
+    "radio": "expres",
+    "recorded_at": "2025-11-16T17:35:22.219642+01:00",
+    "raw_valid": true,
+    "song_session_id": "007b2ea5-de34-4b17-8d28-b4d75ba74b13"
+  },
+  {
+    "song": "Shut Up And Dance",
+    "artists": [
+      "Walk The Moon"
+    ],
+    "isrc": "USRC11401949",
+    "start_time": "2025-11-16 17:38:33",
+    "radio": "expres",
+    "recorded_at": "2025-11-16T17:39:05.641143+01:00",
+    "raw_valid": true,
+    "song_session_id": "b2f37828-8e9d-42bf-8fd3-cca3de0cffeb"
+  },
+  {
+    "song": "Se Bastasse Una Canzone",
+    "artists": [
+      "Eros Ramazzotti"
+    ],
+    "isrc": "ITB009700365",
+    "start_time": "2025-11-16 17:41:51",
+    "radio": "expres",
+    "recorded_at": "2025-11-16T17:42:28.937397+01:00",
+    "raw_valid": true,
+    "song_session_id": "bf4549a7-6660-421e-94a1-21ff5dffcd40"
+  },
+  {
+    "song": "I Dont Wanna Wait",
+    "artists": [
+      "David Guetta",
+      "Onerepublic"
+    ],
+    "isrc": "UKWLG2400013",
+    "start_time": "2025-11-16 17:46:16",
+    "radio": "expres",
+    "recorded_at": "2025-11-16T17:46:48.164752+01:00",
+    "raw_valid": true,
+    "song_session_id": "fbed8e9a-f1c0-4052-b039-04d691a5bab0"
+  },
+  {
+    "song": "Medzi Nebom A Zenou",
+    "artists": [
+      "Banket",
+      "Richard Muller",
+      "Ema Muller"
+    ],
+    "isrc": "SKC362500009",
+    "start_time": "2025-11-16 17:48:44",
+    "radio": "expres",
+    "recorded_at": "2025-11-16T17:49:13.905711+01:00",
+    "raw_valid": true,
+    "song_session_id": "b5463964-2b03-405b-b4af-b36a7c5fbb14"
+  },
+  {
+    "song": "Shes Like The Wind",
+    "artists": [
+      "Patrick Swayze"
+    ],
+    "isrc": "USBMG0100040",
+    "start_time": "2025-11-16 17:53:16",
+    "radio": "expres",
+    "recorded_at": "2025-11-16T17:53:52.926504+01:00",
+    "raw_valid": true,
+    "song_session_id": "71905e17-ef9a-44a6-afac-683858a85f16"
+  },
+  {
+    "song": "I Dont Care",
+    "artists": [
+      "Ed Sheeran",
+      "Justin Bieber"
+    ],
+    "isrc": "GBAHS1900673",
+    "start_time": "2025-11-16 17:56:48",
+    "radio": "expres",
+    "recorded_at": "2025-11-16T17:57:13.058929+01:00",
+    "raw_valid": true,
+    "song_session_id": "f55c51b7-09d5-4e29-8d59-1b2acc0464f2"
+  }
+]

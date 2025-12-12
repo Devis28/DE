@@ -1,0 +1,327 @@
+[
+  {
+    "last_update": "2025-11-17 05:07:23",
+    "song": {
+      "musicAuthor": "U2",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851b7bea3d01f04e6d0408d2afe",
+      "musicTitle": "I Still Haven't Found What I'm Looking For",
+      "radio": "Rádio ROCK",
+      "startTime": "06:07"
+    },
+    "recorded_at": "2025-11-17T06:07:23.827375+01:00",
+    "raw_valid": true,
+    "song_session_id": "cacf0b54-b4a6-4e19-afc3-936c9c2ae999"
+  },
+  {
+    "last_update": "2025-11-17 05:12:23",
+    "song": {
+      "musicAuthor": "Limp Bizkit",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048514a31b146c7cf07705d912efe",
+      "musicTitle": "My Generation",
+      "radio": "Rádio ROCK",
+      "startTime": "06:11"
+    },
+    "recorded_at": "2025-11-17T06:12:24.743022+01:00",
+    "raw_valid": true,
+    "song_session_id": "0556ae21-5804-4f16-ac00-759075fca2d5"
+  },
+  {
+    "last_update": "2025-11-17 05:16:24",
+    "song": {
+      "musicAuthor": "The New Radicals",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485117c105f1291ccc0d26a37b37",
+      "musicTitle": "You Get What You Give",
+      "radio": "Rádio ROCK",
+      "startTime": "06:15"
+    },
+    "recorded_at": "2025-11-17T06:16:25.202411+01:00",
+    "raw_valid": true,
+    "song_session_id": "aa3f588f-4349-4767-a914-4c1adeeeef33"
+  },
+  {
+    "last_update": "2025-11-17 05:22:31",
+    "song": {
+      "musicAuthor": "Aerosmith",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851d5fdfcb083cb825348505a93",
+      "musicTitle": "Love In An Elevator",
+      "radio": "Rádio ROCK",
+      "startTime": "06:21"
+    },
+    "recorded_at": "2025-11-17T06:22:32.030248+01:00",
+    "raw_valid": true,
+    "song_session_id": "213c478b-dbc2-423b-a259-786edbb8bf2d"
+  },
+  {
+    "last_update": "2025-11-17 05:27:32",
+    "song": {
+      "musicAuthor": "Linkin Park",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485189a8fab8bf8cd2b77da1fd17",
+      "musicTitle": "Breaking The Habit",
+      "radio": "Rádio ROCK",
+      "startTime": "06:26"
+    },
+    "recorded_at": "2025-11-17T06:27:33.013715+01:00",
+    "raw_valid": true,
+    "song_session_id": "4893752c-a765-4492-9447-95550fb3b02d"
+  },
+  {
+    "last_update": "2025-11-17 05:30:32",
+    "song": {
+      "musicAuthor": "Premiér",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485186b78ed38028bc5301713ad2",
+      "musicTitle": "Hrobař",
+      "radio": "Rádio ROCK",
+      "startTime": "06:30"
+    },
+    "recorded_at": "2025-11-17T06:30:33.239961+01:00",
+    "raw_valid": true,
+    "song_session_id": "93625125-8d90-4e54-b978-337b85dd30a8"
+  },
+  {
+    "last_update": "2025-11-17 05:35:33",
+    "song": {
+      "musicAuthor": "Pink Floyd",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851da9d96e9fb5b97fe95ac3d38",
+      "musicTitle": "Wish You Were Here",
+      "radio": "Rádio ROCK",
+      "startTime": "06:34"
+    },
+    "recorded_at": "2025-11-17T06:35:33.766760+01:00",
+    "raw_valid": true,
+    "song_session_id": "adf48943-8d83-4674-9d9b-7855321c056b"
+  },
+  {
+    "last_update": "2025-11-17 05:40:34",
+    "song": {
+      "musicAuthor": "Creed",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851f8f048a5f4749c970078a4fb",
+      "musicTitle": "With Arms Wide Open",
+      "radio": "Rádio ROCK",
+      "startTime": "06:39"
+    },
+    "recorded_at": "2025-11-17T06:40:35.258202+01:00",
+    "raw_valid": true,
+    "song_session_id": "0eeea861-459b-4035-a6e2-eedc5a137af9"
+  },
+  {
+    "last_update": "2025-11-17 05:44:34",
+    "song": {
+      "musicAuthor": "Guano Apes",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485190de79652ab78e4954dd7a8f",
+      "musicTitle": "Open Your Eyes",
+      "radio": "Rádio ROCK",
+      "startTime": "06:44"
+    },
+    "recorded_at": "2025-11-17T06:44:35.504998+01:00",
+    "raw_valid": true,
+    "song_session_id": "c6a319d6-b353-44d2-b0de-73835dd27447"
+  },
+  {
+    "last_update": "2025-11-17 05:50:37",
+    "song": {
+      "musicAuthor": "Genesis",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485101f20b98b794099707e43375",
+      "musicTitle": "No Son Of Mine",
+      "radio": "Rádio ROCK",
+      "startTime": "06:49"
+    },
+    "recorded_at": "2025-11-17T06:50:37.588346+01:00",
+    "raw_valid": true,
+    "song_session_id": "17f53d1c-a9e7-4034-8223-95ecaaf30604"
+  },
+  {
+    "last_update": "2025-11-17 05:56:37",
+    "song": {
+      "musicAuthor": "Iné Kafe",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485162c956030346948c7662f08d",
+      "musicTitle": "Spomienky Na Budúcnosť",
+      "radio": "Rádio ROCK",
+      "startTime": "06:56"
+    },
+    "recorded_at": "2025-11-17T06:56:38.110140+01:00",
+    "raw_valid": true,
+    "song_session_id": "efe3b520-5e37-4190-bedf-b721dd0b79ea"
+  },
+  {
+    "last_update": "2025-11-17 06:00:07",
+    "song": {
+      "musicAuthor": "Scorpions",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851a58fad5384604237cc50d532",
+      "musicTitle": "White Dove",
+      "radio": "Rádio ROCK",
+      "startTime": "06:59"
+    },
+    "recorded_at": "2025-11-17T07:00:08.563208+01:00",
+    "raw_valid": true,
+    "song_session_id": "a076a1cc-a45c-4c61-a8a1-d72f38bd12c7"
+  },
+  {
+    "last_update": "2025-11-17 06:08:09",
+    "song": {
+      "musicAuthor": "Nickelback",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851699a422d25adc550dc5aa11c",
+      "musicTitle": "How You Remind Me",
+      "radio": "Rádio ROCK",
+      "startTime": "07:07"
+    },
+    "recorded_at": "2025-11-17T07:08:10.031065+01:00",
+    "raw_valid": true,
+    "song_session_id": "13b4e510-0f98-4763-aa9d-fa8d1dec77f5"
+  },
+  {
+    "last_update": "2025-11-17 06:11:10",
+    "song": {
+      "musicAuthor": "The Doors",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048515b96a8c5d61be8878452f8f1",
+      "musicTitle": "Break On Through (To The Other Side)",
+      "radio": "Rádio ROCK",
+      "startTime": "07:10"
+    },
+    "recorded_at": "2025-11-17T07:11:11.380706+01:00",
+    "raw_valid": true,
+    "song_session_id": "fb91af60-7f30-47a3-8b48-5993515b4aeb"
+  },
+  {
+    "last_update": "2025-11-17 06:14:13",
+    "song": {
+      "musicAuthor": "Offspring, The",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851cbd2ee7dff77bfb2b5f0af52",
+      "musicTitle": "Pretty Fly  (For A White Guy)",
+      "radio": "Rádio ROCK",
+      "startTime": "07:13"
+    },
+    "recorded_at": "2025-11-17T07:14:13.028695+01:00",
+    "raw_valid": true,
+    "song_session_id": "fc72f648-ab73-4df5-9929-c12087dd7118"
+  },
+  {
+    "last_update": "2025-11-17 06:19:13",
+    "song": {
+      "musicAuthor": "Metallica",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851ee5869b2880109918fc47199",
+      "musicTitle": "St. Anger",
+      "radio": "Rádio ROCK",
+      "startTime": "07:19"
+    },
+    "recorded_at": "2025-11-17T07:19:13.320638+01:00",
+    "raw_valid": true,
+    "song_session_id": "26665586-f3f1-41c0-b7fb-4ce96c885988"
+  },
+  {
+    "last_update": "2025-11-17 06:25:14",
+    "song": {
+      "musicAuthor": "Heart",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048515fa646a4cfcd17842fdd7bbd",
+      "musicTitle": "Alone",
+      "radio": "Rádio ROCK",
+      "startTime": "07:24"
+    },
+    "recorded_at": "2025-11-17T07:25:15.107883+01:00",
+    "raw_valid": true,
+    "song_session_id": "4523ac8a-78bf-4e2c-b7a9-bf0133f1e7f3"
+  },
+  {
+    "last_update": "2025-11-17 06:29:15",
+    "song": {
+      "musicAuthor": "Inxs",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048517ef5c661e64ec185d6180a40",
+      "musicTitle": "Disappear",
+      "radio": "Rádio ROCK",
+      "startTime": "07:28"
+    },
+    "recorded_at": "2025-11-17T07:29:16.153882+01:00",
+    "raw_valid": true,
+    "song_session_id": "3852c337-356d-4ca0-ae29-e7a957dbd908"
+  },
+  {
+    "last_update": "2025-11-17 06:36:16",
+    "song": {
+      "musicAuthor": "Linkin Park",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851e2f039481babe23658fc719a",
+      "musicTitle": "Crawling",
+      "radio": "Rádio ROCK",
+      "startTime": "07:35"
+    },
+    "recorded_at": "2025-11-17T07:36:16.642295+01:00",
+    "raw_valid": true,
+    "song_session_id": "9a7f9e22-5e9e-4c20-b51a-c0e4240ee9e0"
+  },
+  {
+    "last_update": "2025-11-17 06:39:16",
+    "song": {
+      "musicAuthor": "The Sweet",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851aaca298e6fc1b377b699572b",
+      "musicTitle": "The Ballroom Blitz",
+      "radio": "Rádio ROCK",
+      "startTime": "07:39"
+    },
+    "recorded_at": "2025-11-17T07:39:17.245189+01:00",
+    "raw_valid": true,
+    "song_session_id": "dc584cee-6cdf-4236-b186-7c07c45aa6d9"
+  },
+  {
+    "last_update": "2025-11-17 06:43:20",
+    "song": {
+      "musicAuthor": "Skunk Anansie",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048518d117d336dcea0784975a683",
+      "musicTitle": "Weak",
+      "radio": "Rádio ROCK",
+      "startTime": "07:43"
+    },
+    "recorded_at": "2025-11-17T07:43:20.793286+01:00",
+    "raw_valid": true,
+    "song_session_id": "e3c5bea9-d642-4cb6-9204-f9495cafcc05"
+  },
+  {
+    "last_update": "2025-11-17 06:47:21",
+    "song": {
+      "musicAuthor": "System Of A Down",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485130d45198d0c9e8841f9a9578",
+      "musicTitle": "Chop Suey!",
+      "radio": "Rádio ROCK",
+      "startTime": "07:46"
+    },
+    "recorded_at": "2025-11-17T07:47:22.040352+01:00",
+    "raw_valid": true,
+    "song_session_id": "00406381-2ebd-4015-bf43-1f087782651b"
+  },
+  {
+    "last_update": "2025-11-17 06:51:23",
+    "song": {
+      "musicAuthor": "Queen",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851d1e7c0e1bf0980298428a1ae",
+      "musicTitle": "I Want To Break Free",
+      "radio": "Rádio ROCK",
+      "startTime": "07:50"
+    },
+    "recorded_at": "2025-11-17T07:51:23.962722+01:00",
+    "raw_valid": true,
+    "song_session_id": "ae102d08-b33d-4b14-8c4a-770b133808d1"
+  },
+  {
+    "last_update": "2025-11-17 06:55:24",
+    "song": {
+      "musicAuthor": "R.E.M.",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851ace3e7aae0b7c78bbe1c4f35",
+      "musicTitle": "The Sidewinder Sleeps Tonite",
+      "radio": "Rádio ROCK",
+      "startTime": "07:54"
+    },
+    "recorded_at": "2025-11-17T07:55:24.677151+01:00",
+    "raw_valid": true,
+    "song_session_id": "cf2fb0d4-07c7-4101-939c-9d026b43bbc1"
+  },
+  {
+    "last_update": "2025-11-17 06:59:25",
+    "song": {
+      "musicAuthor": "Audioslave",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851a7292b6863258e889b78d787",
+      "musicTitle": "Like A Stone",
+      "radio": "Rádio ROCK",
+      "startTime": "07:58"
+    },
+    "recorded_at": "2025-11-17T07:59:25.274815+01:00",
+    "raw_valid": true,
+    "song_session_id": "13c14c15-4af5-421a-9ed5-88c5d7edfcad"
+  }
+]

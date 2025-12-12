@@ -1,0 +1,367 @@
+[
+  {
+    "song": "Chasing Paradise",
+    "artists": [
+      "Kygo",
+      "Onerepublic"
+    ],
+    "isrc": "SEBGA2500019",
+    "start_time": "2025-11-29 11:50:02",
+    "radio": "expres",
+    "recorded_at": "2025-11-29T11:50:19.485930+01:00",
+    "raw_valid": true,
+    "song_session_id": "2697915b-e1a8-47e0-944f-e61f902cd728"
+  },
+  {
+    "song": "Love My Life",
+    "artists": [
+      "Robbie Williams"
+    ],
+    "isrc": "GBPS61600023",
+    "start_time": "2025-11-29 11:52:58",
+    "radio": "expres",
+    "recorded_at": "2025-11-29T11:53:22.630612+01:00",
+    "raw_valid": true,
+    "song_session_id": "c31629b2-2ed0-47f5-b0a3-e6078e822d6d"
+  },
+  {
+    "song": "Sitting Down Here",
+    "artists": [
+      "Lene Marlin"
+    ],
+    "isrc": "NOAHV9818040",
+    "start_time": "2025-11-29 11:56:34",
+    "radio": "expres",
+    "recorded_at": "2025-11-29T11:56:40.746067+01:00",
+    "raw_valid": true,
+    "song_session_id": "d92ba4a5-ede9-4f1a-89d0-032ae51f22f4"
+  },
+  {
+    "song": "Azizam",
+    "artists": [
+      "Ed Sheeran"
+    ],
+    "isrc": "GBAHS2500125",
+    "start_time": "2025-11-29 12:05:21",
+    "radio": "expres",
+    "recorded_at": "2025-11-29T12:05:51.426677+01:00",
+    "raw_valid": true,
+    "song_session_id": "b3a078a1-c643-4d08-be49-f4f5afb69117"
+  },
+  {
+    "song": "Niekto Ti To Povie Skor Nez Ja",
+    "artists": [
+      "Desmod"
+    ],
+    "isrc": "CZA210600216",
+    "start_time": "2025-11-29 12:08:11",
+    "radio": "expres",
+    "recorded_at": "2025-11-29T12:08:31.138612+01:00",
+    "raw_valid": true,
+    "song_session_id": "65b90973-d9ea-4e8c-8843-facdfea6a2d2"
+  },
+  {
+    "song": "The Fate Of Ophelia",
+    "artists": [
+      "Taylor Swift"
+    ],
+    "isrc": "USUG12506436",
+    "start_time": "2025-11-29 12:12:32",
+    "radio": "expres",
+    "recorded_at": "2025-11-29T12:12:45.771183+01:00",
+    "raw_valid": true,
+    "song_session_id": "5b5777f5-2ef8-4089-8691-6fbd80e8bf83"
+  },
+  {
+    "song": "Star Walkin",
+    "artists": [
+      "Lil Nas X"
+    ],
+    "isrc": "USSM12208809",
+    "start_time": "2025-11-29 12:16:18",
+    "radio": "expres",
+    "recorded_at": "2025-11-29T12:16:31.734840+01:00",
+    "raw_valid": true,
+    "song_session_id": "50c3b68d-1e73-4d8d-9ae4-616635be1832"
+  },
+  {
+    "song": "I Like The Way You Kiss Me",
+    "artists": [
+      "Artemas"
+    ],
+    "isrc": "QZJ842400387",
+    "start_time": "2025-11-29 12:19:50",
+    "radio": "expres",
+    "recorded_at": "2025-11-29T12:20:10.186851+01:00",
+    "raw_valid": true,
+    "song_session_id": "15797d0a-fba0-4f8e-ae94-8e805559ba6a"
+  },
+  {
+    "song": "Wake Me Up Before You Go Go",
+    "artists": [
+      "Wham"
+    ],
+    "isrc": "GBBBN0009712",
+    "start_time": "2025-11-29 12:22:20",
+    "radio": "expres",
+    "recorded_at": "2025-11-29T12:22:48.151129+01:00",
+    "raw_valid": true,
+    "song_session_id": "04bc2ea1-e4f7-44e6-9f07-7ff0a692ce1c"
+  },
+  {
+    "song": "Pomarance Z Kuby",
+    "artists": [
+      "Hex"
+    ],
+    "isrc": "SKCA92300105",
+    "start_time": "2025-11-29 12:26:11",
+    "radio": "expres",
+    "recorded_at": "2025-11-29T12:26:31.748692+01:00",
+    "raw_valid": true,
+    "song_session_id": "5fe5de9b-45ce-483c-9a86-0f5a6885ae75"
+  },
+  {
+    "song": "Be Mine",
+    "artists": [
+      "Kamrad"
+    ],
+    "isrc": "DE1NJ2500035",
+    "start_time": "2025-11-29 12:32:44",
+    "radio": "expres",
+    "recorded_at": "2025-11-29T12:33:13.012957+01:00",
+    "raw_valid": true,
+    "song_session_id": "56fd43c2-0f9a-4fd1-8bd8-85dc88c320ac"
+  },
+  {
+    "song": "Za Tebou",
+    "artists": [
+      "Peha"
+    ],
+    "isrc": "CZA110500020",
+    "start_time": "2025-11-29 12:35:27",
+    "radio": "expres",
+    "recorded_at": "2025-11-29T12:35:51.992872+01:00",
+    "raw_valid": true,
+    "song_session_id": "024c2436-2e9e-4064-a627-558d9467885c"
+  },
+  {
+    "song": "November Rain",
+    "artists": [
+      "Guns N' Roses"
+    ],
+    "isrc": "USGF19141510",
+    "start_time": "2025-11-29 12:38:57",
+    "radio": "expres",
+    "recorded_at": "2025-11-29T12:39:11.962413+01:00",
+    "raw_valid": true,
+    "song_session_id": "a7478952-d080-48d0-a773-8b01f874f58f"
+  },
+  {
+    "song": "Love Me Not",
+    "artists": [
+      "Ravyn Lenae"
+    ],
+    "isrc": "USAT22401137",
+    "start_time": "2025-11-29 12:44:23",
+    "radio": "expres",
+    "recorded_at": "2025-11-29T12:44:32.287220+01:00",
+    "raw_valid": true,
+    "song_session_id": "435c9261-3c6e-4bc4-ad9c-a3e88e4df85e"
+  },
+  {
+    "song": "Senorita",
+    "artists": [
+      "Shawn Mendes",
+      "Camila Cabello"
+    ],
+    "isrc": "USUM71911283",
+    "start_time": "2025-11-29 12:47:47",
+    "radio": "expres",
+    "recorded_at": "2025-11-29T12:48:15.950609+01:00",
+    "raw_valid": true,
+    "song_session_id": "0ebfa78b-ce37-4e8c-8c12-348e93da4582"
+  },
+  {
+    "song": "Told You So",
+    "artists": [
+      "Martin Garrix",
+      "Jex"
+    ],
+    "isrc": "NLM5S2402334",
+    "start_time": "2025-11-29 12:51:10",
+    "radio": "expres",
+    "recorded_at": "2025-11-29T12:51:34.600726+01:00",
+    "raw_valid": true,
+    "song_session_id": "78dab64d-09ba-4d40-9e09-52ffb3778d80"
+  },
+  {
+    "song": "Where Is My Husband",
+    "artists": [
+      "Raye"
+    ],
+    "isrc": "QMFME2535037",
+    "start_time": "2025-11-29 12:54:09",
+    "radio": "expres",
+    "recorded_at": "2025-11-29T12:54:32.898265+01:00",
+    "raw_valid": true,
+    "song_session_id": "7d382dbf-6564-46d7-9b63-96f3ec536e19"
+  },
+  {
+    "song": "Echame La Culpa",
+    "artists": [
+      "Luis Fonsi",
+      "Demi Lovato"
+    ],
+    "isrc": "USUM71712163",
+    "start_time": "2025-11-29 12:57:44",
+    "radio": "expres",
+    "recorded_at": "2025-11-29T12:57:56.237017+01:00",
+    "raw_valid": true,
+    "song_session_id": "9ac1d8fb-f97f-4c1d-abb0-9b583a1360c0"
+  },
+  {
+    "song": "The One",
+    "artists": [
+      "Michael Patrick Kelly"
+    ],
+    "isrc": "DEE862500476",
+    "start_time": "2025-11-29 13:06:05",
+    "radio": "expres",
+    "recorded_at": "2025-11-29T13:06:23.850387+01:00",
+    "raw_valid": true,
+    "song_session_id": "f9da5d85-b569-46e5-949d-fb6519d35ef4"
+  },
+  {
+    "song": "Laska Necestuj Tym Vlakom",
+    "artists": [
+      "Pavol Habera"
+    ],
+    "isrc": "FRX451573146",
+    "start_time": "2025-11-29 13:09:08",
+    "radio": "expres",
+    "recorded_at": "2025-11-29T13:09:16.921676+01:00",
+    "raw_valid": true,
+    "song_session_id": "40f1927d-c3bc-4066-90a9-5c7e7c44552b"
+  },
+  {
+    "song": "Stumblin In",
+    "artists": [
+      "Cyril"
+    ],
+    "isrc": "NLZ542301810",
+    "start_time": "2025-11-29 13:12:50",
+    "radio": "expres",
+    "recorded_at": "2025-11-29T13:13:01.448756+01:00",
+    "raw_valid": true,
+    "song_session_id": "34bc3a60-fc35-4175-8aa2-f3325f2fe9fa"
+  },
+  {
+    "song": "Skin",
+    "artists": [
+      "Rag N Bone Man"
+    ],
+    "isrc": "GBARL1601147",
+    "start_time": "2025-11-29 13:16:13",
+    "radio": "expres",
+    "recorded_at": "2025-11-29T13:16:39.877907+01:00",
+    "raw_valid": true,
+    "song_session_id": "8499aecb-7ba0-41f0-bcce-f920d7ae0c0a"
+  },
+  {
+    "song": "Vsetko Bude Dobre",
+    "artists": [
+      "Gladiator"
+    ],
+    "isrc": "SKCM72560001",
+    "start_time": "2025-11-29 13:20:00",
+    "radio": "expres",
+    "recorded_at": "2025-11-29T13:20:27.337352+01:00",
+    "raw_valid": true,
+    "song_session_id": "71c68eff-1b66-42cb-80ac-e5fc9e2c0482"
+  },
+  {
+    "song": "Eternal Flame",
+    "artists": [
+      "Bangles"
+    ],
+    "isrc": "USSM18800153",
+    "start_time": "2025-11-29 13:23:12",
+    "radio": "expres",
+    "recorded_at": "2025-11-29T13:23:25.516980+01:00",
+    "raw_valid": true,
+    "song_session_id": "cf7b8331-4fa7-4d99-8a00-637ccb389ed7"
+  },
+  {
+    "song": "Abracadabra",
+    "artists": [
+      "Lady Gaga"
+    ],
+    "isrc": "USUM72412581",
+    "start_time": "2025-11-29 13:26:53",
+    "radio": "expres",
+    "recorded_at": "2025-11-29T13:27:04.025674+01:00",
+    "raw_valid": true,
+    "song_session_id": "9ba54c57-3896-4327-9ece-8548f6e2be21"
+  },
+  {
+    "song": "Regalo",
+    "artists": [
+      "Alvaro Soler"
+    ],
+    "isrc": "DEE862500388",
+    "start_time": "2025-11-29 13:34:40",
+    "radio": "expres",
+    "recorded_at": "2025-11-29T13:35:06.157163+01:00",
+    "raw_valid": true,
+    "song_session_id": "96fa3a46-9bc2-4634-a15a-f8fcbd0770fb"
+  },
+  {
+    "song": "Budapest",
+    "artists": [
+      "George Ezra"
+    ],
+    "isrc": "GBARL1400477",
+    "start_time": "2025-11-29 13:37:55",
+    "radio": "expres",
+    "recorded_at": "2025-11-29T13:38:26.249898+01:00",
+    "raw_valid": true,
+    "song_session_id": "8b935415-dd61-4883-a3df-e4081753d025"
+  },
+  {
+    "song": "Unwritten",
+    "artists": [
+      "Natasha Bedingfield"
+    ],
+    "isrc": "GBARL0400707",
+    "start_time": "2025-11-29 13:41:18",
+    "radio": "expres",
+    "recorded_at": "2025-11-29T13:41:29.279689+01:00",
+    "raw_valid": true,
+    "song_session_id": "a69a7c47-69fb-405f-9f25-063d41aea7b5"
+  },
+  {
+    "song": "Blink Twice",
+    "artists": [
+      "Shaboozey",
+      "Myles Smith"
+    ],
+    "isrc": "USUYG1717098",
+    "start_time": "2025-11-29 13:45:29",
+    "radio": "expres",
+    "recorded_at": "2025-11-29T13:45:52.719867+01:00",
+    "raw_valid": true,
+    "song_session_id": "af664ebf-c97a-4a98-86c8-7a4b51696ec2"
+  },
+  {
+    "song": "Budeme To Stale My",
+    "artists": [
+      "Imt Smile"
+    ],
+    "isrc": "SKA011800003",
+    "start_time": "2025-11-29 13:48:05",
+    "radio": "expres",
+    "recorded_at": "2025-11-29T13:48:30.517367+01:00",
+    "raw_valid": true,
+    "song_session_id": "3989ad56-4f1b-4b02-8fd0-82d2fd277741"
+  }
+]

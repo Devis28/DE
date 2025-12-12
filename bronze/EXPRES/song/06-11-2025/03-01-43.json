@@ -1,0 +1,420 @@
+[
+  {
+    "song": "Dobry Vecer Priatelia",
+    "artists": [
+      "Le Payaco"
+    ],
+    "isrc": "SKA831307003",
+    "start_time": "2025-11-06 02:03:32",
+    "radio": "expres",
+    "recorded_at": "2025-11-06T02:04:02.814506+01:00",
+    "raw_valid": true,
+    "song_session_id": "9f969418-94b6-4046-bcb4-1fbca26e4519"
+  },
+  {
+    "song": "Let Me Die",
+    "artists": [
+      "Mark Dann",
+      "Giovanni Ricci"
+    ],
+    "isrc": "US38Y2520370",
+    "start_time": "2025-11-06 02:06:07",
+    "radio": "expres",
+    "recorded_at": "2025-11-06T02:06:20.430734+01:00",
+    "raw_valid": true,
+    "song_session_id": "9a930122-05ee-44e6-b555-741614b0cc80"
+  },
+  {
+    "song": "Vidiecan",
+    "artists": [
+      "Vidiek"
+    ],
+    "isrc": "SKA128810408",
+    "start_time": "2025-11-06 02:08:29",
+    "radio": "expres",
+    "recorded_at": "2025-11-06T02:08:39.529543+01:00",
+    "raw_valid": true,
+    "song_session_id": "054f7c60-e88f-45a2-a755-674b2d7b5e51"
+  },
+  {
+    "song": "Girls Go Wild",
+    "artists": [
+      "Lp"
+    ],
+    "isrc": "QMRSZ1801659",
+    "start_time": "2025-11-06 02:11:43",
+    "radio": "expres",
+    "recorded_at": "2025-11-06T02:12:15.803858+01:00",
+    "raw_valid": true,
+    "song_session_id": "d79b4ae4-374f-4a07-8121-bbc31ad7faca"
+  },
+  {
+    "song": "Steny",
+    "artists": [
+      "Nocaden"
+    ],
+    "isrc": "CZA210000096",
+    "start_time": "2025-11-06 02:15:27",
+    "radio": "expres",
+    "recorded_at": "2025-11-06T02:15:56.387218+01:00",
+    "raw_valid": true,
+    "song_session_id": "dc1e0055-a076-4750-ad3c-0a011d1a4c9c"
+  },
+  {
+    "song": "Head Above Water",
+    "artists": [
+      "Twocolors",
+      "Safri Duo",
+      "Chris De Sarandy"
+    ],
+    "isrc": "DEUM72503698",
+    "start_time": "2025-11-06 02:18:42",
+    "radio": "expres",
+    "recorded_at": "2025-11-06T02:18:54.803837+01:00",
+    "raw_valid": true,
+    "song_session_id": "b2c703ab-8a09-4009-b51d-b5f174054616"
+  },
+  {
+    "song": "Princess Of The Light",
+    "artists": [
+      "Lavagance"
+    ],
+    "isrc": "SKB681301203",
+    "start_time": "2025-11-06 02:21:47",
+    "radio": "expres",
+    "recorded_at": "2025-11-06T02:22:08.983174+01:00",
+    "raw_valid": true,
+    "song_session_id": "b7e86fd3-819b-4231-967f-cc3704ff9cb9"
+  },
+  {
+    "song": "Forever Young",
+    "artists": [
+      "David Guetta",
+      "Alphaville",
+      "Ava Max"
+    ],
+    "isrc": "UKWLG2400102",
+    "start_time": "2025-11-06 02:25:31",
+    "radio": "expres",
+    "recorded_at": "2025-11-06T02:25:47.517206+01:00",
+    "raw_valid": true,
+    "song_session_id": "f517c4bf-9a73-4038-aa4f-ebb8c2a98883"
+  },
+  {
+    "song": "Ako To Prezijem?",
+    "artists": [
+      "Polemic"
+    ],
+    "isrc": "CZA210000554",
+    "start_time": "2025-11-06 02:28:08",
+    "radio": "expres",
+    "recorded_at": "2025-11-06T02:28:30.085045+01:00",
+    "raw_valid": true,
+    "song_session_id": "9fdffcc9-a7ef-48c4-be4b-2300efe54e38"
+  },
+  {
+    "song": "Regalo",
+    "artists": [
+      "Alvaro Soler"
+    ],
+    "isrc": "DEE862500388",
+    "start_time": "2025-11-06 02:31:38",
+    "radio": "expres",
+    "recorded_at": "2025-11-06T02:31:53.460534+01:00",
+    "raw_valid": true,
+    "song_session_id": "520029c7-f997-4099-a4b3-4fab3d03e634"
+  },
+  {
+    "song": "Mam Ta Rad",
+    "artists": [
+      "Peter Cmorik"
+    ],
+    "isrc": "CZA210900965",
+    "start_time": "2025-11-06 02:34:49",
+    "radio": "expres",
+    "recorded_at": "2025-11-06T02:35:16.539559+01:00",
+    "raw_valid": true,
+    "song_session_id": "925f2c33-be20-4862-bbd4-96409f476caf"
+  },
+  {
+    "song": "To The Moon And Back",
+    "artists": [
+      "Savage Garden"
+    ],
+    "isrc": "USSM19700099",
+    "start_time": "2025-11-06 02:38:56",
+    "radio": "expres",
+    "recorded_at": "2025-11-06T02:39:20.557416+01:00",
+    "raw_valid": true,
+    "song_session_id": "fddae9e1-a649-4f8f-bbde-b3899948530c"
+  },
+  {
+    "song": "Do Cista",
+    "artists": [
+      "Richard Muller"
+    ],
+    "isrc": "SKB331300305",
+    "start_time": "2025-11-06 02:44:09",
+    "radio": "expres",
+    "recorded_at": "2025-11-06T02:44:35.740193+01:00",
+    "raw_valid": true,
+    "song_session_id": "5c500f1e-2101-4017-915b-da27ec94f9aa"
+  },
+  {
+    "song": "Hlavu Maj Hore",
+    "artists": [
+      "Gladiator"
+    ],
+    "isrc": "CZA210901083",
+    "start_time": "2025-11-06 02:48:11",
+    "radio": "expres",
+    "recorded_at": "2025-11-06T02:48:32.891053+01:00",
+    "raw_valid": true,
+    "song_session_id": "6a438099-a42b-4883-9edc-eb89cffd84f5"
+  },
+  {
+    "song": "Do Neba",
+    "artists": [
+      "Dara Rolins"
+    ],
+    "isrc": "QZYFZ2505251",
+    "start_time": "2025-11-06 02:51:19",
+    "radio": "expres",
+    "recorded_at": "2025-11-06T02:51:30.861144+01:00",
+    "raw_valid": true,
+    "song_session_id": "d8a6dc1d-316a-4d88-95c8-20fbef84e4b6"
+  },
+  {
+    "song": "Star Walkin",
+    "artists": [
+      "Lil Nas X"
+    ],
+    "isrc": "USSM12208809",
+    "start_time": "2025-11-06 02:54:54",
+    "radio": "expres",
+    "recorded_at": "2025-11-06T02:55:17.171632+01:00",
+    "raw_valid": true,
+    "song_session_id": "062a4e83-4013-41ed-b335-181c5021c503"
+  },
+  {
+    "song": "Budeme To Stale My",
+    "artists": [
+      "Imt Smile"
+    ],
+    "isrc": "SKA011800003",
+    "start_time": "2025-11-06 02:58:20",
+    "radio": "expres",
+    "recorded_at": "2025-11-06T02:58:40.448385+01:00",
+    "raw_valid": true,
+    "song_session_id": "498cf622-84cb-4a67-b166-0e80d5f27933"
+  },
+  {
+    "song": "Mystical Magical",
+    "artists": [
+      "Benson Boone"
+    ],
+    "isrc": "USWB12500844",
+    "start_time": "2025-11-06 03:01:16",
+    "radio": "expres",
+    "recorded_at": "2025-11-06T03:01:43.609405+01:00",
+    "raw_valid": true,
+    "song_session_id": "48410d95-dc10-4f36-9904-39a662529b8b"
+  },
+  {
+    "song": "Kto Vie",
+    "artists": [
+      "Maria Cirova",
+      "Peter Bazik"
+    ],
+    "isrc": "SKK871700105",
+    "start_time": "2025-11-06 03:04:08",
+    "radio": "expres",
+    "recorded_at": "2025-11-06T03:04:21.424551+01:00",
+    "raw_valid": true,
+    "song_session_id": "f56fab69-6648-4947-8fb2-d7faa9cedf5a"
+  },
+  {
+    "song": "Alibi",
+    "artists": [
+      "Sevdaliza",
+      "Pabllo Vittar",
+      "Yseult"
+    ],
+    "isrc": "NL47E2400004",
+    "start_time": "2025-11-06 03:07:50",
+    "radio": "expres",
+    "recorded_at": "2025-11-06T03:08:05.179059+01:00",
+    "raw_valid": true,
+    "song_session_id": "56369665-58cb-4169-b2fc-4afb16312052"
+  },
+  {
+    "song": "Posledna",
+    "artists": [
+      "Desmod"
+    ],
+    "isrc": "CZA210300015",
+    "start_time": "2025-11-06 03:10:33",
+    "radio": "expres",
+    "recorded_at": "2025-11-06T03:11:03.767839+01:00",
+    "raw_valid": true,
+    "song_session_id": "979d3766-21f2-4973-91a1-39c26fbb754e"
+  },
+  {
+    "song": "I Follow Rivers (The Magician Remix)",
+    "artists": [
+      "Lykke Li"
+    ],
+    "isrc": "SEVUM1100103",
+    "start_time": "2025-11-06 03:14:10",
+    "radio": "expres",
+    "recorded_at": "2025-11-06T03:14:38.565257+01:00",
+    "raw_valid": true,
+    "song_session_id": "1779a276-9e00-4a4e-bd22-903bb1fb7782"
+  },
+  {
+    "song": "Skuska Snov",
+    "artists": [
+      "Miro Zbirka",
+      "Katarina Knechtova"
+    ],
+    "isrc": "CZUM71800108",
+    "start_time": "2025-11-06 03:18:08",
+    "radio": "expres",
+    "recorded_at": "2025-11-06T03:18:21.999905+01:00",
+    "raw_valid": true,
+    "song_session_id": "823be3df-c781-476a-9400-a3e1a894b33e"
+  },
+  {
+    "song": "The Fate Of Ophelia",
+    "artists": [
+      "Taylor Swift"
+    ],
+    "isrc": "USUG12506436",
+    "start_time": "2025-11-06 03:21:36",
+    "radio": "expres",
+    "recorded_at": "2025-11-06T03:22:17.184490+01:00",
+    "raw_valid": true,
+    "song_session_id": "7978bdc8-9458-42d7-a9bd-41fd5c2342d6"
+  },
+  {
+    "song": "Mam Ta Rad",
+    "artists": [
+      "Karol Duchon"
+    ],
+    "isrc": "SKA128004707",
+    "start_time": "2025-11-06 03:25:31",
+    "radio": "expres",
+    "recorded_at": "2025-11-06T03:25:59.619320+01:00",
+    "raw_valid": true,
+    "song_session_id": "13f01ffb-b699-4c95-ace8-6024ccbf68c0"
+  },
+  {
+    "song": "Strangers",
+    "artists": [
+      "Kenya Grace"
+    ],
+    "isrc": "USWB12305048",
+    "start_time": "2025-11-06 03:29:44",
+    "radio": "expres",
+    "recorded_at": "2025-11-06T03:29:58.644887+01:00",
+    "raw_valid": true,
+    "song_session_id": "a0e44476-0e58-4e0d-8181-ccb4cf30bec2"
+  },
+  {
+    "song": "Ordinary",
+    "artists": [
+      "Alex Warren"
+    ],
+    "isrc": "USAT22500463",
+    "start_time": "2025-11-06 03:33:16",
+    "radio": "expres",
+    "recorded_at": "2025-11-06T03:33:48.739557+01:00",
+    "raw_valid": true,
+    "song_session_id": "1e6a1c3a-3f8b-4c66-979d-477a2af7bf70"
+  },
+  {
+    "song": "Ta Ne",
+    "artists": [
+      "Kristina"
+    ],
+    "isrc": "SKG061400303",
+    "start_time": "2025-11-06 03:36:19",
+    "radio": "expres",
+    "recorded_at": "2025-11-06T03:36:41.617301+01:00",
+    "raw_valid": true,
+    "song_session_id": "0d9cc7cc-9ba9-4952-9e38-4f1912f41f51"
+  },
+  {
+    "song": "Never Be The Same Again",
+    "artists": [
+      "Melanie C"
+    ],
+    "isrc": "GBAAA9900729",
+    "start_time": "2025-11-06 03:39:23",
+    "radio": "expres",
+    "recorded_at": "2025-11-06T03:39:44.638862+01:00",
+    "raw_valid": true,
+    "song_session_id": "2e694f27-b423-4136-8473-8a53a781a271"
+  },
+  {
+    "song": "Ty A Tvoja Sestra",
+    "artists": [
+      "No Name"
+    ],
+    "isrc": "SKA010005401",
+    "start_time": "2025-11-06 03:44:28",
+    "radio": "expres",
+    "recorded_at": "2025-11-06T03:44:54.183992+01:00",
+    "raw_valid": true,
+    "song_session_id": "00c7af46-f55b-4ad6-bbd1-1c48233b1fcd"
+  },
+  {
+    "song": "Wonderful Life 25",
+    "artists": [
+      "Hurts",
+      "Purple Disco Machine"
+    ],
+    "isrc": "DEE862500677",
+    "start_time": "2025-11-06 03:47:43",
+    "radio": "expres",
+    "recorded_at": "2025-11-06T03:48:00.333510+01:00",
+    "raw_valid": true,
+    "song_session_id": "3624fd57-ec1e-4e97-8a0f-0d1bdf764da4"
+  },
+  {
+    "song": "Say It Loud",
+    "artists": [
+      "Peter Bic Project"
+    ],
+    "isrc": "SKA011200045",
+    "start_time": "2025-11-06 03:50:38",
+    "radio": "expres",
+    "recorded_at": "2025-11-06T03:50:59.970117+01:00",
+    "raw_valid": true,
+    "song_session_id": "58223a92-ca5d-424a-970c-85c4b6495dcf"
+  },
+  {
+    "song": "Its My Life",
+    "artists": [
+      "Bon Jovi"
+    ],
+    "isrc": "USIR20000145",
+    "start_time": "2025-11-06 03:54:33",
+    "radio": "expres",
+    "recorded_at": "2025-11-06T03:54:48.395771+01:00",
+    "raw_valid": true,
+    "song_session_id": "8f05d1f9-534b-42e1-afb6-3d2b6cf8e94a"
+  },
+  {
+    "song": "Za Zivot V Hore",
+    "artists": [
+      "Sima Martausova"
+    ],
+    "isrc": "SKU021900601",
+    "start_time": "2025-11-06 03:58:16",
+    "radio": "expres",
+    "recorded_at": "2025-11-06T03:58:40.997409+01:00",
+    "raw_valid": true,
+    "song_session_id": "6087e0bd-6689-4ce2-87a4-79b0b6c82c75"
+  }
+]

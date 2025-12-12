@@ -1,0 +1,366 @@
+[
+  {
+    "last_update": "2025-11-15 09:05:27",
+    "song": {
+      "musicAuthor": "Blink-182",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485154a8f4f9158546472fbb7280",
+      "musicTitle": "The Rock Show",
+      "radio": "Rádio ROCK",
+      "startTime": "10:04"
+    },
+    "recorded_at": "2025-11-15T10:05:27.839102+01:00",
+    "raw_valid": true,
+    "song_session_id": "1c315246-2672-487a-af03-d63b080d7e7b"
+  },
+  {
+    "last_update": "2025-11-15 09:07:27",
+    "song": {
+      "musicAuthor": "Nirvana",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851fbc71c99f9c1296c56dd51b6",
+      "musicTitle": "Smells Like Teen Spirit",
+      "radio": "Rádio ROCK",
+      "startTime": "10:07"
+    },
+    "recorded_at": "2025-11-15T10:07:28.021168+01:00",
+    "raw_valid": true,
+    "song_session_id": "b879c598-c03b-4608-a5c7-4d464a9963dd"
+  },
+  {
+    "last_update": "2025-11-15 09:13:27",
+    "song": {
+      "musicAuthor": "Asia",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048515cffcf384073b8aae7f81d2e",
+      "musicTitle": "Heat Of The Moment",
+      "radio": "Rádio ROCK",
+      "startTime": "10:12"
+    },
+    "recorded_at": "2025-11-15T10:13:28.424678+01:00",
+    "raw_valid": true,
+    "song_session_id": "6893b249-69fd-4a76-bc72-c417aee3ff59"
+  },
+  {
+    "last_update": "2025-11-15 09:16:27",
+    "song": {
+      "musicAuthor": "Whitesnake",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851facf92d793609aa3bc5cc4e7",
+      "musicTitle": "Here I Go Again",
+      "radio": "Rádio ROCK",
+      "startTime": "10:16"
+    },
+    "recorded_at": "2025-11-15T10:16:28.628063+01:00",
+    "raw_valid": true,
+    "song_session_id": "9898897f-678b-43ab-846d-471dc9496df1"
+  },
+  {
+    "last_update": "2025-11-15 09:20:29",
+    "song": {
+      "musicAuthor": "Green Day",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851ecf325211ee12671f180852a",
+      "musicTitle": "Smash It Like Belushi",
+      "radio": "Rádio ROCK",
+      "startTime": "10:20"
+    },
+    "recorded_at": "2025-11-15T10:20:29.550448+01:00",
+    "raw_valid": true,
+    "song_session_id": "ad2b7a9e-0256-48a8-885d-edcde87aee44"
+  },
+  {
+    "last_update": "2025-11-15 09:23:29",
+    "song": {
+      "musicAuthor": "System Of A Down",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485130d45198d0c9e8841f9a9578",
+      "musicTitle": "Aerials",
+      "radio": "Rádio ROCK",
+      "startTime": "10:23"
+    },
+    "recorded_at": "2025-11-15T10:23:30.097955+01:00",
+    "raw_valid": true,
+    "song_session_id": "429a05c0-1dcc-4a7c-8d14-318d2c1b4a8f"
+  },
+  {
+    "last_update": "2025-11-15 09:27:30",
+    "song": {
+      "musicAuthor": "Free",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851753c41c7fdc5e78ba017bbf5",
+      "musicTitle": "All Right Now",
+      "radio": "Rádio ROCK",
+      "startTime": "10:26"
+    },
+    "recorded_at": "2025-11-15T10:27:31.309512+01:00",
+    "raw_valid": true,
+    "song_session_id": "edc80a3a-c853-4a5e-8c1c-bd945bc773fb"
+  },
+  {
+    "last_update": "2025-11-15 09:31:31",
+    "song": {
+      "musicAuthor": "Slobodná Európa",
+      "musicCover": "https://static.radia.sk/covers/32/689a01be-a309-445d-af99-b8ee3c76f58d.jpg",
+      "musicTitle": "Dievca Z hornych 10000",
+      "radio": "Rádio ROCK",
+      "startTime": "10:30"
+    },
+    "recorded_at": "2025-11-15T10:31:31.890961+01:00",
+    "raw_valid": true,
+    "song_session_id": "f1424296-de1b-402c-93ec-cb20d878557b"
+  },
+  {
+    "last_update": "2025-11-15 09:34:31",
+    "song": {
+      "musicAuthor": "The Red Hot Chili Peppers",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851de1af2785a83cc660155a0c4",
+      "musicTitle": "The Zephyr Song",
+      "radio": "Rádio ROCK",
+      "startTime": "10:34"
+    },
+    "recorded_at": "2025-11-15T10:34:32.245129+01:00",
+    "raw_valid": true,
+    "song_session_id": "9137d214-9c96-4b78-9362-e347f1c56aba"
+  },
+  {
+    "last_update": "2025-11-15 09:38:32",
+    "song": {
+      "musicAuthor": "Guns N' Roses",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485192d21aef6c0d288cc4c05973",
+      "musicTitle": "Knockin' On Heaven's Door",
+      "radio": "Rádio ROCK",
+      "startTime": "10:38"
+    },
+    "recorded_at": "2025-11-15T10:38:32.648189+01:00",
+    "raw_valid": true,
+    "song_session_id": "84e7654c-b307-432e-83b6-75d9b3a71042"
+  },
+  {
+    "last_update": "2025-11-15 09:44:33",
+    "song": {
+      "musicAuthor": "Lucie",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048517afcc43e2db56da4728d2a52",
+      "musicTitle": "Dotknu Se Ohně",
+      "radio": "Rádio ROCK",
+      "startTime": "10:43"
+    },
+    "recorded_at": "2025-11-15T10:44:33.705111+01:00",
+    "raw_valid": true,
+    "song_session_id": "1c45c783-b68e-451c-89bf-cc2cac3c2f5e"
+  },
+  {
+    "last_update": "2025-11-15 09:49:34",
+    "song": {
+      "musicAuthor": "U2",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048513f4be7b80314bc44154f2e1a",
+      "musicTitle": "Desire",
+      "radio": "Rádio ROCK",
+      "startTime": "10:49"
+    },
+    "recorded_at": "2025-11-15T10:49:34.140844+01:00",
+    "raw_valid": true,
+    "song_session_id": "8c26096b-a531-4b7e-831c-c0f0ce4f4fd6"
+  },
+  {
+    "last_update": "2025-11-15 09:52:34",
+    "song": {
+      "musicAuthor": "Led Zeppelin",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851765b0617b572bdd1dbdc7d8e",
+      "musicTitle": "Kashmir",
+      "radio": "Rádio ROCK",
+      "startTime": "10:52"
+    },
+    "recorded_at": "2025-11-15T10:52:34.611509+01:00",
+    "raw_valid": true,
+    "song_session_id": "316bdcc8-0021-4ef2-bc26-743c599d8191"
+  },
+  {
+    "last_update": "2025-11-15 10:01:08",
+    "song": {
+      "musicAuthor": "Manson Marylin",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048513e2c4ed336c6b4ebb1a4bde9",
+      "musicTitle": "Personal Jesus",
+      "radio": "Rádio ROCK",
+      "startTime": "11:01"
+    },
+    "recorded_at": "2025-11-15T11:01:08.848937+01:00",
+    "raw_valid": true,
+    "song_session_id": "aebfa2c9-3b50-44f0-9dd7-0eb46b5a0a95"
+  },
+  {
+    "last_update": "2025-11-15 10:05:09",
+    "song": {
+      "musicAuthor": "Scorpions",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851a58fad5384604237cc50d532",
+      "musicTitle": "White Dove",
+      "radio": "Rádio ROCK",
+      "startTime": "11:05"
+    },
+    "recorded_at": "2025-11-15T11:05:09.299037+01:00",
+    "raw_valid": true,
+    "song_session_id": "fa45c0ce-7657-4a85-95ce-d4cd49a80ea8"
+  },
+  {
+    "last_update": "2025-11-15 10:09:09",
+    "song": {
+      "musicAuthor": "Midnight Oil",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048510dd350beeb5ac73672ad6e80",
+      "musicTitle": "Beds Are Burning",
+      "radio": "Rádio ROCK",
+      "startTime": "11:09"
+    },
+    "recorded_at": "2025-11-15T11:09:10.187022+01:00",
+    "raw_valid": true,
+    "song_session_id": "81b1588f-7667-4530-84f5-5daf1de0d8e1"
+  },
+  {
+    "last_update": "2025-11-15 10:14:13",
+    "song": {
+      "musicAuthor": "Rybicky 48 & Holki",
+      "musicCover": "https://e-cdns-images.dzcdn.net/images/artist/80f81da3ac0a25f925932e9e9b626159/64x64-000000-80-0-0.jpg",
+      "musicTitle": "Ja Dneska Slavim",
+      "radio": "Rádio ROCK",
+      "startTime": "11:13"
+    },
+    "recorded_at": "2025-11-15T11:14:13.520372+01:00",
+    "raw_valid": true,
+    "song_session_id": "0b6c7c21-b554-42e0-b49d-e1f73c61a60b"
+  },
+  {
+    "last_update": "2025-11-15 10:17:13",
+    "song": {
+      "musicAuthor": "Mick Jagger",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851a196f9a07530702c5230a896",
+      "musicTitle": "God Gave Me Everything",
+      "radio": "Rádio ROCK",
+      "startTime": "11:16"
+    },
+    "recorded_at": "2025-11-15T11:17:13.783413+01:00",
+    "raw_valid": true,
+    "song_session_id": "fb74c443-9c97-40d7-b332-f8cd8078750b"
+  },
+  {
+    "last_update": "2025-11-15 10:20:15",
+    "song": {
+      "musicAuthor": "Yungblud",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851df5bd10ce6f6fc2723f892b4",
+      "musicTitle": "Lowlife",
+      "radio": "Rádio ROCK",
+      "startTime": "11:20"
+    },
+    "recorded_at": "2025-11-15T11:20:15.942367+01:00",
+    "raw_valid": true,
+    "song_session_id": "67218216-cc46-4484-a2e8-cbd0032801fd"
+  },
+  {
+    "last_update": "2025-11-15 10:24:16",
+    "song": {
+      "musicAuthor": "George Harrison",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048517b13e5323813ed4c441100ff",
+      "musicTitle": "Got My Mind Set On You",
+      "radio": "Rádio ROCK",
+      "startTime": "11:24"
+    },
+    "recorded_at": "2025-11-15T11:24:16.641874+01:00",
+    "raw_valid": true,
+    "song_session_id": "3fac8646-54fb-46ea-b40f-cb49f142d4fe"
+  },
+  {
+    "last_update": "2025-11-15 10:28:17",
+    "song": {
+      "musicAuthor": "Him",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048511493d4964d5455624e29eb90",
+      "musicTitle": "Join Me In Death",
+      "radio": "Rádio ROCK",
+      "startTime": "11:27"
+    },
+    "recorded_at": "2025-11-15T11:28:18.021823+01:00",
+    "raw_valid": true,
+    "song_session_id": "0de4ae00-3a6f-4966-bdda-fa3e65811364"
+  },
+  {
+    "last_update": "2025-11-15 10:32:17",
+    "song": {
+      "musicAuthor": "Bon Jovi",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048517a231174875d7930de9dad58",
+      "musicTitle": "It's My Life",
+      "radio": "Rádio ROCK",
+      "startTime": "11:31"
+    },
+    "recorded_at": "2025-11-15T11:32:18.457639+01:00",
+    "raw_valid": true,
+    "song_session_id": "b40b2e98-e35e-4e46-a2c7-a10d0d82eeaf"
+  },
+  {
+    "last_update": "2025-11-15 10:40:19",
+    "song": {
+      "musicAuthor": "Alanis Morissette",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851242e643ea07118ecf677a6ef",
+      "musicTitle": "Ironic",
+      "radio": "Rádio ROCK",
+      "startTime": "11:39"
+    },
+    "recorded_at": "2025-11-15T11:40:20.256265+01:00",
+    "raw_valid": true,
+    "song_session_id": "1285aa32-5ba7-41e2-8fb1-30107269ef82"
+  },
+  {
+    "last_update": "2025-11-15 10:44:20",
+    "song": {
+      "musicAuthor": "Billy Idol",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851a20464e6697dc1149d3a5cdc",
+      "musicTitle": "White Wedding",
+      "radio": "Rádio ROCK",
+      "startTime": "11:43"
+    },
+    "recorded_at": "2025-11-15T11:44:20.607337+01:00",
+    "raw_valid": true,
+    "song_session_id": "2f6f9cc2-5c27-41ce-ab9c-03002b61450c"
+  },
+  {
+    "last_update": "2025-11-15 10:48:20",
+    "song": {
+      "musicAuthor": "The Red Hot Chili Peppers",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851f3686323bf737cb7ba3de792",
+      "musicTitle": "Scar Tissue",
+      "radio": "Rádio ROCK",
+      "startTime": "11:47"
+    },
+    "recorded_at": "2025-11-15T11:48:20.941490+01:00",
+    "raw_valid": true,
+    "song_session_id": "d8cd1c1a-fd14-44cd-9f6a-75e949d9ca18"
+  },
+  {
+    "last_update": "2025-11-15 10:51:20",
+    "song": {
+      "musicAuthor": "Franz Ferdinand",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485109a90531b85be7899c3234c4",
+      "musicTitle": "Take Me Out",
+      "radio": "Rádio ROCK",
+      "startTime": "11:51"
+    },
+    "recorded_at": "2025-11-15T11:51:21.125399+01:00",
+    "raw_valid": true,
+    "song_session_id": "d93e0e7c-f4f7-40c1-add4-e0bf5ff10a4e"
+  },
+  {
+    "last_update": "2025-11-15 10:55:21",
+    "song": {
+      "musicAuthor": "Genesis",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485101f20b98b794099707e43375",
+      "musicTitle": "No Son Of Mine",
+      "radio": "Rádio ROCK",
+      "startTime": "11:54"
+    },
+    "recorded_at": "2025-11-15T11:55:21.586238+01:00",
+    "raw_valid": true,
+    "song_session_id": "88dd7334-f8a7-4f2d-8561-aea94b35ffad"
+  },
+  {
+    "last_update": "2025-11-15 11:01:24",
+    "song": {
+      "musicAuthor": "Evanescence",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851a694061dd2dead2b4b043a8d",
+      "musicTitle": "What You Want",
+      "radio": "Rádio ROCK",
+      "startTime": "12:01"
+    },
+    "recorded_at": "2025-11-15T12:01:24.231581+01:00",
+    "raw_valid": true,
+    "song_session_id": "01642816-9a3b-4700-b472-1c7c5f2ebfa6"
+  }
+]

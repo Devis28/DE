@@ -1,0 +1,430 @@
+[
+  {
+    "song": "Chasing Paradise",
+    "artists": [
+      "Kygo",
+      "Onerepublic"
+    ],
+    "isrc": "SEBGA2500019",
+    "start_time": "2025-11-25 00:05:30",
+    "radio": "expres",
+    "recorded_at": "2025-11-25T00:05:57.701503+01:00",
+    "raw_valid": true,
+    "song_session_id": "8c3425b9-8d7c-47fd-8137-f2a9ec74a01a"
+  },
+  {
+    "song": "Stuzkova",
+    "artists": [
+      "Elan"
+    ],
+    "isrc": "SKA128562209",
+    "start_time": "2025-11-25 00:08:35",
+    "radio": "expres",
+    "recorded_at": "2025-11-25T00:09:06.354729+01:00",
+    "raw_valid": true,
+    "song_session_id": "b20bfcab-a3a9-428a-9351-b3d0e3590eca"
+  },
+  {
+    "song": "Wonderful Life 25",
+    "artists": [
+      "Hurts",
+      "Purple Disco Machine"
+    ],
+    "isrc": "DEE862500677",
+    "start_time": "2025-11-25 00:11:35",
+    "radio": "expres",
+    "recorded_at": "2025-11-25T00:11:57.717023+01:00",
+    "raw_valid": true,
+    "song_session_id": "86035186-e4ba-40b1-b7dd-482e16eb0af7"
+  },
+  {
+    "song": "Pri Oltari",
+    "artists": [
+      "Kristina"
+    ],
+    "isrc": "SKA011000102",
+    "start_time": "2025-11-25 00:14:30",
+    "radio": "expres",
+    "recorded_at": "2025-11-25T00:14:50.521241+01:00",
+    "raw_valid": true,
+    "song_session_id": "4cfc0d57-03b8-4a4a-b148-779d13b9f454"
+  },
+  {
+    "song": "Leave Out All The Rest",
+    "artists": [
+      "Linkin Park"
+    ],
+    "isrc": "USWB10701212",
+    "start_time": "2025-11-25 00:18:18",
+    "radio": "expres",
+    "recorded_at": "2025-11-25T00:18:39.357986+01:00",
+    "raw_valid": true,
+    "song_session_id": "aa31b4a1-e7d3-4ab6-9238-040174b4c9a0"
+  },
+  {
+    "song": "Skusky Z Lasky",
+    "artists": [
+      "Gravis"
+    ],
+    "isrc": "SKA128912006",
+    "start_time": "2025-11-25 00:21:50",
+    "radio": "expres",
+    "recorded_at": "2025-11-25T00:22:02.566659+01:00",
+    "raw_valid": true,
+    "song_session_id": "e26a7595-87d7-40a9-a8d8-8177bcddda19"
+  },
+  {
+    "song": "Blink Twice",
+    "artists": [
+      "Shaboozey",
+      "Myles Smith"
+    ],
+    "isrc": "USUYG1717098",
+    "start_time": "2025-11-25 00:25:27",
+    "radio": "expres",
+    "recorded_at": "2025-11-25T00:25:46.311055+01:00",
+    "raw_valid": true,
+    "song_session_id": "6adf7d48-2d44-4681-874b-7fc74c342822"
+  },
+  {
+    "song": "Slnko Nevychadzaj",
+    "artists": [
+      "Metalinda"
+    ],
+    "isrc": "SKG871600305",
+    "start_time": "2025-11-25 00:28:09",
+    "radio": "expres",
+    "recorded_at": "2025-11-25T00:28:37.561059+01:00",
+    "raw_valid": true,
+    "song_session_id": "136df3d3-0a77-4728-9711-2e6b2802108b"
+  },
+  {
+    "song": "Broken Sunshine",
+    "artists": [
+      "Michael Schulte"
+    ],
+    "isrc": "DECE72402375",
+    "start_time": "2025-11-25 00:32:34",
+    "radio": "expres",
+    "recorded_at": "2025-11-25T00:32:56.535449+01:00",
+    "raw_valid": true,
+    "song_session_id": "cb2ff546-74d2-488a-9a78-ac8d0a436cf2"
+  },
+  {
+    "song": "Pride",
+    "artists": [
+      "Felix Jaehn",
+      "Jhart"
+    ],
+    "isrc": "DEUM72503423",
+    "start_time": "2025-11-25 00:35:29",
+    "radio": "expres",
+    "recorded_at": "2025-11-25T00:35:59.395187+01:00",
+    "raw_valid": true,
+    "song_session_id": "df4cddc6-6539-438d-864b-cd86d1385581"
+  },
+  {
+    "song": "Vela Lasky",
+    "artists": [
+      "Imt Smile"
+    ],
+    "isrc": "SKA011200004",
+    "start_time": "2025-11-25 00:38:29",
+    "radio": "expres",
+    "recorded_at": "2025-11-25T00:38:42.264705+01:00",
+    "raw_valid": true,
+    "song_session_id": "328e8b25-66b8-421f-9138-3fc087ad5562"
+  },
+  {
+    "song": "Careless Whisper",
+    "artists": [
+      "George Michael"
+    ],
+    "isrc": "GBARL0601610",
+    "start_time": "2025-11-25 00:41:30",
+    "radio": "expres",
+    "recorded_at": "2025-11-25T00:41:45.479751+01:00",
+    "raw_valid": true,
+    "song_session_id": "331543a6-9d28-411e-9fc8-9f61a034de35"
+  },
+  {
+    "song": "Fukame",
+    "artists": [
+      "Adam Durica"
+    ],
+    "isrc": "SKA012100253",
+    "start_time": "2025-11-25 00:46:31",
+    "radio": "expres",
+    "recorded_at": "2025-11-25T00:46:50.209495+01:00",
+    "raw_valid": true,
+    "song_session_id": "1aa2c1c5-ecee-420e-899a-6645ad1172be"
+  },
+  {
+    "song": "Man I Need",
+    "artists": [
+      "Olivia Dean"
+    ],
+    "isrc": "GBUM72503089",
+    "start_time": "2025-11-25 00:49:48",
+    "radio": "expres",
+    "recorded_at": "2025-11-25T00:50:13.367661+01:00",
+    "raw_valid": true,
+    "song_session_id": "0f0a2db6-0a4c-45e6-8d7a-29f8b268a6f5"
+  },
+  {
+    "song": "Nech Sa Deje Co Sa Ma",
+    "artists": [
+      "Zuzana Smatanova"
+    ],
+    "isrc": "CZA140500239",
+    "start_time": "2025-11-25 00:53:10",
+    "radio": "expres",
+    "recorded_at": "2025-11-25T00:53:36.758432+01:00",
+    "raw_valid": true,
+    "song_session_id": "e1ac3216-dbc3-4b23-b6fb-470701ae8565"
+  },
+  {
+    "song": "Ty A Ja",
+    "artists": [
+      "Krystof"
+    ],
+    "isrc": "CZUM71500172",
+    "start_time": "2025-11-25 00:55:54",
+    "radio": "expres",
+    "recorded_at": "2025-11-25T00:56:24.458154+01:00",
+    "raw_valid": true,
+    "song_session_id": "5081cd8c-9018-4e2d-a831-b27210ec71aa"
+  },
+  {
+    "song": "Mam Chut Na Nieco Chladene",
+    "artists": [
+      "Tina"
+    ],
+    "isrc": "CZA230900210",
+    "start_time": "2025-11-25 01:00:16",
+    "radio": "expres",
+    "recorded_at": "2025-11-25T01:00:28.271552+01:00",
+    "raw_valid": true,
+    "song_session_id": "8895f08d-7447-41ad-b3b3-bc08d4f2ae65"
+  },
+  {
+    "song": "The Fate Of Ophelia",
+    "artists": [
+      "Taylor Swift"
+    ],
+    "isrc": "USUG12506436",
+    "start_time": "2025-11-25 01:02:24",
+    "radio": "expres",
+    "recorded_at": "2025-11-25T01:02:50.629809+01:00",
+    "raw_valid": true,
+    "song_session_id": "a7ca0ed7-8ffa-4910-98d6-6dc9cc333045"
+  },
+  {
+    "song": "Slovenska",
+    "artists": [
+      "Miro Zbirka"
+    ],
+    "isrc": "CZUM72000500",
+    "start_time": "2025-11-25 01:06:19",
+    "radio": "expres",
+    "recorded_at": "2025-11-25T01:06:40.943842+01:00",
+    "raw_valid": true,
+    "song_session_id": "422fa748-9c78-4ed1-b499-bdf798455f23"
+  },
+  {
+    "song": "Million Good Reasons",
+    "artists": [
+      "Robin Schulz",
+      "Fast Boy"
+    ],
+    "isrc": "DEA622404738",
+    "start_time": "2025-11-25 01:09:18",
+    "radio": "expres",
+    "recorded_at": "2025-11-25T01:09:43.888935+01:00",
+    "raw_valid": true,
+    "song_session_id": "9484cd0d-395b-46cf-982b-ef75d7ae7bc9"
+  },
+  {
+    "song": "Dazd",
+    "artists": [
+      "Peter Cmorik"
+    ],
+    "isrc": "CZA210600280",
+    "start_time": "2025-11-25 01:11:52",
+    "radio": "expres",
+    "recorded_at": "2025-11-25T01:12:11.760687+01:00",
+    "raw_valid": true,
+    "song_session_id": "09667761-58cd-4163-955c-f133ab5fe780"
+  },
+  {
+    "song": "It Must Have Been Love",
+    "artists": [
+      "Roxette"
+    ],
+    "isrc": "SEAMA8777131",
+    "start_time": "2025-11-25 01:16:35",
+    "radio": "expres",
+    "recorded_at": "2025-11-25T01:16:56.805422+01:00",
+    "raw_valid": true,
+    "song_session_id": "ad140832-5640-457a-9732-6e3b670ee7a1"
+  },
+  {
+    "song": "Neviem Sa Najst",
+    "artists": [
+      "Nela"
+    ],
+    "isrc": "SKE321200201",
+    "start_time": "2025-11-25 01:20:44",
+    "radio": "expres",
+    "recorded_at": "2025-11-25T01:21:00.678280+01:00",
+    "raw_valid": true,
+    "song_session_id": "3cb95054-0d23-4681-af1f-d378fe726961"
+  },
+  {
+    "song": "Where Is My Husband",
+    "artists": [
+      "Raye"
+    ],
+    "isrc": "QMFME2535037",
+    "start_time": "2025-11-25 01:24:13",
+    "radio": "expres",
+    "recorded_at": "2025-11-25T01:24:24.767695+01:00",
+    "raw_valid": true,
+    "song_session_id": "7f7b802d-66d6-4ead-ba6a-3c67d9250b20"
+  },
+  {
+    "song": "Nahy 2",
+    "artists": [
+      "Richard Muller"
+    ],
+    "isrc": "SKA010109110",
+    "start_time": "2025-11-25 01:27:58",
+    "radio": "expres",
+    "recorded_at": "2025-11-25T01:28:36.753160+01:00",
+    "raw_valid": true,
+    "song_session_id": "994901a6-b7ac-4ba2-9e49-9bc261aa2602"
+  },
+  {
+    "song": "Rock N Roll",
+    "artists": [
+      "Leony",
+      "G-Eazy"
+    ],
+    "isrc": "DEN062400703",
+    "start_time": "2025-11-25 01:32:20",
+    "radio": "expres",
+    "recorded_at": "2025-11-25T01:32:35.343065+01:00",
+    "raw_valid": true,
+    "song_session_id": "74ab5a50-5f66-4469-8afc-08c7e7514cd9"
+  },
+  {
+    "song": "Be Mine",
+    "artists": [
+      "Kamrad"
+    ],
+    "isrc": "DE1NJ2500035",
+    "start_time": "2025-11-25 01:35:00",
+    "radio": "expres",
+    "recorded_at": "2025-11-25T01:35:27.966441+01:00",
+    "raw_valid": true,
+    "song_session_id": "c1c0f5d9-7618-4856-84ab-d30d30222e2e"
+  },
+  {
+    "song": "Caba Neblazni",
+    "artists": [
+      "Elan"
+    ],
+    "isrc": "SKA128912902",
+    "start_time": "2025-11-25 01:37:39",
+    "radio": "expres",
+    "recorded_at": "2025-11-25T01:38:09.005549+01:00",
+    "raw_valid": true,
+    "song_session_id": "6a10c864-f4e8-411b-8aa0-298969261b78"
+  },
+  {
+    "song": "Be My Lover",
+    "artists": [
+      "La Bouche"
+    ],
+    "isrc": "DED169500047",
+    "start_time": "2025-11-25 01:42:18",
+    "radio": "expres",
+    "recorded_at": "2025-11-25T01:42:33.052540+01:00",
+    "raw_valid": true,
+    "song_session_id": "e3fe0c0b-bee8-440a-8efe-fd83e1b6f891"
+  },
+  {
+    "song": "Thinking About You",
+    "artists": [
+      "Peter Bic Project"
+    ],
+    "isrc": "SKA011200054",
+    "start_time": "2025-11-25 01:46:28",
+    "radio": "expres",
+    "recorded_at": "2025-11-25T01:46:36.899823+01:00",
+    "raw_valid": true,
+    "song_session_id": "b1142a80-7350-4883-8d06-e75f7487c3f0"
+  },
+  {
+    "song": "Head Above Water",
+    "artists": [
+      "Twocolors",
+      "Safri Duo",
+      "Chris De Sarandy"
+    ],
+    "isrc": "DEUM72503698",
+    "start_time": "2025-11-25 01:50:11",
+    "radio": "expres",
+    "recorded_at": "2025-11-25T01:50:29.905267+01:00",
+    "raw_valid": true,
+    "song_session_id": "8e7b244a-5e0a-4279-a7c3-e79fcd354b74"
+  },
+  {
+    "song": "Duch Cloveka",
+    "artists": [
+      "Imt Smile"
+    ],
+    "isrc": "SKA010500076",
+    "start_time": "2025-11-25 01:53:13",
+    "radio": "expres",
+    "recorded_at": "2025-11-25T01:53:37.706402+01:00",
+    "raw_valid": true,
+    "song_session_id": "7e47eb8a-cdb5-4c49-b9bd-6f045fbd9a1b"
+  },
+  {
+    "song": "Follow You",
+    "artists": [
+      "Imagine Dragons"
+    ],
+    "isrc": "USUM72102981",
+    "start_time": "2025-11-25 01:56:56",
+    "radio": "expres",
+    "recorded_at": "2025-11-25T01:57:11.171018+01:00",
+    "raw_valid": true,
+    "song_session_id": "73990b2f-e034-459e-b8de-901eb26b08ce"
+  },
+  {
+    "song": "Aby Bolo Jasne!",
+    "artists": [
+      "Desmod"
+    ],
+    "isrc": "CZA210400238",
+    "start_time": "2025-11-25 01:59:40",
+    "radio": "expres",
+    "recorded_at": "2025-11-25T01:59:53.796226+01:00",
+    "raw_valid": true,
+    "song_session_id": "3eea89cb-7aa7-4756-8bf9-243f75f77c61"
+  },
+  {
+    "song": "My Oh My",
+    "artists": [
+      "Ava Max"
+    ],
+    "isrc": "USAT22401759",
+    "start_time": "2025-11-25 02:02:57",
+    "radio": "expres",
+    "recorded_at": "2025-11-25T02:03:20.343270+01:00",
+    "raw_valid": true,
+    "song_session_id": "c8ed4361-b91f-4bd7-8471-e2e3ef9a0345"
+  }
+]

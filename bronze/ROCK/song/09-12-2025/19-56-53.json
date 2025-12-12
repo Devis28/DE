@@ -1,0 +1,418 @@
+[
+  {
+    "last_update": "2025-12-09 17:58:10",
+    "song": {
+      "musicAuthor": "R.E.M.",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851d19a802815af06c6942f9413",
+      "musicTitle": "Imitation Of Life",
+      "radio": "Rádio ROCK",
+      "startTime": "18:57"
+    },
+    "recorded_at": "2025-12-09T18:58:11.231387+01:00",
+    "raw_valid": true,
+    "song_session_id": "aac18cfc-cb39-4b59-a447-22ee29e4ddd5"
+  },
+  {
+    "last_update": "2025-12-09 18:02:11",
+    "song": {
+      "musicAuthor": "Linkin Park",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851e2f039481babe23658fc719a",
+      "musicTitle": "Crawling",
+      "radio": "Rádio ROCK",
+      "startTime": "19:01"
+    },
+    "recorded_at": "2025-12-09T19:02:11.777720+01:00",
+    "raw_valid": true,
+    "song_session_id": "746293fb-7f7c-40d1-851f-aff5c296d25c"
+  },
+  {
+    "last_update": "2025-12-09 18:05:13",
+    "song": {
+      "musicAuthor": "Scorpions",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851a58fad5384604237cc50d532",
+      "musicTitle": "White Dove",
+      "radio": "Rádio ROCK",
+      "startTime": "19:05"
+    },
+    "recorded_at": "2025-12-09T19:05:13.915342+01:00",
+    "raw_valid": true,
+    "song_session_id": "b4d3191a-7ea5-4746-b207-f40da2540ba7"
+  },
+  {
+    "last_update": "2025-12-09 18:09:15",
+    "song": {
+      "musicAuthor": "Bon Jovi",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048511336b31b6a1799f0de5807ac",
+      "musicTitle": "Wanted Dead Or Alive",
+      "radio": "Rádio ROCK",
+      "startTime": "19:09"
+    },
+    "recorded_at": "2025-12-09T19:09:15.442542+01:00",
+    "raw_valid": true,
+    "song_session_id": "5e593273-1733-4781-adfc-44bfab802d69"
+  },
+  {
+    "last_update": "2025-12-09 18:14:15",
+    "song": {
+      "musicAuthor": "Green Day",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851ecf325211ee12671f180852a",
+      "musicTitle": "Smash It Like Belushi",
+      "radio": "Rádio ROCK",
+      "startTime": "19:13"
+    },
+    "recorded_at": "2025-12-09T19:14:16.309228+01:00",
+    "raw_valid": true,
+    "song_session_id": "5dd26af9-abd8-4ca6-9bab-c9f06141dc1a"
+  },
+  {
+    "last_update": "2025-12-09 18:17:16",
+    "song": {
+      "musicAuthor": "The Offspring",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851cbd2ee7dff77bfb2b5f0af52",
+      "musicTitle": "The Kids Arent Alright",
+      "radio": "Rádio ROCK",
+      "startTime": "19:16"
+    },
+    "recorded_at": "2025-12-09T19:17:16.980388+01:00",
+    "raw_valid": true,
+    "song_session_id": "e675bb4c-a65d-4088-897a-d8e08ee1f036"
+  },
+  {
+    "last_update": "2025-12-09 18:20:17",
+    "song": {
+      "musicAuthor": "Papa Roach",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851985bf5ede2fe4a048ee85f28",
+      "musicTitle": "Last Resort",
+      "radio": "Rádio ROCK",
+      "startTime": "19:19"
+    },
+    "recorded_at": "2025-12-09T19:20:17.279529+01:00",
+    "raw_valid": true,
+    "song_session_id": "dfcbe6b7-ba56-4a90-b0f8-c07decd6eca0"
+  },
+  {
+    "last_update": "2025-12-09 18:23:17",
+    "song": {
+      "musicAuthor": "Blink 182",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048516da502e35a7a3e48de2b0f74",
+      "musicTitle": "Adam's Song",
+      "radio": "Rádio ROCK",
+      "startTime": "19:23"
+    },
+    "recorded_at": "2025-12-09T19:23:17.688146+01:00",
+    "raw_valid": true,
+    "song_session_id": "c31dc047-52f1-4eed-80eb-6efadefda84f"
+  },
+  {
+    "last_update": "2025-12-09 18:28:18",
+    "song": {
+      "musicAuthor": "Status Quo",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048513b43ef752e5af1d00c1fc213",
+      "musicTitle": "In The Army Now",
+      "radio": "Rádio ROCK",
+      "startTime": "19:27"
+    },
+    "recorded_at": "2025-12-09T19:28:18.667919+01:00",
+    "raw_valid": true,
+    "song_session_id": "68c58f98-06d0-447c-bba8-554f76a10efc"
+  },
+  {
+    "last_update": "2025-12-09 18:31:19",
+    "song": {
+      "musicAuthor": "Iron Maiden",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048510335e5389b34f6acfb73a82d",
+      "musicTitle": "2 Minutes To Midnight",
+      "radio": "Rádio ROCK",
+      "startTime": "19:31"
+    },
+    "recorded_at": "2025-12-09T19:31:20.558080+01:00",
+    "raw_valid": true,
+    "song_session_id": "e7b086d9-a419-4bbb-abb8-d32051c88235"
+  },
+  {
+    "last_update": "2025-12-09 18:38:23",
+    "song": {
+      "musicAuthor": "The Red Hot Chili Peppers",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851de1af2785a83cc660155a0c4",
+      "musicTitle": "Can't Stop",
+      "radio": "Rádio ROCK",
+      "startTime": "19:37"
+    },
+    "recorded_at": "2025-12-09T19:38:23.850015+01:00",
+    "raw_valid": true,
+    "song_session_id": "6431a806-2840-4891-bc05-67ee8dba6d3b"
+  },
+  {
+    "last_update": "2025-12-09 18:42:23",
+    "song": {
+      "musicAuthor": "Petty Tom & The Heartbreakers",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485127bd7d234a31296df34b9a64",
+      "musicTitle": "Learning To Fly",
+      "radio": "Rádio ROCK",
+      "startTime": "19:41"
+    },
+    "recorded_at": "2025-12-09T19:42:24.263189+01:00",
+    "raw_valid": true,
+    "song_session_id": "701208bf-281e-4f3d-8139-955e7850bce8"
+  },
+  {
+    "last_update": "2025-12-09 18:46:25",
+    "song": {
+      "musicAuthor": "Weezer",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851345536847e60f622ee0eae96",
+      "musicTitle": "Buddy Holly",
+      "radio": "Rádio ROCK",
+      "startTime": "19:45"
+    },
+    "recorded_at": "2025-12-09T19:46:25.047509+01:00",
+    "raw_valid": true,
+    "song_session_id": "c31270c6-c23d-47c3-ac84-f4531465de60"
+  },
+  {
+    "last_update": "2025-12-09 18:49:24",
+    "song": {
+      "musicAuthor": "Queen",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048517c39dd133836c2c1c87e34d6",
+      "musicTitle": "Don't Stop Me Now",
+      "radio": "Rádio ROCK",
+      "startTime": "19:48"
+    },
+    "recorded_at": "2025-12-09T19:49:25.465001+01:00",
+    "raw_valid": true,
+    "song_session_id": "87ce77b7-d551-40a0-a654-34a117d660d1"
+  },
+  {
+    "last_update": "2025-12-09 18:52:26",
+    "song": {
+      "musicAuthor": "Hoobastank",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485176cc6eedca8eb381afcd1e46",
+      "musicTitle": "The Reason",
+      "radio": "Rádio ROCK",
+      "startTime": "19:52"
+    },
+    "recorded_at": "2025-12-09T19:52:26.308096+01:00",
+    "raw_valid": true,
+    "song_session_id": "354321ef-bad9-45a7-ad8e-e71b2eb8a8d9"
+  },
+  {
+    "last_update": "2025-12-09 18:56:26",
+    "song": {
+      "musicAuthor": "Lucie",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048518d8d0e40bd3b70756f01044c",
+      "musicTitle": "Černí Andělé",
+      "radio": "Rádio ROCK",
+      "startTime": "19:55"
+    },
+    "recorded_at": "2025-12-09T19:56:26.885543+01:00",
+    "raw_valid": true,
+    "song_session_id": "0087b847-b1a3-4b21-aabb-bc0f4ce8e2a5"
+  },
+  {
+    "last_update": "2025-12-09 19:00:27",
+    "song": {
+      "musicAuthor": "The Kinks",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048513e55d44d1e71dab08c35cc1c",
+      "musicTitle": "You Really Got Me",
+      "radio": "Rádio ROCK",
+      "startTime": "19:59"
+    },
+    "recorded_at": "2025-12-09T20:00:27.324034+01:00",
+    "raw_valid": true,
+    "song_session_id": "d2189298-9d8c-47dc-a4f2-63f857d065fc"
+  },
+  {
+    "last_update": "2025-12-09 19:02:29",
+    "song": {
+      "musicAuthor": "Idol Billy",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851ea07dca8b4ca808c1e5b17fb",
+      "musicTitle": "Rebel Yell",
+      "radio": "Rádio ROCK",
+      "startTime": "20:01"
+    },
+    "recorded_at": "2025-12-09T20:02:29.933321+01:00",
+    "raw_valid": true,
+    "song_session_id": "d1aff586-8ad0-41e2-86fe-5bf61a427da7"
+  },
+  {
+    "last_update": "2025-12-09 19:06:29",
+    "song": {
+      "musicAuthor": "Bijouterrier",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851e59090f28a251e44cacaa8ff",
+      "musicTitle": "Preco Places Vilem?",
+      "radio": "Rádio ROCK",
+      "startTime": "20:05"
+    },
+    "recorded_at": "2025-12-09T20:06:30.204876+01:00",
+    "raw_valid": true,
+    "song_session_id": "cd90f176-e04f-4864-9488-8aa6731d546d"
+  },
+  {
+    "last_update": "2025-12-09 19:09:32",
+    "song": {
+      "musicAuthor": "Peha",
+      "musicCover": "https://static.radia.sk/covers/32/23af7415-fcaa-4716-aee4-ad3e0de7314a.jpg",
+      "musicTitle": "V Zaseknutom Výťahu",
+      "radio": "Rádio ROCK",
+      "startTime": "20:08"
+    },
+    "recorded_at": "2025-12-09T20:09:33.079018+01:00",
+    "raw_valid": true,
+    "song_session_id": "46e7edd5-adb9-4b58-941c-cff9477d1140"
+  },
+  {
+    "last_update": "2025-12-09 19:13:32",
+    "song": {
+      "musicAuthor": "Alanis Morissette",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851242e643ea07118ecf677a6ef",
+      "musicTitle": "Ironic",
+      "radio": "Rádio ROCK",
+      "startTime": "20:12"
+    },
+    "recorded_at": "2025-12-09T20:13:33.889438+01:00",
+    "raw_valid": true,
+    "song_session_id": "0781fc00-eb51-4566-b01e-53ad1be3d3de"
+  },
+  {
+    "last_update": "2025-12-09 19:16:33",
+    "song": {
+      "musicAuthor": "The Paranoid",
+      "musicCover": "https://static.radia.sk/covers/32/6a4240f7-0415-4426-b5d7-761e04b4985b.jpg",
+      "musicTitle": "Spovedám Sa",
+      "radio": "Rádio ROCK",
+      "startTime": "20:16"
+    },
+    "recorded_at": "2025-12-09T20:16:34.154414+01:00",
+    "raw_valid": true,
+    "song_session_id": "0dec4200-0a58-4da1-9842-67f2fa1d5f5f"
+  },
+  {
+    "last_update": "2025-12-09 19:19:34",
+    "song": {
+      "musicAuthor": "Rammstein",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048518b2c42026277efc3e058855b",
+      "musicTitle": "Links 2 3 4",
+      "radio": "Rádio ROCK",
+      "startTime": "20:19"
+    },
+    "recorded_at": "2025-12-09T20:19:34.343084+01:00",
+    "raw_valid": true,
+    "song_session_id": "7a575015-84b8-454a-9e85-a3d768828861"
+  },
+  {
+    "last_update": "2025-12-09 19:23:33",
+    "song": {
+      "musicAuthor": "Horkýže Slíže",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851d908a63a01282b0e2ac770ab",
+      "musicTitle": "Mam V P... Na Lehátku",
+      "radio": "Rádio ROCK",
+      "startTime": "20:22"
+    },
+    "recorded_at": "2025-12-09T20:23:34.575362+01:00",
+    "raw_valid": true,
+    "song_session_id": "3c79ca4e-a676-49a0-b911-fa6e1c930f84"
+  },
+  {
+    "last_update": "2025-12-09 19:26:34",
+    "song": {
+      "musicAuthor": "Tublatanka",
+      "musicCover": "https://static.radia.sk/covers/32/7ee86987-baad-48a6-9afa-0ca560d378f2.jpg",
+      "musicTitle": "Kúpim Si Kilo Lásky",
+      "radio": "Rádio ROCK",
+      "startTime": "20:26"
+    },
+    "recorded_at": "2025-12-09T20:26:34.853360+01:00",
+    "raw_valid": true,
+    "song_session_id": "84a33cc2-d06c-4419-be89-05c3dcf12ea3"
+  },
+  {
+    "last_update": "2025-12-09 19:30:35",
+    "song": {
+      "musicAuthor": "Elán",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851113f109764730da72f73225c",
+      "musicTitle": "Čaba Neblázni",
+      "radio": "Rádio ROCK",
+      "startTime": "20:29"
+    },
+    "recorded_at": "2025-12-09T20:30:36.095063+01:00",
+    "raw_valid": true,
+    "song_session_id": "c7b9e027-a23b-4929-b7c1-f4e3415be0de"
+  },
+  {
+    "last_update": "2025-12-09 19:35:36",
+    "song": {
+      "musicAuthor": "De Burgh Chris",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851221400c5d5c0c66f6d638af8",
+      "musicTitle": "High On Emotion",
+      "radio": "Rádio ROCK",
+      "startTime": "20:34"
+    },
+    "recorded_at": "2025-12-09T20:35:36.970267+01:00",
+    "raw_valid": true,
+    "song_session_id": "542332d9-02f0-4bc2-8394-1134d211efca"
+  },
+  {
+    "last_update": "2025-12-09 19:39:37",
+    "song": {
+      "musicAuthor": "Slobodna Europa",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851f183160ecfd94bfb1d3bbe9f",
+      "musicTitle": "Rock'n'roll",
+      "radio": "Rádio ROCK",
+      "startTime": "20:38"
+    },
+    "recorded_at": "2025-12-09T20:39:37.710291+01:00",
+    "raw_valid": true,
+    "song_session_id": "9d6cf04c-316c-4525-9604-d6e87a810840"
+  },
+  {
+    "last_update": "2025-12-09 19:41:07",
+    "song": {
+      "musicAuthor": "Cherry Street",
+      "musicCover": "https://static.radia.sk/covers/32/e3967325-0ac6-4545-8595-faa4ffa235fd.jpg",
+      "musicTitle": "Punkrock Show",
+      "radio": "Rádio ROCK",
+      "startTime": "20:41"
+    },
+    "recorded_at": "2025-12-09T20:41:07.793393+01:00",
+    "raw_valid": true,
+    "song_session_id": "7747c639-fdbd-40c9-9f25-85aa7be41992"
+  },
+  {
+    "last_update": "2025-12-09 19:44:09",
+    "song": {
+      "musicAuthor": "Nirvana",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851fbc71c99f9c1296c56dd51b6",
+      "musicTitle": "Lithium",
+      "radio": "Rádio ROCK",
+      "startTime": "20:43"
+    },
+    "recorded_at": "2025-12-09T20:44:09.695602+01:00",
+    "raw_valid": true,
+    "song_session_id": "2be3727c-81dc-4042-ac7f-fcbdb6790d66"
+  },
+  {
+    "last_update": "2025-12-09 19:49:10",
+    "song": {
+      "musicAuthor": "Karpina",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048510799ed47ac3b8cf1f22d9481",
+      "musicTitle": "Nekromanca",
+      "radio": "Rádio ROCK",
+      "startTime": "20:48"
+    },
+    "recorded_at": "2025-12-09T20:49:11.175774+01:00",
+    "raw_valid": true,
+    "song_session_id": "d2e738fe-79b9-4ede-9c30-d73ed4d95998"
+  },
+  {
+    "last_update": "2025-12-09 19:53:11",
+    "song": {
+      "musicAuthor": "The Red Hot Chili Peppers",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485158406b3f1ac3ceaff7a64fef",
+      "musicTitle": "Dark Necessities",
+      "radio": "Rádio ROCK",
+      "startTime": "20:52"
+    },
+    "recorded_at": "2025-12-09T20:53:11.426061+01:00",
+    "raw_valid": true,
+    "song_session_id": "efb89d84-0a8d-4b23-8dcd-5dc17be813d3"
+  }
+]

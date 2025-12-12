@@ -1,0 +1,54 @@
+[
+  {
+    "last_update": "2025-10-29 22:26:20",
+    "song": {
+      "musicAuthor": "Hex",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048510f84b352c86a11603fb21691",
+      "musicTitle": "Ty A Ja",
+      "radio": "Fun Rádio",
+      "startTime": "23:23"
+    },
+    "recorded_at": "29.10.2025 23:26:20",
+    "raw_valid": true,
+    "song_session_id": "c0bd1dd4-c42b-4f91-a6b8-4a18bacc6dfc"
+  },
+  {
+    "last_update": "2025-10-29 22:27:40",
+    "song": {
+      "musicAuthor": "Muller Richard & Senkova Leona",
+      "musicCover": "/layout/covers/default.webp",
+      "musicTitle": "Nebude To Jiný",
+      "radio": "Fun Rádio",
+      "startTime": "23:27"
+    },
+    "recorded_at": "29.10.2025 23:27:41",
+    "raw_valid": true,
+    "song_session_id": "6c378771-d83c-475b-b334-65474fe3d2dc"
+  },
+  {
+    "last_update": "2025-10-29 22:31:41",
+    "song": {
+      "musicAuthor": "Xindl X & Mirka Miškechová",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485167f770c497801dcbd55f3482",
+      "musicTitle": "Cudzinka V Tvojej Zemi",
+      "radio": "Fun Rádio",
+      "startTime": "23:30"
+    },
+    "recorded_at": "29.10.2025 23:31:41",
+    "raw_valid": true,
+    "song_session_id": "7a7ae0dc-0b35-4b67-b7b1-c238b4c9e4d3"
+  },
+  {
+    "last_update": "2025-10-29 22:35:41",
+    "song": {
+      "musicAuthor": "Dara Rolins",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485150be067b144d52a7d2e187b7",
+      "musicTitle": "Slub",
+      "radio": "Fun Rádio",
+      "startTime": "23:34"
+    },
+    "recorded_at": "29.10.2025 23:35:42",
+    "raw_valid": true,
+    "song_session_id": "98cbb218-7f2c-487d-803e-5731ab23bbfe"
+  }
+]

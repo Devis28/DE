@@ -1,0 +1,28 @@
+[
+  {
+    "song": {
+      "play_date": "2025-11-22",
+      "play_time": "15:52",
+      "artist": [
+        "Gogo Penguin"
+      ],
+      "title": "Branches Break"
+    },
+    "recorded_at": "2025-11-22T15:56:05.711553+01:00",
+    "raw_valid": true,
+    "song_session_id": "d94cc632-44ab-47bf-9877-e940d25796d4"
+  },
+  {
+    "song": {
+      "play_date": "2025-11-22",
+      "play_time": "15:59",
+      "artist": [
+        "Mike Murray"
+      ],
+      "title": "Northbound"
+    },
+    "recorded_at": "2025-11-22T16:01:06.395225+01:00",
+    "raw_valid": true,
+    "song_session_id": "73bd3637-4bda-40ab-9af7-6112c28ffab5"
+  }
+]

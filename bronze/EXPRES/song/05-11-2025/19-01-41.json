@@ -1,0 +1,350 @@
+[
+  {
+    "song": "Be Mine",
+    "artists": [
+      "Kamrad"
+    ],
+    "isrc": "DE1NJ2500035",
+    "start_time": "2025-11-05 18:06:35",
+    "radio": "expres",
+    "recorded_at": "2025-11-05T18:06:55.148950+01:00",
+    "raw_valid": true,
+    "song_session_id": "29e472a8-1112-4b4d-a39b-7374e201abf5"
+  },
+  {
+    "song": "Hot Stuff",
+    "artists": [
+      "Kygo",
+      "Donna Summer"
+    ],
+    "isrc": "SEBGA2000777",
+    "start_time": "2025-11-05 18:09:13",
+    "radio": "expres",
+    "recorded_at": "2025-11-05T18:09:35.041160+01:00",
+    "raw_valid": true,
+    "song_session_id": "15c37567-a92f-4c53-b715-b55d76ec3626"
+  },
+  {
+    "song": "No Time To Talk",
+    "artists": [
+      "Jonas Brothers"
+    ],
+    "isrc": "USUG12504831",
+    "start_time": "2025-11-05 18:12:18",
+    "radio": "expres",
+    "recorded_at": "2025-11-05T18:12:39.742695+01:00",
+    "raw_valid": true,
+    "song_session_id": "e2d243b2-ad40-46be-a3f6-712ff25daf80"
+  },
+  {
+    "song": "Bed Of Roses",
+    "artists": [
+      "Bon Jovi"
+    ],
+    "isrc": "USPG19290093",
+    "start_time": "2025-11-05 18:15:01",
+    "radio": "expres",
+    "recorded_at": "2025-11-05T18:15:17.435086+01:00",
+    "raw_valid": true,
+    "song_session_id": "70ea0860-f31a-48fb-bd0b-53733cf39372"
+  },
+  {
+    "song": "Alibi",
+    "artists": [
+      "Sevdaliza",
+      "Pabllo Vittar",
+      "Yseult"
+    ],
+    "isrc": "NL47E2400004",
+    "start_time": "2025-11-05 18:20:57",
+    "radio": "expres",
+    "recorded_at": "2025-11-05T18:21:17.793310+01:00",
+    "raw_valid": true,
+    "song_session_id": "7685f844-2f70-4c7b-bd4d-b5bc7814181b"
+  },
+  {
+    "song": "Bad Liar",
+    "artists": [
+      "Imagine Dragons"
+    ],
+    "isrc": "USUM71816161",
+    "start_time": "2025-11-05 18:23:36",
+    "radio": "expres",
+    "recorded_at": "2025-11-05T18:24:00.427317+01:00",
+    "raw_valid": true,
+    "song_session_id": "184f4341-37f5-4446-804c-2fb206200ea5"
+  },
+  {
+    "song": "The One",
+    "artists": [
+      "Michael Patrick Kelly"
+    ],
+    "isrc": "DEE862500476",
+    "start_time": "2025-11-05 18:33:19",
+    "radio": "expres",
+    "recorded_at": "2025-11-05T18:33:52.091980+01:00",
+    "raw_valid": true,
+    "song_session_id": "282e3e10-baa0-4132-8c08-0d2afe887b33"
+  },
+  {
+    "song": "(Everything I Do) I Do It For You",
+    "artists": [
+      "Bryan Adams"
+    ],
+    "isrc": "USAM19190012",
+    "start_time": "2025-11-05 18:36:08",
+    "radio": "expres",
+    "recorded_at": "2025-11-05T18:36:29.697613+01:00",
+    "raw_valid": true,
+    "song_session_id": "2f02c775-ccb6-4b90-acfa-f0c2a4d33791"
+  },
+  {
+    "song": "The Dead Dance",
+    "artists": [
+      "Lady Gaga"
+    ],
+    "isrc": "USUM72407034",
+    "start_time": "2025-11-05 18:40:21",
+    "radio": "expres",
+    "recorded_at": "2025-11-05T18:40:29.489498+01:00",
+    "raw_valid": true,
+    "song_session_id": "2d117bd4-9e53-4f81-b058-c2763df46dd0"
+  },
+  {
+    "song": "Used To Be Young",
+    "artists": [
+      "Miley Cyrus"
+    ],
+    "isrc": "USSM12306461",
+    "start_time": "2025-11-05 18:44:00",
+    "radio": "expres",
+    "recorded_at": "2025-11-05T18:44:14.920538+01:00",
+    "raw_valid": true,
+    "song_session_id": "41a2ef91-747d-4a9b-ae54-cd1268ab6e60"
+  },
+  {
+    "song": "Blink Twice",
+    "artists": [
+      "Shaboozey",
+      "Myles Smith"
+    ],
+    "isrc": "USUYG1717098",
+    "start_time": "2025-11-05 18:47:06",
+    "radio": "expres",
+    "recorded_at": "2025-11-05T18:47:33.405534+01:00",
+    "raw_valid": true,
+    "song_session_id": "18eda4c7-28f2-4108-8018-fe569a19ed71"
+  },
+  {
+    "song": "Runaway Train",
+    "artists": [
+      "Soul Asylum"
+    ],
+    "isrc": "USSM19200235",
+    "start_time": "2025-11-05 18:51:55",
+    "radio": "expres",
+    "recorded_at": "2025-11-05T18:52:26.024530+01:00",
+    "raw_valid": true,
+    "song_session_id": "01f3827c-af05-4981-bd23-2d88a9529da4"
+  },
+  {
+    "song": "Youre Beautiful",
+    "artists": [
+      "James Blunt"
+    ],
+    "isrc": "USAT20401588",
+    "start_time": "2025-11-05 18:56:04",
+    "radio": "expres",
+    "recorded_at": "2025-11-05T18:56:19.885773+01:00",
+    "raw_valid": true,
+    "song_session_id": "0bab927b-a062-4b0a-84d3-6e7de807cc54"
+  },
+  {
+    "song": "Glide",
+    "artists": [
+      "Neiked",
+      "Portugal The Man"
+    ],
+    "isrc": "DEE862500421",
+    "start_time": "2025-11-05 19:05:53",
+    "radio": "expres",
+    "recorded_at": "2025-11-05T19:06:08.440335+01:00",
+    "raw_valid": true,
+    "song_session_id": "7f58a78c-cf04-4e33-b915-927c6e78e38f"
+  },
+  {
+    "song": "Neda Sa Ujst",
+    "artists": [
+      "Imt Smile"
+    ],
+    "isrc": "SKA019903018",
+    "start_time": "2025-11-05 19:08:57",
+    "radio": "expres",
+    "recorded_at": "2025-11-05T19:09:15.257542+01:00",
+    "raw_valid": true,
+    "song_session_id": "46c22ca0-3598-4001-8d68-5e3ddbb10222"
+  },
+  {
+    "song": "Afterlife",
+    "artists": [
+      "Michael Schulte"
+    ],
+    "isrc": "DECE72500509",
+    "start_time": "2025-11-05 19:12:11",
+    "radio": "expres",
+    "recorded_at": "2025-11-05T19:12:35.286543+01:00",
+    "raw_valid": true,
+    "song_session_id": "2a747a6b-7ad5-4ea3-9ae3-9b80259c67f6"
+  },
+  {
+    "song": "Waka Waka (This Time For Africa)",
+    "artists": [
+      "Shakira",
+      "Freshlyground"
+    ],
+    "isrc": "USSM11001353",
+    "start_time": "2025-11-05 19:14:48",
+    "radio": "expres",
+    "recorded_at": "2025-11-05T19:15:20.018812+01:00",
+    "raw_valid": true,
+    "song_session_id": "211c45e1-af52-443f-b47a-92d31a6dd642"
+  },
+  {
+    "song": "My Oh My",
+    "artists": [
+      "Ava Max"
+    ],
+    "isrc": "USAT22401759",
+    "start_time": "2025-11-05 19:19:53",
+    "radio": "expres",
+    "recorded_at": "2025-11-05T19:20:14.486021+01:00",
+    "raw_valid": true,
+    "song_session_id": "73a630a9-cb0e-4491-b407-44172bdac63b"
+  },
+  {
+    "song": "Talk To Me",
+    "artists": [
+      "Damiano David",
+      "Tyla",
+      "Nile Rodgers"
+    ],
+    "isrc": "ITB002500942",
+    "start_time": "2025-11-05 19:22:23",
+    "radio": "expres",
+    "recorded_at": "2025-11-05T19:22:37.117748+01:00",
+    "raw_valid": true,
+    "song_session_id": "e7f5acb1-4979-4331-84f8-8521e59583a1"
+  },
+  {
+    "song": "U + Ur Hand",
+    "artists": [
+      "Pink"
+    ],
+    "isrc": "USLF20500242",
+    "start_time": "2025-11-05 19:26:01",
+    "radio": "expres",
+    "recorded_at": "2025-11-05T19:26:15.705520+01:00",
+    "raw_valid": true,
+    "song_session_id": "fc7763da-c336-4fb5-b8ae-c197b536f898"
+  },
+  {
+    "song": "Let Me Die",
+    "artists": [
+      "Mark Dann",
+      "Giovanni Ricci"
+    ],
+    "isrc": "US38Y2520370",
+    "start_time": "2025-11-05 19:31:59",
+    "radio": "expres",
+    "recorded_at": "2025-11-05T19:32:21.075893+01:00",
+    "raw_valid": true,
+    "song_session_id": "cb29568c-0f52-48e0-948f-eaa0cf4c8fba"
+  },
+  {
+    "song": "Maniac",
+    "artists": [
+      "Michael Sembello"
+    ],
+    "isrc": "USPR38302462",
+    "start_time": "2025-11-05 19:34:23",
+    "radio": "expres",
+    "recorded_at": "2025-11-05T19:34:44.051887+01:00",
+    "raw_valid": true,
+    "song_session_id": "4435c213-06bd-4dae-986c-594adbd020b0"
+  },
+  {
+    "song": "Call It Love",
+    "artists": [
+      "Felix Jaehn",
+      "Ray Dalton"
+    ],
+    "isrc": "DEUM72204750",
+    "start_time": "2025-11-05 19:38:24",
+    "radio": "expres",
+    "recorded_at": "2025-11-05T19:38:47.868028+01:00",
+    "raw_valid": true,
+    "song_session_id": "31937827-6da3-4af7-8ade-f3a98cb201af"
+  },
+  {
+    "song": "Medzi Nebom A Zenou",
+    "artists": [
+      "Banket",
+      "Richard Muller",
+      "Ema Muller"
+    ],
+    "isrc": "SKC362500009",
+    "start_time": "2025-11-05 19:40:57",
+    "radio": "expres",
+    "recorded_at": "2025-11-05T19:41:05.243643+01:00",
+    "raw_valid": true,
+    "song_session_id": "dc2a9dfb-b5f2-43dd-a9f1-09913d19d881"
+  },
+  {
+    "song": "What Ive Done",
+    "artists": [
+      "Linkin Park"
+    ],
+    "isrc": "USWB10700721",
+    "start_time": "2025-11-05 19:45:14",
+    "radio": "expres",
+    "recorded_at": "2025-11-05T19:45:29.322309+01:00",
+    "raw_valid": true,
+    "song_session_id": "c032c3f1-3146-44ec-86f5-3c8c110ba324"
+  },
+  {
+    "song": "By Your Side (In My Mind)",
+    "artists": [
+      "Leony"
+    ],
+    "isrc": "DEN062400804",
+    "start_time": "2025-11-05 19:49:35",
+    "radio": "expres",
+    "recorded_at": "2025-11-05T19:49:56.088674+01:00",
+    "raw_valid": true,
+    "song_session_id": "9218a097-5502-4d74-945e-8954bc522011"
+  },
+  {
+    "song": "Chandelier",
+    "artists": [
+      "Sia"
+    ],
+    "isrc": "USRC11400498",
+    "start_time": "2025-11-05 19:52:36",
+    "radio": "expres",
+    "recorded_at": "2025-11-05T19:52:54.221536+01:00",
+    "raw_valid": true,
+    "song_session_id": "d9c595b7-8f93-4b0a-9ec5-abaa1a86f1ce"
+  },
+  {
+    "song": "Rano",
+    "artists": [
+      "Ine Kafe"
+    ],
+    "isrc": "SKA880000304",
+    "start_time": "2025-11-05 19:56:11",
+    "radio": "expres",
+    "recorded_at": "2025-11-05T19:56:42.435698+01:00",
+    "raw_valid": true,
+    "song_session_id": "0b26fb52-c1f8-4602-b3e3-c8186d1b1dcd"
+  }
+]

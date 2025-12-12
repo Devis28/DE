@@ -1,0 +1,392 @@
+[
+  {
+    "last_update": "2025-11-15 15:03:29",
+    "song": {
+      "musicAuthor": "Billy Talent",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485151ad1636a7d0456ad972a71c",
+      "musicTitle": "Red Flag",
+      "radio": "Rádio ROCK",
+      "startTime": "16:03"
+    },
+    "recorded_at": "2025-11-15T16:03:29.136598+01:00",
+    "raw_valid": true,
+    "song_session_id": "e74bdd1a-8ac8-4021-941d-87dabe42b707"
+  },
+  {
+    "last_update": "2025-11-15 15:07:28",
+    "song": {
+      "musicAuthor": "4 Non Blondes",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851381371cb8ce680d0dc324600",
+      "musicTitle": "What's Up",
+      "radio": "Rádio ROCK",
+      "startTime": "16:06"
+    },
+    "recorded_at": "2025-11-15T16:07:29.363607+01:00",
+    "raw_valid": true,
+    "song_session_id": "bbbb32bb-5bb3-4648-afa4-fc933fb259dd"
+  },
+  {
+    "last_update": "2025-11-15 15:11:30",
+    "song": {
+      "musicAuthor": "David Bowie",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851db0917ddd4139153bc1d1a1a",
+      "musicTitle": "Let's Dance",
+      "radio": "Rádio ROCK",
+      "startTime": "16:10"
+    },
+    "recorded_at": "2025-11-15T16:11:30.993070+01:00",
+    "raw_valid": true,
+    "song_session_id": "49e9c33d-9728-486f-8176-39989baa0dbc"
+  },
+  {
+    "last_update": "2025-11-15 15:16:31",
+    "song": {
+      "musicAuthor": "Dire Straits",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048519dfee5404d5e0763998c958e",
+      "musicTitle": "Sultans Of Swing",
+      "radio": "Rádio ROCK",
+      "startTime": "16:15"
+    },
+    "recorded_at": "2025-11-15T16:16:32.111101+01:00",
+    "raw_valid": true,
+    "song_session_id": "26bda6b5-143b-4eee-83b6-2f5b7d630474"
+  },
+  {
+    "last_update": "2025-11-15 15:22:32",
+    "song": {
+      "musicAuthor": "Linkin Park",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851c0db065619ed208515412917",
+      "musicTitle": "The Emptiness Machine",
+      "radio": "Rádio ROCK",
+      "startTime": "16:21"
+    },
+    "recorded_at": "2025-11-15T16:22:32.924701+01:00",
+    "raw_valid": true,
+    "song_session_id": "4aa2ef88-ae78-49a5-9087-88e7710b6712"
+  },
+  {
+    "last_update": "2025-11-15 15:25:33",
+    "song": {
+      "musicAuthor": "Foo Fighters",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048516c44679425e2695001b35d72",
+      "musicTitle": "The Best Of You",
+      "radio": "Rádio ROCK",
+      "startTime": "16:24"
+    },
+    "recorded_at": "2025-11-15T16:25:33.190525+01:00",
+    "raw_valid": true,
+    "song_session_id": "fefe4414-e20c-444f-8c3b-a84d7454dbbe"
+  },
+  {
+    "last_update": "2025-11-15 15:29:33",
+    "song": {
+      "musicAuthor": "Kiss",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851e5089214df66e4c6324861f7",
+      "musicTitle": "Lick It Up",
+      "radio": "Rádio ROCK",
+      "startTime": "16:29"
+    },
+    "recorded_at": "2025-11-15T16:29:33.835838+01:00",
+    "raw_valid": true,
+    "song_session_id": "c113dd2d-d71e-4fc9-a00f-198850aaad26"
+  },
+  {
+    "last_update": "2025-11-15 15:33:33",
+    "song": {
+      "musicAuthor": "Suede",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485154a78359ef17a590ab24256c",
+      "musicTitle": "Trash",
+      "radio": "Rádio ROCK",
+      "startTime": "16:32"
+    },
+    "recorded_at": "2025-11-15T16:33:34.076075+01:00",
+    "raw_valid": true,
+    "song_session_id": "0bb0e842-58a1-48ec-b80b-ad0323771a24"
+  },
+  {
+    "last_update": "2025-11-15 15:37:33",
+    "song": {
+      "musicAuthor": "System Of A Down",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485130d45198d0c9e8841f9a9578",
+      "musicTitle": "Chop Suey!",
+      "radio": "Rádio ROCK",
+      "startTime": "16:36"
+    },
+    "recorded_at": "2025-11-15T16:37:34.338862+01:00",
+    "raw_valid": true,
+    "song_session_id": "cdcfb34b-7859-4a5d-9697-28152de926e6"
+  },
+  {
+    "last_update": "2025-11-15 15:40:34",
+    "song": {
+      "musicAuthor": "Metallica",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485175e6375e11550746705a9645",
+      "musicTitle": "Whiskey In The Jar",
+      "radio": "Rádio ROCK",
+      "startTime": "16:39"
+    },
+    "recorded_at": "2025-11-15T16:40:34.551197+01:00",
+    "raw_valid": true,
+    "song_session_id": "47f4a58f-294c-4c9c-bb2b-dd1cde05a14d"
+  },
+  {
+    "last_update": "2025-11-15 15:45:34",
+    "song": {
+      "musicAuthor": "Ac/Dc",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048518399047ff71200928f5b6508",
+      "musicTitle": "Moneytalks",
+      "radio": "Rádio ROCK",
+      "startTime": "16:45"
+    },
+    "recorded_at": "2025-11-15T16:45:35.227244+01:00",
+    "raw_valid": true,
+    "song_session_id": "61d35bd1-5afd-48a6-8c96-6be3533a5536"
+  },
+  {
+    "last_update": "2025-11-15 15:49:34",
+    "song": {
+      "musicAuthor": "New Found Glory",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048511703f53e05e51bece5a4a9f8",
+      "musicTitle": "Friends Over You",
+      "radio": "Rádio ROCK",
+      "startTime": "16:49"
+    },
+    "recorded_at": "2025-11-15T16:49:35.493535+01:00",
+    "raw_valid": true,
+    "song_session_id": "62a6281e-4208-45eb-935c-4a414b480fa1"
+  },
+  {
+    "last_update": "2025-11-15 15:53:37",
+    "song": {
+      "musicAuthor": "The Cure",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851ee8b603d6c666ba428daac30",
+      "musicTitle": "Lullaby",
+      "radio": "Rádio ROCK",
+      "startTime": "16:52"
+    },
+    "recorded_at": "2025-11-15T16:53:37.116014+01:00",
+    "raw_valid": true,
+    "song_session_id": "19f57083-38e8-4f39-b6af-73c821f93707"
+  },
+  {
+    "last_update": "2025-11-15 15:57:37",
+    "song": {
+      "musicAuthor": "Iné Kafe",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485162c956030346948c7662f08d",
+      "musicTitle": "Spomienky Na Budúcnosť",
+      "radio": "Rádio ROCK",
+      "startTime": "16:56"
+    },
+    "recorded_at": "2025-11-15T16:57:37.669281+01:00",
+    "raw_valid": true,
+    "song_session_id": "d7fe2a75-7eef-4c03-a86a-2297f71222b3"
+  },
+  {
+    "last_update": "2025-11-15 16:01:07",
+    "song": {
+      "musicAuthor": "Depeche Mode",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048510a7d45a345534966a4ad2c39",
+      "musicTitle": "Enjoy The Silence",
+      "radio": "Rádio ROCK",
+      "startTime": "17:00"
+    },
+    "recorded_at": "2025-11-15T17:01:07.884375+01:00",
+    "raw_valid": true,
+    "song_session_id": "0da0f88e-3522-4ebb-8066-06364f078b28"
+  },
+  {
+    "last_update": "2025-11-15 16:04:44",
+    "song": {
+      "musicAuthor": "Ugly Kid Joe",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485159afd13f40fa2b0aab89bb0e",
+      "musicTitle": "Cat's In The Cradle",
+      "radio": "Rádio ROCK",
+      "startTime": "17:04"
+    },
+    "recorded_at": "2025-11-15T17:04:44.393217+01:00",
+    "raw_valid": true,
+    "song_session_id": "b888c18b-51fb-424b-9da9-4418df6d0557"
+  },
+  {
+    "last_update": "2025-11-15 16:08:14",
+    "song": {
+      "musicAuthor": "Queen",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851e319baafd16e84f0408af2a0",
+      "musicTitle": "Bohemian Rhapsody",
+      "radio": "Rádio ROCK",
+      "startTime": "17:08"
+    },
+    "recorded_at": "2025-11-15T17:08:14.615491+01:00",
+    "raw_valid": true,
+    "song_session_id": "9540fffd-205c-448f-9ca0-cca76eca3977"
+  },
+  {
+    "last_update": "2025-11-15 16:14:16",
+    "song": {
+      "musicAuthor": "Bowling For Soup",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851f9b3ece3271d3a5fa73d3759",
+      "musicTitle": "1985",
+      "radio": "Rádio ROCK",
+      "startTime": "17:14"
+    },
+    "recorded_at": "2025-11-15T17:14:16.626437+01:00",
+    "raw_valid": true,
+    "song_session_id": "b7c5e354-b28a-471d-a5ea-aaad20054c62"
+  },
+  {
+    "last_update": "2025-11-15 16:18:16",
+    "song": {
+      "musicAuthor": "Maneskin",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851dbc892b8194e35ca3524e767",
+      "musicTitle": "Honey (Are U Coming?)",
+      "radio": "Rádio ROCK",
+      "startTime": "17:17"
+    },
+    "recorded_at": "2025-11-15T17:18:17.047209+01:00",
+    "raw_valid": true,
+    "song_session_id": "8e48467a-2328-4cda-9ca6-ff0104e0367f"
+  },
+  {
+    "last_update": "2025-11-15 16:20:16",
+    "song": {
+      "musicAuthor": "Adams Bryan",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048518c996a02e385a1a98fa07db1",
+      "musicTitle": "Roll With The Punches",
+      "radio": "Rádio ROCK",
+      "startTime": "17:20"
+    },
+    "recorded_at": "2025-11-15T17:20:17.302393+01:00",
+    "raw_valid": true,
+    "song_session_id": "f1769340-a52a-42bf-9969-207f7882d8a4"
+  },
+  {
+    "last_update": "2025-11-15 16:24:17",
+    "song": {
+      "musicAuthor": "Bon Jovi",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048511336b31b6a1799f0de5807ac",
+      "musicTitle": "You Give Love A Bad Name",
+      "radio": "Rádio ROCK",
+      "startTime": "17:23"
+    },
+    "recorded_at": "2025-11-15T17:24:17.865356+01:00",
+    "raw_valid": true,
+    "song_session_id": "240cb551-7f10-4ca0-854b-6de5f621784f"
+  },
+  {
+    "last_update": "2025-11-15 16:28:18",
+    "song": {
+      "musicAuthor": "Deep Blue Something",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851038f8fad2f75b637f1c9aef5",
+      "musicTitle": "Breakfast At Tiffany's",
+      "radio": "Rádio ROCK",
+      "startTime": "17:27"
+    },
+    "recorded_at": "2025-11-15T17:28:18.382596+01:00",
+    "raw_valid": true,
+    "song_session_id": "bf021eba-a960-49d5-b417-78bee4b123e7"
+  },
+  {
+    "last_update": "2025-11-15 16:32:17",
+    "song": {
+      "musicAuthor": "Limp Bizkit",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048514a31b146c7cf07705d912efe",
+      "musicTitle": "My Way",
+      "radio": "Rádio ROCK",
+      "startTime": "17:31"
+    },
+    "recorded_at": "2025-11-15T17:32:18.637296+01:00",
+    "raw_valid": true,
+    "song_session_id": "af250fd9-6abb-4194-b1c4-77a90479a491"
+  },
+  {
+    "last_update": "2025-11-15 16:36:18",
+    "song": {
+      "musicAuthor": "System Of A Down",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048512dc63e977bd5101072adcef6",
+      "musicTitle": "Sugar",
+      "radio": "Rádio ROCK",
+      "startTime": "17:36"
+    },
+    "recorded_at": "2025-11-15T17:36:18.889837+01:00",
+    "raw_valid": true,
+    "song_session_id": "37f22494-b55c-4325-a881-a4ca6bcfe9db"
+  },
+  {
+    "last_update": "2025-11-15 16:39:19",
+    "song": {
+      "musicAuthor": "Pearl Jam",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851d400d27cba05bb0545533864",
+      "musicTitle": "Jeremy",
+      "radio": "Rádio ROCK",
+      "startTime": "17:38"
+    },
+    "recorded_at": "2025-11-15T17:39:20.099217+01:00",
+    "raw_valid": true,
+    "song_session_id": "729f3785-a80c-4d24-85e2-17231f119133"
+  },
+  {
+    "last_update": "2025-11-15 16:44:22",
+    "song": {
+      "musicAuthor": "The Rolling Stones",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485108fc42e575043a753f60d675",
+      "musicTitle": "Start Me Up",
+      "radio": "Rádio ROCK",
+      "startTime": "17:43"
+    },
+    "recorded_at": "2025-11-15T17:44:23.402253+01:00",
+    "raw_valid": true,
+    "song_session_id": "b5f3fb7b-99d9-48f5-a647-2610207e497e"
+  },
+  {
+    "last_update": "2025-11-15 16:47:24",
+    "song": {
+      "musicAuthor": "Metallica",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851d691ec833eb067d9a9e4ded7",
+      "musicTitle": "Until It Sleeps",
+      "radio": "Rádio ROCK",
+      "startTime": "17:47"
+    },
+    "recorded_at": "2025-11-15T17:47:24.863418+01:00",
+    "raw_valid": true,
+    "song_session_id": "4263724c-bb40-4bc3-bf0e-1f9bd3456a54"
+  },
+  {
+    "last_update": "2025-11-15 16:52:26",
+    "song": {
+      "musicAuthor": "Thirty Seconds To Mars",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485164219d797874eecfd69f2458",
+      "musicTitle": "Closer To The Edge",
+      "radio": "Rádio ROCK",
+      "startTime": "17:51"
+    },
+    "recorded_at": "2025-11-15T17:52:26.385238+01:00",
+    "raw_valid": true,
+    "song_session_id": "67d285bc-3aaf-4d33-bd64-a455409f4f2d"
+  },
+  {
+    "last_update": "2025-11-15 16:56:28",
+    "song": {
+      "musicAuthor": "Tublatanka",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851544f90aba7e4a572d633094a",
+      "musicTitle": "Skúsime To Cez Vesmír",
+      "radio": "Rádio ROCK",
+      "startTime": "17:56"
+    },
+    "recorded_at": "2025-11-15T17:56:28.951013+01:00",
+    "raw_valid": true,
+    "song_session_id": "dad2f85f-59cf-418e-86be-a5513c9f6fa3"
+  },
+  {
+    "last_update": "2025-11-15 17:01:28",
+    "song": {
+      "musicAuthor": "Imagine Dragons",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851407bd04707c463bbb3410737",
+      "musicTitle": "It's Time",
+      "radio": "Rádio ROCK",
+      "startTime": "18:01"
+    },
+    "recorded_at": "2025-11-15T18:01:29.285706+01:00",
+    "raw_valid": true,
+    "song_session_id": "b29b134e-0ddd-4fef-a42c-646de18b9da7"
+  }
+]

@@ -1,0 +1,370 @@
+[
+  {
+    "song": "Good News",
+    "artists": [
+      "Shaboozey"
+    ],
+    "isrc": "USUYG1580113",
+    "start_time": "2025-11-08 06:05:30",
+    "radio": "expres",
+    "recorded_at": "2025-11-08T06:05:51.465308+01:00",
+    "raw_valid": true,
+    "song_session_id": "07b5d656-05a3-4f66-9cab-cbef9ecd697a"
+  },
+  {
+    "song": "Staci Si Priat",
+    "artists": [
+      "Zuzana Smatanova"
+    ],
+    "isrc": "CZA210900978",
+    "start_time": "2025-11-08 06:08:53",
+    "radio": "expres",
+    "recorded_at": "2025-11-08T06:09:23.457273+01:00",
+    "raw_valid": true,
+    "song_session_id": "7294788c-6e9e-4189-be48-58a82542518b"
+  },
+  {
+    "song": "Glide",
+    "artists": [
+      "Neiked",
+      "Portugal The Man"
+    ],
+    "isrc": "DEE862500421",
+    "start_time": "2025-11-08 06:12:09",
+    "radio": "expres",
+    "recorded_at": "2025-11-08T06:12:47.220389+01:00",
+    "raw_valid": true,
+    "song_session_id": "db8b055a-7588-413f-9e7b-0d010789f671"
+  },
+  {
+    "song": "Miliony Ciest",
+    "artists": [
+      "Gladiator"
+    ],
+    "isrc": "SKI021701402",
+    "start_time": "2025-11-08 06:15:05",
+    "radio": "expres",
+    "recorded_at": "2025-11-08T06:15:24.959198+01:00",
+    "raw_valid": true,
+    "song_session_id": "8588ac95-ce4b-454b-b9f0-f7fe4ec799dc"
+  },
+  {
+    "song": "Hypnotized",
+    "artists": [
+      "Purple Disco Machine",
+      "Sophie And The Giants"
+    ],
+    "isrc": "AUDCB1701555",
+    "start_time": "2025-11-08 06:17:53",
+    "radio": "expres",
+    "recorded_at": "2025-11-08T06:18:23.242562+01:00",
+    "raw_valid": true,
+    "song_session_id": "23d2261b-5eb9-44f8-b22f-5cc37d12b77a"
+  },
+  {
+    "song": "Navzdy",
+    "artists": [
+      "Kristina"
+    ],
+    "isrc": "SKG061400301",
+    "start_time": "2025-11-08 06:21:16",
+    "radio": "expres",
+    "recorded_at": "2025-11-08T06:21:46.644254+01:00",
+    "raw_valid": true,
+    "song_session_id": "24963340-4860-4e32-a429-48d4b0b06cad"
+  },
+  {
+    "song": "Head Above Water",
+    "artists": [
+      "Twocolors",
+      "Safri Duo",
+      "Chris De Sarandy"
+    ],
+    "isrc": "DEUM72503698",
+    "start_time": "2025-11-08 06:25:10",
+    "radio": "expres",
+    "recorded_at": "2025-11-08T06:25:25.090766+01:00",
+    "raw_valid": true,
+    "song_session_id": "cb17cc25-a452-4c02-87ef-6e186ceaed0e"
+  },
+  {
+    "song": "Lovestory",
+    "artists": [
+      "Jana Kirschner",
+      "Milan Ondrik"
+    ],
+    "isrc": "CZA232200948",
+    "start_time": "2025-11-08 06:28:03",
+    "radio": "expres",
+    "recorded_at": "2025-11-08T06:28:28.091376+01:00",
+    "raw_valid": true,
+    "song_session_id": "76c65990-3744-4797-b23a-bfe0126b3614"
+  },
+  {
+    "song": "Let Me Die",
+    "artists": [
+      "Mark Dann",
+      "Giovanni Ricci"
+    ],
+    "isrc": "US38Y2520370",
+    "start_time": "2025-11-08 06:32:39",
+    "radio": "expres",
+    "recorded_at": "2025-11-08T06:33:02.252442+01:00",
+    "raw_valid": true,
+    "song_session_id": "2d1971cf-47bf-4d1e-8a05-6b132435a67a"
+  },
+  {
+    "song": "Osmy Svetadiel",
+    "artists": [
+      "Elan"
+    ],
+    "isrc": "TCAEF1942463",
+    "start_time": "2025-11-08 06:35:05",
+    "radio": "expres",
+    "recorded_at": "2025-11-08T06:35:39.414547+01:00",
+    "raw_valid": true,
+    "song_session_id": "8ba0803f-424e-4406-a5bc-499c6f3fe601"
+  },
+  {
+    "song": "Complicated",
+    "artists": [
+      "Avril Lavigne"
+    ],
+    "isrc": "USAR10200223",
+    "start_time": "2025-11-08 06:39:08",
+    "radio": "expres",
+    "recorded_at": "2025-11-08T06:39:47.484610+01:00",
+    "raw_valid": true,
+    "song_session_id": "b79b2813-69b1-42da-a98a-b108913f6103"
+  },
+  {
+    "song": "Co Boli To Preboli",
+    "artists": [
+      "Miro Zbirka",
+      "Martha"
+    ],
+    "isrc": "SKA010110114",
+    "start_time": "2025-11-08 06:43:21",
+    "radio": "expres",
+    "recorded_at": "2025-11-08T06:43:44.345599+01:00",
+    "raw_valid": true,
+    "song_session_id": "6c9bc05f-469f-4e04-800f-758061f51d60"
+  },
+  {
+    "song": "The Fate Of Ophelia",
+    "artists": [
+      "Taylor Swift"
+    ],
+    "isrc": "USUG12506436",
+    "start_time": "2025-11-08 06:46:28",
+    "radio": "expres",
+    "recorded_at": "2025-11-08T06:47:02.745346+01:00",
+    "raw_valid": true,
+    "song_session_id": "8aa8c900-d9a1-4513-898f-2e008a99956c"
+  },
+  {
+    "song": "Ma Cherie",
+    "artists": [
+      "Dj Antoine"
+    ],
+    "isrc": "CH4881000515",
+    "start_time": "2025-11-08 06:50:29",
+    "radio": "expres",
+    "recorded_at": "2025-11-08T06:51:06.096666+01:00",
+    "raw_valid": true,
+    "song_session_id": "bf7a8102-ed44-46b8-8261-59e7bb18c74e"
+  },
+  {
+    "song": "Bol Raz Jeden Ziak",
+    "artists": [
+      "Robo Grigorov"
+    ],
+    "isrc": "TCAEJ1930274",
+    "start_time": "2025-11-08 06:53:42",
+    "radio": "expres",
+    "recorded_at": "2025-11-08T06:54:02.350572+01:00",
+    "raw_valid": true,
+    "song_session_id": "ba96a64b-5a4e-45f9-9939-6bf209af6f05"
+  },
+  {
+    "song": "O.k.o",
+    "artists": [
+      "Michael Patrick Kelly"
+    ],
+    "isrc": "DEE862201502",
+    "start_time": "2025-11-08 06:56:43",
+    "radio": "expres",
+    "recorded_at": "2025-11-08T06:57:05.934227+01:00",
+    "raw_valid": true,
+    "song_session_id": "a2e15b76-2f1f-4710-b8f6-722c38c1a614"
+  },
+  {
+    "song": "Chlap Z Kriza",
+    "artists": [
+      "Szidi Tobias"
+    ],
+    "isrc": "FRX201717075",
+    "start_time": "2025-11-08 07:05:57",
+    "radio": "expres",
+    "recorded_at": "2025-11-08T07:06:26.051856+01:00",
+    "raw_valid": true,
+    "song_session_id": "9fd225cb-4d1e-4a6f-a280-b72e796a8002"
+  },
+  {
+    "song": "Nelutujem",
+    "artists": [
+      "Adam Durica"
+    ],
+    "isrc": "SKA011400033",
+    "start_time": "2025-11-08 07:09:57",
+    "radio": "expres",
+    "recorded_at": "2025-11-08T07:10:36.085683+01:00",
+    "raw_valid": true,
+    "song_session_id": "0081bd7b-2726-41fe-a4c4-0b983e3829a6"
+  },
+  {
+    "song": "Dvaja",
+    "artists": [
+      "Marika Gombitova"
+    ],
+    "isrc": "SKA129021407",
+    "start_time": "2025-11-08 07:13:27",
+    "radio": "expres",
+    "recorded_at": "2025-11-08T07:13:49.489578+01:00",
+    "raw_valid": true,
+    "song_session_id": "9d062235-b3d1-4477-a75e-adb51542c04e"
+  },
+  {
+    "song": "Domov",
+    "artists": [
+      "Alan Murin"
+    ],
+    "isrc": "QZWDW2424416",
+    "start_time": "2025-11-08 07:16:49",
+    "radio": "expres",
+    "recorded_at": "2025-11-08T07:17:08.648368+01:00",
+    "raw_valid": true,
+    "song_session_id": "20d7f203-d2cf-4ce1-b720-79843da526a5"
+  },
+  {
+    "song": "Dvojcata",
+    "artists": [
+      "Vaso Patejdl"
+    ],
+    "isrc": "SKA128673803",
+    "start_time": "2025-11-08 07:20:57",
+    "radio": "expres",
+    "recorded_at": "2025-11-08T07:21:14.563316+01:00",
+    "raw_valid": true,
+    "song_session_id": "f6d02fcb-4c96-48c7-95b6-83b5bd2f1d13"
+  },
+  {
+    "song": "Co Ma Prist Pride",
+    "artists": [
+      "Zuzana Smatanova",
+      "Peter Cmorik"
+    ],
+    "isrc": "CZA210900977",
+    "start_time": "2025-11-08 07:25:21",
+    "radio": "expres",
+    "recorded_at": "2025-11-08T07:25:28.453495+01:00",
+    "raw_valid": true,
+    "song_session_id": "7615d7bb-6726-42bf-837a-5170c214a395"
+  },
+  {
+    "song": "Lod Do Neznama",
+    "artists": [
+      "Uhercik / Durinda / Griglak / Horvath"
+    ],
+    "isrc": null,
+    "start_time": "2025-11-08 07:31:16",
+    "radio": "expres",
+    "recorded_at": "2025-11-08T07:31:33.871656+01:00",
+    "raw_valid": true,
+    "song_session_id": "f51395c0-df14-4e1d-b0e3-9d50d399c807"
+  },
+  {
+    "song": "Na Dosah",
+    "artists": [
+      "Maria Cirova"
+    ],
+    "isrc": "SKB001109101",
+    "start_time": "2025-11-08 07:35:12",
+    "radio": "expres",
+    "recorded_at": "2025-11-08T07:35:42.518237+01:00",
+    "raw_valid": true,
+    "song_session_id": "a7abe6b9-95b7-451c-86d5-57bde6a00638"
+  },
+  {
+    "song": "Fonky Nalada",
+    "artists": [
+      "Made 2 Mate"
+    ],
+    "isrc": "CZA239800877",
+    "start_time": "2025-11-08 07:38:57",
+    "radio": "expres",
+    "recorded_at": "2025-11-08T07:39:15.940779+01:00",
+    "raw_valid": true,
+    "song_session_id": "82d9d27e-e0fe-4209-a420-f704369acedf"
+  },
+  {
+    "song": "Otazka Za Milion",
+    "artists": [
+      "Ine Kafe"
+    ],
+    "isrc": "SKA722400001",
+    "start_time": "2025-11-08 07:43:09",
+    "radio": "expres",
+    "recorded_at": "2025-11-08T07:43:34.689330+01:00",
+    "raw_valid": true,
+    "song_session_id": "0b586468-bffd-4785-b653-6ee7ac40ef10"
+  },
+  {
+    "song": "Ak Nahodou",
+    "artists": [
+      "Darina Rolincova"
+    ],
+    "isrc": "CZA168700010",
+    "start_time": "2025-11-08 07:46:56",
+    "radio": "expres",
+    "recorded_at": "2025-11-08T07:47:26.279717+01:00",
+    "raw_valid": true,
+    "song_session_id": "9122d2cf-b737-4011-9612-871e3d78e96c"
+  },
+  {
+    "song": "Srdce Jako Knize Rohan",
+    "artists": [
+      "Richard Muller"
+    ],
+    "isrc": "CZA110003022",
+    "start_time": "2025-11-08 07:49:39",
+    "radio": "expres",
+    "recorded_at": "2025-11-08T07:50:01.995053+01:00",
+    "raw_valid": true,
+    "song_session_id": "322c40de-bfd1-43ce-a5c1-7dd197fc0e2d"
+  },
+  {
+    "song": "Prec Prec",
+    "artists": [
+      "Pavol Habera"
+    ],
+    "isrc": "FRX451573110",
+    "start_time": "2025-11-08 07:53:45",
+    "radio": "expres",
+    "recorded_at": "2025-11-08T07:54:12.656693+01:00",
+    "raw_valid": true,
+    "song_session_id": "fdf628e3-e168-49fc-8b26-83df87f63881"
+  },
+  {
+    "song": "Naveky",
+    "artists": [
+      "Katarina Knechtova"
+    ],
+    "isrc": "QZMER2590765",
+    "start_time": "2025-11-08 07:57:14",
+    "radio": "expres",
+    "recorded_at": "2025-11-08T07:57:41.225435+01:00",
+    "raw_valid": true,
+    "song_session_id": "44497eac-9420-4a50-9caf-b77f1a72366d"
+  }
+]

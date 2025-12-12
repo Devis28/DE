@@ -1,0 +1,405 @@
+[
+  {
+    "last_update": "2025-12-10 17:58:31",
+    "song": {
+      "musicAuthor": "Iron Maiden",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048515c29a88ba5341ca428f0c322",
+      "musicTitle": "Run To The Hills",
+      "radio": "Rádio ROCK",
+      "startTime": "18:57"
+    },
+    "recorded_at": "2025-12-10T18:58:31.033444+01:00",
+    "raw_valid": true,
+    "song_session_id": "08b2bf4a-0bd6-4a84-b3c5-63a08958a0e1"
+  },
+  {
+    "last_update": "2025-12-10 18:03:31",
+    "song": {
+      "musicAuthor": "Bon Jovi",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485159bfe048568a969c6f0bd08c",
+      "musicTitle": "Keep The Faith",
+      "radio": "Rádio ROCK",
+      "startTime": "19:02"
+    },
+    "recorded_at": "2025-12-10T19:03:31.912069+01:00",
+    "raw_valid": true,
+    "song_session_id": "df52b63e-48af-4a0d-bd15-765f70781b42"
+  },
+  {
+    "last_update": "2025-12-10 18:08:31",
+    "song": {
+      "musicAuthor": "Iné Kafe",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485103c27ca0bab589f21321ec20",
+      "musicTitle": "Špinavé Objatie",
+      "radio": "Rádio ROCK",
+      "startTime": "19:07"
+    },
+    "recorded_at": "2025-12-10T19:08:32.743584+01:00",
+    "raw_valid": true,
+    "song_session_id": "3a0f6490-f07f-41ec-ab25-ca6cc2944ffb"
+  },
+  {
+    "last_update": "2025-12-10 18:13:32",
+    "song": {
+      "musicAuthor": "Black Sabbath",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851d198e0a1a43c010afb480b3b",
+      "musicTitle": "Changes",
+      "radio": "Rádio ROCK",
+      "startTime": "19:12"
+    },
+    "recorded_at": "2025-12-10T19:13:33.276835+01:00",
+    "raw_valid": true,
+    "song_session_id": "629c4d39-e564-4aad-abca-0582932f1a8f"
+  },
+  {
+    "last_update": "2025-12-10 18:18:35",
+    "song": {
+      "musicAuthor": "Slobodná Európa",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851bb1dd5e38b4d5bbbf8912209",
+      "musicTitle": "Pes",
+      "radio": "Rádio ROCK",
+      "startTime": "19:17"
+    },
+    "recorded_at": "2025-12-10T19:18:35.698685+01:00",
+    "raw_valid": true,
+    "song_session_id": "16c7d953-055b-4351-b91d-02376bd10534"
+  },
+  {
+    "last_update": "2025-12-10 18:21:35",
+    "song": {
+      "musicAuthor": "Aerosmith",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851d9172c4bd345d358497e64d6",
+      "musicTitle": "I Don't Want To Miss A Thing",
+      "radio": "Rádio ROCK",
+      "startTime": "19:20"
+    },
+    "recorded_at": "2025-12-10T19:21:35.970896+01:00",
+    "raw_valid": true,
+    "song_session_id": "2c504269-087d-400d-ab80-45bcf43af03d"
+  },
+  {
+    "last_update": "2025-12-10 18:25:35",
+    "song": {
+      "musicAuthor": "Evanescence",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485125f49ab23f0ec6332efef432",
+      "musicTitle": "Going Under",
+      "radio": "Rádio ROCK",
+      "startTime": "19:24"
+    },
+    "recorded_at": "2025-12-10T19:25:36.495171+01:00",
+    "raw_valid": true,
+    "song_session_id": "ee2d3f5c-f049-4cf0-aa46-8b57b0d9a4c7"
+  },
+  {
+    "last_update": "2025-12-10 18:29:08",
+    "song": {
+      "musicAuthor": "Ac Dc",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048510b51f8d91f3a21e8426361ae",
+      "musicTitle": "Back In Black",
+      "radio": "Rádio ROCK",
+      "startTime": "19:28"
+    },
+    "recorded_at": "2025-12-10T19:29:08.982330+01:00",
+    "raw_valid": true,
+    "song_session_id": "f31fa280-c869-40be-b548-ab9ce161b7fe"
+  },
+  {
+    "last_update": "2025-12-10 18:33:09",
+    "song": {
+      "musicAuthor": "The Rasmus",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048519ee03a565b0bbf6af8b9733c",
+      "musicTitle": "In The Shadows",
+      "radio": "Rádio ROCK",
+      "startTime": "19:32"
+    },
+    "recorded_at": "2025-12-10T19:33:10.571087+01:00",
+    "raw_valid": true,
+    "song_session_id": "e4e57498-02f9-404c-9f64-fc7b7a87e8ab"
+  },
+  {
+    "last_update": "2025-12-10 18:37:10",
+    "song": {
+      "musicAuthor": "Metallica",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851d691ec833eb067d9a9e4ded7",
+      "musicTitle": "Mama Said",
+      "radio": "Rádio ROCK",
+      "startTime": "19:36"
+    },
+    "recorded_at": "2025-12-10T19:37:11.317686+01:00",
+    "raw_valid": true,
+    "song_session_id": "e59c604a-ea7c-438b-8a9a-6f721d0ecc2a"
+  },
+  {
+    "last_update": "2025-12-10 18:42:13",
+    "song": {
+      "musicAuthor": "Nirvana",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851fbc71c99f9c1296c56dd51b6",
+      "musicTitle": "Polly",
+      "radio": "Rádio ROCK",
+      "startTime": "19:41"
+    },
+    "recorded_at": "2025-12-10T19:42:13.513946+01:00",
+    "raw_valid": true,
+    "song_session_id": "8872f0d9-56ed-4721-a645-5d6f125228f1"
+  },
+  {
+    "last_update": "2025-12-10 18:45:13",
+    "song": {
+      "musicAuthor": "Bryan Adams",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851cf1fee2a55e98e22bf358512",
+      "musicTitle": "Summer Of '69",
+      "radio": "Rádio ROCK",
+      "startTime": "19:44"
+    },
+    "recorded_at": "2025-12-10T19:45:13.795618+01:00",
+    "raw_valid": true,
+    "song_session_id": "792c7704-3272-432d-8b08-36e6b4511470"
+  },
+  {
+    "last_update": "2025-12-10 18:48:13",
+    "song": {
+      "musicAuthor": "Blink 182",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851dd062fffb1397a727f3f1fb6",
+      "musicTitle": "One More Time",
+      "radio": "Rádio ROCK",
+      "startTime": "19:48"
+    },
+    "recorded_at": "2025-12-10T19:48:13.979646+01:00",
+    "raw_valid": true,
+    "song_session_id": "4d94f532-0b43-4a82-ab69-50382fb9b906"
+  },
+  {
+    "last_update": "2025-12-10 18:52:14",
+    "song": {
+      "musicAuthor": "Dereš",
+      "musicCover": "https://static.radia.sk/covers/32/54aafc3b-0156-48db-8d55-8432189887ac.jpg",
+      "musicTitle": "Na Panské",
+      "radio": "Rádio ROCK",
+      "startTime": "19:51"
+    },
+    "recorded_at": "2025-12-10T19:52:14.706892+01:00",
+    "raw_valid": true,
+    "song_session_id": "cf7cfee4-5eaa-4c06-b11c-b3cbe192998e"
+  },
+  {
+    "last_update": "2025-12-10 18:55:14",
+    "song": {
+      "musicAuthor": "Crazy Town",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851be3d60f650c3b9dbad061f7f",
+      "musicTitle": "Butterfly",
+      "radio": "Rádio ROCK",
+      "startTime": "19:55"
+    },
+    "recorded_at": "2025-12-10T19:55:15.137176+01:00",
+    "raw_valid": true,
+    "song_session_id": "2035d75d-f6fe-4a5c-8ae0-cc9fae07a04b"
+  },
+  {
+    "last_update": "2025-12-10 18:59:15",
+    "song": {
+      "musicAuthor": "Tublatanka",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851b54405791cd53dbb0726802e",
+      "musicTitle": "Ja Sa Vrátim",
+      "radio": "Rádio ROCK",
+      "startTime": "19:58"
+    },
+    "recorded_at": "2025-12-10T19:59:15.405288+01:00",
+    "raw_valid": true,
+    "song_session_id": "6d358846-088d-438c-9f14-bf5d17a8b0de"
+  },
+  {
+    "last_update": "2025-12-10 19:03:14",
+    "song": {
+      "musicAuthor": "Survivor",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851f4a2ccbe20d6d52f16816812",
+      "musicTitle": "Eye Of The Tiger",
+      "radio": "Rádio ROCK",
+      "startTime": "20:02"
+    },
+    "recorded_at": "2025-12-10T20:03:15.644896+01:00",
+    "raw_valid": true,
+    "song_session_id": "00236f60-8850-4a91-9cd0-d6acee050683"
+  },
+  {
+    "last_update": "2025-12-10 19:07:15",
+    "song": {
+      "musicAuthor": "Plus Minus",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851383e7409ec12e5e9802be3e6",
+      "musicTitle": "Srdce A Pot",
+      "radio": "Rádio ROCK",
+      "startTime": "20:06"
+    },
+    "recorded_at": "2025-12-10T20:07:15.912069+01:00",
+    "raw_valid": true,
+    "song_session_id": "ddb52043-fe90-4c87-9d98-4621b6e85046"
+  },
+  {
+    "last_update": "2025-12-10 19:10:16",
+    "song": {
+      "musicAuthor": "Iné Kafe",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851a36a083c5dec894348b99b3c",
+      "musicTitle": "Vymyslená",
+      "radio": "Rádio ROCK",
+      "startTime": "20:10"
+    },
+    "recorded_at": "2025-12-10T20:10:17.330226+01:00",
+    "raw_valid": true,
+    "song_session_id": "32f28240-1676-414f-a412-7f45563fb428"
+  },
+  {
+    "last_update": "2025-12-10 19:13:17",
+    "song": {
+      "musicAuthor": "Blind Melon",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048517ed1df1690df31d094d7c2bc",
+      "musicTitle": "No Rain",
+      "radio": "Rádio ROCK",
+      "startTime": "20:12"
+    },
+    "recorded_at": "2025-12-10T20:13:17.786756+01:00",
+    "raw_valid": true,
+    "song_session_id": "2659f0be-fb71-4dae-8525-56d559a9f42c"
+  },
+  {
+    "last_update": "2025-12-10 19:17:17",
+    "song": {
+      "musicAuthor": "Zoci Voci & Igor Belaj",
+      "musicCover": "https://static.radia.sk/covers/32/ca212347-42a9-46b6-9476-774463df021f.jpg",
+      "musicTitle": "O Mna Sa Nemusis Bat",
+      "radio": "Rádio ROCK",
+      "startTime": "20:16"
+    },
+    "recorded_at": "2025-12-10T20:17:18.073291+01:00",
+    "raw_valid": true,
+    "song_session_id": "59e1c6c3-1d87-4373-9b16-a4be9fc0a295"
+  },
+  {
+    "last_update": "2025-12-10 19:20:18",
+    "song": {
+      "musicAuthor": "Faith No More",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485136842671366bfeb3d7c5f19e",
+      "musicTitle": "Easy",
+      "radio": "Rádio ROCK",
+      "startTime": "20:20"
+    },
+    "recorded_at": "2025-12-10T20:20:18.568671+01:00",
+    "raw_valid": true,
+    "song_session_id": "f5a789d3-752f-4108-8534-9cd1f6905e26"
+  },
+  {
+    "last_update": "2025-12-10 19:23:19",
+    "song": {
+      "musicAuthor": "Kings Of Leon",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048512519d01c0cca06f134eeadd8",
+      "musicTitle": "Sex On The Fire",
+      "radio": "Rádio ROCK",
+      "startTime": "20:23"
+    },
+    "recorded_at": "2025-12-10T20:23:20.020992+01:00",
+    "raw_valid": true,
+    "song_session_id": "ca434b83-6dc9-4368-9ff7-8649dc5ea965"
+  },
+  {
+    "last_update": "2025-12-10 19:27:20",
+    "song": {
+      "musicAuthor": "Hex",
+      "musicCover": "https://static.radia.sk/covers/32/7e0ab803-009c-4005-b833-612a2ee53cfd.jpg",
+      "musicTitle": "Letná Láska",
+      "radio": "Rádio ROCK",
+      "startTime": "20:26"
+    },
+    "recorded_at": "2025-12-10T20:27:20.275242+01:00",
+    "raw_valid": true,
+    "song_session_id": "644dac48-69d3-451f-9c94-033c6df6714c"
+  },
+  {
+    "last_update": "2025-12-10 19:30:19",
+    "song": {
+      "musicAuthor": "Gladiátor",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851b5e43a9994d7a9bcf2c73efd",
+      "musicTitle": "Raz Tam V Uličkách",
+      "radio": "Rádio ROCK",
+      "startTime": "20:29"
+    },
+    "recorded_at": "2025-12-10T20:30:20.475519+01:00",
+    "raw_valid": true,
+    "song_session_id": "019252d0-0b53-4396-9ca1-3b1d5982160f"
+  },
+  {
+    "last_update": "2025-12-10 19:34:20",
+    "song": {
+      "musicAuthor": "The Rolling Stones",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485108fc42e575043a753f60d675",
+      "musicTitle": "Start Me Up",
+      "radio": "Rádio ROCK",
+      "startTime": "20:33"
+    },
+    "recorded_at": "2025-12-10T20:34:20.720956+01:00",
+    "raw_valid": true,
+    "song_session_id": "0ce205e3-3e01-408b-8ef0-55e7d5ffd064"
+  },
+  {
+    "last_update": "2025-12-10 19:37:19",
+    "song": {
+      "musicAuthor": "Horkyze Slize",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485128e73897923333fef68107fc",
+      "musicTitle": "Ty Vies Ze Sa Chovam Tak Jak Sa Chovam",
+      "radio": "Rádio ROCK",
+      "startTime": "20:36"
+    },
+    "recorded_at": "2025-12-10T20:37:20.903422+01:00",
+    "raw_valid": true,
+    "song_session_id": "4241a63e-daad-463d-841e-e63502416338"
+  },
+  {
+    "last_update": "2025-12-10 19:41:21",
+    "song": {
+      "musicAuthor": "Le Payaco",
+      "musicCover": "https://static.radia.sk/covers/32/f26e2264-e19f-4fc4-91d2-1af864449ee2.jpg",
+      "musicTitle": "Zbraň",
+      "radio": "Rádio ROCK",
+      "startTime": "20:40"
+    },
+    "recorded_at": "2025-12-10T20:41:21.965028+01:00",
+    "raw_valid": true,
+    "song_session_id": "ba842679-862d-4655-8855-f255ce14af8d"
+  },
+  {
+    "last_update": "2025-12-10 19:47:22",
+    "song": {
+      "musicAuthor": "Oasis",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485185e5dcc05cc216a10f141480",
+      "musicTitle": "Don't Look Back In Anger",
+      "radio": "Rádio ROCK",
+      "startTime": "20:46"
+    },
+    "recorded_at": "2025-12-10T20:47:22.573875+01:00",
+    "raw_valid": true,
+    "song_session_id": "457508e1-53b6-4e44-940e-d6a9bde84c4c"
+  },
+  {
+    "last_update": "2025-12-10 19:51:24",
+    "song": {
+      "musicAuthor": "Ine Kafe",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485191e61a01eabf26f66f67e261",
+      "musicTitle": "Vitaj!",
+      "radio": "Rádio ROCK",
+      "startTime": "20:51"
+    },
+    "recorded_at": "2025-12-10T20:51:24.468246+01:00",
+    "raw_valid": true,
+    "song_session_id": "7c534156-bdd4-4bf3-97d3-84b9c92cd3b9"
+  },
+  {
+    "last_update": "2025-12-10 19:55:24",
+    "song": {
+      "musicAuthor": "Toto",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048514a052b99c042dc15f933145b",
+      "musicTitle": "Rosanna",
+      "radio": "Rádio ROCK",
+      "startTime": "20:54"
+    },
+    "recorded_at": "2025-12-10T20:55:24.702346+01:00",
+    "raw_valid": true,
+    "song_session_id": "ee389a71-93ab-49af-8288-847323b4bf82"
+  }
+]

@@ -1,0 +1,54 @@
+[
+  {
+    "last_update": "2025-11-04 21:04:10",
+    "song": {
+      "musicAuthor": "R.E.M.",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851a7c7f94cfccd5ab6de233916",
+      "musicTitle": "It`s The End Of The World",
+      "radio": "Rádio ROCK",
+      "startTime": "22:00"
+    },
+    "recorded_at": "2025-11-04T22:04:11.073396+01:00",
+    "raw_valid": true,
+    "song_session_id": "8bff67d4-41bd-423c-a5ff-9515a4c72ec9"
+  },
+  {
+    "last_update": "2025-11-04 21:05:10",
+    "song": {
+      "musicAuthor": "Slobodna Europa",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851f183160ecfd94bfb1d3bbe9f",
+      "musicTitle": "Rock'n'roll",
+      "radio": "Rádio ROCK",
+      "startTime": "22:05"
+    },
+    "recorded_at": "2025-11-04T22:05:11.153431+01:00",
+    "raw_valid": true,
+    "song_session_id": "4efdd41d-34f5-4c3d-bca3-f76a07e754e4"
+  },
+  {
+    "last_update": "2025-11-04 21:08:11",
+    "song": {
+      "musicAuthor": "Plus Mínus",
+      "musicCover": "/layout/covers/default.png",
+      "musicTitle": "Nádej",
+      "radio": "Rádio ROCK",
+      "startTime": "22:07"
+    },
+    "recorded_at": "2025-11-04T22:08:11.423534+01:00",
+    "raw_valid": true,
+    "song_session_id": "ff5f11ee-5db5-46b5-a1f8-cb1057667ac7"
+  },
+  {
+    "last_update": "2025-11-04 21:12:11",
+    "song": {
+      "musicAuthor": "Imagine Dragons",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485125e1a02097987b3480c7a8c5",
+      "musicTitle": "Follow You",
+      "radio": "Rádio ROCK",
+      "startTime": "22:11"
+    },
+    "recorded_at": "2025-11-04T22:12:11.798677+01:00",
+    "raw_valid": true,
+    "song_session_id": "035ad5e6-dd89-4a75-9fa7-d8cdc15dc39e"
+  }
+]

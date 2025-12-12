@@ -1,0 +1,54 @@
+[
+  {
+    "last_update": "2025-10-29 22:26:20",
+    "song": {
+      "musicAuthor": "Oasis",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485185e5dcc05cc216a10f141480",
+      "musicTitle": "Don't Look Back In Anger",
+      "radio": "Rádio ROCK",
+      "startTime": "23:22"
+    },
+    "recorded_at": "29.10.2025 23:26:20",
+    "raw_valid": true,
+    "song_session_id": "c6a3724e-17ab-4698-b0a7-9435d9fa9933"
+  },
+  {
+    "last_update": "2025-10-29 22:28:21",
+    "song": {
+      "musicAuthor": "Bez Ladu A Skladu",
+      "musicCover": "https://static.radia.sk/covers/32/e89c92d5-5e22-4249-9eed-1abc8177a0cb.jpg",
+      "musicTitle": "Parné Valce",
+      "radio": "Rádio ROCK",
+      "startTime": "23:27"
+    },
+    "recorded_at": "29.10.2025 23:28:22",
+    "raw_valid": true,
+    "song_session_id": "4303ce39-82aa-483e-b5da-aec2c290d3c4"
+  },
+  {
+    "last_update": "2025-10-29 22:30:23",
+    "song": {
+      "musicAuthor": "Gladiator",
+      "musicCover": "https://static.radia.sk/covers/32/637e2fb2-bf40-4366-b0dc-2df4a2d31541.jpg",
+      "musicTitle": "Third Eye",
+      "radio": "Rádio ROCK",
+      "startTime": "23:29"
+    },
+    "recorded_at": "29.10.2025 23:30:24",
+    "raw_valid": true,
+    "song_session_id": "4e53733e-cd6f-4864-8922-f0c984808907"
+  },
+  {
+    "last_update": "2025-10-29 22:35:06",
+    "song": {
+      "musicAuthor": "Blink 182",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048510538b48c180256e0bdd8363f",
+      "musicTitle": "Feeling This",
+      "radio": "Rádio ROCK",
+      "startTime": "23:34"
+    },
+    "recorded_at": "29.10.2025 23:35:07",
+    "raw_valid": true,
+    "song_session_id": "87ea2fea-1441-4571-af56-f9fb0108aad8"
+  }
+]

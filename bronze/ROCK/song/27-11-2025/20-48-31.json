@@ -1,0 +1,392 @@
+[
+  {
+    "last_update": "2025-11-27 18:50:30",
+    "song": {
+      "musicAuthor": "Imagine Dragons",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851407bd04707c463bbb3410737",
+      "musicTitle": "It's Time",
+      "radio": "Rádio ROCK",
+      "startTime": "19:50"
+    },
+    "recorded_at": "2025-11-27T19:50:30.151802+01:00",
+    "raw_valid": true,
+    "song_session_id": "6b49cd69-8348-441d-b8bf-2cb187cfc9c1"
+  },
+  {
+    "last_update": "2025-11-27 18:54:32",
+    "song": {
+      "musicAuthor": "Metallica",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851cf84c5b276431b473e924802",
+      "musicTitle": "Enter Sandman",
+      "radio": "Rádio ROCK",
+      "startTime": "19:53"
+    },
+    "recorded_at": "2025-11-27T19:54:32.266354+01:00",
+    "raw_valid": true,
+    "song_session_id": "fce30204-0193-4e8b-b344-edd8bb6eb96b"
+  },
+  {
+    "last_update": "2025-11-27 18:59:33",
+    "song": {
+      "musicAuthor": "Faith No More",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851e081ef6de656ee714788ea0d",
+      "musicTitle": "Epic",
+      "radio": "Rádio ROCK",
+      "startTime": "19:59"
+    },
+    "recorded_at": "2025-11-27T19:59:33.530492+01:00",
+    "raw_valid": true,
+    "song_session_id": "1dc0e054-8af3-427c-938c-9f272bd739c5"
+  },
+  {
+    "last_update": "2025-11-27 19:04:34",
+    "song": {
+      "musicAuthor": "Queen",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851e319baafd16e84f0408af2a0",
+      "musicTitle": "Bohemian Rhapsody",
+      "radio": "Rádio ROCK",
+      "startTime": "20:04"
+    },
+    "recorded_at": "2025-11-27T20:04:34.950988+01:00",
+    "raw_valid": true,
+    "song_session_id": "dcac744a-9733-4199-8abf-d27ef3037b50"
+  },
+  {
+    "last_update": "2025-11-27 19:10:36",
+    "song": {
+      "musicAuthor": "Lepayaco",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485141a89ef5d65d2ee8e4e8d044",
+      "musicTitle": "Horska Chata",
+      "radio": "Rádio ROCK",
+      "startTime": "20:10"
+    },
+    "recorded_at": "2025-11-27T20:10:36.933344+01:00",
+    "raw_valid": true,
+    "song_session_id": "1774f5f6-caf9-4f67-ba25-2bdc2f12b6aa"
+  },
+  {
+    "last_update": "2025-11-27 19:14:08",
+    "song": {
+      "musicAuthor": "Plus Minus",
+      "musicCover": "https://static.radia.sk/covers/32/dda539b9-9ea8-4b9c-86d8-b4a031118068.jpg",
+      "musicTitle": "Tetovania",
+      "radio": "Rádio ROCK",
+      "startTime": "20:13"
+    },
+    "recorded_at": "2025-11-27T20:14:08.471882+01:00",
+    "raw_valid": true,
+    "song_session_id": "f25db5e6-fa56-418c-935b-462a71820f39"
+  },
+  {
+    "last_update": "2025-11-27 19:17:38",
+    "song": {
+      "musicAuthor": "Pearl Jam",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851d400d27cba05bb0545533864",
+      "musicTitle": "Jeremy",
+      "radio": "Rádio ROCK",
+      "startTime": "20:16"
+    },
+    "recorded_at": "2025-11-27T20:17:38.688012+01:00",
+    "raw_valid": true,
+    "song_session_id": "500bd7bb-4a2a-4fc8-bfeb-4e69902f01ab"
+  },
+  {
+    "last_update": "2025-11-27 19:21:08",
+    "song": {
+      "musicAuthor": "Konflikt",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851729df4aa42fcb6507a04f2a4",
+      "musicTitle": "Exot",
+      "radio": "Rádio ROCK",
+      "startTime": "20:21"
+    },
+    "recorded_at": "2025-11-27T20:21:09.720668+01:00",
+    "raw_valid": true,
+    "song_session_id": "dfdef326-1007-4cfc-99f8-620838493f5c"
+  },
+  {
+    "last_update": "2025-11-27 19:24:09",
+    "song": {
+      "musicAuthor": "Nickelback",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485107fb7d8037f3962394c493ca",
+      "musicTitle": "Photograph",
+      "radio": "Rádio ROCK",
+      "startTime": "20:24"
+    },
+    "recorded_at": "2025-11-27T20:24:10.834921+01:00",
+    "raw_valid": true,
+    "song_session_id": "613bea38-4042-407f-b832-841809b7fdf0"
+  },
+  {
+    "last_update": "2025-11-27 19:28:14",
+    "song": {
+      "musicAuthor": "System Of A Down",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485130d45198d0c9e8841f9a9578",
+      "musicTitle": "Aerials",
+      "radio": "Rádio ROCK",
+      "startTime": "20:27"
+    },
+    "recorded_at": "2025-11-27T20:28:14.425535+01:00",
+    "raw_valid": true,
+    "song_session_id": "318f7d56-c151-4cd9-b18c-ff6d286f1492"
+  },
+  {
+    "last_update": "2025-11-27 19:32:14",
+    "song": {
+      "musicAuthor": "Lavagance",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048519dd73490cb009108f64049f2",
+      "musicTitle": "Miles",
+      "radio": "Rádio ROCK",
+      "startTime": "20:31"
+    },
+    "recorded_at": "2025-11-27T20:32:14.979015+01:00",
+    "raw_valid": true,
+    "song_session_id": "980d5b26-a06d-4937-ba14-d32bc9badf2f"
+  },
+  {
+    "last_update": "2025-11-27 19:35:14",
+    "song": {
+      "musicAuthor": "Paranoid, The",
+      "musicCover": "https://static.radia.sk/covers/32/6a4240f7-0415-4426-b5d7-761e04b4985b.jpg",
+      "musicTitle": "Noc Patri Nam",
+      "radio": "Rádio ROCK",
+      "startTime": "20:34"
+    },
+    "recorded_at": "2025-11-27T20:35:15.167931+01:00",
+    "raw_valid": true,
+    "song_session_id": "97168160-2019-465d-9837-a974f0e5c2b9"
+  },
+  {
+    "last_update": "2025-11-27 19:38:15",
+    "song": {
+      "musicAuthor": "The Cure",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851ca40908d43a2a80fb34de8a3",
+      "musicTitle": "Boys Don't Cry",
+      "radio": "Rádio ROCK",
+      "startTime": "20:38"
+    },
+    "recorded_at": "2025-11-27T20:38:16.930870+01:00",
+    "raw_valid": true,
+    "song_session_id": "84f62fb3-7fc3-4a31-bb0b-1afd0f52ea6a"
+  },
+  {
+    "last_update": "2025-11-27 19:41:17",
+    "song": {
+      "musicAuthor": "Metalinda",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851205555d88a07d8fed5d5fe7e",
+      "musicTitle": "Ján Ámos Džínový",
+      "radio": "Rádio ROCK",
+      "startTime": "20:40"
+    },
+    "recorded_at": "2025-11-27T20:41:17.193303+01:00",
+    "raw_valid": true,
+    "song_session_id": "b45374fa-e8e0-49ba-acf4-547b77a734f5"
+  },
+  {
+    "last_update": "2025-11-27 19:47:20",
+    "song": {
+      "musicAuthor": "Horkýže Slíže",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048512b46a6063fd7f4ce78fd48e9",
+      "musicTitle": "Kozy, Husle, Rooney",
+      "radio": "Rádio ROCK",
+      "startTime": "20:46"
+    },
+    "recorded_at": "2025-11-27T20:47:20.606192+01:00",
+    "raw_valid": true,
+    "song_session_id": "965b82a7-7a13-4097-a2df-258cefe567d9"
+  },
+  {
+    "last_update": "2025-11-27 19:49:21",
+    "song": {
+      "musicAuthor": "Skunk Anansie",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048518d117d336dcea0784975a683",
+      "musicTitle": "Weak",
+      "radio": "Rádio ROCK",
+      "startTime": "20:48"
+    },
+    "recorded_at": "2025-11-27T20:49:21.890445+01:00",
+    "raw_valid": true,
+    "song_session_id": "1e5c1384-9e26-4f98-92a5-4bfce1992d8d"
+  },
+  {
+    "last_update": "2025-11-27 19:53:21",
+    "song": {
+      "musicAuthor": "Gladiator",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048514824a306d4af7142edee3a82",
+      "musicTitle": "Keď Sa Láska Podarí",
+      "radio": "Rádio ROCK",
+      "startTime": "20:52"
+    },
+    "recorded_at": "2025-11-27T20:53:22.829165+01:00",
+    "raw_valid": true,
+    "song_session_id": "2356f3cd-002d-4f59-b96c-5dc4ca8042e4"
+  },
+  {
+    "last_update": "2025-11-27 19:56:22",
+    "song": {
+      "musicAuthor": "Imagine Dragons",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851da6f73a25f4c79d0e6b4a8bd",
+      "musicTitle": "Bad Liar",
+      "radio": "Rádio ROCK",
+      "startTime": "20:55"
+    },
+    "recorded_at": "2025-11-27T20:56:23.429602+01:00",
+    "raw_valid": true,
+    "song_session_id": "a2bae89b-e3a0-45ed-9306-d3d9cee18cc8"
+  },
+  {
+    "last_update": "2025-11-27 20:01:23",
+    "song": {
+      "musicAuthor": "Black Sabbath",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851d198e0a1a43c010afb480b3b",
+      "musicTitle": "Changes",
+      "radio": "Rádio ROCK",
+      "startTime": "21:01"
+    },
+    "recorded_at": "2025-11-27T21:01:23.803690+01:00",
+    "raw_valid": true,
+    "song_session_id": "34c446c7-e123-4a13-882b-9d3a3a79ccdc"
+  },
+  {
+    "last_update": "2025-11-27 20:06:24",
+    "song": {
+      "musicAuthor": "Hex",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048510504c699685f967e6c775bd9",
+      "musicTitle": "El Punk",
+      "radio": "Rádio ROCK",
+      "startTime": "21:05"
+    },
+    "recorded_at": "2025-11-27T21:06:24.472631+01:00",
+    "raw_valid": true,
+    "song_session_id": "43c488ad-f6b7-4f18-9109-3ac5f2f6a95b"
+  },
+  {
+    "last_update": "2025-11-27 20:10:24",
+    "song": {
+      "musicAuthor": "Fishing Strip",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851f30f292c49730fcd22f6acaa",
+      "musicTitle": "Nikdy Nezabudnem",
+      "radio": "Rádio ROCK",
+      "startTime": "21:09"
+    },
+    "recorded_at": "2025-11-27T21:10:25.130793+01:00",
+    "raw_valid": true,
+    "song_session_id": "c9dbb078-4a4d-4b45-b02d-cdaf4b40d3cb"
+  },
+  {
+    "last_update": "2025-11-27 20:14:26",
+    "song": {
+      "musicAuthor": "Bon Jovi",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485159bfe048568a969c6f0bd08c",
+      "musicTitle": "In These Arms",
+      "radio": "Rádio ROCK",
+      "startTime": "21:14"
+    },
+    "recorded_at": "2025-11-27T21:14:27.117417+01:00",
+    "raw_valid": true,
+    "song_session_id": "4281b414-f48e-4413-9774-8d42b951de5f"
+  },
+  {
+    "last_update": "2025-11-27 20:19:28",
+    "song": {
+      "musicAuthor": "Demikát",
+      "musicCover": "/layout/covers/default.png",
+      "musicTitle": "Mala Vinna Muska",
+      "radio": "Rádio ROCK",
+      "startTime": "21:19"
+    },
+    "recorded_at": "2025-11-27T21:19:28.869545+01:00",
+    "raw_valid": true,
+    "song_session_id": "470101b2-8b4a-4f75-9e86-52d7c425e437"
+  },
+  {
+    "last_update": "2025-11-27 20:25:29",
+    "song": {
+      "musicAuthor": "Five Finger Death Punch Featuring Rob Halford",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485176df46a3fd82c419a2dc0a43",
+      "musicTitle": "Lift Me Up",
+      "radio": "Rádio ROCK",
+      "startTime": "21:24"
+    },
+    "recorded_at": "2025-11-27T21:25:30.107289+01:00",
+    "raw_valid": true,
+    "song_session_id": "f5fa361d-f878-4e92-973c-25d927d3e596"
+  },
+  {
+    "last_update": "2025-11-27 20:29:31",
+    "song": {
+      "musicAuthor": "Limp Bizkit",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048514a31b146c7cf07705d912efe",
+      "musicTitle": "My Way",
+      "radio": "Rádio ROCK",
+      "startTime": "21:28"
+    },
+    "recorded_at": "2025-11-27T21:29:31.031716+01:00",
+    "raw_valid": true,
+    "song_session_id": "60ad9e2a-aea6-4779-8f12-6a93291a0004"
+  },
+  {
+    "last_update": "2025-11-27 20:34:32",
+    "song": {
+      "musicAuthor": "The Paranoid",
+      "musicCover": "https://static.radia.sk/covers/32/6a4240f7-0415-4426-b5d7-761e04b4985b.jpg",
+      "musicTitle": "Spovedám Sa",
+      "radio": "Rádio ROCK",
+      "startTime": "21:33"
+    },
+    "recorded_at": "2025-11-27T21:34:33.649589+01:00",
+    "raw_valid": true,
+    "song_session_id": "155aa534-6775-4f0e-a2c7-5088930b580f"
+  },
+  {
+    "last_update": "2025-11-27 20:37:34",
+    "song": {
+      "musicAuthor": "Iné Kafe",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851a36a083c5dec894348b99b3c",
+      "musicTitle": "Mám Pocit",
+      "radio": "Rádio ROCK",
+      "startTime": "21:36"
+    },
+    "recorded_at": "2025-11-27T21:37:35.116012+01:00",
+    "raw_valid": true,
+    "song_session_id": "62802104-3809-4f58-b391-4b49a27abd7d"
+  },
+  {
+    "last_update": "2025-11-27 20:41:36",
+    "song": {
+      "musicAuthor": "Alice Cooper",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048510dfeebaf5d196ff2638a3633",
+      "musicTitle": "Hey Stoopid",
+      "radio": "Rádio ROCK",
+      "startTime": "21:40"
+    },
+    "recorded_at": "2025-11-27T21:41:36.340261+01:00",
+    "raw_valid": true,
+    "song_session_id": "957c8e7e-6611-4b89-980b-8b6907b20028"
+  },
+  {
+    "last_update": "2025-11-27 20:45:36",
+    "song": {
+      "musicAuthor": "Le Payaco",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485107a595f71faaf812b9eedaf7",
+      "musicTitle": "Sadni Si Mi Na Kolená",
+      "radio": "Rádio ROCK",
+      "startTime": "21:44"
+    },
+    "recorded_at": "2025-11-27T21:45:36.830886+01:00",
+    "raw_valid": true,
+    "song_session_id": "c42d2ea2-89b7-4d0a-add8-c77327d34bbd"
+  },
+  {
+    "last_update": "2025-11-27 20:47:36",
+    "song": {
+      "musicAuthor": "Foo Fighters",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048511759635c92b6314d3d3c9fe9",
+      "musicTitle": "Learn To Fly",
+      "radio": "Rádio ROCK",
+      "startTime": "21:46"
+    },
+    "recorded_at": "2025-11-27T21:47:36.969694+01:00",
+    "raw_valid": true,
+    "song_session_id": "aa06976d-2368-4342-865c-7cf9bcd3dc7e"
+  }
+]

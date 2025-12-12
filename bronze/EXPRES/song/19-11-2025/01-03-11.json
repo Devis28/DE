@@ -1,0 +1,424 @@
+[
+  {
+    "song": "Be Mine",
+    "artists": [
+      "Kamrad"
+    ],
+    "isrc": "DE1NJ2500035",
+    "start_time": "2025-11-19 00:04:51",
+    "radio": "expres",
+    "recorded_at": "2025-11-19T00:05:34.607609+01:00",
+    "raw_valid": true,
+    "song_session_id": "dc0418c2-27bb-48aa-87c8-72cbefd50918"
+  },
+  {
+    "song": "Smej Sa",
+    "artists": [
+      "Sima Martausova"
+    ],
+    "isrc": "SKG081607101",
+    "start_time": "2025-11-19 00:07:35",
+    "radio": "expres",
+    "recorded_at": "2025-11-19T00:08:14.514164+01:00",
+    "raw_valid": true,
+    "song_session_id": "66bad6a1-7d69-4d38-a454-e7a3047996ae"
+  },
+  {
+    "song": "Nice To Meet You",
+    "artists": [
+      "Myles Smith"
+    ],
+    "isrc": "GBARL2401376",
+    "start_time": "2025-11-19 00:10:51",
+    "radio": "expres",
+    "recorded_at": "2025-11-19T00:11:13.521737+01:00",
+    "raw_valid": true,
+    "song_session_id": "658c4e31-7c57-4ac0-8ab6-b0c1993eadb8"
+  },
+  {
+    "song": "Cim To Je",
+    "artists": [
+      "No Name"
+    ],
+    "isrc": "SKA010500063",
+    "start_time": "2025-11-19 00:13:59",
+    "radio": "expres",
+    "recorded_at": "2025-11-19T00:14:35.377557+01:00",
+    "raw_valid": true,
+    "song_session_id": "046c3ede-44fd-4497-8575-a35b6459a704"
+  },
+  {
+    "song": "Billie Jean",
+    "artists": [
+      "Michael Jackson"
+    ],
+    "isrc": "USSM19902991",
+    "start_time": "2025-11-19 00:17:18",
+    "radio": "expres",
+    "recorded_at": "2025-11-19T00:17:59.004023+01:00",
+    "raw_valid": true,
+    "song_session_id": "0863b5ee-a320-40f1-b38b-73e5551ff747"
+  },
+  {
+    "song": "Medzi Nebom A Zenou",
+    "artists": [
+      "Banket",
+      "Richard Muller",
+      "Ema Muller"
+    ],
+    "isrc": "SKC362500009",
+    "start_time": "2025-11-19 00:22:00",
+    "radio": "expres",
+    "recorded_at": "2025-11-19T00:22:19.508660+01:00",
+    "raw_valid": true,
+    "song_session_id": "9606f031-34be-42f7-ad53-e644a7db3ecb"
+  },
+  {
+    "song": "United",
+    "artists": [
+      "Prince Ital Joe",
+      "Marky Mark"
+    ],
+    "isrc": "DEA619450270",
+    "start_time": "2025-11-19 00:26:09",
+    "radio": "expres",
+    "recorded_at": "2025-11-19T00:26:53.207621+01:00",
+    "raw_valid": true,
+    "song_session_id": "31de4794-8459-4fab-a82c-cff5b7992681"
+  },
+  {
+    "song": "Domov",
+    "artists": [
+      "Alan Murin"
+    ],
+    "isrc": "QZWDW2424416",
+    "start_time": "2025-11-19 00:30:03",
+    "radio": "expres",
+    "recorded_at": "2025-11-19T00:30:35.873880+01:00",
+    "raw_valid": true,
+    "song_session_id": "bd8f3d52-0726-468b-add9-e920cac20af3"
+  },
+  {
+    "song": "The One",
+    "artists": [
+      "Michael Patrick Kelly"
+    ],
+    "isrc": "DEE862500476",
+    "start_time": "2025-11-19 00:34:08",
+    "radio": "expres",
+    "recorded_at": "2025-11-19T00:34:36.437239+01:00",
+    "raw_valid": true,
+    "song_session_id": "fafb87bf-fb9a-4af7-bf04-78dd6a516b9b"
+  },
+  {
+    "song": "Hawaii",
+    "artists": [
+      "Emma Drobna"
+    ],
+    "isrc": "SKB452200101",
+    "start_time": "2025-11-19 00:37:14",
+    "radio": "expres",
+    "recorded_at": "2025-11-19T00:37:38.155657+01:00",
+    "raw_valid": true,
+    "song_session_id": "a455bffd-3e3a-4a7b-a885-87902a78239e"
+  },
+  {
+    "song": "Comin Home",
+    "artists": [
+      "Diddy-Dirty Money",
+      "Skylar Grey"
+    ],
+    "isrc": "USUM71027542",
+    "start_time": "2025-11-19 00:40:28",
+    "radio": "expres",
+    "recorded_at": "2025-11-19T00:41:03.101429+01:00",
+    "raw_valid": true,
+    "song_session_id": "c8ea2e3f-604e-44df-81f4-388e7de067ae"
+  },
+  {
+    "song": "Je Koniec",
+    "artists": [
+      "Dominika Mirgova",
+      "Kali"
+    ],
+    "isrc": "SKE271300105",
+    "start_time": "2025-11-19 00:44:34",
+    "radio": "expres",
+    "recorded_at": "2025-11-19T00:45:05.912119+01:00",
+    "raw_valid": true,
+    "song_session_id": "406fe994-0441-47e4-9be1-04a9ec7ba945"
+  },
+  {
+    "song": "The Fate Of Ophelia",
+    "artists": [
+      "Taylor Swift"
+    ],
+    "isrc": "USUG12506436",
+    "start_time": "2025-11-19 00:48:18",
+    "radio": "expres",
+    "recorded_at": "2025-11-19T00:48:46.578555+01:00",
+    "raw_valid": true,
+    "song_session_id": "1eda624d-09e6-4be2-8f6f-e97d02d05ba5"
+  },
+  {
+    "song": "Ona Je Taka",
+    "artists": [
+      "Polemic"
+    ],
+    "isrc": "SKA139920103",
+    "start_time": "2025-11-19 00:52:17",
+    "radio": "expres",
+    "recorded_at": "2025-11-19T00:52:49.108730+01:00",
+    "raw_valid": true,
+    "song_session_id": "49bcd83f-08a0-40b0-8984-84479729fa2e"
+  },
+  {
+    "song": "Ghetto Gospel",
+    "artists": [
+      "2 Pac",
+      "Elton John"
+    ],
+    "isrc": "USIR10401032",
+    "start_time": "2025-11-19 00:54:46",
+    "radio": "expres",
+    "recorded_at": "2025-11-19T00:55:13.771115+01:00",
+    "raw_valid": true,
+    "song_session_id": "64b7434e-f013-48ed-adfb-b65e95a19c19"
+  },
+  {
+    "song": "Spolu",
+    "artists": [
+      "Adam Durica"
+    ],
+    "isrc": "SKA011600001",
+    "start_time": "2025-11-19 00:58:27",
+    "radio": "expres",
+    "recorded_at": "2025-11-19T00:58:53.085649+01:00",
+    "raw_valid": true,
+    "song_session_id": "8fb5b34d-acc5-4435-a300-8c56a8eb4892"
+  },
+  {
+    "song": "All I Know",
+    "artists": [
+      "Rudimental",
+      "Khalid"
+    ],
+    "isrc": "GBARL2500365",
+    "start_time": "2025-11-19 01:01:38",
+    "radio": "expres",
+    "recorded_at": "2025-11-19T01:01:56.219374+01:00",
+    "raw_valid": true,
+    "song_session_id": "3db283c8-dfdc-4a7b-b75b-630f08e57108"
+  },
+  {
+    "song": "Lahky Song",
+    "artists": [
+      "Hex",
+      "Robo Grigorov"
+    ],
+    "isrc": "SKC751700113",
+    "start_time": "2025-11-19 01:04:31",
+    "radio": "expres",
+    "recorded_at": "2025-11-19T01:05:09.079258+01:00",
+    "raw_valid": true,
+    "song_session_id": "d3363958-a9f0-4fb2-b165-98c03c582624"
+  },
+  {
+    "song": "Glide",
+    "artists": [
+      "Neiked",
+      "Portugal The Man"
+    ],
+    "isrc": "DEE862500421",
+    "start_time": "2025-11-19 01:07:50",
+    "radio": "expres",
+    "recorded_at": "2025-11-19T01:08:29.197386+01:00",
+    "raw_valid": true,
+    "song_session_id": "b7ffbba6-3a7f-41cd-87f3-8cd7228a9c27"
+  },
+  {
+    "song": "Ked Sa Baba Zblazni",
+    "artists": [
+      "Pavol Habera",
+      "Team"
+    ],
+    "isrc": "CZA100308358",
+    "start_time": "2025-11-19 01:10:47",
+    "radio": "expres",
+    "recorded_at": "2025-11-19T01:11:13.526906+01:00",
+    "raw_valid": true,
+    "song_session_id": "cd4c329a-fe8d-445c-8042-b2e9ca28fed9"
+  },
+  {
+    "song": "My Happy Ending",
+    "artists": [
+      "Avril Lavigne"
+    ],
+    "isrc": "USAR10400486",
+    "start_time": "2025-11-19 01:16:02",
+    "radio": "expres",
+    "recorded_at": "2025-11-19T01:16:37.463604+01:00",
+    "raw_valid": true,
+    "song_session_id": "66bd2f55-9adf-449c-a213-fcbfc305dcfb"
+  },
+  {
+    "song": "Ceresne",
+    "artists": [
+      "Zuzana Smatanova"
+    ],
+    "isrc": "SKA012300327",
+    "start_time": "2025-11-19 01:20:06",
+    "radio": "expres",
+    "recorded_at": "2025-11-19T01:20:38.337144+01:00",
+    "raw_valid": true,
+    "song_session_id": "54c6c349-dc92-49c4-8d5e-c1a36e5ff70c"
+  },
+  {
+    "song": "Head Above Water",
+    "artists": [
+      "Twocolors",
+      "Safri Duo",
+      "Chris De Sarandy"
+    ],
+    "isrc": "DEUM72503698",
+    "start_time": "2025-11-19 01:24:12",
+    "radio": "expres",
+    "recorded_at": "2025-11-19T01:24:50.566210+01:00",
+    "raw_valid": true,
+    "song_session_id": "2deadb67-cead-41dc-b516-860b89157f90"
+  },
+  {
+    "song": "Architekti Stastia",
+    "artists": [
+      "Nocaden"
+    ],
+    "isrc": "SKG971900108",
+    "start_time": "2025-11-19 01:27:04",
+    "radio": "expres",
+    "recorded_at": "2025-11-19T01:27:31.563376+01:00",
+    "raw_valid": true,
+    "song_session_id": "75d8c64f-6a76-4258-b3a2-e420858b2ab3"
+  },
+  {
+    "song": "Stumblin In",
+    "artists": [
+      "Cyril"
+    ],
+    "isrc": "NLZ542301810",
+    "start_time": "2025-11-19 01:31:09",
+    "radio": "expres",
+    "recorded_at": "2025-11-19T01:31:35.200599+01:00",
+    "raw_valid": true,
+    "song_session_id": "fcf99d13-070d-4a2f-984b-ee5c8f1ff38d"
+  },
+  {
+    "song": "Regalo",
+    "artists": [
+      "Alvaro Soler"
+    ],
+    "isrc": "DEE862500388",
+    "start_time": "2025-11-19 01:34:29",
+    "radio": "expres",
+    "recorded_at": "2025-11-19T01:34:54.763633+01:00",
+    "raw_valid": true,
+    "song_session_id": "50442773-305a-4974-98c4-8df8630ffb47"
+  },
+  {
+    "song": "V Cudzom Meste",
+    "artists": [
+      "Jana Kirschner"
+    ],
+    "isrc": "SKA010003305",
+    "start_time": "2025-11-19 01:37:36",
+    "radio": "expres",
+    "recorded_at": "2025-11-19T01:37:59.165719+01:00",
+    "raw_valid": true,
+    "song_session_id": "c77fe6cc-ff28-4c6c-96e3-093ae9b2ee2d"
+  },
+  {
+    "song": "It Must Have Been Love",
+    "artists": [
+      "Roxette"
+    ],
+    "isrc": "SEAMA8777131",
+    "start_time": "2025-11-19 01:40:42",
+    "radio": "expres",
+    "recorded_at": "2025-11-19T01:41:02.005051+01:00",
+    "raw_valid": true,
+    "song_session_id": "12d4af18-e3fb-48ce-8a0d-87dd8abddae0"
+  },
+  {
+    "song": "Dokola",
+    "artists": [
+      "Alan Murin"
+    ],
+    "isrc": "QZZ662451350",
+    "start_time": "2025-11-19 01:44:54",
+    "radio": "expres",
+    "recorded_at": "2025-11-19T01:45:25.906631+01:00",
+    "raw_valid": true,
+    "song_session_id": "1f351351-2505-4a50-aaa4-32dcc49904e6"
+  },
+  {
+    "song": "Eternity",
+    "artists": [
+      "Alex Warren"
+    ],
+    "isrc": "USAT22503779",
+    "start_time": "2025-11-19 01:47:25",
+    "radio": "expres",
+    "recorded_at": "2025-11-19T01:47:58.893357+01:00",
+    "raw_valid": true,
+    "song_session_id": "dc498511-77f4-4f85-976c-2fc6951c5d52"
+  },
+  {
+    "song": "Hvezdari",
+    "artists": [
+      "Krystof",
+      "Sima Martausova"
+    ],
+    "isrc": "CZUM71900470",
+    "start_time": "2025-11-19 01:51:07",
+    "radio": "expres",
+    "recorded_at": "2025-11-19T01:51:44.277513+01:00",
+    "raw_valid": true,
+    "song_session_id": "61184504-e33a-4942-86c8-3f30345142b5"
+  },
+  {
+    "song": "I Dont Wanna Wait",
+    "artists": [
+      "David Guetta",
+      "Onerepublic"
+    ],
+    "isrc": "UKWLG2400013",
+    "start_time": "2025-11-19 01:55:05",
+    "radio": "expres",
+    "recorded_at": "2025-11-19T01:55:37.939503+01:00",
+    "raw_valid": true,
+    "song_session_id": "0c597e7f-c48a-4301-8d28-5114e193978a"
+  },
+  {
+    "song": "Slnko Nevychadzaj",
+    "artists": [
+      "Metalinda"
+    ],
+    "isrc": "SKG871600305",
+    "start_time": "2025-11-19 01:57:35",
+    "radio": "expres",
+    "recorded_at": "2025-11-19T01:58:06.135437+01:00",
+    "raw_valid": true,
+    "song_session_id": "e701fd6f-8e17-4179-9644-51128b61e05c"
+  },
+  {
+    "song": "Mystical Magical",
+    "artists": [
+      "Benson Boone"
+    ],
+    "isrc": "USWB12500844",
+    "start_time": "2025-11-19 02:01:55",
+    "radio": "expres",
+    "recorded_at": "2025-11-19T02:02:30.343979+01:00",
+    "raw_valid": true,
+    "song_session_id": "a65c36ef-99d3-47f5-b78f-09bdb0dc22e3"
+  }
+]

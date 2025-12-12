@@ -1,0 +1,444 @@
+[
+  {
+    "last_update": "2025-12-07 19:59:25",
+    "song": {
+      "musicAuthor": "Mária Čírová & Peter Bažík",
+      "musicCover": "/layout/covers/default.webp",
+      "musicTitle": "Kto Vie",
+      "radio": "Fun Rádio",
+      "startTime": "20:58"
+    },
+    "recorded_at": "2025-12-07T20:59:25.550982+01:00",
+    "raw_valid": true,
+    "song_session_id": "26f59f3b-be37-4bd0-85dd-8b33ccf3d8ec"
+  },
+  {
+    "last_update": "2025-12-07 20:03:25",
+    "song": {
+      "musicAuthor": "Jonas Brothers",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048517dbf3e9badd50f3f8886d161",
+      "musicTitle": "No Time To Talk",
+      "radio": "Fun Rádio",
+      "startTime": "21:02"
+    },
+    "recorded_at": "2025-12-07T21:03:25.857165+01:00",
+    "raw_valid": true,
+    "song_session_id": "0752271b-8658-4b6e-a001-eb98dc51f3d9"
+  },
+  {
+    "last_update": "2025-12-07 20:06:25",
+    "song": {
+      "musicAuthor": "Adam Durica",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851bacc80464e4d8541178dbabe",
+      "musicTitle": "Pohľad Pre Bohov",
+      "radio": "Fun Rádio",
+      "startTime": "21:05"
+    },
+    "recorded_at": "2025-12-07T21:06:26.085385+01:00",
+    "raw_valid": true,
+    "song_session_id": "62a02206-c4c2-4cb8-a927-ea4f7efe27cb"
+  },
+  {
+    "last_update": "2025-12-07 20:10:26",
+    "song": {
+      "musicAuthor": "Imt Smile",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851390650dac22799f0ee7d7411",
+      "musicTitle": "Usmev",
+      "radio": "Fun Rádio",
+      "startTime": "21:09"
+    },
+    "recorded_at": "2025-12-07T21:10:26.338865+01:00",
+    "raw_valid": true,
+    "song_session_id": "77c04e5a-48ce-4b1d-b7ea-6735881c10f6"
+  },
+  {
+    "last_update": "2025-12-07 20:13:26",
+    "song": {
+      "musicAuthor": "Karmen Pál-Baláž",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048516acffb081c9c71ab7604b713",
+      "musicTitle": "Anjel",
+      "radio": "Fun Rádio",
+      "startTime": "21:12"
+    },
+    "recorded_at": "2025-12-07T21:13:26.594356+01:00",
+    "raw_valid": true,
+    "song_session_id": "506d7e87-e01f-4a8f-a692-3847a03731b6"
+  },
+  {
+    "last_update": "2025-12-07 20:17:26",
+    "song": {
+      "musicAuthor": "Huntrix Featuring Ejae & Audrey Nuna",
+      "musicCover": "https://i.scdn.co/image/ab6742d3000052b717f3963ae4a9f5422763140e",
+      "musicTitle": "Golden",
+      "radio": "Fun Rádio",
+      "startTime": "21:17"
+    },
+    "recorded_at": "2025-12-07T21:17:26.869514+01:00",
+    "raw_valid": true,
+    "song_session_id": "9309e7fc-015e-46c7-90b4-56303d3f7dc0"
+  },
+  {
+    "last_update": "2025-12-07 20:21:26",
+    "song": {
+      "musicAuthor": "Sima Martausová & For You",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048518720359639336540772d2c95",
+      "musicTitle": "Nenahraditeľná",
+      "radio": "Fun Rádio",
+      "startTime": "21:20"
+    },
+    "recorded_at": "2025-12-07T21:21:27.115746+01:00",
+    "raw_valid": true,
+    "song_session_id": "14c10e69-c837-40e0-af24-2e5365829585"
+  },
+  {
+    "last_update": "2025-12-07 20:24:26",
+    "song": {
+      "musicAuthor": "Jana Kirschner feat. Štefan Štec",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048515f07e7152e665bf00ba0ed17",
+      "musicTitle": "Láska neumiera",
+      "radio": "Fun Rádio",
+      "startTime": "21:23"
+    },
+    "recorded_at": "2025-12-07T21:24:27.302146+01:00",
+    "raw_valid": true,
+    "song_session_id": "d4ba56b8-c1e1-4a66-9672-8f8338b642d9"
+  },
+  {
+    "last_update": "2025-12-07 20:27:26",
+    "song": {
+      "musicAuthor": "Disturbed",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851d7bd0f8e4d2a399020b333e8",
+      "musicTitle": "The Sound Of Silence",
+      "radio": "Fun Rádio",
+      "startTime": "21:26"
+    },
+    "recorded_at": "2025-12-07T21:27:27.527800+01:00",
+    "raw_valid": true,
+    "song_session_id": "4c5da1a7-4a14-4c0d-a2d8-2795aae51da3"
+  },
+  {
+    "last_update": "2025-12-07 20:31:27",
+    "song": {
+      "musicAuthor": "Peha",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851c9a0a95a7f954b2aa24f3539",
+      "musicTitle": "Za Tebou",
+      "radio": "Fun Rádio",
+      "startTime": "21:30"
+    },
+    "recorded_at": "2025-12-07T21:31:27.785102+01:00",
+    "raw_valid": true,
+    "song_session_id": "4c2545ad-73fb-4b0d-b166-870d8d5c0cbf"
+  },
+  {
+    "last_update": "2025-12-07 20:34:27",
+    "song": {
+      "musicAuthor": "Tina & Dara Rolins",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851e6c9f573b7b5e4c401ff0d1e",
+      "musicTitle": "Nový Príbeh",
+      "radio": "Fun Rádio",
+      "startTime": "21:33"
+    },
+    "recorded_at": "2025-12-07T21:34:27.979649+01:00",
+    "raw_valid": true,
+    "song_session_id": "28e874fe-9ef4-4831-97a7-e1813641df7a"
+  },
+  {
+    "last_update": "2025-12-07 20:38:28",
+    "song": {
+      "musicAuthor": "Lojzo & Miro Žbirka",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485139efe5d897406e14b89d380e",
+      "musicTitle": "Každý Deň Budú Vraj Vianoce",
+      "radio": "Fun Rádio",
+      "startTime": "21:37"
+    },
+    "recorded_at": "2025-12-07T21:38:28.231609+01:00",
+    "raw_valid": true,
+    "song_session_id": "a84b442e-8a68-4d00-872d-087176ab63d8"
+  },
+  {
+    "last_update": "2025-12-07 20:42:27",
+    "song": {
+      "musicAuthor": "Ed Sheeran",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048516fbb60d6a7e03ccb940a518e",
+      "musicTitle": "Sapphire",
+      "radio": "Fun Rádio",
+      "startTime": "21:41"
+    },
+    "recorded_at": "2025-12-07T21:42:28.504687+01:00",
+    "raw_valid": true,
+    "song_session_id": "88698e44-6670-476a-a735-e0a3c9b96128"
+  },
+  {
+    "last_update": "2025-12-07 20:45:28",
+    "song": {
+      "musicAuthor": "Zuzana Smatanová & Richard Autner",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485138c923823b6fe46c5b91c48f",
+      "musicTitle": "Prútikár",
+      "radio": "Fun Rádio",
+      "startTime": "21:44"
+    },
+    "recorded_at": "2025-12-07T21:45:28.692211+01:00",
+    "raw_valid": true,
+    "song_session_id": "559cd4bf-bca2-4989-9a63-22c108e9fa47"
+  },
+  {
+    "last_update": "2025-12-07 20:49:28",
+    "song": {
+      "musicAuthor": "Billy Barman",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851a23169cca02f50dfb2788443",
+      "musicTitle": "Hory medzi nami",
+      "radio": "Fun Rádio",
+      "startTime": "21:48"
+    },
+    "recorded_at": "2025-12-07T21:49:28.970985+01:00",
+    "raw_valid": true,
+    "song_session_id": "619afbbd-2960-45a3-ac91-b19c4e6b8ddd"
+  },
+  {
+    "last_update": "2025-12-07 20:51:28",
+    "song": {
+      "musicAuthor": "Hex & Tamara",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851b3dd3cd941a5cfee7d680427",
+      "musicTitle": "Mesto Stratilo Dych",
+      "radio": "Fun Rádio",
+      "startTime": "21:51"
+    },
+    "recorded_at": "2025-12-07T21:51:29.154117+01:00",
+    "raw_valid": true,
+    "song_session_id": "e34ba066-6ae3-4e81-b5aa-77481060b601"
+  },
+  {
+    "last_update": "2025-12-07 20:55:28",
+    "song": {
+      "musicAuthor": "Tate Mcrae",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485196e4cfdd4c3aa8088685b262",
+      "musicTitle": "Just Keep Watching",
+      "radio": "Fun Rádio",
+      "startTime": "21:54"
+    },
+    "recorded_at": "2025-12-07T21:55:29.420130+01:00",
+    "raw_valid": true,
+    "song_session_id": "59bd3122-650e-4948-b061-e505fb6ecd9c"
+  },
+  {
+    "last_update": "2025-12-07 20:58:29",
+    "song": {
+      "musicAuthor": "Desmod",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048519bc8fd337b7db428dfc6f682",
+      "musicTitle": "Chýbanie",
+      "radio": "Fun Rádio",
+      "startTime": "21:57"
+    },
+    "recorded_at": "2025-12-07T21:58:29.657945+01:00",
+    "raw_valid": true,
+    "song_session_id": "5ce6e6d5-602f-4a0b-be89-4bd32cdb909c"
+  },
+  {
+    "last_update": "2025-12-07 21:01:28",
+    "song": {
+      "musicAuthor": "Buranowski",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851bc165b8d59dcb7dfb248abf7",
+      "musicTitle": ".Com",
+      "radio": "Fun Rádio",
+      "startTime": "22:00"
+    },
+    "recorded_at": "2025-12-07T22:01:29.850120+01:00",
+    "raw_valid": true,
+    "song_session_id": "e607f232-2056-47da-b879-a4f6441e3db6"
+  },
+  {
+    "last_update": "2025-12-07 21:04:29",
+    "song": {
+      "musicAuthor": "Peter Bič Project",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851c50dfada4db822754c85a243",
+      "musicTitle": "Len Sa Smej",
+      "radio": "Fun Rádio",
+      "startTime": "22:04"
+    },
+    "recorded_at": "2025-12-07T22:04:30.025249+01:00",
+    "raw_valid": true,
+    "song_session_id": "bd4b8484-fa8a-4fa1-9972-f254343556c4"
+  },
+  {
+    "last_update": "2025-12-07 21:07:29",
+    "song": {
+      "musicAuthor": "Cmorík Peter",
+      "musicCover": "https://static.radia.sk/covers/32/205320a2-1b72-4e5d-bea3-1122e8c91064.jpg",
+      "musicTitle": "Mám Pocit",
+      "radio": "Fun Rádio",
+      "startTime": "22:06"
+    },
+    "recorded_at": "2025-12-07T22:07:30.213704+01:00",
+    "raw_valid": true,
+    "song_session_id": "c72dd03a-b678-484c-a5e8-1b20d5fda7ca"
+  },
+  {
+    "last_update": "2025-12-07 21:11:30",
+    "song": {
+      "musicAuthor": "Celeste Buckingham",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048514c8465bc8d5cf6a77629fc0d",
+      "musicTitle": "Drive",
+      "radio": "Fun Rádio",
+      "startTime": "22:10"
+    },
+    "recorded_at": "2025-12-07T22:11:30.469406+01:00",
+    "raw_valid": true,
+    "song_session_id": "2097d79d-4906-40be-b89b-190444e754bf"
+  },
+  {
+    "last_update": "2025-12-07 21:15:30",
+    "song": {
+      "musicAuthor": "Mária Čírová",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485185e44219365b4c98736661f5",
+      "musicTitle": "Unikát",
+      "radio": "Fun Rádio",
+      "startTime": "22:14"
+    },
+    "recorded_at": "2025-12-07T22:15:30.720983+01:00",
+    "raw_valid": true,
+    "song_session_id": "487e1a9d-577c-4127-b204-0243f35f6822"
+  },
+  {
+    "last_update": "2025-12-07 21:19:30",
+    "song": {
+      "musicAuthor": "Dianah Kay",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851a7f554089042c141b5f61303",
+      "musicTitle": "Illumin8",
+      "radio": "Fun Rádio",
+      "startTime": "22:18"
+    },
+    "recorded_at": "2025-12-07T22:19:31.171426+01:00",
+    "raw_valid": true,
+    "song_session_id": "b25ee6d8-cbd3-4ad5-b58b-03f091b4f403"
+  },
+  {
+    "last_update": "2025-12-07 21:22:30",
+    "song": {
+      "musicAuthor": "Polemic",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851c467f7dccd7e4aedcb4528a5",
+      "musicTitle": "Škandál",
+      "radio": "Fun Rádio",
+      "startTime": "22:21"
+    },
+    "recorded_at": "2025-12-07T22:22:31.364124+01:00",
+    "raw_valid": true,
+    "song_session_id": "97aa8447-f5c8-4aaa-b067-28531838182d"
+  },
+  {
+    "last_update": "2025-12-07 21:25:31",
+    "song": {
+      "musicAuthor": "Liia",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048512639fc2fd8b6ec86fc2449c2",
+      "musicTitle": "Substitute",
+      "radio": "Fun Rádio",
+      "startTime": "22:24"
+    },
+    "recorded_at": "2025-12-07T22:25:31.558506+01:00",
+    "raw_valid": true,
+    "song_session_id": "5d6e5a4c-aca1-4e4f-aaeb-8db4721e71c1"
+  },
+  {
+    "last_update": "2025-12-07 21:28:31",
+    "song": {
+      "musicAuthor": "Matej Smutny",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851ca10fae7d292c52f7e8b11ca",
+      "musicTitle": "I Wanna Keep You Dancin´",
+      "radio": "Fun Rádio",
+      "startTime": "22:27"
+    },
+    "recorded_at": "2025-12-07T22:28:31.748138+01:00",
+    "raw_valid": true,
+    "song_session_id": "20419d24-b7a0-4540-8a30-1390f1a945f0"
+  },
+  {
+    "last_update": "2025-12-07 21:30:31",
+    "song": {
+      "musicAuthor": "Muller Richard & Senkova Leona",
+      "musicCover": "/layout/covers/default.webp",
+      "musicTitle": "Nebude To Jiný",
+      "radio": "Fun Rádio",
+      "startTime": "22:30"
+    },
+    "recorded_at": "2025-12-07T22:30:31.885022+01:00",
+    "raw_valid": true,
+    "song_session_id": "9b16b6f8-5a60-4a5a-8400-9491a90e2ba1"
+  },
+  {
+    "last_update": "2025-12-07 21:34:32",
+    "song": {
+      "musicAuthor": "Dara Rolins",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485124b2885f9e2506e4f5099228",
+      "musicTitle": "Všetko Alebo Nič",
+      "radio": "Fun Rádio",
+      "startTime": "22:33"
+    },
+    "recorded_at": "2025-12-07T22:34:32.182171+01:00",
+    "raw_valid": true,
+    "song_session_id": "880e0814-9fcf-4259-843d-29ac5c160a71"
+  },
+  {
+    "last_update": "2025-12-07 21:38:31",
+    "song": {
+      "musicAuthor": "Zuzana Smatanová",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851d1d1a340b8cc31084941bf32",
+      "musicTitle": "December",
+      "radio": "Fun Rádio",
+      "startTime": "22:37"
+    },
+    "recorded_at": "2025-12-07T22:38:32.598916+01:00",
+    "raw_valid": true,
+    "song_session_id": "5a51a60a-cc09-49ce-9fa2-9f822c72142b"
+  },
+  {
+    "last_update": "2025-12-07 21:41:31",
+    "song": {
+      "musicAuthor": "Adéla",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851dcad71dcbeef2406d3ff7667",
+      "musicTitle": "Superscar",
+      "radio": "Fun Rádio",
+      "startTime": "22:40"
+    },
+    "recorded_at": "2025-12-07T22:41:32.790655+01:00",
+    "raw_valid": true,
+    "song_session_id": "1fce536c-605d-457b-87c8-f0dba41552d2"
+  },
+  {
+    "last_update": "2025-12-07 21:44:32",
+    "song": {
+      "musicAuthor": "Hex",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048515df0db1126eea99a4e004065",
+      "musicTitle": "Nezaspím",
+      "radio": "Fun Rádio",
+      "startTime": "22:43"
+    },
+    "recorded_at": "2025-12-07T22:44:32.974073+01:00",
+    "raw_valid": true,
+    "song_session_id": "12825f1c-2118-4f8d-8a4e-0b66be01aa6a"
+  },
+  {
+    "last_update": "2025-12-07 21:48:32",
+    "song": {
+      "musicAuthor": "Adam Durica",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851fbbbb5ef59caeba64bf0af46",
+      "musicTitle": "Z Popola Je Ohen",
+      "radio": "Fun Rádio",
+      "startTime": "22:47"
+    },
+    "recorded_at": "2025-12-07T22:48:33.224431+01:00",
+    "raw_valid": true,
+    "song_session_id": "d1d782ec-1983-4dc8-a7bb-3573107d421e"
+  },
+  {
+    "last_update": "2025-12-07 21:52:33",
+    "song": {
+      "musicAuthor": "Jana Kirschner Featuring Milan Ondrik",
+      "musicCover": "https://static.radia.sk/covers/32/d1065c3e-56f8-4c25-ba69-20cbd455cf5d.jpg",
+      "musicTitle": "Lovestory",
+      "radio": "Fun Rádio",
+      "startTime": "22:51"
+    },
+    "recorded_at": "2025-12-07T22:52:33.606012+01:00",
+    "raw_valid": true,
+    "song_session_id": "c77709a2-3c82-465d-889a-6ca33101f235"
+  }
+]

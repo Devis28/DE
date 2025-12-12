@@ -1,0 +1,379 @@
+[
+  {
+    "last_update": "2025-12-05 09:56:17",
+    "song": {
+      "musicAuthor": "Metallica",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851cf84c5b276431b473e924802",
+      "musicTitle": "Enter Sandman",
+      "radio": "Rádio ROCK",
+      "startTime": "10:55"
+    },
+    "recorded_at": "2025-12-05T10:56:18.377526+01:00",
+    "raw_valid": true,
+    "song_session_id": "0a87f6d0-662a-4a93-b43f-ce5dd312daef"
+  },
+  {
+    "last_update": "2025-12-05 10:02:18",
+    "song": {
+      "musicAuthor": "Clapton, Eric",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851d55ec7fcfacd95e73877b787",
+      "musicTitle": "Layla",
+      "radio": "Rádio ROCK",
+      "startTime": "11:01"
+    },
+    "recorded_at": "2025-12-05T11:02:18.996644+01:00",
+    "raw_valid": true,
+    "song_session_id": "b789ba0d-9ae4-4058-b00d-940b07b728ba"
+  },
+  {
+    "last_update": "2025-12-05 10:09:19",
+    "song": {
+      "musicAuthor": "Fall Out Boy",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048513cf1c1dbcfa3f1ab7282719b",
+      "musicTitle": "Centuries",
+      "radio": "Rádio ROCK",
+      "startTime": "11:08"
+    },
+    "recorded_at": "2025-12-05T11:09:20.405726+01:00",
+    "raw_valid": true,
+    "song_session_id": "1ecf9cf4-9e0b-44a6-ae1f-4232a8e0eb33"
+  },
+  {
+    "last_update": "2025-12-05 10:15:22",
+    "song": {
+      "musicAuthor": "Mirai",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851ca3d87d3d4c1742c9eb82bc0",
+      "musicTitle": "Tenkrát",
+      "radio": "Rádio ROCK",
+      "startTime": "11:14"
+    },
+    "recorded_at": "2025-12-05T11:15:22.752509+01:00",
+    "raw_valid": true,
+    "song_session_id": "bd1da9a4-e8f1-478a-b5b5-024a94c01a26"
+  },
+  {
+    "last_update": "2025-12-05 10:18:22",
+    "song": {
+      "musicAuthor": "Queen",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851024b36346101df444742cde2",
+      "musicTitle": "The Show Must Go On",
+      "radio": "Rádio ROCK",
+      "startTime": "11:17"
+    },
+    "recorded_at": "2025-12-05T11:18:23.011922+01:00",
+    "raw_valid": true,
+    "song_session_id": "07c736a3-51d2-4106-85a5-3cfaad333d6b"
+  },
+  {
+    "last_update": "2025-12-05 10:22:22",
+    "song": {
+      "musicAuthor": "Adams, Bryan",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851cf1fee2a55e98e22bf358512",
+      "musicTitle": "Run To You",
+      "radio": "Rádio ROCK",
+      "startTime": "11:21"
+    },
+    "recorded_at": "2025-12-05T11:22:23.837404+01:00",
+    "raw_valid": true,
+    "song_session_id": "5eefe1e4-45cc-4425-9000-5471ebba1df2"
+  },
+  {
+    "last_update": "2025-12-05 10:26:25",
+    "song": {
+      "musicAuthor": "Horkýže Slíže",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485160348235029c408a3e558ab7",
+      "musicTitle": "Emanuel Bacigala",
+      "radio": "Rádio ROCK",
+      "startTime": "11:25"
+    },
+    "recorded_at": "2025-12-05T11:26:25.496739+01:00",
+    "raw_valid": true,
+    "song_session_id": "10e6d82e-505a-42d8-9dd9-48faa034dfc9"
+  },
+  {
+    "last_update": "2025-12-05 10:28:24",
+    "song": {
+      "musicAuthor": "Bon Jovi",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485159bfe048568a969c6f0bd08c",
+      "musicTitle": "In These Arms",
+      "radio": "Rádio ROCK",
+      "startTime": "11:27"
+    },
+    "recorded_at": "2025-12-05T11:28:25.617084+01:00",
+    "raw_valid": true,
+    "song_session_id": "c6a50464-81b4-4782-bbd2-0d71720ae44d"
+  },
+  {
+    "last_update": "2025-12-05 10:33:25",
+    "song": {
+      "musicAuthor": "Guns N Roses",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485168384dd85fd5e95831252f60",
+      "musicTitle": "Paradise City",
+      "radio": "Rádio ROCK",
+      "startTime": "11:32"
+    },
+    "recorded_at": "2025-12-05T11:33:25.973852+01:00",
+    "raw_valid": true,
+    "song_session_id": "23d6bc77-b601-4130-b6ed-d2100fce45ba"
+  },
+  {
+    "last_update": "2025-12-05 10:40:26",
+    "song": {
+      "musicAuthor": "Limp Bizkit",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048514a31b146c7cf07705d912efe",
+      "musicTitle": "My Generation",
+      "radio": "Rádio ROCK",
+      "startTime": "11:39"
+    },
+    "recorded_at": "2025-12-05T11:40:26.953409+01:00",
+    "raw_valid": true,
+    "song_session_id": "7937646f-4177-4db6-af32-d3a69233b849"
+  },
+  {
+    "last_update": "2025-12-05 10:44:26",
+    "song": {
+      "musicAuthor": "Offspring, The",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851cbd2ee7dff77bfb2b5f0af52",
+      "musicTitle": "Pretty Fly  (For A White Guy)",
+      "radio": "Rádio ROCK",
+      "startTime": "11:43"
+    },
+    "recorded_at": "2025-12-05T11:44:27.432891+01:00",
+    "raw_valid": true,
+    "song_session_id": "96bd385f-308b-47c8-9816-b44bc92a6439"
+  },
+  {
+    "last_update": "2025-12-05 10:47:27",
+    "song": {
+      "musicAuthor": "Zz Top",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485128a00032ff3b86af3d7e0e54",
+      "musicTitle": "Gimme All Your Lovin'",
+      "radio": "Rádio ROCK",
+      "startTime": "11:46"
+    },
+    "recorded_at": "2025-12-05T11:47:27.641076+01:00",
+    "raw_valid": true,
+    "song_session_id": "ec4ea4ef-4852-46e8-b1c1-2a5ccf33dffd"
+  },
+  {
+    "last_update": "2025-12-05 10:51:27",
+    "song": {
+      "musicAuthor": "Kings Of Leon",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048512519d01c0cca06f134eeadd8",
+      "musicTitle": "Sex On The Fire",
+      "radio": "Rádio ROCK",
+      "startTime": "11:50"
+    },
+    "recorded_at": "2025-12-05T11:51:27.902798+01:00",
+    "raw_valid": true,
+    "song_session_id": "c295d88a-ee9e-4143-98a5-3d910e2f75a8"
+  },
+  {
+    "last_update": "2025-12-05 10:55:27",
+    "song": {
+      "musicAuthor": "Ac/Dc",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048510b51f8d91f3a21e8426361ae",
+      "musicTitle": "You Shook Me All Night Long",
+      "radio": "Rádio ROCK",
+      "startTime": "11:54"
+    },
+    "recorded_at": "2025-12-05T11:55:28.160002+01:00",
+    "raw_valid": true,
+    "song_session_id": "3fc934eb-7c88-4610-94ff-2b10874405d2"
+  },
+  {
+    "last_update": "2025-12-05 10:58:28",
+    "song": {
+      "musicAuthor": "Nightwish",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485183f074bfd3e213283dcdb561",
+      "musicTitle": "Amaranth",
+      "radio": "Rádio ROCK",
+      "startTime": "11:57"
+    },
+    "recorded_at": "2025-12-05T11:58:28.861629+01:00",
+    "raw_valid": true,
+    "song_session_id": "bc5e0a43-bf0f-4075-95b3-bac4bc8d973a"
+  },
+  {
+    "last_update": "2025-12-05 11:02:29",
+    "song": {
+      "musicAuthor": "Oasis",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485185e5dcc05cc216a10f141480",
+      "musicTitle": "Don't Look Back In Anger",
+      "radio": "Rádio ROCK",
+      "startTime": "12:01"
+    },
+    "recorded_at": "2025-12-05T12:02:29.919622+01:00",
+    "raw_valid": true,
+    "song_session_id": "52c4acd4-8a74-4457-a8b5-4c469da8c0ff"
+  },
+  {
+    "last_update": "2025-12-05 11:07:32",
+    "song": {
+      "musicAuthor": "The Ramones",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851db687db0afb257abdee10816",
+      "musicTitle": "Blitzkrieg Bop",
+      "radio": "Rádio ROCK",
+      "startTime": "12:06"
+    },
+    "recorded_at": "2025-12-05T12:07:32.151021+01:00",
+    "raw_valid": true,
+    "song_session_id": "9d612c03-f4d5-46ea-9464-8b1c37f35a12"
+  },
+  {
+    "last_update": "2025-12-05 11:10:31",
+    "song": {
+      "musicAuthor": "Manson Marylin",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048513e2c4ed336c6b4ebb1a4bde9",
+      "musicTitle": "Personal Jesus",
+      "radio": "Rádio ROCK",
+      "startTime": "12:09"
+    },
+    "recorded_at": "2025-12-05T12:10:32.397802+01:00",
+    "raw_valid": true,
+    "song_session_id": "322388c0-49da-4eea-89c9-963b594955c6"
+  },
+  {
+    "last_update": "2025-12-05 11:14:32",
+    "song": {
+      "musicAuthor": "Tublatanka",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851b54405791cd53dbb0726802e",
+      "musicTitle": "Ja Sa Vrátim",
+      "radio": "Rádio ROCK",
+      "startTime": "12:14"
+    },
+    "recorded_at": "2025-12-05T12:14:32.666092+01:00",
+    "raw_valid": true,
+    "song_session_id": "2f823f2a-afd2-453e-bd02-89a3b0b2fb69"
+  },
+  {
+    "last_update": "2025-12-05 11:18:32",
+    "song": {
+      "musicAuthor": "Blink 182",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851dd062fffb1397a727f3f1fb6",
+      "musicTitle": "One More Time",
+      "radio": "Rádio ROCK",
+      "startTime": "12:18"
+    },
+    "recorded_at": "2025-12-05T12:18:33.149156+01:00",
+    "raw_valid": true,
+    "song_session_id": "443c0753-d0b7-4c93-857e-6275849db1b2"
+  },
+  {
+    "last_update": "2025-12-05 11:25:33",
+    "song": {
+      "musicAuthor": "Konflikt",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851a971d942d8000f8b2958393c",
+      "musicTitle": "Rebel",
+      "radio": "Rádio ROCK",
+      "startTime": "12:24"
+    },
+    "recorded_at": "2025-12-05T12:25:34.028265+01:00",
+    "raw_valid": true,
+    "song_session_id": "e1ccec55-84f7-4d18-a343-e07c12bc5ec5"
+  },
+  {
+    "last_update": "2025-12-05 11:29:35",
+    "song": {
+      "musicAuthor": "Rammstein",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851a715d32590424cd667879ba3",
+      "musicTitle": "Du Hast",
+      "radio": "Rádio ROCK",
+      "startTime": "12:28"
+    },
+    "recorded_at": "2025-12-05T12:29:35.041867+01:00",
+    "raw_valid": true,
+    "song_session_id": "aecadc14-3310-4403-8db2-730efbf358e9"
+  },
+  {
+    "last_update": "2025-12-05 11:32:36",
+    "song": {
+      "musicAuthor": "Fall Out Boy",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851ff59837e170f95a373afc0ec",
+      "musicTitle": "Love From The Other Side",
+      "radio": "Rádio ROCK",
+      "startTime": "12:32"
+    },
+    "recorded_at": "2025-12-05T12:32:36.329764+01:00",
+    "raw_valid": true,
+    "song_session_id": "50805fdc-3ea1-4e2f-bc84-c3d4103f0418"
+  },
+  {
+    "last_update": "2025-12-05 11:37:37",
+    "song": {
+      "musicAuthor": "Iné Kafe",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485162c956030346948c7662f08d",
+      "musicTitle": "Spomienky Na Budúcnosť",
+      "radio": "Rádio ROCK",
+      "startTime": "12:36"
+    },
+    "recorded_at": "2025-12-05T12:37:37.993766+01:00",
+    "raw_valid": true,
+    "song_session_id": "8a86019b-49ab-4070-b6ce-2d245f0e3605"
+  },
+  {
+    "last_update": "2025-12-05 11:40:08",
+    "song": {
+      "musicAuthor": "Status Quo",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048513b43ef752e5af1d00c1fc213",
+      "musicTitle": "In The Army Now",
+      "radio": "Rádio ROCK",
+      "startTime": "12:39"
+    },
+    "recorded_at": "2025-12-05T12:40:08.219292+01:00",
+    "raw_valid": true,
+    "song_session_id": "37d34911-3803-4537-aa66-e4fb3175f136"
+  },
+  {
+    "last_update": "2025-12-05 11:44:09",
+    "song": {
+      "musicAuthor": "Imagine Dragons",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851407bd04707c463bbb3410737",
+      "musicTitle": "Demons",
+      "radio": "Rádio ROCK",
+      "startTime": "12:43"
+    },
+    "recorded_at": "2025-12-05T12:44:09.302684+01:00",
+    "raw_valid": true,
+    "song_session_id": "540c98e2-1e53-4c08-aa3e-4a3f5121210e"
+  },
+  {
+    "last_update": "2025-12-05 11:47:08",
+    "song": {
+      "musicAuthor": "The New Radicals",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048517d1327a4c19aad3c03e5557c",
+      "musicTitle": "Someday We'll Know",
+      "radio": "Rádio ROCK",
+      "startTime": "12:46"
+    },
+    "recorded_at": "2025-12-05T12:47:09.473836+01:00",
+    "raw_valid": true,
+    "song_session_id": "970dab01-bc28-456e-982d-cc742c9f5d11"
+  },
+  {
+    "last_update": "2025-12-05 11:50:09",
+    "song": {
+      "musicAuthor": "Guns N Roses",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485168384dd85fd5e95831252f60",
+      "musicTitle": "Welcome To The Jungle",
+      "radio": "Rádio ROCK",
+      "startTime": "12:50"
+    },
+    "recorded_at": "2025-12-05T12:50:09.777911+01:00",
+    "raw_valid": true,
+    "song_session_id": "0491e227-7ad1-4f82-9abb-446ca1c5f166"
+  },
+  {
+    "last_update": "2025-12-05 11:55:10",
+    "song": {
+      "musicAuthor": "System Of A Down",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851f5e7b2e5adaa87430a3eccff",
+      "musicTitle": "Hypnotize",
+      "radio": "Rádio ROCK",
+      "startTime": "12:54"
+    },
+    "recorded_at": "2025-12-05T12:55:10.565867+01:00",
+    "raw_valid": true,
+    "song_session_id": "dad6195a-74fe-4d08-9aa6-2d9b957e13c3"
+  }
+]

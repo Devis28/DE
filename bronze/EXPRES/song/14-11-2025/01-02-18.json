@@ -1,0 +1,418 @@
+[
+  {
+    "song": "Afterlife",
+    "artists": [
+      "Michael Schulte"
+    ],
+    "isrc": "DECE72500509",
+    "start_time": "2025-11-14 00:05:11",
+    "radio": "expres",
+    "recorded_at": "2025-11-14T00:05:46.946135+01:00",
+    "raw_valid": true,
+    "song_session_id": "f7a8a48f-b4eb-4822-9072-cb127fc34c56"
+  },
+  {
+    "song": "Kym Ty Spis",
+    "artists": [
+      "Tina"
+    ],
+    "isrc": "CZA230600522",
+    "start_time": "2025-11-14 00:08:03",
+    "radio": "expres",
+    "recorded_at": "2025-11-14T00:08:29.727970+01:00",
+    "raw_valid": true,
+    "song_session_id": "da99eedb-dd2b-4b18-9e34-a5b664ace5e5"
+  },
+  {
+    "song": "Ordinary",
+    "artists": [
+      "Alex Warren"
+    ],
+    "isrc": "USAT22500463",
+    "start_time": "2025-11-14 00:11:05",
+    "radio": "expres",
+    "recorded_at": "2025-11-14T00:11:40.346060+01:00",
+    "raw_valid": true,
+    "song_session_id": "be3017ff-e5c8-487a-8d9c-fd89a88d33f0"
+  },
+  {
+    "song": "Anjel",
+    "artists": [
+      "Desmod"
+    ],
+    "isrc": "SKE491500202",
+    "start_time": "2025-11-14 00:14:09",
+    "radio": "expres",
+    "recorded_at": "2025-11-14T00:14:48.290042+01:00",
+    "raw_valid": true,
+    "song_session_id": "a1a84d4d-6f40-4650-878d-8ac5b067355c"
+  },
+  {
+    "song": "The Time Of My Life",
+    "artists": [
+      "Bill Medley",
+      "Jennifer Warnes"
+    ],
+    "isrc": "USRC10300895",
+    "start_time": "2025-11-14 00:17:18",
+    "radio": "expres",
+    "recorded_at": "2025-11-14T00:17:41.920007+01:00",
+    "raw_valid": true,
+    "song_session_id": "eec4a18e-7091-4db4-9915-e2e63b8cbd6a"
+  },
+  {
+    "song": "Vsetko Bude Dobre",
+    "artists": [
+      "Gladiator"
+    ],
+    "isrc": "SKCM72560001",
+    "start_time": "2025-11-14 00:21:46",
+    "radio": "expres",
+    "recorded_at": "2025-11-14T00:22:07.123359+01:00",
+    "raw_valid": true,
+    "song_session_id": "2881d5ba-e269-4cd5-9c30-1b011c4827fb"
+  },
+  {
+    "song": "Flowers",
+    "artists": [
+      "Alle Farben",
+      "Graham Candy",
+      "Lahos"
+    ],
+    "isrc": "DEA622500325",
+    "start_time": "2025-11-14 00:24:51",
+    "radio": "expres",
+    "recorded_at": "2025-11-14T00:25:15.246715+01:00",
+    "raw_valid": true,
+    "song_session_id": "8a442434-3f0c-42e6-bab0-04ee4a6f659b"
+  },
+  {
+    "song": "Ja Som To Vedel",
+    "artists": [
+      "Polemic"
+    ],
+    "isrc": "CZA210000560",
+    "start_time": "2025-11-14 00:27:39",
+    "radio": "expres",
+    "recorded_at": "2025-11-14T00:28:22.644547+01:00",
+    "raw_valid": true,
+    "song_session_id": "18cb8aac-b5a4-4be2-a427-ccdf948de11c"
+  },
+  {
+    "song": "White Flag",
+    "artists": [
+      "Dido"
+    ],
+    "isrc": "GBBXH0300035",
+    "start_time": "2025-11-14 00:30:17",
+    "radio": "expres",
+    "recorded_at": "2025-11-14T00:30:47.224572+01:00",
+    "raw_valid": true,
+    "song_session_id": "145d41e3-cc0a-4fa3-bbd8-581734f179a5"
+  },
+  {
+    "song": "Million Good Reasons",
+    "artists": [
+      "Robin Schulz",
+      "Fast Boy"
+    ],
+    "isrc": "DEA622404738",
+    "start_time": "2025-11-14 00:34:31",
+    "radio": "expres",
+    "recorded_at": "2025-11-14T00:35:06.575829+01:00",
+    "raw_valid": true,
+    "song_session_id": "8278dd7a-0f51-4347-a7e9-4e17bc38b7b1"
+  },
+  {
+    "song": "Vietor",
+    "artists": [
+      "Zdenka Predna"
+    ],
+    "isrc": "USDY42023020",
+    "start_time": "2025-11-14 00:37:13",
+    "radio": "expres",
+    "recorded_at": "2025-11-14T00:37:49.570443+01:00",
+    "raw_valid": true,
+    "song_session_id": "902621ef-e121-4d1d-bcae-412a99b07f1e"
+  },
+  {
+    "song": "When You Say Nothing At All",
+    "artists": [
+      "Ronan Keating"
+    ],
+    "isrc": "GBAKW9900139",
+    "start_time": "2025-11-14 00:41:03",
+    "radio": "expres",
+    "recorded_at": "2025-11-14T00:41:43.765954+01:00",
+    "raw_valid": true,
+    "song_session_id": "0a767637-0832-482e-a8a5-d8d7520d974d"
+  },
+  {
+    "song": "Vidiecan",
+    "artists": [
+      "Vidiek"
+    ],
+    "isrc": "SKA128810408",
+    "start_time": "2025-11-14 00:45:09",
+    "radio": "expres",
+    "recorded_at": "2025-11-14T00:45:44.411775+01:00",
+    "raw_valid": true,
+    "song_session_id": "cc4e9c26-91de-4ebf-b4e2-d54cffb2582a"
+  },
+  {
+    "song": "Golden",
+    "artists": [
+      "Kpop Demon Hunters"
+    ],
+    "isrc": "QZ8BZ2513510",
+    "start_time": "2025-11-14 00:48:24",
+    "radio": "expres",
+    "recorded_at": "2025-11-14T00:48:47.581243+01:00",
+    "raw_valid": true,
+    "song_session_id": "3c1de129-1778-40e1-bf1b-e87fb9efa6b3"
+  },
+  {
+    "song": "Ty A Tvoja Sestra",
+    "artists": [
+      "No Name"
+    ],
+    "isrc": "SKA010005401",
+    "start_time": "2025-11-14 00:51:14",
+    "radio": "expres",
+    "recorded_at": "2025-11-14T00:51:50.449757+01:00",
+    "raw_valid": true,
+    "song_session_id": "db633136-ccb1-4995-bd07-8ec4758ef352"
+  },
+  {
+    "song": "Shut Up And Dance",
+    "artists": [
+      "Walk The Moon"
+    ],
+    "isrc": "USRC11401949",
+    "start_time": "2025-11-14 00:54:28",
+    "radio": "expres",
+    "recorded_at": "2025-11-14T00:54:53.303771+01:00",
+    "raw_valid": true,
+    "song_session_id": "3bd0323d-acd4-47cc-a932-6b9e7585e54d"
+  },
+  {
+    "song": "Fonky Nalada",
+    "artists": [
+      "Made 2 Mate"
+    ],
+    "isrc": "CZA239800877",
+    "start_time": "2025-11-14 00:58:01",
+    "radio": "expres",
+    "recorded_at": "2025-11-14T00:58:36.695630+01:00",
+    "raw_valid": true,
+    "song_session_id": "d2a99179-47ba-4a50-af24-5ef1beee7493"
+  },
+  {
+    "song": "Austin",
+    "artists": [
+      "Dasha"
+    ],
+    "isrc": "QZTB92360479",
+    "start_time": "2025-11-14 01:02:12",
+    "radio": "expres",
+    "recorded_at": "2025-11-14T01:02:48.773846+01:00",
+    "raw_valid": true,
+    "song_session_id": "37bc759d-5a39-402c-8762-f40719f66d9f"
+  },
+  {
+    "song": "Luc",
+    "artists": [
+      "Buranowski"
+    ],
+    "isrc": "SKA011700059",
+    "start_time": "2025-11-14 01:05:05",
+    "radio": "expres",
+    "recorded_at": "2025-11-14T01:05:49.499305+01:00",
+    "raw_valid": true,
+    "song_session_id": "ccf3fe51-71af-4e3e-8b82-939cd18f3f51"
+  },
+  {
+    "song": "Be Mine",
+    "artists": [
+      "Kamrad"
+    ],
+    "isrc": "DE1NJ2500035",
+    "start_time": "2025-11-14 01:09:01",
+    "radio": "expres",
+    "recorded_at": "2025-11-14T01:09:28.658720+01:00",
+    "raw_valid": true,
+    "song_session_id": "ae8c72bd-056d-4870-b38a-d9f6b6e49e08"
+  },
+  {
+    "song": "Mozme Si Uz Odpustit",
+    "artists": [
+      "Zuzana Smatanova"
+    ],
+    "isrc": "SKI941800605",
+    "start_time": "2025-11-14 01:11:38",
+    "radio": "expres",
+    "recorded_at": "2025-11-14T01:12:11.176631+01:00",
+    "raw_valid": true,
+    "song_session_id": "d9f60fbd-2afe-4bfe-82aa-13355a7b32f0"
+  },
+  {
+    "song": "Freed From Desire",
+    "artists": [
+      "Gala"
+    ],
+    "isrc": "ITA179700143",
+    "start_time": "2025-11-14 01:15:26",
+    "radio": "expres",
+    "recorded_at": "2025-11-14T01:16:08.642640+01:00",
+    "raw_valid": true,
+    "song_session_id": "3e2395dc-fe33-4624-a4bc-52b5f01472a0"
+  },
+  {
+    "song": "S Tebou Bez Teba",
+    "artists": [
+      "Pavol Habera"
+    ],
+    "isrc": "TCADJ1714985",
+    "start_time": "2025-11-14 01:19:07",
+    "radio": "expres",
+    "recorded_at": "2025-11-14T01:19:51.463620+01:00",
+    "raw_valid": true,
+    "song_session_id": "a2d11ea3-a1ac-4609-9083-1b227f49e4a5"
+  },
+  {
+    "song": "The Fate Of Ophelia",
+    "artists": [
+      "Taylor Swift"
+    ],
+    "isrc": "USUG12506436",
+    "start_time": "2025-11-14 01:23:33",
+    "radio": "expres",
+    "recorded_at": "2025-11-14T01:24:10.631905+01:00",
+    "raw_valid": true,
+    "song_session_id": "b3651fe8-7d93-4c28-996c-127a3cbc1e94"
+  },
+  {
+    "song": "Ako Obrazok",
+    "artists": [
+      "Miro Zbirka"
+    ],
+    "isrc": "SKA128000008",
+    "start_time": "2025-11-14 01:27:24",
+    "radio": "expres",
+    "recorded_at": "2025-11-14T01:27:54.576043+01:00",
+    "raw_valid": true,
+    "song_session_id": "4524f3c8-6008-4c07-84f8-12dfa78537e5"
+  },
+  {
+    "song": "Why Why Why",
+    "artists": [
+      "Shawn Mendes"
+    ],
+    "isrc": "USUM72408543",
+    "start_time": "2025-11-14 01:30:44",
+    "radio": "expres",
+    "recorded_at": "2025-11-14T01:31:17.830937+01:00",
+    "raw_valid": true,
+    "song_session_id": "7404f00c-9baf-40c3-bb24-8c97ff4d7805"
+  },
+  {
+    "song": "The One",
+    "artists": [
+      "Michael Patrick Kelly"
+    ],
+    "isrc": "DEE862500476",
+    "start_time": "2025-11-14 01:33:29",
+    "radio": "expres",
+    "recorded_at": "2025-11-14T01:34:10.728173+01:00",
+    "raw_valid": true,
+    "song_session_id": "6f1bab83-704a-4e45-a9fd-900a12b1c897"
+  },
+  {
+    "song": "Modra",
+    "artists": [
+      "Jana Kirschner"
+    ],
+    "isrc": "SKA010003304",
+    "start_time": "2025-11-14 01:36:24",
+    "radio": "expres",
+    "recorded_at": "2025-11-14T01:36:50.312745+01:00",
+    "raw_valid": true,
+    "song_session_id": "ed277b0a-0d82-4eb1-b686-e2c1bf16852a"
+  },
+  {
+    "song": "Beds Are Burning",
+    "artists": [
+      "Midnight Oil"
+    ],
+    "isrc": "AUBM00700707",
+    "start_time": "2025-11-14 01:40:26",
+    "radio": "expres",
+    "recorded_at": "2025-11-14T01:40:53.923431+01:00",
+    "raw_valid": true,
+    "song_session_id": "5e6580f8-dcab-468a-8c20-29276dac19eb"
+  },
+  {
+    "song": "L.a.s.k.a.",
+    "artists": [
+      "Dominika Mirgova",
+      "Rakby"
+    ],
+    "isrc": "SKE271300030",
+    "start_time": "2025-11-14 01:44:50",
+    "radio": "expres",
+    "recorded_at": "2025-11-14T01:45:30.326319+01:00",
+    "raw_valid": true,
+    "song_session_id": "9bb71e9e-493e-43ef-a8cd-edbef15d7a3e"
+  },
+  {
+    "song": "Say It Right",
+    "artists": [
+      "Nelly Furtado"
+    ],
+    "isrc": "USUM70603368",
+    "start_time": "2025-11-14 01:48:51",
+    "radio": "expres",
+    "recorded_at": "2025-11-14T01:49:30.434981+01:00",
+    "raw_valid": true,
+    "song_session_id": "7453a5ab-c32f-4e6f-80e3-d828af3cf481"
+  },
+  {
+    "song": "Medzi Nebom A Zenou",
+    "artists": [
+      "Banket",
+      "Richard Muller",
+      "Ema Muller"
+    ],
+    "isrc": "SKC362500009",
+    "start_time": "2025-11-14 01:51:52",
+    "radio": "expres",
+    "recorded_at": "2025-11-14T01:52:18.814283+01:00",
+    "raw_valid": true,
+    "song_session_id": "a5be29f7-5158-4946-a6c7-0932b5d9d02d"
+  },
+  {
+    "song": "Waterfall",
+    "artists": [
+      "Michael Schulte",
+      "R3Hab"
+    ],
+    "isrc": "DEUM72119688",
+    "start_time": "2025-11-14 01:55:55",
+    "radio": "expres",
+    "recorded_at": "2025-11-14T01:56:17.263844+01:00",
+    "raw_valid": true,
+    "song_session_id": "5c17c2e7-bbed-40a9-9b58-3b75c09b2276"
+  },
+  {
+    "song": "Kingdom",
+    "artists": [
+      "Dennyiah"
+    ],
+    "isrc": "usl4r1910412",
+    "start_time": "2025-11-14 01:58:25",
+    "radio": "expres",
+    "recorded_at": "2025-11-14T01:59:00.478696+01:00",
+    "raw_valid": true,
+    "song_session_id": "34a541b3-630e-49fa-b5a5-1d8c7b2ccc99"
+  }
+]

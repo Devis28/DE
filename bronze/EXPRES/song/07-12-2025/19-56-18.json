@@ -1,0 +1,393 @@
+[
+  {
+    "song": "Do They Know Its Christmas?",
+    "artists": [
+      "Band Aid"
+    ],
+    "isrc": "GBF088400001",
+    "start_time": "2025-12-07 18:57:07",
+    "radio": "expres",
+    "recorded_at": "2025-12-07T18:57:29.639602+01:00",
+    "raw_valid": true,
+    "song_session_id": "411335cb-57c5-42bf-9bf5-d101527a1420"
+  },
+  {
+    "song": "The One",
+    "artists": [
+      "Michael Patrick Kelly"
+    ],
+    "isrc": "DEE862500476",
+    "start_time": "2025-12-07 19:05:31",
+    "radio": "expres",
+    "recorded_at": "2025-12-07T19:05:51.153291+01:00",
+    "raw_valid": true,
+    "song_session_id": "346e731e-dc17-462f-b22a-01d071ca8cc9"
+  },
+  {
+    "song": "How You Remind Me",
+    "artists": [
+      "Nickelback"
+    ],
+    "isrc": "NLA320119533",
+    "start_time": "2025-12-07 19:08:40",
+    "radio": "expres",
+    "recorded_at": "2025-12-07T19:09:13.879667+01:00",
+    "raw_valid": true,
+    "song_session_id": "f519c93e-a78e-495c-b8be-405804161fb3"
+  },
+  {
+    "song": "Why Why Why",
+    "artists": [
+      "Shawn Mendes"
+    ],
+    "isrc": "USUM72408543",
+    "start_time": "2025-12-07 19:12:11",
+    "radio": "expres",
+    "recorded_at": "2025-12-07T19:12:36.694997+01:00",
+    "raw_valid": true,
+    "song_session_id": "25869de3-8197-4d65-9787-f974bc220924"
+  },
+  {
+    "song": "Forget Me",
+    "artists": [
+      "Lewis Capaldi"
+    ],
+    "isrc": "DEUM72204717",
+    "start_time": "2025-12-07 19:14:58",
+    "radio": "expres",
+    "recorded_at": "2025-12-07T19:15:34.364497+01:00",
+    "raw_valid": true,
+    "song_session_id": "47d8c956-be79-4480-b97f-4332b3778c3f"
+  },
+  {
+    "song": "Where Is My Husband",
+    "artists": [
+      "Raye"
+    ],
+    "isrc": "QMFME2535037",
+    "start_time": "2025-12-07 19:18:18",
+    "radio": "expres",
+    "recorded_at": "2025-12-07T19:18:37.065898+01:00",
+    "raw_valid": true,
+    "song_session_id": "786a954c-1bb1-4928-9c68-a63744cbebc7"
+  },
+  {
+    "song": "Sweet Dreams",
+    "artists": [
+      "Eurythmics"
+    ],
+    "isrc": "GBARL0300589",
+    "start_time": "2025-12-07 19:21:53",
+    "radio": "expres",
+    "recorded_at": "2025-12-07T19:22:20.171769+01:00",
+    "raw_valid": true,
+    "song_session_id": "20d8fdd0-c65b-4738-b8ad-022bd62e5116"
+  },
+  {
+    "song": "Stargazing",
+    "artists": [
+      "Myles Smith"
+    ],
+    "isrc": "GBARL2400510",
+    "start_time": "2025-12-07 19:25:22",
+    "radio": "expres",
+    "recorded_at": "2025-12-07T19:25:37.678391+01:00",
+    "raw_valid": true,
+    "song_session_id": "e86cdd3f-3c06-4182-9cfd-9ac22252d161"
+  },
+  {
+    "song": "Na Vianoce",
+    "artists": [
+      "Adam Durica"
+    ],
+    "isrc": "SKA011700088",
+    "start_time": "2025-12-07 19:28:16",
+    "radio": "expres",
+    "recorded_at": "2025-12-07T19:28:36.463965+01:00",
+    "raw_valid": true,
+    "song_session_id": "f0e2bbaa-a695-457b-978c-3bfcc8025921"
+  },
+  {
+    "song": "Wonderful Life 25",
+    "artists": [
+      "Hurts",
+      "Purple Disco Machine"
+    ],
+    "isrc": "DEE862500677",
+    "start_time": "2025-12-07 19:33:17",
+    "radio": "expres",
+    "recorded_at": "2025-12-07T19:33:40.241621+01:00",
+    "raw_valid": true,
+    "song_session_id": "1e705d6b-d2bb-498b-98c9-f3acc211ef22"
+  },
+  {
+    "song": "Danza Kuduro",
+    "artists": [
+      "Lucenzo",
+      "Don Omar"
+    ],
+    "isrc": "USUM71020778",
+    "start_time": "2025-12-07 19:36:21",
+    "radio": "expres",
+    "recorded_at": "2025-12-07T19:36:41.008387+01:00",
+    "raw_valid": true,
+    "song_session_id": "f164d311-f0b7-432f-978a-3c3c7b5e7255"
+  },
+  {
+    "song": "Two Princes",
+    "artists": [
+      "Spin Doctors"
+    ],
+    "isrc": "USSM19000350",
+    "start_time": "2025-12-07 19:39:50",
+    "radio": "expres",
+    "recorded_at": "2025-12-07T19:40:02.098556+01:00",
+    "raw_valid": true,
+    "song_session_id": "81eb8753-c773-424f-81e5-1e4c1643d7ff"
+  },
+  {
+    "song": "Glide",
+    "artists": [
+      "Neiked",
+      "Portugal The Man"
+    ],
+    "isrc": "DEE862500421",
+    "start_time": "2025-12-07 19:44:08",
+    "radio": "expres",
+    "recorded_at": "2025-12-07T19:44:23.823317+01:00",
+    "raw_valid": true,
+    "song_session_id": "2be5dbfa-3de3-45dd-8194-12af5d760a90"
+  },
+  {
+    "song": "Len Ty Smies",
+    "artists": [
+      "Zdenka Predna"
+    ],
+    "isrc": "CZA210500897",
+    "start_time": "2025-12-07 19:47:05",
+    "radio": "expres",
+    "recorded_at": "2025-12-07T19:47:25.902523+01:00",
+    "raw_valid": true,
+    "song_session_id": "bf65d8c1-7441-4f50-802b-886110e85743"
+  },
+  {
+    "song": "Feel Alive",
+    "artists": [
+      "Kamrad"
+    ],
+    "isrc": "DEE862202500",
+    "start_time": "2025-12-07 19:50:56",
+    "radio": "expres",
+    "recorded_at": "2025-12-07T19:51:30.349309+01:00",
+    "raw_valid": true,
+    "song_session_id": "00c6c148-b0c4-4f9d-9bc0-02ac286b9615"
+  },
+  {
+    "song": "Make It Right",
+    "artists": [
+      "Tom Gregory",
+      "Vize"
+    ],
+    "isrc": "DEE862501109",
+    "start_time": "2025-12-07 19:53:22",
+    "radio": "expres",
+    "recorded_at": "2025-12-07T19:53:46.987786+01:00",
+    "raw_valid": true,
+    "song_session_id": "519e2e08-6f22-40c6-b8f8-e66be247a109"
+  },
+  {
+    "song": "All I Want For Christmas Is You",
+    "artists": [
+      "Mariah Carey"
+    ],
+    "isrc": "USSM19400325",
+    "start_time": "2025-12-07 19:55:53",
+    "radio": "expres",
+    "recorded_at": "2025-12-07T19:56:09.932088+01:00",
+    "raw_valid": true,
+    "song_session_id": "30dd055c-ecac-4e1e-8664-578f6a49d6df"
+  },
+  {
+    "song": "Ray Of Light",
+    "artists": [
+      "Nico Santos"
+    ],
+    "isrc": "DECE72402394",
+    "start_time": "2025-12-07 20:04:33",
+    "radio": "expres",
+    "recorded_at": "2025-12-07T20:04:50.570404+01:00",
+    "raw_valid": true,
+    "song_session_id": "8ebfb1bb-50cc-4a67-b299-19480df6b438"
+  },
+  {
+    "song": "Untitled",
+    "artists": [
+      "Simple Plan"
+    ],
+    "isrc": "USAT20402500",
+    "start_time": "2025-12-07 20:07:39",
+    "radio": "expres",
+    "recorded_at": "2025-12-07T20:07:53.292671+01:00",
+    "raw_valid": true,
+    "song_session_id": "d87e0e5e-e8a4-47b3-8ad1-43f2eb23f8a9"
+  },
+  {
+    "song": "Mystical Magical",
+    "artists": [
+      "Benson Boone"
+    ],
+    "isrc": "USWB12500844",
+    "start_time": "2025-12-07 20:11:00",
+    "radio": "expres",
+    "recorded_at": "2025-12-07T20:11:17.290611+01:00",
+    "raw_valid": true,
+    "song_session_id": "b5691a3a-2520-4b32-976e-7ecb6ccdf80c"
+  },
+  {
+    "song": "Sofia",
+    "artists": [
+      "Alvaro Soler"
+    ],
+    "isrc": "DEUM71601055",
+    "start_time": "2025-12-07 20:13:44",
+    "radio": "expres",
+    "recorded_at": "2025-12-07T20:13:58.282600+01:00",
+    "raw_valid": true,
+    "song_session_id": "84c40f87-8a5d-4469-950d-1f3080192248"
+  },
+  {
+    "song": "Mad",
+    "artists": [
+      "Martin Garrix",
+      "Lauv"
+    ],
+    "isrc": "NLM5S2502535",
+    "start_time": "2025-12-07 20:17:11",
+    "radio": "expres",
+    "recorded_at": "2025-12-07T20:17:41.608333+01:00",
+    "raw_valid": true,
+    "song_session_id": "8bc9c60e-bb40-4707-ac88-6b794f518517"
+  },
+  {
+    "song": "Dont Stop Me Now",
+    "artists": [
+      "Queen"
+    ],
+    "isrc": "GBUM71029610",
+    "start_time": "2025-12-07 20:20:56",
+    "radio": "expres",
+    "recorded_at": "2025-12-07T20:21:20.749349+01:00",
+    "raw_valid": true,
+    "song_session_id": "6bc29f37-b873-42a2-bcb2-83bf9fbbce3f"
+  },
+  {
+    "song": "Chasing Paradise",
+    "artists": [
+      "Kygo",
+      "Onerepublic"
+    ],
+    "isrc": "SEBGA2500019",
+    "start_time": "2025-12-07 20:24:12",
+    "radio": "expres",
+    "recorded_at": "2025-12-07T20:24:44.664604+01:00",
+    "raw_valid": true,
+    "song_session_id": "0d695754-2c88-4057-b748-cad236ac5c5b"
+  },
+  {
+    "song": "Driving Home For Christmas",
+    "artists": [
+      "Chris Rea"
+    ],
+    "isrc": "GBAHS9904091",
+    "start_time": "2025-12-07 20:27:16",
+    "radio": "expres",
+    "recorded_at": "2025-12-07T20:27:48.397407+01:00",
+    "raw_valid": true,
+    "song_session_id": "e6f52a63-54c3-4316-8618-55755db97290"
+  },
+  {
+    "song": "Undressed",
+    "artists": [
+      "Sombr"
+    ],
+    "isrc": "USWB12500737",
+    "start_time": "2025-12-07 20:32:47",
+    "radio": "expres",
+    "recorded_at": "2025-12-07T20:33:08.783041+01:00",
+    "raw_valid": true,
+    "song_session_id": "6b157f51-14bc-4d08-984e-1cb619b82985"
+  },
+  {
+    "song": "Nie Sme Zli",
+    "artists": [
+      "Elan"
+    ],
+    "isrc": "SKA128229911",
+    "start_time": "2025-12-07 20:35:55",
+    "radio": "expres",
+    "recorded_at": "2025-12-07T20:36:26.543370+01:00",
+    "raw_valid": true,
+    "song_session_id": "8c1e999f-6c56-41fb-a700-bc77cee1c772"
+  },
+  {
+    "song": "Se Bastasse Una Canzone",
+    "artists": [
+      "Eros Ramazzotti"
+    ],
+    "isrc": "ITB009700365",
+    "start_time": "2025-12-07 20:39:45",
+    "radio": "expres",
+    "recorded_at": "2025-12-07T20:40:08.239851+01:00",
+    "raw_valid": true,
+    "song_session_id": "d6cca403-6972-494b-8987-d11b93eabe14"
+  },
+  {
+    "song": "Love Me Not",
+    "artists": [
+      "Ravyn Lenae"
+    ],
+    "isrc": "USAT22401137",
+    "start_time": "2025-12-07 20:44:10",
+    "radio": "expres",
+    "recorded_at": "2025-12-07T20:44:33.077142+01:00",
+    "raw_valid": true,
+    "song_session_id": "18438bcc-ede1-4524-863e-1f78e7b36615"
+  },
+  {
+    "song": "Leave Before You Love Me",
+    "artists": [
+      "Marshmello",
+      "Jonas Brothers"
+    ],
+    "isrc": "USUG12102313",
+    "start_time": "2025-12-07 20:47:24",
+    "radio": "expres",
+    "recorded_at": "2025-12-07T20:47:55.671717+01:00",
+    "raw_valid": true,
+    "song_session_id": "d4f9ff6f-6095-44bc-925a-aec5d2c0203f"
+  },
+  {
+    "song": "Eyes Closed",
+    "artists": [
+      "Imagine Dragons"
+    ],
+    "isrc": "USUM72402448",
+    "start_time": "2025-12-07 20:50:03",
+    "radio": "expres",
+    "recorded_at": "2025-12-07T20:50:39.121873+01:00",
+    "raw_valid": true,
+    "song_session_id": "b8aa625d-5816-44fe-a093-24dc7d85b743"
+  },
+  {
+    "song": "Eternity",
+    "artists": [
+      "Alex Warren"
+    ],
+    "isrc": "USAT22503779",
+    "start_time": "2025-12-07 20:53:14",
+    "radio": "expres",
+    "recorded_at": "2025-12-07T20:53:36.434421+01:00",
+    "raw_valid": true,
+    "song_session_id": "4daf39b6-fca1-4094-a377-22c9ab0ab331"
+  }
+]

@@ -1,0 +1,418 @@
+[
+  {
+    "last_update": "2025-11-05 01:02:10",
+    "song": {
+      "musicAuthor": "Queen",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048512fcad2af6e3d43006c6f42c4",
+      "musicTitle": "I Want It All",
+      "radio": "Rádio ROCK",
+      "startTime": "02:01"
+    },
+    "recorded_at": "2025-11-05T02:02:10.761336+01:00",
+    "raw_valid": true,
+    "song_session_id": "978bb299-9007-4743-8f9b-e69c49d31d4d"
+  },
+  {
+    "last_update": "2025-11-05 01:06:11",
+    "song": {
+      "musicAuthor": "Sounds Like This",
+      "musicCover": "https://static.radia.sk/covers/32/e6e4fa07-555b-40df-8635-20602a2c5eca.jpg",
+      "musicTitle": "Anything You Want",
+      "radio": "Rádio ROCK",
+      "startTime": "02:05"
+    },
+    "recorded_at": "2025-11-05T02:06:11.058275+01:00",
+    "raw_valid": true,
+    "song_session_id": "81c9d0e1-d7fb-44f9-9e61-c039f9781a70"
+  },
+  {
+    "last_update": "2025-11-05 01:11:11",
+    "song": {
+      "musicAuthor": "Tublatanka",
+      "musicCover": "https://static.radia.sk/covers/32/7ee86987-baad-48a6-9afa-0ca560d378f2.jpg",
+      "musicTitle": "Bez Tvojej Lásky",
+      "radio": "Rádio ROCK",
+      "startTime": "02:11"
+    },
+    "recorded_at": "2025-11-05T02:11:12.626250+01:00",
+    "raw_valid": true,
+    "song_session_id": "969f8440-8051-4226-93f0-f40cfd026112"
+  },
+  {
+    "last_update": "2025-11-05 01:15:12",
+    "song": {
+      "musicAuthor": "Bon Jovi",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048515f66fbeaff0725997250591c",
+      "musicTitle": "Always",
+      "radio": "Rádio ROCK",
+      "startTime": "02:14"
+    },
+    "recorded_at": "2025-11-05T02:15:12.903903+01:00",
+    "raw_valid": true,
+    "song_session_id": "18c958c4-4ab6-48e7-94ff-492b3cbb4e59"
+  },
+  {
+    "last_update": "2025-11-05 01:21:14",
+    "song": {
+      "musicAuthor": "The Paranoid",
+      "musicCover": "https://static.radia.sk/covers/32/6a4240f7-0415-4426-b5d7-761e04b4985b.jpg",
+      "musicTitle": "Spovedám Sa",
+      "radio": "Rádio ROCK",
+      "startTime": "02:20"
+    },
+    "recorded_at": "2025-11-05T02:21:14.474278+01:00",
+    "raw_valid": true,
+    "song_session_id": "834299aa-0ebb-4a6f-a2cc-4f3e02d9b804"
+  },
+  {
+    "last_update": "2025-11-05 01:24:15",
+    "song": {
+      "musicAuthor": "The Sisters Of Mercy & Ofra Haza",
+      "musicCover": "/layout/covers/default.png",
+      "musicTitle": "Temple Of Love",
+      "radio": "Rádio ROCK",
+      "startTime": "02:23"
+    },
+    "recorded_at": "2025-11-05T02:24:16.485727+01:00",
+    "raw_valid": true,
+    "song_session_id": "fa619f9f-8b8d-4f6f-93f9-3b9959bd91a2"
+  },
+  {
+    "last_update": "2025-11-05 01:32:16",
+    "song": {
+      "musicAuthor": "Horkýže Slíže",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851a1dba7a16c82818421fc734a",
+      "musicTitle": "Brďokoky",
+      "radio": "Rádio ROCK",
+      "startTime": "02:31"
+    },
+    "recorded_at": "2025-11-05T02:32:17.410860+01:00",
+    "raw_valid": true,
+    "song_session_id": "2afc3019-be62-4a14-9115-9e53e472869e"
+  },
+  {
+    "last_update": "2025-11-05 01:35:17",
+    "song": {
+      "musicAuthor": "Lavagance",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048519dd73490cb009108f64049f2",
+      "musicTitle": "Miles",
+      "radio": "Rádio ROCK",
+      "startTime": "02:34"
+    },
+    "recorded_at": "2025-11-05T02:35:17.914168+01:00",
+    "raw_valid": true,
+    "song_session_id": "ed86c534-d5cc-4d58-a191-f99a7b5292cb"
+  },
+  {
+    "last_update": "2025-11-05 01:38:19",
+    "song": {
+      "musicAuthor": "Hex",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048510f84b352c86a11603fb21691",
+      "musicTitle": "Madelaine",
+      "radio": "Rádio ROCK",
+      "startTime": "02:37"
+    },
+    "recorded_at": "2025-11-05T02:38:19.270328+01:00",
+    "raw_valid": true,
+    "song_session_id": "94a572b7-85d6-4054-a9a4-fd9c6254c233"
+  },
+  {
+    "last_update": "2025-11-05 01:41:19",
+    "song": {
+      "musicAuthor": "Jimi Hendrix",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851c9adfbd773852e286faed040",
+      "musicTitle": "Hey Joe",
+      "radio": "Rádio ROCK",
+      "startTime": "02:40"
+    },
+    "recorded_at": "2025-11-05T02:41:19.487321+01:00",
+    "raw_valid": true,
+    "song_session_id": "18fb6861-584f-4fb4-b2a3-712c572b3e65"
+  },
+  {
+    "last_update": "2025-11-05 01:44:19",
+    "song": {
+      "musicAuthor": "Bod Omylu",
+      "musicCover": "https://static.radia.sk/covers/32/efdbcd0c-c019-4e24-865c-4367e1f5f942.jpg",
+      "musicTitle": "Naskoč",
+      "radio": "Rádio ROCK",
+      "startTime": "02:43"
+    },
+    "recorded_at": "2025-11-05T02:44:19.679168+01:00",
+    "raw_valid": true,
+    "song_session_id": "f9cf7bc2-3f05-4e73-9067-618f8f1af97f"
+  },
+  {
+    "last_update": "2025-11-05 01:47:18",
+    "song": {
+      "musicAuthor": "Volume",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048512f8f7c6960c100ccd4f76b11",
+      "musicTitle": "Sme Slobodni",
+      "radio": "Rádio ROCK",
+      "startTime": "02:46"
+    },
+    "recorded_at": "2025-11-05T02:47:19.861709+01:00",
+    "raw_valid": true,
+    "song_session_id": "afdd0b94-770e-45cf-aa77-8ce5eb01c36a"
+  },
+  {
+    "last_update": "2025-11-05 01:51:19",
+    "song": {
+      "musicAuthor": "Smash Mouth",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048514f3bbf9631faeb8de9912a23",
+      "musicTitle": "All Star",
+      "radio": "Rádio ROCK",
+      "startTime": "02:50"
+    },
+    "recorded_at": "2025-11-05T02:51:20.099308+01:00",
+    "raw_valid": true,
+    "song_session_id": "e08df974-64db-4494-8fe8-ac9e6b577468"
+  },
+  {
+    "last_update": "2025-11-05 01:54:22",
+    "song": {
+      "musicAuthor": "Iné Kafe",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485103c27ca0bab589f21321ec20",
+      "musicTitle": "Ani Minútu",
+      "radio": "Rádio ROCK",
+      "startTime": "02:54"
+    },
+    "recorded_at": "2025-11-05T02:54:22.474765+01:00",
+    "raw_valid": true,
+    "song_session_id": "43c971d3-ae80-428c-87bb-9d0997d2d7bd"
+  },
+  {
+    "last_update": "2025-11-05 01:57:22",
+    "song": {
+      "musicAuthor": "The Black Keys",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048516a21b97de47168df4f0c1993",
+      "musicTitle": "Lonely Boy",
+      "radio": "Rádio ROCK",
+      "startTime": "02:57"
+    },
+    "recorded_at": "2025-11-05T02:57:23.194340+01:00",
+    "raw_valid": true,
+    "song_session_id": "94a7b2c6-612f-433d-bbd3-18195eff900b"
+  },
+  {
+    "last_update": "2025-11-05 02:01:23",
+    "song": {
+      "musicAuthor": "Genesis",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851087ca24aa58e7c67514061a1",
+      "musicTitle": "Land Of Confusion",
+      "radio": "Rádio ROCK",
+      "startTime": "03:00"
+    },
+    "recorded_at": "2025-11-05T03:01:24.782369+01:00",
+    "raw_valid": true,
+    "song_session_id": "a2e36b14-0b3d-4d6e-bf45-abff45414816"
+  },
+  {
+    "last_update": "2025-11-05 02:06:24",
+    "song": {
+      "musicAuthor": "No Control",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485137232f55e32959f3e0092792",
+      "musicTitle": "Rany Na Duši",
+      "radio": "Rádio ROCK",
+      "startTime": "03:05"
+    },
+    "recorded_at": "2025-11-05T03:06:25.220965+01:00",
+    "raw_valid": true,
+    "song_session_id": "4af56cef-00d2-4f28-bf09-05f8260e9fd1"
+  },
+  {
+    "last_update": "2025-11-05 02:09:24",
+    "song": {
+      "musicAuthor": "Tublatanka",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048519fc3c59a54cfa19a7c5d565c",
+      "musicTitle": "Spálená Láska",
+      "radio": "Rádio ROCK",
+      "startTime": "03:09"
+    },
+    "recorded_at": "2025-11-05T03:09:25.437622+01:00",
+    "raw_valid": true,
+    "song_session_id": "65d6e51d-a66c-471c-87e5-059de0b41bf5"
+  },
+  {
+    "last_update": "2025-11-05 02:15:27",
+    "song": {
+      "musicAuthor": "System Of A Down",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851f5e7b2e5adaa87430a3eccff",
+      "musicTitle": "Hypnotize",
+      "radio": "Rádio ROCK",
+      "startTime": "03:14"
+    },
+    "recorded_at": "2025-11-05T03:15:28.108529+01:00",
+    "raw_valid": true,
+    "song_session_id": "2b5f8c31-7988-4c76-9789-8dd14a571dc7"
+  },
+  {
+    "last_update": "2025-11-05 02:18:28",
+    "song": {
+      "musicAuthor": "Plus Minus",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851383e7409ec12e5e9802be3e6",
+      "musicTitle": "Srdce A Pot",
+      "radio": "Rádio ROCK",
+      "startTime": "03:17"
+    },
+    "recorded_at": "2025-11-05T03:18:29.224730+01:00",
+    "raw_valid": true,
+    "song_session_id": "96fda3c8-b9e2-47b7-9dd8-94419d1c4601"
+  },
+  {
+    "last_update": "2025-11-05 02:21:29",
+    "song": {
+      "musicAuthor": "Elevenhill",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048514892aae28648372d6c2b8191",
+      "musicTitle": "Damn Woman",
+      "radio": "Rádio ROCK",
+      "startTime": "03:20"
+    },
+    "recorded_at": "2025-11-05T03:21:29.598827+01:00",
+    "raw_valid": true,
+    "song_session_id": "9897bcfe-3cef-4493-bacb-b0fe7a5da35b"
+  },
+  {
+    "last_update": "2025-11-05 02:25:31",
+    "song": {
+      "musicAuthor": "U2",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485137cd18af5725b9cad0a5ab53",
+      "musicTitle": "One",
+      "radio": "Rádio ROCK",
+      "startTime": "03:24"
+    },
+    "recorded_at": "2025-11-05T03:25:31.592988+01:00",
+    "raw_valid": true,
+    "song_session_id": "8e3da1b5-db99-427a-82a7-522f277b0a6d"
+  },
+  {
+    "last_update": "2025-11-05 02:29:31",
+    "song": {
+      "musicAuthor": "Hex",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851a224357a82f21d6f9f2e584a",
+      "musicTitle": "Nikdy Nebolo Lepšie",
+      "radio": "Rádio ROCK",
+      "startTime": "03:29"
+    },
+    "recorded_at": "2025-11-05T03:29:31.988254+01:00",
+    "raw_valid": true,
+    "song_session_id": "967e638c-05ce-451b-84ea-88cd685e65f1"
+  },
+  {
+    "last_update": "2025-11-05 02:33:31",
+    "song": {
+      "musicAuthor": "Peha",
+      "musicCover": "https://static.radia.sk/covers/32/23af7415-fcaa-4716-aee4-ad3e0de7314a.jpg",
+      "musicTitle": "Vaňa Plná Piraní",
+      "radio": "Rádio ROCK",
+      "startTime": "03:32"
+    },
+    "recorded_at": "2025-11-05T03:33:32.260552+01:00",
+    "raw_valid": true,
+    "song_session_id": "16acf10d-36fd-4899-b336-2b4e1c04732c"
+  },
+  {
+    "last_update": "2025-11-05 02:36:32",
+    "song": {
+      "musicAuthor": "The Subways",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851050e6625600b8f6fb0b3f84c",
+      "musicTitle": "Rock & Roll Queen",
+      "radio": "Rádio ROCK",
+      "startTime": "03:35"
+    },
+    "recorded_at": "2025-11-05T03:36:32.859025+01:00",
+    "raw_valid": true,
+    "song_session_id": "2f9f8bbc-9059-4d32-b92d-c09fa2b2360c"
+  },
+  {
+    "last_update": "2025-11-05 02:38:32",
+    "song": {
+      "musicAuthor": "Smola A Hrusky",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851f060e70d20ae7ac9eaf17978",
+      "musicTitle": "Pivo Bez Palenky",
+      "radio": "Rádio ROCK",
+      "startTime": "03:38"
+    },
+    "recorded_at": "2025-11-05T03:38:32.995665+01:00",
+    "raw_valid": true,
+    "song_session_id": "5293d7b5-bcaa-455c-996d-978e727cc514"
+  },
+  {
+    "last_update": "2025-11-05 02:42:32",
+    "song": {
+      "musicAuthor": "O.B.D.",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851d0c4dd37c1e73f78565286ce",
+      "musicTitle": "Zivy Pokoj",
+      "radio": "Rádio ROCK",
+      "startTime": "03:41"
+    },
+    "recorded_at": "2025-11-05T03:42:33.567979+01:00",
+    "raw_valid": true,
+    "song_session_id": "b2535c61-adc1-4033-b1c3-527cedd2e20c"
+  },
+  {
+    "last_update": "2025-11-05 02:46:33",
+    "song": {
+      "musicAuthor": "The Red Hot Chili Peppers",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851f3686323bf737cb7ba3de792",
+      "musicTitle": "Dani California",
+      "radio": "Rádio ROCK",
+      "startTime": "03:45"
+    },
+    "recorded_at": "2025-11-05T03:46:34.018302+01:00",
+    "raw_valid": true,
+    "song_session_id": "ffc1f06e-9e45-42e3-8ec8-44e1cedf732f"
+  },
+  {
+    "last_update": "2025-11-05 02:50:34",
+    "song": {
+      "musicAuthor": "Lepayaco",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485141a89ef5d65d2ee8e4e8d044",
+      "musicTitle": "Horska Chata",
+      "radio": "Rádio ROCK",
+      "startTime": "03:50"
+    },
+    "recorded_at": "2025-11-05T03:50:34.717881+01:00",
+    "raw_valid": true,
+    "song_session_id": "9dcd91fa-c515-4c18-ae8c-968da2677c49"
+  },
+  {
+    "last_update": "2025-11-05 02:53:34",
+    "song": {
+      "musicAuthor": "David Bowie",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851db0917ddd4139153bc1d1a1a",
+      "musicTitle": "Let's Dance",
+      "radio": "Rádio ROCK",
+      "startTime": "03:53"
+    },
+    "recorded_at": "2025-11-05T03:53:34.989896+01:00",
+    "raw_valid": true,
+    "song_session_id": "3a7a470a-921b-44f6-a950-aa3509d5c0c8"
+  },
+  {
+    "last_update": "2025-11-05 02:57:35",
+    "song": {
+      "musicAuthor": "Bijouterrier",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048517d0015ba5cd2366db03e38f8",
+      "musicTitle": "Wheeler Dealer",
+      "radio": "Rádio ROCK",
+      "startTime": "03:57"
+    },
+    "recorded_at": "2025-11-05T03:57:36.469072+01:00",
+    "raw_valid": true,
+    "song_session_id": "676e7ea6-49ef-476f-80ab-2358372eb54e"
+  },
+  {
+    "last_update": "2025-11-05 03:01:36",
+    "song": {
+      "musicAuthor": "The Police",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851c8e97cafeb2acb85b21a777e",
+      "musicTitle": "Every Breath You Take",
+      "radio": "Rádio ROCK",
+      "startTime": "04:00"
+    },
+    "recorded_at": "2025-11-05T04:01:37.194050+01:00",
+    "raw_valid": true,
+    "song_session_id": "65510ce4-557a-47fe-9d29-f0f9121a9a89"
+  }
+]

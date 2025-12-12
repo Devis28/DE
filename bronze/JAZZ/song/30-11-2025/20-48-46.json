@@ -1,0 +1,269 @@
+[
+  {
+    "song": {
+      "play_date": "2025-11-30",
+      "play_time": "19:46",
+      "artist": [
+        "Yann Tiersen"
+      ],
+      "title": "Comptine D'un Autre Été - The Chief Emperor"
+    },
+    "recorded_at": "2025-11-30T19:49:47.006827+01:00",
+    "raw_valid": true,
+    "song_session_id": "b01ad810-d0f1-4465-85fd-e537c3679c37"
+  },
+  {
+    "song": {
+      "play_date": "2025-11-30",
+      "play_time": "19:52",
+      "artist": [
+        "Denis Gerhardt"
+      ],
+      "title": "Running"
+    },
+    "recorded_at": "2025-11-30T19:54:47.670989+01:00",
+    "raw_valid": true,
+    "song_session_id": "0d8a181a-b2ef-4728-b3a0-8b0c9ee9c290"
+  },
+  {
+    "song": {
+      "play_date": "2025-11-30",
+      "play_time": "19:56",
+      "artist": [
+        "Mario Biondi"
+      ],
+      "title": "Shine On"
+    },
+    "recorded_at": "2025-11-30T19:59:48.354761+01:00",
+    "raw_valid": true,
+    "song_session_id": "8e9bfb36-2976-4c4e-82d1-4aedcfcac360"
+  },
+  {
+    "song": {
+      "play_date": "2025-11-30",
+      "play_time": "20:04",
+      "artist": [
+        "Thelonious Monk",
+        "Sonny Rollins",
+        "Ernie Henry"
+      ],
+      "title": "Brilliant Corners"
+    },
+    "recorded_at": "2025-11-30T20:04:49.049627+01:00",
+    "raw_valid": true,
+    "song_session_id": "aa645dbd-ec83-4ffb-bc45-9cbc6e23c5e7"
+  },
+  {
+    "song": {
+      "play_date": "2025-11-30",
+      "play_time": "20:11",
+      "artist": [
+        "Preßburger Klezmer B"
+      ],
+      "title": "Karshelekh"
+    },
+    "recorded_at": "2025-11-30T20:14:50.430879+01:00",
+    "raw_valid": true,
+    "song_session_id": "5d61e9c0-e11c-44eb-861c-a96d5ee4422f"
+  },
+  {
+    "song": {
+      "play_date": "2025-11-30",
+      "play_time": "20:15",
+      "artist": [
+        "Eric Dolphy"
+      ],
+      "title": "Something Sweet, Something Tender"
+    },
+    "recorded_at": "2025-11-30T20:19:51.105621+01:00",
+    "raw_valid": true,
+    "song_session_id": "7f874307-7acc-4311-8c75-beda08b1e03e"
+  },
+  {
+    "song": {
+      "play_date": "2025-11-30",
+      "play_time": "20:21",
+      "artist": [
+        "Eugen Vizváry",
+        "Anitasoul"
+      ],
+      "title": "Prayer"
+    },
+    "recorded_at": "2025-11-30T20:24:51.797164+01:00",
+    "raw_valid": true,
+    "song_session_id": "17b94d74-fa59-426b-b307-dc9b8bf1ac98"
+  },
+  {
+    "song": {
+      "play_date": "2025-11-30",
+      "play_time": "20:28",
+      "artist": [
+        "Ľudové Mladistvá"
+      ],
+      "title": "Hlaše"
+    },
+    "recorded_at": "2025-11-30T20:29:52.486508+01:00",
+    "raw_valid": true,
+    "song_session_id": "5c9cdd1a-4971-41ad-ba5b-70ee53400a81"
+  },
+  {
+    "song": {
+      "play_date": "2025-11-30",
+      "play_time": "20:34",
+      "artist": [
+        "Incognito"
+      ],
+      "title": "Dark Side Of The Cog"
+    },
+    "recorded_at": "2025-11-30T20:39:53.889964+01:00",
+    "raw_valid": true,
+    "song_session_id": "2292548a-244c-4f71-b9f1-5201ad6659b2"
+  },
+  {
+    "song": {
+      "play_date": "2025-11-30",
+      "play_time": "20:44",
+      "artist": [
+        "Amir Elsaffar"
+      ],
+      "title": "Hyper Steps"
+    },
+    "recorded_at": "2025-11-30T20:44:54.573778+01:00",
+    "raw_valid": true,
+    "song_session_id": "1e7e20da-6953-4395-ac0c-4b26edb4b9d2"
+  },
+  {
+    "song": {
+      "play_date": "2025-11-30",
+      "play_time": "20:48",
+      "artist": [
+        "Ľudmila Štefániková"
+      ],
+      "title": "Game Over"
+    },
+    "recorded_at": "2025-11-30T20:49:55.266382+01:00",
+    "raw_valid": true,
+    "song_session_id": "7f546e94-d2c9-4e27-a012-a922eb62ab8c"
+  },
+  {
+    "song": {
+      "play_date": "2025-11-30",
+      "play_time": "20:58",
+      "artist": [
+        "S.R.O."
+      ],
+      "title": "Tá Naša"
+    },
+    "recorded_at": "2025-11-30T20:59:56.639862+01:00",
+    "raw_valid": true,
+    "song_session_id": "7acd11db-d72d-410a-b2bc-e433c9bbdaf2"
+  },
+  {
+    "song": {
+      "play_date": "2025-11-30",
+      "play_time": "21:04",
+      "artist": [
+        "Alan Hartwell Big B",
+        "uring Cozy Cole"
+      ],
+      "title": "North Beach"
+    },
+    "recorded_at": "2025-11-30T21:04:57.328444+01:00",
+    "raw_valid": true,
+    "song_session_id": "749fe04d-2276-4e22-a0ad-1c029680b1e4"
+  },
+  {
+    "song": {
+      "play_date": "2025-11-30",
+      "play_time": "21:05",
+      "artist": [
+        "Sisa Michalidesová"
+      ],
+      "title": "Majster A Margaréta"
+    },
+    "recorded_at": "2025-11-30T21:09:58.036979+01:00",
+    "raw_valid": true,
+    "song_session_id": "a848b4ee-c885-4782-80f7-e34a5e7c8dfe"
+  },
+  {
+    "song": {
+      "play_date": "2025-11-30",
+      "play_time": "21:10",
+      "artist": [
+        "Marcus Miller"
+      ],
+      "title": "Steveland"
+    },
+    "recorded_at": "2025-11-30T21:14:58.715761+01:00",
+    "raw_valid": true,
+    "song_session_id": "ee4271f2-f7c8-4174-96f8-f14eb5db0830"
+  },
+  {
+    "song": {
+      "play_date": "2025-11-30",
+      "play_time": "21:17",
+      "artist": [
+        "Juraj Griglak",
+        "Bobby Sparks",
+        "Poogie Bell",
+        "Chris Hemingway"
+      ],
+      "title": "Inside"
+    },
+    "recorded_at": "2025-11-30T21:19:59.377954+01:00",
+    "raw_valid": true,
+    "song_session_id": "f74559a7-4b4e-4fe6-8403-a7df8e224dc4"
+  },
+  {
+    "song": {
+      "play_date": "2025-11-30",
+      "play_time": "21:25",
+      "artist": [
+        "Ramsey Lewis Trio"
+      ],
+      "title": "The 'in' Crowd"
+    },
+    "recorded_at": "2025-11-30T21:30:00.941575+01:00",
+    "raw_valid": true,
+    "song_session_id": "5a002b10-89ec-4e55-91bd-5ea5e7714bf3"
+  },
+  {
+    "song": {
+      "play_date": "2025-11-30",
+      "play_time": "21:31",
+      "artist": [
+        "Oskar Torok"
+      ],
+      "title": "Krútenie Iii"
+    },
+    "recorded_at": "2025-11-30T21:35:01.666927+01:00",
+    "raw_valid": true,
+    "song_session_id": "cab3ffe8-6e24-4cd5-a6e9-1152310c9a27"
+  },
+  {
+    "song": {
+      "play_date": "2025-11-30",
+      "play_time": "21:37",
+      "artist": [
+        "Woody Herman"
+      ],
+      "title": "Four Brothers"
+    },
+    "recorded_at": "2025-11-30T21:40:02.333211+01:00",
+    "raw_valid": true,
+    "song_session_id": "d1c2fb0f-7ede-4be2-ad34-da0b11c5a246"
+  },
+  {
+    "song": {
+      "play_date": "2025-11-30",
+      "play_time": "21:43",
+      "artist": [
+        "Alexey León"
+      ],
+      "title": "Dat Dere"
+    },
+    "recorded_at": "2025-11-30T21:45:02.991728+01:00",
+    "raw_valid": true,
+    "song_session_id": "de4dc4fd-d556-4d54-87ec-ba4901e4e884"
+  }
+]

@@ -1,0 +1,321 @@
+[
+  {
+    "song": "Afterlife",
+    "artists": [
+      "Michael Schulte"
+    ],
+    "isrc": "DECE72500509",
+    "start_time": "2025-11-12 18:07:25",
+    "radio": "expres",
+    "recorded_at": "2025-11-12T18:07:51.054038+01:00",
+    "raw_valid": true,
+    "song_session_id": "15d21cbf-945d-4e09-9354-1e5c8a629bfa"
+  },
+  {
+    "song": "Forget Me",
+    "artists": [
+      "Lewis Capaldi"
+    ],
+    "isrc": "DEUM72204717",
+    "start_time": "2025-11-12 18:10:13",
+    "radio": "expres",
+    "recorded_at": "2025-11-12T18:10:56.027547+01:00",
+    "raw_valid": true,
+    "song_session_id": "36ffb184-fae9-47a0-90cf-34780012bdab"
+  },
+  {
+    "song": "Love Me Not",
+    "artists": [
+      "Ravyn Lenae"
+    ],
+    "isrc": "USAT22401137",
+    "start_time": "2025-11-12 18:13:33",
+    "radio": "expres",
+    "recorded_at": "2025-11-12T18:13:54.282307+01:00",
+    "raw_valid": true,
+    "song_session_id": "49c3ec3b-6491-44ee-a3b1-9e475b8395f4"
+  },
+  {
+    "song": "Cold Heart (Pnau Remix)",
+    "artists": [
+      "Elton John",
+      "Dua Lipa"
+    ],
+    "isrc": "GBUM72104705",
+    "start_time": "2025-11-12 18:17:32",
+    "radio": "expres",
+    "recorded_at": "2025-11-12T18:17:58.142726+01:00",
+    "raw_valid": true,
+    "song_session_id": "7b80623c-8f9d-4b66-8fc4-20d2e755a9c9"
+  },
+  {
+    "song": "Srdce Jako Knize Rohan",
+    "artists": [
+      "Richard Muller"
+    ],
+    "isrc": "CZA110003022",
+    "start_time": "2025-11-12 18:21:02",
+    "radio": "expres",
+    "recorded_at": "2025-11-12T18:21:39.942776+01:00",
+    "raw_valid": true,
+    "song_session_id": "53ac8d4b-16a0-4813-89e4-fc724ba9b826"
+  },
+  {
+    "song": "Million Good Reasons",
+    "artists": [
+      "Robin Schulz",
+      "Fast Boy"
+    ],
+    "isrc": "DEA622404738",
+    "start_time": "2025-11-12 18:32:33",
+    "radio": "expres",
+    "recorded_at": "2025-11-12T18:33:16.613920+01:00",
+    "raw_valid": true,
+    "song_session_id": "ba98e9b9-3332-4979-80f4-78f99e6920e0"
+  },
+  {
+    "song": "My Love Is Your Love",
+    "artists": [
+      "Whitney Houston"
+    ],
+    "isrc": "USAR19800140",
+    "start_time": "2025-11-12 18:35:09",
+    "radio": "expres",
+    "recorded_at": "2025-11-12T18:35:30.161727+01:00",
+    "raw_valid": true,
+    "song_session_id": "291405e6-8d66-4ce4-8c1d-e2bd414fc7fd"
+  },
+  {
+    "song": "Save My Love",
+    "artists": [
+      "Marshmello",
+      "Ellie Goulding",
+      "Avaion"
+    ],
+    "isrc": "USUG12504310",
+    "start_time": "2025-11-12 18:39:14",
+    "radio": "expres",
+    "recorded_at": "2025-11-12T18:39:54.414887+01:00",
+    "raw_valid": true,
+    "song_session_id": "eb024c46-e3a4-489c-9512-16a6e761167f"
+  },
+  {
+    "song": "Higher Power",
+    "artists": [
+      "Coldplay"
+    ],
+    "isrc": "GBAYE2100379",
+    "start_time": "2025-11-12 18:43:07",
+    "radio": "expres",
+    "recorded_at": "2025-11-12T18:43:32.820880+01:00",
+    "raw_valid": true,
+    "song_session_id": "3a066d88-4a56-4154-824f-50c9cacdedec"
+  },
+  {
+    "song": "Blood Running",
+    "artists": [
+      "Ray Dalton"
+    ],
+    "isrc": "DEUM72507812",
+    "start_time": "2025-11-12 18:46:28",
+    "radio": "expres",
+    "recorded_at": "2025-11-12T18:47:03.716822+01:00",
+    "raw_valid": true,
+    "song_session_id": "771ccbfa-785a-4682-9162-916d6e4c6b3b"
+  },
+  {
+    "song": "The Sound Of Silence",
+    "artists": [
+      "Disturbed"
+    ],
+    "isrc": "USRE12400063",
+    "start_time": "2025-11-12 18:50:57",
+    "radio": "expres",
+    "recorded_at": "2025-11-12T18:51:24.747087+01:00",
+    "raw_valid": true,
+    "song_session_id": "54c2bd9c-8908-411d-a92d-b542547cf98f"
+  },
+  {
+    "song": "Girls Just Wanna Have Fun",
+    "artists": [
+      "Cyndi Lauper"
+    ],
+    "isrc": "USSM18300231",
+    "start_time": "2025-11-12 18:54:03",
+    "radio": "expres",
+    "recorded_at": "2025-11-12T18:54:30.494291+01:00",
+    "raw_valid": true,
+    "song_session_id": "351c9c51-ac3c-47a1-86a7-74032d0ecd02"
+  },
+  {
+    "song": "Be Mine",
+    "artists": [
+      "Kamrad"
+    ],
+    "isrc": "DE1NJ2500035",
+    "start_time": "2025-11-12 19:06:02",
+    "radio": "expres",
+    "recorded_at": "2025-11-12T19:06:35.296870+01:00",
+    "raw_valid": true,
+    "song_session_id": "8a4d9867-2475-46cc-857b-ec0d763c9c92"
+  },
+  {
+    "song": "Boli Sme Raz Milovani",
+    "artists": [
+      "Pavol Habera"
+    ],
+    "isrc": "SKA010011302",
+    "start_time": "2025-11-12 19:08:52",
+    "radio": "expres",
+    "recorded_at": "2025-11-12T19:09:12.926235+01:00",
+    "raw_valid": true,
+    "song_session_id": "ac994a4d-386f-435c-a234-761d4d7ded1b"
+  },
+  {
+    "song": "Golden",
+    "artists": [
+      "Kpop Demon Hunters"
+    ],
+    "isrc": "QZ8BZ2513510",
+    "start_time": "2025-11-12 19:12:34",
+    "radio": "expres",
+    "recorded_at": "2025-11-12T19:12:57.059893+01:00",
+    "raw_valid": true,
+    "song_session_id": "73b02330-c271-4660-ab99-6c3cb63c99f4"
+  },
+  {
+    "song": "Rolling In The Deep",
+    "artists": [
+      "Adele"
+    ],
+    "isrc": "GBBKS1000335",
+    "start_time": "2025-11-12 19:15:17",
+    "radio": "expres",
+    "recorded_at": "2025-11-12T19:15:39.761895+01:00",
+    "raw_valid": true,
+    "song_session_id": "eed2c69f-4ea1-4e4a-9bd6-857832f1703a"
+  },
+  {
+    "song": "Nechavam Ta",
+    "artists": [
+      "Juraj Baca"
+    ],
+    "isrc": "QT6EU2508333",
+    "start_time": "2025-11-12 19:20:32",
+    "radio": "expres",
+    "recorded_at": "2025-11-12T19:21:10.393298+01:00",
+    "raw_valid": true,
+    "song_session_id": "cb15a76a-871c-4fd9-aa28-a83a913fa5ba"
+  },
+  {
+    "song": "Flowers",
+    "artists": [
+      "Miley Cyrus"
+    ],
+    "isrc": "USSM12209777",
+    "start_time": "2025-11-12 19:23:42",
+    "radio": "expres",
+    "recorded_at": "2025-11-12T19:24:08.448498+01:00",
+    "raw_valid": true,
+    "song_session_id": "2337666c-3d6f-4d74-b1a7-cb1bf2384c28"
+  },
+  {
+    "song": "Ceresne",
+    "artists": [
+      "Zuzana Smatanova"
+    ],
+    "isrc": "SKA012300327",
+    "start_time": "2025-11-12 19:27:15",
+    "radio": "expres",
+    "recorded_at": "2025-11-12T19:27:50.789703+01:00",
+    "raw_valid": true,
+    "song_session_id": "ea7d3f1c-8081-4f96-8677-04cf2be1d909"
+  },
+  {
+    "song": "The One",
+    "artists": [
+      "Michael Patrick Kelly"
+    ],
+    "isrc": "DEE862500476",
+    "start_time": "2025-11-12 19:33:43",
+    "radio": "expres",
+    "recorded_at": "2025-11-12T19:34:16.454117+01:00",
+    "raw_valid": true,
+    "song_session_id": "51421670-6d08-4d30-8304-039c45bba8eb"
+  },
+  {
+    "song": "Wonderful Life",
+    "artists": [
+      "Black"
+    ],
+    "isrc": "GBAAM8700001",
+    "start_time": "2025-11-12 19:36:31",
+    "radio": "expres",
+    "recorded_at": "2025-11-12T19:36:53.934574+01:00",
+    "raw_valid": true,
+    "song_session_id": "a05c5eb5-7ff4-4477-8dad-31790592017d"
+  },
+  {
+    "song": "Trustfall",
+    "artists": [
+      "Pink"
+    ],
+    "isrc": "USRC12204190",
+    "start_time": "2025-11-12 19:41:26",
+    "radio": "expres",
+    "recorded_at": "2025-11-12T19:42:07.427597+01:00",
+    "raw_valid": true,
+    "song_session_id": "b66a5dee-46ed-442d-9c1f-8f974f7914c4"
+  },
+  {
+    "song": "Gone Gone Gone",
+    "artists": [
+      "David Guetta",
+      "Teddy Swims",
+      "Tones And I"
+    ],
+    "isrc": "UKWLG2500132",
+    "start_time": "2025-11-12 19:45:12",
+    "radio": "expres",
+    "recorded_at": "2025-11-12T19:45:40.489744+01:00",
+    "raw_valid": true,
+    "song_session_id": "556b0861-9d8a-4a7f-a6e2-ebc2ba45c2b6"
+  },
+  {
+    "song": "A Thousand Miles",
+    "artists": [
+      "Vanessa Carlton"
+    ],
+    "isrc": "USIR10210955",
+    "start_time": "2025-11-12 19:48:51",
+    "radio": "expres",
+    "recorded_at": "2025-11-12T19:49:28.102055+01:00",
+    "raw_valid": true,
+    "song_session_id": "087bcbad-1fbe-4177-a25b-83b9cd86e2a0"
+  },
+  {
+    "song": "Rock N Roll",
+    "artists": [
+      "Leony",
+      "G-Eazy"
+    ],
+    "isrc": "DEN062400703",
+    "start_time": "2025-11-12 19:54:19",
+    "radio": "expres",
+    "recorded_at": "2025-11-12T19:54:48.222983+01:00",
+    "raw_valid": true,
+    "song_session_id": "acde9852-95a0-4785-a91a-c41c5d258d64"
+  },
+  {
+    "song": "Hey Now",
+    "artists": [
+      "Peter Bic Project"
+    ],
+    "isrc": "SKA011200019",
+    "start_time": "2025-11-12 19:56:52",
+    "radio": "expres",
+    "recorded_at": "2025-11-12T19:57:10.897553+01:00",
+    "raw_valid": true,
+    "song_session_id": "1ef896db-4f00-461f-b84c-8aee327f04a3"
+  }
+]

@@ -1,0 +1,379 @@
+[
+  {
+    "last_update": "2025-12-08 13:59:34",
+    "song": {
+      "musicAuthor": "Nickelback",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048518ad2adfa59683b9c8ace96c1",
+      "musicTitle": "Rockstar",
+      "radio": "Rádio ROCK",
+      "startTime": "14:58"
+    },
+    "recorded_at": "2025-12-08T14:59:35.185579+01:00",
+    "raw_valid": true,
+    "song_session_id": "2fd2b9ef-b175-41fb-9947-d10e0e611d40"
+  },
+  {
+    "last_update": "2025-12-08 14:05:35",
+    "song": {
+      "musicAuthor": "Black Sabbath",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048519683e5d7361bb80bfb00f46d",
+      "musicTitle": "Paranoid",
+      "radio": "Rádio ROCK",
+      "startTime": "15:04"
+    },
+    "recorded_at": "2025-12-08T15:05:36.125068+01:00",
+    "raw_valid": true,
+    "song_session_id": "4fe51564-55d7-4405-9c34-2a4bc6f37d71"
+  },
+  {
+    "last_update": "2025-12-08 14:07:35",
+    "song": {
+      "musicAuthor": "Blink-182",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048516da502e35a7a3e48de2b0f74",
+      "musicTitle": "What´s My Age Again",
+      "radio": "Rádio ROCK",
+      "startTime": "15:07"
+    },
+    "recorded_at": "2025-12-08T15:07:36.416835+01:00",
+    "raw_valid": true,
+    "song_session_id": "3e6c24a5-b24c-4f53-8a38-39a3f2ead424"
+  },
+  {
+    "last_update": "2025-12-08 14:10:36",
+    "song": {
+      "musicAuthor": "Him",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048511493d4964d5455624e29eb90",
+      "musicTitle": "Join Me In Death",
+      "radio": "Rádio ROCK",
+      "startTime": "15:09"
+    },
+    "recorded_at": "2025-12-08T15:10:36.790125+01:00",
+    "raw_valid": true,
+    "song_session_id": "aa680cb5-043f-48db-897b-c559a575bccd"
+  },
+  {
+    "last_update": "2025-12-08 14:16:07",
+    "song": {
+      "musicAuthor": "Lucie",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048517afcc43e2db56da4728d2a52",
+      "musicTitle": "Oheň",
+      "radio": "Rádio ROCK",
+      "startTime": "15:15"
+    },
+    "recorded_at": "2025-12-08T15:16:07.251025+01:00",
+    "raw_valid": true,
+    "song_session_id": "33836838-c2e9-4c8c-af81-d8adde1f341c"
+  },
+  {
+    "last_update": "2025-12-08 14:20:08",
+    "song": {
+      "musicAuthor": "Mirai",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851ca3d87d3d4c1742c9eb82bc0",
+      "musicTitle": "Tenkrát",
+      "radio": "Rádio ROCK",
+      "startTime": "15:19"
+    },
+    "recorded_at": "2025-12-08T15:20:08.548801+01:00",
+    "raw_valid": true,
+    "song_session_id": "c9563bd3-f3a4-4a54-8310-2e848b32a7fe"
+  },
+  {
+    "last_update": "2025-12-08 14:24:07",
+    "song": {
+      "musicAuthor": "Bon Jovi",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048517a231174875d7930de9dad58",
+      "musicTitle": "It's My Life",
+      "radio": "Rádio ROCK",
+      "startTime": "15:23"
+    },
+    "recorded_at": "2025-12-08T15:24:08.864232+01:00",
+    "raw_valid": true,
+    "song_session_id": "cf4c2df2-de93-4c32-ae22-5d9db026ce4a"
+  },
+  {
+    "last_update": "2025-12-08 14:28:08",
+    "song": {
+      "musicAuthor": "Guns N Roses",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851e44963b8bb127552ac761873",
+      "musicTitle": "Live And Let Die",
+      "radio": "Rádio ROCK",
+      "startTime": "15:27"
+    },
+    "recorded_at": "2025-12-08T15:28:09.146128+01:00",
+    "raw_valid": true,
+    "song_session_id": "5c23e746-f7e3-48de-8b3a-15de44514fde"
+  },
+  {
+    "last_update": "2025-12-08 14:31:09",
+    "song": {
+      "musicAuthor": "Queen",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851056e90910cbaf5c5b892aeba",
+      "musicTitle": "Another One Bites The Dust",
+      "radio": "Rádio ROCK",
+      "startTime": "15:30"
+    },
+    "recorded_at": "2025-12-08T15:31:09.855181+01:00",
+    "raw_valid": true,
+    "song_session_id": "982eea86-4cea-4e24-824e-f65b739b9463"
+  },
+  {
+    "last_update": "2025-12-08 14:33:10",
+    "song": {
+      "musicAuthor": "Travis",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851a3af1ff0ed981bf3d9353af8",
+      "musicTitle": "Side",
+      "radio": "Rádio ROCK",
+      "startTime": "15:32"
+    },
+    "recorded_at": "2025-12-08T15:33:10.716741+01:00",
+    "raw_valid": true,
+    "song_session_id": "4aec14a3-87e9-41b4-a989-5e65e957d039"
+  },
+  {
+    "last_update": "2025-12-08 14:38:11",
+    "song": {
+      "musicAuthor": "Metallica",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485106cb74d39d123ebe1b3c6631",
+      "musicTitle": "The Memory Remains",
+      "radio": "Rádio ROCK",
+      "startTime": "15:38"
+    },
+    "recorded_at": "2025-12-08T15:38:12.324722+01:00",
+    "raw_valid": true,
+    "song_session_id": "bee7ef27-ecfe-4254-acda-075a4fcf911c"
+  },
+  {
+    "last_update": "2025-12-08 14:43:12",
+    "song": {
+      "musicAuthor": "Hooters The",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048519280b5fea3cde8e6caeaef00",
+      "musicTitle": "Johnny B.",
+      "radio": "Rádio ROCK",
+      "startTime": "15:42"
+    },
+    "recorded_at": "2025-12-08T15:43:13.319487+01:00",
+    "raw_valid": true,
+    "song_session_id": "2451ba95-695a-4d4b-9c7a-829c5a8776b1"
+  },
+  {
+    "last_update": "2025-12-08 14:47:13",
+    "song": {
+      "musicAuthor": "The Red Hot Chili Peppers",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851de1af2785a83cc660155a0c4",
+      "musicTitle": "By The Way",
+      "radio": "Rádio ROCK",
+      "startTime": "15:47"
+    },
+    "recorded_at": "2025-12-08T15:47:13.568898+01:00",
+    "raw_valid": true,
+    "song_session_id": "12ace4e8-15ab-4a9c-a356-287defd1c3d6"
+  },
+  {
+    "last_update": "2025-12-08 14:51:14",
+    "song": {
+      "musicAuthor": "I.M.T.Smile",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048519f87f415d273aea02df2ca65",
+      "musicTitle": "Nepoznám",
+      "radio": "Rádio ROCK",
+      "startTime": "15:50"
+    },
+    "recorded_at": "2025-12-08T15:51:14.259150+01:00",
+    "raw_valid": true,
+    "song_session_id": "f113af2e-c6ff-4b64-9ef4-3b4ddb684617"
+  },
+  {
+    "last_update": "2025-12-08 14:56:14",
+    "song": {
+      "musicAuthor": "Bruce Springsteen",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851a7865e686c36a4adda6c9978",
+      "musicTitle": "Born In The U.S.A.",
+      "radio": "Rádio ROCK",
+      "startTime": "15:54"
+    },
+    "recorded_at": "2025-12-08T15:56:14.753563+01:00",
+    "raw_valid": true,
+    "song_session_id": "bbf22b0f-791d-4048-8241-d16fa13bedca"
+  },
+  {
+    "last_update": "2025-12-08 14:59:15",
+    "song": {
+      "musicAuthor": "Chad Kroeger Feat. Josey Scott",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851cab637c3978c4db066bfd16f",
+      "musicTitle": "Hero",
+      "radio": "Rádio ROCK",
+      "startTime": "15:58"
+    },
+    "recorded_at": "2025-12-08T15:59:15.545253+01:00",
+    "raw_valid": true,
+    "song_session_id": "c9e8506b-227f-4686-9c9e-1ac78f385dcd"
+  },
+  {
+    "last_update": "2025-12-08 15:03:14",
+    "song": {
+      "musicAuthor": "Evanescence",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485125f49ab23f0ec6332efef432",
+      "musicTitle": "Bring Me To Life",
+      "radio": "Rádio ROCK",
+      "startTime": "16:03"
+    },
+    "recorded_at": "2025-12-08T16:03:15.807529+01:00",
+    "raw_valid": true,
+    "song_session_id": "165d8795-46bc-42ff-873e-34b2ed3288d0"
+  },
+  {
+    "last_update": "2025-12-08 15:07:15",
+    "song": {
+      "musicAuthor": "Dire Straits",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048513d15b942408bff9f507f189e",
+      "musicTitle": "Walk Of Life",
+      "radio": "Rádio ROCK",
+      "startTime": "16:07"
+    },
+    "recorded_at": "2025-12-08T16:07:16.379645+01:00",
+    "raw_valid": true,
+    "song_session_id": "df5b1b5c-566c-4eeb-9ad4-d2d9693dbaf0"
+  },
+  {
+    "last_update": "2025-12-08 15:13:16",
+    "song": {
+      "musicAuthor": "Crazy Town",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851be3d60f650c3b9dbad061f7f",
+      "musicTitle": "Butterfly",
+      "radio": "Rádio ROCK",
+      "startTime": "16:12"
+    },
+    "recorded_at": "2025-12-08T16:13:16.776566+01:00",
+    "raw_valid": true,
+    "song_session_id": "14f642cb-eace-4d92-9b99-78a490c5c846"
+  },
+  {
+    "last_update": "2025-12-08 15:17:17",
+    "song": {
+      "musicAuthor": "Kabát",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851092f503a0d6ef1594acdde01",
+      "musicTitle": "Láďa",
+      "radio": "Rádio ROCK",
+      "startTime": "16:16"
+    },
+    "recorded_at": "2025-12-08T16:17:17.348249+01:00",
+    "raw_valid": true,
+    "song_session_id": "98d0779c-8b1b-45f9-8b36-84b383b32e7d"
+  },
+  {
+    "last_update": "2025-12-08 15:20:16",
+    "song": {
+      "musicAuthor": "Machine Gun Kelly Ft. Bring Me The Horizon",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851b4683d9ac3c5f14a71523c84",
+      "musicTitle": "Maybe",
+      "radio": "Rádio ROCK",
+      "startTime": "16:19"
+    },
+    "recorded_at": "2025-12-08T16:20:17.527428+01:00",
+    "raw_valid": true,
+    "song_session_id": "fc8d143e-142b-499f-bac0-cd03e86c4e3d"
+  },
+  {
+    "last_update": "2025-12-08 15:24:16",
+    "song": {
+      "musicAuthor": "The Beatles",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485184243a01af3c77b56fe01ab1",
+      "musicTitle": "Let It Be",
+      "radio": "Rádio ROCK",
+      "startTime": "16:23"
+    },
+    "recorded_at": "2025-12-08T16:24:17.826259+01:00",
+    "raw_valid": true,
+    "song_session_id": "304a147b-7e85-4497-942e-4069ba2e7f23"
+  },
+  {
+    "last_update": "2025-12-08 15:28:19",
+    "song": {
+      "musicAuthor": "Limp Bizkit",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048514a31b146c7cf07705d912efe",
+      "musicTitle": "My Generation",
+      "radio": "Rádio ROCK",
+      "startTime": "16:27"
+    },
+    "recorded_at": "2025-12-08T16:28:20.168711+01:00",
+    "raw_valid": true,
+    "song_session_id": "53feb898-25af-4c4c-a586-8dee2ef967f1"
+  },
+  {
+    "last_update": "2025-12-08 15:32:20",
+    "song": {
+      "musicAuthor": "Bon Jovi",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485159bfe048568a969c6f0bd08c",
+      "musicTitle": "Keep The Faith",
+      "radio": "Rádio ROCK",
+      "startTime": "16:31"
+    },
+    "recorded_at": "2025-12-08T16:32:21.031395+01:00",
+    "raw_valid": true,
+    "song_session_id": "e9562deb-629c-49f1-9f61-2aacf840115f"
+  },
+  {
+    "last_update": "2025-12-08 15:37:22",
+    "song": {
+      "musicAuthor": "Linkin Park",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851e2f039481babe23658fc719a",
+      "musicTitle": "In The End",
+      "radio": "Rádio ROCK",
+      "startTime": "16:36"
+    },
+    "recorded_at": "2025-12-08T16:37:22.589597+01:00",
+    "raw_valid": true,
+    "song_session_id": "224528a6-b917-4154-9116-062daac919dc"
+  },
+  {
+    "last_update": "2025-12-08 15:41:22",
+    "song": {
+      "musicAuthor": "Kansas",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485159f0f56a7cd13526b5b4204c",
+      "musicTitle": "Dust In The Wind",
+      "radio": "Rádio ROCK",
+      "startTime": "16:40"
+    },
+    "recorded_at": "2025-12-08T16:41:22.853747+01:00",
+    "raw_valid": true,
+    "song_session_id": "1bc3a2fc-7e76-4b86-a92e-5c11404e0dd8"
+  },
+  {
+    "last_update": "2025-12-08 15:44:22",
+    "song": {
+      "musicAuthor": "Depeche Mode",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048510a7d45a345534966a4ad2c39",
+      "musicTitle": "Enjoy The Silence",
+      "radio": "Rádio ROCK",
+      "startTime": "16:43"
+    },
+    "recorded_at": "2025-12-08T16:44:23.592536+01:00",
+    "raw_valid": true,
+    "song_session_id": "db8f4a3c-340e-4f2d-a5dc-b516c3b8e673"
+  },
+  {
+    "last_update": "2025-12-08 15:48:23",
+    "song": {
+      "musicAuthor": "Tublatanka",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048517d744b6206ab9d559d6d7d77",
+      "musicTitle": "Matka",
+      "radio": "Rádio ROCK",
+      "startTime": "16:48"
+    },
+    "recorded_at": "2025-12-08T16:48:24.066945+01:00",
+    "raw_valid": true,
+    "song_session_id": "44329c8f-9003-458d-b42d-f97dfacb612e"
+  },
+  {
+    "last_update": "2025-12-08 15:53:24",
+    "song": {
+      "musicAuthor": "Red Hot Chili Peppers",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485194d08ab63e57b0cae74e8595",
+      "musicTitle": "Californication",
+      "radio": "Rádio ROCK",
+      "startTime": "16:52"
+    },
+    "recorded_at": "2025-12-08T16:53:25.333131+01:00",
+    "raw_valid": true,
+    "song_session_id": "ad35aa2b-3456-4ff0-b2f7-18cc3516ac43"
+  }
+]

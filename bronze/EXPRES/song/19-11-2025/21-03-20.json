@@ -1,0 +1,400 @@
+[
+  {
+    "song": "Domov",
+    "artists": [
+      "Alan Murin"
+    ],
+    "isrc": "QZWDW2424416",
+    "start_time": "2025-11-19 20:05:46",
+    "radio": "expres",
+    "recorded_at": "2025-11-19T20:06:14.055326+01:00",
+    "raw_valid": true,
+    "song_session_id": "e1dffc6b-1ac2-46cf-8980-db12f10797fc"
+  },
+  {
+    "song": "I Promised Myself",
+    "artists": [
+      "Nick Kamen"
+    ],
+    "isrc": "GBAHT1400334",
+    "start_time": "2025-11-19 20:09:45",
+    "radio": "expres",
+    "recorded_at": "2025-11-19T20:10:32.724742+01:00",
+    "raw_valid": true,
+    "song_session_id": "cbd148e5-a112-41cb-b09b-235824880b86"
+  },
+  {
+    "song": "Regalo",
+    "artists": [
+      "Alvaro Soler"
+    ],
+    "isrc": "DEE862500388",
+    "start_time": "2025-11-19 20:13:27",
+    "radio": "expres",
+    "recorded_at": "2025-11-19T20:14:14.803353+01:00",
+    "raw_valid": true,
+    "song_session_id": "ed6398b1-6760-4ece-b4fb-71748a18101e"
+  },
+  {
+    "song": "Hypnotized",
+    "artists": [
+      "Purple Disco Machine",
+      "Sophie And The Giants"
+    ],
+    "isrc": "AUDCB1701555",
+    "start_time": "2025-11-19 20:16:32",
+    "radio": "expres",
+    "recorded_at": "2025-11-19T20:17:02.355718+01:00",
+    "raw_valid": true,
+    "song_session_id": "aea25c1f-a634-4e69-b374-d7d2a19f4c1e"
+  },
+  {
+    "song": "Blink Twice",
+    "artists": [
+      "Shaboozey",
+      "Myles Smith"
+    ],
+    "isrc": "USUYG1717098",
+    "start_time": "2025-11-19 20:19:41",
+    "radio": "expres",
+    "recorded_at": "2025-11-19T20:20:20.930844+01:00",
+    "raw_valid": true,
+    "song_session_id": "15440bf6-6896-4695-8f85-ad1e8bf552fd"
+  },
+  {
+    "song": "Alone",
+    "artists": [
+      "Heart"
+    ],
+    "isrc": "USCA28700690",
+    "start_time": "2025-11-19 20:22:36",
+    "radio": "expres",
+    "recorded_at": "2025-11-19T20:23:11.805237+01:00",
+    "raw_valid": true,
+    "song_session_id": "da7ffbdc-9db4-4999-88c0-3ece10dc7307"
+  },
+  {
+    "song": "End Of The World",
+    "artists": [
+      "Miley Cyrus"
+    ],
+    "isrc": "USSM12501019",
+    "start_time": "2025-11-19 20:25:40",
+    "radio": "expres",
+    "recorded_at": "2025-11-19T20:26:09.581922+01:00",
+    "raw_valid": true,
+    "song_session_id": "428bcc17-3abf-4e99-a56e-5f22a26123ca"
+  },
+  {
+    "song": "Az Sa Znova Narodim",
+    "artists": [
+      "Peter Nagy"
+    ],
+    "isrc": "SKA128797208",
+    "start_time": "2025-11-19 20:29:46",
+    "radio": "expres",
+    "recorded_at": "2025-11-19T20:30:10.232485+01:00",
+    "raw_valid": true,
+    "song_session_id": "fc06f6bc-c66c-4f22-8036-88533c32f716"
+  },
+  {
+    "song": "Mystical Magical",
+    "artists": [
+      "Benson Boone"
+    ],
+    "isrc": "USWB12500844",
+    "start_time": "2025-11-19 20:34:51",
+    "radio": "expres",
+    "recorded_at": "2025-11-19T20:35:34.740692+01:00",
+    "raw_valid": true,
+    "song_session_id": "4129fee0-451d-478b-ac91-9afd7320d380"
+  },
+  {
+    "song": "Mopedova",
+    "artists": [
+      "Olga Zablacka",
+      "Vaso Patejdl"
+    ],
+    "isrc": "SKA128676208",
+    "start_time": "2025-11-19 20:37:43",
+    "radio": "expres",
+    "recorded_at": "2025-11-19T20:38:14.520797+01:00",
+    "raw_valid": true,
+    "song_session_id": "0b30bd71-ab98-4b8d-a582-214d4ac566ad"
+  },
+  {
+    "song": "Listen To Your Heart",
+    "artists": [
+      "Roxette"
+    ],
+    "isrc": "SEAME8878130",
+    "start_time": "2025-11-19 20:40:07",
+    "radio": "expres",
+    "recorded_at": "2025-11-19T20:40:32.457172+01:00",
+    "raw_valid": true,
+    "song_session_id": "52514687-e00d-4d58-a30a-c9cc2b67b5b1"
+  },
+  {
+    "song": "Head Above Water",
+    "artists": [
+      "Twocolors",
+      "Safri Duo",
+      "Chris De Sarandy"
+    ],
+    "isrc": "DEUM72503698",
+    "start_time": "2025-11-19 20:45:08",
+    "radio": "expres",
+    "recorded_at": "2025-11-19T20:45:36.278692+01:00",
+    "raw_valid": true,
+    "song_session_id": "e4d64fa4-a364-4134-a176-7429c1241976"
+  },
+  {
+    "song": "Laska Necestuj Tym Vlakom",
+    "artists": [
+      "Pavol Habera"
+    ],
+    "isrc": "FRX451573146",
+    "start_time": "2025-11-19 20:48:03",
+    "radio": "expres",
+    "recorded_at": "2025-11-19T20:48:34.858704+01:00",
+    "raw_valid": true,
+    "song_session_id": "9cc6a7c7-23b1-45e1-a49c-11c0dbd178c9"
+  },
+  {
+    "song": "We Pray",
+    "artists": [
+      "Coldplay",
+      "Little Simz",
+      "Burna Boy",
+      "Elyanna",
+      "Tini"
+    ],
+    "isrc": "GBAYE2400890",
+    "start_time": "2025-11-19 20:51:14",
+    "radio": "expres",
+    "recorded_at": "2025-11-19T20:51:33.178768+01:00",
+    "raw_valid": true,
+    "song_session_id": "f64d1dfe-3cc4-4950-89d7-eb98816414a6"
+  },
+  {
+    "song": "Vsetko Bude Dobre",
+    "artists": [
+      "Gladiator"
+    ],
+    "isrc": "SKCM72560001",
+    "start_time": "2025-11-19 20:54:32",
+    "radio": "expres",
+    "recorded_at": "2025-11-19T20:54:58.539573+01:00",
+    "raw_valid": true,
+    "song_session_id": "7c77bf9e-aa78-4c8e-a2c5-33e03b4f962d"
+  },
+  {
+    "song": "Say It Right",
+    "artists": [
+      "Nelly Furtado"
+    ],
+    "isrc": "USUM70603368",
+    "start_time": "2025-11-19 20:57:34",
+    "radio": "expres",
+    "recorded_at": "2025-11-19T20:57:56.424083+01:00",
+    "raw_valid": true,
+    "song_session_id": "e42f077f-2e76-4cc6-8ade-1d508e991ccd"
+  },
+  {
+    "song": "Undressed",
+    "artists": [
+      "Sombr"
+    ],
+    "isrc": "USWB12500737",
+    "start_time": "2025-11-19 21:05:14",
+    "radio": "expres",
+    "recorded_at": "2025-11-19T21:05:38.024863+01:00",
+    "raw_valid": true,
+    "song_session_id": "9a049c1f-f874-4ab2-b9b6-d01894477c0a"
+  },
+  {
+    "song": "Wild World",
+    "artists": [
+      "Mr Big"
+    ],
+    "isrc": "USAT20901235",
+    "start_time": "2025-11-19 21:08:25",
+    "radio": "expres",
+    "recorded_at": "2025-11-19T21:09:01.029306+01:00",
+    "raw_valid": true,
+    "song_session_id": "47752f7c-3940-4ed5-9a66-1eddf6944c41"
+  },
+  {
+    "song": "Italodisco",
+    "artists": [
+      "The Kolors"
+    ],
+    "isrc": "ITQ002300342",
+    "start_time": "2025-11-19 21:11:54",
+    "radio": "expres",
+    "recorded_at": "2025-11-19T21:12:19.279333+01:00",
+    "raw_valid": true,
+    "song_session_id": "2dfb03ef-f7fd-475e-a12a-968eb9cd7b1d"
+  },
+  {
+    "song": "Love My Life",
+    "artists": [
+      "Robbie Williams"
+    ],
+    "isrc": "GBPS61600023",
+    "start_time": "2025-11-19 21:15:14",
+    "radio": "expres",
+    "recorded_at": "2025-11-19T21:15:45.580991+01:00",
+    "raw_valid": true,
+    "song_session_id": "5c01c292-c41d-4ebd-b422-19bed9f7f98b"
+  },
+  {
+    "song": "Gone Gone Gone",
+    "artists": [
+      "David Guetta",
+      "Teddy Swims",
+      "Tones And I"
+    ],
+    "isrc": "UKWLG2500132",
+    "start_time": "2025-11-19 21:18:37",
+    "radio": "expres",
+    "recorded_at": "2025-11-19T21:19:23.666656+01:00",
+    "raw_valid": true,
+    "song_session_id": "ac0912bd-52b2-4e94-ad27-9a8bd4a06407"
+  },
+  {
+    "song": "We Are The World",
+    "artists": [
+      "Usa For Africa",
+      "Michael Jackson"
+    ],
+    "isrc": "US25T8511672",
+    "start_time": "2025-11-19 21:22:21",
+    "radio": "expres",
+    "recorded_at": "2025-11-19T21:22:48.288785+01:00",
+    "raw_valid": true,
+    "song_session_id": "5e0d0f9a-8420-4c46-8f61-5677f3dbf152"
+  },
+  {
+    "song": "The Sound Of Silence",
+    "artists": [
+      "Disturbed"
+    ],
+    "isrc": "USRE12400063",
+    "start_time": "2025-11-19 21:27:16",
+    "radio": "expres",
+    "recorded_at": "2025-11-19T21:27:47.846952+01:00",
+    "raw_valid": true,
+    "song_session_id": "edda9b3c-d06f-42a6-abf3-951d2a3dfdd5"
+  },
+  {
+    "song": "Letna Laska",
+    "artists": [
+      "Hex"
+    ],
+    "isrc": "CZA231204446",
+    "start_time": "2025-11-19 21:30:15",
+    "radio": "expres",
+    "recorded_at": "2025-11-19T21:30:54.366363+01:00",
+    "raw_valid": true,
+    "song_session_id": "5381e70c-1aed-45bf-9e31-f954734a424d"
+  },
+  {
+    "song": "Afterlife",
+    "artists": [
+      "Michael Schulte"
+    ],
+    "isrc": "DECE72500509",
+    "start_time": "2025-11-19 21:35:12",
+    "radio": "expres",
+    "recorded_at": "2025-11-19T21:35:34.556433+01:00",
+    "raw_valid": true,
+    "song_session_id": "44de73e2-a2f3-46f1-97fd-84103484b93b"
+  },
+  {
+    "song": "Everybody (Backstreets Back)",
+    "artists": [
+      "Backstreet Boys"
+    ],
+    "isrc": "USJI19710083",
+    "start_time": "2025-11-19 21:38:07",
+    "radio": "expres",
+    "recorded_at": "2025-11-19T21:38:32.387887+01:00",
+    "raw_valid": true,
+    "song_session_id": "27982242-b93f-4fcb-80c5-ef6463b52ae5"
+  },
+  {
+    "song": "21 Guns",
+    "artists": [
+      "Green Day"
+    ],
+    "isrc": "USRE10900679",
+    "start_time": "2025-11-19 21:41:48",
+    "radio": "expres",
+    "recorded_at": "2025-11-19T21:42:25.724867+01:00",
+    "raw_valid": true,
+    "song_session_id": "cecec880-c361-4a56-bd51-1e968d87669a"
+  },
+  {
+    "song": "Wonderful Life 25",
+    "artists": [
+      "Hurts",
+      "Purple Disco Machine"
+    ],
+    "isrc": "DEE862500677",
+    "start_time": "2025-11-19 21:46:33",
+    "radio": "expres",
+    "recorded_at": "2025-11-19T21:47:01.680580+01:00",
+    "raw_valid": true,
+    "song_session_id": "a1dd994f-85e1-46ce-8dc7-29eea98fb45d"
+  },
+  {
+    "song": "Slnko",
+    "artists": [
+      "Skampi Na Zaru"
+    ],
+    "isrc": "TCADR1838775",
+    "start_time": "2025-11-19 21:49:26",
+    "radio": "expres",
+    "recorded_at": "2025-11-19T21:50:00.043542+01:00",
+    "raw_valid": true,
+    "song_session_id": "30f4f2f2-4460-4236-a9a7-9a3615235a74"
+  },
+  {
+    "song": "Azizam",
+    "artists": [
+      "Ed Sheeran"
+    ],
+    "isrc": "GBAHS2500125",
+    "start_time": "2025-11-19 21:52:18",
+    "radio": "expres",
+    "recorded_at": "2025-11-19T21:52:42.509111+01:00",
+    "raw_valid": true,
+    "song_session_id": "c7eae653-1225-4713-877a-ea9580c6c843"
+  },
+  {
+    "song": "Mad",
+    "artists": [
+      "Martin Garrix",
+      "Lauv"
+    ],
+    "isrc": "NLM5S2502535",
+    "start_time": "2025-11-19 21:54:55",
+    "radio": "expres",
+    "recorded_at": "2025-11-19T21:55:25.463249+01:00",
+    "raw_valid": true,
+    "song_session_id": "76cad9b5-a54e-483f-802d-8740fd65bef2"
+  },
+  {
+    "song": "Opri Sa O Mna",
+    "artists": [
+      "Imt Smile"
+    ],
+    "isrc": "SKA010011206",
+    "start_time": "2025-11-19 21:58:42",
+    "radio": "expres",
+    "recorded_at": "2025-11-19T21:59:07.691282+01:00",
+    "raw_valid": true,
+    "song_session_id": "01a6864f-6550-4184-b23d-4ceda945122c"
+  }
+]

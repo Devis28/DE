@@ -1,0 +1,414 @@
+[
+  {
+    "song": "Glide",
+    "artists": [
+      "Neiked",
+      "Portugal The Man"
+    ],
+    "isrc": "DEE862500421",
+    "start_time": "2025-11-06 20:05:25",
+    "radio": "expres",
+    "recorded_at": "2025-11-06T20:05:50.348015+01:00",
+    "raw_valid": true,
+    "song_session_id": "1fe6983c-bd6e-4484-9dbe-aa46dfb10bbe"
+  },
+  {
+    "song": "Broken Strings",
+    "artists": [
+      "James Morrison",
+      "Nelly Furtado"
+    ],
+    "isrc": "GBUM70810083",
+    "start_time": "2025-11-06 20:08:27",
+    "radio": "expres",
+    "recorded_at": "2025-11-06T20:08:50.262387+01:00",
+    "raw_valid": true,
+    "song_session_id": "8d0866a0-cd5b-4108-8b3c-586ffab9bbff"
+  },
+  {
+    "song": "Training Season",
+    "artists": [
+      "Dua Lipa"
+    ],
+    "isrc": "GBAHT2301078",
+    "start_time": "2025-11-06 20:12:40",
+    "radio": "expres",
+    "recorded_at": "2025-11-06T20:13:11.181154+01:00",
+    "raw_valid": true,
+    "song_session_id": "0c848e87-dae1-460c-b879-aff838fceb23"
+  },
+  {
+    "song": "All We Got",
+    "artists": [
+      "Robin Schulz",
+      "Kiddo"
+    ],
+    "isrc": "DEA622000934",
+    "start_time": "2025-11-06 20:16:11",
+    "radio": "expres",
+    "recorded_at": "2025-11-06T20:16:31.261963+01:00",
+    "raw_valid": true,
+    "song_session_id": "e71bd554-578c-46f1-a857-d85e3d0861c6"
+  },
+  {
+    "song": "Save My Love",
+    "artists": [
+      "Marshmello",
+      "Ellie Goulding",
+      "Avaion"
+    ],
+    "isrc": "USUG12504310",
+    "start_time": "2025-11-06 20:19:10",
+    "radio": "expres",
+    "recorded_at": "2025-11-06T20:19:34.729339+01:00",
+    "raw_valid": true,
+    "song_session_id": "77b8dc39-cff9-4a4e-9db0-60af2bfaca96"
+  },
+  {
+    "song": "Another Brick In The Wall (Part 2)",
+    "artists": [
+      "Pink Floyd"
+    ],
+    "isrc": "GBN9Y1100099",
+    "start_time": "2025-11-06 20:23:10",
+    "radio": "expres",
+    "recorded_at": "2025-11-06T20:23:33.617853+01:00",
+    "raw_valid": true,
+    "song_session_id": "d8eb7184-c3e4-47e6-8384-848125e77d91"
+  },
+  {
+    "song": "Zazni",
+    "artists": [
+      "Miro Zbirka"
+    ],
+    "isrc": "SKA127744001",
+    "start_time": "2025-11-06 20:26:45",
+    "radio": "expres",
+    "recorded_at": "2025-11-06T20:26:57.449661+01:00",
+    "raw_valid": true,
+    "song_session_id": "717cd3ce-ef46-4e89-81a9-394faca45ab4"
+  },
+  {
+    "song": "Rock N Roll",
+    "artists": [
+      "Leony",
+      "G-Eazy"
+    ],
+    "isrc": "DEN062400703",
+    "start_time": "2025-11-06 20:29:59",
+    "radio": "expres",
+    "recorded_at": "2025-11-06T20:30:20.668234+01:00",
+    "raw_valid": true,
+    "song_session_id": "bae05222-6ecb-4c16-a1dc-24a8c1da8730"
+  },
+  {
+    "song": "Let Me Die",
+    "artists": [
+      "Mark Dann",
+      "Giovanni Ricci"
+    ],
+    "isrc": "US38Y2520370",
+    "start_time": "2025-11-06 20:33:50",
+    "radio": "expres",
+    "recorded_at": "2025-11-06T20:33:59.288556+01:00",
+    "raw_valid": true,
+    "song_session_id": "6d311d0e-2584-412a-b5cb-78329cef6e41"
+  },
+  {
+    "song": "Try Everything",
+    "artists": [
+      "Shakira"
+    ],
+    "isrc": "USWD11575402",
+    "start_time": "2025-11-06 20:36:18",
+    "radio": "expres",
+    "recorded_at": "2025-11-06T20:36:48.021839+01:00",
+    "raw_valid": true,
+    "song_session_id": "3797d97b-06cc-488f-809a-db2388e1d140"
+  },
+  {
+    "song": "Breakfast At Tiffanys",
+    "artists": [
+      "Deep Blue Something"
+    ],
+    "isrc": "USIR19500177",
+    "start_time": "2025-11-06 20:39:33",
+    "radio": "expres",
+    "recorded_at": "2025-11-06T20:40:04.598123+01:00",
+    "raw_valid": true,
+    "song_session_id": "6b4dccdb-23c7-40dd-bd9c-2486b1c60006"
+  },
+  {
+    "song": "Afterlife",
+    "artists": [
+      "Michael Schulte"
+    ],
+    "isrc": "DECE72500509",
+    "start_time": "2025-11-06 20:43:50",
+    "radio": "expres",
+    "recorded_at": "2025-11-06T20:44:08.240089+01:00",
+    "raw_valid": true,
+    "song_session_id": "7058f764-c166-47cb-b2fe-5c061645dfb7"
+  },
+  {
+    "song": "Nebo Peklo Raj",
+    "artists": [
+      "Dara Rolins",
+      "Tomi Popovic"
+    ],
+    "isrc": "SKC671000401",
+    "start_time": "2025-11-06 20:46:31",
+    "radio": "expres",
+    "recorded_at": "2025-11-06T20:46:50.974525+01:00",
+    "raw_valid": true,
+    "song_session_id": "aa38ec42-f226-445e-bb7c-9c393fc491e1"
+  },
+  {
+    "song": "Wonders",
+    "artists": [
+      "Michael Patrick Kelly",
+      "Rakim"
+    ],
+    "isrc": "DEE862201500",
+    "start_time": "2025-11-06 20:50:15",
+    "radio": "expres",
+    "recorded_at": "2025-11-06T20:50:35.514926+01:00",
+    "raw_valid": true,
+    "song_session_id": "1f388122-edc3-4f33-981d-1f726af52663"
+  },
+  {
+    "song": "Golden",
+    "artists": [
+      "Kpop Demon Hunters"
+    ],
+    "isrc": "QZ8BZ2513510",
+    "start_time": "2025-11-06 20:53:37",
+    "radio": "expres",
+    "recorded_at": "2025-11-06T20:53:58.958906+01:00",
+    "raw_valid": true,
+    "song_session_id": "6dd8248e-12ce-48e1-91fd-4dc6b9554b53"
+  },
+  {
+    "song": "Titanium",
+    "artists": [
+      "David Guetta",
+      "Sia"
+    ],
+    "isrc": "GB28K1100036",
+    "start_time": "2025-11-06 20:56:33",
+    "radio": "expres",
+    "recorded_at": "2025-11-06T20:57:01.903215+01:00",
+    "raw_valid": true,
+    "song_session_id": "cde4c88c-3be1-4fed-ba9e-3ff5e33e1b2e"
+  },
+  {
+    "song": "Lay Low",
+    "artists": [
+      "Tiesto"
+    ],
+    "isrc": "NLZ542202348",
+    "start_time": "2025-11-06 21:05:33",
+    "radio": "expres",
+    "recorded_at": "2025-11-06T21:05:56.022895+01:00",
+    "raw_valid": true,
+    "song_session_id": "6a383cc0-be21-412b-bfc1-859b75aebff5"
+  },
+  {
+    "song": "Bozk",
+    "artists": [
+      "Imt Smile"
+    ],
+    "isrc": "SKA011000004",
+    "start_time": "2025-11-06 21:08:13",
+    "radio": "expres",
+    "recorded_at": "2025-11-06T21:08:41.318545+01:00",
+    "raw_valid": true,
+    "song_session_id": "0985de89-8ce1-4df3-830d-7ffd75af44ea"
+  },
+  {
+    "song": "Regalo",
+    "artists": [
+      "Alvaro Soler"
+    ],
+    "isrc": "DEE862500388",
+    "start_time": "2025-11-06 21:11:25",
+    "radio": "expres",
+    "recorded_at": "2025-11-06T21:11:56.162832+01:00",
+    "raw_valid": true,
+    "song_session_id": "58273949-8ca6-4b33-8fa8-4abbbfc4ef01"
+  },
+  {
+    "song": "Waving Flag",
+    "artists": [
+      "Knaan"
+    ],
+    "isrc": "GBBKS2200009",
+    "start_time": "2025-11-06 21:14:30",
+    "radio": "expres",
+    "recorded_at": "2025-11-06T21:14:55.095496+01:00",
+    "raw_valid": true,
+    "song_session_id": "9391fcd3-9d1e-4a76-8ab5-3095b90cd27b"
+  },
+  {
+    "song": "Blink Twice",
+    "artists": [
+      "Shaboozey",
+      "Myles Smith"
+    ],
+    "isrc": "USUYG1717098",
+    "start_time": "2025-11-06 21:17:53",
+    "radio": "expres",
+    "recorded_at": "2025-11-06T21:18:18.650778+01:00",
+    "raw_valid": true,
+    "song_session_id": "6e3e8f80-78b3-4ae0-b480-d232bbd1ba29"
+  },
+  {
+    "song": "You Give Love A Bad Name",
+    "artists": [
+      "Bon Jovi"
+    ],
+    "isrc": "USPR39402224",
+    "start_time": "2025-11-06 21:20:49",
+    "radio": "expres",
+    "recorded_at": "2025-11-06T21:21:08.068131+01:00",
+    "raw_valid": true,
+    "song_session_id": "924dfaf8-2012-4a27-820a-7f89388387ac"
+  },
+  {
+    "song": "Azizam",
+    "artists": [
+      "Ed Sheeran"
+    ],
+    "isrc": "GBAHS2500125",
+    "start_time": "2025-11-06 21:24:23",
+    "radio": "expres",
+    "recorded_at": "2025-11-06T21:24:47.282088+01:00",
+    "raw_valid": true,
+    "song_session_id": "4b82ef5f-ea81-4b77-bd01-f988b69ff1e0"
+  },
+  {
+    "song": "Som On (Snezny Pluh)",
+    "artists": [
+      "Hex"
+    ],
+    "isrc": "SKA129757603",
+    "start_time": "2025-11-06 21:27:05",
+    "radio": "expres",
+    "recorded_at": "2025-11-06T21:27:24.835283+01:00",
+    "raw_valid": true,
+    "song_session_id": "7ffe4f86-a309-4b37-b80c-230ee828e5cf"
+  },
+  {
+    "song": "Mystical Magical",
+    "artists": [
+      "Benson Boone"
+    ],
+    "isrc": "USWB12500844",
+    "start_time": "2025-11-06 21:32:01",
+    "radio": "expres",
+    "recorded_at": "2025-11-06T21:32:09.457383+01:00",
+    "raw_valid": true,
+    "song_session_id": "992aed94-09a9-4ca7-993a-1fab75405443"
+  },
+  {
+    "song": "Tanecnice Z Lucnice",
+    "artists": [
+      "Elan"
+    ],
+    "isrc": "SKA128678701",
+    "start_time": "2025-11-06 21:34:52",
+    "radio": "expres",
+    "recorded_at": "2025-11-06T21:35:14.062364+01:00",
+    "raw_valid": true,
+    "song_session_id": "8e8d08bf-5900-419d-a3a9-9daf6990b1b8"
+  },
+  {
+    "song": "Theres A Party",
+    "artists": [
+      "Dj Bobo"
+    ],
+    "isrc": "DEMI69400014",
+    "start_time": "2025-11-06 21:37:33",
+    "radio": "expres",
+    "recorded_at": "2025-11-06T21:38:10.255227+01:00",
+    "raw_valid": true,
+    "song_session_id": "42a69824-4f89-4578-b0ae-c18d6ba050c7"
+  },
+  {
+    "song": "Head Above Water",
+    "artists": [
+      "Twocolors",
+      "Safri Duo",
+      "Chris De Sarandy"
+    ],
+    "isrc": "DEUM72503698",
+    "start_time": "2025-11-06 21:41:53",
+    "radio": "expres",
+    "recorded_at": "2025-11-06T21:42:19.013253+01:00",
+    "raw_valid": true,
+    "song_session_id": "ecf48f55-b9a2-4189-8c46-7198cdfba85b"
+  },
+  {
+    "song": "Million Reasons",
+    "artists": [
+      "Lady Gaga"
+    ],
+    "isrc": "USUM71609736",
+    "start_time": "2025-11-06 21:44:53",
+    "radio": "expres",
+    "recorded_at": "2025-11-06T21:45:25.110037+01:00",
+    "raw_valid": true,
+    "song_session_id": "c5557b38-e6e9-4643-b3fa-0954b01870b3"
+  },
+  {
+    "song": "Dakujem Ze Si",
+    "artists": [
+      "No Name"
+    ],
+    "isrc": "SKA010005404",
+    "start_time": "2025-11-06 21:48:01",
+    "radio": "expres",
+    "recorded_at": "2025-11-06T21:48:23.009440+01:00",
+    "raw_valid": true,
+    "song_session_id": "6873e646-3225-47c9-8df2-99b04187e4ac"
+  },
+  {
+    "song": "Alibi",
+    "artists": [
+      "Sevdaliza",
+      "Pabllo Vittar",
+      "Yseult"
+    ],
+    "isrc": "NL47E2400004",
+    "start_time": "2025-11-06 21:51:27",
+    "radio": "expres",
+    "recorded_at": "2025-11-06T21:51:46.285081+01:00",
+    "raw_valid": true,
+    "song_session_id": "45329987-2849-4c3b-b3ad-d35820e6b760"
+  },
+  {
+    "song": "Love Me Not",
+    "artists": [
+      "Ravyn Lenae"
+    ],
+    "isrc": "USAT22401137",
+    "start_time": "2025-11-06 21:54:06",
+    "radio": "expres",
+    "recorded_at": "2025-11-06T21:54:29.083294+01:00",
+    "raw_valid": true,
+    "song_session_id": "3e6b9ae8-5222-4707-84bf-12ae414ed94e"
+  },
+  {
+    "song": "Nase Hriechy",
+    "artists": [
+      "Adam Durica",
+      "Emma Drobna"
+    ],
+    "isrc": "SKA012100194",
+    "start_time": "2025-11-06 21:57:43",
+    "radio": "expres",
+    "recorded_at": "2025-11-06T21:57:52.312237+01:00",
+    "raw_valid": true,
+    "song_session_id": "dc747528-b3d7-4825-96bf-b3963e49a04b"
+  }
+]

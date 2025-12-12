@@ -1,0 +1,445 @@
+[
+  {
+    "song": "All I Know",
+    "artists": [
+      "Rudimental",
+      "Khalid"
+    ],
+    "isrc": "GBARL2500365",
+    "start_time": "2025-11-06 00:04:56",
+    "radio": "expres",
+    "recorded_at": "2025-11-06T00:05:20.556055+01:00",
+    "raw_valid": true,
+    "song_session_id": "c5efd4e1-ece1-4a58-81ed-937e16f69296"
+  },
+  {
+    "song": "Uprimnu Sustrast",
+    "artists": [
+      "Imt Smile"
+    ],
+    "isrc": "SKA010011202",
+    "start_time": "2025-11-06 00:07:58",
+    "radio": "expres",
+    "recorded_at": "2025-11-06T00:08:20.480501+01:00",
+    "raw_valid": true,
+    "song_session_id": "d63050e3-1ec6-4200-b7cc-3f47b37bd415"
+  },
+  {
+    "song": "Million Good Reasons",
+    "artists": [
+      "Robin Schulz",
+      "Fast Boy"
+    ],
+    "isrc": "DEA622404738",
+    "start_time": "2025-11-06 00:11:28",
+    "radio": "expres",
+    "recorded_at": "2025-11-06T00:12:02.346705+01:00",
+    "raw_valid": true,
+    "song_session_id": "f84a9b3a-437d-41ca-9642-a628312c4f24"
+  },
+  {
+    "song": "Zhora Dole",
+    "artists": [
+      "Gladiator"
+    ],
+    "isrc": "SKI021601401",
+    "start_time": "2025-11-06 00:14:02",
+    "radio": "expres",
+    "recorded_at": "2025-11-06T00:14:20.694670+01:00",
+    "raw_valid": true,
+    "song_session_id": "98dace5b-7b8b-43de-81dc-72d4468bcf7a"
+  },
+  {
+    "song": "Ritual",
+    "artists": [
+      "Tiesto",
+      "Jonas Blue",
+      "Rita Ora"
+    ],
+    "isrc": "CYA111900146",
+    "start_time": "2025-11-06 00:16:46",
+    "radio": "expres",
+    "recorded_at": "2025-11-06T00:17:24.099728+01:00",
+    "raw_valid": true,
+    "song_session_id": "6a6a6e80-d4d5-4b54-a939-93060babf852"
+  },
+  {
+    "song": "Sme Take Ake Sme",
+    "artists": [
+      "Beata Dubasova"
+    ],
+    "isrc": "SKA128784701",
+    "start_time": "2025-11-06 00:20:14",
+    "radio": "expres",
+    "recorded_at": "2025-11-06T00:20:26.930613+01:00",
+    "raw_valid": true,
+    "song_session_id": "228d219e-9595-4638-afd1-dfa30b50a554"
+  },
+  {
+    "song": "The Dead Dance",
+    "artists": [
+      "Lady Gaga"
+    ],
+    "isrc": "USUM72407034",
+    "start_time": "2025-11-06 00:24:09",
+    "radio": "expres",
+    "recorded_at": "2025-11-06T00:24:31.033481+01:00",
+    "raw_valid": true,
+    "song_session_id": "dff52fea-4ea9-4343-8b63-8607475e492b"
+  },
+  {
+    "song": "Make Me",
+    "artists": [
+      "Celeste Buckingham"
+    ],
+    "isrc": "QMQNX2201801",
+    "start_time": "2025-11-06 00:27:45",
+    "radio": "expres",
+    "recorded_at": "2025-11-06T00:28:14.618246+01:00",
+    "raw_valid": true,
+    "song_session_id": "a86583c4-0874-4ffd-a903-0956bf06ae3e"
+  },
+  {
+    "song": "Houdini",
+    "artists": [
+      "Dua Lipa"
+    ],
+    "isrc": "GBAHT2301246",
+    "start_time": "2025-11-06 00:31:35",
+    "radio": "expres",
+    "recorded_at": "2025-11-06T00:32:04.048327+01:00",
+    "raw_valid": true,
+    "song_session_id": "6411f695-d17a-4814-b160-951c23961ce2"
+  },
+  {
+    "song": "Be Mine",
+    "artists": [
+      "Kamrad"
+    ],
+    "isrc": "DE1NJ2500035",
+    "start_time": "2025-11-06 00:34:45",
+    "radio": "expres",
+    "recorded_at": "2025-11-06T00:35:01.797296+01:00",
+    "raw_valid": true,
+    "song_session_id": "c6c60da8-770b-479b-91ea-a62786da9109"
+  },
+  {
+    "song": "Nejsom Ten Pravy",
+    "artists": [
+      "Kali"
+    ],
+    "isrc": "SKE531800001",
+    "start_time": "2025-11-06 00:37:24",
+    "radio": "expres",
+    "recorded_at": "2025-11-06T00:37:44.549305+01:00",
+    "raw_valid": true,
+    "song_session_id": "29036533-d373-4270-bcbc-6edd4bbd682b"
+  },
+  {
+    "song": "The Show Must Go On",
+    "artists": [
+      "Queen"
+    ],
+    "isrc": "GBUM71106221",
+    "start_time": "2025-11-06 00:41:02",
+    "radio": "expres",
+    "recorded_at": "2025-11-06T00:41:38.933887+01:00",
+    "raw_valid": true,
+    "song_session_id": "9ba1b6c0-f4da-42bf-a9db-7b40920d3b05"
+  },
+  {
+    "song": "Cas",
+    "artists": [
+      "Para"
+    ],
+    "isrc": "SKCF92401004",
+    "start_time": "2025-11-06 00:45:08",
+    "radio": "expres",
+    "recorded_at": "2025-11-06T00:45:40.283200+01:00",
+    "raw_valid": true,
+    "song_session_id": "d4dd379e-6e8c-4517-bc30-093943127425"
+  },
+  {
+    "song": "No Time To Talk",
+    "artists": [
+      "Jonas Brothers"
+    ],
+    "isrc": "USUG12504831",
+    "start_time": "2025-11-06 00:48:08",
+    "radio": "expres",
+    "recorded_at": "2025-11-06T00:48:33.580000+01:00",
+    "raw_valid": true,
+    "song_session_id": "4a43957f-74bc-418c-a93e-c0237fede155"
+  },
+  {
+    "song": "Nenahraditelna",
+    "artists": [
+      "Sima Martausova",
+      "For You"
+    ],
+    "isrc": "TCADT1800486",
+    "start_time": "2025-11-06 00:50:59",
+    "radio": "expres",
+    "recorded_at": "2025-11-06T00:51:26.900026+01:00",
+    "raw_valid": true,
+    "song_session_id": "727c254a-5174-4a43-bdfa-6261150c98b2"
+  },
+  {
+    "song": "Azizam",
+    "artists": [
+      "Ed Sheeran"
+    ],
+    "isrc": "GBAHS2500125",
+    "start_time": "2025-11-06 00:54:16",
+    "radio": "expres",
+    "recorded_at": "2025-11-06T00:54:39.884914+01:00",
+    "raw_valid": true,
+    "song_session_id": "850434ac-28f8-4019-9eaf-04fa3d7df831"
+  },
+  {
+    "song": "Piesen Pre Nesmelych",
+    "artists": [
+      "Team"
+    ],
+    "isrc": "SKA128917010",
+    "start_time": "2025-11-06 00:56:57",
+    "radio": "expres",
+    "recorded_at": "2025-11-06T00:57:17.624390+01:00",
+    "raw_valid": true,
+    "song_session_id": "c0bc1046-250b-41d8-89a2-1a1c29984297"
+  },
+  {
+    "song": "The One",
+    "artists": [
+      "Michael Patrick Kelly"
+    ],
+    "isrc": "DEE862500476",
+    "start_time": "2025-11-06 00:59:53",
+    "radio": "expres",
+    "recorded_at": "2025-11-06T01:00:00.383710+01:00",
+    "raw_valid": true,
+    "song_session_id": "e7ca3b85-36d7-40dc-9860-54d5aadb6a19"
+  },
+  {
+    "song": "Muz A Zena",
+    "artists": [
+      "Robo Opatovsky"
+    ],
+    "isrc": "SKC252101803",
+    "start_time": "2025-11-06 01:02:57",
+    "radio": "expres",
+    "recorded_at": "2025-11-06T01:03:11.907875+01:00",
+    "raw_valid": true,
+    "song_session_id": "99c6e573-fdff-49e0-8017-22922f9f5817"
+  },
+  {
+    "song": "Rock N Roll",
+    "artists": [
+      "Leony",
+      "G-Eazy"
+    ],
+    "isrc": "DEN062400703",
+    "start_time": "2025-11-06 01:06:17",
+    "radio": "expres",
+    "recorded_at": "2025-11-06T01:06:29.975383+01:00",
+    "raw_valid": true,
+    "song_session_id": "3e906387-8a66-4011-a93e-802229ef8593"
+  },
+  {
+    "song": "Tak To Vidim Ja",
+    "artists": [
+      "Adam Durica"
+    ],
+    "isrc": "SKA011500060",
+    "start_time": "2025-11-06 01:09:01",
+    "radio": "expres",
+    "recorded_at": "2025-11-06T01:09:12.920209+01:00",
+    "raw_valid": true,
+    "song_session_id": "87d32ee5-0ab6-46d5-99fe-0015df027871"
+  },
+  {
+    "song": "Wind Of Change",
+    "artists": [
+      "Scorpions"
+    ],
+    "isrc": "USPG19090037",
+    "start_time": "2025-11-06 01:11:34",
+    "radio": "expres",
+    "recorded_at": "2025-11-06T01:11:55.581022+01:00",
+    "raw_valid": true,
+    "song_session_id": "433a756c-3474-43b0-ad4d-c017e1ea4120"
+  },
+  {
+    "song": "Medzi Nebom A Zenou",
+    "artists": [
+      "Banket",
+      "Richard Muller",
+      "Ema Muller"
+    ],
+    "isrc": "SKC362500009",
+    "start_time": "2025-11-06 01:16:37",
+    "radio": "expres",
+    "recorded_at": "2025-11-06T01:17:00.073577+01:00",
+    "raw_valid": true,
+    "song_session_id": "5937a4e2-883a-4cd3-8037-06470c5ab68b"
+  },
+  {
+    "song": "Runaway",
+    "artists": [
+      "Onerepublic"
+    ],
+    "isrc": "USUM72304684",
+    "start_time": "2025-11-06 01:20:42",
+    "radio": "expres",
+    "recorded_at": "2025-11-06T01:21:24.984857+01:00",
+    "raw_valid": true,
+    "song_session_id": "5657db90-edae-4c5e-b669-a76ba654e023"
+  },
+  {
+    "song": "Mesto V Nas",
+    "artists": [
+      "Komajota"
+    ],
+    "isrc": "SKA010800075",
+    "start_time": "2025-11-06 01:23:07",
+    "radio": "expres",
+    "recorded_at": "2025-11-06T01:23:32.892594+01:00",
+    "raw_valid": true,
+    "song_session_id": "311e7083-afec-40b1-bf34-0a30191bd387"
+  },
+  {
+    "song": "I Took A Pill In Ibiza (Seeb Remix)",
+    "artists": [
+      "Mike Posner"
+    ],
+    "isrc": "USUM71509342",
+    "start_time": "2025-11-06 01:26:04",
+    "radio": "expres",
+    "recorded_at": "2025-11-06T01:26:40.669726+01:00",
+    "raw_valid": true,
+    "song_session_id": "68e4b8ee-6ec7-4cbd-b915-0a7ded3dd70a"
+  },
+  {
+    "song": "Klasika",
+    "artists": [
+      "Elan"
+    ],
+    "isrc": "SKA128678702",
+    "start_time": "2025-11-06 01:29:16",
+    "radio": "expres",
+    "recorded_at": "2025-11-06T01:29:33.551241+01:00",
+    "raw_valid": true,
+    "song_session_id": "4f7fa5b2-977b-4b52-acfb-ae1ef1e68801"
+  },
+  {
+    "song": "Glide",
+    "artists": [
+      "Neiked",
+      "Portugal The Man"
+    ],
+    "isrc": "DEE862500421",
+    "start_time": "2025-11-06 01:33:10",
+    "radio": "expres",
+    "recorded_at": "2025-11-06T01:33:22.210944+01:00",
+    "raw_valid": true,
+    "song_session_id": "e56dd7dd-3417-4c3f-9890-f7fa90470ca0"
+  },
+  {
+    "song": "Nic Nie Je Iste",
+    "artists": [
+      "Imt Smile"
+    ],
+    "isrc": "SKA010305102",
+    "start_time": "2025-11-06 01:36:03",
+    "radio": "expres",
+    "recorded_at": "2025-11-06T01:36:28.873198+01:00",
+    "raw_valid": true,
+    "song_session_id": "bc97be3c-55ef-46ea-9890-ddb54b989d02"
+  },
+  {
+    "song": "Wake Me Up",
+    "artists": [
+      "Avicii",
+      "Aloe Blacc"
+    ],
+    "isrc": "SEUM71301326",
+    "start_time": "2025-11-06 01:39:57",
+    "radio": "expres",
+    "recorded_at": "2025-11-06T01:40:09.571611+01:00",
+    "raw_valid": true,
+    "song_session_id": "d09dfe56-7b11-408d-b4e3-83b7381364ab"
+  },
+  {
+    "song": "Vrat Mi Tie Hviezdy '08",
+    "artists": [
+      "Kristina"
+    ],
+    "isrc": null,
+    "start_time": "2025-11-06 01:44:12",
+    "radio": "expres",
+    "recorded_at": "2025-11-06T01:44:38.318720+01:00",
+    "raw_valid": true,
+    "song_session_id": "883aa75b-3c7d-4298-b235-33f49b76cc94"
+  },
+  {
+    "song": "Afterlife",
+    "artists": [
+      "Michael Schulte"
+    ],
+    "isrc": "DECE72500509",
+    "start_time": "2025-11-06 01:47:29",
+    "radio": "expres",
+    "recorded_at": "2025-11-06T01:48:05.808390+01:00",
+    "raw_valid": true,
+    "song_session_id": "602418f9-b1fa-4f23-96cd-c796f3e61736"
+  },
+  {
+    "song": "Vetron",
+    "artists": [
+      "Hex"
+    ],
+    "isrc": "SKA129757601",
+    "start_time": "2025-11-06 01:50:13",
+    "radio": "expres",
+    "recorded_at": "2025-11-06T01:50:40.375090+01:00",
+    "raw_valid": true,
+    "song_session_id": "94bc089c-fab6-4f33-96aa-124acecc876a"
+  },
+  {
+    "song": "I Believe",
+    "artists": [
+      "Kamrad"
+    ],
+    "isrc": "QMDA62184030",
+    "start_time": "2025-11-06 01:54:13",
+    "radio": "expres",
+    "recorded_at": "2025-11-06T01:54:24.990733+01:00",
+    "raw_valid": true,
+    "song_session_id": "e0162380-4a93-4071-896c-6d444011d729"
+  },
+  {
+    "song": "Prutikar",
+    "artists": [
+      "Zuzana Smatanova",
+      "Richard Autner"
+    ],
+    "isrc": "SKI942400801",
+    "start_time": "2025-11-06 01:56:42",
+    "radio": "expres",
+    "recorded_at": "2025-11-06T01:57:16.197790+01:00",
+    "raw_valid": true,
+    "song_session_id": "dbeac982-5b83-472f-9e81-e04dca54dee6"
+  },
+  {
+    "song": "Symphony",
+    "artists": [
+      "Imagine Dragons"
+    ],
+    "isrc": "USUM72205463",
+    "start_time": "2025-11-06 02:00:36",
+    "radio": "expres",
+    "recorded_at": "2025-11-06T02:00:50.141811+01:00",
+    "raw_valid": true,
+    "song_session_id": "df451ab6-b5bd-4943-92d0-4befc6636c29"
+  }
+]

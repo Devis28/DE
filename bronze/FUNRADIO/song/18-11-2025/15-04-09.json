@@ -1,0 +1,41 @@
+[
+  {
+    "last_update": "2025-11-18 14:41:29",
+    "song": {
+      "musicAuthor": "Eminem",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851810603c94c9246379604cf1a",
+      "musicTitle": "Houdini",
+      "radio": "Fun Rádio",
+      "startTime": "15:40"
+    },
+    "recorded_at": "2025-11-18T15:41:29.635935+01:00",
+    "raw_valid": true,
+    "song_session_id": "661d3877-9698-4606-9a3f-a9d11f463dd8"
+  },
+  {
+    "last_update": "2025-11-18 14:50:29",
+    "song": {
+      "musicAuthor": "Disco Lines & Tinashe",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485169aa159daad3e671c749f4c5",
+      "musicTitle": "No Broke Boys",
+      "radio": "Fun Rádio",
+      "startTime": "15:49"
+    },
+    "recorded_at": "2025-11-18T15:50:30.341775+01:00",
+    "raw_valid": true,
+    "song_session_id": "7c782c79-4e80-48ab-adf6-bdd6c823cd6a"
+  },
+  {
+    "last_update": "2025-11-18 14:53:30",
+    "song": {
+      "musicAuthor": "Madcon & Ray Dalton",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851ff1831eb17c7a83741be4d1b",
+      "musicTitle": "Don't Worry",
+      "radio": "Fun Rádio",
+      "startTime": "15:52"
+    },
+    "recorded_at": "2025-11-18T15:53:30.542645+01:00",
+    "raw_valid": true,
+    "song_session_id": "bf10adbf-aa07-4d26-a0bb-6d33feef8127"
+  }
+]

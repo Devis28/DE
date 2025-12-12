@@ -1,0 +1,41 @@
+[
+  {
+    "last_update": "2025-11-04 19:46:09",
+    "song": {
+      "musicAuthor": "Peter Bič Project",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851e7e20269d35bbfac097ad7de",
+      "musicTitle": "Čoskoro",
+      "radio": "Fun Rádio",
+      "startTime": "20:46"
+    },
+    "recorded_at": "2025-11-04T20:46:09.789947+01:00",
+    "raw_valid": true,
+    "song_session_id": "ee6deaff-13c0-4d26-832c-28dd1d22bc68"
+  },
+  {
+    "last_update": "2025-11-04 19:50:09",
+    "song": {
+      "musicAuthor": "Adela",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851ec7cd9f0389d915b41e9dec6",
+      "musicTitle": "Machine Girl",
+      "radio": "Fun Rádio",
+      "startTime": "20:49"
+    },
+    "recorded_at": "2025-11-04T20:50:10.061636+01:00",
+    "raw_valid": true,
+    "song_session_id": "fdf8be0f-76a9-4646-b2fd-523009fc5497"
+  },
+  {
+    "last_update": "2025-11-04 19:53:09",
+    "song": {
+      "musicAuthor": "Gladiator",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485188eed54314a8762fc38c3b73",
+      "musicTitle": "Sám S Ňou",
+      "radio": "Fun Rádio",
+      "startTime": "20:52"
+    },
+    "recorded_at": "2025-11-04T20:53:10.244268+01:00",
+    "raw_valid": true,
+    "song_session_id": "d68db053-f24e-4964-8434-40fbc5321bf0"
+  }
+]

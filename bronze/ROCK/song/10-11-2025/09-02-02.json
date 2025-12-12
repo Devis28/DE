@@ -1,0 +1,340 @@
+[
+  {
+    "last_update": "2025-11-10 07:08:09",
+    "song": {
+      "musicAuthor": "Slade",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048516832fb0dccc14e5930045202",
+      "musicTitle": "Far Far Away",
+      "radio": "Rádio ROCK",
+      "startTime": "08:07"
+    },
+    "recorded_at": "2025-11-10T08:08:09.921791+01:00",
+    "raw_valid": true,
+    "song_session_id": "272881ee-fc41-4b02-8e4d-7cd8d19aa0ae"
+  },
+  {
+    "last_update": "2025-11-10 07:11:09",
+    "song": {
+      "musicAuthor": "Iron Maiden",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851443bd0f08a60dfad2b0165e7",
+      "musicTitle": "Speed Of Light",
+      "radio": "Rádio ROCK",
+      "startTime": "08:10"
+    },
+    "recorded_at": "2025-11-10T08:11:10.257910+01:00",
+    "raw_valid": true,
+    "song_session_id": "3ef4c476-aba5-4618-b389-6c4fa5cafd2f"
+  },
+  {
+    "last_update": "2025-11-10 07:16:10",
+    "song": {
+      "musicAuthor": "The Lemonheads",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485192b65c451cdaa683e214ebb1",
+      "musicTitle": "Mrs. Robinson",
+      "radio": "Rádio ROCK",
+      "startTime": "08:16"
+    },
+    "recorded_at": "2025-11-10T08:16:11.143831+01:00",
+    "raw_valid": true,
+    "song_session_id": "b6b11f28-8046-4e2e-b640-57a844bc06d3"
+  },
+  {
+    "last_update": "2025-11-10 07:22:11",
+    "song": {
+      "musicAuthor": "Depeche Mode",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485113ccc3e363f27a4a3d06d1b1",
+      "musicTitle": "Never Let Me Down Again",
+      "radio": "Rádio ROCK",
+      "startTime": "08:21"
+    },
+    "recorded_at": "2025-11-10T08:22:12.043020+01:00",
+    "raw_valid": true,
+    "song_session_id": "6c825a6e-84cc-4a16-b2ad-94357ef7626b"
+  },
+  {
+    "last_update": "2025-11-10 07:26:12",
+    "song": {
+      "musicAuthor": "Horkýže Slíže",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851a1dba7a16c82818421fc734a",
+      "musicTitle": "Malá Žužu",
+      "radio": "Rádio ROCK",
+      "startTime": "08:25"
+    },
+    "recorded_at": "2025-11-10T08:26:12.698857+01:00",
+    "raw_valid": true,
+    "song_session_id": "7249b248-04e3-4492-8431-b6e6d5c50856"
+  },
+  {
+    "last_update": "2025-11-10 07:29:11",
+    "song": {
+      "musicAuthor": "Nirvana",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851aca059cebc1841277db22d1c",
+      "musicTitle": "Rape Me",
+      "radio": "Rádio ROCK",
+      "startTime": "08:28"
+    },
+    "recorded_at": "2025-11-10T08:29:12.936117+01:00",
+    "raw_valid": true,
+    "song_session_id": "de296bc1-8784-4d39-b7da-0637c3ca3a66"
+  },
+  {
+    "last_update": "2025-11-10 07:34:12",
+    "song": {
+      "musicAuthor": "Aerosmith",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851d5fdfcb083cb825348505a93",
+      "musicTitle": "Janie's Got A Gun",
+      "radio": "Rádio ROCK",
+      "startTime": "08:34"
+    },
+    "recorded_at": "2025-11-10T08:34:13.234651+01:00",
+    "raw_valid": true,
+    "song_session_id": "6b7b8d11-56e0-46ee-a76e-87e6e262aa25"
+  },
+  {
+    "last_update": "2025-11-10 07:40:13",
+    "song": {
+      "musicAuthor": "Placebo",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048516745a70abfc25f45612c4d32",
+      "musicTitle": "The Bitter End",
+      "radio": "Rádio ROCK",
+      "startTime": "08:39"
+    },
+    "recorded_at": "2025-11-10T08:40:14.380027+01:00",
+    "raw_valid": true,
+    "song_session_id": "0bd5d64b-cf05-4311-af88-6c1e48d45d23"
+  },
+  {
+    "last_update": "2025-11-10 07:43:14",
+    "song": {
+      "musicAuthor": "Metallica",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485106cb74d39d123ebe1b3c6631",
+      "musicTitle": "The Memory Remains",
+      "radio": "Rádio ROCK",
+      "startTime": "08:42"
+    },
+    "recorded_at": "2025-11-10T08:43:14.617231+01:00",
+    "raw_valid": true,
+    "song_session_id": "a01bf1b9-94b6-4e67-ae94-df46d6b5adb3"
+  },
+  {
+    "last_update": "2025-11-10 07:47:14",
+    "song": {
+      "musicAuthor": "Billy Idol",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851a20464e6697dc1149d3a5cdc",
+      "musicTitle": "White Wedding",
+      "radio": "Rádio ROCK",
+      "startTime": "08:46"
+    },
+    "recorded_at": "2025-11-10T08:47:14.895517+01:00",
+    "raw_valid": true,
+    "song_session_id": "21b7249f-84c4-4fbb-8ff1-eb8714ddfa8c"
+  },
+  {
+    "last_update": "2025-11-10 07:53:16",
+    "song": {
+      "musicAuthor": "Sum 41",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048519a482180e6a306229bff49dc",
+      "musicTitle": "Fat Lip",
+      "radio": "Rádio ROCK",
+      "startTime": "08:52"
+    },
+    "recorded_at": "2025-11-10T08:53:17.620395+01:00",
+    "raw_valid": true,
+    "song_session_id": "5e1f46d1-5947-4f16-906a-e6da2096e61a"
+  },
+  {
+    "last_update": "2025-11-10 07:56:18",
+    "song": {
+      "musicAuthor": "Kabát",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851092f503a0d6ef1594acdde01",
+      "musicTitle": "Láďa",
+      "radio": "Rádio ROCK",
+      "startTime": "08:56"
+    },
+    "recorded_at": "2025-11-10T08:56:18.607623+01:00",
+    "raw_valid": true,
+    "song_session_id": "fc71e5b8-493e-4ab7-86c6-9b3a2b21d00a"
+  },
+  {
+    "last_update": "2025-11-10 07:59:17",
+    "song": {
+      "musicAuthor": "Tublatanka",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851544f90aba7e4a572d633094a",
+      "musicTitle": "Vo Veľkej Škole Dní",
+      "radio": "Rádio ROCK",
+      "startTime": "08:58"
+    },
+    "recorded_at": "2025-11-10T08:59:18.788276+01:00",
+    "raw_valid": true,
+    "song_session_id": "1bf64e8a-cf72-4005-a51f-25553b8f1748"
+  },
+  {
+    "last_update": "2025-11-10 08:06:22",
+    "song": {
+      "musicAuthor": "Bon Jovi",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048517a231174875d7930de9dad58",
+      "musicTitle": "It's My Life",
+      "radio": "Rádio ROCK",
+      "startTime": "09:05"
+    },
+    "recorded_at": "2025-11-10T09:06:22.552236+01:00",
+    "raw_valid": true,
+    "song_session_id": "3986d68f-afa6-4cf9-ab80-63037413b216"
+  },
+  {
+    "last_update": "2025-11-10 08:10:22",
+    "song": {
+      "musicAuthor": "The Sweet",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048518f5522a7474d9a925f040342",
+      "musicTitle": "Fox On The Run",
+      "radio": "Rádio ROCK",
+      "startTime": "09:09"
+    },
+    "recorded_at": "2025-11-10T09:10:22.907334+01:00",
+    "raw_valid": true,
+    "song_session_id": "da682ec8-5278-47f2-9a24-f44b34eb5923"
+  },
+  {
+    "last_update": "2025-11-10 08:13:23",
+    "song": {
+      "musicAuthor": "Wanastowi Vjecy",
+      "musicCover": "https://static.radia.sk/covers/32/5e454580-fa03-4ca6-89e2-d837eff7ac04.jpg",
+      "musicTitle": "Bedna Od Whiskey",
+      "radio": "Rádio ROCK",
+      "startTime": "09:12"
+    },
+    "recorded_at": "2025-11-10T09:13:23.860361+01:00",
+    "raw_valid": true,
+    "song_session_id": "8eb770d7-7d19-403e-8b1a-92da13cbbe58"
+  },
+  {
+    "last_update": "2025-11-10 08:18:26",
+    "song": {
+      "musicAuthor": "Thirty Seconds To Mars",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485164219d797874eecfd69f2458",
+      "musicTitle": "Closer To The Edge",
+      "radio": "Rádio ROCK",
+      "startTime": "09:17"
+    },
+    "recorded_at": "2025-11-10T09:18:27.325739+01:00",
+    "raw_valid": true,
+    "song_session_id": "48cd1a13-6a35-4ac6-9da4-55946937f1c3"
+  },
+  {
+    "last_update": "2025-11-10 08:22:26",
+    "song": {
+      "musicAuthor": "Queen",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048511f7077ae1018b5fbab08dfa8",
+      "musicTitle": "We Are The Champions",
+      "radio": "Rádio ROCK",
+      "startTime": "09:21"
+    },
+    "recorded_at": "2025-11-10T09:22:27.644241+01:00",
+    "raw_valid": true,
+    "song_session_id": "ec43a6a1-ad3c-4440-aca5-ade6bba55352"
+  },
+  {
+    "last_update": "2025-11-10 08:25:29",
+    "song": {
+      "musicAuthor": "The Cranberries",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851b81b7c1663be64a39433eb35",
+      "musicTitle": "Promises",
+      "radio": "Rádio ROCK",
+      "startTime": "09:25"
+    },
+    "recorded_at": "2025-11-10T09:25:29.994734+01:00",
+    "raw_valid": true,
+    "song_session_id": "e3058037-3549-4a29-a9e1-b75c2e9a78fc"
+  },
+  {
+    "last_update": "2025-11-10 08:33:30",
+    "song": {
+      "musicAuthor": "Ozzy Osbourne",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851962c158ac47845e7051fae4e",
+      "musicTitle": "Dreamer",
+      "radio": "Rádio ROCK",
+      "startTime": "09:32"
+    },
+    "recorded_at": "2025-11-10T09:33:31.386650+01:00",
+    "raw_valid": true,
+    "song_session_id": "fc3e7a7a-f2ef-4fae-8f02-954b7cb21c00"
+  },
+  {
+    "last_update": "2025-11-10 08:36:33",
+    "song": {
+      "musicAuthor": "Zz Top",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485128a00032ff3b86af3d7e0e54",
+      "musicTitle": "Gimme All Your Lovin'",
+      "radio": "Rádio ROCK",
+      "startTime": "09:36"
+    },
+    "recorded_at": "2025-11-10T09:36:33.306427+01:00",
+    "raw_valid": true,
+    "song_session_id": "f297617b-fd6f-4c2a-b02b-62c4e22d47fc"
+  },
+  {
+    "last_update": "2025-11-10 08:40:33",
+    "song": {
+      "musicAuthor": "Placebo",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851ac68d5f575b62ee76a235396",
+      "musicTitle": "Every You, Every Me",
+      "radio": "Rádio ROCK",
+      "startTime": "09:40"
+    },
+    "recorded_at": "2025-11-10T09:40:34.080782+01:00",
+    "raw_valid": true,
+    "song_session_id": "f68d1c47-6640-48c5-a3b6-3c0fd00999bb"
+  },
+  {
+    "last_update": "2025-11-10 08:44:34",
+    "song": {
+      "musicAuthor": "System Of A Down",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485130d45198d0c9e8841f9a9578",
+      "musicTitle": "Chop Suey!",
+      "radio": "Rádio ROCK",
+      "startTime": "09:43"
+    },
+    "recorded_at": "2025-11-10T09:44:34.828392+01:00",
+    "raw_valid": true,
+    "song_session_id": "964ff7a4-7ec9-4384-9a96-6bcaac694031"
+  },
+  {
+    "last_update": "2025-11-10 08:49:35",
+    "song": {
+      "musicAuthor": "Whitesnake",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851facf92d793609aa3bc5cc4e7",
+      "musicTitle": "Here I Go Again",
+      "radio": "Rádio ROCK",
+      "startTime": "09:49"
+    },
+    "recorded_at": "2025-11-10T09:49:35.997642+01:00",
+    "raw_valid": true,
+    "song_session_id": "24f47842-9d56-452b-bdce-115adfbd61ba"
+  },
+  {
+    "last_update": "2025-11-10 08:53:37",
+    "song": {
+      "musicAuthor": "Aerosmith",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485168f88636e7ce656f1d9fa910",
+      "musicTitle": "Pink",
+      "radio": "Rádio ROCK",
+      "startTime": "09:52"
+    },
+    "recorded_at": "2025-11-10T09:53:37.969857+01:00",
+    "raw_valid": true,
+    "song_session_id": "df546773-5c10-4507-abaa-faaee6436794"
+  },
+  {
+    "last_update": "2025-11-10 08:57:07",
+    "song": {
+      "musicAuthor": "Green Day",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851c2ced39899b0d67cd5a724fa",
+      "musicTitle": "21 Guns",
+      "radio": "Rádio ROCK",
+      "startTime": "09:56"
+    },
+    "recorded_at": "2025-11-10T09:57:08.210897+01:00",
+    "raw_valid": true,
+    "song_session_id": "47a36cf6-75b9-424b-9452-dc912cda3dd6"
+  }
+]

@@ -1,0 +1,392 @@
+[
+  {
+    "last_update": "2025-11-23 13:07:14",
+    "song": {
+      "musicAuthor": "Clapton, Eric",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851d55ec7fcfacd95e73877b787",
+      "musicTitle": "Layla",
+      "radio": "Rádio ROCK",
+      "startTime": "14:06"
+    },
+    "recorded_at": "2025-11-23T14:07:14.342027+01:00",
+    "raw_valid": true,
+    "song_session_id": "c2a46c79-1744-4fef-8654-1e7a4e3d44a1"
+  },
+  {
+    "last_update": "2025-11-23 13:14:17",
+    "song": {
+      "musicAuthor": "Led Zeppelin",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485190a50cfe99a4c19ff3cbfbdb",
+      "musicTitle": "Immigrant Song",
+      "radio": "Rádio ROCK",
+      "startTime": "14:13"
+    },
+    "recorded_at": "2025-11-23T14:14:17.668164+01:00",
+    "raw_valid": true,
+    "song_session_id": "d9352cff-0672-4913-aa7f-2ba8298de4e7"
+  },
+  {
+    "last_update": "2025-11-23 13:17:19",
+    "song": {
+      "musicAuthor": "Blink-182",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048516da502e35a7a3e48de2b0f74",
+      "musicTitle": "What´s My Age Again",
+      "radio": "Rádio ROCK",
+      "startTime": "14:16"
+    },
+    "recorded_at": "2025-11-23T14:17:19.614373+01:00",
+    "raw_valid": true,
+    "song_session_id": "7288752f-e19e-40fc-96c0-f5131624fe92"
+  },
+  {
+    "last_update": "2025-11-23 13:19:20",
+    "song": {
+      "musicAuthor": "Foo Fighters",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851369b4c663e383f85fdc73ebc",
+      "musicTitle": "Asking For A Friend",
+      "radio": "Rádio ROCK",
+      "startTime": "14:18"
+    },
+    "recorded_at": "2025-11-23T14:19:20.815284+01:00",
+    "raw_valid": true,
+    "song_session_id": "2c596ad8-9fea-4348-9924-9856a32abb3b"
+  },
+  {
+    "last_update": "2025-11-23 13:24:20",
+    "song": {
+      "musicAuthor": "R.E.M.",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851a7c7f94cfccd5ab6de233916",
+      "musicTitle": "It`s The End Of The World",
+      "radio": "Rádio ROCK",
+      "startTime": "14:23"
+    },
+    "recorded_at": "2025-11-23T14:24:21.299977+01:00",
+    "raw_valid": true,
+    "song_session_id": "11e5e0a7-7e0a-4224-957b-b5db2183273d"
+  },
+  {
+    "last_update": "2025-11-23 13:28:26",
+    "song": {
+      "musicAuthor": "The Offspring",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048510158cbde70672dd821972907",
+      "musicTitle": "Gotta Get Away",
+      "radio": "Rádio ROCK",
+      "startTime": "14:27"
+    },
+    "recorded_at": "2025-11-23T14:28:27.174284+01:00",
+    "raw_valid": true,
+    "song_session_id": "2e27878a-3954-449e-8339-1bf874eb405a"
+  },
+  {
+    "last_update": "2025-11-23 13:31:27",
+    "song": {
+      "musicAuthor": "Ac/Dc",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048510b51f8d91f3a21e8426361ae",
+      "musicTitle": "Hells Bells",
+      "radio": "Rádio ROCK",
+      "startTime": "14:31"
+    },
+    "recorded_at": "2025-11-23T14:31:27.430727+01:00",
+    "raw_valid": true,
+    "song_session_id": "c80e0957-a90a-48a9-90df-503d80428ce6"
+  },
+  {
+    "last_update": "2025-11-23 13:36:28",
+    "song": {
+      "musicAuthor": "Linkin Park",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485189a8fab8bf8cd2b77da1fd17",
+      "musicTitle": "Breaking The Habit",
+      "radio": "Rádio ROCK",
+      "startTime": "14:36"
+    },
+    "recorded_at": "2025-11-23T14:36:28.372682+01:00",
+    "raw_valid": true,
+    "song_session_id": "7e2a3e43-4b1d-43a4-ac3f-ba6ed80e1ab1"
+  },
+  {
+    "last_update": "2025-11-23 13:39:28",
+    "song": {
+      "musicAuthor": "The Subways",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851050e6625600b8f6fb0b3f84c",
+      "musicTitle": "Rock & Roll Queen",
+      "radio": "Rádio ROCK",
+      "startTime": "14:39"
+    },
+    "recorded_at": "2025-11-23T14:39:29.037105+01:00",
+    "raw_valid": true,
+    "song_session_id": "8629c35a-bf6d-43a6-a728-b06698800efc"
+  },
+  {
+    "last_update": "2025-11-23 13:42:29",
+    "song": {
+      "musicAuthor": "Aerosmith",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851d9172c4bd345d358497e64d6",
+      "musicTitle": "I Don't Want To Miss A Thing",
+      "radio": "Rádio ROCK",
+      "startTime": "14:41"
+    },
+    "recorded_at": "2025-11-23T14:42:29.352213+01:00",
+    "raw_valid": true,
+    "song_session_id": "66462f55-725a-4bbb-83b3-fe557a2fdc4e"
+  },
+  {
+    "last_update": "2025-11-23 13:46:29",
+    "song": {
+      "musicAuthor": "Blondie",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048516d23211741238ed227699c9d",
+      "musicTitle": "One Way Or Another",
+      "radio": "Rádio ROCK",
+      "startTime": "14:46"
+    },
+    "recorded_at": "2025-11-23T14:46:29.978277+01:00",
+    "raw_valid": true,
+    "song_session_id": "866a769a-c18a-48fa-b68f-d24926d5be93"
+  },
+  {
+    "last_update": "2025-11-23 13:50:29",
+    "song": {
+      "musicAuthor": "Guano Apes",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485190de79652ab78e4954dd7a8f",
+      "musicTitle": "Open Your Eyes",
+      "radio": "Rádio ROCK",
+      "startTime": "14:49"
+    },
+    "recorded_at": "2025-11-23T14:50:30.240226+01:00",
+    "raw_valid": true,
+    "song_session_id": "cbe5d8a5-3788-4c42-949b-a2dff60b3675"
+  },
+  {
+    "last_update": "2025-11-23 13:53:30",
+    "song": {
+      "musicAuthor": "The Killers",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851ccdddd46119a4ff53eaf1f5d",
+      "musicTitle": "Mr. Brightside",
+      "radio": "Rádio ROCK",
+      "startTime": "14:52"
+    },
+    "recorded_at": "2025-11-23T14:53:31.316168+01:00",
+    "raw_valid": true,
+    "song_session_id": "4ff5b01a-7ae8-4a19-aa02-888cf562bb42"
+  },
+  {
+    "last_update": "2025-11-23 13:57:31",
+    "song": {
+      "musicAuthor": "The Guess Who",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048511bc7a864d1cf403ec8e57308",
+      "musicTitle": "American Woman",
+      "radio": "Rádio ROCK",
+      "startTime": "14:56"
+    },
+    "recorded_at": "2025-11-23T14:57:31.992719+01:00",
+    "raw_valid": true,
+    "song_session_id": "a5dbd0a5-961b-46cf-80b3-4bff3f00f300"
+  },
+  {
+    "last_update": "2025-11-23 14:01:32",
+    "song": {
+      "musicAuthor": "Nickelback",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485115a5f571e2e14b2c182bd0a3",
+      "musicTitle": "Someday",
+      "radio": "Rádio ROCK",
+      "startTime": "15:00"
+    },
+    "recorded_at": "2025-11-23T15:01:32.423845+01:00",
+    "raw_valid": true,
+    "song_session_id": "a934f4fc-e143-4997-826e-08e1563a3acd"
+  },
+  {
+    "last_update": "2025-11-23 14:04:32",
+    "song": {
+      "musicAuthor": "Iné Kafe",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048512f24981c95d815cac0e65b86",
+      "musicTitle": "Čumil",
+      "radio": "Rádio ROCK",
+      "startTime": "15:03"
+    },
+    "recorded_at": "2025-11-23T15:04:32.765390+01:00",
+    "raw_valid": true,
+    "song_session_id": "aeed4075-a08a-4d30-ab55-643cf7f6681c"
+  },
+  {
+    "last_update": "2025-11-23 14:07:33",
+    "song": {
+      "musicAuthor": "Toto",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048514a052b99c042dc15f933145b",
+      "musicTitle": "Rosanna",
+      "radio": "Rádio ROCK",
+      "startTime": "15:06"
+    },
+    "recorded_at": "2025-11-23T15:07:33.068251+01:00",
+    "raw_valid": true,
+    "song_session_id": "d3691ab9-237a-4533-94a6-a1ab21301bb5"
+  },
+  {
+    "last_update": "2025-11-23 14:11:08",
+    "song": {
+      "musicAuthor": "Billy Joel",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048511946747b8692919f98918ec4",
+      "musicTitle": "We Didn't Start The Fire",
+      "radio": "Rádio ROCK",
+      "startTime": "15:10"
+    },
+    "recorded_at": "2025-11-23T15:11:08.923409+01:00",
+    "raw_valid": true,
+    "song_session_id": "7843b0ba-580d-4979-b72b-84ac26d57c15"
+  },
+  {
+    "last_update": "2025-11-23 14:16:08",
+    "song": {
+      "musicAuthor": "Green Day",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485175116506a1f1140e2178197c",
+      "musicTitle": "Dilemma",
+      "radio": "Rádio ROCK",
+      "startTime": "15:15"
+    },
+    "recorded_at": "2025-11-23T15:16:09.235558+01:00",
+    "raw_valid": true,
+    "song_session_id": "711850b2-843c-4fda-9b6c-f85e01768ccf"
+  },
+  {
+    "last_update": "2025-11-23 14:19:10",
+    "song": {
+      "musicAuthor": "Disturbed",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048519ed426cd696d9bfc8215fff6",
+      "musicTitle": "Land Of Confusion",
+      "radio": "Rádio ROCK",
+      "startTime": "15:18"
+    },
+    "recorded_at": "2025-11-23T15:19:10.547276+01:00",
+    "raw_valid": true,
+    "song_session_id": "eccd68cb-4775-44eb-a66a-1bef2336a1df"
+  },
+  {
+    "last_update": "2025-11-23 14:24:12",
+    "song": {
+      "musicAuthor": "Smith Patti",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851a28eabe111f67a386e75a31a",
+      "musicTitle": "Because The Night",
+      "radio": "Rádio ROCK",
+      "startTime": "15:23"
+    },
+    "recorded_at": "2025-11-23T15:24:12.306832+01:00",
+    "raw_valid": true,
+    "song_session_id": "288eb7b6-018b-4d80-b1d2-641e5e52efdf"
+  },
+  {
+    "last_update": "2025-11-23 14:27:12",
+    "song": {
+      "musicAuthor": "Bon Jovi",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485159bfe048568a969c6f0bd08c",
+      "musicTitle": "In These Arms",
+      "radio": "Rádio ROCK",
+      "startTime": "15:26"
+    },
+    "recorded_at": "2025-11-23T15:27:13.667995+01:00",
+    "raw_valid": true,
+    "song_session_id": "95b0302a-290f-4a95-80e9-bb0ce0c73865"
+  },
+  {
+    "last_update": "2025-11-23 14:32:13",
+    "song": {
+      "musicAuthor": "Korn",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485174c1560b64750a1774495144",
+      "musicTitle": "Coming Undone",
+      "radio": "Rádio ROCK",
+      "startTime": "15:31"
+    },
+    "recorded_at": "2025-11-23T15:32:14.120543+01:00",
+    "raw_valid": true,
+    "song_session_id": "e0dbd0f8-4c8a-4db5-a5be-8b0ea103267f"
+  },
+  {
+    "last_update": "2025-11-23 14:36:15",
+    "song": {
+      "musicAuthor": "Rammstein",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851a715d32590424cd667879ba3",
+      "musicTitle": "Du Hast",
+      "radio": "Rádio ROCK",
+      "startTime": "15:35"
+    },
+    "recorded_at": "2025-11-23T15:36:16.257401+01:00",
+    "raw_valid": true,
+    "song_session_id": "b8ed30da-7fdd-488c-a31f-a5d6b7ed7190"
+  },
+  {
+    "last_update": "2025-11-23 14:40:16",
+    "song": {
+      "musicAuthor": "Kiss",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048518c2105ce9c02ccb83f7a9cb8",
+      "musicTitle": "Crazy, Crazy Nights",
+      "radio": "Rádio ROCK",
+      "startTime": "15:39"
+    },
+    "recorded_at": "2025-11-23T15:40:17.371793+01:00",
+    "raw_valid": true,
+    "song_session_id": "a6fd7137-07ce-4e89-9359-b4379dd55951"
+  },
+  {
+    "last_update": "2025-11-23 14:43:17",
+    "song": {
+      "musicAuthor": "Foo Fighters",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851b00ee453b3496535eaa6e4b3",
+      "musicTitle": "Time Like These",
+      "radio": "Rádio ROCK",
+      "startTime": "15:43"
+    },
+    "recorded_at": "2025-11-23T15:43:17.987644+01:00",
+    "raw_valid": true,
+    "song_session_id": "75557bd6-bb19-44e0-9d79-944f2e9c69ad"
+  },
+  {
+    "last_update": "2025-11-23 14:48:19",
+    "song": {
+      "musicAuthor": "Metallica",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851668e3aca3167e6e569a9aa20",
+      "musicTitle": "Master Of Puppets",
+      "radio": "Rádio ROCK",
+      "startTime": "15:47"
+    },
+    "recorded_at": "2025-11-23T15:48:19.432496+01:00",
+    "raw_valid": true,
+    "song_session_id": "374f476e-9bb3-41fb-8d13-6ac3bc2aefbd"
+  },
+  {
+    "last_update": "2025-11-23 14:56:19",
+    "song": {
+      "musicAuthor": "Kabát",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851037ddf69c8399260eb890afd",
+      "musicTitle": "Malá Dáma",
+      "radio": "Rádio ROCK",
+      "startTime": "15:56"
+    },
+    "recorded_at": "2025-11-23T15:56:20.130120+01:00",
+    "raw_valid": true,
+    "song_session_id": "a7de6a5e-01b2-441a-9a12-31c5fc12488a"
+  },
+  {
+    "last_update": "2025-11-23 15:00:19",
+    "song": {
+      "musicAuthor": "O.B.D.",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851c4cb72ab3f61fc15ca800f31",
+      "musicTitle": "Komáre",
+      "radio": "Rádio ROCK",
+      "startTime": "15:59"
+    },
+    "recorded_at": "2025-11-23T16:00:20.585855+01:00",
+    "raw_valid": true,
+    "song_session_id": "45f62be7-7ba0-4eba-8fbc-d28c3cdaf236"
+  },
+  {
+    "last_update": "2025-11-23 15:02:20",
+    "song": {
+      "musicAuthor": "The Red Hot Chili Peppers",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851de1af2785a83cc660155a0c4",
+      "musicTitle": "Can't Stop",
+      "radio": "Rádio ROCK",
+      "startTime": "16:01"
+    },
+    "recorded_at": "2025-11-23T16:02:20.714245+01:00",
+    "raw_valid": true,
+    "song_session_id": "2a98483b-bd78-4e3f-9f98-e0fba7aead4c"
+  }
+]

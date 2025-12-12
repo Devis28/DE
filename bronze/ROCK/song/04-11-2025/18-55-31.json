@@ -1,0 +1,28 @@
+[
+  {
+    "last_update": "2025-11-04 18:45:33",
+    "song": {
+      "musicAuthor": "Queen",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851e319baafd16e84f0408af2a0",
+      "musicTitle": "Bohemian Rhapsody",
+      "radio": "Rádio ROCK",
+      "startTime": "19:45"
+    },
+    "recorded_at": "2025-11-04T19:45:33.755771+01:00",
+    "raw_valid": true,
+    "song_session_id": "5d9f8567-3f02-455e-9c1f-a00c3ce80953"
+  },
+  {
+    "last_update": "2025-11-04 18:51:33",
+    "song": {
+      "musicAuthor": "Nickelback",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048518ad2adfa59683b9c8ace96c1",
+      "musicTitle": "Rockstar",
+      "radio": "Rádio ROCK",
+      "startTime": "19:50"
+    },
+    "recorded_at": "2025-11-04T19:51:34.126348+01:00",
+    "raw_valid": true,
+    "song_session_id": "ddd82cf0-1f60-44ac-9e01-40e2c5d406f7"
+  }
+]

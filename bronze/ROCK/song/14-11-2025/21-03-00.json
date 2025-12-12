@@ -1,0 +1,353 @@
+[
+  {
+    "last_update": "2025-11-14 19:07:21",
+    "song": {
+      "musicAuthor": "Accept",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851aac38f9cfe9dacbb75953bf5",
+      "musicTitle": "Balls To The Wall",
+      "radio": "Rádio ROCK",
+      "startTime": "20:06"
+    },
+    "recorded_at": "2025-11-14T20:07:21.164763+01:00",
+    "raw_valid": true,
+    "song_session_id": "053d2b4d-0b3f-4dee-9195-bfb91b442ada"
+  },
+  {
+    "last_update": "2025-11-14 19:13:22",
+    "song": {
+      "musicAuthor": "Metallica",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851cf84c5b276431b473e924802",
+      "musicTitle": "Sad But True",
+      "radio": "Rádio ROCK",
+      "startTime": "20:12"
+    },
+    "recorded_at": "2025-11-14T20:13:23.118819+01:00",
+    "raw_valid": true,
+    "song_session_id": "47a65af4-edd3-4a21-af27-238d5b82e4d0"
+  },
+  {
+    "last_update": "2025-11-14 19:18:23",
+    "song": {
+      "musicAuthor": "Rage Against The Machine",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048513c2579a4f8cacd5b95b8fa68",
+      "musicTitle": "Guerrilla Radio",
+      "radio": "Rádio ROCK",
+      "startTime": "20:18"
+    },
+    "recorded_at": "2025-11-14T20:18:23.520566+01:00",
+    "raw_valid": true,
+    "song_session_id": "2b1cea97-ac40-4c5d-8738-bc18bd96f78e"
+  },
+  {
+    "last_update": "2025-11-14 19:29:27",
+    "song": {
+      "musicAuthor": "Iron Maiden",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048515c29a88ba5341ca428f0c322",
+      "musicTitle": "The Number Of The Beast",
+      "radio": "Rádio ROCK",
+      "startTime": "20:26"
+    },
+    "recorded_at": "2025-11-14T20:29:27.350160+01:00",
+    "raw_valid": true,
+    "song_session_id": "527e1120-756b-47b8-9154-893678bc9bc0"
+  },
+  {
+    "last_update": "2025-11-14 19:31:26",
+    "song": {
+      "musicAuthor": "Pantera",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851347c0a40c1e3f0c890a6d9d6",
+      "musicTitle": "Walk",
+      "radio": "Rádio ROCK",
+      "startTime": "20:31"
+    },
+    "recorded_at": "2025-11-14T20:31:27.494268+01:00",
+    "raw_valid": true,
+    "song_session_id": "5a04ebd0-6ea6-4e50-aba5-dc10ee3a3e1d"
+  },
+  {
+    "last_update": "2025-11-14 19:36:27",
+    "song": {
+      "musicAuthor": "Slipknot",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048516b3463e7160d333ada4b175a",
+      "musicTitle": "Duality",
+      "radio": "Rádio ROCK",
+      "startTime": "20:36"
+    },
+    "recorded_at": "2025-11-14T20:36:28.438297+01:00",
+    "raw_valid": true,
+    "song_session_id": "e2f2d793-6ebf-436f-9bb9-1786294c4135"
+  },
+  {
+    "last_update": "2025-11-14 19:41:29",
+    "song": {
+      "musicAuthor": "Kabát",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851920aa71d8d923b8f3ed44186",
+      "musicTitle": "Dole V Dole",
+      "radio": "Rádio ROCK",
+      "startTime": "20:40"
+    },
+    "recorded_at": "2025-11-14T20:41:29.543308+01:00",
+    "raw_valid": true,
+    "song_session_id": "09697821-63df-4b8e-9376-aa7cae343010"
+  },
+  {
+    "last_update": "2025-11-14 19:43:29",
+    "song": {
+      "musicAuthor": "Bring Me The Horizon",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485160cf7c8dd93815ccd6cb4830",
+      "musicTitle": "Can You Feel My Heart",
+      "radio": "Rádio ROCK",
+      "startTime": "20:42"
+    },
+    "recorded_at": "2025-11-14T20:43:29.678733+01:00",
+    "raw_valid": true,
+    "song_session_id": "23bac135-823d-475c-b223-b563687fff29"
+  },
+  {
+    "last_update": "2025-11-14 19:47:30",
+    "song": {
+      "musicAuthor": "Konflikt",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851a971d942d8000f8b2958393c",
+      "musicTitle": "Rebel",
+      "radio": "Rádio ROCK",
+      "startTime": "20:46"
+    },
+    "recorded_at": "2025-11-14T20:47:30.492909+01:00",
+    "raw_valid": true,
+    "song_session_id": "f78395c7-18a3-410c-87fb-e3a996ce5161"
+  },
+  {
+    "last_update": "2025-11-14 19:51:30",
+    "song": {
+      "musicAuthor": "Deftones",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048510b1129853982ea17845d4eb6",
+      "musicTitle": "My Own Summer (Shove It)",
+      "radio": "Rádio ROCK",
+      "startTime": "20:50"
+    },
+    "recorded_at": "2025-11-14T20:51:31.491245+01:00",
+    "raw_valid": true,
+    "song_session_id": "32750a8d-9d1a-4f6e-87ef-6b60caf1f20e"
+  },
+  {
+    "last_update": "2025-11-14 19:54:31",
+    "song": {
+      "musicAuthor": "Lamb Of God",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048516f2ec09ac32b5a0644f2581b",
+      "musicTitle": "Black Label",
+      "radio": "Rádio ROCK",
+      "startTime": "20:54"
+    },
+    "recorded_at": "2025-11-14T20:54:31.693694+01:00",
+    "raw_valid": true,
+    "song_session_id": "fb81e422-0dc4-4a9b-b993-a407fa768f5f"
+  },
+  {
+    "last_update": "2025-11-14 19:59:32",
+    "song": {
+      "musicAuthor": "Skid Row",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048516def8b792dae19e81931de6e",
+      "musicTitle": "Monkey Business",
+      "radio": "Rádio ROCK",
+      "startTime": "20:58"
+    },
+    "recorded_at": "2025-11-14T20:59:32.651011+01:00",
+    "raw_valid": true,
+    "song_session_id": "be7c0cc4-668e-416b-8e37-93f85c4d9029"
+  },
+  {
+    "last_update": "2025-11-14 20:03:32",
+    "song": {
+      "musicAuthor": "Disturbed",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048512b222dcd5c4fcac7c0e81da2",
+      "musicTitle": "Down With The Sickness",
+      "radio": "Rádio ROCK",
+      "startTime": "21:02"
+    },
+    "recorded_at": "2025-11-14T21:03:32.935004+01:00",
+    "raw_valid": true,
+    "song_session_id": "2ad76e59-9ee7-42e8-9c30-4d02ae5783cc"
+  },
+  {
+    "last_update": "2025-11-14 20:08:34",
+    "song": {
+      "musicAuthor": "Halestorm",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851b14af798474c18407f8b3f52",
+      "musicTitle": "I Miss The Misery",
+      "radio": "Rádio ROCK",
+      "startTime": "21:07"
+    },
+    "recorded_at": "2025-11-14T21:08:35.331946+01:00",
+    "raw_valid": true,
+    "song_session_id": "217e39f5-a66e-49c0-9086-77bf912b0609"
+  },
+  {
+    "last_update": "2025-11-14 20:12:35",
+    "song": {
+      "musicAuthor": "Bullet For My Valentine",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851f467961e3089fd694c893584",
+      "musicTitle": "Your Betrayal",
+      "radio": "Rádio ROCK",
+      "startTime": "21:11"
+    },
+    "recorded_at": "2025-11-14T21:12:35.659102+01:00",
+    "raw_valid": true,
+    "song_session_id": "4b977113-2227-4bc2-a1ad-bc7244564c26"
+  },
+  {
+    "last_update": "2025-11-14 20:17:35",
+    "song": {
+      "musicAuthor": "Metallica",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048517b10c20f959932a6c790c074",
+      "musicTitle": "Atlas, Rise!",
+      "radio": "Rádio ROCK",
+      "startTime": "21:16"
+    },
+    "recorded_at": "2025-11-14T21:17:36.182709+01:00",
+    "raw_valid": true,
+    "song_session_id": "fc944c5b-8701-4ed7-869c-599a2049c416"
+  },
+  {
+    "last_update": "2025-11-14 20:22:07",
+    "song": {
+      "musicAuthor": "Limp Bizkit",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851946301359b8ad60772671b8f",
+      "musicTitle": "Faith",
+      "radio": "Rádio ROCK",
+      "startTime": "21:21"
+    },
+    "recorded_at": "2025-11-14T21:22:08.372724+01:00",
+    "raw_valid": true,
+    "song_session_id": "0b16ce0d-6f25-49e9-af08-ba927094734f"
+  },
+  {
+    "last_update": "2025-11-14 20:24:08",
+    "song": {
+      "musicAuthor": "Rammstein",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485102add2c77fb6999e311a3248",
+      "musicTitle": "Radio",
+      "radio": "Rádio ROCK",
+      "startTime": "21:23"
+    },
+    "recorded_at": "2025-11-14T21:24:08.906064+01:00",
+    "raw_valid": true,
+    "song_session_id": "17f95a19-bb5e-4946-b406-fc5d00fbc9be"
+  },
+  {
+    "last_update": "2025-11-14 20:28:12",
+    "song": {
+      "musicAuthor": "Anthrax",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485119e348ae09151d6eb2df9d6f",
+      "musicTitle": "Caught In A Mosh",
+      "radio": "Rádio ROCK",
+      "startTime": "21:27"
+    },
+    "recorded_at": "2025-11-14T21:28:12.468599+01:00",
+    "raw_valid": true,
+    "song_session_id": "e497082f-41de-4961-abea-edcb92a27ced"
+  },
+  {
+    "last_update": "2025-11-14 20:33:12",
+    "song": {
+      "musicAuthor": "Silverchair",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851f6e1df99ae6316a4badcce58",
+      "musicTitle": "Freak",
+      "radio": "Rádio ROCK",
+      "startTime": "21:32"
+    },
+    "recorded_at": "2025-11-14T21:33:12.896902+01:00",
+    "raw_valid": true,
+    "song_session_id": "c52d38a0-4993-4f17-b02e-c66c942909e4"
+  },
+  {
+    "last_update": "2025-11-14 20:37:12",
+    "song": {
+      "musicAuthor": "Tublatanka",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048514b813e7e56c0e4c85f8cb5d0",
+      "musicTitle": "Žeravé Znamenie Osudu",
+      "radio": "Rádio ROCK",
+      "startTime": "21:36"
+    },
+    "recorded_at": "2025-11-14T21:37:13.786582+01:00",
+    "raw_valid": true,
+    "song_session_id": "84c83ecc-3e50-4c98-898c-69181e54f514"
+  },
+  {
+    "last_update": "2025-11-14 20:41:13",
+    "song": {
+      "musicAuthor": "Slipknot",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048516b3463e7160d333ada4b175a",
+      "musicTitle": "Before I Forget",
+      "radio": "Rádio ROCK",
+      "startTime": "21:41"
+    },
+    "recorded_at": "2025-11-14T21:41:14.410517+01:00",
+    "raw_valid": true,
+    "song_session_id": "928df54c-2ad3-49df-b5f5-3c492741ad7e"
+  },
+  {
+    "last_update": "2025-11-14 20:46:14",
+    "song": {
+      "musicAuthor": "Dream Theater",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851f4d11b78efa76496f2acd618",
+      "musicTitle": "Pull Me Under",
+      "radio": "Rádio ROCK",
+      "startTime": "21:45"
+    },
+    "recorded_at": "2025-11-14T21:46:15.165745+01:00",
+    "raw_valid": true,
+    "song_session_id": "97bafd7d-1d76-4241-befe-8ed79640806e"
+  },
+  {
+    "last_update": "2025-11-14 20:52:15",
+    "song": {
+      "musicAuthor": "Horkýže Slíže",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851911995709754b328f466267c",
+      "musicTitle": "Logická Hádanka",
+      "radio": "Rádio ROCK",
+      "startTime": "21:51"
+    },
+    "recorded_at": "2025-11-14T21:52:16.284857+01:00",
+    "raw_valid": true,
+    "song_session_id": "f9d349b5-9598-436e-b961-29d378c92aa3"
+  },
+  {
+    "last_update": "2025-11-14 20:54:15",
+    "song": {
+      "musicAuthor": "Breaking Benjamin",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048515aa75a47afe2804e280bd149",
+      "musicTitle": "Breath",
+      "radio": "Rádio ROCK",
+      "startTime": "21:53"
+    },
+    "recorded_at": "2025-11-14T21:54:16.535745+01:00",
+    "raw_valid": true,
+    "song_session_id": "18ebc51d-561e-4423-bbc6-c96c86d9d98e"
+  },
+  {
+    "last_update": "2025-11-14 20:58:16",
+    "song": {
+      "musicAuthor": "Judas Priest",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851be0e5ebab8c61469b1ff9f62",
+      "musicTitle": "Living After Midnight",
+      "radio": "Rádio ROCK",
+      "startTime": "21:57"
+    },
+    "recorded_at": "2025-11-14T21:58:16.770186+01:00",
+    "raw_valid": true,
+    "song_session_id": "85683aa1-2f15-4c23-bb5c-5a65e72fd3ce"
+  },
+  {
+    "last_update": "2025-11-14 21:01:17",
+    "song": {
+      "musicAuthor": "The Beastie Boys",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048519bfd5530395fa1a1b5044f18",
+      "musicTitle": "(You Gotta) Fight For Your Right (To Party)",
+      "radio": "Rádio ROCK",
+      "startTime": "22:00"
+    },
+    "recorded_at": "2025-11-14T22:01:18.167583+01:00",
+    "raw_valid": true,
+    "song_session_id": "605d4ba1-1a6f-4095-8111-198a3bf8b932"
+  }
+]

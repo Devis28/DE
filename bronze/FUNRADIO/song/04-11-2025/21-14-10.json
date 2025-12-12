@@ -1,0 +1,54 @@
+[
+  {
+    "last_update": "2025-11-04 21:04:10",
+    "song": {
+      "musicAuthor": "Lukáš Adamec",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851f5ad5d21241f831c7ecec834",
+      "musicTitle": "Tancuj Mi",
+      "radio": "Fun Rádio",
+      "startTime": "22:01"
+    },
+    "recorded_at": "2025-11-04T22:04:11.049869+01:00",
+    "raw_valid": true,
+    "song_session_id": "649961cb-95b9-413e-b2f0-73c1f3e6c5bc"
+  },
+  {
+    "last_update": "2025-11-04 21:05:10",
+    "song": {
+      "musicAuthor": "Jana Kirschner",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048516690ac0f7a99955f91e77729",
+      "musicTitle": "Pokoj V Duši",
+      "radio": "Fun Rádio",
+      "startTime": "22:04"
+    },
+    "recorded_at": "2025-11-04T22:05:11.144766+01:00",
+    "raw_valid": true,
+    "song_session_id": "c4219c2c-6da6-459a-bc84-5e5a7d066eec"
+  },
+  {
+    "last_update": "2025-11-04 21:08:11",
+    "song": {
+      "musicAuthor": "Lina Mayer",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485152b322918acccee4bd67bc12",
+      "musicTitle": "So High",
+      "radio": "Fun Rádio",
+      "startTime": "22:07"
+    },
+    "recorded_at": "2025-11-04T22:08:11.420373+01:00",
+    "raw_valid": true,
+    "song_session_id": "a985dbca-9cea-4fd3-8df3-38895220a99f"
+  },
+  {
+    "last_update": "2025-11-04 21:12:11",
+    "song": {
+      "musicAuthor": "Slza Feat. Celeste Buckingham",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851adebb3a99e1ef02d1970ecb8",
+      "musicTitle": "Na Srdci",
+      "radio": "Fun Rádio",
+      "startTime": "22:11"
+    },
+    "recorded_at": "2025-11-04T22:12:11.794375+01:00",
+    "raw_valid": true,
+    "song_session_id": "75440521-0c33-40ad-9aa3-c9bd225ae408"
+  }
+]

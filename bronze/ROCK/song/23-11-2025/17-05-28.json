@@ -1,0 +1,392 @@
+[
+  {
+    "last_update": "2025-11-23 15:07:22",
+    "song": {
+      "musicAuthor": "Rage Against The Machine",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048517676c7bf4e667590e496c2a3",
+      "musicTitle": "Killing In The Name",
+      "radio": "Rádio ROCK",
+      "startTime": "16:06"
+    },
+    "recorded_at": "2025-11-23T16:07:22.074525+01:00",
+    "raw_valid": true,
+    "song_session_id": "d9cf6794-aa2e-46fc-bf35-328b68cf74ed"
+  },
+  {
+    "last_update": "2025-11-23 15:11:22",
+    "song": {
+      "musicAuthor": "Boston",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485190ef9760e57fafd8f966d17a",
+      "musicTitle": "More Than A Feeling",
+      "radio": "Rádio ROCK",
+      "startTime": "16:11"
+    },
+    "recorded_at": "2025-11-23T16:11:22.867891+01:00",
+    "raw_valid": true,
+    "song_session_id": "b99bd065-094b-4b52-930c-24446e0f6d04"
+  },
+  {
+    "last_update": "2025-11-23 15:16:23",
+    "song": {
+      "musicAuthor": "Stereophonics",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851671c709e025a3ed8c956d115",
+      "musicTitle": "Have A Nice Day",
+      "radio": "Rádio ROCK",
+      "startTime": "16:15"
+    },
+    "recorded_at": "2025-11-23T16:16:24.106323+01:00",
+    "raw_valid": true,
+    "song_session_id": "dd26766c-64e9-47f5-a2b4-177bd0913211"
+  },
+  {
+    "last_update": "2025-11-23 15:19:23",
+    "song": {
+      "musicAuthor": "My Chemical Romance",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485117f77fab7e8f18d5f9fee4a1",
+      "musicTitle": "Welcome To The Black Parade",
+      "radio": "Rádio ROCK",
+      "startTime": "16:18"
+    },
+    "recorded_at": "2025-11-23T16:19:24.287505+01:00",
+    "raw_valid": true,
+    "song_session_id": "6b8aba24-b811-4ddf-9700-293fbe9d4631"
+  },
+  {
+    "last_update": "2025-11-23 15:24:24",
+    "song": {
+      "musicAuthor": "Mirai",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851ca3d87d3d4c1742c9eb82bc0",
+      "musicTitle": "Tenkrát",
+      "radio": "Rádio ROCK",
+      "startTime": "16:23"
+    },
+    "recorded_at": "2025-11-23T16:24:24.990662+01:00",
+    "raw_valid": true,
+    "song_session_id": "0024f3aa-9409-4400-af93-f41335c4fbfd"
+  },
+  {
+    "last_update": "2025-11-23 15:27:24",
+    "song": {
+      "musicAuthor": "Def Leppard",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851222cb38afc3b3b47d9df26aa",
+      "musicTitle": "Pour Some Sugar On Me",
+      "radio": "Rádio ROCK",
+      "startTime": "16:26"
+    },
+    "recorded_at": "2025-11-23T16:27:25.306487+01:00",
+    "raw_valid": true,
+    "song_session_id": "64542adb-96b9-41e5-9ab0-0864814906a2"
+  },
+  {
+    "last_update": "2025-11-23 15:31:27",
+    "song": {
+      "musicAuthor": "Guns N Roses",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485192d21aef6c0d288cc4c05973",
+      "musicTitle": "You Could Be Mine",
+      "radio": "Rádio ROCK",
+      "startTime": "16:31"
+    },
+    "recorded_at": "2025-11-23T16:31:27.865098+01:00",
+    "raw_valid": true,
+    "song_session_id": "4f1c8a98-9791-469c-bb4d-b79594343a1d"
+  },
+  {
+    "last_update": "2025-11-23 15:37:31",
+    "song": {
+      "musicAuthor": "Green Day",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485108a1b1e0674086d3f1995e1b",
+      "musicTitle": "American Idiot",
+      "radio": "Rádio ROCK",
+      "startTime": "16:37"
+    },
+    "recorded_at": "2025-11-23T16:37:31.578268+01:00",
+    "raw_valid": true,
+    "song_session_id": "a85a5c43-115f-4f98-965d-c4c8a6b203bc"
+  },
+  {
+    "last_update": "2025-11-23 15:40:30",
+    "song": {
+      "musicAuthor": "Franz Ferdinand",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485109a90531b85be7899c3234c4",
+      "musicTitle": "The Dark Of The Matinée",
+      "radio": "Rádio ROCK",
+      "startTime": "16:40"
+    },
+    "recorded_at": "2025-11-23T16:40:31.802326+01:00",
+    "raw_valid": true,
+    "song_session_id": "d0d851cc-4e84-4065-a19b-89e58aa6ba11"
+  },
+  {
+    "last_update": "2025-11-23 15:44:33",
+    "song": {
+      "musicAuthor": "Aerosmith",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485172cad4916afbb3777b1bc52c",
+      "musicTitle": "Living On The Edge",
+      "radio": "Rádio ROCK",
+      "startTime": "16:44"
+    },
+    "recorded_at": "2025-11-23T16:44:33.560818+01:00",
+    "raw_valid": true,
+    "song_session_id": "05e92c98-0919-40f9-9ee2-3fe9b90d2c79"
+  },
+  {
+    "last_update": "2025-11-23 15:49:33",
+    "song": {
+      "musicAuthor": "The Cure",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851ca40908d43a2a80fb34de8a3",
+      "musicTitle": "Boys Don't Cry",
+      "radio": "Rádio ROCK",
+      "startTime": "16:48"
+    },
+    "recorded_at": "2025-11-23T16:49:33.915044+01:00",
+    "raw_valid": true,
+    "song_session_id": "04911dae-2694-4217-bca5-7834f7cefc66"
+  },
+  {
+    "last_update": "2025-11-23 15:51:34",
+    "song": {
+      "musicAuthor": "Foo Fighters",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048511759635c92b6314d3d3c9fe9",
+      "musicTitle": "Learn To Fly",
+      "radio": "Rádio ROCK",
+      "startTime": "16:51"
+    },
+    "recorded_at": "2025-11-23T16:51:34.897943+01:00",
+    "raw_valid": true,
+    "song_session_id": "10d688c6-a84e-468c-9eff-beabbe880cdd"
+  },
+  {
+    "last_update": "2025-11-23 15:55:34",
+    "song": {
+      "musicAuthor": "Billy Talent",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485151ad1636a7d0456ad972a71c",
+      "musicTitle": "Fallen Leaves",
+      "radio": "Rádio ROCK",
+      "startTime": "16:54"
+    },
+    "recorded_at": "2025-11-23T16:55:35.174933+01:00",
+    "raw_valid": true,
+    "song_session_id": "abe3f067-08bc-4f6b-9dba-9a3530669bd7"
+  },
+  {
+    "last_update": "2025-11-23 15:58:36",
+    "song": {
+      "musicAuthor": "The Sex Pistols",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851b691fa29c123b5fc4bc5d469",
+      "musicTitle": "God Save The Queen",
+      "radio": "Rádio ROCK",
+      "startTime": "16:58"
+    },
+    "recorded_at": "2025-11-23T16:58:36.744607+01:00",
+    "raw_valid": true,
+    "song_session_id": "c525a475-dd02-46a5-9b17-81061cc505c2"
+  },
+  {
+    "last_update": "2025-11-23 16:03:07",
+    "song": {
+      "musicAuthor": "Ine Kafe",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048518505682353250894f1d0a0fd",
+      "musicTitle": "Zaverecna",
+      "radio": "Rádio ROCK",
+      "startTime": "17:02"
+    },
+    "recorded_at": "2025-11-23T17:03:07.879309+01:00",
+    "raw_valid": true,
+    "song_session_id": "b0b37963-26ed-4718-a919-771ac4209477"
+  },
+  {
+    "last_update": "2025-11-23 16:06:37",
+    "song": {
+      "musicAuthor": "The Offspring",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048510158cbde70672dd821972907",
+      "musicTitle": "Self Esteem",
+      "radio": "Rádio ROCK",
+      "startTime": "17:05"
+    },
+    "recorded_at": "2025-11-23T17:06:38.090508+01:00",
+    "raw_valid": true,
+    "song_session_id": "4c1e60cc-88d4-4fb3-ac82-d855476e1a61"
+  },
+  {
+    "last_update": "2025-11-23 16:11:08",
+    "song": {
+      "musicAuthor": "Bring Me The Horizon",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851736145b97bab8fa92cb6113f",
+      "musicTitle": "Throne",
+      "radio": "Rádio ROCK",
+      "startTime": "17:10"
+    },
+    "recorded_at": "2025-11-23T17:11:08.358307+01:00",
+    "raw_valid": true,
+    "song_session_id": "b25c8854-f42a-459b-b71b-8234e20ef684"
+  },
+  {
+    "last_update": "2025-11-23 16:14:07",
+    "song": {
+      "musicAuthor": "Bon Jovi",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048511336b31b6a1799f0de5807ac",
+      "musicTitle": "Wanted Dead Or Alive",
+      "radio": "Rádio ROCK",
+      "startTime": "17:13"
+    },
+    "recorded_at": "2025-11-23T17:14:08.541282+01:00",
+    "raw_valid": true,
+    "song_session_id": "49cc11c7-babc-47f1-9a69-6deaf9b4f4a9"
+  },
+  {
+    "last_update": "2025-11-23 16:19:08",
+    "song": {
+      "musicAuthor": "Linkin Park",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851c0db065619ed208515412917",
+      "musicTitle": "The Emptiness Machine",
+      "radio": "Rádio ROCK",
+      "startTime": "17:18"
+    },
+    "recorded_at": "2025-11-23T17:19:09.117659+01:00",
+    "raw_valid": true,
+    "song_session_id": "1ba9b2ba-83d8-4633-abc7-9bad4c5f6975"
+  },
+  {
+    "last_update": "2025-11-23 16:22:09",
+    "song": {
+      "musicAuthor": "Horkýže Slíže",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851a1dba7a16c82818421fc734a",
+      "musicTitle": "Malá Žužu",
+      "radio": "Rádio ROCK",
+      "startTime": "17:21"
+    },
+    "recorded_at": "2025-11-23T17:22:09.678580+01:00",
+    "raw_valid": true,
+    "song_session_id": "e8a4b35b-9a4e-408d-bfff-17f19ee4eb73"
+  },
+  {
+    "last_update": "2025-11-23 16:25:08",
+    "song": {
+      "musicAuthor": "Dereš",
+      "musicCover": "https://static.radia.sk/covers/32/54aafc3b-0156-48db-8d55-8432189887ac.jpg",
+      "musicTitle": "Na Panské",
+      "radio": "Rádio ROCK",
+      "startTime": "17:24"
+    },
+    "recorded_at": "2025-11-23T17:25:09.881817+01:00",
+    "raw_valid": true,
+    "song_session_id": "fe5b52f7-e7e2-4258-9621-32816ecd1dfa"
+  },
+  {
+    "last_update": "2025-11-23 16:28:09",
+    "song": {
+      "musicAuthor": "The Scorpions",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851787674b6a114f98cad6f834b",
+      "musicTitle": "Wind Of Change",
+      "radio": "Rádio ROCK",
+      "startTime": "17:28"
+    },
+    "recorded_at": "2025-11-23T17:28:10.503182+01:00",
+    "raw_valid": true,
+    "song_session_id": "2bcf7072-9e96-4b45-9c9a-2c12a649a7a7"
+  },
+  {
+    "last_update": "2025-11-23 16:32:10",
+    "song": {
+      "musicAuthor": "Maneskin & Tom Morello",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851e5c4776d41fd00198193ae53",
+      "musicTitle": "Gossip",
+      "radio": "Rádio ROCK",
+      "startTime": "17:31"
+    },
+    "recorded_at": "2025-11-23T17:32:11.732937+01:00",
+    "raw_valid": true,
+    "song_session_id": "dda76bdd-b2ca-4db4-8a70-257837e1057d"
+  },
+  {
+    "last_update": "2025-11-23 16:35:11",
+    "song": {
+      "musicAuthor": "Metallica",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851cf84c5b276431b473e924802",
+      "musicTitle": "Enter Sandman",
+      "radio": "Rádio ROCK",
+      "startTime": "17:34"
+    },
+    "recorded_at": "2025-11-23T17:35:11.918738+01:00",
+    "raw_valid": true,
+    "song_session_id": "088f051f-f4ba-4221-996a-f9cdb05fc0ba"
+  },
+  {
+    "last_update": "2025-11-23 16:40:11",
+    "song": {
+      "musicAuthor": "Black Sabbath",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851d198e0a1a43c010afb480b3b",
+      "musicTitle": "Changes",
+      "radio": "Rádio ROCK",
+      "startTime": "17:39"
+    },
+    "recorded_at": "2025-11-23T17:40:12.449747+01:00",
+    "raw_valid": true,
+    "song_session_id": "b37e379c-b73c-4f59-820c-4cd28c775c65"
+  },
+  {
+    "last_update": "2025-11-23 16:45:14",
+    "song": {
+      "musicAuthor": "Papa Roach",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851985bf5ede2fe4a048ee85f28",
+      "musicTitle": "Between Angels And Insects",
+      "radio": "Rádio ROCK",
+      "startTime": "17:44"
+    },
+    "recorded_at": "2025-11-23T17:45:15.383686+01:00",
+    "raw_valid": true,
+    "song_session_id": "d88e96ff-82ea-473d-b0f2-41fd4e9c4f50"
+  },
+  {
+    "last_update": "2025-11-23 16:49:16",
+    "song": {
+      "musicAuthor": "U2",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851673526fcf35ab235e1a9d94c",
+      "musicTitle": "Sunday Bloody Sunday",
+      "radio": "Rádio ROCK",
+      "startTime": "17:48"
+    },
+    "recorded_at": "2025-11-23T17:49:16.834712+01:00",
+    "raw_valid": true,
+    "song_session_id": "68b73b1d-57b5-4f29-b39a-cde288e53c39"
+  },
+  {
+    "last_update": "2025-11-23 16:54:18",
+    "song": {
+      "musicAuthor": "Foo Fighters",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485183e260c313dc1ff1f17909cf",
+      "musicTitle": "The Pretender",
+      "radio": "Rádio ROCK",
+      "startTime": "17:53"
+    },
+    "recorded_at": "2025-11-23T17:54:18.217495+01:00",
+    "raw_valid": true,
+    "song_session_id": "b3774c6b-9549-4acc-9f0a-ced8dcbaf9aa"
+  },
+  {
+    "last_update": "2025-11-23 16:58:21",
+    "song": {
+      "musicAuthor": "Bush",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851480f135db3f0c9dffa2b65c8",
+      "musicTitle": "Swallowed",
+      "radio": "Rádio ROCK",
+      "startTime": "17:58"
+    },
+    "recorded_at": "2025-11-23T17:58:21.169900+01:00",
+    "raw_valid": true,
+    "song_session_id": "d5e12c7e-82d9-46e4-a2a5-7c765b58f037"
+  },
+  {
+    "last_update": "2025-11-23 17:03:23",
+    "song": {
+      "musicAuthor": "Kid Rock",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851a3473085a2a48547a5c290a8",
+      "musicTitle": "All Summer Long",
+      "radio": "Rádio ROCK",
+      "startTime": "18:02"
+    },
+    "recorded_at": "2025-11-23T18:03:23.117791+01:00",
+    "raw_valid": true,
+    "song_session_id": "adf4e024-f942-4bde-9c0e-6da3c5a8fc4b"
+  }
+]

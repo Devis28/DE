@@ -1,0 +1,378 @@
+[
+  {
+    "song": "Love Me Not",
+    "artists": [
+      "Ravyn Lenae"
+    ],
+    "isrc": "USAT22401137",
+    "start_time": "2025-11-29 05:50:03",
+    "radio": "expres",
+    "recorded_at": "2025-11-29T05:50:24.151527+01:00",
+    "raw_valid": true,
+    "song_session_id": "e7875419-08af-4fef-9b35-4ab52848a086"
+  },
+  {
+    "song": "Rieka",
+    "artists": [
+      "Richard Muller"
+    ],
+    "isrc": "SKA010109108",
+    "start_time": "2025-11-29 05:53:32",
+    "radio": "expres",
+    "recorded_at": "2025-11-29T05:53:47.535586+01:00",
+    "raw_valid": true,
+    "song_session_id": "26096119-6196-447a-a442-0359d55476d4"
+  },
+  {
+    "song": "Over The Rainbow",
+    "artists": [
+      "Israel"
+    ],
+    "isrc": "USMAC0100119",
+    "start_time": "2025-11-29 05:57:10",
+    "radio": "expres",
+    "recorded_at": "2025-11-29T05:57:40.806787+01:00",
+    "raw_valid": true,
+    "song_session_id": "dd372c84-6dcf-4b0c-ab1a-4a2a0735a9f1"
+  },
+  {
+    "song": "Feelslikeimfallinginlove",
+    "artists": [
+      "Coldplay"
+    ],
+    "isrc": "GBAYE2400676",
+    "start_time": "2025-11-29 06:04:49",
+    "radio": "expres",
+    "recorded_at": "2025-11-29T06:05:12.484025+01:00",
+    "raw_valid": true,
+    "song_session_id": "07ddf633-3abc-4955-ae54-938b1324ba6e"
+  },
+  {
+    "song": "Anjel",
+    "artists": [
+      "Komajota"
+    ],
+    "isrc": "SKA010700001",
+    "start_time": "2025-11-29 06:08:38",
+    "radio": "expres",
+    "recorded_at": "2025-11-29T06:09:02.884605+01:00",
+    "raw_valid": true,
+    "song_session_id": "549f0b3a-b615-4633-9318-0a4965fc418c"
+  },
+  {
+    "song": "The One",
+    "artists": [
+      "Michael Patrick Kelly"
+    ],
+    "isrc": "DEE862500476",
+    "start_time": "2025-11-29 06:11:38",
+    "radio": "expres",
+    "recorded_at": "2025-11-29T06:11:55.988834+01:00",
+    "raw_valid": true,
+    "song_session_id": "e4e09eee-6e20-4e68-9394-bef803e516ca"
+  },
+  {
+    "song": "Ty A Tvoja Sestra",
+    "artists": [
+      "No Name"
+    ],
+    "isrc": "SKA010005401",
+    "start_time": "2025-11-29 06:14:54",
+    "radio": "expres",
+    "recorded_at": "2025-11-29T06:15:19.083204+01:00",
+    "raw_valid": true,
+    "song_session_id": "6bc4580f-41d9-422d-a780-a5571c909417"
+  },
+  {
+    "song": "Desert Rose",
+    "artists": [
+      "Sting"
+    ],
+    "isrc": "USIR19902517",
+    "start_time": "2025-11-29 06:18:07",
+    "radio": "expres",
+    "recorded_at": "2025-11-29T06:18:23.083756+01:00",
+    "raw_valid": true,
+    "song_session_id": "f7c1916b-0a96-4114-ad3b-45be5e9d8b8f"
+  },
+  {
+    "song": "Ked Ma Raz Odsudia",
+    "artists": [
+      "Lukas Adamec"
+    ],
+    "isrc": "SKI601700002",
+    "start_time": "2025-11-29 06:22:00",
+    "radio": "expres",
+    "recorded_at": "2025-11-29T06:22:27.161918+01:00",
+    "raw_valid": true,
+    "song_session_id": "933c8b95-2c97-4dcb-834b-276a1467517b"
+  },
+  {
+    "song": "Blink Twice",
+    "artists": [
+      "Shaboozey",
+      "Myles Smith"
+    ],
+    "isrc": "USUYG1717098",
+    "start_time": "2025-11-29 06:25:55",
+    "radio": "expres",
+    "recorded_at": "2025-11-29T06:26:07.478093+01:00",
+    "raw_valid": true,
+    "song_session_id": "fbaa3e5c-d811-4612-b535-1a7d4d85f200"
+  },
+  {
+    "song": "Nothing",
+    "artists": [
+      "Lina Mayer"
+    ],
+    "isrc": "SKK311600101",
+    "start_time": "2025-11-29 06:28:34",
+    "radio": "expres",
+    "recorded_at": "2025-11-29T06:28:45.043200+01:00",
+    "raw_valid": true,
+    "song_session_id": "0a026df5-d907-4a77-ae65-12554c50eb17"
+  },
+  {
+    "song": "Regalo",
+    "artists": [
+      "Alvaro Soler"
+    ],
+    "isrc": "DEE862500388",
+    "start_time": "2025-11-29 06:32:41",
+    "radio": "expres",
+    "recorded_at": "2025-11-29T06:33:10.851479+01:00",
+    "raw_valid": true,
+    "song_session_id": "7c600e1f-19bb-4883-9adc-0232e8569677"
+  },
+  {
+    "song": "Za Dverami Mojej Izby",
+    "artists": [
+      "Beata Dubasova"
+    ],
+    "isrc": "SKA129024401",
+    "start_time": "2025-11-29 06:35:48",
+    "radio": "expres",
+    "recorded_at": "2025-11-29T06:36:26.673503+01:00",
+    "raw_valid": true,
+    "song_session_id": "22f144ce-4d09-429c-946f-991604856388"
+  },
+  {
+    "song": "Heaven Is A Place On Earth",
+    "artists": [
+      "Belinda Carlisle"
+    ],
+    "isrc": "GBBLG8700257",
+    "start_time": "2025-11-29 06:40:40",
+    "radio": "expres",
+    "recorded_at": "2025-11-29T06:40:51.572162+01:00",
+    "raw_valid": true,
+    "song_session_id": "dee81dbd-031f-4b4f-a49e-5bb9e1c951f2"
+  },
+  {
+    "song": "Cry",
+    "artists": [
+      "Mark Dann"
+    ],
+    "isrc": "SKM912400001",
+    "start_time": "2025-11-29 06:44:45",
+    "radio": "expres",
+    "recorded_at": "2025-11-29T06:45:23.819241+01:00",
+    "raw_valid": true,
+    "song_session_id": "5d0c4d02-5b55-4e47-b7e5-818a1db6fd50"
+  },
+  {
+    "song": "Photograph",
+    "artists": [
+      "Ed Sheeran"
+    ],
+    "isrc": "GBAHS1400094",
+    "start_time": "2025-11-29 06:48:00",
+    "radio": "expres",
+    "recorded_at": "2025-11-29T06:48:11.786406+01:00",
+    "raw_valid": true,
+    "song_session_id": "01e16158-d70e-426a-8196-b2e93a9fde8d"
+  },
+  {
+    "song": "Vsetko Bude Dobre",
+    "artists": [
+      "Gladiator"
+    ],
+    "isrc": "SKCM72560001",
+    "start_time": "2025-11-29 06:51:40",
+    "radio": "expres",
+    "recorded_at": "2025-11-29T06:51:55.625436+01:00",
+    "raw_valid": true,
+    "song_session_id": "9a3266d9-9e3f-4c61-adf2-d6639c99b804"
+  },
+  {
+    "song": "Thats So True",
+    "artists": [
+      "Gracie Abrams"
+    ],
+    "isrc": "USUG12406903",
+    "start_time": "2025-11-29 06:54:47",
+    "radio": "expres",
+    "recorded_at": "2025-11-29T06:55:06.833789+01:00",
+    "raw_valid": true,
+    "song_session_id": "273069a8-d72d-4be5-99e3-b9d2bdeb518a"
+  },
+  {
+    "song": "Tak Si So Mnou Opakuj",
+    "artists": [
+      "Marika Gombitova"
+    ],
+    "isrc": "SKA128791511",
+    "start_time": "2025-11-29 06:57:26",
+    "radio": "expres",
+    "recorded_at": "2025-11-29T06:57:40.967170+01:00",
+    "raw_valid": true,
+    "song_session_id": "9bcade3e-4611-4b36-ab73-4b6a8530c01e"
+  },
+  {
+    "song": "Dnes",
+    "artists": [
+      "Tublatanka"
+    ],
+    "isrc": "SKA128710206",
+    "start_time": "2025-11-29 07:06:08",
+    "radio": "expres",
+    "recorded_at": "2025-11-29T07:06:23.548065+01:00",
+    "raw_valid": true,
+    "song_session_id": "2419df27-e7c1-4bb7-9d28-ae0969ba8157"
+  },
+  {
+    "song": "Maj",
+    "artists": [
+      "Peter Bic Project"
+    ],
+    "isrc": "SKA012100047",
+    "start_time": "2025-11-29 07:11:02",
+    "radio": "expres",
+    "recorded_at": "2025-11-29T07:11:23.092044+01:00",
+    "raw_valid": true,
+    "song_session_id": "4afe62d9-4ac3-470c-aec5-face23b0d69d"
+  },
+  {
+    "song": "Miestna Jednicka",
+    "artists": [
+      "Vaso Patejdl"
+    ],
+    "isrc": "SKA128673802",
+    "start_time": "2025-11-29 07:14:54",
+    "radio": "expres",
+    "recorded_at": "2025-11-29T07:15:08.772877+01:00",
+    "raw_valid": true,
+    "song_session_id": "759e4e0b-e133-4971-a512-6b1d3aae4b23"
+  },
+  {
+    "song": "Spolu",
+    "artists": [
+      "Amo",
+      "Polemic"
+    ],
+    "isrc": "SKA271102502",
+    "start_time": "2025-11-29 07:17:51",
+    "radio": "expres",
+    "recorded_at": "2025-11-29T07:18:12.938073+01:00",
+    "raw_valid": true,
+    "song_session_id": "3006f410-bb5c-458c-8f53-15df770fd76d"
+  },
+  {
+    "song": "Draha 2012",
+    "artists": [
+      "Miro Zbirka"
+    ],
+    "isrc": "CZUM71200096",
+    "start_time": "2025-11-29 07:21:00",
+    "radio": "expres",
+    "recorded_at": "2025-11-29T07:21:33.204758+01:00",
+    "raw_valid": true,
+    "song_session_id": "a8a3ca69-a546-468b-858c-90d785654b37"
+  },
+  {
+    "song": "Laska Neumiera",
+    "artists": [
+      "Jana Kirschner",
+      "Stefan Stec"
+    ],
+    "isrc": "SKAP22100001",
+    "start_time": "2025-11-29 07:24:50",
+    "radio": "expres",
+    "recorded_at": "2025-11-29T07:25:18.908203+01:00",
+    "raw_valid": true,
+    "song_session_id": "3856cdfc-32f3-4c69-8c98-686c1a3d9c60"
+  },
+  {
+    "song": "Jeden Kabat Jedna Koza Jedna Tvar",
+    "artists": [
+      "Team"
+    ],
+    "isrc": "SKA128917013",
+    "start_time": "2025-11-29 07:28:15",
+    "radio": "expres",
+    "recorded_at": "2025-11-29T07:28:26.930509+01:00",
+    "raw_valid": true,
+    "song_session_id": "ae128203-e1ba-4859-91e5-f06adb45f6aa"
+  },
+  {
+    "song": "Nic Sa Nemeni",
+    "artists": [
+      "Kali",
+      "Imt Smile"
+    ],
+    "isrc": "QZWDW2382192",
+    "start_time": "2025-11-29 07:32:07",
+    "radio": "expres",
+    "recorded_at": "2025-11-29T07:32:30.594630+01:00",
+    "raw_valid": true,
+    "song_session_id": "329468c8-2fbf-43c6-9674-5d5509ecbecc"
+  },
+  {
+    "song": "Vcely",
+    "artists": [
+      "Zuzana Smatanova"
+    ],
+    "isrc": "CZA210700536",
+    "start_time": "2025-11-29 07:35:49",
+    "radio": "expres",
+    "recorded_at": "2025-11-29T07:36:20.274181+01:00",
+    "raw_valid": true,
+    "song_session_id": "46d18f9c-0509-485b-8cf9-578ce7b7dff6"
+  },
+  {
+    "song": "Rano",
+    "artists": [
+      "Ine Kafe"
+    ],
+    "isrc": "SKA880000304",
+    "start_time": "2025-11-29 07:39:11",
+    "radio": "expres",
+    "recorded_at": "2025-11-29T07:39:54.163879+01:00",
+    "raw_valid": true,
+    "song_session_id": "234d1f82-65f1-4a24-9a53-7dcea9156b39"
+  },
+  {
+    "song": "Ona Je Madona",
+    "artists": [
+      "Robo Grigorov"
+    ],
+    "isrc": "TCAEZ2066102",
+    "start_time": "2025-11-29 07:43:21",
+    "radio": "expres",
+    "recorded_at": "2025-11-29T07:43:37.089558+01:00",
+    "raw_valid": true,
+    "song_session_id": "4db92e1d-9036-43c7-92fd-21c9c6c951ef"
+  },
+  {
+    "song": "Kym Ty Spis",
+    "artists": [
+      "Tina"
+    ],
+    "isrc": "CZA230600522",
+    "start_time": "2025-11-29 07:46:18",
+    "radio": "expres",
+    "recorded_at": "2025-11-29T07:46:35.024157+01:00",
+    "raw_valid": true,
+    "song_session_id": "a58ac0fe-fe62-4d55-a204-e10a44d6110e"
+  }
+]

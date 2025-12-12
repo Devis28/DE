@@ -1,0 +1,366 @@
+[
+  {
+    "last_update": "2025-11-26 11:07:23",
+    "song": {
+      "musicAuthor": "Zz Top",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485128a00032ff3b86af3d7e0e54",
+      "musicTitle": "Gimme All Your Lovin'",
+      "radio": "Rádio ROCK",
+      "startTime": "12:07"
+    },
+    "recorded_at": "2025-11-26T12:07:24.482409+01:00",
+    "raw_valid": true,
+    "song_session_id": "e178873a-3a98-476a-9175-a1f316ec6c52"
+  },
+  {
+    "last_update": "2025-11-26 11:13:24",
+    "song": {
+      "musicAuthor": "System Of A Down",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485130d45198d0c9e8841f9a9578",
+      "musicTitle": "Toxicity",
+      "radio": "Rádio ROCK",
+      "startTime": "12:13"
+    },
+    "recorded_at": "2025-11-26T12:13:25.409837+01:00",
+    "raw_valid": true,
+    "song_session_id": "7cf95c43-20fa-49eb-a0f6-51990ecfc0af"
+  },
+  {
+    "last_update": "2025-11-26 11:17:26",
+    "song": {
+      "musicAuthor": "Aerosmith",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485168f88636e7ce656f1d9fa910",
+      "musicTitle": "Pink",
+      "radio": "Rádio ROCK",
+      "startTime": "12:16"
+    },
+    "recorded_at": "2025-11-26T12:17:27.265723+01:00",
+    "raw_valid": true,
+    "song_session_id": "64b76468-d8c0-4630-ac20-8331bf094cd4"
+  },
+  {
+    "last_update": "2025-11-26 11:21:26",
+    "song": {
+      "musicAuthor": "Yungblud",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851df5bd10ce6f6fc2723f892b4",
+      "musicTitle": "Lowlife",
+      "radio": "Rádio ROCK",
+      "startTime": "12:20"
+    },
+    "recorded_at": "2025-11-26T12:21:27.558853+01:00",
+    "raw_valid": true,
+    "song_session_id": "1c78c961-2140-4136-b0ee-be6d1e31fcda"
+  },
+  {
+    "last_update": "2025-11-26 11:25:28",
+    "song": {
+      "musicAuthor": "U2",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851b7bea3d01f04e6d0408d2afe",
+      "musicTitle": "Where The Streets Have No Name",
+      "radio": "Rádio ROCK",
+      "startTime": "12:24"
+    },
+    "recorded_at": "2025-11-26T12:25:28.468572+01:00",
+    "raw_valid": true,
+    "song_session_id": "c188be80-e412-4fe6-b884-8b7e5e72f84c"
+  },
+  {
+    "last_update": "2025-11-26 11:29:28",
+    "song": {
+      "musicAuthor": "Billy Talent",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485151ad1636a7d0456ad972a71c",
+      "musicTitle": "Fallen Leaves",
+      "radio": "Rádio ROCK",
+      "startTime": "12:28"
+    },
+    "recorded_at": "2025-11-26T12:29:29.322736+01:00",
+    "raw_valid": true,
+    "song_session_id": "e8fc8a24-2dc0-4b28-a0cb-429f0b73b35f"
+  },
+  {
+    "last_update": "2025-11-26 11:32:31",
+    "song": {
+      "musicAuthor": "The Offspring",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048510158cbde70672dd821972907",
+      "musicTitle": "Self Esteem",
+      "radio": "Rádio ROCK",
+      "startTime": "12:31"
+    },
+    "recorded_at": "2025-11-26T12:32:31.673359+01:00",
+    "raw_valid": true,
+    "song_session_id": "bcf70192-6e01-4b40-8f83-762f3b74ec63"
+  },
+  {
+    "last_update": "2025-11-26 11:41:33",
+    "song": {
+      "musicAuthor": "Good Charlotte",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851e3db4a50dbaed2c0cd38ac8e",
+      "musicTitle": "Dance Floor Anthem (I Don't Want To Be In Love",
+      "radio": "Rádio ROCK",
+      "startTime": "12:40"
+    },
+    "recorded_at": "2025-11-26T12:41:34.272542+01:00",
+    "raw_valid": true,
+    "song_session_id": "bd3b3cb4-935c-44fd-84bb-d4830554ac24"
+  },
+  {
+    "last_update": "2025-11-26 11:45:35",
+    "song": {
+      "musicAuthor": "Liquido",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048518b28efbba32db47b0172fd9e",
+      "musicTitle": "Narcotic",
+      "radio": "Rádio ROCK",
+      "startTime": "12:44"
+    },
+    "recorded_at": "2025-11-26T12:45:35.678042+01:00",
+    "raw_valid": true,
+    "song_session_id": "4347e22c-6f1c-4133-9272-97e838c55e5a"
+  },
+  {
+    "last_update": "2025-11-26 11:49:35",
+    "song": {
+      "musicAuthor": "Bon Jovi",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048511336b31b6a1799f0de5807ac",
+      "musicTitle": "You Give Love A Bad Name",
+      "radio": "Rádio ROCK",
+      "startTime": "12:49"
+    },
+    "recorded_at": "2025-11-26T12:49:36.304111+01:00",
+    "raw_valid": true,
+    "song_session_id": "e2940e95-f137-42f6-8be6-2ad95d3ab64f"
+  },
+  {
+    "last_update": "2025-11-26 11:53:35",
+    "song": {
+      "musicAuthor": "Tublatanka",
+      "musicCover": "https://static.radia.sk/covers/32/7ee86987-baad-48a6-9afa-0ca560d378f2.jpg",
+      "musicTitle": "Dobrí Priatelia",
+      "radio": "Rádio ROCK",
+      "startTime": "12:52"
+    },
+    "recorded_at": "2025-11-26T12:53:36.634958+01:00",
+    "raw_valid": true,
+    "song_session_id": "3fb09d1f-a192-4e9e-9db8-6520fff3d3a1"
+  },
+  {
+    "last_update": "2025-11-26 11:57:36",
+    "song": {
+      "musicAuthor": "Nirvana",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851fbc71c99f9c1296c56dd51b6",
+      "musicTitle": "In Bloom",
+      "radio": "Rádio ROCK",
+      "startTime": "12:56"
+    },
+    "recorded_at": "2025-11-26T12:57:36.967001+01:00",
+    "raw_valid": true,
+    "song_session_id": "9e1b10ea-cd6f-45aa-b3f2-a2d4dd019c13"
+  },
+  {
+    "last_update": "2025-11-26 12:02:37",
+    "song": {
+      "musicAuthor": "Sum 41",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048519a482180e6a306229bff49dc",
+      "musicTitle": "Fat Lip",
+      "radio": "Rádio ROCK",
+      "startTime": "13:02"
+    },
+    "recorded_at": "2025-11-26T13:02:37.660492+01:00",
+    "raw_valid": true,
+    "song_session_id": "6fa3d9d6-b7ab-404c-b911-d831064477a6"
+  },
+  {
+    "last_update": "2025-11-26 12:05:09",
+    "song": {
+      "musicAuthor": "The Rolling Stones",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851a1d9c9969f2a7ed27e449a3c",
+      "musicTitle": "Brown Sugar",
+      "radio": "Rádio ROCK",
+      "startTime": "13:05"
+    },
+    "recorded_at": "2025-11-26T13:05:10.369809+01:00",
+    "raw_valid": true,
+    "song_session_id": "419eb8a1-f184-4a2d-b72e-f6b6038fc31d"
+  },
+  {
+    "last_update": "2025-11-26 12:10:10",
+    "song": {
+      "musicAuthor": "The Cure",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048519c72b249fcaa04d074c1dfcd",
+      "musicTitle": "Friday I'm In Love",
+      "radio": "Rádio ROCK",
+      "startTime": "13:09"
+    },
+    "recorded_at": "2025-11-26T13:10:11.011992+01:00",
+    "raw_valid": true,
+    "song_session_id": "1d338d26-ae25-4ff4-af8d-bab93f860c7c"
+  },
+  {
+    "last_update": "2025-11-26 12:15:11",
+    "song": {
+      "musicAuthor": "Creed",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851a32f2ae4dade83e0d7a294f4",
+      "musicTitle": "My Sacrifice",
+      "radio": "Rádio ROCK",
+      "startTime": "13:14"
+    },
+    "recorded_at": "2025-11-26T13:15:11.919764+01:00",
+    "raw_valid": true,
+    "song_session_id": "a1d3aff5-e62d-4b3b-b197-a70c6ba59d36"
+  },
+  {
+    "last_update": "2025-11-26 12:19:11",
+    "song": {
+      "musicAuthor": "Bruce Springsteen",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851a7865e686c36a4adda6c9978",
+      "musicTitle": "Born In The U.S.A.",
+      "radio": "Rádio ROCK",
+      "startTime": "13:19"
+    },
+    "recorded_at": "2025-11-26T13:19:12.246773+01:00",
+    "raw_valid": true,
+    "song_session_id": "aeaa004d-5a16-47dc-aee0-313197c240a6"
+  },
+  {
+    "last_update": "2025-11-26 12:24:14",
+    "song": {
+      "musicAuthor": "Ac Dc",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048518399047ff71200928f5b6508",
+      "musicTitle": "Thunderstruck",
+      "radio": "Rádio ROCK",
+      "startTime": "13:23"
+    },
+    "recorded_at": "2025-11-26T13:24:14.856189+01:00",
+    "raw_valid": true,
+    "song_session_id": "5befde77-376a-413e-b899-20de37bb6e67"
+  },
+  {
+    "last_update": "2025-11-26 12:29:16",
+    "song": {
+      "musicAuthor": "Horkýže Slíže",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851a1dba7a16c82818421fc734a",
+      "musicTitle": "Malá Žužu",
+      "radio": "Rádio ROCK",
+      "startTime": "13:28"
+    },
+    "recorded_at": "2025-11-26T13:29:16.232190+01:00",
+    "raw_valid": true,
+    "song_session_id": "632da499-0997-4fe2-a959-2377362a15ce"
+  },
+  {
+    "last_update": "2025-11-26 12:32:16",
+    "song": {
+      "musicAuthor": "Motörhead",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851bb7d33186e4a26421c6a77ae",
+      "musicTitle": "Ace Of Spades",
+      "radio": "Rádio ROCK",
+      "startTime": "13:31"
+    },
+    "recorded_at": "2025-11-26T13:32:16.453197+01:00",
+    "raw_valid": true,
+    "song_session_id": "651bf2b3-d34e-4a3b-a5c8-4e1eaa7b0d97"
+  },
+  {
+    "last_update": "2025-11-26 12:35:17",
+    "song": {
+      "musicAuthor": "Offspring The",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851cbd2ee7dff77bfb2b5f0af52",
+      "musicTitle": "Why Don't You Get A Job",
+      "radio": "Rádio ROCK",
+      "startTime": "13:34"
+    },
+    "recorded_at": "2025-11-26T13:35:17.627867+01:00",
+    "raw_valid": true,
+    "song_session_id": "f837883d-d2b4-4314-ac55-fb0f8bcf4b9b"
+  },
+  {
+    "last_update": "2025-11-26 12:38:17",
+    "song": {
+      "musicAuthor": "U2",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851b7bea3d01f04e6d0408d2afe",
+      "musicTitle": "With Or Without You",
+      "radio": "Rádio ROCK",
+      "startTime": "13:37"
+    },
+    "recorded_at": "2025-11-26T13:38:17.826680+01:00",
+    "raw_valid": true,
+    "song_session_id": "de87bd10-e587-4127-b404-420745ca7300"
+  },
+  {
+    "last_update": "2025-11-26 12:43:19",
+    "song": {
+      "musicAuthor": "Guns N Roses",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851e44963b8bb127552ac761873",
+      "musicTitle": "Live And Let Die",
+      "radio": "Rádio ROCK",
+      "startTime": "13:42"
+    },
+    "recorded_at": "2025-11-26T13:43:19.668860+01:00",
+    "raw_valid": true,
+    "song_session_id": "02934b66-24ef-4bcd-8c26-44344b0f25b0"
+  },
+  {
+    "last_update": "2025-11-26 12:46:19",
+    "song": {
+      "musicAuthor": "Paramore",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485169966efa45b125ed6711b43c",
+      "musicTitle": "Misery Business",
+      "radio": "Rádio ROCK",
+      "startTime": "13:45"
+    },
+    "recorded_at": "2025-11-26T13:46:20.049640+01:00",
+    "raw_valid": true,
+    "song_session_id": "485152a8-b33f-4623-8325-8472bd47dbfb"
+  },
+  {
+    "last_update": "2025-11-26 12:49:19",
+    "song": {
+      "musicAuthor": "Queen",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048511f7077ae1018b5fbab08dfa8",
+      "musicTitle": "We Are The Champions",
+      "radio": "Rádio ROCK",
+      "startTime": "13:48"
+    },
+    "recorded_at": "2025-11-26T13:49:20.272100+01:00",
+    "raw_valid": true,
+    "song_session_id": "7edc6309-a283-4666-b101-e4d18da44484"
+  },
+  {
+    "last_update": "2025-11-26 12:52:25",
+    "song": {
+      "musicAuthor": "Bon Jovi",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485159bfe048568a969c6f0bd08c",
+      "musicTitle": "Keep The Faith",
+      "radio": "Rádio ROCK",
+      "startTime": "13:51"
+    },
+    "recorded_at": "2025-11-26T13:52:25.578049+01:00",
+    "raw_valid": true,
+    "song_session_id": "a6cf9f3c-fead-4d78-a205-5f4f4fe62a5d"
+  },
+  {
+    "last_update": "2025-11-26 12:58:28",
+    "song": {
+      "musicAuthor": "Deep Purple",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851a729c9c3dec04b99d889c66f",
+      "musicTitle": "Smoke On The Water",
+      "radio": "Rádio ROCK",
+      "startTime": "13:57"
+    },
+    "recorded_at": "2025-11-26T13:58:28.229588+01:00",
+    "raw_valid": true,
+    "song_session_id": "6538d9ba-38ab-4ea1-9ce6-44ae32c1fdb7"
+  },
+  {
+    "last_update": "2025-11-26 13:03:28",
+    "song": {
+      "musicAuthor": "Metallica",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851cf84c5b276431b473e924802",
+      "musicTitle": "Nothing Else Matters",
+      "radio": "Rádio ROCK",
+      "startTime": "14:02"
+    },
+    "recorded_at": "2025-11-26T14:03:29.058689+01:00",
+    "raw_valid": true,
+    "song_session_id": "91a19024-e120-4083-8f2a-915f7f04f811"
+  }
+]

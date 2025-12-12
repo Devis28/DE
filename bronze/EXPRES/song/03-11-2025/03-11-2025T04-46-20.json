@@ -1,0 +1,410 @@
+[
+  {
+    "song": "Naoko Spim",
+    "artists": [
+      "Peha"
+    ],
+    "isrc": "SKA770304101",
+    "start_time": "2025-11-03 02:46:54",
+    "radio": "expres",
+    "recorded_at": "03.11.2025 02:47:08",
+    "raw_valid": true,
+    "song_session_id": "aaeb2fe1-afbe-4bba-9c04-fc049ae1fee9"
+  },
+  {
+    "song": "Pride",
+    "artists": [
+      "Felix Jaehn",
+      "Jhart"
+    ],
+    "isrc": "DEUM72503423",
+    "start_time": "2025-11-03 02:50:11",
+    "radio": "expres",
+    "recorded_at": "03.11.2025 02:50:39",
+    "raw_valid": true,
+    "song_session_id": "347e99a0-b949-4459-ba45-2b5a90a57eab"
+  },
+  {
+    "song": "Modlitba Lasky",
+    "artists": [
+      "Robo Grigorov"
+    ],
+    "isrc": "TCAEZ2066091",
+    "start_time": "2025-11-03 02:52:53",
+    "radio": "expres",
+    "recorded_at": "03.11.2025 02:53:17",
+    "raw_valid": true,
+    "song_session_id": "aa14b36e-0593-44af-840c-69032c2d5cde"
+  },
+  {
+    "song": "Sharks",
+    "artists": [
+      "Imagine Dragons"
+    ],
+    "isrc": "USUM72205464",
+    "start_time": "2025-11-03 02:57:22",
+    "radio": "expres",
+    "recorded_at": "03.11.2025 02:57:43",
+    "raw_valid": true,
+    "song_session_id": "18d30f6c-ecb3-4df1-9ed9-7baf8cfb177e"
+  },
+  {
+    "song": "Ked Muz Miluje Zenu",
+    "artists": [
+      "Robo Opatovsky"
+    ],
+    "isrc": "SKC251701406",
+    "start_time": "2025-11-03 03:00:41",
+    "radio": "expres",
+    "recorded_at": "03.11.2025 03:01:06",
+    "raw_valid": true,
+    "song_session_id": "81fe8696-d4b6-4327-95d7-33d319299995"
+  },
+  {
+    "song": "Too Sweet",
+    "artists": [
+      "Hozier"
+    ],
+    "isrc": "IEACJ2300335",
+    "start_time": "2025-11-03 03:04:48",
+    "radio": "expres",
+    "recorded_at": "03.11.2025 03:05:11",
+    "raw_valid": true,
+    "song_session_id": "1a53831a-6e2d-40e0-bf02-9e0b92829cd7"
+  },
+  {
+    "song": "Nespalme To Krasne V Nas",
+    "artists": [
+      "Marika Gombitova",
+      "Miro Zbirka"
+    ],
+    "isrc": "SKA010110111",
+    "start_time": "2025-11-03 03:08:58",
+    "radio": "expres",
+    "recorded_at": "03.11.2025 03:09:10",
+    "raw_valid": true,
+    "song_session_id": "4a0aeec7-393d-499b-930f-3d320aa50eeb"
+  },
+  {
+    "song": "The One",
+    "artists": [
+      "Michael Patrick Kelly"
+    ],
+    "isrc": "DEE862500476",
+    "start_time": "2025-11-03 03:12:21",
+    "radio": "expres",
+    "recorded_at": "03.11.2025 03:12:34",
+    "raw_valid": true,
+    "song_session_id": "5ba4d6ac-10bb-4e24-9fc6-9433453bb8c4"
+  },
+  {
+    "song": "So Zivotom V Ohrozeni",
+    "artists": [
+      "Jana Kirschner"
+    ],
+    "isrc": "SKA010205102",
+    "start_time": "2025-11-03 03:15:20",
+    "radio": "expres",
+    "recorded_at": "03.11.2025 03:15:37",
+    "raw_valid": true,
+    "song_session_id": "489d3077-16fc-4a36-acac-0a3c91abe183"
+  },
+  {
+    "song": "Welcome To St. Tropez",
+    "artists": [
+      "Dj Antoine",
+      "Timati",
+      "Kalenna"
+    ],
+    "isrc": "CH4881002902",
+    "start_time": "2025-11-03 03:19:12",
+    "radio": "expres",
+    "recorded_at": "03.11.2025 03:19:21",
+    "raw_valid": true,
+    "song_session_id": "072e53de-d263-41d9-9d31-9d89b4f0338a"
+  },
+  {
+    "song": "Vsetky Oci Na Mne",
+    "artists": [
+      "Majk Spirit"
+    ],
+    "isrc": "FRX202201096",
+    "start_time": "2025-11-03 03:22:34",
+    "radio": "expres",
+    "recorded_at": "03.11.2025 03:22:48",
+    "raw_valid": true,
+    "song_session_id": "371c55da-b1ab-40e8-a422-c7e57e92acb2"
+  },
+  {
+    "song": "The Dead Dance",
+    "artists": [
+      "Lady Gaga"
+    ],
+    "isrc": "USUM72407034",
+    "start_time": "2025-11-03 03:25:55",
+    "radio": "expres",
+    "recorded_at": "03.11.2025 03:26:20",
+    "raw_valid": true,
+    "song_session_id": "4fe1ced3-331a-47c5-af87-f3140cedb6ed"
+  },
+  {
+    "song": "Femme Fatale",
+    "artists": [
+      "Amo",
+      "Juraj Benetin"
+    ],
+    "isrc": "SKG201300111",
+    "start_time": "2025-11-03 03:29:26",
+    "radio": "expres",
+    "recorded_at": "03.11.2025 03:29:53",
+    "raw_valid": true,
+    "song_session_id": "de33e015-7c69-4da3-be1c-85bde38107b8"
+  },
+  {
+    "song": "Do It Again",
+    "artists": [
+      "Ray Dalton"
+    ],
+    "isrc": "DEE862300435",
+    "start_time": "2025-11-03 03:33:24",
+    "radio": "expres",
+    "recorded_at": "03.11.2025 03:33:42",
+    "raw_valid": true,
+    "song_session_id": "8db78470-6c90-4344-8172-9768bd0e955b"
+  },
+  {
+    "song": "Glide",
+    "artists": [
+      "Neiked",
+      "Portugal The Man"
+    ],
+    "isrc": "DEE862500421",
+    "start_time": "2025-11-03 03:36:21",
+    "radio": "expres",
+    "recorded_at": "03.11.2025 03:36:40",
+    "raw_valid": true,
+    "song_session_id": "7b40623e-88df-4de4-8dd3-df5efef69570"
+  },
+  {
+    "song": "Miesta",
+    "artists": [
+      "Zuzana Smatanova",
+      "Adam Durica"
+    ],
+    "isrc": "SKI941400603",
+    "start_time": "2025-11-03 03:39:22",
+    "radio": "expres",
+    "recorded_at": "03.11.2025 03:39:45",
+    "raw_valid": true,
+    "song_session_id": "c8e2ced2-7ea3-4b8c-b261-adab22bcc4b2"
+  },
+  {
+    "song": "Viva La Vida",
+    "artists": [
+      "Coldplay"
+    ],
+    "isrc": "GBAYE0800265",
+    "start_time": "2025-11-03 03:42:49",
+    "radio": "expres",
+    "recorded_at": "03.11.2025 03:43:08",
+    "raw_valid": true,
+    "song_session_id": "b4f3d455-ec9c-446b-8862-2ca4e532f8e3"
+  },
+  {
+    "song": "Kaskader",
+    "artists": [
+      "Elan"
+    ],
+    "isrc": "SKA129250602",
+    "start_time": "2025-11-03 03:46:40",
+    "radio": "expres",
+    "recorded_at": "03.11.2025 03:47:02",
+    "raw_valid": true,
+    "song_session_id": "c6b01ef5-d407-4a54-95ed-db76ac15b5ca"
+  },
+  {
+    "song": "Scared To Be Lonely",
+    "artists": [
+      "Martin Garrix",
+      "Dua Lipa"
+    ],
+    "isrc": "NLM5S1600025",
+    "start_time": "2025-11-03 03:50:39",
+    "radio": "expres",
+    "recorded_at": "03.11.2025 03:51:02",
+    "raw_valid": true,
+    "song_session_id": "c2ce2621-f8ef-4844-9395-86be08ae1138"
+  },
+  {
+    "song": "Do Neba",
+    "artists": [
+      "Dara Rolins"
+    ],
+    "isrc": "QZYFZ2505251",
+    "start_time": "2025-11-03 03:54:15",
+    "radio": "expres",
+    "recorded_at": "03.11.2025 03:54:52",
+    "raw_valid": true,
+    "song_session_id": "af592c46-2790-41ce-9dca-4dbcc6b79413"
+  },
+  {
+    "song": "Trustfall",
+    "artists": [
+      "Pink"
+    ],
+    "isrc": "USRC12204190",
+    "start_time": "2025-11-03 03:57:50",
+    "radio": "expres",
+    "recorded_at": "03.11.2025 03:58:05",
+    "raw_valid": true,
+    "song_session_id": "ab957350-fe87-49b5-b744-5dbbb1785b08"
+  },
+  {
+    "song": "Let Me Die",
+    "artists": [
+      "Mark Dann",
+      "Giovanni Ricci"
+    ],
+    "isrc": "US38Y2520370",
+    "start_time": "2025-11-03 04:01:38",
+    "radio": "expres",
+    "recorded_at": "03.11.2025 04:01:57",
+    "raw_valid": true,
+    "song_session_id": "a1190429-bc44-4aea-8fdd-6eac0aa73348"
+  },
+  {
+    "song": "Dazd",
+    "artists": [
+      "Peter Cmorik"
+    ],
+    "isrc": "CZA210600280",
+    "start_time": "2025-11-03 04:04:11",
+    "radio": "expres",
+    "recorded_at": "03.11.2025 04:04:30",
+    "raw_valid": true,
+    "song_session_id": "bf5c0cc0-42b4-4e66-b423-18046c8d30f6"
+  },
+  {
+    "song": "The Sound Of Silence",
+    "artists": [
+      "Disturbed"
+    ],
+    "isrc": "USRE12400063",
+    "start_time": "2025-11-03 04:08:44",
+    "radio": "expres",
+    "recorded_at": "03.11.2025 04:09:04",
+    "raw_valid": true,
+    "song_session_id": "32b087f3-6bfa-4d6a-96cc-201db1198a48"
+  },
+  {
+    "song": "Pustam Ta",
+    "artists": [
+      "Karmen Pal-Balaz"
+    ],
+    "isrc": "SKA011900082",
+    "start_time": "2025-11-03 04:11:50",
+    "radio": "expres",
+    "recorded_at": "03.11.2025 04:11:57",
+    "raw_valid": true,
+    "song_session_id": "2118209f-19a4-4d66-93cc-1ff4fd913729"
+  },
+  {
+    "song": "Superstar",
+    "artists": [
+      "Jamelia"
+    ],
+    "isrc": "GBAYE0202055",
+    "start_time": "2025-11-03 04:15:41",
+    "radio": "expres",
+    "recorded_at": "03.11.2025 04:16:05",
+    "raw_valid": true,
+    "song_session_id": "afc88756-e1c0-4c6c-92b9-50b24cf32fbb"
+  },
+  {
+    "song": "Zhori Vsetko Co Mam",
+    "artists": [
+      "Desmod"
+    ],
+    "isrc": "CZA210600215",
+    "start_time": "2025-11-03 04:19:17",
+    "radio": "expres",
+    "recorded_at": "03.11.2025 04:19:43",
+    "raw_valid": true,
+    "song_session_id": "8206ad0d-ef78-46ff-8670-9972fec72d11"
+  },
+  {
+    "song": "The Fate Of Ophelia",
+    "artists": [
+      "Taylor Swift"
+    ],
+    "isrc": "USUG12506436",
+    "start_time": "2025-11-03 04:23:38",
+    "radio": "expres",
+    "recorded_at": "03.11.2025 04:23:54",
+    "raw_valid": true,
+    "song_session_id": "351cf8f0-825c-4b3c-9d16-08344e3061ee"
+  },
+  {
+    "song": "Lahky Song",
+    "artists": [
+      "Hex",
+      "Robo Grigorov"
+    ],
+    "isrc": "SKC751700113",
+    "start_time": "2025-11-03 04:27:31",
+    "radio": "expres",
+    "recorded_at": "03.11.2025 04:27:54",
+    "raw_valid": true,
+    "song_session_id": "d6375005-99c3-465a-a6e5-b9cd18efe082"
+  },
+  {
+    "song": "Bam Bam",
+    "artists": [
+      "Camila Cabello",
+      "Ed Sheeran"
+    ],
+    "isrc": "USSM12200047",
+    "start_time": "2025-11-03 04:30:51",
+    "radio": "expres",
+    "recorded_at": "03.11.2025 04:31:15",
+    "raw_valid": true,
+    "song_session_id": "37071219-f67f-4349-86fc-e602e5531b6c"
+  },
+  {
+    "song": "Regalo",
+    "artists": [
+      "Alvaro Soler"
+    ],
+    "isrc": "DEE862500388",
+    "start_time": "2025-11-03 04:34:16",
+    "radio": "expres",
+    "recorded_at": "03.11.2025 04:34:46",
+    "raw_valid": true,
+    "song_session_id": "94bfda1a-d505-416a-bf5b-ec478de44b36"
+  },
+  {
+    "song": "Nina Ricci",
+    "artists": [
+      "Richard Muller"
+    ],
+    "isrc": "CZA110003021",
+    "start_time": "2025-11-03 04:37:29",
+    "radio": "expres",
+    "recorded_at": "03.11.2025 04:37:39",
+    "raw_valid": true,
+    "song_session_id": "7648973d-182b-48ae-9991-0e1d1f942888"
+  },
+  {
+    "song": "Gangstas Paradise",
+    "artists": [
+      "Coolio",
+      "L.v."
+    ],
+    "isrc": "USTB10400128",
+    "start_time": "2025-11-03 04:42:09",
+    "radio": "expres",
+    "recorded_at": "03.11.2025 04:42:19",
+    "raw_valid": true,
+    "song_session_id": "cb266387-60bb-4e86-936c-cd0e06053c37"
+  }
+]

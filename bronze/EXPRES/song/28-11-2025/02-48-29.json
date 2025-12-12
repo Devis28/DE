@@ -1,0 +1,404 @@
+[
+  {
+    "song": "Prva",
+    "artists": [
+      "Miro Zbirka"
+    ],
+    "isrc": "SKA128804806",
+    "start_time": "2025-11-28 01:51:20",
+    "radio": "expres",
+    "recorded_at": "2025-11-28T01:51:26.567084+01:00",
+    "raw_valid": true,
+    "song_session_id": "188e1fde-2031-49de-b7dd-5bbdeadcf8f4"
+  },
+  {
+    "song": "Hall Of Fame",
+    "artists": [
+      "Script",
+      "Will I Am"
+    ],
+    "isrc": "GBARL1201055",
+    "start_time": "2025-11-28 01:56:20",
+    "radio": "expres",
+    "recorded_at": "2025-11-28T01:56:37.314022+01:00",
+    "raw_valid": true,
+    "song_session_id": "39f1c95d-ce10-4de5-9e93-41304c504fc0"
+  },
+  {
+    "song": "Daruj Mi Svoj Najkrajsi Den",
+    "artists": [
+      "Gravis"
+    ],
+    "isrc": "SKA128912012",
+    "start_time": "2025-11-28 01:59:36",
+    "radio": "expres",
+    "recorded_at": "2025-11-28T02:00:01.879120+01:00",
+    "raw_valid": true,
+    "song_session_id": "dc418aff-3a05-40d0-a79f-c1c49756560c"
+  },
+  {
+    "song": "Be Mine",
+    "artists": [
+      "Kamrad"
+    ],
+    "isrc": "DE1NJ2500035",
+    "start_time": "2025-11-28 02:02:38",
+    "radio": "expres",
+    "recorded_at": "2025-11-28T02:03:00.084230+01:00",
+    "raw_valid": true,
+    "song_session_id": "d5e60664-d9a4-4ce8-b456-7843612ffb53"
+  },
+  {
+    "song": "Laska Viera Nadej",
+    "artists": [
+      "Robo Grigorov",
+      "Midi"
+    ],
+    "isrc": "SKI811500801",
+    "start_time": "2025-11-28 02:05:23",
+    "radio": "expres",
+    "recorded_at": "2025-11-28T02:05:43.700024+01:00",
+    "raw_valid": true,
+    "song_session_id": "f27618a9-b4f2-4005-a9b9-87096510a4a2"
+  },
+  {
+    "song": "Good News",
+    "artists": [
+      "Shaboozey"
+    ],
+    "isrc": "USUYG1580113",
+    "start_time": "2025-11-28 02:09:04",
+    "radio": "expres",
+    "recorded_at": "2025-11-28T02:09:30.242992+01:00",
+    "raw_valid": true,
+    "song_session_id": "c82cebc7-8576-407c-bb02-9adfcbeaad0a"
+  },
+  {
+    "song": "Ked Sme Sami",
+    "artists": [
+      "Hex"
+    ],
+    "isrc": "SKC751300401",
+    "start_time": "2025-11-28 02:12:31",
+    "radio": "expres",
+    "recorded_at": "2025-11-28T02:12:54.151124+01:00",
+    "raw_valid": true,
+    "song_session_id": "ed0a53d9-55e7-44e4-b381-c6dd4f977f1b"
+  },
+  {
+    "song": "Billie Jean",
+    "artists": [
+      "Michael Jackson"
+    ],
+    "isrc": "USSM19902991",
+    "start_time": "2025-11-28 02:16:49",
+    "radio": "expres",
+    "recorded_at": "2025-11-28T02:17:22.682163+01:00",
+    "raw_valid": true,
+    "song_session_id": "24b5b54c-044c-4304-b1bd-71b1d6d9b998"
+  },
+  {
+    "song": "Hej Dievca",
+    "artists": [
+      "Bystrik"
+    ],
+    "isrc": "SKB002008102",
+    "start_time": "2025-11-28 02:21:36",
+    "radio": "expres",
+    "recorded_at": "2025-11-28T02:22:18.884433+01:00",
+    "raw_valid": true,
+    "song_session_id": "937d2ceb-cc17-494f-bd4e-f4dfc500f8f5"
+  },
+  {
+    "song": "Zoo",
+    "artists": [
+      "Shakira"
+    ],
+    "isrc": "USWD12538420",
+    "start_time": "2025-11-28 02:25:04",
+    "radio": "expres",
+    "recorded_at": "2025-11-28T02:25:29.990878+01:00",
+    "raw_valid": true,
+    "song_session_id": "8d1d34dc-5880-47d8-9f59-139c570101e5"
+  },
+  {
+    "song": "Tancujem S Tebou Rad",
+    "artists": [
+      "Karol Duchon"
+    ],
+    "isrc": "SKA127650809",
+    "start_time": "2025-11-28 02:28:32",
+    "radio": "expres",
+    "recorded_at": "2025-11-28T02:28:56.916630+01:00",
+    "raw_valid": true,
+    "song_session_id": "5be3d7ac-0a96-45ee-bb6b-243a3f6095fe"
+  },
+  {
+    "song": "Training Season",
+    "artists": [
+      "Dua Lipa"
+    ],
+    "isrc": "GBAHT2301078",
+    "start_time": "2025-11-28 02:31:35",
+    "radio": "expres",
+    "recorded_at": "2025-11-28T02:31:49.893428+01:00",
+    "raw_valid": true,
+    "song_session_id": "1dab3764-03eb-41f0-b5a8-1df83875fe89"
+  },
+  {
+    "song": "The One",
+    "artists": [
+      "Michael Patrick Kelly"
+    ],
+    "isrc": "DEE862500476",
+    "start_time": "2025-11-28 02:35:53",
+    "radio": "expres",
+    "recorded_at": "2025-11-28T02:36:28.088119+01:00",
+    "raw_valid": true,
+    "song_session_id": "4cf9f599-198d-47c0-a020-0bec60522ed2"
+  },
+  {
+    "song": "Nekracaj Predo Mnou",
+    "artists": [
+      "Zuzana Smatanova"
+    ],
+    "isrc": "CZA210500632",
+    "start_time": "2025-11-28 02:38:55",
+    "radio": "expres",
+    "recorded_at": "2025-11-28T02:39:26.100816+01:00",
+    "raw_valid": true,
+    "song_session_id": "b6847461-48f6-42a3-9e6c-e54f3ec54cbd"
+  },
+  {
+    "song": "Bed Of Roses",
+    "artists": [
+      "Bon Jovi"
+    ],
+    "isrc": "USPG19290093",
+    "start_time": "2025-11-28 02:42:07",
+    "radio": "expres",
+    "recorded_at": "2025-11-28T02:42:39.901402+01:00",
+    "raw_valid": true,
+    "song_session_id": "c7bdd354-64f7-47cc-a8d6-d8abf8fd71b8"
+  },
+  {
+    "song": "Kapela",
+    "artists": [
+      "Imt Smile"
+    ],
+    "isrc": "SKA010400077",
+    "start_time": "2025-11-28 02:46:37",
+    "radio": "expres",
+    "recorded_at": "2025-11-28T02:46:59.109017+01:00",
+    "raw_valid": true,
+    "song_session_id": "954a079f-ca2c-4b3f-8d51-0a69abe143d9"
+  },
+  {
+    "song": "Love Me Not",
+    "artists": [
+      "Ravyn Lenae"
+    ],
+    "isrc": "USAT22401137",
+    "start_time": "2025-11-28 02:50:24",
+    "radio": "expres",
+    "recorded_at": "2025-11-28T02:50:37.422346+01:00",
+    "raw_valid": true,
+    "song_session_id": "ad18b479-4565-4973-b9f4-f3d20b142ce7"
+  },
+  {
+    "song": "Kamaratka Nadej",
+    "artists": [
+      "Vaso Patejdl"
+    ],
+    "isrc": "SKA128919702",
+    "start_time": "2025-11-28 02:53:59",
+    "radio": "expres",
+    "recorded_at": "2025-11-28T02:54:34.125197+01:00",
+    "raw_valid": true,
+    "song_session_id": "778c6f3a-9b3c-4541-9d02-3b5b77ae23e9"
+  },
+  {
+    "song": "Leave Before You Love Me",
+    "artists": [
+      "Marshmello",
+      "Jonas Brothers"
+    ],
+    "isrc": "USUG12102313",
+    "start_time": "2025-11-28 02:57:16",
+    "radio": "expres",
+    "recorded_at": "2025-11-28T02:57:43.126332+01:00",
+    "raw_valid": true,
+    "song_session_id": "87de240b-c1f3-4044-b097-11c977abba5c"
+  },
+  {
+    "song": "Najviac",
+    "artists": [
+      "Lukas Adamec"
+    ],
+    "isrc": "SKI601900020",
+    "start_time": "2025-11-28 02:59:48",
+    "radio": "expres",
+    "recorded_at": "2025-11-28T03:00:08.601432+01:00",
+    "raw_valid": true,
+    "song_session_id": "697939e3-77dc-428e-b34e-a81d691bb86d"
+  },
+  {
+    "song": "Forever Young",
+    "artists": [
+      "David Guetta",
+      "Alphaville",
+      "Ava Max"
+    ],
+    "isrc": "UKWLG2400102",
+    "start_time": "2025-11-28 03:03:19",
+    "radio": "expres",
+    "recorded_at": "2025-11-28T03:03:26.778365+01:00",
+    "raw_valid": true,
+    "song_session_id": "2e30dd7b-f1ea-4c93-85c3-e7aaebc11948"
+  },
+  {
+    "song": "Laska",
+    "artists": [
+      "Gladiator"
+    ],
+    "isrc": "CZA210000409",
+    "start_time": "2025-11-28 03:06:00",
+    "radio": "expres",
+    "recorded_at": "2025-11-28T03:06:14.547932+01:00",
+    "raw_valid": true,
+    "song_session_id": "d22678cf-9570-47c9-88d6-84eea01efdbf"
+  },
+  {
+    "song": "Regalo",
+    "artists": [
+      "Alvaro Soler"
+    ],
+    "isrc": "DEE862500388",
+    "start_time": "2025-11-28 03:10:05",
+    "radio": "expres",
+    "recorded_at": "2025-11-28T03:10:18.386545+01:00",
+    "raw_valid": true,
+    "song_session_id": "90cee6ca-c3f2-4281-9116-94547ead564d"
+  },
+  {
+    "song": "Muz A Zena",
+    "artists": [
+      "Robo Opatovsky"
+    ],
+    "isrc": "SKC252101803",
+    "start_time": "2025-11-28 03:13:10",
+    "radio": "expres",
+    "recorded_at": "2025-11-28T03:13:21.677281+01:00",
+    "raw_valid": true,
+    "song_session_id": "54cf6be7-8527-433d-8658-2f927b487abd"
+  },
+  {
+    "song": "Tubthumping",
+    "artists": [
+      "Chumbawamba"
+    ],
+    "isrc": "DEA349700542",
+    "start_time": "2025-11-28 03:16:34",
+    "radio": "expres",
+    "recorded_at": "2025-11-28T03:17:05.309068+01:00",
+    "raw_valid": true,
+    "song_session_id": "aff99569-3e59-4303-8dee-d4caa3ff6487"
+  },
+  {
+    "song": "Laska - Veda",
+    "artists": [
+      "Adam Durica"
+    ],
+    "isrc": "SKA011500054",
+    "start_time": "2025-11-28 03:19:53",
+    "radio": "expres",
+    "recorded_at": "2025-11-28T03:20:12.866022+01:00",
+    "raw_valid": true,
+    "song_session_id": "82d14e83-bdce-43ce-9906-731b594c3055"
+  },
+  {
+    "song": "Blink Twice",
+    "artists": [
+      "Shaboozey",
+      "Myles Smith"
+    ],
+    "isrc": "USUYG1717098",
+    "start_time": "2025-11-28 03:23:14",
+    "radio": "expres",
+    "recorded_at": "2025-11-28T03:23:31.101832+01:00",
+    "raw_valid": true,
+    "song_session_id": "d86822b0-e633-43a8-bc1e-b25c7363a9bc"
+  },
+  {
+    "song": "Cakam Ta Laska",
+    "artists": [
+      "Elan"
+    ],
+    "isrc": "TCAEF1942465",
+    "start_time": "2025-11-28 03:25:50",
+    "radio": "expres",
+    "recorded_at": "2025-11-28T03:26:08.724163+01:00",
+    "raw_valid": true,
+    "song_session_id": "c4ccba2a-2d47-4fdc-a54c-98c3a5275d5f"
+  },
+  {
+    "song": "By Your Side (In My Mind)",
+    "artists": [
+      "Leony"
+    ],
+    "isrc": "DEN062400804",
+    "start_time": "2025-11-28 03:30:28",
+    "radio": "expres",
+    "recorded_at": "2025-11-28T03:30:58.103993+01:00",
+    "raw_valid": true,
+    "song_session_id": "f743f6cc-65d3-4c77-a695-7bad9a71b829"
+  },
+  {
+    "song": "Mystical Magical",
+    "artists": [
+      "Benson Boone"
+    ],
+    "isrc": "USWB12500844",
+    "start_time": "2025-11-28 03:33:37",
+    "radio": "expres",
+    "recorded_at": "2025-11-28T03:34:16.355436+01:00",
+    "raw_valid": true,
+    "song_session_id": "4c49e018-0a10-4b88-847e-70968e5e48ab"
+  },
+  {
+    "song": "Nemam Co Stratit",
+    "artists": [
+      "Team"
+    ],
+    "isrc": "SKA010400061",
+    "start_time": "2025-11-28 03:36:26",
+    "radio": "expres",
+    "recorded_at": "2025-11-28T03:36:43.884546+01:00",
+    "raw_valid": true,
+    "song_session_id": "8415bff0-1270-42c5-be3d-3aa928954568"
+  },
+  {
+    "song": "Listen To Your Heart",
+    "artists": [
+      "Roxette"
+    ],
+    "isrc": "SEAME8878130",
+    "start_time": "2025-11-28 03:40:31",
+    "radio": "expres",
+    "recorded_at": "2025-11-28T03:40:47.849553+01:00",
+    "raw_valid": true,
+    "song_session_id": "76428934-4a23-402b-93b4-ee4a81a2bb17"
+  },
+  {
+    "song": "Mato A Linda",
+    "artists": [
+      "Hex"
+    ],
+    "isrc": "SKA129757605",
+    "start_time": "2025-11-28 03:45:36",
+    "radio": "expres",
+    "recorded_at": "2025-11-28T03:45:52.426773+01:00",
+    "raw_valid": true,
+    "song_session_id": "0eb5109c-9757-4815-a467-394306565967"
+  }
+]
