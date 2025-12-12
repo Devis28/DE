@@ -1,0 +1,30 @@
+app = "radio-melody-api"
+primary_region = "fra"
+
+[env]
+HOOK_PUSH = "1"
+SUBS_FILE = "/data/subscribers.json"
+OUT_PATH = "/data/playlist.json"
+PLAYLIST_LIMIT = "0"      # 0 = bez limitu
+SCRAPE_EVERY_S = "180"    # každé 3 min
+PUSH_INTERVAL_S = "10"   # <— interval periodického pushu v sekundách
+SONG_REFRESH_S  = "60"
+
+[http_service]
+internal_port = 8080
+force_https = true
+auto_start_machines = false
+auto_stop_machines = "stop"
+min_machines_running = 0
+
+# zdravie appky (volá /healthz)
+[[http_service.checks]]
+grace_period = "5s"
+interval = "15s"
+method = "GET"
+path = "/healthz"
+timeout = "2s"
+
+[[mounts]]
+source = "data"
+destination = "/data"
