@@ -1,0 +1,352 @@
+[
+  {
+    "song": {
+      "play_date": "2025-11-30",
+      "play_time": "05:45",
+      "artist": [
+        "Caro Emerald"
+      ],
+      "title": "The Older Woman"
+    },
+    "recorded_at": "2025-11-30T05:49:13.256498+01:00",
+    "raw_valid": true,
+    "song_session_id": "0c50b169-ed9e-4704-8702-2e8627e0e14b",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-11-30",
+      "play_time": "05:51",
+      "artist": [
+        "Dizzy Gillespie"
+      ],
+      "title": "Con Alma"
+    },
+    "recorded_at": "2025-11-30T05:54:13.921234+01:00",
+    "raw_valid": true,
+    "song_session_id": "c5fb6399-a02f-4696-9bac-c5b98dca305d",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-11-30",
+      "play_time": "05:56",
+      "artist": [
+        "Molly Miller Trio"
+      ],
+      "title": "The Weight"
+    },
+    "recorded_at": "2025-11-30T05:59:14.579288+01:00",
+    "raw_valid": true,
+    "song_session_id": "7c636150-c779-4251-b7c9-75e4364809ac",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-11-30",
+      "play_time": "05:59",
+      "artist": [
+        "Jazztronik"
+      ],
+      "title": "Sign Of Tomorrow"
+    },
+    "recorded_at": "2025-11-30T06:04:15.251274+01:00",
+    "raw_valid": true,
+    "song_session_id": "3d34e838-430d-4933-8b51-2eed9c5b729b",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-11-30",
+      "play_time": "06:06",
+      "artist": [
+        "Laufey"
+      ],
+      "title": "Falling Behind"
+    },
+    "recorded_at": "2025-11-30T06:09:15.928589+01:00",
+    "raw_valid": true,
+    "song_session_id": "a6776fab-a669-4fa9-b794-4c315420461c",
+    "duration_ms": 173640,
+    "genre": [
+      "jazz"
+    ]
+  },
+  {
+    "song": {
+      "play_date": "2025-11-30",
+      "play_time": "06:12",
+      "artist": [
+        "Eddie Harris"
+      ],
+      "title": "The Shadow Of Your Smile"
+    },
+    "recorded_at": "2025-11-30T06:14:16.782638+01:00",
+    "raw_valid": true,
+    "song_session_id": "8345c7a1-3306-4489-bb1b-daa1dcf04cc8",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-11-30",
+      "play_time": "06:18",
+      "artist": [
+        "Nicola Conte"
+      ],
+      "title": "Arabesque"
+    },
+    "recorded_at": "2025-11-30T06:19:17.460991+01:00",
+    "raw_valid": true,
+    "song_session_id": "ddd06cb4-769c-4e69-8db1-94d30881e070",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-11-30",
+      "play_time": "06:21",
+      "artist": [
+        "Hana Sebestova"
+      ],
+      "title": "Metronom"
+    },
+    "recorded_at": "2025-11-30T06:24:18.136872+01:00",
+    "raw_valid": true,
+    "song_session_id": "9c7eaad5-5586-4665-bb1f-f66d22d33bae",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-11-30",
+      "play_time": "06:27",
+      "artist": [
+        "Chat Baker"
+      ],
+      "title": "I Fall In Love Too Easily"
+    },
+    "recorded_at": "2025-11-30T06:29:18.831867+01:00",
+    "raw_valid": true,
+    "song_session_id": "c3bd0189-0361-4b75-9792-5654f1fac91f",
+    "duration_ms": null,
+    "genre": [
+      "jazz"
+    ]
+  },
+  {
+    "song": {
+      "play_date": "2025-11-30",
+      "play_time": "06:31",
+      "artist": [
+        "The Budos B"
+      ],
+      "title": "Black Venom"
+    },
+    "recorded_at": "2025-11-30T06:34:19.514985+01:00",
+    "raw_valid": true,
+    "song_session_id": "5700b363-e165-465e-8355-9eb810261e54",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-11-30",
+      "play_time": "06:36",
+      "artist": [
+        "Soulstance"
+      ],
+      "title": "Cool Plan"
+    },
+    "recorded_at": "2025-11-30T06:39:20.205136+01:00",
+    "raw_valid": true,
+    "song_session_id": "95e57de1-e67c-445e-8fa3-064cdee9ebeb",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-11-30",
+      "play_time": "06:40",
+      "artist": [
+        "Four 80 East"
+      ],
+      "title": "Roll On"
+    },
+    "recorded_at": "2025-11-30T06:44:20.890595+01:00",
+    "raw_valid": true,
+    "song_session_id": "c5ee7b00-4d69-4de5-8bea-01b7dbc24679",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-11-30",
+      "play_time": "06:45",
+      "artist": [
+        "Peter Palaj"
+      ],
+      "title": "Blue Smoke"
+    },
+    "recorded_at": "2025-11-30T06:49:21.591043+01:00",
+    "raw_valid": true,
+    "song_session_id": "c80e0858-edc0-4f7d-8b7c-9dcf8add62c3",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-11-30",
+      "play_time": "06:51",
+      "artist": [
+        "Hara Noda"
+      ],
+      "title": "Rite"
+    },
+    "recorded_at": "2025-11-30T06:54:22.263194+01:00",
+    "raw_valid": true,
+    "song_session_id": "0bea0d95-c660-4018-9d26-5dd28094934e",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-11-30",
+      "play_time": "06:55",
+      "artist": [
+        "Jarreau Al"
+      ],
+      "title": "Agua De Beber"
+    },
+    "recorded_at": "2025-11-30T06:59:22.950923+01:00",
+    "raw_valid": true,
+    "song_session_id": "d52ce6a8-4d53-431b-8b5c-330f32e7cb5c",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-11-30",
+      "play_time": "06:58",
+      "artist": [
+        "Steve Turre"
+      ],
+      "title": "Smoke Gets In Your Eyes"
+    },
+    "recorded_at": "2025-11-30T07:04:23.613398+01:00",
+    "raw_valid": true,
+    "song_session_id": "d492da74-4ce5-401e-b5e1-ea14a4fe4ead",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-11-30",
+      "play_time": "07:03",
+      "artist": [
+        "Oscar Peterson Trio"
+      ],
+      "title": "You Look Good To Me"
+    },
+    "recorded_at": "2025-11-30T07:08:55.288664+01:00",
+    "raw_valid": true,
+    "song_session_id": "8529069b-5c32-4704-a614-5d838a1d1b2e",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-11-30",
+      "play_time": "07:12",
+      "artist": [
+        "Groove Holmes"
+      ],
+      "title": "Misty"
+    },
+    "recorded_at": "2025-11-30T07:13:55.956226+01:00",
+    "raw_valid": true,
+    "song_session_id": "b4c7a537-7c26-4562-bc43-fd3a0df88475",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-11-30",
+      "play_time": "07:17",
+      "artist": [
+        "Astrud Gilberto"
+      ],
+      "title": "Only Trust Your Heart"
+    },
+    "recorded_at": "2025-11-30T07:18:56.627202+01:00",
+    "raw_valid": true,
+    "song_session_id": "f8c634d9-550b-4971-b602-a4000e1fc274",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-11-30",
+      "play_time": "07:20",
+      "artist": [
+        "Sisa Feher",
+        "Fehero Rocher"
+      ],
+      "title": "World Went Wild"
+    },
+    "recorded_at": "2025-11-30T07:23:57.299519+01:00",
+    "raw_valid": true,
+    "song_session_id": "589a98fc-b6a2-4c98-9dbe-30e472ddfc73",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-11-30",
+      "play_time": "07:27",
+      "artist": [
+        "The Young Holt Trio"
+      ],
+      "title": "Wack Wack"
+    },
+    "recorded_at": "2025-11-30T07:28:57.971221+01:00",
+    "raw_valid": true,
+    "song_session_id": "f726b533-1f01-4c8c-a7e5-2d7bef5fab55",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-11-30",
+      "play_time": "07:30",
+      "artist": [
+        "Luca Sestak Trio"
+      ],
+      "title": "Solfeggietto (C. Ph. E. Bach)"
+    },
+    "recorded_at": "2025-11-30T07:33:58.656682+01:00",
+    "raw_valid": true,
+    "song_session_id": "8b41a274-dc04-4279-8db5-52af8aafa96e",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-11-30",
+      "play_time": "07:37",
+      "artist": [
+        "Soulstance"
+      ],
+      "title": "Summer Midnight"
+    },
+    "recorded_at": "2025-11-30T07:38:59.326959+01:00",
+    "raw_valid": true,
+    "song_session_id": "3149a1d2-2811-4ddd-9866-5877f8937ea1",
+    "duration_ms": null,
+    "genre": []
+  }
+]

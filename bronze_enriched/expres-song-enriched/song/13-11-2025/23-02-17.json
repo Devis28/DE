@@ -1,0 +1,472 @@
+[
+  {
+    "song": "Million Good Reasons",
+    "artists": [
+      "Robin Schulz",
+      "Fast Boy"
+    ],
+    "isrc": "DEA622404738",
+    "start_time": "2025-11-13 22:04:31",
+    "radio": "expres",
+    "recorded_at": "2025-11-13T22:05:09.322092+01:00",
+    "raw_valid": true,
+    "song_session_id": "69be7fd0-e6e1-4f16-91f5-c1eb25b7497f",
+    "duration_ms": 157130,
+    "genre": []
+  },
+  {
+    "song": "All For Love",
+    "artists": [
+      "Bryan Adams",
+      "Rod Stewart",
+      "Sting"
+    ],
+    "isrc": "GBF079441514",
+    "start_time": "2025-11-13 22:07:12",
+    "radio": "expres",
+    "recorded_at": "2025-11-13T22:07:46.617425+01:00",
+    "raw_valid": true,
+    "song_session_id": "db9b78ba-a29c-49cf-a09a-46e673ecaa9a",
+    "duration_ms": 324173,
+    "genre": []
+  },
+  {
+    "song": "To Okolo Nas",
+    "artists": [
+      "Para"
+    ],
+    "isrc": "SKP662201002",
+    "start_time": "2025-11-13 22:11:52",
+    "radio": "expres",
+    "recorded_at": "2025-11-13T22:12:26.167517+01:00",
+    "raw_valid": true,
+    "song_session_id": "a6594f0a-5e75-49fa-842b-6eba3b81fb8e",
+    "duration_ms": 257185,
+    "genre": []
+  },
+  {
+    "song": "See You Again",
+    "artists": [
+      "Wiz Khalifa",
+      "Charlie Puth"
+    ],
+    "isrc": "USAT21703595",
+    "start_time": "2025-11-13 22:15:48",
+    "radio": "expres",
+    "recorded_at": "2025-11-13T22:16:09.541330+01:00",
+    "raw_valid": true,
+    "song_session_id": "f9319198-c86c-4a93-b9c5-07671ec9d62b",
+    "duration_ms": 229525,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Talk To Me",
+    "artists": [
+      "Damiano David",
+      "Tyla",
+      "Nile Rodgers"
+    ],
+    "isrc": "ITB002500942",
+    "start_time": "2025-11-13 22:19:32",
+    "radio": "expres",
+    "recorded_at": "2025-11-13T22:19:53.103073+01:00",
+    "raw_valid": true,
+    "song_session_id": "8b6a5937-c571-4d95-8dd5-88229d01a73c",
+    "duration_ms": 193502,
+    "genre": []
+  },
+  {
+    "song": "O Blaznech",
+    "artists": [
+      "Michal Penk"
+    ],
+    "isrc": "CZA549200308",
+    "start_time": "2025-11-13 22:23:09",
+    "radio": "expres",
+    "recorded_at": "2025-11-13T22:23:46.023717+01:00",
+    "raw_valid": true,
+    "song_session_id": "c5923181-8428-4a48-af55-b8917b3e9cfa",
+    "duration_ms": 278000,
+    "genre": []
+  },
+  {
+    "song": "The Sound Of Silence",
+    "artists": [
+      "Disturbed"
+    ],
+    "isrc": "USRE12400063",
+    "start_time": "2025-11-13 22:27:47",
+    "radio": "expres",
+    "recorded_at": "2025-11-13T22:28:26.310350+01:00",
+    "raw_valid": true,
+    "song_session_id": "ca637560-e1e1-42d8-b6e6-d78e44e0dac0",
+    "duration_ms": 185238,
+    "genre": []
+  },
+  {
+    "song": "Be Mine",
+    "artists": [
+      "Kamrad"
+    ],
+    "isrc": "DE1NJ2500035",
+    "start_time": "2025-11-13 22:32:17",
+    "radio": "expres",
+    "recorded_at": "2025-11-13T22:32:54.942390+01:00",
+    "raw_valid": true,
+    "song_session_id": "f0695109-2298-42a6-9f53-c5f8a092dfcf",
+    "duration_ms": 156463,
+    "genre": []
+  },
+  {
+    "song": "U Make Me Wanna",
+    "artists": [
+      "Blue"
+    ],
+    "isrc": "GBAAA0300043",
+    "start_time": "2025-11-13 22:35:10",
+    "radio": "expres",
+    "recorded_at": "2025-11-13T22:35:33.421795+01:00",
+    "raw_valid": true,
+    "song_session_id": "6b21f6c8-d3e4-48f7-9d53-e57a211affa3",
+    "duration_ms": 220733,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Dont Stop The Music",
+    "artists": [
+      "Rihanna"
+    ],
+    "isrc": "USUM70734700",
+    "start_time": "2025-11-13 22:38:52",
+    "radio": "expres",
+    "recorded_at": "2025-11-13T22:39:11.595378+01:00",
+    "raw_valid": true,
+    "song_session_id": "643a08e0-5e30-48a6-b22f-95a1a460ee6c",
+    "duration_ms": 269400,
+    "genre": [
+      "electronic"
+    ]
+  },
+  {
+    "song": "Pride",
+    "artists": [
+      "Felix Jaehn",
+      "Jhart"
+    ],
+    "isrc": "DEUM72503423",
+    "start_time": "2025-11-13 22:43:25",
+    "radio": "expres",
+    "recorded_at": "2025-11-13T22:44:00.757549+01:00",
+    "raw_valid": true,
+    "song_session_id": "263f3689-02c2-4ba3-b79f-1e110132cdc0",
+    "duration_ms": 158150,
+    "genre": []
+  },
+  {
+    "song": "Pre Tuto Chvilu",
+    "artists": [
+      "Imt Smile"
+    ],
+    "isrc": "SKA010305104",
+    "start_time": "2025-11-13 22:46:07",
+    "radio": "expres",
+    "recorded_at": "2025-11-13T22:46:48.421735+01:00",
+    "raw_valid": true,
+    "song_session_id": "7de5f971-d9ef-48c2-a9be-0f28cd474ffc",
+    "duration_ms": 214026,
+    "genre": []
+  },
+  {
+    "song": "A Bar Song (Tipsy)",
+    "artists": [
+      "Shaboozey"
+    ],
+    "isrc": "USUYG1541249",
+    "start_time": "2025-11-13 22:49:43",
+    "radio": "expres",
+    "recorded_at": "2025-11-13T22:50:16.038279+01:00",
+    "raw_valid": true,
+    "song_session_id": "98ffa4b1-5263-47d6-b003-1eca9dece780",
+    "duration_ms": 171291,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Man I Need",
+    "artists": [
+      "Olivia Dean"
+    ],
+    "isrc": "GBUM72503089",
+    "start_time": "2025-11-13 22:52:31",
+    "radio": "expres",
+    "recorded_at": "2025-11-13T22:53:08.861020+01:00",
+    "raw_valid": true,
+    "song_session_id": "e82c8295-4506-4b04-94d3-8315c52b36d8",
+    "duration_ms": 184000,
+    "genre": [
+      "offizielle charts"
+    ]
+  },
+  {
+    "song": "Runaway Train",
+    "artists": [
+      "Soul Asylum"
+    ],
+    "isrc": "USSM19200235",
+    "start_time": "2025-11-13 22:55:52",
+    "radio": "expres",
+    "recorded_at": "2025-11-13T22:56:32.004707+01:00",
+    "raw_valid": true,
+    "song_session_id": "e308e7fb-6e9e-44ea-adc5-f3b183f213a2",
+    "duration_ms": 266573,
+    "genre": []
+  },
+  {
+    "song": "Feelslikeimfallinginlove",
+    "artists": [
+      "Coldplay"
+    ],
+    "isrc": "GBAYE2400676",
+    "start_time": "2025-11-13 23:04:22",
+    "radio": "expres",
+    "recorded_at": "2025-11-13T23:04:58.929265+01:00",
+    "raw_valid": true,
+    "song_session_id": "a8045cf4-15d1-497b-b50f-239539e5b14f",
+    "duration_ms": 237803,
+    "genre": [
+      "alternative rock"
+    ]
+  },
+  {
+    "song": "How Do You Do",
+    "artists": [
+      "Roxette"
+    ],
+    "isrc": "SEAMA9252010",
+    "start_time": "2025-11-13 23:08:13",
+    "radio": "expres",
+    "recorded_at": "2025-11-13T23:08:42.204216+01:00",
+    "raw_valid": true,
+    "song_session_id": "504353a4-ff1e-461c-a538-5c5870be167b",
+    "duration_ms": 189093,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "The One",
+    "artists": [
+      "Michael Patrick Kelly"
+    ],
+    "isrc": "DEE862500476",
+    "start_time": "2025-11-13 23:11:10",
+    "radio": "expres",
+    "recorded_at": "2025-11-13T23:11:50.588537+01:00",
+    "raw_valid": true,
+    "song_session_id": "d3d1bc73-56c7-40bd-8726-49ef7430c683",
+    "duration_ms": 181194,
+    "genre": []
+  },
+  {
+    "song": "I Took A Pill In Ibiza (Seeb Remix)",
+    "artists": [
+      "Mike Posner"
+    ],
+    "isrc": "USUM71509342",
+    "start_time": "2025-11-13 23:14:05",
+    "radio": "expres",
+    "recorded_at": "2025-11-13T23:14:30.595889+01:00",
+    "raw_valid": true,
+    "song_session_id": "90a03bd3-f6e1-4b22-b0ce-1897073e2d77",
+    "duration_ms": 197933,
+    "genre": []
+  },
+  {
+    "song": "Beautiful People",
+    "artists": [
+      "David Guetta",
+      "Sia"
+    ],
+    "isrc": "UKWLG2500016",
+    "start_time": "2025-11-13 23:17:27",
+    "radio": "expres",
+    "recorded_at": "2025-11-13T23:17:53.890350+01:00",
+    "raw_valid": true,
+    "song_session_id": "2df239e0-a46c-4a49-a64a-e39a617aca2d",
+    "duration_ms": 187086,
+    "genre": []
+  },
+  {
+    "song": "Heaven Is A Place On Earth",
+    "artists": [
+      "Belinda Carlisle"
+    ],
+    "isrc": "GBBLG8700257",
+    "start_time": "2025-11-13 23:20:44",
+    "radio": "expres",
+    "recorded_at": "2025-11-13T23:21:16.822961+01:00",
+    "raw_valid": true,
+    "song_session_id": "b40ec564-4fb5-41a8-83bf-4f3b46fe7e3b",
+    "duration_ms": 234333,
+    "genre": []
+  },
+  {
+    "song": "Sorry Im Here For Someone Else",
+    "artists": [
+      "Benson Boone"
+    ],
+    "isrc": "USWB12500464",
+    "start_time": "2025-11-13 23:24:45",
+    "radio": "expres",
+    "recorded_at": "2025-11-13T23:25:25.594815+01:00",
+    "raw_valid": true,
+    "song_session_id": "0bfe5c5e-31df-47c3-9f59-7df2d77c0d09",
+    "duration_ms": 156582,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Anjel",
+    "artists": [
+      "Komajota"
+    ],
+    "isrc": "SKA010700001",
+    "start_time": "2025-11-13 23:27:26",
+    "radio": "expres",
+    "recorded_at": "2025-11-13T23:27:42.835597+01:00",
+    "raw_valid": true,
+    "song_session_id": "8c2cc296-2c8c-4197-ae4d-78e0d3fa755d",
+    "duration_ms": 186613,
+    "genre": []
+  },
+  {
+    "song": "Glide",
+    "artists": [
+      "Neiked",
+      "Portugal The Man"
+    ],
+    "isrc": "DEE862500421",
+    "start_time": "2025-11-13 23:30:55",
+    "radio": "expres",
+    "recorded_at": "2025-11-13T23:31:21.500569+01:00",
+    "raw_valid": true,
+    "song_session_id": "75d2b653-30b0-42ae-8681-c15ee72b00e8",
+    "duration_ms": 184405,
+    "genre": []
+  },
+  {
+    "song": "Tlakova Niz",
+    "artists": [
+      "Banket"
+    ],
+    "isrc": "SKA128678604",
+    "start_time": "2025-11-13 23:33:57",
+    "radio": "expres",
+    "recorded_at": "2025-11-13T23:34:34.825172+01:00",
+    "raw_valid": true,
+    "song_session_id": "86388d64-8d9a-435b-a6e2-4f65e585874c",
+    "duration_ms": 279946,
+    "genre": []
+  },
+  {
+    "song": "Dilemma",
+    "artists": [
+      "Nelly",
+      "Kelly Rowland"
+    ],
+    "isrc": "USUR10200370",
+    "start_time": "2025-11-13 23:38:22",
+    "radio": "expres",
+    "recorded_at": "2025-11-13T23:38:57.370770+01:00",
+    "raw_valid": true,
+    "song_session_id": "e6ad7747-9038-4aca-adf8-1c7807ca5f7c",
+    "duration_ms": 289160,
+    "genre": [
+      "rap"
+    ]
+  },
+  {
+    "song": "Save My Love",
+    "artists": [
+      "Marshmello",
+      "Ellie Goulding",
+      "Avaion"
+    ],
+    "isrc": "USUG12504310",
+    "start_time": "2025-11-13 23:43:13",
+    "radio": "expres",
+    "recorded_at": "2025-11-13T23:43:36.973006+01:00",
+    "raw_valid": true,
+    "song_session_id": "d1e7acea-0119-4a76-a2ff-c27f82a3f382",
+    "duration_ms": 215555,
+    "genre": []
+  },
+  {
+    "song": "Locked Out Of Heaven",
+    "artists": [
+      "Bruno Mars"
+    ],
+    "isrc": "USAT21203287",
+    "start_time": "2025-11-13 23:47:09",
+    "radio": "expres",
+    "recorded_at": "2025-11-13T23:47:40.707478+01:00",
+    "raw_valid": true,
+    "song_session_id": "331c2010-a763-4f6f-a2a7-4e0894304145",
+    "duration_ms": 233478,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Italodisco",
+    "artists": [
+      "The Kolors"
+    ],
+    "isrc": "ITQ002300342",
+    "start_time": "2025-11-13 23:50:53",
+    "radio": "expres",
+    "recorded_at": "2025-11-13T23:51:37.088520+01:00",
+    "raw_valid": true,
+    "song_session_id": "23ef75ca-4b76-4710-aa84-b5a931b7325c",
+    "duration_ms": 199512,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Love Me Not",
+    "artists": [
+      "Ravyn Lenae"
+    ],
+    "isrc": "USAT22401137",
+    "start_time": "2025-11-13 23:54:10",
+    "radio": "expres",
+    "recorded_at": "2025-11-13T23:54:29.920845+01:00",
+    "raw_valid": true,
+    "song_session_id": "b0bc1a78-118e-4312-869f-aad0c2705545",
+    "duration_ms": 213466,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Zatancuj Si So Mnou",
+    "artists": [
+      "Adam Durica"
+    ],
+    "isrc": "SKA011800050",
+    "start_time": "2025-11-13 23:57:55",
+    "radio": "expres",
+    "recorded_at": "2025-11-13T23:58:20.801335+01:00",
+    "raw_valid": true,
+    "song_session_id": "e1e28b02-6041-48fa-b097-273e3345f892",
+    "duration_ms": 198444,
+    "genre": []
+  }
+]

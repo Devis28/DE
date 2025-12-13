@@ -1,0 +1,366 @@
+[
+  {
+    "song": "Komplikovana",
+    "artists": [
+      "Polemic"
+    ],
+    "isrc": "CZA210000559",
+    "start_time": "2025-12-05 09:07:56",
+    "radio": "expres",
+    "recorded_at": "2025-12-05T09:08:07.253422+01:00",
+    "raw_valid": true,
+    "song_session_id": "097db1ce-60f6-43b1-a55a-96f0906e6e50",
+    "duration_ms": 186560,
+    "genre": [
+      "ska"
+    ]
+  },
+  {
+    "song": "About You Now",
+    "artists": [
+      "Sugababes"
+    ],
+    "isrc": "GBUM70706601",
+    "start_time": "2025-12-05 09:11:07",
+    "radio": "expres",
+    "recorded_at": "2025-12-05T09:11:30.712704+01:00",
+    "raw_valid": true,
+    "song_session_id": "843da069-88ad-4b6c-8620-ad1eae8a03df",
+    "duration_ms": 212226,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Save My Love",
+    "artists": [
+      "Marshmello",
+      "Ellie Goulding",
+      "Avaion"
+    ],
+    "isrc": "USUG12504310",
+    "start_time": "2025-12-05 09:14:21",
+    "radio": "expres",
+    "recorded_at": "2025-12-05T09:14:28.330351+01:00",
+    "raw_valid": true,
+    "song_session_id": "917093cd-ef54-492f-ab5b-2904cd15404e",
+    "duration_ms": 215555,
+    "genre": [
+      "edm"
+    ]
+  },
+  {
+    "song": "Na Vianoce Domov",
+    "artists": [
+      "Alan Murin",
+      "Radio Expres"
+    ],
+    "isrc": "QZYFZ2540500",
+    "start_time": "2025-12-05 09:19:37",
+    "radio": "expres",
+    "recorded_at": "2025-12-05T09:19:48.339551+01:00",
+    "raw_valid": true,
+    "song_session_id": "d1d9078e-72bc-42e1-bb34-1329c0f5d690",
+    "duration_ms": 240000,
+    "genre": []
+  },
+  {
+    "song": "Ka Ching",
+    "artists": [
+      "Shania Twain"
+    ],
+    "isrc": "USMR10200404",
+    "start_time": "2025-12-05 09:23:34",
+    "radio": "expres",
+    "recorded_at": "2025-12-05T09:23:51.828868+01:00",
+    "raw_valid": true,
+    "song_session_id": "6374b27e-cd58-4581-ab80-e7c5c2852d82",
+    "duration_ms": 200466,
+    "genre": [
+      "country"
+    ]
+  },
+  {
+    "song": "Down Under",
+    "artists": [
+      "Men At Work"
+    ],
+    "isrc": "USSM18100411",
+    "start_time": "2025-12-05 09:33:21",
+    "radio": "expres",
+    "recorded_at": "2025-12-05T09:33:29.765646+01:00",
+    "raw_valid": true,
+    "song_session_id": "6cf8a0dd-7ec8-4464-a80e-528456477225",
+    "duration_ms": 221440,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "The Fate Of Ophelia",
+    "artists": [
+      "Taylor Swift"
+    ],
+    "isrc": "USUG12506436",
+    "start_time": "2025-12-05 09:36:54",
+    "radio": "expres",
+    "recorded_at": "2025-12-05T09:37:12.954769+01:00",
+    "raw_valid": true,
+    "song_session_id": "308419d0-f015-4cfc-837f-bc4fbc83d9fe",
+    "duration_ms": 226073,
+    "genre": [
+      "electronic"
+    ]
+  },
+  {
+    "song": "Where Do You Go",
+    "artists": [
+      "No Mercy"
+    ],
+    "isrc": "DED169600128",
+    "start_time": "2025-12-05 09:40:40",
+    "radio": "expres",
+    "recorded_at": "2025-12-05T09:40:51.538248+01:00",
+    "raw_valid": true,
+    "song_session_id": "9e7ba567-94a3-49af-8b05-aa52fa8a01b1",
+    "duration_ms": 272200,
+    "genre": [
+      "electronic"
+    ]
+  },
+  {
+    "song": "Ordinary",
+    "artists": [
+      "Alex Warren"
+    ],
+    "isrc": "USAT22500463",
+    "start_time": "2025-12-05 09:45:21",
+    "radio": "expres",
+    "recorded_at": "2025-12-05T09:45:35.587809+01:00",
+    "raw_valid": true,
+    "song_session_id": "bc30513e-996c-4af1-b0fb-d8436c57d455",
+    "duration_ms": 186964,
+    "genre": [
+      "folk"
+    ]
+  },
+  {
+    "song": "Radioactive",
+    "artists": [
+      "Imagine Dragons"
+    ],
+    "isrc": "USUM71201074",
+    "start_time": "2025-12-05 09:48:31",
+    "radio": "expres",
+    "recorded_at": "2025-12-05T09:48:53.405241+01:00",
+    "raw_valid": true,
+    "song_session_id": "f9c7bab9-b449-4cea-9310-eabd61829ba6",
+    "duration_ms": 188000,
+    "genre": [
+      "indie"
+    ]
+  },
+  {
+    "song": "Gone Gone Gone",
+    "artists": [
+      "David Guetta",
+      "Teddy Swims",
+      "Tones And I"
+    ],
+    "isrc": "UKWLG2500132",
+    "start_time": "2025-12-05 09:51:33",
+    "radio": "expres",
+    "recorded_at": "2025-12-05T09:51:56.200778+01:00",
+    "raw_valid": true,
+    "song_session_id": "fcef1501-3dcb-4244-b0b6-fac9f666d2d6",
+    "duration_ms": 198004,
+    "genre": [
+      "soul"
+    ]
+  },
+  {
+    "song": "Flowers",
+    "artists": [
+      "Alle Farben",
+      "Graham Candy",
+      "Lahos"
+    ],
+    "isrc": "DEA622500325",
+    "start_time": "2025-12-05 09:55:10",
+    "radio": "expres",
+    "recorded_at": "2025-12-05T09:55:34.645776+01:00",
+    "raw_valid": true,
+    "song_session_id": "0940a143-bdcf-4c4d-a5f8-1a09a8e9eb76",
+    "duration_ms": 153103,
+    "genre": []
+  },
+  {
+    "song": "Breakfast At Tiffanys",
+    "artists": [
+      "Deep Blue Something"
+    ],
+    "isrc": "USIR19500177",
+    "start_time": "2025-12-05 10:08:05",
+    "radio": "expres",
+    "recorded_at": "2025-12-05T10:08:20.229166+01:00",
+    "raw_valid": true,
+    "song_session_id": "f514da4a-1f6c-4464-99e6-ee37a3f42db5",
+    "duration_ms": 270080,
+    "genre": []
+  },
+  {
+    "song": "Glide",
+    "artists": [
+      "Neiked",
+      "Portugal The Man"
+    ],
+    "isrc": "DEE862500421",
+    "start_time": "2025-12-05 10:12:06",
+    "radio": "expres",
+    "recorded_at": "2025-12-05T10:12:18.903120+01:00",
+    "raw_valid": true,
+    "song_session_id": "675aa3ad-2148-44e9-bfa3-98fa5eb9b473",
+    "duration_ms": 184405,
+    "genre": []
+  },
+  {
+    "song": "Hypnotized",
+    "artists": [
+      "Purple Disco Machine",
+      "Sophie And The Giants"
+    ],
+    "isrc": "AUDCB1701555",
+    "start_time": "2025-12-05 10:15:02",
+    "radio": "expres",
+    "recorded_at": "2025-12-05T10:15:21.574704+01:00",
+    "raw_valid": true,
+    "song_session_id": "ec223c38-0632-48df-a908-10001f0179a1",
+    "duration_ms": 195704,
+    "genre": [
+      "electronic"
+    ]
+  },
+  {
+    "song": "Happy Xmas (War Is Over)",
+    "artists": [
+      "John Lennon"
+    ],
+    "isrc": "GBAYE1000862",
+    "start_time": "2025-12-05 10:19:54",
+    "radio": "expres",
+    "recorded_at": "2025-12-05T10:20:20.913851+01:00",
+    "raw_valid": true,
+    "song_session_id": "379ec505-393f-47c2-b981-b048540295a9",
+    "duration_ms": 212680,
+    "genre": [
+      "christmas"
+    ]
+  },
+  {
+    "song": "Nice To Meet You",
+    "artists": [
+      "Myles Smith"
+    ],
+    "isrc": "GBARL2401376",
+    "start_time": "2025-12-05 10:23:21",
+    "radio": "expres",
+    "recorded_at": "2025-12-05T10:23:43.974111+01:00",
+    "raw_valid": true,
+    "song_session_id": "0d2f0c5f-77aa-4cd9-a0e1-becf5ed8a98c",
+    "duration_ms": 176000,
+    "genre": [
+      "electro"
+    ]
+  },
+  {
+    "song": "Regalo",
+    "artists": [
+      "Alvaro Soler"
+    ],
+    "isrc": "DEE862500388",
+    "start_time": "2025-12-05 10:32:45",
+    "radio": "expres",
+    "recorded_at": "2025-12-05T10:33:01.375412+01:00",
+    "raw_valid": true,
+    "song_session_id": "f953134b-968c-4445-90f7-7e3085a6f960",
+    "duration_ms": 184984,
+    "genre": []
+  },
+  {
+    "song": "Neviem Byt Sam",
+    "artists": [
+      "Elan"
+    ],
+    "isrc": "SKA128561901",
+    "start_time": "2025-12-05 10:36:00",
+    "radio": "expres",
+    "recorded_at": "2025-12-05T10:36:24.821814+01:00",
+    "raw_valid": true,
+    "song_session_id": "b40cb84f-c42f-4407-ac84-75abaec16ce8",
+    "duration_ms": 231066,
+    "genre": []
+  },
+  {
+    "song": "Blue (Da Ba Dee)",
+    "artists": [
+      "Eiffel 65"
+    ],
+    "isrc": "ITT019810102",
+    "start_time": "2025-12-05 10:39:52",
+    "radio": "expres",
+    "recorded_at": "2025-12-05T10:40:03.047251+01:00",
+    "raw_valid": true,
+    "song_session_id": "b56c6877-c0f3-499d-b166-14e82bc8c306",
+    "duration_ms": 283747,
+    "genre": [
+      "italo dance"
+    ]
+  },
+  {
+    "song": "Flowers",
+    "artists": [
+      "Miley Cyrus"
+    ],
+    "isrc": "USSM12209777",
+    "start_time": "2025-12-05 10:44:36",
+    "radio": "expres",
+    "recorded_at": "2025-12-05T10:44:47.025572+01:00",
+    "raw_valid": true,
+    "song_session_id": "9f42e96b-11c1-44b2-8f1e-01058cbd43d6",
+    "duration_ms": 200454,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Hall Of Fame",
+    "artists": [
+      "Script",
+      "Will I Am"
+    ],
+    "isrc": "GBARL1201055",
+    "start_time": "2025-12-05 10:47:44",
+    "radio": "expres",
+    "recorded_at": "2025-12-05T10:48:04.943109+01:00",
+    "raw_valid": true,
+    "song_session_id": "2a989178-e515-47fe-a410-9fcd5ad4617f",
+    "duration_ms": 201240,
+    "genre": []
+  },
+  {
+    "song": "Man I Need",
+    "artists": [
+      "Olivia Dean"
+    ],
+    "isrc": "GBUM72503089",
+    "start_time": "2025-12-05 10:52:57",
+    "radio": "expres",
+    "recorded_at": "2025-12-05T10:53:09.206076+01:00",
+    "raw_valid": true,
+    "song_session_id": "baaf0afe-2098-40e0-bf10-f59b85034379",
+    "duration_ms": 184000,
+    "genre": [
+      "offizielle charts"
+    ]
+  }
+]

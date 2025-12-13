@@ -1,0 +1,518 @@
+[
+  {
+    "last_update": "2025-12-03 17:58:19",
+    "song": {
+      "musicAuthor": "Ac/Dc",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048510b51f8d91f3a21e8426361ae",
+      "musicTitle": "Hells Bells",
+      "radio": "Rádio ROCK",
+      "startTime": "18:57"
+    },
+    "recorded_at": "2025-12-03T18:58:19.776381+01:00",
+    "raw_valid": true,
+    "song_session_id": "0567a38c-b0af-41a4-a9f5-2c861e5cea28",
+    "duration_ms": 312815,
+    "isrc": "AUAP08000041",
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "last_update": "2025-12-03 18:04:21",
+    "song": {
+      "musicAuthor": "Spin Doctors",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851436e38032cf3389d01426eca",
+      "musicTitle": "Two Princes",
+      "radio": "Rádio ROCK",
+      "startTime": "19:03"
+    },
+    "recorded_at": "2025-12-03T19:04:21.835396+01:00",
+    "raw_valid": true,
+    "song_session_id": "28f7265c-89f7-40f7-bcd7-568cf114afa5",
+    "duration_ms": 256733,
+    "isrc": "USSM19000350",
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "last_update": "2025-12-03 18:08:21",
+    "song": {
+      "musicAuthor": "Imagine Dragons",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048515675e83f707f1d7271e5cf8a",
+      "musicTitle": "Whatever It Takes",
+      "radio": "Rádio ROCK",
+      "startTime": "19:08"
+    },
+    "recorded_at": "2025-12-03T19:08:22.094891+01:00",
+    "raw_valid": true,
+    "song_session_id": "14604cf4-0e3f-42c5-a2e9-e7e73ca8d14d",
+    "duration_ms": 201240,
+    "isrc": "USUM71703515",
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "last_update": "2025-12-03 18:11:21",
+    "song": {
+      "musicAuthor": "U2",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851b7bea3d01f04e6d0408d2afe",
+      "musicTitle": "With Or Without You",
+      "radio": "Rádio ROCK",
+      "startTime": "19:10"
+    },
+    "recorded_at": "2025-12-03T19:11:22.454244+01:00",
+    "raw_valid": true,
+    "song_session_id": "13bd3ba5-36eb-4c38-b8dd-67500638bde0",
+    "duration_ms": 295515,
+    "isrc": "GBUM70709792",
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "last_update": "2025-12-03 18:15:24",
+    "song": {
+      "musicAuthor": "Bring Me The Horizon",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851736145b97bab8fa92cb6113f",
+      "musicTitle": "Throne",
+      "radio": "Rádio ROCK",
+      "startTime": "19:15"
+    },
+    "recorded_at": "2025-12-03T19:15:25.373072+01:00",
+    "raw_valid": true,
+    "song_session_id": "f01987a9-02bf-47c1-b1b5-72d7417d66b2",
+    "duration_ms": 191520,
+    "isrc": "GBARL1500770",
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "last_update": "2025-12-03 18:19:24",
+    "song": {
+      "musicAuthor": "Aerosmith",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485168f88636e7ce656f1d9fa910",
+      "musicTitle": "Pink",
+      "radio": "Rádio ROCK",
+      "startTime": "19:18"
+    },
+    "recorded_at": "2025-12-03T19:19:25.778327+01:00",
+    "raw_valid": true,
+    "song_session_id": "14ec9c44-fb06-4e4f-ba92-71bf2501ded1",
+    "duration_ms": 235473,
+    "isrc": "USSM19604431",
+    "genre": [
+      "classic rock"
+    ]
+  },
+  {
+    "last_update": "2025-12-03 18:23:27",
+    "song": {
+      "musicAuthor": "Smash Mouth",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048511c36662f70967a1210a42741",
+      "musicTitle": "I'm Believer",
+      "radio": "Rádio ROCK",
+      "startTime": "19:22"
+    },
+    "recorded_at": "2025-12-03T19:23:27.449568+01:00",
+    "raw_valid": true,
+    "song_session_id": "890e0718-fdce-4daa-bb5c-f70825223001",
+    "duration_ms": 185306,
+    "isrc": "USDW10110177",
+    "genre": []
+  },
+  {
+    "last_update": "2025-12-03 18:26:27",
+    "song": {
+      "musicAuthor": "The Who",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485134658b1827b64a1d4d5a5ca9",
+      "musicTitle": "My Generation",
+      "radio": "Rádio ROCK",
+      "startTime": "19:25"
+    },
+    "recorded_at": "2025-12-03T19:26:27.947137+01:00",
+    "raw_valid": true,
+    "song_session_id": "6f706784-4407-4f85-b62d-207ca6c6b6e2",
+    "duration_ms": 198706,
+    "isrc": "GBUM71406026",
+    "genre": [
+      "classic rock"
+    ]
+  },
+  {
+    "last_update": "2025-12-03 18:29:28",
+    "song": {
+      "musicAuthor": "3 Doors Down",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048512868c4713a3912fd476b42f1",
+      "musicTitle": "Kryptonite",
+      "radio": "Rádio ROCK",
+      "startTime": "19:28"
+    },
+    "recorded_at": "2025-12-03T19:29:29.184636+01:00",
+    "raw_valid": true,
+    "song_session_id": "a2bfea96-d333-4964-b249-0ea169ab79f5",
+    "duration_ms": 233933,
+    "isrc": "USUR19980187",
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "last_update": "2025-12-03 18:33:28",
+    "song": {
+      "musicAuthor": "The Beatles",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851dc30583ba717007b00cceb25",
+      "musicTitle": "Come Together",
+      "radio": "Rádio ROCK",
+      "startTime": "19:32"
+    },
+    "recorded_at": "2025-12-03T19:33:29.451098+01:00",
+    "raw_valid": true,
+    "song_session_id": "b582fb42-1001-4383-8173-23422dd315d0",
+    "duration_ms": 259946,
+    "isrc": "GBAYE0601690",
+    "genre": [
+      "classic rock"
+    ]
+  },
+  {
+    "last_update": "2025-12-03 18:37:29",
+    "song": {
+      "musicAuthor": "Eric Clapton",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048511a4b277e3bf902464b1ab186",
+      "musicTitle": "My Father's Eyes",
+      "radio": "Rádio ROCK",
+      "startTime": "19:36"
+    },
+    "recorded_at": "2025-12-03T19:37:30.065986+01:00",
+    "raw_valid": true,
+    "song_session_id": "57e1b02a-ab28-4f7f-a00e-495c7459290e",
+    "duration_ms": 323440,
+    "isrc": "USRE19800001",
+    "genre": [
+      "blues"
+    ]
+  },
+  {
+    "last_update": "2025-12-03 18:42:31",
+    "song": {
+      "musicAuthor": "The Goo Goo Dolls",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851eda9478c39a21e1cdc6609ca",
+      "musicTitle": "Iris",
+      "radio": "Rádio ROCK",
+      "startTime": "19:41"
+    },
+    "recorded_at": "2025-12-03T19:42:32.175074+01:00",
+    "raw_valid": true,
+    "song_session_id": "0cedd326-064e-48ce-8e75-1f831258f8c0",
+    "duration_ms": 289533,
+    "isrc": "USWB19800160",
+    "genre": []
+  },
+  {
+    "last_update": "2025-12-03 18:46:37",
+    "song": {
+      "musicAuthor": "Pink Floyd",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048513e6b6b961dbe279540b72cb5",
+      "musicTitle": "Another Brick In The Wall",
+      "radio": "Rádio ROCK",
+      "startTime": "19:45"
+    },
+    "recorded_at": "2025-12-03T19:46:37.252058+01:00",
+    "raw_valid": true,
+    "song_session_id": "1f3325ba-349c-4c13-86e6-983b2518946d",
+    "duration_ms": 238946,
+    "isrc": "GBN9Y1100099",
+    "genre": [
+      "progressive rock"
+    ]
+  },
+  {
+    "last_update": "2025-12-03 18:50:08",
+    "song": {
+      "musicAuthor": "Linkin Park",
+      "musicCover": "https://e-cdns-images.dzcdn.net/images/artist/70cb26795a89b8be835667d762cb39fc/64x64-000000-80-0-0.jpg",
+      "musicTitle": "Heavy Is The Crown",
+      "radio": "Rádio ROCK",
+      "startTime": "19:49"
+    },
+    "recorded_at": "2025-12-03T19:50:08.266736+01:00",
+    "raw_valid": true,
+    "song_session_id": "37175067-1fee-4fa5-8f66-768a9ca18414",
+    "duration_ms": 167012,
+    "isrc": "USWB12403466",
+    "genre": [
+      "metal"
+    ]
+  },
+  {
+    "last_update": "2025-12-03 18:53:09",
+    "song": {
+      "musicAuthor": "Black Sabbath",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048519683e5d7361bb80bfb00f46d",
+      "musicTitle": "Iron Man",
+      "radio": "Rádio ROCK",
+      "startTime": "19:52"
+    },
+    "recorded_at": "2025-12-03T19:53:10.032330+01:00",
+    "raw_valid": true,
+    "song_session_id": "dc01b112-d179-4c1c-bbe5-8c82a060ffde",
+    "duration_ms": 354213,
+    "isrc": "GBAJE7000085",
+    "genre": [
+      "metal"
+    ]
+  },
+  {
+    "last_update": "2025-12-03 18:56:09",
+    "song": {
+      "musicAuthor": "Manson Marylin",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048513e2c4ed336c6b4ebb1a4bde9",
+      "musicTitle": "Personal Jesus",
+      "radio": "Rádio ROCK",
+      "startTime": "19:55"
+    },
+    "recorded_at": "2025-12-03T19:56:10.303812+01:00",
+    "raw_valid": true,
+    "song_session_id": "0c5fa1ac-b0d0-48b9-b7d6-17aa718ab2f4",
+    "duration_ms": 246680,
+    "isrc": "USIR10400620",
+    "genre": [
+      "industrial metal"
+    ]
+  },
+  {
+    "last_update": "2025-12-03 19:00:10",
+    "song": {
+      "musicAuthor": "Ugly Kid Joe",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485159afd13f40fa2b0aab89bb0e",
+      "musicTitle": "Everything About You",
+      "radio": "Rádio ROCK",
+      "startTime": "19:59"
+    },
+    "recorded_at": "2025-12-03T20:00:10.637321+01:00",
+    "raw_valid": true,
+    "song_session_id": "52ec5315-389d-4256-8af6-f4a07a9d7bc7",
+    "duration_ms": 260200,
+    "isrc": "USMR19130361",
+    "genre": [
+      "glam metal"
+    ]
+  },
+  {
+    "last_update": "2025-12-03 19:04:11",
+    "song": {
+      "musicAuthor": "Guns N Roses",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485168384dd85fd5e95831252f60",
+      "musicTitle": "Welcome To The Jungle",
+      "radio": "Rádio ROCK",
+      "startTime": "20:03"
+    },
+    "recorded_at": "2025-12-03T20:04:11.296144+01:00",
+    "raw_valid": true,
+    "song_session_id": "04c929c6-97d5-406a-b435-f0d663fba341",
+    "duration_ms": 273480,
+    "isrc": "USGF18714801",
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "last_update": "2025-12-03 19:09:12",
+    "song": {
+      "musicAuthor": "Hex",
+      "musicCover": "https://static.radia.sk/covers/32/7e0ab803-009c-4005-b833-612a2ee53cfd.jpg",
+      "musicTitle": "Dobrý Motýľ",
+      "radio": "Rádio ROCK",
+      "startTime": "20:08"
+    },
+    "recorded_at": "2025-12-03T20:09:12.517863+01:00",
+    "raw_valid": true,
+    "song_session_id": "dabf153f-6e87-4929-9b66-048694cfc0e1",
+    "duration_ms": 188000,
+    "isrc": "CZA231204468",
+    "genre": []
+  },
+  {
+    "last_update": "2025-12-03 19:12:12",
+    "song": {
+      "musicAuthor": "Paranoid The",
+      "musicCover": "https://static.radia.sk/covers/32/8fea5179-4ce6-4a6b-9973-41f4cd4ab6fc.jpg",
+      "musicTitle": "Neviem Ti Povedať Nie",
+      "radio": "Rádio ROCK",
+      "startTime": "20:11"
+    },
+    "recorded_at": "2025-12-03T20:12:13.157552+01:00",
+    "raw_valid": true,
+    "song_session_id": "f9dbf13f-fc08-432b-aa8f-b9b1fb747778",
+    "duration_ms": 174000,
+    "isrc": "SKA011300084",
+    "genre": []
+  },
+  {
+    "last_update": "2025-12-03 19:15:12",
+    "song": {
+      "musicAuthor": "Inxs",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048517ef5c661e64ec185d6180a40",
+      "musicTitle": "Disappear",
+      "radio": "Rádio ROCK",
+      "startTime": "20:14"
+    },
+    "recorded_at": "2025-12-03T20:15:13.332199+01:00",
+    "raw_valid": true,
+    "song_session_id": "ff11c71a-f10b-4a12-97f0-32d3451378ff",
+    "duration_ms": 249053,
+    "isrc": "GBAMX9000004",
+    "genre": []
+  },
+  {
+    "last_update": "2025-12-03 19:19:13",
+    "song": {
+      "musicAuthor": "Elán",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851c787956f04279f2509a1dc36",
+      "musicTitle": "Detektívka",
+      "radio": "Rádio ROCK",
+      "startTime": "20:18"
+    },
+    "recorded_at": "2025-12-03T20:19:13.911062+01:00",
+    "raw_valid": true,
+    "song_session_id": "ed637824-a51f-4938-b2a3-8259bba6ccef",
+    "duration_ms": 289160,
+    "isrc": "SKA128678710",
+    "genre": []
+  },
+  {
+    "last_update": "2025-12-03 19:24:15",
+    "song": {
+      "musicAuthor": "New Found Glory",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048511703f53e05e51bece5a4a9f8",
+      "musicTitle": "Friends Over You",
+      "radio": "Rádio ROCK",
+      "startTime": "20:23"
+    },
+    "recorded_at": "2025-12-03T20:24:15.190613+01:00",
+    "raw_valid": true,
+    "song_session_id": "90b656d3-08bd-4712-acbd-a622be0cd2cf",
+    "duration_ms": 220200,
+    "isrc": "USMC10200363",
+    "genre": [
+      "pop punk"
+    ]
+  },
+  {
+    "last_update": "2025-12-03 19:31:15",
+    "song": {
+      "musicAuthor": "Walter Schnitzelsson",
+      "musicCover": "https://static.radia.sk/covers/32/c7e3d6b6-28ef-4a64-9c1f-c3e26d0bc8ec.jpg",
+      "musicTitle": "Cut Your Hair",
+      "radio": "Rádio ROCK",
+      "startTime": "20:31"
+    },
+    "recorded_at": "2025-12-03T20:31:16.258257+01:00",
+    "raw_valid": true,
+    "song_session_id": "2dfe8c1a-be52-47ac-89cf-e23f2e639ca3",
+    "duration_ms": 182520,
+    "isrc": "usx9p1352920",
+    "genre": []
+  },
+  {
+    "last_update": "2025-12-03 19:34:15",
+    "song": {
+      "musicAuthor": "Tublatanka",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048519fc3c59a54cfa19a7c5d565c",
+      "musicTitle": "Spálená Láska",
+      "radio": "Rádio ROCK",
+      "startTime": "20:34"
+    },
+    "recorded_at": "2025-12-03T20:34:16.636565+01:00",
+    "raw_valid": true,
+    "song_session_id": "a5274ac7-577c-4484-ae05-0c4c2bfe199f",
+    "duration_ms": 327893,
+    "isrc": "FRX201715908",
+    "genre": []
+  },
+  {
+    "last_update": "2025-12-03 19:40:53",
+    "song": {
+      "musicAuthor": "Billy Idol",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851a20464e6697dc1149d3a5cdc",
+      "musicTitle": "White Wedding",
+      "radio": "Rádio ROCK",
+      "startTime": "20:39"
+    },
+    "recorded_at": "2025-12-03T20:40:53.856937+01:00",
+    "raw_valid": true,
+    "song_session_id": "4bc163a0-178b-47ef-997e-f74567fb46c7",
+    "duration_ms": 252200,
+    "isrc": "USCH30100008",
+    "genre": []
+  },
+  {
+    "last_update": "2025-12-03 19:44:23",
+    "song": {
+      "musicAuthor": "Elevenhill",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048514892aae28648372d6c2b8191",
+      "musicTitle": "Damn Woman",
+      "radio": "Rádio ROCK",
+      "startTime": "20:43"
+    },
+    "recorded_at": "2025-12-03T20:44:24.249028+01:00",
+    "raw_valid": true,
+    "song_session_id": "daaf35df-0572-4e8a-901d-3ddca8563961",
+    "duration_ms": 240170,
+    "isrc": "SKM771700108",
+    "genre": []
+  },
+  {
+    "last_update": "2025-12-03 19:48:24",
+    "song": {
+      "musicAuthor": "Horkyze Slize & Bastrng",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485160348235029c408a3e558ab7",
+      "musicTitle": "Pravo Veta",
+      "radio": "Rádio ROCK",
+      "startTime": "20:47"
+    },
+    "recorded_at": "2025-12-03T20:48:25.153640+01:00",
+    "raw_valid": true,
+    "song_session_id": "bd7a2e65-9aec-428a-a9c6-4f6a864b0ad9",
+    "duration_ms": 122136,
+    "isrc": "QZN882301736",
+    "genre": []
+  },
+  {
+    "last_update": "2025-12-03 19:50:25",
+    "song": {
+      "musicAuthor": "The Offspring",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851ba12c467b8cc7eb3be9e7d8b",
+      "musicTitle": "All I Want",
+      "radio": "Rádio ROCK",
+      "startTime": "20:49"
+    },
+    "recorded_at": "2025-12-03T20:50:25.269072+01:00",
+    "raw_valid": true,
+    "song_session_id": "f71bf4f6-6293-4cf9-8377-bf066c4b9378",
+    "duration_ms": 114666,
+    "isrc": "USSM19603685",
+    "genre": [
+      "punk"
+    ]
+  },
+  {
+    "last_update": "2025-12-03 19:52:26",
+    "song": {
+      "musicAuthor": "Ine Kafe",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851a36a083c5dec894348b99b3c",
+      "musicTitle": "Leto",
+      "radio": "Rádio ROCK",
+      "startTime": "20:51"
+    },
+    "recorded_at": "2025-12-03T20:52:26.729139+01:00",
+    "raw_valid": true,
+    "song_session_id": "51b22bc1-758c-457f-b356-221e64d4a090",
+    "duration_ms": 251107,
+    "isrc": "SKA722300001",
+    "genre": []
+  }
+]

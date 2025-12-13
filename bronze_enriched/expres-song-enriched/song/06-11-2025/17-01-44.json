@@ -1,0 +1,387 @@
+[
+  {
+    "song": "Let Me Die",
+    "artists": [
+      "Mark Dann",
+      "Giovanni Ricci"
+    ],
+    "isrc": "US38Y2520370",
+    "start_time": "2025-11-06 16:08:05",
+    "radio": "expres",
+    "recorded_at": "2025-11-06T16:08:24.185319+01:00",
+    "raw_valid": true,
+    "song_session_id": "f924315a-acd2-46d5-820c-0ba49c8b354b",
+    "duration_ms": 147010,
+    "genre": [
+      "slap house"
+    ]
+  },
+  {
+    "song": "Photograph",
+    "artists": [
+      "Ed Sheeran"
+    ],
+    "isrc": "GBAHS1400094",
+    "start_time": "2025-11-06 16:10:31",
+    "radio": "expres",
+    "recorded_at": "2025-11-06T16:10:53.870373+01:00",
+    "raw_valid": true,
+    "song_session_id": "c84d5793-259e-405e-9f8a-358427473ed5",
+    "duration_ms": 258986,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Wonderful Life 25",
+    "artists": [
+      "Hurts",
+      "Purple Disco Machine"
+    ],
+    "isrc": "DEE862500677",
+    "start_time": "2025-11-06 16:14:14",
+    "radio": "expres",
+    "recorded_at": "2025-11-06T16:14:27.226919+01:00",
+    "raw_valid": true,
+    "song_session_id": "e505a7f7-787a-44bf-aae1-3d14eda6aa53",
+    "duration_ms": 178658,
+    "genre": []
+  },
+  {
+    "song": "Ironic",
+    "artists": [
+      "Alanis Morissette"
+    ],
+    "isrc": "USMV21500010",
+    "start_time": "2025-11-06 16:19:00",
+    "radio": "expres",
+    "recorded_at": "2025-11-06T16:19:15.110033+01:00",
+    "raw_valid": true,
+    "song_session_id": "fbebe788-c621-4130-86af-1fe2d3293438",
+    "duration_ms": 230000,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Never Look Back",
+    "artists": [
+      "Tom Gregory"
+    ],
+    "isrc": "DEE862300498",
+    "start_time": "2025-11-06 16:22:44",
+    "radio": "expres",
+    "recorded_at": "2025-11-06T16:22:53.706142+01:00",
+    "raw_valid": true,
+    "song_session_id": "4ccc6b9e-594b-46e1-ac69-0643b84eaee9",
+    "duration_ms": 162587,
+    "genre": []
+  },
+  {
+    "song": "Tell It To My Heart",
+    "artists": [
+      "Filatov",
+      "Karas"
+    ],
+    "isrc": "PLA281600112",
+    "start_time": "2025-11-06 16:25:23",
+    "radio": "expres",
+    "recorded_at": "2025-11-06T16:25:36.334450+01:00",
+    "raw_valid": true,
+    "song_session_id": "8e5140b9-3020-4c22-956b-cf0cd20a87b2",
+    "duration_ms": 187500,
+    "genre": []
+  },
+  {
+    "song": "Forbidden Road",
+    "artists": [
+      "Robbie Williams"
+    ],
+    "isrc": "GBPS62400032",
+    "start_time": "2025-11-06 16:34:07",
+    "radio": "expres",
+    "recorded_at": "2025-11-06T16:34:18.510008+01:00",
+    "raw_valid": true,
+    "song_session_id": "4772af01-689f-4230-812f-41f7e09a99b7",
+    "duration_ms": 197419,
+    "genre": []
+  },
+  {
+    "song": "Otherside",
+    "artists": [
+      "Red Hot Chili Peppers"
+    ],
+    "isrc": "USWB19900693",
+    "start_time": "2025-11-06 16:37:17",
+    "radio": "expres",
+    "recorded_at": "2025-11-06T16:37:48.888068+01:00",
+    "raw_valid": true,
+    "song_session_id": "0ff65824-1c77-4dce-8a3b-14868d61289f",
+    "duration_ms": 255373,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Forget Me",
+    "artists": [
+      "Lewis Capaldi"
+    ],
+    "isrc": "DEUM72204717",
+    "start_time": "2025-11-06 16:41:37",
+    "radio": "expres",
+    "recorded_at": "2025-11-06T16:42:15.462684+01:00",
+    "raw_valid": true,
+    "song_session_id": "167cea82-3d89-415c-847e-9a11f5c326b3",
+    "duration_ms": 203666,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Stressed Out",
+    "artists": [
+      "Twenty One Pilots"
+    ],
+    "isrc": "USAT21500597",
+    "start_time": "2025-11-06 16:45:07",
+    "radio": "expres",
+    "recorded_at": "2025-11-06T16:45:37.238293+01:00",
+    "raw_valid": true,
+    "song_session_id": "14f5e93b-2085-4054-8dc0-6d276ba789b2",
+    "duration_ms": 202333,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "No Time To Talk",
+    "artists": [
+      "Jonas Brothers"
+    ],
+    "isrc": "USUG12504831",
+    "start_time": "2025-11-06 16:48:26",
+    "radio": "expres",
+    "recorded_at": "2025-11-06T16:49:09.637577+01:00",
+    "raw_valid": true,
+    "song_session_id": "275739e7-9684-42eb-9533-9e641a56afd8",
+    "duration_ms": 155053,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "22 Dni",
+    "artists": [
+      "Miro Zbirka"
+    ],
+    "isrc": "SKA128460801",
+    "start_time": "2025-11-06 16:52:11",
+    "radio": "expres",
+    "recorded_at": "2025-11-06T16:52:32.865957+01:00",
+    "raw_valid": true,
+    "song_session_id": "3fe08cf6-a23e-4c9f-9cad-4576127519d5",
+    "duration_ms": 224093,
+    "genre": []
+  },
+  {
+    "song": "Someone Else",
+    "artists": [
+      "Clockclock"
+    ],
+    "isrc": "DECE72202297",
+    "start_time": "2025-11-06 16:55:41",
+    "radio": "expres",
+    "recorded_at": "2025-11-06T16:55:56.347101+01:00",
+    "raw_valid": true,
+    "song_session_id": "ebb50a88-45ad-4b62-921f-da4f9f92bdcb",
+    "duration_ms": 173423,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Regalo",
+    "artists": [
+      "Alvaro Soler"
+    ],
+    "isrc": "DEE862500388",
+    "start_time": "2025-11-06 17:11:43",
+    "radio": "expres",
+    "recorded_at": "2025-11-06T17:12:04.425413+01:00",
+    "raw_valid": true,
+    "song_session_id": "f709d84b-0439-426c-bf88-0ee451e10e9f",
+    "duration_ms": 184984,
+    "genre": []
+  },
+  {
+    "song": "Heaven Is A Place On Earth",
+    "artists": [
+      "Belinda Carlisle"
+    ],
+    "isrc": "GBBLG8700257",
+    "start_time": "2025-11-06 17:14:48",
+    "radio": "expres",
+    "recorded_at": "2025-11-06T17:15:17.754769+01:00",
+    "raw_valid": true,
+    "song_session_id": "6b5ed45b-1bb6-46d1-8836-5e907976d313",
+    "duration_ms": 234333,
+    "genre": []
+  },
+  {
+    "song": "Medzi Nebom A Zenou",
+    "artists": [
+      "Banket",
+      "Richard Muller",
+      "Ema Muller"
+    ],
+    "isrc": "SKC362500009",
+    "start_time": "2025-11-06 17:18:40",
+    "radio": "expres",
+    "recorded_at": "2025-11-06T17:19:11.594691+01:00",
+    "raw_valid": true,
+    "song_session_id": "e937a4ff-d580-464b-a4db-98312d76df73",
+    "duration_ms": 228666,
+    "genre": []
+  },
+  {
+    "song": "Last Friday Night",
+    "artists": [
+      "Katy Perry"
+    ],
+    "isrc": "USCA21001264",
+    "start_time": "2025-11-06 17:22:51",
+    "radio": "expres",
+    "recorded_at": "2025-11-06T17:23:10.132135+01:00",
+    "raw_valid": true,
+    "song_session_id": "39592922-0d22-466e-a97f-b497cbae43c3",
+    "duration_ms": 230720,
+    "genre": [
+      "electronic"
+    ]
+  },
+  {
+    "song": "Stargazing",
+    "artists": [
+      "Myles Smith"
+    ],
+    "isrc": "GBARL2400510",
+    "start_time": "2025-11-06 17:26:52",
+    "radio": "expres",
+    "recorded_at": "2025-11-06T17:27:16.081122+01:00",
+    "raw_valid": true,
+    "song_session_id": "f5f08b66-3107-46c6-8eb5-5bc7829be908",
+    "duration_ms": 172533,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Undressed",
+    "artists": [
+      "Sombr"
+    ],
+    "isrc": "USWB12500737",
+    "start_time": "2025-11-06 17:34:00",
+    "radio": "expres",
+    "recorded_at": "2025-11-06T17:34:17.091615+01:00",
+    "raw_valid": true,
+    "song_session_id": "5777db23-2283-4ca0-b30f-ca480a31c5c0",
+    "duration_ms": 182088,
+    "genre": [
+      "indie pop"
+    ]
+  },
+  {
+    "song": "I See Fire",
+    "artists": [
+      "Ed Sheeran"
+    ],
+    "isrc": "GBAHS1400104",
+    "start_time": "2025-11-06 17:37:00",
+    "radio": "expres",
+    "recorded_at": "2025-11-06T17:37:15.087315+01:00",
+    "raw_valid": true,
+    "song_session_id": "395a915f-36a5-46dd-914e-aa56de5e35a9",
+    "duration_ms": 299146,
+    "genre": [
+      "soundtrack"
+    ]
+  },
+  {
+    "song": "Broken Sunshine",
+    "artists": [
+      "Michael Schulte"
+    ],
+    "isrc": "DECE72402375",
+    "start_time": "2025-11-06 17:41:26",
+    "radio": "expres",
+    "recorded_at": "2025-11-06T17:41:39.136386+01:00",
+    "raw_valid": true,
+    "song_session_id": "a202afe4-fe05-4410-9517-d84ca7c58bda",
+    "duration_ms": 175866,
+    "genre": []
+  },
+  {
+    "song": "Slobodna",
+    "artists": [
+      "Elan"
+    ],
+    "isrc": "SKA128343910",
+    "start_time": "2025-11-06 17:44:27",
+    "radio": "expres",
+    "recorded_at": "2025-11-06T17:44:49.063480+01:00",
+    "raw_valid": true,
+    "song_session_id": "e7e310c3-67dd-4c4a-ad71-242dbdeeb1b8",
+    "duration_ms": 215066,
+    "genre": []
+  },
+  {
+    "song": "Only Girl (In The World)",
+    "artists": [
+      "Rihanna"
+    ],
+    "isrc": "USUM71023200",
+    "start_time": "2025-11-06 17:47:49",
+    "radio": "expres",
+    "recorded_at": "2025-11-06T17:48:07.744110+01:00",
+    "raw_valid": true,
+    "song_session_id": "bb39f57b-815e-4ef9-879f-1857c54b798e",
+    "duration_ms": 235626,
+    "genre": [
+      "dance"
+    ]
+  },
+  {
+    "song": "Mystical Magical",
+    "artists": [
+      "Benson Boone"
+    ],
+    "isrc": "USWB12500844",
+    "start_time": "2025-11-06 17:53:28",
+    "radio": "expres",
+    "recorded_at": "2025-11-06T17:53:47.809707+01:00",
+    "raw_valid": true,
+    "song_session_id": "dc1a8bfc-82ae-42aa-806c-bab74d686386",
+    "duration_ms": 165746,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "A Kind Of Magic",
+    "artists": [
+      "Queen"
+    ],
+    "isrc": "GBUM71029621",
+    "start_time": "2025-11-06 17:56:20",
+    "radio": "expres",
+    "recorded_at": "2025-11-06T17:56:30.499478+01:00",
+    "raw_valid": true,
+    "song_session_id": "45459300-9aec-42e9-971e-bfecf5324a57",
+    "duration_ms": 262253,
+    "genre": [
+      "classic rock"
+    ]
+  }
+]

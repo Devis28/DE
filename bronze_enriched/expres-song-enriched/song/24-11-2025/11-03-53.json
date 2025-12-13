@@ -1,0 +1,410 @@
+[
+  {
+    "song": "Hot N Cold",
+    "artists": [
+      "Katy Perry"
+    ],
+    "isrc": "USCA20802544",
+    "start_time": "2025-11-24 10:07:05",
+    "radio": "expres",
+    "recorded_at": "2025-11-24T10:07:16.332000+01:00",
+    "raw_valid": true,
+    "song_session_id": "2b354c4c-d609-4da7-8a36-d9bdac168072",
+    "duration_ms": 220226,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "My Oh My",
+    "artists": [
+      "Ava Max"
+    ],
+    "isrc": "USAT22401759",
+    "start_time": "2025-11-24 10:10:38",
+    "radio": "expres",
+    "recorded_at": "2025-11-24T10:10:59.892211+01:00",
+    "raw_valid": true,
+    "song_session_id": "ab315a7c-e4d7-4fc5-840b-f013a5bf6cd5",
+    "duration_ms": 156155,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Someone You Loved",
+    "artists": [
+      "Lewis Capaldi"
+    ],
+    "isrc": "DEUM71807062",
+    "start_time": "2025-11-24 10:13:15",
+    "radio": "expres",
+    "recorded_at": "2025-11-24T10:13:42.794818+01:00",
+    "raw_valid": true,
+    "song_session_id": "ad06618a-566a-4157-a38b-aa37f2cd74c1",
+    "duration_ms": 182160,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Love Me Not",
+    "artists": [
+      "Ravyn Lenae"
+    ],
+    "isrc": "USAT22401137",
+    "start_time": "2025-11-24 10:18:23",
+    "radio": "expres",
+    "recorded_at": "2025-11-24T10:18:48.802630+01:00",
+    "raw_valid": true,
+    "song_session_id": "af7b056c-954a-4a3d-8b85-861cd655be93",
+    "duration_ms": 213466,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Ludia Nie Su Zli",
+    "artists": [
+      "Imt Smile"
+    ],
+    "isrc": "SKA019903001",
+    "start_time": "2025-11-24 10:21:40",
+    "radio": "expres",
+    "recorded_at": "2025-11-24T10:22:09.099020+01:00",
+    "raw_valid": true,
+    "song_session_id": "65a5e18d-e8bf-4af9-bae3-b43a6df7064f",
+    "duration_ms": 179360,
+    "genre": []
+  },
+  {
+    "song": "Derniere Danse",
+    "artists": [
+      "Indila"
+    ],
+    "isrc": "FRUM71301049",
+    "start_time": "2025-11-24 10:24:39",
+    "radio": "expres",
+    "recorded_at": "2025-11-24T10:24:49.017345+01:00",
+    "raw_valid": true,
+    "song_session_id": "00cc1c0b-c72c-4e61-9498-071cfb231fda",
+    "duration_ms": 213493,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Im So Excited",
+    "artists": [
+      "Pointer Sisters"
+    ],
+    "isrc": "USRC18203285",
+    "start_time": "2025-11-24 10:34:37",
+    "radio": "expres",
+    "recorded_at": "2025-11-24T10:34:57.550572+01:00",
+    "raw_valid": true,
+    "song_session_id": "db5c5463-1e0f-49cf-9e76-62896c40027c",
+    "duration_ms": 233400,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Wonderful Life 25",
+    "artists": [
+      "Hurts",
+      "Purple Disco Machine"
+    ],
+    "isrc": "DEE862500677",
+    "start_time": "2025-11-24 10:38:35",
+    "radio": "expres",
+    "recorded_at": "2025-11-24T10:39:02.428002+01:00",
+    "raw_valid": true,
+    "song_session_id": "9c860859-fbd7-438a-b1e5-23be5710add9",
+    "duration_ms": 178658,
+    "genre": []
+  },
+  {
+    "song": "Shes The One",
+    "artists": [
+      "Robbie Williams"
+    ],
+    "isrc": "GBAYK9800020",
+    "start_time": "2025-11-24 10:41:31",
+    "radio": "expres",
+    "recorded_at": "2025-11-24T10:41:40.535176+01:00",
+    "raw_valid": true,
+    "song_session_id": "24c1c82a-21c0-48f4-83bb-9d99df5ef65d",
+    "duration_ms": 260893,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Let Me Die",
+    "artists": [
+      "Mark Dann",
+      "Giovanni Ricci"
+    ],
+    "isrc": "US38Y2520370",
+    "start_time": "2025-11-24 10:45:52",
+    "radio": "expres",
+    "recorded_at": "2025-11-24T10:46:11.090749+01:00",
+    "raw_valid": true,
+    "song_session_id": "2a1d20ab-bec8-4f64-a9fb-2acad5e48bd4",
+    "duration_ms": 147010,
+    "genre": []
+  },
+  {
+    "song": "Summer Wine",
+    "artists": [
+      "Ville Valo",
+      "Natalia Avelon"
+    ],
+    "isrc": "DEA620600750",
+    "start_time": "2025-11-24 10:48:28",
+    "radio": "expres",
+    "recorded_at": "2025-11-24T10:48:49.252958+01:00",
+    "raw_valid": true,
+    "song_session_id": "a3a2d076-dcd2-440a-8762-acf0c82d28d6",
+    "duration_ms": 233546,
+    "genre": [
+      "soundtrack"
+    ]
+  },
+  {
+    "song": "Eternity",
+    "artists": [
+      "Alex Warren"
+    ],
+    "isrc": "USAT22503779",
+    "start_time": "2025-11-24 10:52:16",
+    "radio": "expres",
+    "recorded_at": "2025-11-24T10:52:27.653206+01:00",
+    "raw_valid": true,
+    "song_session_id": "b47c0a14-6fac-4d3c-a49d-6cb4b3b4abbe",
+    "duration_ms": 189553,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Dive",
+    "artists": [
+      "Lost Frequencies",
+      "Tom Gregory"
+    ],
+    "isrc": "BEHP42300028",
+    "start_time": "2025-11-24 10:55:46",
+    "radio": "expres",
+    "recorded_at": "2025-11-24T10:56:09.990610+01:00",
+    "raw_valid": true,
+    "song_session_id": "3afac61c-b446-46d4-9f9b-bd7589f01d6b",
+    "duration_ms": 161093,
+    "genre": []
+  },
+  {
+    "song": "Cant Fight The Moonlight",
+    "artists": [
+      "Leann Rimes"
+    ],
+    "isrc": "USCRB0000703",
+    "start_time": "2025-11-24 11:06:54",
+    "radio": "expres",
+    "recorded_at": "2025-11-24T11:07:09.044151+01:00",
+    "raw_valid": true,
+    "song_session_id": "20ce81e8-4c67-4f24-94ca-3b7c355377e6",
+    "duration_ms": 215506,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Angels",
+    "artists": [
+      "Morandi"
+    ],
+    "isrc": "ROUM70700047",
+    "start_time": "2025-11-24 11:10:29",
+    "radio": "expres",
+    "recorded_at": "2025-11-24T11:10:52.440806+01:00",
+    "raw_valid": true,
+    "song_session_id": "dbf7e183-939d-487f-95b2-fc93be2e4f08",
+    "duration_ms": 225120,
+    "genre": []
+  },
+  {
+    "song": "Summer Of 69",
+    "artists": [
+      "Bryan Adams"
+    ],
+    "isrc": "USAM18490006",
+    "start_time": "2025-11-24 11:13:40",
+    "radio": "expres",
+    "recorded_at": "2025-11-24T11:13:50.367704+01:00",
+    "raw_valid": true,
+    "song_session_id": "1f081ab2-42d2-47dc-aad8-42fe2fb01998",
+    "duration_ms": 216053,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Blink Twice",
+    "artists": [
+      "Shaboozey",
+      "Myles Smith"
+    ],
+    "isrc": "USUYG1717098",
+    "start_time": "2025-11-24 11:17:09",
+    "radio": "expres",
+    "recorded_at": "2025-11-24T11:17:34.000566+01:00",
+    "raw_valid": true,
+    "song_session_id": "1914c7ed-ab92-4b64-9953-2449eed5a43b",
+    "duration_ms": 156721,
+    "genre": []
+  },
+  {
+    "song": "We Pray",
+    "artists": [
+      "Coldplay",
+      "Little Simz",
+      "Burna Boy",
+      "Elyanna",
+      "Tini"
+    ],
+    "isrc": "GBAYE2400890",
+    "start_time": "2025-11-24 11:19:50",
+    "radio": "expres",
+    "recorded_at": "2025-11-24T11:20:16.913291+01:00",
+    "raw_valid": true,
+    "song_session_id": "fad3acea-4edb-4832-a15b-5cd0f8112464",
+    "duration_ms": 233406,
+    "genre": [
+      "pop rap"
+    ]
+  },
+  {
+    "song": "V Blbym Veku",
+    "artists": [
+      "Xindl X"
+    ],
+    "isrc": "CZUM71400233",
+    "start_time": "2025-11-24 11:22:59",
+    "radio": "expres",
+    "recorded_at": "2025-11-24T11:23:19.868905+01:00",
+    "raw_valid": true,
+    "song_session_id": "d7ebb1b5-788e-46f4-8afe-c8efe923c78d",
+    "duration_ms": 226250,
+    "genre": []
+  },
+  {
+    "song": "Pride",
+    "artists": [
+      "Felix Jaehn",
+      "Jhart"
+    ],
+    "isrc": "DEUM72503423",
+    "start_time": "2025-11-24 11:34:01",
+    "radio": "expres",
+    "recorded_at": "2025-11-24T11:34:24.201427+01:00",
+    "raw_valid": true,
+    "song_session_id": "de0be11a-22ea-438e-bd69-e5df39bad08b",
+    "duration_ms": 158150,
+    "genre": []
+  },
+  {
+    "song": "Whenever Wherever",
+    "artists": [
+      "Shakira"
+    ],
+    "isrc": "NLB630100324",
+    "start_time": "2025-11-24 11:36:47",
+    "radio": "expres",
+    "recorded_at": "2025-11-24T11:37:06.884810+01:00",
+    "raw_valid": true,
+    "song_session_id": "a7a8fda4-6c2d-4aa0-9b76-7dd786d31dc5",
+    "duration_ms": 196013,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Bad Liar",
+    "artists": [
+      "Imagine Dragons"
+    ],
+    "isrc": "USUM71816161",
+    "start_time": "2025-11-24 11:39:56",
+    "radio": "expres",
+    "recorded_at": "2025-11-24T11:40:11.670731+01:00",
+    "raw_valid": true,
+    "song_session_id": "e94f1e32-c289-4b6a-aa0d-c0c12b51e1d5",
+    "duration_ms": 260773,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "All I Know",
+    "artists": [
+      "Rudimental",
+      "Khalid"
+    ],
+    "isrc": "GBARL2500365",
+    "start_time": "2025-11-24 11:44:17",
+    "radio": "expres",
+    "recorded_at": "2025-11-24T11:44:30.742315+01:00",
+    "raw_valid": true,
+    "song_session_id": "cc28d5f4-c36b-4ecc-9282-c0a74499a6e1",
+    "duration_ms": 176046,
+    "genre": []
+  },
+  {
+    "song": "Living On A Prayer",
+    "artists": [
+      "Bon Jovi"
+    ],
+    "isrc": "AUUS00634702",
+    "start_time": "2025-11-24 11:47:17",
+    "radio": "expres",
+    "recorded_at": "2025-11-24T11:47:34.331794+01:00",
+    "raw_valid": true,
+    "song_session_id": "ffb655d1-b51e-479b-9235-4d84dd867756",
+    "duration_ms": 225109,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Man I Need",
+    "artists": [
+      "Olivia Dean"
+    ],
+    "isrc": "GBUM72503089",
+    "start_time": "2025-11-24 11:52:33",
+    "radio": "expres",
+    "recorded_at": "2025-11-24T11:52:59.395492+01:00",
+    "raw_valid": true,
+    "song_session_id": "b9a2b071-f7f5-4d70-a9a3-d48d3fa4fa38",
+    "duration_ms": 184000,
+    "genre": [
+      "offizielle charts"
+    ]
+  },
+  {
+    "song": "Pesnicka O Medulienke",
+    "artists": [
+      "Gladiator",
+      "Pavol Hammel"
+    ],
+    "isrc": "CZA210000412",
+    "start_time": "2025-11-24 11:55:56",
+    "radio": "expres",
+    "recorded_at": "2025-11-24T11:56:23.100024+01:00",
+    "raw_valid": true,
+    "song_session_id": "3773d173-9371-4007-9024-f9d941e94769",
+    "duration_ms": 200466,
+    "genre": []
+  }
+]

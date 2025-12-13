@@ -1,0 +1,32 @@
+[
+  {
+    "song": {
+      "play_date": "2025-11-04",
+      "play_time": "21:01",
+      "artist": [
+        "Pat Metheny Group"
+      ],
+      "title": "Have You Heard"
+    },
+    "recorded_at": "2025-11-04T21:04:10.183934+01:00",
+    "raw_valid": true,
+    "song_session_id": "14a3a121-1853-4635-aa92-6a8cc936709c",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-11-04",
+      "play_time": "21:07",
+      "artist": [
+        "Mirka Abelova"
+      ],
+      "title": "Malvína_15"
+    },
+    "recorded_at": "2025-11-04T21:12:11.283258+01:00",
+    "raw_valid": true,
+    "song_session_id": "b83a4e02-0c56-4984-9fb2-2cd42d1438c4",
+    "duration_ms": null,
+    "genre": []
+  }
+]

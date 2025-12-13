@@ -1,0 +1,376 @@
+[
+  {
+    "song": "Give It Up",
+    "artists": [
+      "Cut N Move"
+    ],
+    "isrc": "DKABA9403902",
+    "start_time": "2025-11-29 15:51:29",
+    "radio": "expres",
+    "recorded_at": "2025-11-29T15:51:39.981410+01:00",
+    "raw_valid": true,
+    "song_session_id": "4f2fea84-5f30-4650-a9aa-42a9c23b275a",
+    "duration_ms": 265200,
+    "genre": [
+      "electronic"
+    ]
+  },
+  {
+    "song": "Every Breath You Take",
+    "artists": [
+      "Police"
+    ],
+    "isrc": "GBAAM0201110",
+    "start_time": "2025-11-29 15:55:43",
+    "radio": "expres",
+    "recorded_at": "2025-11-29T15:56:15.321519+01:00",
+    "raw_valid": true,
+    "song_session_id": "8850154b-badf-4434-8ea0-fc118df351cd",
+    "duration_ms": 255333,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "The Best",
+    "artists": [
+      "Tina Turner"
+    ],
+    "isrc": "USCA28900109",
+    "start_time": "2025-11-29 16:06:20",
+    "radio": "expres",
+    "recorded_at": "2025-11-29T16:06:43.938969+01:00",
+    "raw_valid": true,
+    "song_session_id": "c9db3b31-4754-49ae-8930-27e1db3d5bbe",
+    "duration_ms": 333267,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Strangelove",
+    "artists": [
+      "Depeche Mode"
+    ],
+    "isrc": "GBAJH9800140",
+    "start_time": "2025-11-29 16:10:30",
+    "radio": "expres",
+    "recorded_at": "2025-11-29T16:10:55.815856+01:00",
+    "raw_valid": true,
+    "song_session_id": "cd16f8c9-5c94-437a-8588-330ab8589045",
+    "duration_ms": 225880,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Locked Out Of Heaven",
+    "artists": [
+      "Bruno Mars"
+    ],
+    "isrc": "USAT21203287",
+    "start_time": "2025-11-29 16:14:54",
+    "radio": "expres",
+    "recorded_at": "2025-11-29T16:15:09.995799+01:00",
+    "raw_valid": true,
+    "song_session_id": "bbdffecd-fcef-4d4e-867f-279f2613aa21",
+    "duration_ms": 233478,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Eyes Without A Face",
+    "artists": [
+      "Billy Idol"
+    ],
+    "isrc": "USCH38400023",
+    "start_time": "2025-11-29 16:19:42",
+    "radio": "expres",
+    "recorded_at": "2025-11-29T16:20:16.044365+01:00",
+    "raw_valid": true,
+    "song_session_id": "705a7207-629d-401a-a16d-51aaa68e877e",
+    "duration_ms": 299240,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Whered You Go",
+    "artists": [
+      "Fort Minor",
+      "Holly Brook"
+    ],
+    "isrc": "USWB10504785",
+    "start_time": "2025-11-29 16:24:39",
+    "radio": "expres",
+    "recorded_at": "2025-11-29T16:24:57.177553+01:00",
+    "raw_valid": true,
+    "song_session_id": "04892fff-f157-4212-a541-1f1d259ffaa9",
+    "duration_ms": 231866,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Flashdance... What A Feeling",
+    "artists": [
+      "Irene Cara"
+    ],
+    "isrc": "CAU118300354",
+    "start_time": "2025-11-29 16:32:13",
+    "radio": "expres",
+    "recorded_at": "2025-11-29T16:32:34.031638+01:00",
+    "raw_valid": true,
+    "song_session_id": "a997bbb7-af09-4712-8617-b9ad8db3cb83",
+    "duration_ms": 237053,
+    "genre": [
+      "electronic"
+    ]
+  },
+  {
+    "song": "Close To You",
+    "artists": [
+      "Maxi Priest"
+    ],
+    "isrc": "GBAAA9000061",
+    "start_time": "2025-11-29 16:36:09",
+    "radio": "expres",
+    "recorded_at": "2025-11-29T16:36:32.718993+01:00",
+    "raw_valid": true,
+    "song_session_id": "4db3db20-461f-432e-882b-f68938599e2d",
+    "duration_ms": 329258,
+    "genre": []
+  },
+  {
+    "song": "La Luna",
+    "artists": [
+      "Belinda Carlisle"
+    ],
+    "isrc": "GBAAA8900154",
+    "start_time": "2025-11-29 16:39:35",
+    "radio": "expres",
+    "recorded_at": "2025-11-29T16:39:56.128008+01:00",
+    "raw_valid": true,
+    "song_session_id": "ef9160f8-d200-44a7-b55a-2bcac189f192",
+    "duration_ms": 285026,
+    "genre": []
+  },
+  {
+    "song": "Numb",
+    "artists": [
+      "Linkin Park"
+    ],
+    "isrc": "USWB10300474",
+    "start_time": "2025-11-29 16:44:17",
+    "radio": "expres",
+    "recorded_at": "2025-11-29T16:44:35.232436+01:00",
+    "raw_valid": true,
+    "song_session_id": "dc631ba2-1f47-4b83-9ae6-e7594f96ec66",
+    "duration_ms": 187520,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Bad Boy",
+    "artists": [
+      "Miami Sound Machine"
+    ],
+    "isrc": "USSM10026150",
+    "start_time": "2025-11-29 16:47:24",
+    "radio": "expres",
+    "recorded_at": "2025-11-29T16:47:38.218198+01:00",
+    "raw_valid": true,
+    "song_session_id": "04192e27-82fe-4916-a401-9732d5cbce2d",
+    "duration_ms": 235506,
+    "genre": []
+  },
+  {
+    "song": "Two Princes",
+    "artists": [
+      "Spin Doctors"
+    ],
+    "isrc": "USSM19000350",
+    "start_time": "2025-11-29 16:51:49",
+    "radio": "expres",
+    "recorded_at": "2025-11-29T16:51:57.342857+01:00",
+    "raw_valid": true,
+    "song_session_id": "45439716-09e4-4261-8e48-b96a50112a41",
+    "duration_ms": 256946,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "There Must Be An Angel",
+    "artists": [
+      "Eurythmics",
+      "Stevie Wonder"
+    ],
+    "isrc": "GBARL8500001",
+    "start_time": "2025-11-29 16:56:03",
+    "radio": "expres",
+    "recorded_at": "2025-11-29T16:56:21.552435+01:00",
+    "raw_valid": true,
+    "song_session_id": "de4dcedf-90fa-4595-8c2e-6cb984532c6a",
+    "duration_ms": 280360,
+    "genre": []
+  },
+  {
+    "song": "I Wanna Dance With Somebody",
+    "artists": [
+      "Whitney Houston"
+    ],
+    "isrc": "USAR18700121",
+    "start_time": "2025-11-29 17:06:29",
+    "radio": "expres",
+    "recorded_at": "2025-11-29T17:06:46.100701+01:00",
+    "raw_valid": true,
+    "song_session_id": "1f5df936-e3a0-4b15-ad79-39c991498838",
+    "duration_ms": 290440,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Fly Away",
+    "artists": [
+      "Lenny Kravitz"
+    ],
+    "isrc": "USVI29800169",
+    "start_time": "2025-11-29 17:11:15",
+    "radio": "expres",
+    "recorded_at": "2025-11-29T17:11:25.138552+01:00",
+    "raw_valid": true,
+    "song_session_id": "40b67a0a-f295-4b1a-8c74-98b89750f61c",
+    "duration_ms": 221893,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Vamos A La Playa",
+    "artists": [
+      "Righeira"
+    ],
+    "isrc": "IT0728300001",
+    "start_time": "2025-11-29 17:14:58",
+    "radio": "expres",
+    "recorded_at": "2025-11-29T17:15:25.580018+01:00",
+    "raw_valid": true,
+    "song_session_id": "f8e9b1c0-e816-46a1-b85c-59a8099418fe",
+    "duration_ms": 217327,
+    "genre": []
+  },
+  {
+    "song": "A Thousand Years",
+    "artists": [
+      "Christina Perri"
+    ],
+    "isrc": "USAT21102141",
+    "start_time": "2025-11-29 17:20:40",
+    "radio": "expres",
+    "recorded_at": "2025-11-29T17:21:05.684102+01:00",
+    "raw_valid": true,
+    "song_session_id": "e363b400-9f69-4cd7-bfe5-85e8fe9d3793",
+    "duration_ms": 285120,
+    "genre": [
+      "soundtrack"
+    ]
+  },
+  {
+    "song": "Barbie Girl",
+    "artists": [
+      "Aqua"
+    ],
+    "isrc": "DKBKA9700403",
+    "start_time": "2025-11-29 17:25:06",
+    "radio": "expres",
+    "recorded_at": "2025-11-29T17:25:39.908531+01:00",
+    "raw_valid": true,
+    "song_session_id": "ce1a52d1-3ae3-450c-8c42-a783f0d417cd",
+    "duration_ms": 197906,
+    "genre": [
+      "trance"
+    ]
+  },
+  {
+    "song": "All About Loving You",
+    "artists": [
+      "Bon Jovi"
+    ],
+    "isrc": "QM6MZ1438369",
+    "start_time": "2025-11-29 17:31:29",
+    "radio": "expres",
+    "recorded_at": "2025-11-29T17:31:51.716609+01:00",
+    "raw_valid": true,
+    "song_session_id": "1ae4f03f-de9d-48e4-ba22-248769cc40e9",
+    "duration_ms": 226760,
+    "genre": []
+  },
+  {
+    "song": "Cancion Del Mariachi",
+    "artists": [
+      "Los Lobos",
+      "Antonio Banderas"
+    ],
+    "isrc": "US5940900627",
+    "start_time": "2025-11-29 17:35:22",
+    "radio": "expres",
+    "recorded_at": "2025-11-29T17:35:42.754549+01:00",
+    "raw_valid": true,
+    "song_session_id": "64573a47-5003-41b7-af34-4c119987629f",
+    "duration_ms": 127226,
+    "genre": []
+  },
+  {
+    "song": "The Time Of My Life",
+    "artists": [
+      "Bill Medley",
+      "Jennifer Warnes"
+    ],
+    "isrc": "USRC10300895",
+    "start_time": "2025-11-29 17:37:30",
+    "radio": "expres",
+    "recorded_at": "2025-11-29T17:37:55.292315+01:00",
+    "raw_valid": true,
+    "song_session_id": "1d116a56-84b8-40e9-b47f-3dbb4aede301",
+    "duration_ms": 288986,
+    "genre": []
+  },
+  {
+    "song": "Right In The Night",
+    "artists": [
+      "Jam",
+      "Spoon",
+      "Plavka"
+    ],
+    "isrc": "DEMW61000006",
+    "start_time": "2025-11-29 17:42:12",
+    "radio": "expres",
+    "recorded_at": "2025-11-29T17:42:53.547881+01:00",
+    "raw_valid": true,
+    "song_session_id": "48df4d83-efa2-4a95-a911-fcb633492538",
+    "duration_ms": 364400,
+    "genre": [
+      "trance"
+    ]
+  },
+  {
+    "song": "The Show Must Go On",
+    "artists": [
+      "Queen"
+    ],
+    "isrc": "GBUM71106221",
+    "start_time": "2025-11-29 17:45:59",
+    "radio": "expres",
+    "recorded_at": "2025-11-29T17:46:25.097831+01:00",
+    "raw_valid": true,
+    "song_session_id": "3e46c9f6-070d-4e82-82d0-725f1cac7150",
+    "duration_ms": 277826,
+    "genre": [
+      "rock"
+    ]
+  }
+]

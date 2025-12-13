@@ -1,0 +1,554 @@
+[
+  {
+    "last_update": "2025-12-07 21:56:32",
+    "song": {
+      "musicAuthor": "Emma Drobná",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048510c46a5ffd53b69f1abfca6d1",
+      "musicTitle": "Smile",
+      "radio": "Fun Rádio",
+      "startTime": "22:55"
+    },
+    "recorded_at": "2025-12-07T22:56:33.984325+01:00",
+    "raw_valid": true,
+    "song_session_id": "b6f2e68d-5f7c-457e-865d-6ff2cd43d459",
+    "duration_ms": 226909,
+    "genre": []
+  },
+  {
+    "last_update": "2025-12-07 21:59:33",
+    "song": {
+      "musicAuthor": "Tina",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485103118050d6753cf76a76f46d",
+      "musicTitle": "Údolie Tieňov",
+      "radio": "Fun Rádio",
+      "startTime": "22:59"
+    },
+    "recorded_at": "2025-12-07T22:59:34.159560+01:00",
+    "raw_valid": true,
+    "song_session_id": "2f9ac9fb-df70-4566-90e3-4f600b9ed6c1",
+    "duration_ms": 218536,
+    "genre": []
+  },
+  {
+    "last_update": "2025-12-07 22:03:34",
+    "song": {
+      "musicAuthor": "Desmod",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048519bc8fd337b7db428dfc6f682",
+      "musicTitle": "Vrba",
+      "radio": "Fun Rádio",
+      "startTime": "23:02"
+    },
+    "recorded_at": "2025-12-07T23:03:34.472405+01:00",
+    "raw_valid": true,
+    "song_session_id": "a607e559-5efa-4de3-b923-a65baf4331fb",
+    "duration_ms": 255234,
+    "genre": []
+  },
+  {
+    "last_update": "2025-12-07 22:07:33",
+    "song": {
+      "musicAuthor": "Buranowski",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851bc165b8d59dcb7dfb248abf7",
+      "musicTitle": "Lúč",
+      "radio": "Fun Rádio",
+      "startTime": "23:06"
+    },
+    "recorded_at": "2025-12-07T23:07:34.820424+01:00",
+    "raw_valid": true,
+    "song_session_id": "c6f29b25-4603-4628-81e1-c457b1f68290",
+    "duration_ms": 233080,
+    "genre": []
+  },
+  {
+    "last_update": "2025-12-07 22:11:34",
+    "song": {
+      "musicAuthor": "Kristína",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851a1f6ae18eac4b9329de88894",
+      "musicTitle": "Vianočná Nálada",
+      "radio": "Fun Rádio",
+      "startTime": "23:10"
+    },
+    "recorded_at": "2025-12-07T23:11:35.064545+01:00",
+    "raw_valid": true,
+    "song_session_id": "4561ad23-9acc-4e31-9d27-4a45776e5919",
+    "duration_ms": 183333,
+    "genre": []
+  },
+  {
+    "last_update": "2025-12-07 22:14:35",
+    "song": {
+      "musicAuthor": "Celeste Buckingham",
+      "musicCover": "https://static.radia.sk/covers/32/2678e8e1-7426-44ad-a98f-0b586115cd1c.jpg",
+      "musicTitle": "Unpredictable",
+      "radio": "Fun Rádio",
+      "startTime": "23:13"
+    },
+    "recorded_at": "2025-12-07T23:14:35.261897+01:00",
+    "raw_valid": true,
+    "song_session_id": "9294fe14-9230-491e-8cbb-f130294916ee",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "last_update": "2025-12-07 22:18:35",
+    "song": {
+      "musicAuthor": "Kali, I.M.T. Smile",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851ecbf49b6574cbe4126aee32c",
+      "musicTitle": "Nič sa nemení",
+      "radio": "Fun Rádio",
+      "startTime": "23:17"
+    },
+    "recorded_at": "2025-12-07T23:18:35.733371+01:00",
+    "raw_valid": true,
+    "song_session_id": "641644b5-dd78-4554-b7f5-2c936f48ee84",
+    "duration_ms": 206570,
+    "genre": []
+  },
+  {
+    "last_update": "2025-12-07 22:21:35",
+    "song": {
+      "musicAuthor": "Alan Murin & Iova",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048510373aa6f71b85b4b6b975b11",
+      "musicTitle": "Still Love You",
+      "radio": "Fun Rádio",
+      "startTime": "23:21"
+    },
+    "recorded_at": "2025-12-07T23:21:36.044381+01:00",
+    "raw_valid": true,
+    "song_session_id": "119be5ec-1ce4-4251-a17a-6c47f7fd7dca",
+    "duration_ms": 172436,
+    "genre": []
+  },
+  {
+    "last_update": "2025-12-07 22:24:35",
+    "song": {
+      "musicAuthor": "Čírová Mária",
+      "musicCover": "https://static.radia.sk/covers/32/f700baa9-d6b1-47ce-b189-2807e0a9de6f.jpg",
+      "musicTitle": "Búrka",
+      "radio": "Fun Rádio",
+      "startTime": "23:23"
+    },
+    "recorded_at": "2025-12-07T23:24:36.213853+01:00",
+    "raw_valid": true,
+    "song_session_id": "e7d4c69d-28ca-4597-b4fc-a1c7e3af90e8",
+    "duration_ms": 245680,
+    "genre": []
+  },
+  {
+    "last_update": "2025-12-07 22:28:35",
+    "song": {
+      "musicAuthor": "Lukáš Adamec",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485152e47da112f940001006136d",
+      "musicTitle": "Horúca Láska",
+      "radio": "Fun Rádio",
+      "startTime": "23:27"
+    },
+    "recorded_at": "2025-12-07T23:28:36.454691+01:00",
+    "raw_valid": true,
+    "song_session_id": "66680db5-1d49-4fe5-9069-a9104581f088",
+    "duration_ms": 208147,
+    "genre": []
+  },
+  {
+    "last_update": "2025-12-07 22:32:36",
+    "song": {
+      "musicAuthor": "Peter Bič Projekt",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851e7e20269d35bbfac097ad7de",
+      "musicTitle": "Stoj",
+      "radio": "Fun Rádio",
+      "startTime": "23:31"
+    },
+    "recorded_at": "2025-12-07T23:32:36.752576+01:00",
+    "raw_valid": true,
+    "song_session_id": "d1217e56-793d-48d9-ae5b-fdeb50b32fb2",
+    "duration_ms": 309780,
+    "genre": []
+  },
+  {
+    "last_update": "2025-12-07 22:37:36",
+    "song": {
+      "musicAuthor": "Matej Smutny",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851e651084cd2541a4e5ef0418d",
+      "musicTitle": "Words U Say",
+      "radio": "Fun Rádio",
+      "startTime": "23:36"
+    },
+    "recorded_at": "2025-12-07T23:37:37.086690+01:00",
+    "raw_valid": true,
+    "song_session_id": "8e80675e-f211-4639-8afe-88bd3161a398",
+    "duration_ms": 151031,
+    "genre": []
+  },
+  {
+    "last_update": "2025-12-07 22:40:06",
+    "song": {
+      "musicAuthor": "Katarina Knechtova",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851ec5603d7d52aa8ad25cf1801",
+      "musicTitle": "Zivot Nas Ma Rad",
+      "radio": "Fun Rádio",
+      "startTime": "23:39"
+    },
+    "recorded_at": "2025-12-07T23:40:07.275137+01:00",
+    "raw_valid": true,
+    "song_session_id": "dd9b2b83-ebb1-434e-9e21-34d5df1f9fa3",
+    "duration_ms": 225886,
+    "genre": []
+  },
+  {
+    "last_update": "2025-12-07 22:43:37",
+    "song": {
+      "musicAuthor": "Emma Smetana & Richard Müller",
+      "musicCover": "https://static.radia.sk/covers/32/7d1bc57d-5e1c-4559-949b-9e10296164f0.jpg",
+      "musicTitle": "Tahle Jedna Vteřina",
+      "radio": "Fun Rádio",
+      "startTime": "23:42"
+    },
+    "recorded_at": "2025-12-07T23:43:37.508709+01:00",
+    "raw_valid": true,
+    "song_session_id": "46f1c264-2e10-4ab6-9f6e-bbd6aeca0cef",
+    "duration_ms": 194000,
+    "genre": []
+  },
+  {
+    "last_update": "2025-12-07 22:46:37",
+    "song": {
+      "musicAuthor": "Zuzana Smatanova",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851fefe1a1ecc5375ca2590c771",
+      "musicTitle": "Gravitacia",
+      "radio": "Fun Rádio",
+      "startTime": "23:46"
+    },
+    "recorded_at": "2025-12-07T23:46:37.688013+01:00",
+    "raw_valid": true,
+    "song_session_id": "34f8b143-6006-4e08-ad40-5c89525c588b",
+    "duration_ms": 196217,
+    "genre": []
+  },
+  {
+    "last_update": "2025-12-07 22:49:07",
+    "song": {
+      "musicAuthor": "Dara Rolins & Tomi Popovič",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048512efe97171504b3a6bd14e69f",
+      "musicTitle": "Nebo, Peklo, Raj",
+      "radio": "Fun Rádio",
+      "startTime": "23:49"
+    },
+    "recorded_at": "2025-12-07T23:49:07.879727+01:00",
+    "raw_valid": true,
+    "song_session_id": "65b09cd5-e1d1-4a8c-9050-19cf4da7180d",
+    "duration_ms": 214440,
+    "genre": []
+  },
+  {
+    "last_update": "2025-12-07 22:53:07",
+    "song": {
+      "musicAuthor": "Hex",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485197788f6942989d8959889c9b",
+      "musicTitle": "Pomaranče z Kuby",
+      "radio": "Fun Rádio",
+      "startTime": "23:52"
+    },
+    "recorded_at": "2025-12-07T23:53:08.146420+01:00",
+    "raw_valid": true,
+    "song_session_id": "858590d0-1fe7-4d7d-b14e-c071e9bcc961",
+    "duration_ms": 260316,
+    "genre": []
+  },
+  {
+    "last_update": "2025-12-07 22:58:08",
+    "song": {
+      "musicAuthor": "Lina Mayer",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048519bbc8d9835d7036d443c7609",
+      "musicTitle": "Raj",
+      "radio": "Fun Rádio",
+      "startTime": "23:57"
+    },
+    "recorded_at": "2025-12-07T23:58:08.450521+01:00",
+    "raw_valid": true,
+    "song_session_id": "6f0bfe01-cd87-41f7-9946-331c6145cbc1",
+    "duration_ms": 211482,
+    "genre": []
+  },
+  {
+    "last_update": "2025-12-07 23:01:08",
+    "song": {
+      "musicAuthor": "Miley Cyrus",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851f429549123dbe8552764ba1d",
+      "musicTitle": "Flowers",
+      "radio": "Fun Rádio",
+      "startTime": "00:00"
+    },
+    "recorded_at": "2025-12-08T00:01:08.745216+01:00",
+    "raw_valid": true,
+    "song_session_id": "ccbbb817-b5b0-49c4-87fc-e46f8ece73b1",
+    "duration_ms": 200600,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "last_update": "2025-12-07 23:05:08",
+    "song": {
+      "musicAuthor": "Para",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851d82b36bcc44ef29b8297674e",
+      "musicTitle": "Prepojení",
+      "radio": "Fun Rádio",
+      "startTime": "00:04"
+    },
+    "recorded_at": "2025-12-08T00:05:09.279876+01:00",
+    "raw_valid": true,
+    "song_session_id": "23a564ba-8e11-4f99-b883-50e63ff2ffcc",
+    "duration_ms": 185411,
+    "genre": []
+  },
+  {
+    "last_update": "2025-12-07 23:08:08",
+    "song": {
+      "musicAuthor": "Hozier",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048517a9bf5f82e32d33d4503fe7b",
+      "musicTitle": "Take Me To Church",
+      "radio": "Fun Rádio",
+      "startTime": "00:07"
+    },
+    "recorded_at": "2025-12-08T00:08:09.458355+01:00",
+    "raw_valid": true,
+    "song_session_id": "1af6fc2f-5884-4e18-a0fe-9fca627f9305",
+    "duration_ms": 241688,
+    "genre": [
+      "indie"
+    ]
+  },
+  {
+    "last_update": "2025-12-07 23:12:09",
+    "song": {
+      "musicAuthor": "Tate Mcrae",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485196e4cfdd4c3aa8088685b262",
+      "musicTitle": "Just Keep Watching",
+      "radio": "Fun Rádio",
+      "startTime": "00:11"
+    },
+    "recorded_at": "2025-12-08T00:12:09.691492+01:00",
+    "raw_valid": true,
+    "song_session_id": "6815b203-6455-4bcf-baec-8e8474a8cd9e",
+    "duration_ms": 142550,
+    "genre": []
+  },
+  {
+    "last_update": "2025-12-07 23:14:09",
+    "song": {
+      "musicAuthor": "Glass Animals",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048519e495fb707973f3390850eea",
+      "musicTitle": "Heat Waves",
+      "radio": "Fun Rádio",
+      "startTime": "00:13"
+    },
+    "recorded_at": "2025-12-08T00:14:09.813147+01:00",
+    "raw_valid": true,
+    "song_session_id": "f4fc8d2f-e6fd-41aa-b2db-c23c3dcff08e",
+    "duration_ms": 238805,
+    "genre": [
+      "indie"
+    ]
+  },
+  {
+    "last_update": "2025-12-07 23:18:09",
+    "song": {
+      "musicAuthor": "Taylor Swift",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851d7812467811a7da6e6a44902",
+      "musicTitle": "The Fate Of Ophelia",
+      "radio": "Fun Rádio",
+      "startTime": "00:17"
+    },
+    "recorded_at": "2025-12-08T00:18:10.041813+01:00",
+    "raw_valid": true,
+    "song_session_id": "634008cd-a37a-48c3-a6cf-09817a608652",
+    "duration_ms": 226073,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "last_update": "2025-12-07 23:21:09",
+    "song": {
+      "musicAuthor": "Coldplay Ft. Little Simz & Burna Boy & Elyanna & Tini",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048518009ae03e4e7d759a521c7e7",
+      "musicTitle": "We Pray",
+      "radio": "Fun Rádio",
+      "startTime": "00:20"
+    },
+    "recorded_at": "2025-12-08T00:21:10.347613+01:00",
+    "raw_valid": true,
+    "song_session_id": "9cbad0df-fb5d-40d5-a188-a50b231a1859",
+    "duration_ms": 233406,
+    "genre": []
+  },
+  {
+    "last_update": "2025-12-07 23:25:10",
+    "song": {
+      "musicAuthor": "Felix Jaehn & Jhart",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851ffac2a8ae059b046b4bfd4c2",
+      "musicTitle": "Pride",
+      "radio": "Fun Rádio",
+      "startTime": "00:24"
+    },
+    "recorded_at": "2025-12-08T00:25:10.593167+01:00",
+    "raw_valid": true,
+    "song_session_id": "29e63c12-a3a8-4d02-81c3-310e739c6f6b",
+    "duration_ms": 158150,
+    "genre": []
+  },
+  {
+    "last_update": "2025-12-07 23:28:10",
+    "song": {
+      "musicAuthor": "Nelly Furtado",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851a6f439c8957170652f9410e2",
+      "musicTitle": "Maneater",
+      "radio": "Fun Rádio",
+      "startTime": "00:27"
+    },
+    "recorded_at": "2025-12-08T00:28:10.829395+01:00",
+    "raw_valid": true,
+    "song_session_id": "a2937958-d908-4612-86e9-7b74dfd88a56",
+    "duration_ms": 258893,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "last_update": "2025-12-07 23:31:11",
+    "song": {
+      "musicAuthor": "Michael Patrick Kelly",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048518e343a3bae0daf062bcb5c88",
+      "musicTitle": "The One",
+      "radio": "Fun Rádio",
+      "startTime": "00:30"
+    },
+    "recorded_at": "2025-12-08T00:31:11.059988+01:00",
+    "raw_valid": true,
+    "song_session_id": "8c3ccea3-ba03-447f-aea4-3eb6e6d9eadc",
+    "duration_ms": 181194,
+    "genre": []
+  },
+  {
+    "last_update": "2025-12-07 23:34:10",
+    "song": {
+      "musicAuthor": "Meduza, James Carter, Elley Duhe, Fast Boy",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485120abd13bf81d8ee406827c38",
+      "musicTitle": "Bad Memories",
+      "radio": "Fun Rádio",
+      "startTime": "00:33"
+    },
+    "recorded_at": "2025-12-08T00:34:11.262390+01:00",
+    "raw_valid": true,
+    "song_session_id": "aba2e1ae-0486-48b2-bf03-e20fbf3de3f9",
+    "duration_ms": 148629,
+    "genre": []
+  },
+  {
+    "last_update": "2025-12-07 23:36:10",
+    "song": {
+      "musicAuthor": "Shakira",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851c12c89811b9b0a71372788b7",
+      "musicTitle": "Zoo (From \"Zoomania 2\")",
+      "radio": "Fun Rádio",
+      "startTime": "00:35"
+    },
+    "recorded_at": "2025-12-08T00:36:11.397852+01:00",
+    "raw_valid": true,
+    "song_session_id": "36c12f05-10ee-4a81-95b0-e1bc4a6d182f",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "last_update": "2025-12-07 23:39:11",
+    "song": {
+      "musicAuthor": "Kryštof & Karel Gott",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485177da90bb82bf61d0292cdb3a",
+      "musicTitle": "Vánoční",
+      "radio": "Fun Rádio",
+      "startTime": "00:38"
+    },
+    "recorded_at": "2025-12-08T00:39:11.614923+01:00",
+    "raw_valid": true,
+    "song_session_id": "d546247b-67d9-498c-a3ce-0aed45d301f7",
+    "duration_ms": 334944,
+    "genre": []
+  },
+  {
+    "last_update": "2025-12-07 23:44:10",
+    "song": {
+      "musicAuthor": "Hugel & Topic & Arash & Daecolm",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485105005dc483e9f8a73ccc6d3d",
+      "musicTitle": "I Adore You",
+      "radio": "Fun Rádio",
+      "startTime": "00:43"
+    },
+    "recorded_at": "2025-12-08T00:44:11.983629+01:00",
+    "raw_valid": true,
+    "song_session_id": "bc7fb1f1-9495-43c7-a8cd-8fc2f64b692f",
+    "duration_ms": 214000,
+    "genre": []
+  },
+  {
+    "last_update": "2025-12-07 23:47:11",
+    "song": {
+      "musicAuthor": "Sabrina Carpenter",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851062c6573009fdebd43de443b",
+      "musicTitle": "Manchild",
+      "radio": "Fun Rádio",
+      "startTime": "00:46"
+    },
+    "recorded_at": "2025-12-08T00:47:12.156311+01:00",
+    "raw_valid": true,
+    "song_session_id": "ec6e2383-b282-4066-904e-d4bcb0272c2d",
+    "duration_ms": 213645,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "last_update": "2025-12-07 23:50:12",
+    "song": {
+      "musicAuthor": "David Guetta, Alphaville, Ava Max",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851417f8c5927888d7ee97cb05a",
+      "musicTitle": "Forever Young",
+      "radio": "Fun Rádio",
+      "startTime": "00:50"
+    },
+    "recorded_at": "2025-12-08T00:50:12.354258+01:00",
+    "raw_valid": true,
+    "song_session_id": "c8ca5a0b-6bee-44cc-bc4b-b0581e5dd63e",
+    "duration_ms": 156923,
+    "genre": []
+  },
+  {
+    "last_update": "2025-12-07 23:53:12",
+    "song": {
+      "musicAuthor": "Myles Smith",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048510e649703ca325ccaabfe938d",
+      "musicTitle": "Stay (If You Wanna Dance)",
+      "radio": "Fun Rádio",
+      "startTime": "00:52"
+    },
+    "recorded_at": "2025-12-08T00:53:12.537609+01:00",
+    "raw_valid": true,
+    "song_session_id": "ac7c42ec-985a-48ce-b2bf-358c4fb32e12",
+    "duration_ms": 185999,
+    "genre": []
+  },
+  {
+    "last_update": "2025-12-07 23:56:12",
+    "song": {
+      "musicAuthor": "Danzel",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485178eb16dec42311affba53a32",
+      "musicTitle": "Pump It Up!",
+      "radio": "Fun Rádio",
+      "startTime": "00:55"
+    },
+    "recorded_at": "2025-12-08T00:56:12.908791+01:00",
+    "raw_valid": true,
+    "song_session_id": "2fea174c-de34-4175-9ebf-2beaebda1b46",
+    "duration_ms": 226946,
+    "genre": []
+  }
+]

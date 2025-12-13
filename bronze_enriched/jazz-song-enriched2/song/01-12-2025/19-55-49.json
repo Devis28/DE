@@ -1,0 +1,350 @@
+[
+  {
+    "song": {
+      "play_date": "2025-12-01",
+      "play_time": "18:52",
+      "artist": [
+        "Vendla"
+      ],
+      "title": "Blues For Mark"
+    },
+    "recorded_at": "2025-12-01T18:55:49.942418+01:00",
+    "raw_valid": true,
+    "song_session_id": "780ae63d-014c-4250-a6d3-50d444ff5f90",
+    "duration_ms": 198081,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-12-01",
+      "play_time": "18:55",
+      "artist": [
+        "Sisa Michalidesova"
+      ],
+      "title": "Ljubavali"
+    },
+    "recorded_at": "2025-12-01T19:00:50.633236+01:00",
+    "raw_valid": true,
+    "song_session_id": "5151144a-1847-4e2a-b864-f9c24b5820e0",
+    "duration_ms": 341353,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-12-01",
+      "play_time": "19:04",
+      "artist": [
+        "William Benckert",
+        "uring Johan Tengholm And Jonas Bäckman"
+      ],
+      "title": "Catching The Bus"
+    },
+    "recorded_at": "2025-12-01T19:05:51.309884+01:00",
+    "raw_valid": true,
+    "song_session_id": "9b0ec778-8be2-40b5-a35b-4c5127be8913",
+    "duration_ms": 132883,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-12-01",
+      "play_time": "19:06",
+      "artist": [
+        "Ennio Máno"
+      ],
+      "title": "Neroli"
+    },
+    "recorded_at": "2025-12-01T19:10:52.209923+01:00",
+    "raw_valid": true,
+    "song_session_id": "1d1f0c8d-213c-4d09-995e-e630ee7b4ad4",
+    "duration_ms": 244339,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-12-01",
+      "play_time": "19:12",
+      "artist": [
+        "Chat Baker"
+      ],
+      "title": "I Get Along Without You Very Well (Except Sometimes)"
+    },
+    "recorded_at": "2025-12-01T19:15:52.894534+01:00",
+    "raw_valid": true,
+    "song_session_id": "067f2f0b-7764-42e1-b2e4-14f7ca24e49b",
+    "duration_ms": 179640,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-12-01",
+      "play_time": "19:19",
+      "artist": [
+        "Madeleine Peyroux"
+      ],
+      "title": "Careless Love"
+    },
+    "recorded_at": "2025-12-01T19:20:53.769622+01:00",
+    "raw_valid": true,
+    "song_session_id": "c479ec54-5e3d-4c3d-b077-0f0142c027cb",
+    "duration_ms": 229520,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-12-01",
+      "play_time": "19:23",
+      "artist": [
+        "Charlie Parker Quartet"
+      ],
+      "title": "Cosmic Rays"
+    },
+    "recorded_at": "2025-12-01T19:25:54.450086+01:00",
+    "raw_valid": true,
+    "song_session_id": "f13640f1-3720-4843-97d0-ce8e71e3ca30",
+    "duration_ms": 186373,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-12-01",
+      "play_time": "19:26",
+      "artist": [
+        "Jamie Cullum"
+      ],
+      "title": "My Yard"
+    },
+    "recorded_at": "2025-12-01T19:30:55.129708+01:00",
+    "raw_valid": true,
+    "song_session_id": "2e8407b3-aecd-4ec9-aa19-567441971054",
+    "duration_ms": 249493,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-12-01",
+      "play_time": "19:34",
+      "artist": [
+        "Brad Mehldau"
+      ],
+      "title": "I Am The Walrus"
+    },
+    "recorded_at": "2025-12-01T19:35:55.830994+01:00",
+    "raw_valid": true,
+    "song_session_id": "77b724d2-1979-4315-b79b-0c0df09d34b7",
+    "duration_ms": 254573,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-12-01",
+      "play_time": "19:39",
+      "artist": [
+        "Denis Gerhardt"
+      ],
+      "title": "I'm Fit"
+    },
+    "recorded_at": "2025-12-01T19:40:56.563035+01:00",
+    "raw_valid": true,
+    "song_session_id": "677b208e-9ac3-4a8f-81ca-c1c876720e70",
+    "duration_ms": 216000,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-12-01",
+      "play_time": "19:42",
+      "artist": [
+        "Soulstance"
+      ],
+      "title": "No Problem"
+    },
+    "recorded_at": "2025-12-01T19:45:57.250386+01:00",
+    "raw_valid": true,
+    "song_session_id": "e9d7d031-0cce-477a-854d-2b26de0f1efc",
+    "duration_ms": 215099,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-12-01",
+      "play_time": "19:49",
+      "artist": [
+        "Erroll Garner"
+      ],
+      "title": "Sweet And Lovely"
+    },
+    "recorded_at": "2025-12-01T19:50:57.935796+01:00",
+    "raw_valid": true,
+    "song_session_id": "354bd330-5c47-4a47-8f87-ecf1fd2c98e3",
+    "duration_ms": 252096,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-12-01",
+      "play_time": "19:53",
+      "artist": [
+        "Gwyneth Herbert"
+      ],
+      "title": "Almost Like Being In Love"
+    },
+    "recorded_at": "2025-12-01T19:55:58.617337+01:00",
+    "raw_valid": true,
+    "song_session_id": "dd23c0da-7ee2-48a6-88c0-db72bafa3f8a",
+    "duration_ms": 177186,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-12-01",
+      "play_time": "19:59",
+      "artist": [
+        "1705"
+      ],
+      "title": "Zone"
+    },
+    "recorded_at": "2025-12-01T20:00:59.299528+01:00",
+    "raw_valid": true,
+    "song_session_id": "77e3882c-2af7-4549-bfca-e9bc2280a51a",
+    "duration_ms": 233387,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-12-01",
+      "play_time": "20:03",
+      "artist": [
+        "Man Sueto"
+      ],
+      "title": "Suono Vecchio"
+    },
+    "recorded_at": "2025-12-01T20:05:59.976352+01:00",
+    "raw_valid": true,
+    "song_session_id": "992656ed-690c-413e-88d1-0dfdaff4466d",
+    "duration_ms": 325906,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-12-01",
+      "play_time": "20:08",
+      "artist": [
+        "Ľuboš Šrámek",
+        "Nikolaj Nikitin"
+      ],
+      "title": "Prelude"
+    },
+    "recorded_at": "2025-12-01T20:11:00.660015+01:00",
+    "raw_valid": true,
+    "song_session_id": "03a91b95-b8c6-4838-afb5-0ed02a5285c2",
+    "duration_ms": 198413,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-12-01",
+      "play_time": "20:11",
+      "artist": [
+        "Sadao Watanabe"
+      ],
+      "title": "Where You At"
+    },
+    "recorded_at": "2025-12-01T20:16:01.348660+01:00",
+    "raw_valid": true,
+    "song_session_id": "977f0640-4c83-400d-a0cc-0e6840312b60",
+    "duration_ms": 319507,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-12-01",
+      "play_time": "20:19",
+      "artist": [
+        "Count Basie",
+        "His Orchestra"
+      ],
+      "title": "Easy Go"
+    },
+    "recorded_at": "2025-12-01T20:21:02.040824+01:00",
+    "raw_valid": true,
+    "song_session_id": "334d6d48-58bd-4638-aa4a-0ac76419d411",
+    "duration_ms": 343240,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-12-01",
+      "play_time": "20:24",
+      "artist": [
+        "Young Slovak Jazz Generation"
+      ],
+      "title": "Option"
+    },
+    "recorded_at": "2025-12-01T20:26:02.723274+01:00",
+    "raw_valid": true,
+    "song_session_id": "abfa618f-6f4c-479d-9795-3fe7f4a364da",
+    "duration_ms": 363000,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-12-01",
+      "play_time": "20:31",
+      "artist": [
+        "Gogo Penguin"
+      ],
+      "title": "Fading (Live From Old Granada Studios)"
+    },
+    "recorded_at": "2025-12-01T20:36:04.074495+01:00",
+    "raw_valid": true,
+    "song_session_id": "ba41f243-d8da-4bda-a5bb-375c2721b7db",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-12-01",
+      "play_time": "20:37",
+      "artist": [
+        "Peter Lipa"
+      ],
+      "title": "Mám Túžbu"
+    },
+    "recorded_at": "2025-12-01T20:41:04.752977+01:00",
+    "raw_valid": true,
+    "song_session_id": "2063f9b1-7fbb-4aa1-b942-b39ce2940a3a",
+    "duration_ms": 308000,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-12-01",
+      "play_time": "20:41",
+      "artist": [
+        "Herbie Hancock"
+      ],
+      "title": "4 A.M."
+    },
+    "recorded_at": "2025-12-01T20:46:05.424726+01:00",
+    "raw_valid": true,
+    "song_session_id": "0dd2d90a-7ee6-4b1d-a211-db94db395e7b",
+    "duration_ms": 323427,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-12-01",
+      "play_time": "20:46",
+      "artist": [
+        "Lukas Oravec Orchestra"
+      ],
+      "title": "Blues 218"
+    },
+    "recorded_at": "2025-12-01T20:51:06.106251+01:00",
+    "raw_valid": true,
+    "song_session_id": "5cc523ff-a5ce-430c-b467-626f7c848fbf",
+    "duration_ms": 552493,
+    "genre": []
+  }
+]

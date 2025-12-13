@@ -1,0 +1,473 @@
+[
+  {
+    "song": "Too Sweet",
+    "artists": [
+      "Hozier"
+    ],
+    "isrc": "IEACJ2300335",
+    "start_time": "2025-12-06 19:04:18",
+    "radio": "expres",
+    "recorded_at": "2025-12-06T19:04:52.761930+01:00",
+    "raw_valid": true,
+    "song_session_id": "be764b26-310d-4ebc-959a-2c7747ce829e",
+    "duration_ms": 251424,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Ak Nie Si Moja",
+    "artists": [
+      "Vaso Patejdl"
+    ],
+    "isrc": "SKA128676213",
+    "start_time": "2025-12-06 19:08:35",
+    "radio": "expres",
+    "recorded_at": "2025-12-06T19:08:51.102810+01:00",
+    "raw_valid": true,
+    "song_session_id": "7c48ff06-2b95-4007-a09b-594fe2932043",
+    "duration_ms": 252013,
+    "genre": []
+  },
+  {
+    "song": "Mystical Magical",
+    "artists": [
+      "Benson Boone"
+    ],
+    "isrc": "USWB12500844",
+    "start_time": "2025-12-06 19:12:38",
+    "radio": "expres",
+    "recorded_at": "2025-12-06T19:13:14.741269+01:00",
+    "raw_valid": true,
+    "song_session_id": "de3cf6e6-996b-4d04-8425-33122996086d",
+    "duration_ms": 165746,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Cesta",
+    "artists": [
+      "Krystof",
+      "Tomas Klus"
+    ],
+    "isrc": "CZUM71200138",
+    "start_time": "2025-12-06 19:15:22",
+    "radio": "expres",
+    "recorded_at": "2025-12-06T19:15:57.120613+01:00",
+    "raw_valid": true,
+    "song_session_id": "41df4c7d-4391-46bf-bfea-685fe632f625",
+    "duration_ms": 349500,
+    "genre": []
+  },
+  {
+    "song": "Mad",
+    "artists": [
+      "Martin Garrix",
+      "Lauv"
+    ],
+    "isrc": "NLM5S2502535",
+    "start_time": "2025-12-06 19:19:36",
+    "radio": "expres",
+    "recorded_at": "2025-12-06T19:19:55.322320+01:00",
+    "raw_valid": true,
+    "song_session_id": "d5fdd8ea-c349-4b1c-919f-59571f68048b",
+    "duration_ms": 199804,
+    "genre": [
+      "edm"
+    ]
+  },
+  {
+    "song": "Houdini",
+    "artists": [
+      "Dua Lipa"
+    ],
+    "isrc": "GBAHT2301246",
+    "start_time": "2025-12-06 19:23:19",
+    "radio": "expres",
+    "recorded_at": "2025-12-06T19:23:38.385623+01:00",
+    "raw_valid": true,
+    "song_session_id": "806c674c-1809-45c8-b9c0-f8845d6540d3",
+    "duration_ms": 185917,
+    "genre": [
+      "electronic"
+    ]
+  },
+  {
+    "song": "Do They Know Its Christmas?",
+    "artists": [
+      "Band Aid"
+    ],
+    "isrc": "GBF088400001",
+    "start_time": "2025-12-06 19:26:28",
+    "radio": "expres",
+    "recorded_at": "2025-12-06T19:27:01.163397+01:00",
+    "raw_valid": true,
+    "song_session_id": "d0db34c1-b0de-45b7-8d0c-965426afc621",
+    "duration_ms": 222533,
+    "genre": [
+      "christmas"
+    ]
+  },
+  {
+    "song": "Undressed",
+    "artists": [
+      "Sombr"
+    ],
+    "isrc": "USWB12500737",
+    "start_time": "2025-12-06 19:31:53",
+    "radio": "expres",
+    "recorded_at": "2025-12-06T19:32:20.450440+01:00",
+    "raw_valid": true,
+    "song_session_id": "3b1dc070-042d-4ec9-8a63-ccef03b647e1",
+    "duration_ms": 182088,
+    "genre": [
+      "indie pop"
+    ]
+  },
+  {
+    "song": "Neobzerajte Sa, Pani Lotova",
+    "artists": [
+      "Elan"
+    ],
+    "isrc": "SKA128678704",
+    "start_time": "2025-12-06 19:35:04",
+    "radio": "expres",
+    "recorded_at": "2025-12-06T19:35:23.064000+01:00",
+    "raw_valid": true,
+    "song_session_id": "155badf1-1a3f-4a68-b22b-73aaeca38090",
+    "duration_ms": 164893,
+    "genre": []
+  },
+  {
+    "song": "Its My Life",
+    "artists": [
+      "Dr. Alban"
+    ],
+    "isrc": "DEA819200287",
+    "start_time": "2025-12-06 19:37:48",
+    "radio": "expres",
+    "recorded_at": "2025-12-06T19:38:25.658590+01:00",
+    "raw_valid": true,
+    "song_session_id": "af4ea086-605a-445d-9e8f-77e0ad51ff9f",
+    "duration_ms": 243133,
+    "genre": [
+      "trance"
+    ]
+  },
+  {
+    "song": "Love Me Not",
+    "artists": [
+      "Ravyn Lenae"
+    ],
+    "isrc": "USAT22401137",
+    "start_time": "2025-12-06 19:41:55",
+    "radio": "expres",
+    "recorded_at": "2025-12-06T19:42:23.895601+01:00",
+    "raw_valid": true,
+    "song_session_id": "807985ec-1cc8-4efe-a6ff-4d8b050160f0",
+    "duration_ms": 213466,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Locked Out Of Heaven",
+    "artists": [
+      "Bruno Mars"
+    ],
+    "isrc": "USAT21203287",
+    "start_time": "2025-12-06 19:45:13",
+    "radio": "expres",
+    "recorded_at": "2025-12-06T19:45:46.636916+01:00",
+    "raw_valid": true,
+    "song_session_id": "c4d02b05-8e77-48f2-a287-600c0a9b41c0",
+    "duration_ms": 233478,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Ordinary",
+    "artists": [
+      "Alex Warren"
+    ],
+    "isrc": "USAT22500463",
+    "start_time": "2025-12-06 19:49:09",
+    "radio": "expres",
+    "recorded_at": "2025-12-06T19:49:29.838523+01:00",
+    "raw_valid": true,
+    "song_session_id": "c4e2cb20-ded5-4798-9cc6-9ee4f8828111",
+    "duration_ms": 186964,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Zoo",
+    "artists": [
+      "Shakira"
+    ],
+    "isrc": "USWD12538420",
+    "start_time": "2025-12-06 19:52:08",
+    "radio": "expres",
+    "recorded_at": "2025-12-06T19:52:32.348827+01:00",
+    "raw_valid": true,
+    "song_session_id": "1dcf2013-16e2-4526-9073-5553fab6e837",
+    "duration_ms": 190822,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Srdce Nehasnou",
+    "artists": [
+      "Karel Gott",
+      "Charlotte Ella Gottova"
+    ],
+    "isrc": "CZA161900335",
+    "start_time": "2025-12-06 19:55:46",
+    "radio": "expres",
+    "recorded_at": "2025-12-06T19:56:10.316684+01:00",
+    "raw_valid": true,
+    "song_session_id": "7fec0b0c-3aa8-487f-8b53-c301ead88f32",
+    "duration_ms": 228667,
+    "genre": [
+      "schlager"
+    ]
+  },
+  {
+    "song": "The Fate Of Ophelia",
+    "artists": [
+      "Taylor Swift"
+    ],
+    "isrc": "USUG12506436",
+    "start_time": "2025-12-06 20:04:25",
+    "radio": "expres",
+    "recorded_at": "2025-12-06T20:04:52.123081+01:00",
+    "raw_valid": true,
+    "song_session_id": "cd8e1b6e-6f91-4f6a-98b6-5eb746c82502",
+    "duration_ms": 226073,
+    "genre": [
+      "electronic"
+    ]
+  },
+  {
+    "song": "Drzim Ti Miesto",
+    "artists": [
+      "Team"
+    ],
+    "isrc": "SKA129031212",
+    "start_time": "2025-12-06 20:08:22",
+    "radio": "expres",
+    "recorded_at": "2025-12-06T20:08:55.827102+01:00",
+    "raw_valid": true,
+    "song_session_id": "39dfab0c-359b-49ff-bbf8-4fb919a05f22",
+    "duration_ms": 243640,
+    "genre": []
+  },
+  {
+    "song": "All I Know",
+    "artists": [
+      "Rudimental",
+      "Khalid"
+    ],
+    "isrc": "GBARL2500365",
+    "start_time": "2025-12-06 20:12:27",
+    "radio": "expres",
+    "recorded_at": "2025-12-06T20:12:59.100536+01:00",
+    "raw_valid": true,
+    "song_session_id": "5ba67f5e-cd8e-45d3-addf-c7174759ddc2",
+    "duration_ms": 176046,
+    "genre": []
+  },
+  {
+    "song": "Love Me Like You Do",
+    "artists": [
+      "Ellie Goulding"
+    ],
+    "isrc": "GBUM71406823",
+    "start_time": "2025-12-06 20:15:22",
+    "radio": "expres",
+    "recorded_at": "2025-12-06T20:15:56.697408+01:00",
+    "raw_valid": true,
+    "song_session_id": "a9ccf5c4-47a0-4148-a522-04b4ef13cca5",
+    "duration_ms": 253279,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Where Is My Husband",
+    "artists": [
+      "Raye"
+    ],
+    "isrc": "QMFME2535037",
+    "start_time": "2025-12-06 20:19:09",
+    "radio": "expres",
+    "recorded_at": "2025-12-06T20:19:39.794441+01:00",
+    "raw_valid": true,
+    "song_session_id": "13cda0b9-be06-43e8-b37f-39ff98a3746d",
+    "duration_ms": 196795,
+    "genre": [
+      "offizielle charts"
+    ]
+  },
+  {
+    "song": "The Sound Of Silence",
+    "artists": [
+      "Disturbed"
+    ],
+    "isrc": "USRE12400063",
+    "start_time": "2025-12-06 20:22:46",
+    "radio": "expres",
+    "recorded_at": "2025-12-06T20:23:22.989562+01:00",
+    "raw_valid": true,
+    "song_session_id": "e48b3734-be57-4fcf-a18f-e625b62bbfba",
+    "duration_ms": 185238,
+    "genre": [
+      "metal"
+    ]
+  },
+  {
+    "song": "All I Want For Christmas Is You",
+    "artists": [
+      "Mariah Carey"
+    ],
+    "isrc": "USSM19400325",
+    "start_time": "2025-12-06 20:25:50",
+    "radio": "expres",
+    "recorded_at": "2025-12-06T20:26:25.605311+01:00",
+    "raw_valid": true,
+    "song_session_id": "d98e6818-6c6b-4240-8e47-0471ab81118d",
+    "duration_ms": 241853,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Pride",
+    "artists": [
+      "Felix Jaehn",
+      "Jhart"
+    ],
+    "isrc": "DEUM72503423",
+    "start_time": "2025-12-06 20:30:10",
+    "radio": "expres",
+    "recorded_at": "2025-12-06T20:30:44.188136+01:00",
+    "raw_valid": true,
+    "song_session_id": "aefb0f61-abd6-4bf7-be29-987057784ca6",
+    "duration_ms": 158150,
+    "genre": [
+      "tropical house"
+    ]
+  },
+  {
+    "song": "The Final Countdown",
+    "artists": [
+      "Europe"
+    ],
+    "isrc": "USSM18600196",
+    "start_time": "2025-12-06 20:32:58",
+    "radio": "expres",
+    "recorded_at": "2025-12-06T20:33:26.636868+01:00",
+    "raw_valid": true,
+    "song_session_id": "7e41e05f-c0cf-42ef-ad67-94fbadaaf2a2",
+    "duration_ms": 311034,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Stay",
+    "artists": [
+      "Rihanna"
+    ],
+    "isrc": "USUM71214758",
+    "start_time": "2025-12-06 20:36:48",
+    "radio": "expres",
+    "recorded_at": "2025-12-06T20:37:09.707346+01:00",
+    "raw_valid": true,
+    "song_session_id": "446ad773-a219-44bc-90e7-1477202de73f",
+    "duration_ms": 240706,
+    "genre": [
+      "electronic"
+    ]
+  },
+  {
+    "song": "Blink Twice",
+    "artists": [
+      "Shaboozey",
+      "Myles Smith"
+    ],
+    "isrc": "USUYG1717098",
+    "start_time": "2025-12-06 20:40:52",
+    "radio": "expres",
+    "recorded_at": "2025-12-06T20:41:28.236403+01:00",
+    "raw_valid": true,
+    "song_session_id": "b749d31c-5c85-4c57-8b41-fbab8fe7e24b",
+    "duration_ms": 156721,
+    "genre": []
+  },
+  {
+    "song": "Ona Je Madona",
+    "artists": [
+      "Robo Grigorov"
+    ],
+    "isrc": "TCAEZ2066102",
+    "start_time": "2025-12-06 20:43:31",
+    "radio": "expres",
+    "recorded_at": "2025-12-06T20:43:50.267144+01:00",
+    "raw_valid": true,
+    "song_session_id": "6cfe9675-5800-4fbb-9bef-1e20b04e5a55",
+    "duration_ms": 181186,
+    "genre": []
+  },
+  {
+    "song": "My Oh My",
+    "artists": [
+      "Ava Max"
+    ],
+    "isrc": "USAT22401759",
+    "start_time": "2025-12-06 20:46:27",
+    "radio": "expres",
+    "recorded_at": "2025-12-06T20:46:52.738055+01:00",
+    "raw_valid": true,
+    "song_session_id": "d22c4c26-ff06-4ff9-9421-3ba23ead66a0",
+    "duration_ms": 156155,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Home",
+    "artists": [
+      "Glockenbach",
+      "Tom Walker"
+    ],
+    "isrc": "DECE72502186",
+    "start_time": "2025-12-06 20:48:56",
+    "radio": "expres",
+    "recorded_at": "2025-12-06T20:49:29.904686+01:00",
+    "raw_valid": true,
+    "song_session_id": "a175c027-b36c-4764-9e5f-4025d2b52e6b",
+    "duration_ms": 196985,
+    "genre": []
+  },
+  {
+    "song": "The Show Must Go On",
+    "artists": [
+      "Queen"
+    ],
+    "isrc": "GBUM71106221",
+    "start_time": "2025-12-06 20:52:24",
+    "radio": "expres",
+    "recorded_at": "2025-12-06T20:52:52.677500+01:00",
+    "raw_valid": true,
+    "song_session_id": "239be4b2-7184-450e-ac26-d793838518f9",
+    "duration_ms": 277826,
+    "genre": [
+      "rock"
+    ]
+  }
+]

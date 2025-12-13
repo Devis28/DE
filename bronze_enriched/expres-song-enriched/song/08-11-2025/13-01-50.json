@@ -1,0 +1,477 @@
+[
+  {
+    "song": "Kiss Me",
+    "artists": [
+      "Dermot Kennedy"
+    ],
+    "isrc": "USUG12201963",
+    "start_time": "2025-11-08 12:05:36",
+    "radio": "expres",
+    "recorded_at": "2025-11-08T12:06:02.115170+01:00",
+    "raw_valid": true,
+    "song_session_id": "ae9d1dfc-2cc1-4d76-9cef-fd949d909384",
+    "duration_ms": 229436,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Michaela",
+    "artists": [
+      "Hex"
+    ],
+    "isrc": "SKA010211104",
+    "start_time": "2025-11-08 12:09:26",
+    "radio": "expres",
+    "recorded_at": "2025-11-08T12:09:50.471583+01:00",
+    "raw_valid": true,
+    "song_session_id": "20dfd3e8-b6ec-489f-bf38-d2d054a960b3",
+    "duration_ms": 219026,
+    "genre": []
+  },
+  {
+    "song": "Be Mine",
+    "artists": [
+      "Kamrad"
+    ],
+    "isrc": "DE1NJ2500035",
+    "start_time": "2025-11-08 12:12:35",
+    "radio": "expres",
+    "recorded_at": "2025-11-08T12:12:43.381024+01:00",
+    "raw_valid": true,
+    "song_session_id": "9d03940d-3ac4-4cb9-8121-abc0d2d7b504",
+    "duration_ms": 156463,
+    "genre": []
+  },
+  {
+    "song": "Bad Ideas",
+    "artists": [
+      "Alle Farben"
+    ],
+    "isrc": "DEE861600181",
+    "start_time": "2025-11-08 12:15:12",
+    "radio": "expres",
+    "recorded_at": "2025-11-08T12:15:26.000859+01:00",
+    "raw_valid": true,
+    "song_session_id": "048c980f-62b1-44e9-9d89-312275c083f2",
+    "duration_ms": 165960,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Feelslikeimfallinginlove",
+    "artists": [
+      "Coldplay"
+    ],
+    "isrc": "GBAYE2400676",
+    "start_time": "2025-11-08 12:18:04",
+    "radio": "expres",
+    "recorded_at": "2025-11-08T12:18:30.729542+01:00",
+    "raw_valid": true,
+    "song_session_id": "6520d996-c0b7-4cf1-b0d4-43bf6bd4c94f",
+    "duration_ms": 237803,
+    "genre": [
+      "alternative rock"
+    ]
+  },
+  {
+    "song": "Aj Tak Sme Frajeri",
+    "artists": [
+      "Peter Nagy"
+    ],
+    "isrc": "SKA128915407",
+    "start_time": "2025-11-08 12:21:52",
+    "radio": "expres",
+    "recorded_at": "2025-11-08T12:22:04.031355+01:00",
+    "raw_valid": true,
+    "song_session_id": "5b715339-c803-422d-8935-07d26d829bcf",
+    "duration_ms": 203053,
+    "genre": []
+  },
+  {
+    "song": "Used To Be Young",
+    "artists": [
+      "Miley Cyrus"
+    ],
+    "isrc": "USSM12306461",
+    "start_time": "2025-11-08 12:25:18",
+    "radio": "expres",
+    "recorded_at": "2025-11-08T12:25:27.731765+01:00",
+    "raw_valid": true,
+    "song_session_id": "6f0e4ab1-853c-4ef8-bf2a-69ef53d073bb",
+    "duration_ms": 191185,
+    "genre": []
+  },
+  {
+    "song": "The One",
+    "artists": [
+      "Michael Patrick Kelly"
+    ],
+    "isrc": "DEE862500476",
+    "start_time": "2025-11-08 12:31:27",
+    "radio": "expres",
+    "recorded_at": "2025-11-08T12:31:48.520530+01:00",
+    "raw_valid": true,
+    "song_session_id": "c306c0b6-dcd7-4408-9553-4972b134b2cb",
+    "duration_ms": 181194,
+    "genre": []
+  },
+  {
+    "song": "V Lete ...",
+    "artists": [
+      "Imt Smile"
+    ],
+    "isrc": "SKA012100245",
+    "start_time": "2025-11-08 12:34:27",
+    "radio": "expres",
+    "recorded_at": "2025-11-08T12:34:51.560861+01:00",
+    "raw_valid": true,
+    "song_session_id": "386c67bb-61c8-4bcd-931a-a26753110e92",
+    "duration_ms": 202000,
+    "genre": []
+  },
+  {
+    "song": "Not Afraid",
+    "artists": [
+      "Eminem"
+    ],
+    "isrc": "USUM71011769",
+    "start_time": "2025-11-08 12:37:40",
+    "radio": "expres",
+    "recorded_at": "2025-11-08T12:37:49.834167+01:00",
+    "raw_valid": true,
+    "song_session_id": "7f947509-0833-4960-91fb-88a5d17b3ccb",
+    "duration_ms": 249266,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Afterlife",
+    "artists": [
+      "Michael Schulte"
+    ],
+    "isrc": "DECE72500509",
+    "start_time": "2025-11-08 12:41:59",
+    "radio": "expres",
+    "recorded_at": "2025-11-08T12:42:08.612138+01:00",
+    "raw_valid": true,
+    "song_session_id": "debe657e-ae71-4baf-b07a-08f436844157",
+    "duration_ms": 160120,
+    "genre": []
+  },
+  {
+    "song": "Numb",
+    "artists": [
+      "Linkin Park"
+    ],
+    "isrc": "USWB10300474",
+    "start_time": "2025-11-08 12:44:47",
+    "radio": "expres",
+    "recorded_at": "2025-11-08T12:45:16.908441+01:00",
+    "raw_valid": true,
+    "song_session_id": "43554bea-1bf0-4cfa-abdb-552d5e4849dd",
+    "duration_ms": 187520,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Forget Me",
+    "artists": [
+      "Lewis Capaldi"
+    ],
+    "isrc": "DEUM72204717",
+    "start_time": "2025-11-08 12:47:56",
+    "radio": "expres",
+    "recorded_at": "2025-11-08T12:48:16.310343+01:00",
+    "raw_valid": true,
+    "song_session_id": "df36c731-76c6-4abb-94cb-6908c5ae838f",
+    "duration_ms": 203666,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Do Neba",
+    "artists": [
+      "Dara Rolins"
+    ],
+    "isrc": "QZYFZ2505251",
+    "start_time": "2025-11-08 12:51:16",
+    "radio": "expres",
+    "recorded_at": "2025-11-08T12:51:34.539320+01:00",
+    "raw_valid": true,
+    "song_session_id": "e54249af-d6fa-4191-9d0a-b63dfd6a66f8",
+    "duration_ms": 204253,
+    "genre": []
+  },
+  {
+    "song": "Cover Me In Sunshine",
+    "artists": [
+      "Pink",
+      "Willow Sage Hart"
+    ],
+    "isrc": "USRC12100138",
+    "start_time": "2025-11-08 12:54:50",
+    "radio": "expres",
+    "recorded_at": "2025-11-08T12:55:22.816046+01:00",
+    "raw_valid": true,
+    "song_session_id": "6301281c-7b71-442b-9c82-0897d8644427",
+    "duration_ms": 138581,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Kamaratka Nadej",
+    "artists": [
+      "Vaso Patejdl"
+    ],
+    "isrc": "SKA128919702",
+    "start_time": "2025-11-08 12:57:20",
+    "radio": "expres",
+    "recorded_at": "2025-11-08T12:57:35.387731+01:00",
+    "raw_valid": true,
+    "song_session_id": "a0f6f7d4-7b1e-42aa-9f80-2a44e0fd0407",
+    "duration_ms": 192506,
+    "genre": []
+  },
+  {
+    "song": "Glide",
+    "artists": [
+      "Neiked",
+      "Portugal The Man"
+    ],
+    "isrc": "DEE862500421",
+    "start_time": "2025-11-08 13:05:57",
+    "radio": "expres",
+    "recorded_at": "2025-11-08T13:06:17.666221+01:00",
+    "raw_valid": true,
+    "song_session_id": "86422383-3c0c-46dd-bad7-96bc5742cfac",
+    "duration_ms": 184405,
+    "genre": []
+  },
+  {
+    "song": "Kym Ta Mam",
+    "artists": [
+      "Robo Grigorov"
+    ],
+    "isrc": "TCAEG1906263",
+    "start_time": "2025-11-08 13:09:01",
+    "radio": "expres",
+    "recorded_at": "2025-11-08T13:09:23.411082+01:00",
+    "raw_valid": true,
+    "song_session_id": "ca489f7f-6585-4b39-a1dc-cad3983768c0",
+    "duration_ms": 261106,
+    "genre": []
+  },
+  {
+    "song": "Head Down",
+    "artists": [
+      "Lost Frequencies",
+      "Bastille"
+    ],
+    "isrc": "BEHP42300071",
+    "start_time": "2025-11-08 13:12:42",
+    "radio": "expres",
+    "recorded_at": "2025-11-08T13:12:56.776721+01:00",
+    "raw_valid": true,
+    "song_session_id": "588ffbb4-42c7-4ffe-b871-d54d813f6b26",
+    "duration_ms": 173888,
+    "genre": [
+      "alternative rock"
+    ]
+  },
+  {
+    "song": "Hall Of Fame",
+    "artists": [
+      "Script",
+      "Will I Am"
+    ],
+    "isrc": "GBARL1201055",
+    "start_time": "2025-11-08 13:15:43",
+    "radio": "expres",
+    "recorded_at": "2025-11-08T13:16:05.615258+01:00",
+    "raw_valid": true,
+    "song_session_id": "aca32a6a-6336-462e-a867-40019ec3ccf1",
+    "duration_ms": 201240,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "The Fate Of Ophelia",
+    "artists": [
+      "Taylor Swift"
+    ],
+    "isrc": "USUG12506436",
+    "start_time": "2025-11-08 13:18:56",
+    "radio": "expres",
+    "recorded_at": "2025-11-08T13:19:39.840592+01:00",
+    "raw_valid": true,
+    "song_session_id": "d23640ce-19ef-4dbb-9262-dd026cb9b395",
+    "duration_ms": 226073,
+    "genre": [
+      "electronic"
+    ]
+  },
+  {
+    "song": "Everybody",
+    "artists": [
+      "Dj Bobo"
+    ],
+    "isrc": "DEMI60600006",
+    "start_time": "2025-11-08 13:22:57",
+    "radio": "expres",
+    "recorded_at": "2025-11-08T13:23:19.346824+01:00",
+    "raw_valid": true,
+    "song_session_id": "ab78a2af-e7eb-4009-9573-e70c078ebb19",
+    "duration_ms": 229893,
+    "genre": [
+      "electronic"
+    ]
+  },
+  {
+    "song": "Manchild",
+    "artists": [
+      "Sabrina Carpenter"
+    ],
+    "isrc": "USUM72504354",
+    "start_time": "2025-11-08 13:25:26",
+    "radio": "expres",
+    "recorded_at": "2025-11-08T13:25:41.898997+01:00",
+    "raw_valid": true,
+    "song_session_id": "3f42c6f7-bd57-4ab4-a4ff-72b3a8d5e7e0",
+    "duration_ms": 213645,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Let Me Die",
+    "artists": [
+      "Mark Dann",
+      "Giovanni Ricci"
+    ],
+    "isrc": "US38Y2520370",
+    "start_time": "2025-11-08 13:32:02",
+    "radio": "expres",
+    "recorded_at": "2025-11-08T13:32:24.866661+01:00",
+    "raw_valid": true,
+    "song_session_id": "d3570ebd-d5de-40f1-aa97-b4557267407c",
+    "duration_ms": 147010,
+    "genre": []
+  },
+  {
+    "song": "Whered You Go",
+    "artists": [
+      "Fort Minor",
+      "Holly Brook"
+    ],
+    "isrc": "USWB10504785",
+    "start_time": "2025-11-08 13:34:31",
+    "radio": "expres",
+    "recorded_at": "2025-11-08T13:34:45.875563+01:00",
+    "raw_valid": true,
+    "song_session_id": "efcbaa84-bcdb-4b36-b709-fa13d5ad4d49",
+    "duration_ms": 231866,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Wake Me Up",
+    "artists": [
+      "Avicii",
+      "Aloe Blacc"
+    ],
+    "isrc": "SEUM71301326",
+    "start_time": "2025-11-08 13:38:13",
+    "radio": "expres",
+    "recorded_at": "2025-11-08T13:38:24.610637+01:00",
+    "raw_valid": true,
+    "song_session_id": "69a8c89b-f9c0-4b5a-95ca-0596d8ae435c",
+    "duration_ms": 246813,
+    "genre": [
+      "electronic"
+    ]
+  },
+  {
+    "song": "Head Above Water",
+    "artists": [
+      "Twocolors",
+      "Safri Duo",
+      "Chris De Sarandy"
+    ],
+    "isrc": "DEUM72503698",
+    "start_time": "2025-11-08 13:42:25",
+    "radio": "expres",
+    "recorded_at": "2025-11-08T13:42:43.481415+01:00",
+    "raw_valid": true,
+    "song_session_id": "7405f902-c97d-4593-bd53-1bd20f52a7e9",
+    "duration_ms": 174550,
+    "genre": []
+  },
+  {
+    "song": "Neuc Vtaka Lietat",
+    "artists": [
+      "Richard Muller"
+    ],
+    "isrc": "CZA110111007",
+    "start_time": "2025-11-08 13:45:24",
+    "radio": "expres",
+    "recorded_at": "2025-11-08T13:45:46.508636+01:00",
+    "raw_valid": true,
+    "song_session_id": "7f01e982-cec8-427c-9024-36f3a17060e1",
+    "duration_ms": 226146,
+    "genre": []
+  },
+  {
+    "song": "Alibi",
+    "artists": [
+      "Sevdaliza",
+      "Pabllo Vittar",
+      "Yseult"
+    ],
+    "isrc": "NL47E2400004",
+    "start_time": "2025-11-08 13:49:06",
+    "radio": "expres",
+    "recorded_at": "2025-11-08T13:49:25.907678+01:00",
+    "raw_valid": true,
+    "song_session_id": "0f033966-ad43-49fc-a589-56a31a8e20ea",
+    "duration_ms": 161655,
+    "genre": []
+  },
+  {
+    "song": "Ked Ta Stretnem",
+    "artists": [
+      "Para"
+    ],
+    "isrc": "SKA010400108",
+    "start_time": "2025-11-08 13:51:52",
+    "radio": "expres",
+    "recorded_at": "2025-11-08T13:52:17.384426+01:00",
+    "raw_valid": true,
+    "song_session_id": "e6d954c5-8705-4868-a780-25e7323ec387",
+    "duration_ms": 244906,
+    "genre": []
+  },
+  {
+    "song": "Ritual",
+    "artists": [
+      "Tiesto",
+      "Jonas Blue",
+      "Rita Ora"
+    ],
+    "isrc": "CYA111900146",
+    "start_time": "2025-11-08 13:55:56",
+    "radio": "expres",
+    "recorded_at": "2025-11-08T13:56:05.945367+01:00",
+    "raw_valid": true,
+    "song_session_id": "3750a4cd-f849-4956-84eb-0688e3017c9b",
+    "duration_ms": 198995,
+    "genre": []
+  }
+]

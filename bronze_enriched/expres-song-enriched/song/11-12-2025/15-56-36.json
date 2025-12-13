@@ -1,0 +1,357 @@
+[
+  {
+    "song": "The Fate Of Ophelia",
+    "artists": [
+      "Taylor Swift"
+    ],
+    "isrc": "USUG12506436",
+    "start_time": "2025-12-11 15:07:14",
+    "radio": "expres",
+    "recorded_at": "2025-12-11T15:07:53.807647+01:00",
+    "raw_valid": true,
+    "song_session_id": "ea755b8f-cd5a-42da-b8c6-e64a299e9f0f",
+    "duration_ms": 226073,
+    "genre": [
+      "electronic"
+    ]
+  },
+  {
+    "song": "Higher Power",
+    "artists": [
+      "Coldplay"
+    ],
+    "isrc": "GBAYE2100379",
+    "start_time": "2025-12-11 15:11:04",
+    "radio": "expres",
+    "recorded_at": "2025-12-11T15:11:31.931247+01:00",
+    "raw_valid": true,
+    "song_session_id": "665ecc12-f810-461a-9247-c7ae54dde72e",
+    "duration_ms": 206681,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Zoo",
+    "artists": [
+      "Shakira"
+    ],
+    "isrc": "USWD12538420",
+    "start_time": "2025-12-11 15:14:27",
+    "radio": "expres",
+    "recorded_at": "2025-12-11T15:14:54.888368+01:00",
+    "raw_valid": true,
+    "song_session_id": "3dccdb6d-6ba2-483d-b8fa-01c8176c320c",
+    "duration_ms": 190822,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Eyes Closed",
+    "artists": [
+      "Imagine Dragons"
+    ],
+    "isrc": "USUM72402448",
+    "start_time": "2025-12-11 15:20:42",
+    "radio": "expres",
+    "recorded_at": "2025-12-11T15:21:15.019956+01:00",
+    "raw_valid": true,
+    "song_session_id": "c27c220a-63af-466d-86bc-a462424b1d7e",
+    "duration_ms": 200026,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Srdce Nehasnou",
+    "artists": [
+      "Karel Gott",
+      "Charlotte Ella Gottova"
+    ],
+    "isrc": "CZA161900335",
+    "start_time": "2025-12-11 15:23:35",
+    "radio": "expres",
+    "recorded_at": "2025-12-11T15:23:57.548886+01:00",
+    "raw_valid": true,
+    "song_session_id": "2b8af3c7-58a3-4076-9dbc-121f1b38fc13",
+    "duration_ms": 228667,
+    "genre": []
+  },
+  {
+    "song": "The One",
+    "artists": [
+      "Michael Patrick Kelly"
+    ],
+    "isrc": "DEE862500476",
+    "start_time": "2025-12-11 15:32:47",
+    "radio": "expres",
+    "recorded_at": "2025-12-11T15:33:14.788794+01:00",
+    "raw_valid": true,
+    "song_session_id": "5ad831b7-d6ee-43be-bb7f-c5fbc21272af",
+    "duration_ms": 181194,
+    "genre": []
+  },
+  {
+    "song": "Bed Of Roses",
+    "artists": [
+      "Bon Jovi"
+    ],
+    "isrc": "USPG19290093",
+    "start_time": "2025-12-11 15:35:43",
+    "radio": "expres",
+    "recorded_at": "2025-12-11T15:36:17.597872+01:00",
+    "raw_valid": true,
+    "song_session_id": "94656d59-d4c6-4f02-9740-9f9decd2400d",
+    "duration_ms": 395520,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Sapphire",
+    "artists": [
+      "Ed Sheeran"
+    ],
+    "isrc": "GBAHS2500262",
+    "start_time": "2025-12-11 15:40:13",
+    "radio": "expres",
+    "recorded_at": "2025-12-11T15:40:36.290370+01:00",
+    "raw_valid": true,
+    "song_session_id": "822623bf-c835-4b84-add4-96c97fc4fc1b",
+    "duration_ms": 179082,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Do They Know Its Christmas?",
+    "artists": [
+      "Band Aid"
+    ],
+    "isrc": "GBF088400001",
+    "start_time": "2025-12-11 15:46:27",
+    "radio": "expres",
+    "recorded_at": "2025-12-11T15:47:01.339998+01:00",
+    "raw_valid": true,
+    "song_session_id": "c2e7c001-a396-4db4-9ffe-63d9da0cc163",
+    "duration_ms": 222533,
+    "genre": []
+  },
+  {
+    "song": "Hvezdari",
+    "artists": [
+      "Krystof",
+      "Sima Martausova"
+    ],
+    "isrc": "CZUM71900470",
+    "start_time": "2025-12-11 15:50:27",
+    "radio": "expres",
+    "recorded_at": "2025-12-11T15:50:59.575035+01:00",
+    "raw_valid": true,
+    "song_session_id": "9979c6f2-9bb9-4df1-8053-8be43d9efc71",
+    "duration_ms": 242553,
+    "genre": []
+  },
+  {
+    "song": "Beautiful Things",
+    "artists": [
+      "Benson Boone"
+    ],
+    "isrc": "USWB12307016",
+    "start_time": "2025-12-11 15:54:26",
+    "radio": "expres",
+    "recorded_at": "2025-12-11T15:55:03.093345+01:00",
+    "raw_valid": true,
+    "song_session_id": "c099ceb7-792c-4007-890a-db2548a7e16b",
+    "duration_ms": 180304,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Wonderful Life 25",
+    "artists": [
+      "Hurts",
+      "Purple Disco Machine"
+    ],
+    "isrc": "DEE862500677",
+    "start_time": "2025-12-11 16:06:37",
+    "radio": "expres",
+    "recorded_at": "2025-12-11T16:07:02.294896+01:00",
+    "raw_valid": true,
+    "song_session_id": "ce4d9510-235a-45af-8234-0f5447eec998",
+    "duration_ms": 178658,
+    "genre": []
+  },
+  {
+    "song": "Budapest",
+    "artists": [
+      "George Ezra"
+    ],
+    "isrc": "GBARL1400477",
+    "start_time": "2025-12-11 16:09:35",
+    "radio": "expres",
+    "recorded_at": "2025-12-11T16:10:04.736814+01:00",
+    "raw_valid": true,
+    "song_session_id": "c807e0a4-bd59-4167-92e9-75aeba1bd97a",
+    "duration_ms": 200733,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Save My Love",
+    "artists": [
+      "Marshmello",
+      "Ellie Goulding",
+      "Avaion"
+    ],
+    "isrc": "USUG12504310",
+    "start_time": "2025-12-11 16:12:57",
+    "radio": "expres",
+    "recorded_at": "2025-12-11T16:13:27.432309+01:00",
+    "raw_valid": true,
+    "song_session_id": "81b4e7a0-1f51-451b-9168-3ad00985ab36",
+    "duration_ms": 215555,
+    "genre": []
+  },
+  {
+    "song": "Driving Home For Christmas",
+    "artists": [
+      "Chris Rea"
+    ],
+    "isrc": "GBAHS9904091",
+    "start_time": "2025-12-11 16:19:13",
+    "radio": "expres",
+    "recorded_at": "2025-12-11T16:19:52.461328+01:00",
+    "raw_valid": true,
+    "song_session_id": "d4a44548-645c-4e02-97d7-a84de00bb38b",
+    "duration_ms": 240213,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Flowers",
+    "artists": [
+      "Alle Farben",
+      "Graham Candy",
+      "Lahos"
+    ],
+    "isrc": "DEA622500325",
+    "start_time": "2025-12-11 16:23:10",
+    "radio": "expres",
+    "recorded_at": "2025-12-11T16:23:30.451733+01:00",
+    "raw_valid": true,
+    "song_session_id": "114b7ba3-6104-4ce3-be8e-40722b45b323",
+    "duration_ms": 153103,
+    "genre": []
+  },
+  {
+    "song": "Afterlife",
+    "artists": [
+      "Michael Schulte"
+    ],
+    "isrc": "DECE72500509",
+    "start_time": "2025-12-11 16:33:19",
+    "radio": "expres",
+    "recorded_at": "2025-12-11T16:33:48.406149+01:00",
+    "raw_valid": true,
+    "song_session_id": "978d1aa2-ce99-42cf-9ef4-d46f4e4da914",
+    "duration_ms": 160120,
+    "genre": []
+  },
+  {
+    "song": "All For Love",
+    "artists": [
+      "Bryan Adams",
+      "Rod Stewart",
+      "Sting"
+    ],
+    "isrc": "GBF079441514",
+    "start_time": "2025-12-11 16:35:59",
+    "radio": "expres",
+    "recorded_at": "2025-12-11T16:36:30.791226+01:00",
+    "raw_valid": true,
+    "song_session_id": "1abf9f2e-7c54-4460-b81d-52b2a54b02be",
+    "duration_ms": 324173,
+    "genre": []
+  },
+  {
+    "song": "All I Know",
+    "artists": [
+      "Rudimental",
+      "Khalid"
+    ],
+    "isrc": "GBARL2500365",
+    "start_time": "2025-12-11 16:40:44",
+    "radio": "expres",
+    "recorded_at": "2025-12-11T16:41:14.514401+01:00",
+    "raw_valid": true,
+    "song_session_id": "1b7ed88e-2cd1-4ca1-85ed-0e8d95453cd9",
+    "duration_ms": 176046,
+    "genre": []
+  },
+  {
+    "song": "Birds",
+    "artists": [
+      "Imagine Dragons",
+      "Elisa"
+    ],
+    "isrc": "USUM71911107",
+    "start_time": "2025-12-11 16:43:48",
+    "radio": "expres",
+    "recorded_at": "2025-12-11T16:44:11.968006+01:00",
+    "raw_valid": true,
+    "song_session_id": "98aa8ffc-7841-4f8c-b33f-5f59d26e82e8",
+    "duration_ms": 219434,
+    "genre": []
+  },
+  {
+    "song": "Where Is My Husband",
+    "artists": [
+      "Raye"
+    ],
+    "isrc": "QMFME2535037",
+    "start_time": "2025-12-11 16:47:21",
+    "radio": "expres",
+    "recorded_at": "2025-12-11T16:47:55.067543+01:00",
+    "raw_valid": true,
+    "song_session_id": "164f5da5-8760-45db-9e3e-b59ab20d3c49",
+    "duration_ms": 196795,
+    "genre": [
+      "offizielle charts"
+    ]
+  },
+  {
+    "song": "Simple Life",
+    "artists": [
+      "Leony"
+    ],
+    "isrc": "DEN062400058",
+    "start_time": "2025-12-11 16:51:36",
+    "radio": "expres",
+    "recorded_at": "2025-12-11T16:51:53.259293+01:00",
+    "raw_valid": true,
+    "song_session_id": "742c7be0-1b0e-4c3d-9348-bb90e66ea048",
+    "duration_ms": 153100,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Najkrajsie Vianoce",
+    "artists": [
+      "Imt Smile"
+    ],
+    "isrc": "SKA011000112",
+    "start_time": "2025-12-11 16:54:15",
+    "radio": "expres",
+    "recorded_at": "2025-12-11T16:54:35.875722+01:00",
+    "raw_valid": true,
+    "song_session_id": "bb08a358-ea35-42b8-9fb0-44cca822e5b6",
+    "duration_ms": 180932,
+    "genre": []
+  }
+]

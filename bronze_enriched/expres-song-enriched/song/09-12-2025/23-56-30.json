@@ -1,0 +1,495 @@
+[
+  {
+    "song": "Houdini",
+    "artists": [
+      "Dua Lipa"
+    ],
+    "isrc": "GBAHT2301246",
+    "start_time": "2025-12-09 23:05:07",
+    "radio": "expres",
+    "recorded_at": "2025-12-09T23:05:32.968450+01:00",
+    "raw_valid": true,
+    "song_session_id": "7319a5b7-55c4-45df-af6c-794ab4ccc4c2",
+    "duration_ms": 185917,
+    "genre": [
+      "electronic"
+    ]
+  },
+  {
+    "song": "Love Dont Let Me Go",
+    "artists": [
+      "David Guetta"
+    ],
+    "isrc": "FRZID0100200",
+    "start_time": "2025-12-09 23:08:13",
+    "radio": "expres",
+    "recorded_at": "2025-12-09T23:08:35.495624+01:00",
+    "raw_valid": true,
+    "song_session_id": "aa26cf7f-b2c3-4907-bad6-c7698fd21834",
+    "duration_ms": 216893,
+    "genre": [
+      "electronic"
+    ]
+  },
+  {
+    "song": "The One",
+    "artists": [
+      "Michael Patrick Kelly"
+    ],
+    "isrc": "DEE862500476",
+    "start_time": "2025-12-09 23:11:46",
+    "radio": "expres",
+    "recorded_at": "2025-12-09T23:12:18.630340+01:00",
+    "raw_valid": true,
+    "song_session_id": "53603525-68cb-4bb8-af7e-464d411f1993",
+    "duration_ms": 181194,
+    "genre": []
+  },
+  {
+    "song": "La La La",
+    "artists": [
+      "Naughty Boy",
+      "Sam Smith"
+    ],
+    "isrc": "GBAAA1300148",
+    "start_time": "2025-12-09 23:14:39",
+    "radio": "expres",
+    "recorded_at": "2025-12-09T23:15:00.863286+01:00",
+    "raw_valid": true,
+    "song_session_id": "5b5b6e3d-44af-4e4b-a9a4-f624620ca490",
+    "duration_ms": 220152,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Let Me Die",
+    "artists": [
+      "Mark Dann",
+      "Giovanni Ricci"
+    ],
+    "isrc": "US38Y2520370",
+    "start_time": "2025-12-09 23:18:10",
+    "radio": "expres",
+    "recorded_at": "2025-12-09T23:18:43.860163+01:00",
+    "raw_valid": true,
+    "song_session_id": "01ef4ce6-eee1-4a01-b7d9-fdcba4299ad2",
+    "duration_ms": 147010,
+    "genre": []
+  },
+  {
+    "song": "Leave A Light On",
+    "artists": [
+      "Belinda Carlisle"
+    ],
+    "isrc": "GBAAA8900043",
+    "start_time": "2025-12-09 23:20:32",
+    "radio": "expres",
+    "recorded_at": "2025-12-09T23:21:05.856076+01:00",
+    "raw_valid": true,
+    "song_session_id": "dd7840ee-0e9e-41b9-b967-364e832a7b05",
+    "duration_ms": 278360,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Espresso",
+    "artists": [
+      "Sabrina Carpenter"
+    ],
+    "isrc": "USUM72403305",
+    "start_time": "2025-12-09 23:24:54",
+    "radio": "expres",
+    "recorded_at": "2025-12-09T23:25:29.409002+01:00",
+    "raw_valid": true,
+    "song_session_id": "40cc1038-6404-446b-83ad-5713965a6b79",
+    "duration_ms": 175453,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Vianocna Pohoda",
+    "artists": [
+      "Radio Expres",
+      "Sam Sebou",
+      "Kali"
+    ],
+    "isrc": "CZCZ42400089",
+    "start_time": "2025-12-09 23:27:55",
+    "radio": "expres",
+    "recorded_at": "2025-12-09T23:28:32.040367+01:00",
+    "raw_valid": true,
+    "song_session_id": "31a323f4-9f6a-4e13-87a4-7b2dcddc6e32",
+    "duration_ms": 164833,
+    "genre": []
+  },
+  {
+    "song": "Wonderful Life 25",
+    "artists": [
+      "Hurts",
+      "Purple Disco Machine"
+    ],
+    "isrc": "DEE862500677",
+    "start_time": "2025-12-09 23:31:20",
+    "radio": "expres",
+    "recorded_at": "2025-12-09T23:31:44.681391+01:00",
+    "raw_valid": true,
+    "song_session_id": "76345e33-e962-4751-9f5f-250ef5802f68",
+    "duration_ms": 178658,
+    "genre": []
+  },
+  {
+    "song": "Chlapci V Pasci",
+    "artists": [
+      "Marika Gombitova"
+    ],
+    "isrc": "SKA128673105",
+    "start_time": "2025-12-09 23:34:13",
+    "radio": "expres",
+    "recorded_at": "2025-12-09T23:34:42.199110+01:00",
+    "raw_valid": true,
+    "song_session_id": "4f0c394f-2476-419e-9cb6-7a31df235256",
+    "duration_ms": 210266,
+    "genre": []
+  },
+  {
+    "song": "In The Shadows",
+    "artists": [
+      "Rasmus"
+    ],
+    "isrc": "SEVJH0201601",
+    "start_time": "2025-12-09 23:37:42",
+    "radio": "expres",
+    "recorded_at": "2025-12-09T23:38:04.870669+01:00",
+    "raw_valid": true,
+    "song_session_id": "9e222069-b6af-441a-8a90-56e29ea43f84",
+    "duration_ms": 246933,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Eternity",
+    "artists": [
+      "Alex Warren"
+    ],
+    "isrc": "USAT22503779",
+    "start_time": "2025-12-09 23:41:50",
+    "radio": "expres",
+    "recorded_at": "2025-12-09T23:42:08.143089+01:00",
+    "raw_valid": true,
+    "song_session_id": "3463710f-dadd-4679-9e8c-085b142ccf3d",
+    "duration_ms": 189553,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Hero",
+    "artists": [
+      "Martin Garrix",
+      "Jvke"
+    ],
+    "isrc": "NLM5S2201815",
+    "start_time": "2025-12-09 23:45:04",
+    "radio": "expres",
+    "recorded_at": "2025-12-09T23:45:30.877504+01:00",
+    "raw_valid": true,
+    "song_session_id": "a0deab43-d027-4d73-b606-50193287b571",
+    "duration_ms": 160714,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Ray Of Light",
+    "artists": [
+      "Nico Santos"
+    ],
+    "isrc": "DECE72402394",
+    "start_time": "2025-12-09 23:47:49",
+    "radio": "expres",
+    "recorded_at": "2025-12-09T23:48:13.201639+01:00",
+    "raw_valid": true,
+    "song_session_id": "c6df3346-f948-4a65-ba3c-68d554800a1b",
+    "duration_ms": 176500,
+    "genre": []
+  },
+  {
+    "song": "Prepojeni",
+    "artists": [
+      "Para"
+    ],
+    "isrc": "SKCF92500001",
+    "start_time": "2025-12-09 23:50:42",
+    "radio": "expres",
+    "recorded_at": "2025-12-09T23:51:15.690790+01:00",
+    "raw_valid": true,
+    "song_session_id": "fc263afc-2710-429f-9bed-c615e800a11f",
+    "duration_ms": 185411,
+    "genre": []
+  },
+  {
+    "song": "Manila",
+    "artists": [
+      "Ray Dalton",
+      "Alvaro Soler"
+    ],
+    "isrc": "DEE862102002",
+    "start_time": "2025-12-09 23:54:05",
+    "radio": "expres",
+    "recorded_at": "2025-12-09T23:54:38.497692+01:00",
+    "raw_valid": true,
+    "song_session_id": "3ada17f9-7b86-420c-b690-e790f7cef038",
+    "duration_ms": 144621,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Na Vianoce",
+    "artists": [
+      "Adam Durica"
+    ],
+    "isrc": "SKA011700088",
+    "start_time": "2025-12-09 23:56:31",
+    "radio": "expres",
+    "recorded_at": "2025-12-09T23:57:00.499945+01:00",
+    "raw_valid": true,
+    "song_session_id": "9c420a66-c302-434e-9b5f-ae1786cea96a",
+    "duration_ms": 223319,
+    "genre": []
+  },
+  {
+    "song": "Blink Twice",
+    "artists": [
+      "Shaboozey",
+      "Myles Smith"
+    ],
+    "isrc": "USUYG1717098",
+    "start_time": "2025-12-10 00:04:37",
+    "radio": "expres",
+    "recorded_at": "2025-12-10T00:05:06.846641+01:00",
+    "raw_valid": true,
+    "song_session_id": "46373507-cad9-41bf-be73-52c23628bbb9",
+    "duration_ms": 156721,
+    "genre": []
+  },
+  {
+    "song": "Co Vsetko Sa Moze Stat",
+    "artists": [
+      "Imt Smile"
+    ],
+    "isrc": "SKA011800060",
+    "start_time": "2025-12-10 00:07:22",
+    "radio": "expres",
+    "recorded_at": "2025-12-10T00:07:49.190489+01:00",
+    "raw_valid": true,
+    "song_session_id": "1ce10818-0425-4f94-b6ee-88c5186e1471",
+    "duration_ms": 189043,
+    "genre": []
+  },
+  {
+    "song": "Beautiful Reason",
+    "artists": [
+      "Michael Schulte"
+    ],
+    "isrc": "DECE72400963",
+    "start_time": "2025-12-10 00:10:29",
+    "radio": "expres",
+    "recorded_at": "2025-12-10T00:10:51.629358+01:00",
+    "raw_valid": true,
+    "song_session_id": "84931b38-fb25-4258-b729-6ca6cdaddcf1",
+    "duration_ms": 183586,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Z Vysky",
+    "artists": [
+      "Peter Bic Project"
+    ],
+    "isrc": "SKA011800016",
+    "start_time": "2025-12-10 00:13:35",
+    "radio": "expres",
+    "recorded_at": "2025-12-10T00:13:54.152156+01:00",
+    "raw_valid": true,
+    "song_session_id": "60afa085-13fe-42a2-9610-8e646fae0775",
+    "duration_ms": 196290,
+    "genre": []
+  },
+  {
+    "song": "Hall Of Fame",
+    "artists": [
+      "Script",
+      "Will I Am"
+    ],
+    "isrc": "GBARL1201055",
+    "start_time": "2025-12-10 00:16:54",
+    "radio": "expres",
+    "recorded_at": "2025-12-10T00:17:16.928965+01:00",
+    "raw_valid": true,
+    "song_session_id": "52b3f0ac-0b54-4f6c-a0c6-4764de258754",
+    "duration_ms": 201240,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "S Tebou Bez Teba",
+    "artists": [
+      "Pavol Habera"
+    ],
+    "isrc": "TCADJ1714985",
+    "start_time": "2025-12-10 00:20:18",
+    "radio": "expres",
+    "recorded_at": "2025-12-10T00:20:40.064441+01:00",
+    "raw_valid": true,
+    "song_session_id": "06b30e9d-e7e7-46ff-bcb0-d52ae1331253",
+    "duration_ms": 213781,
+    "genre": []
+  },
+  {
+    "song": "Gone Gone Gone",
+    "artists": [
+      "David Guetta",
+      "Teddy Swims",
+      "Tones And I"
+    ],
+    "isrc": "UKWLG2500132",
+    "start_time": "2025-12-10 00:24:42",
+    "radio": "expres",
+    "recorded_at": "2025-12-10T00:25:03.473508+01:00",
+    "raw_valid": true,
+    "song_session_id": "6ff10f25-030f-4917-a893-7dc6665a54fe",
+    "duration_ms": 198004,
+    "genre": [
+      "soul"
+    ]
+  },
+  {
+    "song": "Kazdy Den Budu Vraj Vianoce",
+    "artists": [
+      "Lojzo",
+      "Miro Zbirka"
+    ],
+    "isrc": "SKA129075601",
+    "start_time": "2025-12-10 00:28:28",
+    "radio": "expres",
+    "recorded_at": "2025-12-10T00:28:46.484237+01:00",
+    "raw_valid": true,
+    "song_session_id": "6c2adcd5-2230-43e0-beb1-dfb96e23f06f",
+    "duration_ms": 266893,
+    "genre": []
+  },
+  {
+    "song": "Love Me Not",
+    "artists": [
+      "Ravyn Lenae"
+    ],
+    "isrc": "USAT22401137",
+    "start_time": "2025-12-10 00:32:49",
+    "radio": "expres",
+    "recorded_at": "2025-12-10T00:33:10.070803+01:00",
+    "raw_valid": true,
+    "song_session_id": "d5a88d16-019a-4a15-9ffa-ff676f863c42",
+    "duration_ms": 213466,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Svitanie",
+    "artists": [
+      "Nocaden"
+    ],
+    "isrc": "SKG971900103",
+    "start_time": "2025-12-10 00:36:03",
+    "radio": "expres",
+    "recorded_at": "2025-12-10T00:36:32.885537+01:00",
+    "raw_valid": true,
+    "song_session_id": "e3885b7d-c771-4ada-a157-78bb7f2890a3",
+    "duration_ms": 206413,
+    "genre": []
+  },
+  {
+    "song": "Listen To Your Heart",
+    "artists": [
+      "Roxette"
+    ],
+    "isrc": "SEAME8878130",
+    "start_time": "2025-12-10 00:39:20",
+    "radio": "expres",
+    "recorded_at": "2025-12-10T00:39:55.621422+01:00",
+    "raw_valid": true,
+    "song_session_id": "2d38e2f8-30ff-4b98-a6f2-6c0dc8504ce6",
+    "duration_ms": 328093,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Len S Tebou",
+    "artists": [
+      "Peter Juhas"
+    ],
+    "isrc": "SKBZ92400003",
+    "start_time": "2025-12-10 00:44:22",
+    "radio": "expres",
+    "recorded_at": "2025-12-10T00:44:39.325209+01:00",
+    "raw_valid": true,
+    "song_session_id": "b8a18500-5441-4ee0-96e5-8d33ac01e0f8",
+    "duration_ms": 172872,
+    "genre": []
+  },
+  {
+    "song": "The Dead Dance",
+    "artists": [
+      "Lady Gaga"
+    ],
+    "isrc": "USUM72407034",
+    "start_time": "2025-12-10 00:47:16",
+    "radio": "expres",
+    "recorded_at": "2025-12-10T00:47:41.874541+01:00",
+    "raw_valid": true,
+    "song_session_id": "3a67cd3f-bede-4049-986e-a6adeb028d87",
+    "duration_ms": 228518,
+    "genre": [
+      "offizielle charts"
+    ]
+  },
+  {
+    "song": "Klasika",
+    "artists": [
+      "Elan"
+    ],
+    "isrc": "SKA128678702",
+    "start_time": "2025-12-10 00:50:58",
+    "radio": "expres",
+    "recorded_at": "2025-12-10T00:51:24.879896+01:00",
+    "raw_valid": true,
+    "song_session_id": "10f33a6b-f83c-4ec9-9e7d-00c2dd9a628d",
+    "duration_ms": 194973,
+    "genre": []
+  },
+  {
+    "song": "Overdrive",
+    "artists": [
+      "Ofenbach",
+      "Norma Jean Martine"
+    ],
+    "isrc": "FR9W12347222",
+    "start_time": "2025-12-10 00:54:16",
+    "radio": "expres",
+    "recorded_at": "2025-12-10T00:54:47.829285+01:00",
+    "raw_valid": true,
+    "song_session_id": "2db42741-140a-45a7-bd50-25b5d0000000",
+    "duration_ms": 155905,
+    "genre": [
+      "pop"
+    ]
+  }
+]

@@ -1,0 +1,527 @@
+[
+  {
+    "song": "Be Mine",
+    "artists": [
+      "Kamrad"
+    ],
+    "isrc": "DE1NJ2500035",
+    "start_time": "2025-11-26 00:07:11",
+    "radio": "expres",
+    "recorded_at": "2025-11-26T00:07:22.839505+01:00",
+    "raw_valid": true,
+    "song_session_id": "82d707d1-c90b-46c2-b2d8-bef5e1eb740e",
+    "duration_ms": 156463,
+    "genre": []
+  },
+  {
+    "song": "Navzdy",
+    "artists": [
+      "Imt Smile"
+    ],
+    "isrc": "SKA012000043",
+    "start_time": "2025-11-26 00:09:56",
+    "radio": "expres",
+    "recorded_at": "2025-11-26T00:10:19.979837+01:00",
+    "raw_valid": true,
+    "song_session_id": "6b44b404-c856-414a-bc7e-eab7f4e867c0",
+    "duration_ms": 230911,
+    "genre": []
+  },
+  {
+    "song": "Stargazing",
+    "artists": [
+      "Myles Smith"
+    ],
+    "isrc": "GBARL2400510",
+    "start_time": "2025-11-26 00:13:49",
+    "radio": "expres",
+    "recorded_at": "2025-11-26T00:14:08.701532+01:00",
+    "raw_valid": true,
+    "song_session_id": "11cc9ccb-d538-4142-802c-6db455b77099",
+    "duration_ms": 172533,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Biely Kvet",
+    "artists": [
+      "Miro Zbirka"
+    ],
+    "isrc": "SKA128225801",
+    "start_time": "2025-11-26 00:16:50",
+    "radio": "expres",
+    "recorded_at": "2025-11-26T00:17:24.613090+01:00",
+    "raw_valid": true,
+    "song_session_id": "7f51369a-9ede-4b5d-a976-6eaa33bd21f0",
+    "duration_ms": 210880,
+    "genre": []
+  },
+  {
+    "song": "Down Under",
+    "artists": [
+      "Men At Work"
+    ],
+    "isrc": "USSM18100411",
+    "start_time": "2025-11-26 00:20:06",
+    "radio": "expres",
+    "recorded_at": "2025-11-26T00:20:18.797520+01:00",
+    "raw_valid": true,
+    "song_session_id": "05aed7fb-ad5d-475e-98c7-3f55b5c261ed",
+    "duration_ms": 221440,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "V Dobrom Aj V Zlom",
+    "artists": [
+      "Zuzana Smatanova"
+    ],
+    "isrc": "SKI941500601",
+    "start_time": "2025-11-26 00:22:46",
+    "radio": "expres",
+    "recorded_at": "2025-11-26T00:22:56.379238+01:00",
+    "raw_valid": true,
+    "song_session_id": "be51d8e3-7838-4120-92df-c9a7eb345cb1",
+    "duration_ms": 175065,
+    "genre": []
+  },
+  {
+    "song": "Gone Gone Gone",
+    "artists": [
+      "David Guetta",
+      "Teddy Swims",
+      "Tones And I"
+    ],
+    "isrc": "UKWLG2500132",
+    "start_time": "2025-11-26 00:25:35",
+    "radio": "expres",
+    "recorded_at": "2025-11-26T00:25:59.776202+01:00",
+    "raw_valid": true,
+    "song_session_id": "12dcfbe2-923d-4784-94ee-84464ecb7ec4",
+    "duration_ms": 198004,
+    "genre": [
+      "soul"
+    ]
+  },
+  {
+    "song": "Lietam V Tom Tiez",
+    "artists": [
+      "Team"
+    ],
+    "isrc": "SKA128917006",
+    "start_time": "2025-11-26 00:29:13",
+    "radio": "expres",
+    "recorded_at": "2025-11-26T00:29:23.743741+01:00",
+    "raw_valid": true,
+    "song_session_id": "29e536d9-63ab-4ff8-9ffc-d35e36407841",
+    "duration_ms": 233253,
+    "genre": []
+  },
+  {
+    "song": "Green Green Grass",
+    "artists": [
+      "George Ezra"
+    ],
+    "isrc": "GBARL2200008",
+    "start_time": "2025-11-26 00:33:06",
+    "radio": "expres",
+    "recorded_at": "2025-11-26T00:33:35.372094+01:00",
+    "raw_valid": true,
+    "song_session_id": "6e01fec0-5bdf-49d1-8753-5b2fb7167104",
+    "duration_ms": 167613,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "The One",
+    "artists": [
+      "Michael Patrick Kelly"
+    ],
+    "isrc": "DEE862500476",
+    "start_time": "2025-11-26 00:36:09",
+    "radio": "expres",
+    "recorded_at": "2025-11-26T00:36:33.815446+01:00",
+    "raw_valid": true,
+    "song_session_id": "9c7b3519-b63f-4308-a9f4-b1c05e20b625",
+    "duration_ms": 181194,
+    "genre": []
+  },
+  {
+    "song": "Az Sa Znova Narodim",
+    "artists": [
+      "Peter Nagy"
+    ],
+    "isrc": "SKA128797208",
+    "start_time": "2025-11-26 00:39:08",
+    "radio": "expres",
+    "recorded_at": "2025-11-26T00:39:17.610633+01:00",
+    "raw_valid": true,
+    "song_session_id": "723c28bc-e879-4ff0-bcb6-89b9db9a9085",
+    "duration_ms": 152800,
+    "genre": []
+  },
+  {
+    "song": "Dilemma",
+    "artists": [
+      "Nelly",
+      "Kelly Rowland"
+    ],
+    "isrc": "USUR10200370",
+    "start_time": "2025-11-26 00:41:41",
+    "radio": "expres",
+    "recorded_at": "2025-11-26T00:42:00.272285+01:00",
+    "raw_valid": true,
+    "song_session_id": "377a904b-afc8-4b1e-9869-0218680b5cc0",
+    "duration_ms": 289160,
+    "genre": [
+      "rap"
+    ]
+  },
+  {
+    "song": "Kupim Si Pekny Den",
+    "artists": [
+      "Gladiator"
+    ],
+    "isrc": "CZA210000408",
+    "start_time": "2025-11-26 00:46:33",
+    "radio": "expres",
+    "recorded_at": "2025-11-26T00:46:44.506511+01:00",
+    "raw_valid": true,
+    "song_session_id": "15d22846-573c-4d06-a158-6ac4ef953081",
+    "duration_ms": 251226,
+    "genre": []
+  },
+  {
+    "song": "Love Me Not",
+    "artists": [
+      "Ravyn Lenae"
+    ],
+    "isrc": "USAT22401137",
+    "start_time": "2025-11-26 00:50:43",
+    "radio": "expres",
+    "recorded_at": "2025-11-26T00:51:11.098213+01:00",
+    "raw_valid": true,
+    "song_session_id": "25410ac9-d1bc-48f6-9807-028d96db3e57",
+    "duration_ms": 213466,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Den Medzi Nedelou A Pondelkom",
+    "artists": [
+      "Peha"
+    ],
+    "isrc": "CZA110500019",
+    "start_time": "2025-11-26 00:54:03",
+    "radio": "expres",
+    "recorded_at": "2025-11-26T00:54:14.031717+01:00",
+    "raw_valid": true,
+    "song_session_id": "0bc46933-b18b-4ae5-a8da-bd163bec6fcc",
+    "duration_ms": 206160,
+    "genre": []
+  },
+  {
+    "song": "Love My Life",
+    "artists": [
+      "Robbie Williams"
+    ],
+    "isrc": "GBPS61600023",
+    "start_time": "2025-11-26 00:57:26",
+    "radio": "expres",
+    "recorded_at": "2025-11-26T00:57:42.265733+01:00",
+    "raw_valid": true,
+    "song_session_id": "4e1c5b9c-f025-4147-a6d8-92c57908d766",
+    "duration_ms": 208326,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Abstinent",
+    "artists": [
+      "Para"
+    ],
+    "isrc": "CZA210700187",
+    "start_time": "2025-11-26 01:00:59",
+    "radio": "expres",
+    "recorded_at": "2025-11-26T01:01:21.107340+01:00",
+    "raw_valid": true,
+    "song_session_id": "4b2ff1ec-51e5-4e8e-9bbb-13584c1eeb1f",
+    "duration_ms": 174426,
+    "genre": []
+  },
+  {
+    "song": "Too Sweet",
+    "artists": [
+      "Hozier"
+    ],
+    "isrc": "IEACJ2300335",
+    "start_time": "2025-11-26 01:03:48",
+    "radio": "expres",
+    "recorded_at": "2025-11-26T01:04:04.715429+01:00",
+    "raw_valid": true,
+    "song_session_id": "2e342225-f4d7-4721-84e5-ec5b6659eca9",
+    "duration_ms": 251424,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Dobri Priatelia",
+    "artists": [
+      "Tublatanka"
+    ],
+    "isrc": "SKG392300109",
+    "start_time": "2025-11-26 01:06:49",
+    "radio": "expres",
+    "recorded_at": "2025-11-26T01:07:22.684197+01:00",
+    "raw_valid": true,
+    "song_session_id": "2e68839c-dfba-4ee3-a2cf-4eb09a21b103",
+    "duration_ms": 235480,
+    "genre": []
+  },
+  {
+    "song": "Regalo",
+    "artists": [
+      "Alvaro Soler"
+    ],
+    "isrc": "DEE862500388",
+    "start_time": "2025-11-26 01:10:45",
+    "radio": "expres",
+    "recorded_at": "2025-11-26T01:11:11.567043+01:00",
+    "raw_valid": true,
+    "song_session_id": "e1f8f35a-8237-416b-a917-e39d606f3bfe",
+    "duration_ms": 184984,
+    "genre": []
+  },
+  {
+    "song": "Vsetky Oci Na Mne",
+    "artists": [
+      "Majk Spirit"
+    ],
+    "isrc": "FRX202201096",
+    "start_time": "2025-11-26 01:13:50",
+    "radio": "expres",
+    "recorded_at": "2025-11-26T01:14:19.561476+01:00",
+    "raw_valid": true,
+    "song_session_id": "6bdfdf86-a4d0-4318-9fcb-c5df7371ad3d",
+    "duration_ms": 208692,
+    "genre": []
+  },
+  {
+    "song": "Left Outside Alone",
+    "artists": [
+      "Anastacia"
+    ],
+    "isrc": "USSM10400150",
+    "start_time": "2025-11-26 01:17:18",
+    "radio": "expres",
+    "recorded_at": "2025-11-26T01:17:42.813066+01:00",
+    "raw_valid": true,
+    "song_session_id": "21a0fe66-de20-44cf-b334-f08653d3acc0",
+    "duration_ms": 256946,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Vyvedeny Z Miery",
+    "artists": [
+      "Imt Smile"
+    ],
+    "isrc": "SKA010011204",
+    "start_time": "2025-11-26 01:19:59",
+    "radio": "expres",
+    "recorded_at": "2025-11-26T01:20:25.618666+01:00",
+    "raw_valid": true,
+    "song_session_id": "be5bba9d-e5b1-4a80-ba6f-59aa64f06ece",
+    "duration_ms": 254480,
+    "genre": []
+  },
+  {
+    "song": "Blink Twice",
+    "artists": [
+      "Shaboozey",
+      "Myles Smith"
+    ],
+    "isrc": "USUYG1717098",
+    "start_time": "2025-11-26 01:24:14",
+    "radio": "expres",
+    "recorded_at": "2025-11-26T01:24:24.223098+01:00",
+    "raw_valid": true,
+    "song_session_id": "ca03f96a-7466-4fef-a4ee-d1f50f11a272",
+    "duration_ms": 156721,
+    "genre": []
+  },
+  {
+    "song": "V Nas",
+    "artists": [
+      "Nocaden"
+    ],
+    "isrc": "CZA231500032",
+    "start_time": "2025-11-26 01:26:47",
+    "radio": "expres",
+    "recorded_at": "2025-11-26T01:27:17.178634+01:00",
+    "raw_valid": true,
+    "song_session_id": "0a5c428f-b8f4-4b51-b7b5-ec33365bfc78",
+    "duration_ms": 220106,
+    "genre": []
+  },
+  {
+    "song": "I Dont Wanna Wait",
+    "artists": [
+      "David Guetta",
+      "Onerepublic"
+    ],
+    "isrc": "UKWLG2400013",
+    "start_time": "2025-11-26 01:30:32",
+    "radio": "expres",
+    "recorded_at": "2025-11-26T01:30:57.215316+01:00",
+    "raw_valid": true,
+    "song_session_id": "73db6bf9-ee42-4fff-9ab2-8984f75c9168",
+    "duration_ms": 149667,
+    "genre": [
+      "electronic"
+    ]
+  },
+  {
+    "song": "Mystical Magical",
+    "artists": [
+      "Benson Boone"
+    ],
+    "isrc": "USWB12500844",
+    "start_time": "2025-11-26 01:33:17",
+    "radio": "expres",
+    "recorded_at": "2025-11-26T01:33:36.074133+01:00",
+    "raw_valid": true,
+    "song_session_id": "f31a8f01-6a1a-48d5-87c7-ad2bae23f489",
+    "duration_ms": 165746,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Kaskader",
+    "artists": [
+      "Elan"
+    ],
+    "isrc": "SKA129250602",
+    "start_time": "2025-11-26 01:35:58",
+    "radio": "expres",
+    "recorded_at": "2025-11-26T01:36:14.242313+01:00",
+    "raw_valid": true,
+    "song_session_id": "98f35d62-fc48-403e-82d1-95197a1c3d58",
+    "duration_ms": 240000,
+    "genre": []
+  },
+  {
+    "song": "The Best",
+    "artists": [
+      "Tina Turner"
+    ],
+    "isrc": "USCA28900109",
+    "start_time": "2025-11-26 01:39:49",
+    "radio": "expres",
+    "recorded_at": "2025-11-26T01:40:01.300121+01:00",
+    "raw_valid": true,
+    "song_session_id": "31669e20-2836-439e-99f6-65132845845f",
+    "duration_ms": 333267,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Normalny Zivot",
+    "artists": [
+      "Sima Martausova"
+    ],
+    "isrc": "SKG081300101",
+    "start_time": "2025-11-26 01:44:03",
+    "radio": "expres",
+    "recorded_at": "2025-11-26T01:44:25.230587+01:00",
+    "raw_valid": true,
+    "song_session_id": "1b863ff9-1301-4896-974b-6e8a3cbd497d",
+    "duration_ms": 163320,
+    "genre": []
+  },
+  {
+    "song": "Zoo",
+    "artists": [
+      "Shakira"
+    ],
+    "isrc": "USWD12538420",
+    "start_time": "2025-11-26 01:46:37",
+    "radio": "expres",
+    "recorded_at": "2025-11-26T01:46:47.911829+01:00",
+    "raw_valid": true,
+    "song_session_id": "b1f294ea-5eaf-4f2e-931f-dd9e4a3e2b19",
+    "duration_ms": 190822,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Milovanie V Dazdi",
+    "artists": [
+      "Richard Muller"
+    ],
+    "isrc": "CZUM71200012",
+    "start_time": "2025-11-26 01:50:20",
+    "radio": "expres",
+    "recorded_at": "2025-11-26T01:50:31.318352+01:00",
+    "raw_valid": true,
+    "song_session_id": "f3e73741-eae7-4a4d-b7b4-4c254f2661eb",
+    "duration_ms": 269733,
+    "genre": []
+  },
+  {
+    "song": "Stars Will Align",
+    "artists": [
+      "Kygo",
+      "Imagine Dragons"
+    ],
+    "isrc": "SEBGA2401211",
+    "start_time": "2025-11-26 01:54:32",
+    "radio": "expres",
+    "recorded_at": "2025-11-26T01:54:55.381714+01:00",
+    "raw_valid": true,
+    "song_session_id": "8a12f2f0-6659-4f65-8676-e11a0c2b2c7f",
+    "duration_ms": 234366,
+    "genre": []
+  },
+  {
+    "song": "Pribeh",
+    "artists": [
+      "Tina",
+      "Rytmus"
+    ],
+    "isrc": "QZN882120156",
+    "start_time": "2025-11-26 01:58:21",
+    "radio": "expres",
+    "recorded_at": "2025-11-26T01:58:43.729845+01:00",
+    "raw_valid": true,
+    "song_session_id": "e5efc036-88e0-4ff6-9720-ece24501c359",
+    "duration_ms": 241002,
+    "genre": []
+  },
+  {
+    "song": "Undressed",
+    "artists": [
+      "Sombr"
+    ],
+    "isrc": "USWB12500737",
+    "start_time": "2025-11-26 02:02:06",
+    "radio": "expres",
+    "recorded_at": "2025-11-26T02:02:27.272896+01:00",
+    "raw_valid": true,
+    "song_session_id": "bb1ac010-55fc-4d98-8885-4b986ab7de34",
+    "duration_ms": 182088,
+    "genre": [
+      "indie pop"
+    ]
+  }
+]

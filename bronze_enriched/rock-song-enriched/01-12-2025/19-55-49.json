@@ -1,0 +1,333 @@
+[
+  {
+    "last_update": "2025-12-01 17:55:49",
+    "song": {
+      "musicAuthor": "Green Day",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485108a1b1e0674086d3f1995e1b",
+      "musicTitle": "Jesus Of Suburbia",
+      "radio": "Rádio ROCK",
+      "startTime": "18:51"
+    },
+    "recorded_at": "2025-12-01T18:55:49.987043+01:00",
+    "raw_valid": true,
+    "song_session_id": "63fab07a-ee9c-439b-afae-08f0a85d8ea2",
+    "duration_ms": 548253,
+    "isrc": "USRE10400983",
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "last_update": "2025-12-01 18:02:22",
+    "song": {
+      "musicAuthor": "Oasis",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485185e5dcc05cc216a10f141480",
+      "musicTitle": "Don't Look Back In Anger",
+      "radio": "Rádio ROCK",
+      "startTime": "19:02"
+    },
+    "recorded_at": "2025-12-01T19:02:22.982652+01:00",
+    "raw_valid": true,
+    "song_session_id": "c242ffc8-1cb2-4c0e-8e9e-df9948688729",
+    "duration_ms": 289560,
+    "isrc": "GBQCP1400110",
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "last_update": "2025-12-01 18:07:23",
+    "song": {
+      "musicAuthor": "Marilyn Manson",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851dcca264f538d015a1c9733a5",
+      "musicTitle": "Tainted Love",
+      "radio": "Rádio ROCK",
+      "startTime": "19:06"
+    },
+    "recorded_at": "2025-12-01T19:07:23.300594+01:00",
+    "raw_valid": true,
+    "song_session_id": "617b7854-039f-424d-9065-8e035b07037f",
+    "duration_ms": 200426,
+    "isrc": "USIR10120378",
+    "genre": [
+      "industrial metal"
+    ]
+  },
+  {
+    "last_update": "2025-12-01 18:13:23",
+    "song": {
+      "musicAuthor": "The Subways",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851050e6625600b8f6fb0b3f84c",
+      "musicTitle": "Rock & Roll Queen",
+      "radio": "Rádio ROCK",
+      "startTime": "19:13"
+    },
+    "recorded_at": "2025-12-01T19:13:23.717985+01:00",
+    "raw_valid": true,
+    "song_session_id": "b9987d65-b9e3-4059-bbec-ecebccd7296a",
+    "duration_ms": 169946,
+    "isrc": "GBAHT0500214",
+    "genre": [
+      "garage rock"
+    ]
+  },
+  {
+    "last_update": "2025-12-01 18:19:28",
+    "song": {
+      "musicAuthor": "Chad Kroeger Feat. Josey Scott",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851cab637c3978c4db066bfd16f",
+      "musicTitle": "Hero",
+      "radio": "Rádio ROCK",
+      "startTime": "19:18"
+    },
+    "recorded_at": "2025-12-01T19:19:28.468216+01:00",
+    "raw_valid": true,
+    "song_session_id": "5c5c01ca-a374-43e6-bc21-c1df58cea16a",
+    "duration_ms": 200480,
+    "isrc": "NLA320219756",
+    "genre": []
+  },
+  {
+    "last_update": "2025-12-01 18:26:30",
+    "song": {
+      "musicAuthor": "Iné Kafe",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048518505682353250894f1d0a0fd",
+      "musicTitle": "Ďakujeme Vám",
+      "radio": "Rádio ROCK",
+      "startTime": "19:25"
+    },
+    "recorded_at": "2025-12-01T19:26:30.951197+01:00",
+    "raw_valid": true,
+    "song_session_id": "0f055410-5431-42e3-9d7f-8a0a402bc56f",
+    "duration_ms": 137026,
+    "isrc": "SKA880100403",
+    "genre": []
+  },
+  {
+    "last_update": "2025-12-01 18:28:30",
+    "song": {
+      "musicAuthor": "Foo Fighters",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851593dc79bc85aa974a98d8cd6",
+      "musicTitle": "Medicine At Midnight",
+      "radio": "Rádio ROCK",
+      "startTime": "19:28"
+    },
+    "recorded_at": "2025-12-01T19:28:31.060538+01:00",
+    "raw_valid": true,
+    "song_session_id": "434cb890-18c2-4cfb-ae10-913822913a1c",
+    "duration_ms": 209727,
+    "isrc": "USRW32000011",
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "last_update": "2025-12-01 18:32:31",
+    "song": {
+      "musicAuthor": "Deep Purple",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851a729c9c3dec04b99d889c66f",
+      "musicTitle": "Smoke On The Water",
+      "radio": "Rádio ROCK",
+      "startTime": "19:31"
+    },
+    "recorded_at": "2025-12-01T19:32:32.214670+01:00",
+    "raw_valid": true,
+    "song_session_id": "91d80d17-1f12-47ff-a91c-319de932377e",
+    "duration_ms": 340742,
+    "isrc": "GBDXG1200006",
+    "genre": [
+      "hard rock"
+    ]
+  },
+  {
+    "last_update": "2025-12-01 18:37:33",
+    "song": {
+      "musicAuthor": "Nirvana",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851fbc71c99f9c1296c56dd51b6",
+      "musicTitle": "Smells Like Teen Spirit",
+      "radio": "Rádio ROCK",
+      "startTime": "19:37"
+    },
+    "recorded_at": "2025-12-01T19:37:33.267207+01:00",
+    "raw_valid": true,
+    "song_session_id": "ee776884-3b89-4931-8bd2-a9e5ed46e566",
+    "duration_ms": 301920,
+    "isrc": "USGF19942501",
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "last_update": "2025-12-01 18:46:36",
+    "song": {
+      "musicAuthor": "Adams Bryan",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048518c996a02e385a1a98fa07db1",
+      "musicTitle": "Roll With The Punches",
+      "radio": "Rádio ROCK",
+      "startTime": "19:46"
+    },
+    "recorded_at": "2025-12-01T19:46:36.226997+01:00",
+    "raw_valid": true,
+    "song_session_id": "94fbad3e-5a01-4d0f-89e4-0984099e3ec7",
+    "duration_ms": 238546,
+    "isrc": "IETLH2400097",
+    "genre": []
+  },
+  {
+    "last_update": "2025-12-01 18:50:35",
+    "song": {
+      "musicAuthor": "The Guess Who",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048511bc7a864d1cf403ec8e57308",
+      "musicTitle": "American Woman",
+      "radio": "Rádio ROCK",
+      "startTime": "19:49"
+    },
+    "recorded_at": "2025-12-01T19:50:36.935943+01:00",
+    "raw_valid": true,
+    "song_session_id": "76806867-42b3-4fa2-808e-68c96e5c9b42",
+    "duration_ms": 231640,
+    "isrc": "USRC16908370",
+    "genre": [
+      "classic rock"
+    ]
+  },
+  {
+    "last_update": "2025-12-01 18:54:36",
+    "song": {
+      "musicAuthor": "Kings Of Leon",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048512519d01c0cca06f134eeadd8",
+      "musicTitle": "Sex On The Fire",
+      "radio": "Rádio ROCK",
+      "startTime": "19:53"
+    },
+    "recorded_at": "2025-12-01T19:54:37.682063+01:00",
+    "raw_valid": true,
+    "song_session_id": "7ce69290-77e4-4261-ae1e-8aad51c08995",
+    "duration_ms": 203346,
+    "isrc": "USRC10800300",
+    "genre": []
+  },
+  {
+    "last_update": "2025-12-01 18:57:07",
+    "song": {
+      "musicAuthor": "Faith No More",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485136842671366bfeb3d7c5f19e",
+      "musicTitle": "Midlife Crisis",
+      "radio": "Rádio ROCK",
+      "startTime": "19:57"
+    },
+    "recorded_at": "2025-12-01T19:57:08.116635+01:00",
+    "raw_valid": true,
+    "song_session_id": "a5171e8f-3f17-4ac2-83d1-5e659fdf10dd",
+    "duration_ms": 259866,
+    "isrc": "GBANC9200157",
+    "genre": [
+      "funk rock"
+    ]
+  },
+  {
+    "last_update": "2025-12-01 19:11:10",
+    "song": {
+      "musicAuthor": "The Red Hot Chili Peppers",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851f3686323bf737cb7ba3de792",
+      "musicTitle": "Scar Tissue",
+      "radio": "Rádio ROCK",
+      "startTime": "20:11"
+    },
+    "recorded_at": "2025-12-01T20:11:11.213796+01:00",
+    "raw_valid": true,
+    "song_session_id": "5f0e5df5-94d5-4264-b2a1-5f4a5006f33d",
+    "duration_ms": 139946,
+    "isrc": "USG7D1154603",
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "last_update": "2025-12-01 19:19:12",
+    "song": {
+      "musicAuthor": "Red Hot Chili Peppers",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485109fd83d32aee93dceba78517",
+      "musicTitle": "Tell Me Baby",
+      "radio": "Rádio ROCK",
+      "startTime": "20:18"
+    },
+    "recorded_at": "2025-12-01T20:19:12.705010+01:00",
+    "raw_valid": true,
+    "song_session_id": "3ce0ed18-cd81-485f-bce0-6021db6b41d4",
+    "duration_ms": 247666,
+    "isrc": "USWB10601605",
+    "genre": [
+      "funk rock"
+    ]
+  },
+  {
+    "last_update": "2025-12-01 19:23:14",
+    "song": {
+      "musicAuthor": "Red Hot Chili Peppers",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048517f3dcf99224570b053294ccf",
+      "musicTitle": "Aeroplane",
+      "radio": "Rádio ROCK",
+      "startTime": "20:22"
+    },
+    "recorded_at": "2025-12-01T20:23:15.007702+01:00",
+    "raw_valid": true,
+    "song_session_id": "d1d276e3-1a3c-4e6b-b404-e5c39f1e4e87",
+    "duration_ms": 285066,
+    "isrc": "USWB19500363",
+    "genre": [
+      "funk rock"
+    ]
+  },
+  {
+    "last_update": "2025-12-01 19:33:17",
+    "song": {
+      "musicAuthor": "The Red Hot Chili Peppers",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485158406b3f1ac3ceaff7a64fef",
+      "musicTitle": "Dark Necessities",
+      "radio": "Rádio ROCK",
+      "startTime": "20:32"
+    },
+    "recorded_at": "2025-12-01T20:33:18.609778+01:00",
+    "raw_valid": true,
+    "song_session_id": "224f4886-dfbc-4e06-947e-59b48a048c80",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "last_update": "2025-12-01 19:37:19",
+    "song": {
+      "musicAuthor": "The Red Hot Chili Peppers",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851f3686323bf737cb7ba3de792",
+      "musicTitle": "Dani California",
+      "radio": "Rádio ROCK",
+      "startTime": "20:36"
+    },
+    "recorded_at": "2025-12-01T20:37:19.187567+01:00",
+    "raw_valid": true,
+    "song_session_id": "b78dfdb3-b753-42ab-9ef8-b85117bd5258",
+    "duration_ms": 246813,
+    "isrc": "USG7D1154604",
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "last_update": "2025-12-01 19:41:21",
+    "song": {
+      "musicAuthor": "The Red Hot Chili Peppers",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851153d79816d853f2694b2cc70",
+      "musicTitle": "Under The Bridge",
+      "radio": "Rádio ROCK",
+      "startTime": "20:41"
+    },
+    "recorded_at": "2025-12-01T20:41:21.571155+01:00",
+    "raw_valid": true,
+    "song_session_id": "6ee1c1ea-146e-40b5-bf65-c10f763e5129",
+    "duration_ms": 268306,
+    "isrc": "USG7D1154601",
+    "genre": [
+      "rock"
+    ]
+  }
+]

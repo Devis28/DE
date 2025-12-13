@@ -1,0 +1,505 @@
+[
+  {
+    "song": "Good News",
+    "artists": [
+      "Shaboozey"
+    ],
+    "isrc": "USUYG1580113",
+    "start_time": "2025-11-04 00:30:22",
+    "radio": "expres",
+    "recorded_at": "04.11.2025 00:30:42",
+    "raw_valid": true,
+    "song_session_id": "0ca7bd43-1618-4484-ba35-1b8e5cc9bc50",
+    "duration_ms": 199209,
+    "genre": []
+  },
+  {
+    "song": "Million Good Reasons",
+    "artists": [
+      "Robin Schulz",
+      "Fast Boy"
+    ],
+    "isrc": "DEA622404738",
+    "start_time": "2025-11-04 00:33:42",
+    "radio": "expres",
+    "recorded_at": "04.11.2025 00:34:05",
+    "raw_valid": true,
+    "song_session_id": "5d09844a-d946-4af3-b5f7-232c4f513446",
+    "duration_ms": 157130,
+    "genre": [
+      "tropical house"
+    ]
+  },
+  {
+    "song": "Za Dedinou",
+    "artists": [
+      "Imt Smile"
+    ],
+    "isrc": "SKA010011207",
+    "start_time": "2025-11-04 00:36:24",
+    "radio": "expres",
+    "recorded_at": "04.11.2025 00:36:49",
+    "raw_valid": true,
+    "song_session_id": "6d739a9a-5518-414a-b1dd-31a047dc5a10",
+    "duration_ms": 208560,
+    "genre": []
+  },
+  {
+    "song": "Total Eclipse Of The Heart",
+    "artists": [
+      "Bonnie Tyler"
+    ],
+    "isrc": "GBBBN8300002",
+    "start_time": "2025-11-04 00:39:41",
+    "radio": "expres",
+    "recorded_at": "04.11.2025 00:40:00",
+    "raw_valid": true,
+    "song_session_id": "97d8c6b2-565b-447e-9552-daff87e0b4f3",
+    "duration_ms": 266493,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Zuvacka Za Uchom",
+    "artists": [
+      "Robo Grigorov"
+    ],
+    "isrc": null,
+    "start_time": "2025-11-04 00:44:16",
+    "radio": "expres",
+    "recorded_at": "04.11.2025 00:44:40",
+    "raw_valid": true,
+    "song_session_id": "a898aae5-0a4e-4ad2-8683-156a3402db96"
+  },
+  {
+    "song": "Kings & Queens",
+    "artists": [
+      "Ava Max"
+    ],
+    "isrc": "USAT21906943",
+    "start_time": "2025-11-04 00:46:57",
+    "radio": "expres",
+    "recorded_at": "04.11.2025 00:47:20",
+    "raw_valid": true,
+    "song_session_id": "8737deb3-10a3-4d98-a773-ee503baf5c97",
+    "duration_ms": 162398,
+    "genre": [
+      "electronic"
+    ]
+  },
+  {
+    "song": "Medzi Nebom A Zenou",
+    "artists": [
+      "Banket",
+      "Richard Muller",
+      "Ema Muller"
+    ],
+    "isrc": "SKC362500009",
+    "start_time": "2025-11-04 00:49:34",
+    "radio": "expres",
+    "recorded_at": "04.11.2025 00:49:43",
+    "raw_valid": true,
+    "song_session_id": "22931730-5050-4afb-8d09-4bb0a4e2ef02",
+    "duration_ms": 228666,
+    "genre": []
+  },
+  {
+    "song": "Austin",
+    "artists": [
+      "Dasha"
+    ],
+    "isrc": "QZTB92360479",
+    "start_time": "2025-11-04 00:53:44",
+    "radio": "expres",
+    "recorded_at": "04.11.2025 00:54:12",
+    "raw_valid": true,
+    "song_session_id": "d9d65d9a-1815-404e-9d6f-1870ffa41141",
+    "duration_ms": 171782,
+    "genre": []
+  },
+  {
+    "song": "Zi A Nechaj Zit",
+    "artists": [
+      "Marika Gombitova"
+    ],
+    "isrc": "SKA128791508",
+    "start_time": "2025-11-04 00:56:31",
+    "radio": "expres",
+    "recorded_at": "04.11.2025 00:56:56",
+    "raw_valid": true,
+    "song_session_id": "f37ab9e7-de51-4b61-86cd-f2690b15b67c",
+    "duration_ms": 322293,
+    "genre": []
+  },
+  {
+    "song": "Be Mine",
+    "artists": [
+      "Kamrad"
+    ],
+    "isrc": "DE1NJ2500035",
+    "start_time": "2025-11-04 01:01:33",
+    "radio": "expres",
+    "recorded_at": "04.11.2025 01:02:01",
+    "raw_valid": true,
+    "song_session_id": "161e4e61-e9ea-468e-8615-3d41670da6aa",
+    "duration_ms": 156463,
+    "genre": []
+  },
+  {
+    "song": "Maly Princ",
+    "artists": [
+      "Aya"
+    ],
+    "isrc": "CZA210700631",
+    "start_time": "2025-11-04 01:04:20",
+    "radio": "expres",
+    "recorded_at": "04.11.2025 01:04:44",
+    "raw_valid": true,
+    "song_session_id": "2754200f-10e8-4f47-8940-c80ce0d5059e",
+    "duration_ms": 250000,
+    "genre": [
+      "afro soul"
+    ]
+  },
+  {
+    "song": "Eyes Closed",
+    "artists": [
+      "Imagine Dragons"
+    ],
+    "isrc": "USUM72402448",
+    "start_time": "2025-11-04 01:08:47",
+    "radio": "expres",
+    "recorded_at": "04.11.2025 01:09:08",
+    "raw_valid": true,
+    "song_session_id": "48af458e-4d35-4a72-8b96-132cfdec957d",
+    "duration_ms": 200026,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Vo Vlnach",
+    "artists": [
+      "Emma Drobna"
+    ],
+    "isrc": "CZA232500001",
+    "start_time": "2025-11-04 01:12:01",
+    "radio": "expres",
+    "recorded_at": "04.11.2025 01:12:12",
+    "raw_valid": true,
+    "song_session_id": "1125d535-71f9-4b12-8776-d9b422ef0cd7",
+    "duration_ms": 186891,
+    "genre": []
+  },
+  {
+    "song": "U Make Me Wanna",
+    "artists": [
+      "Blue"
+    ],
+    "isrc": "GBAAA0300043",
+    "start_time": "2025-11-04 01:15:14",
+    "radio": "expres",
+    "recorded_at": "04.11.2025 01:15:35",
+    "raw_valid": true,
+    "song_session_id": "b8d691d8-e4e7-4642-926d-9563880cada3",
+    "duration_ms": 220733,
+    "genre": []
+  },
+  {
+    "song": "Balada O Polnych Vtakoch 2006",
+    "artists": [
+      "Meky Revival"
+    ],
+    "isrc": null,
+    "start_time": "2025-11-04 01:18:55",
+    "radio": "expres",
+    "recorded_at": "04.11.2025 01:19:22",
+    "raw_valid": true,
+    "song_session_id": "c0d724aa-4a0c-4217-839e-b61335fa1d6c"
+  },
+  {
+    "song": "Training Season",
+    "artists": [
+      "Dua Lipa"
+    ],
+    "isrc": "GBAHT2301078",
+    "start_time": "2025-11-04 01:22:35",
+    "radio": "expres",
+    "recorded_at": "04.11.2025 01:23:05",
+    "raw_valid": true,
+    "song_session_id": "573d6643-4f95-450c-8bc6-cb0d9b2bbb4e",
+    "duration_ms": 209487,
+    "genre": [
+      "electronic"
+    ]
+  },
+  {
+    "song": "Do Neba",
+    "artists": [
+      "Dara Rolins"
+    ],
+    "isrc": "QZYFZ2505251",
+    "start_time": "2025-11-04 01:26:02",
+    "radio": "expres",
+    "recorded_at": "04.11.2025 01:26:29",
+    "raw_valid": true,
+    "song_session_id": "8a272a2a-54ca-42bd-9a38-eae0e4c6d950",
+    "duration_ms": 204253,
+    "genre": []
+  },
+  {
+    "song": "Rude",
+    "artists": [
+      "Magic!"
+    ],
+    "isrc": "CAV161300016",
+    "start_time": "2025-11-04 01:29:43",
+    "radio": "expres",
+    "recorded_at": "04.11.2025 01:30:12",
+    "raw_valid": true,
+    "song_session_id": "b0202781-e309-4946-b787-daf7c8520374",
+    "duration_ms": 224786,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "The One",
+    "artists": [
+      "Michael Patrick Kelly"
+    ],
+    "isrc": "DEE862500476",
+    "start_time": "2025-11-04 01:33:38",
+    "radio": "expres",
+    "recorded_at": "04.11.2025 01:34:02",
+    "raw_valid": true,
+    "song_session_id": "432e170f-c682-48af-902f-8e032dbb3fce",
+    "duration_ms": 181194,
+    "genre": []
+  },
+  {
+    "song": "Len Ty Smies",
+    "artists": [
+      "Zdenka Predna"
+    ],
+    "isrc": "CZA210500897",
+    "start_time": "2025-11-04 01:36:40",
+    "radio": "expres",
+    "recorded_at": "04.11.2025 01:37:05",
+    "raw_valid": true,
+    "song_session_id": "3464899a-9eb5-4290-bc27-a0fb166a9657",
+    "duration_ms": 260519,
+    "genre": []
+  },
+  {
+    "song": "Always",
+    "artists": [
+      "Bon Jovi"
+    ],
+    "isrc": "USPR39412221",
+    "start_time": "2025-11-04 01:40:56",
+    "radio": "expres",
+    "recorded_at": "04.11.2025 01:41:09",
+    "raw_valid": true,
+    "song_session_id": "d97c677a-77f3-4f3b-916a-6d982cfa4a55",
+    "duration_ms": 353573,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Len Sa Smej",
+    "artists": [
+      "Peter Bic Project"
+    ],
+    "isrc": "SKA012300333",
+    "start_time": "2025-11-04 01:46:42",
+    "radio": "expres",
+    "recorded_at": "04.11.2025 01:46:54",
+    "raw_valid": true,
+    "song_session_id": "48900a75-19c5-4905-9de9-431720484321",
+    "duration_ms": 164741,
+    "genre": []
+  },
+  {
+    "song": "Wonderful Life 25",
+    "artists": [
+      "Hurts",
+      "Purple Disco Machine"
+    ],
+    "isrc": "DEE862500677",
+    "start_time": "2025-11-04 01:49:26",
+    "radio": "expres",
+    "recorded_at": "04.11.2025 01:49:42",
+    "raw_valid": true,
+    "song_session_id": "0296c919-8a55-46b1-9f53-285654a943f3",
+    "duration_ms": 178658,
+    "genre": []
+  },
+  {
+    "song": "Vadi - Nevadi",
+    "artists": [
+      "Imt Smile"
+    ],
+    "isrc": "SKA010305105",
+    "start_time": "2025-11-04 01:52:25",
+    "radio": "expres",
+    "recorded_at": "04.11.2025 01:52:45",
+    "raw_valid": true,
+    "song_session_id": "35b90124-ac36-4155-91d6-1c637ec03419",
+    "duration_ms": 199813,
+    "genre": []
+  },
+  {
+    "song": "Only Girl (In The World)",
+    "artists": [
+      "Rihanna"
+    ],
+    "isrc": "USUM71023200",
+    "start_time": "2025-11-04 01:55:45",
+    "radio": "expres",
+    "recorded_at": "04.11.2025 01:56:08",
+    "raw_valid": true,
+    "song_session_id": "6ab345b2-2e6d-432e-be14-0142fc78ad2d",
+    "duration_ms": 235626,
+    "genre": [
+      "dance"
+    ]
+  },
+  {
+    "song": "Pre Vas Hram",
+    "artists": [
+      "Kali",
+      "Karol Duchon",
+      "Peter Pann"
+    ],
+    "isrc": "CZA232500151",
+    "start_time": "2025-11-04 01:59:36",
+    "radio": "expres",
+    "recorded_at": "04.11.2025 01:59:52",
+    "raw_valid": true,
+    "song_session_id": "30ce3ec7-8b93-4003-8bdc-1d161b7e7b5c",
+    "duration_ms": 149118,
+    "genre": []
+  },
+  {
+    "song": "I Believe",
+    "artists": [
+      "Kamrad"
+    ],
+    "isrc": "QMDA62184030",
+    "start_time": "2025-11-04 02:02:06",
+    "radio": "expres",
+    "recorded_at": "04.11.2025 02:02:43",
+    "raw_valid": true,
+    "song_session_id": "d8908410-beec-4069-b296-74c6327592da",
+    "duration_ms": 147007,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Gravitacia",
+    "artists": [
+      "Zuzana Smatanova"
+    ],
+    "isrc": "SKI942300703",
+    "start_time": "2025-11-04 02:04:33",
+    "radio": "expres",
+    "recorded_at": "04.11.2025 02:05:00",
+    "raw_valid": true,
+    "song_session_id": "65c3fab9-8938-4b47-a01b-4c180bc6803c",
+    "duration_ms": 195101,
+    "genre": []
+  },
+  {
+    "song": "Glide",
+    "artists": [
+      "Neiked",
+      "Portugal The Man"
+    ],
+    "isrc": "DEE862500421",
+    "start_time": "2025-11-04 02:07:49",
+    "radio": "expres",
+    "recorded_at": "04.11.2025 02:08:03",
+    "raw_valid": true,
+    "song_session_id": "9887f478-88c5-4bc1-ad37-70e2f332b2bb",
+    "duration_ms": 184405,
+    "genre": []
+  },
+  {
+    "song": "Vrat Trochu Lasky Medzi Nas",
+    "artists": [
+      "G8"
+    ],
+    "isrc": "TCAEQ2005817",
+    "start_time": "2025-11-04 02:10:45",
+    "radio": "expres",
+    "recorded_at": "04.11.2025 02:11:07",
+    "raw_valid": true,
+    "song_session_id": "67b74887-16e7-4cd5-a333-19d740d0fe9b",
+    "duration_ms": 251211,
+    "genre": []
+  },
+  {
+    "song": "Bad Romance",
+    "artists": [
+      "Lady Gaga"
+    ],
+    "isrc": "USUM70918596",
+    "start_time": "2025-11-04 02:14:54",
+    "radio": "expres",
+    "recorded_at": "04.11.2025 02:15:10",
+    "raw_valid": true,
+    "song_session_id": "5c8dfc99-e570-4f7f-bc40-0928125e4eac",
+    "duration_ms": 294573,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Bonboniera",
+    "artists": [
+      "Gladiator"
+    ],
+    "isrc": "CZA210600038",
+    "start_time": "2025-11-04 02:19:25",
+    "radio": "expres",
+    "recorded_at": "04.11.2025 02:19:40",
+    "raw_valid": true,
+    "song_session_id": "86af9625-599e-4538-a39c-2852508fc68b",
+    "duration_ms": 199000,
+    "genre": []
+  },
+  {
+    "song": "Undressed",
+    "artists": [
+      "Sombr"
+    ],
+    "isrc": "USWB12500737",
+    "start_time": "2025-11-04 02:22:43",
+    "radio": "expres",
+    "recorded_at": "04.11.2025 02:23:03",
+    "raw_valid": true,
+    "song_session_id": "dab28049-ccc9-4522-8192-28303b04e685",
+    "duration_ms": 182088,
+    "genre": [
+      "indie pop"
+    ]
+  },
+  {
+    "song": "Za Tebou",
+    "artists": [
+      "Desmod"
+    ],
+    "isrc": "SKA011000057",
+    "start_time": "2025-11-04 02:25:56",
+    "radio": "expres",
+    "recorded_at": "04.11.2025 02:26:26",
+    "raw_valid": true,
+    "song_session_id": "dfb1c48d-0892-4f0a-8e07-3846efd8d529",
+    "duration_ms": 230493,
+    "genre": []
+  }
+]

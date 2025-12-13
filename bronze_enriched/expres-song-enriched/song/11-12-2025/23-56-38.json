@@ -1,0 +1,495 @@
+[
+  {
+    "song": "Driving Home For Christmas",
+    "artists": [
+      "Chris Rea"
+    ],
+    "isrc": "GBAHS9904091",
+    "start_time": "2025-12-11 22:56:21",
+    "radio": "expres",
+    "recorded_at": "2025-12-11T22:56:55.511576+01:00",
+    "raw_valid": true,
+    "song_session_id": "a686a52d-3b0d-4991-b8b2-2f7b1f276478",
+    "duration_ms": 240213,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Training Season",
+    "artists": [
+      "Dua Lipa"
+    ],
+    "isrc": "GBAHT2301078",
+    "start_time": "2025-12-11 23:05:52",
+    "radio": "expres",
+    "recorded_at": "2025-12-11T23:06:22.747209+01:00",
+    "raw_valid": true,
+    "song_session_id": "8eab1d73-4fba-4f04-8685-af240bda9ed5",
+    "duration_ms": 209487,
+    "genre": [
+      "electronic"
+    ]
+  },
+  {
+    "song": "Can You Feel The Love Tonight",
+    "artists": [
+      "Elton John"
+    ],
+    "isrc": "USWD11780906",
+    "start_time": "2025-12-11 23:09:33",
+    "radio": "expres",
+    "recorded_at": "2025-12-11T23:10:05.678603+01:00",
+    "raw_valid": true,
+    "song_session_id": "87a483c4-1ac3-44bb-9fb4-5222164714dc",
+    "duration_ms": 241893,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Pride",
+    "artists": [
+      "Felix Jaehn",
+      "Jhart"
+    ],
+    "isrc": "DEUM72503423",
+    "start_time": "2025-12-11 23:13:24",
+    "radio": "expres",
+    "recorded_at": "2025-12-11T23:13:43.558347+01:00",
+    "raw_valid": true,
+    "song_session_id": "0a2567ab-c006-40b2-8f74-bf5c47bf8dca",
+    "duration_ms": 158150,
+    "genre": []
+  },
+  {
+    "song": "Just The Way You Are",
+    "artists": [
+      "Bruno Mars"
+    ],
+    "isrc": "USAT21001269",
+    "start_time": "2025-12-11 23:16:04",
+    "radio": "expres",
+    "recorded_at": "2025-12-11T23:16:25.816128+01:00",
+    "raw_valid": true,
+    "song_session_id": "b6854e8d-c962-4b8c-94cd-c7fdc84e7087",
+    "duration_ms": 220733,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "We Pray",
+    "artists": [
+      "Coldplay",
+      "Little Simz",
+      "Burna Boy",
+      "Elyanna",
+      "Tini"
+    ],
+    "isrc": "GBAYE2400890",
+    "start_time": "2025-12-11 23:19:43",
+    "radio": "expres",
+    "recorded_at": "2025-12-11T23:20:08.835212+01:00",
+    "raw_valid": true,
+    "song_session_id": "710eb831-90e2-4554-9130-8e4dbede8626",
+    "duration_ms": 233406,
+    "genre": [
+      "pop rap"
+    ]
+  },
+  {
+    "song": "Forever Young",
+    "artists": [
+      "Alphaville"
+    ],
+    "isrc": "DEA629260150",
+    "start_time": "2025-12-11 23:23:10",
+    "radio": "expres",
+    "recorded_at": "2025-12-11T23:23:31.551305+01:00",
+    "raw_valid": true,
+    "song_session_id": "addca78a-5a24-45e9-859a-000f8a8bf226",
+    "duration_ms": 226706,
+    "genre": [
+      "electronic"
+    ]
+  },
+  {
+    "song": "Why Why Why",
+    "artists": [
+      "Shawn Mendes"
+    ],
+    "isrc": "USUM72408543",
+    "start_time": "2025-12-11 23:26:46",
+    "radio": "expres",
+    "recorded_at": "2025-12-11T23:27:14.480583+01:00",
+    "raw_valid": true,
+    "song_session_id": "d0db85dd-3a75-4a6f-92f3-31cfe862af78",
+    "duration_ms": 169041,
+    "genre": []
+  },
+  {
+    "song": "Najkrajsie Vianoce",
+    "artists": [
+      "Imt Smile"
+    ],
+    "isrc": "SKA011000112",
+    "start_time": "2025-12-11 23:29:38",
+    "radio": "expres",
+    "recorded_at": "2025-12-11T23:29:56.907806+01:00",
+    "raw_valid": true,
+    "song_session_id": "696c0411-cbf7-4db9-8414-43a67df5a905",
+    "duration_ms": 180932,
+    "genre": []
+  },
+  {
+    "song": "The Fate Of Ophelia",
+    "artists": [
+      "Taylor Swift"
+    ],
+    "isrc": "USUG12506436",
+    "start_time": "2025-12-11 23:33:52",
+    "radio": "expres",
+    "recorded_at": "2025-12-11T23:34:25.455445+01:00",
+    "raw_valid": true,
+    "song_session_id": "256ce617-1645-4ff0-9c84-ff890c8ddf58",
+    "duration_ms": 226073,
+    "genre": [
+      "electronic"
+    ]
+  },
+  {
+    "song": "Kristinka Iba Spi",
+    "artists": [
+      "Peter Nagy"
+    ],
+    "isrc": "SKA128456906",
+    "start_time": "2025-12-11 23:37:36",
+    "radio": "expres",
+    "recorded_at": "2025-12-11T23:38:03.394847+01:00",
+    "raw_valid": true,
+    "song_session_id": "a7eaed37-75b4-477c-85a9-0f54f38a8463",
+    "duration_ms": 293826,
+    "genre": []
+  },
+  {
+    "song": "Summer Wine",
+    "artists": [
+      "Ville Valo",
+      "Natalia Avelon"
+    ],
+    "isrc": "DEA620600750",
+    "start_time": "2025-12-11 23:42:15",
+    "radio": "expres",
+    "recorded_at": "2025-12-11T23:42:48.061858+01:00",
+    "raw_valid": true,
+    "song_session_id": "a6a120d4-9118-4201-8e6a-21f7b713701e",
+    "duration_ms": 233546,
+    "genre": [
+      "soundtrack"
+    ]
+  },
+  {
+    "song": "Head Above Water",
+    "artists": [
+      "Twocolors",
+      "Safri Duo",
+      "Chris De Sarandy"
+    ],
+    "isrc": "DEUM72503698",
+    "start_time": "2025-12-11 23:46:16",
+    "radio": "expres",
+    "recorded_at": "2025-12-11T23:46:51.297142+01:00",
+    "raw_valid": true,
+    "song_session_id": "2acd5920-bada-4fe4-b6a2-15dd359f9884",
+    "duration_ms": 174550,
+    "genre": []
+  },
+  {
+    "song": "Stan",
+    "artists": [
+      "Eminem",
+      "Dido"
+    ],
+    "isrc": "USIR10001280",
+    "start_time": "2025-12-11 23:49:18",
+    "radio": "expres",
+    "recorded_at": "2025-12-11T23:49:53.768999+01:00",
+    "raw_valid": true,
+    "song_session_id": "2394a3ca-9a69-43e9-ba54-42996c997c9c",
+    "duration_ms": 404426,
+    "genre": [
+      "electronic"
+    ]
+  },
+  {
+    "song": "Waterfall",
+    "artists": [
+      "Michael Schulte",
+      "R3Hab"
+    ],
+    "isrc": "DEUM72119688",
+    "start_time": "2025-12-11 23:52:56",
+    "radio": "expres",
+    "recorded_at": "2025-12-11T23:53:16.524506+01:00",
+    "raw_valid": true,
+    "song_session_id": "776c998b-bb58-41a7-bca3-4a543596faa6",
+    "duration_ms": 137999,
+    "genre": []
+  },
+  {
+    "song": "Mad",
+    "artists": [
+      "Martin Garrix",
+      "Lauv"
+    ],
+    "isrc": "NLM5S2502535",
+    "start_time": "2025-12-11 23:55:13",
+    "radio": "expres",
+    "recorded_at": "2025-12-11T23:55:38.367046+01:00",
+    "raw_valid": true,
+    "song_session_id": "6049ff01-48a2-411b-af23-c00ddd8b2f74",
+    "duration_ms": 199804,
+    "genre": []
+  },
+  {
+    "song": "All I Want For Christmas Is You",
+    "artists": [
+      "Mariah Carey"
+    ],
+    "isrc": "USSM19400325",
+    "start_time": "2025-12-11 23:58:53",
+    "radio": "expres",
+    "recorded_at": "2025-12-11T23:59:21.292506+01:00",
+    "raw_valid": true,
+    "song_session_id": "a06badea-400a-48dd-be7f-b97c7c3e16fa",
+    "duration_ms": 241853,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "The One",
+    "artists": [
+      "Michael Patrick Kelly"
+    ],
+    "isrc": "DEE862500476",
+    "start_time": "2025-12-12 00:06:15",
+    "radio": "expres",
+    "recorded_at": "2025-12-12T00:06:46.943360+01:00",
+    "raw_valid": true,
+    "song_session_id": "783960a8-6b02-4938-9ec9-3611ce699f31",
+    "duration_ms": 181194,
+    "genre": []
+  },
+  {
+    "song": "Zijeme Len Raz",
+    "artists": [
+      "Ego",
+      "Robert Burian"
+    ],
+    "isrc": "CZA231204265",
+    "start_time": "2025-12-12 00:09:15",
+    "radio": "expres",
+    "recorded_at": "2025-12-12T00:09:49.414335+01:00",
+    "raw_valid": true,
+    "song_session_id": "9babbf46-dc02-4a54-92b7-bfb7da2fcd73",
+    "duration_ms": 205780,
+    "genre": []
+  },
+  {
+    "song": "Ordinary",
+    "artists": [
+      "Alex Warren"
+    ],
+    "isrc": "USAT22500463",
+    "start_time": "2025-12-12 00:12:37",
+    "radio": "expres",
+    "recorded_at": "2025-12-12T00:13:12.145095+01:00",
+    "raw_valid": true,
+    "song_session_id": "3bd8abc7-0414-4f2e-9659-6ce8833f13f8",
+    "duration_ms": 186964,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Linda",
+    "artists": [
+      "Para"
+    ],
+    "isrc": "TCACS1685920",
+    "start_time": "2025-12-12 00:15:39",
+    "radio": "expres",
+    "recorded_at": "2025-12-12T00:16:14.699603+01:00",
+    "raw_valid": true,
+    "song_session_id": "8e0aaffe-8b00-48ee-aec9-530e513d145d",
+    "duration_ms": 317628,
+    "genre": []
+  },
+  {
+    "song": "Moonlight Shadow",
+    "artists": [
+      "Mike Oldfield",
+      "Maggie Reilly"
+    ],
+    "isrc": "GBAAA8300001",
+    "start_time": "2025-12-12 00:18:58",
+    "radio": "expres",
+    "recorded_at": "2025-12-12T00:19:17.370079+01:00",
+    "raw_valid": true,
+    "song_session_id": "8fa7b0a5-886b-4878-a3a5-c0c44e5af934",
+    "duration_ms": 218226,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Mam Ta Rad",
+    "artists": [
+      "Peter Cmorik"
+    ],
+    "isrc": "CZA210900965",
+    "start_time": "2025-12-12 00:22:08",
+    "radio": "expres",
+    "recorded_at": "2025-12-12T00:22:40.026671+01:00",
+    "raw_valid": true,
+    "song_session_id": "1552f3cc-79b7-44a6-848c-1d87d7537cfc",
+    "duration_ms": 251600,
+    "genre": []
+  },
+  {
+    "song": "Blood Running",
+    "artists": [
+      "Ray Dalton"
+    ],
+    "isrc": "DEUM72507812",
+    "start_time": "2025-12-12 00:26:12",
+    "radio": "expres",
+    "recorded_at": "2025-12-12T00:26:43.301303+01:00",
+    "raw_valid": true,
+    "song_session_id": "8744727d-78a3-4d6d-b3eb-cb0d22a0a166",
+    "duration_ms": 173146,
+    "genre": []
+  },
+  {
+    "song": "Regalo",
+    "artists": [
+      "Alvaro Soler"
+    ],
+    "isrc": "DEE862500388",
+    "start_time": "2025-12-12 00:29:20",
+    "radio": "expres",
+    "recorded_at": "2025-12-12T00:29:45.800021+01:00",
+    "raw_valid": true,
+    "song_session_id": "12794f82-f7fe-4ffd-b036-3141fddb2a7d",
+    "duration_ms": 184984,
+    "genre": []
+  },
+  {
+    "song": "Vianocna Pohoda",
+    "artists": [
+      "Radio Expres",
+      "Sam Sebou",
+      "Kali"
+    ],
+    "isrc": "CZCZ42400089",
+    "start_time": "2025-12-12 00:32:27",
+    "radio": "expres",
+    "recorded_at": "2025-12-12T00:32:48.238940+01:00",
+    "raw_valid": true,
+    "song_session_id": "f8c7d75f-0932-4582-b5b0-cd009e4b2c65",
+    "duration_ms": 164833,
+    "genre": []
+  },
+  {
+    "song": "Wonderful Life 25",
+    "artists": [
+      "Hurts",
+      "Purple Disco Machine"
+    ],
+    "isrc": "DEE862500677",
+    "start_time": "2025-12-12 00:36:01",
+    "radio": "expres",
+    "recorded_at": "2025-12-12T00:36:31.148421+01:00",
+    "raw_valid": true,
+    "song_session_id": "43a5e1c0-d1b8-485d-abdd-b33f23a3dc43",
+    "duration_ms": 178658,
+    "genre": []
+  },
+  {
+    "song": "Co Boli To Preboli",
+    "artists": [
+      "Miro Zbirka",
+      "Martha"
+    ],
+    "isrc": "SKA010110114",
+    "start_time": "2025-12-12 00:38:59",
+    "radio": "expres",
+    "recorded_at": "2025-12-12T00:39:33.632602+01:00",
+    "raw_valid": true,
+    "song_session_id": "c9ca6878-df23-44db-9f1a-83fa97a8eb90",
+    "duration_ms": 203520,
+    "genre": []
+  },
+  {
+    "song": "What Is Love",
+    "artists": [
+      "Haddaway"
+    ],
+    "isrc": "DEA410500401",
+    "start_time": "2025-12-12 00:42:10",
+    "radio": "expres",
+    "recorded_at": "2025-12-12T00:42:36.220267+01:00",
+    "raw_valid": true,
+    "song_session_id": "f073c2c3-9260-40cf-8146-b4aa47230394",
+    "duration_ms": 270373,
+    "genre": [
+      "trance"
+    ]
+  },
+  {
+    "song": "Dvaja",
+    "artists": [
+      "Robo Grigorov"
+    ],
+    "isrc": "SKA128676205",
+    "start_time": "2025-12-12 00:46:48",
+    "radio": "expres",
+    "recorded_at": "2025-12-12T00:47:19.880514+01:00",
+    "raw_valid": true,
+    "song_session_id": "bc48016e-339f-491d-aadc-488bc1b7b4e9",
+    "duration_ms": 288800,
+    "genre": []
+  },
+  {
+    "song": "Mystical Magical",
+    "artists": [
+      "Benson Boone"
+    ],
+    "isrc": "USWB12500844",
+    "start_time": "2025-12-12 00:51:04",
+    "radio": "expres",
+    "recorded_at": "2025-12-12T00:51:23.121426+01:00",
+    "raw_valid": true,
+    "song_session_id": "24ed6c6a-f31d-40fd-9f51-3ef05d887dd6",
+    "duration_ms": 165746,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Zi A Nechaj Zit",
+    "artists": [
+      "Marika Gombitova"
+    ],
+    "isrc": "SKA128791508",
+    "start_time": "2025-12-12 00:53:55",
+    "radio": "expres",
+    "recorded_at": "2025-12-12T00:54:25.639158+01:00",
+    "raw_valid": true,
+    "song_session_id": "5876e9ff-d620-448e-84fd-9d8027cd5757",
+    "duration_ms": 322293,
+    "genre": []
+  }
+]

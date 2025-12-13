@@ -1,0 +1,343 @@
+[
+  {
+    "song": "Mystical Magical",
+    "artists": [
+      "Benson Boone"
+    ],
+    "isrc": "USWB12500844",
+    "start_time": "2025-11-19 16:08:05",
+    "radio": "expres",
+    "recorded_at": "2025-11-19T16:08:30.373989+01:00",
+    "raw_valid": true,
+    "song_session_id": "bd340e7c-5e5e-4748-aa03-1ece9c6ecc0b",
+    "duration_ms": 165746,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Grenade",
+    "artists": [
+      "Bruno Mars"
+    ],
+    "isrc": "USAT21001883",
+    "start_time": "2025-11-19 16:10:54",
+    "radio": "expres",
+    "recorded_at": "2025-11-19T16:11:30.160209+01:00",
+    "raw_valid": true,
+    "song_session_id": "f3b9a189-1ad0-4d04-854b-abea22dda700",
+    "duration_ms": 222091,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Pride",
+    "artists": [
+      "Felix Jaehn",
+      "Jhart"
+    ],
+    "isrc": "DEUM72503423",
+    "start_time": "2025-11-19 16:14:34",
+    "radio": "expres",
+    "recorded_at": "2025-11-19T16:15:11.692499+01:00",
+    "raw_valid": true,
+    "song_session_id": "e0a419ce-8931-4cec-9e67-4711bdb95b78",
+    "duration_ms": 158150,
+    "genre": []
+  },
+  {
+    "song": "Its My Life",
+    "artists": [
+      "Bon Jovi"
+    ],
+    "isrc": "USIR20000145",
+    "start_time": "2025-11-19 16:20:07",
+    "radio": "expres",
+    "recorded_at": "2025-11-19T16:20:31.452658+01:00",
+    "raw_valid": true,
+    "song_session_id": "a1b40754-cd83-471b-b267-dca99d00051b",
+    "duration_ms": 224600,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Flowers",
+    "artists": [
+      "Miley Cyrus"
+    ],
+    "isrc": "USSM12209777",
+    "start_time": "2025-11-19 16:24:04",
+    "radio": "expres",
+    "recorded_at": "2025-11-19T16:24:34.664428+01:00",
+    "raw_valid": true,
+    "song_session_id": "5e83d657-8326-4f8d-ba34-322054ee499a",
+    "duration_ms": 200454,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Beautiful People",
+    "artists": [
+      "David Guetta",
+      "Sia"
+    ],
+    "isrc": "UKWLG2500016",
+    "start_time": "2025-11-19 16:34:13",
+    "radio": "expres",
+    "recorded_at": "2025-11-19T16:34:53.410510+01:00",
+    "raw_valid": true,
+    "song_session_id": "57b5a61c-43a9-4ea6-85ae-141838e8d234",
+    "duration_ms": 187086,
+    "genre": []
+  },
+  {
+    "song": "Zombie",
+    "artists": [
+      "Cranberries"
+    ],
+    "isrc": "USUM72009888",
+    "start_time": "2025-11-19 16:37:04",
+    "radio": "expres",
+    "recorded_at": "2025-11-19T16:37:32.633351+01:00",
+    "raw_valid": true,
+    "song_session_id": "353dd778-f0db-473a-b2d0-6a97da144565",
+    "duration_ms": 307813,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Viva La Vida",
+    "artists": [
+      "Coldplay"
+    ],
+    "isrc": "GBAYE0800265",
+    "start_time": "2025-11-19 16:41:20",
+    "radio": "expres",
+    "recorded_at": "2025-11-19T16:41:54.455210+01:00",
+    "raw_valid": true,
+    "song_session_id": "d0164d4f-f14d-46fb-8809-d43f8f845669",
+    "duration_ms": 242373,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Medzi Nebom A Zenou",
+    "artists": [
+      "Banket",
+      "Richard Muller",
+      "Ema Muller"
+    ],
+    "isrc": "SKC362500009",
+    "start_time": "2025-11-19 16:45:01",
+    "radio": "expres",
+    "recorded_at": "2025-11-19T16:45:44.325383+01:00",
+    "raw_valid": true,
+    "song_session_id": "25094c3f-40d5-433e-8fdc-0c978f5f4a6c",
+    "duration_ms": 228666,
+    "genre": []
+  },
+  {
+    "song": "The Look",
+    "artists": [
+      "Roxette"
+    ],
+    "isrc": "SEAME8878010",
+    "start_time": "2025-11-19 16:49:58",
+    "radio": "expres",
+    "recorded_at": "2025-11-19T16:50:38.821750+01:00",
+    "raw_valid": true,
+    "song_session_id": "429c3283-6734-4bcc-903e-a05577d01079",
+    "duration_ms": 237320,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Pomarance Z Kuby",
+    "artists": [
+      "Hex"
+    ],
+    "isrc": "SKCA92300105",
+    "start_time": "2025-11-19 16:53:52",
+    "radio": "expres",
+    "recorded_at": "2025-11-19T16:54:18.671094+01:00",
+    "raw_valid": true,
+    "song_session_id": "57bb99c4-c675-4f8b-baeb-a62ac0063df0",
+    "duration_ms": 260316,
+    "genre": []
+  },
+  {
+    "song": "Undressed",
+    "artists": [
+      "Sombr"
+    ],
+    "isrc": "USWB12500737",
+    "start_time": "2025-11-19 17:13:26",
+    "radio": "expres",
+    "recorded_at": "2025-11-19T17:13:59.093828+01:00",
+    "raw_valid": true,
+    "song_session_id": "2f6d4581-f8a7-430c-8a28-fd08f3b1541b",
+    "duration_ms": 182088,
+    "genre": [
+      "indie pop"
+    ]
+  },
+  {
+    "song": "Whistle",
+    "artists": [
+      "Flo Rida"
+    ],
+    "isrc": "USAT21201745",
+    "start_time": "2025-11-19 17:16:24",
+    "radio": "expres",
+    "recorded_at": "2025-11-19T17:17:01.780292+01:00",
+    "raw_valid": true,
+    "song_session_id": "802e73c2-968d-447c-b4d5-4a7e35ba1c26",
+    "duration_ms": 225000,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Eternity",
+    "artists": [
+      "Alex Warren"
+    ],
+    "isrc": "USAT22503779",
+    "start_time": "2025-11-19 17:20:05",
+    "radio": "expres",
+    "recorded_at": "2025-11-19T17:20:46.139670+01:00",
+    "raw_valid": true,
+    "song_session_id": "6efe99ea-ff57-417e-964f-a819bb21b117",
+    "duration_ms": 189553,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Forbidden Road",
+    "artists": [
+      "Robbie Williams"
+    ],
+    "isrc": "GBPS62400032",
+    "start_time": "2025-11-19 17:23:37",
+    "radio": "expres",
+    "recorded_at": "2025-11-19T17:24:04.185214+01:00",
+    "raw_valid": true,
+    "song_session_id": "ed84bb2f-aa32-4c9b-b1e4-5fb423feef79",
+    "duration_ms": 197419,
+    "genre": []
+  },
+  {
+    "song": "I Love You Always Forever",
+    "artists": [
+      "Donna Lewis"
+    ],
+    "isrc": "USAT29600040",
+    "start_time": "2025-11-19 17:26:36",
+    "radio": "expres",
+    "recorded_at": "2025-11-19T17:27:07.214542+01:00",
+    "raw_valid": true,
+    "song_session_id": "77af5d1d-d026-4620-8a18-5a2e4a113b40",
+    "duration_ms": 239960,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Afterlife",
+    "artists": [
+      "Michael Schulte"
+    ],
+    "isrc": "DECE72500509",
+    "start_time": "2025-11-19 17:35:22",
+    "radio": "expres",
+    "recorded_at": "2025-11-19T17:35:44.205233+01:00",
+    "raw_valid": true,
+    "song_session_id": "84d7cf7a-4344-4e71-b12d-faa3b6a022d6",
+    "duration_ms": 160120,
+    "genre": []
+  },
+  {
+    "song": "Runaway Train",
+    "artists": [
+      "Soul Asylum"
+    ],
+    "isrc": "USSM19200235",
+    "start_time": "2025-11-19 17:37:58",
+    "radio": "expres",
+    "recorded_at": "2025-11-19T17:38:31.741752+01:00",
+    "raw_valid": true,
+    "song_session_id": "c1e13d8c-cbed-4207-b873-789907b9f8e1",
+    "duration_ms": 266573,
+    "genre": []
+  },
+  {
+    "song": "Save My Love",
+    "artists": [
+      "Marshmello",
+      "Ellie Goulding",
+      "Avaion"
+    ],
+    "isrc": "USUG12504310",
+    "start_time": "2025-11-19 17:42:20",
+    "radio": "expres",
+    "recorded_at": "2025-11-19T17:42:46.738014+01:00",
+    "raw_valid": true,
+    "song_session_id": "36f012ab-893a-4d8d-afd6-e544e757f982",
+    "duration_ms": 215555,
+    "genre": []
+  },
+  {
+    "song": "Birds",
+    "artists": [
+      "Imagine Dragons",
+      "Elisa"
+    ],
+    "isrc": "USUM71911107",
+    "start_time": "2025-11-19 17:45:55",
+    "radio": "expres",
+    "recorded_at": "2025-11-19T17:46:28.260018+01:00",
+    "raw_valid": true,
+    "song_session_id": "04807ebb-39bd-4fa9-84e1-0e8079f4ada8",
+    "duration_ms": 219434,
+    "genre": []
+  },
+  {
+    "song": "The Final Countdown",
+    "artists": [
+      "Europe"
+    ],
+    "isrc": "USSM18600196",
+    "start_time": "2025-11-19 17:50:57",
+    "radio": "expres",
+    "recorded_at": "2025-11-19T17:51:37.511089+01:00",
+    "raw_valid": true,
+    "song_session_id": "f0d9f89d-4164-49e2-afe4-5743e9508a6d",
+    "duration_ms": 311034,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Too Sweet",
+    "artists": [
+      "Hozier"
+    ],
+    "isrc": "IEACJ2300335",
+    "start_time": "2025-11-19 17:54:53",
+    "radio": "expres",
+    "recorded_at": "2025-11-19T17:55:33.313734+01:00",
+    "raw_valid": true,
+    "song_session_id": "c06755f5-c4c0-4928-9ab1-4d15641c2ae0",
+    "duration_ms": 251424,
+    "genre": [
+      "pop"
+    ]
+  }
+]

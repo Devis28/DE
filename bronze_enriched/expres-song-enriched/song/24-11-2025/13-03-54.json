@@ -1,0 +1,201 @@
+[
+  {
+    "song": "The Fate Of Ophelia",
+    "artists": [
+      "Taylor Swift"
+    ],
+    "isrc": "USUG12506436",
+    "start_time": "2025-11-24 12:55:00",
+    "radio": "expres",
+    "recorded_at": "2025-11-24T12:55:32.082671+01:00",
+    "raw_valid": true,
+    "song_session_id": "81eb21cc-63d1-44c9-a653-3133955d5db1",
+    "duration_ms": 226073,
+    "genre": [
+      "electronic"
+    ]
+  },
+  {
+    "song": "The Unforgiven",
+    "artists": [
+      "Metallica"
+    ],
+    "isrc": "QMKHM1900004",
+    "start_time": "2025-11-24 12:58:31",
+    "radio": "expres",
+    "recorded_at": "2025-11-24T12:58:40.593681+01:00",
+    "raw_valid": true,
+    "song_session_id": "328e1430-e3ca-4bfd-aef2-6343461733d6",
+    "duration_ms": 382880,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Be Mine",
+    "artists": [
+      "Kamrad"
+    ],
+    "isrc": "DE1NJ2500035",
+    "start_time": "2025-11-24 13:07:25",
+    "radio": "expres",
+    "recorded_at": "2025-11-24T13:07:54.944959+01:00",
+    "raw_valid": true,
+    "song_session_id": "1cfbd180-1531-4e8c-93b6-3ccbd6f38e79",
+    "duration_ms": 156463,
+    "genre": []
+  },
+  {
+    "song": "Two Princes",
+    "artists": [
+      "Spin Doctors"
+    ],
+    "isrc": "USSM19000350",
+    "start_time": "2025-11-24 13:10:08",
+    "radio": "expres",
+    "recorded_at": "2025-11-24T13:10:37.388634+01:00",
+    "raw_valid": true,
+    "song_session_id": "0d4148d2-4c9d-4515-a53a-67d73374348a",
+    "duration_ms": 256946,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Forbidden Road",
+    "artists": [
+      "Robbie Williams"
+    ],
+    "isrc": "GBPS62400032",
+    "start_time": "2025-11-24 13:16:56",
+    "radio": "expres",
+    "recorded_at": "2025-11-24T13:17:19.465930+01:00",
+    "raw_valid": true,
+    "song_session_id": "318d2a1b-0963-4e31-b6e1-76ef86238456",
+    "duration_ms": 197419,
+    "genre": []
+  },
+  {
+    "song": "Nobody To Love",
+    "artists": [
+      "Sigma"
+    ],
+    "isrc": "GBSXS1400074",
+    "start_time": "2025-11-24 13:20:03",
+    "radio": "expres",
+    "recorded_at": "2025-11-24T13:20:17.213555+01:00",
+    "raw_valid": true,
+    "song_session_id": "4f531e47-76ee-4de4-86ab-e04a5fa6cfa1",
+    "duration_ms": 249360,
+    "genre": []
+  },
+  {
+    "song": "Where Is My Husband",
+    "artists": [
+      "Raye"
+    ],
+    "isrc": "QMFME2535037",
+    "start_time": "2025-11-24 13:23:20",
+    "radio": "expres",
+    "recorded_at": "2025-11-24T13:23:40.537154+01:00",
+    "raw_valid": true,
+    "song_session_id": "a7124bed-2b38-4f0e-9e2f-795fb69d5689",
+    "duration_ms": 196795,
+    "genre": [
+      "offizielle charts"
+    ]
+  },
+  {
+    "song": "The One",
+    "artists": [
+      "Michael Patrick Kelly"
+    ],
+    "isrc": "DEE862500476",
+    "start_time": "2025-11-24 13:31:53",
+    "radio": "expres",
+    "recorded_at": "2025-11-24T13:32:16.019615+01:00",
+    "raw_valid": true,
+    "song_session_id": "0c9115a3-4bdd-47db-a674-6818120647ce",
+    "duration_ms": 181194,
+    "genre": []
+  },
+  {
+    "song": "Ill Be Missing You",
+    "artists": [
+      "Puff Daddy",
+      "Faith Evans"
+    ],
+    "isrc": "USBB40581044",
+    "start_time": "2025-11-24 13:34:41",
+    "radio": "expres",
+    "recorded_at": "2025-11-24T13:35:08.905526+01:00",
+    "raw_valid": true,
+    "song_session_id": "c567a2cd-35e0-4a01-9eaf-734f10168caa",
+    "duration_ms": 301520,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Head Above Water",
+    "artists": [
+      "Twocolors",
+      "Safri Duo",
+      "Chris De Sarandy"
+    ],
+    "isrc": "DEUM72503698",
+    "start_time": "2025-11-24 13:39:46",
+    "radio": "expres",
+    "recorded_at": "2025-11-24T13:40:11.448437+01:00",
+    "raw_valid": true,
+    "song_session_id": "89574cc5-eba4-4045-a8f3-37db66d23093",
+    "duration_ms": 174550,
+    "genre": []
+  },
+  {
+    "song": "Bad Habits",
+    "artists": [
+      "Ed Sheeran"
+    ],
+    "isrc": "GBAHS2100318",
+    "start_time": "2025-11-24 13:45:49",
+    "radio": "expres",
+    "recorded_at": "2025-11-24T13:46:16.884923+01:00",
+    "raw_valid": true,
+    "song_session_id": "a1b5b06e-22dc-4bd3-a9ca-11bb2b262046",
+    "duration_ms": 230746,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Domov",
+    "artists": [
+      "Alan Murin"
+    ],
+    "isrc": "QZWDW2424416",
+    "start_time": "2025-11-24 13:49:41",
+    "radio": "expres",
+    "recorded_at": "2025-11-24T13:50:09.038180+01:00",
+    "raw_valid": true,
+    "song_session_id": "53dc8aa4-553e-4d33-96cc-89749a70ebc5",
+    "duration_ms": 240000,
+    "genre": []
+  },
+  {
+    "song": "Heaven",
+    "artists": [
+      "Bryan Adams"
+    ],
+    "isrc": "USAM18490004",
+    "start_time": "2025-11-24 13:53:43",
+    "radio": "expres",
+    "recorded_at": "2025-11-24T13:54:05.047036+01:00",
+    "raw_valid": true,
+    "song_session_id": "714cf579-f0f6-4f29-beb2-13d036e1d029",
+    "duration_ms": 244040,
+    "genre": [
+      "rock"
+    ]
+  }
+]

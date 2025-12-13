@@ -1,0 +1,440 @@
+[
+  {
+    "song": "Glide",
+    "artists": [
+      "Neiked",
+      "Portugal The Man"
+    ],
+    "isrc": "DEE862500421",
+    "start_time": "2025-11-16 10:06:43",
+    "radio": "expres",
+    "recorded_at": "2025-11-16T10:07:27.234369+01:00",
+    "raw_valid": true,
+    "song_session_id": "e03b016a-202c-40c9-a214-5a1f3033ba2b",
+    "duration_ms": 184405,
+    "genre": []
+  },
+  {
+    "song": "Almost Lover",
+    "artists": [
+      "A Fine Frenzy"
+    ],
+    "isrc": "USVI20700644",
+    "start_time": "2025-11-16 10:09:43",
+    "radio": "expres",
+    "recorded_at": "2025-11-16T10:10:09.752605+01:00",
+    "raw_valid": true,
+    "song_session_id": "91fd0177-f57e-40c7-9e49-27c00ff91351",
+    "duration_ms": 268800,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Eye Of The Tiger",
+    "artists": [
+      "Survivor"
+    ],
+    "isrc": "USVR19300001",
+    "start_time": "2025-11-16 10:13:31",
+    "radio": "expres",
+    "recorded_at": "2025-11-16T10:13:53.219280+01:00",
+    "raw_valid": true,
+    "song_session_id": "e48e4019-bf7d-4808-aa40-2792b70e4bda",
+    "duration_ms": 246080,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Green Green Grass",
+    "artists": [
+      "George Ezra"
+    ],
+    "isrc": "GBARL2200008",
+    "start_time": "2025-11-16 10:17:19",
+    "radio": "expres",
+    "recorded_at": "2025-11-16T10:17:51.594135+01:00",
+    "raw_valid": true,
+    "song_session_id": "ff34b4bc-1330-4253-9e33-f24b8f4a9925",
+    "duration_ms": 167613,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Vsetko Bude Dobre",
+    "artists": [
+      "Gladiator"
+    ],
+    "isrc": "SKCM72560001",
+    "start_time": "2025-11-16 10:20:05",
+    "radio": "expres",
+    "recorded_at": "2025-11-16T10:20:34.188810+01:00",
+    "raw_valid": true,
+    "song_session_id": "24be6476-7761-4462-8fba-4dec4d52c723",
+    "duration_ms": 166588,
+    "genre": []
+  },
+  {
+    "song": "Be My Lover",
+    "artists": [
+      "La Bouche"
+    ],
+    "isrc": "DED169500047",
+    "start_time": "2025-11-16 10:23:05",
+    "radio": "expres",
+    "recorded_at": "2025-11-16T10:23:36.931587+01:00",
+    "raw_valid": true,
+    "song_session_id": "fea28b6a-3da3-4c5f-b0b0-f531618137d3",
+    "duration_ms": 240266,
+    "genre": [
+      "electronic"
+    ]
+  },
+  {
+    "song": "Let Me Die",
+    "artists": [
+      "Mark Dann",
+      "Giovanni Ricci"
+    ],
+    "isrc": "US38Y2520370",
+    "start_time": "2025-11-16 10:32:00",
+    "radio": "expres",
+    "recorded_at": "2025-11-16T10:32:39.607531+01:00",
+    "raw_valid": true,
+    "song_session_id": "e1deef23-fe85-42d9-a90d-723dc43bf228",
+    "duration_ms": 147010,
+    "genre": []
+  },
+  {
+    "song": "Cesta",
+    "artists": [
+      "Krystof",
+      "Tomas Klus"
+    ],
+    "isrc": "CZUM71200138",
+    "start_time": "2025-11-16 10:34:19",
+    "radio": "expres",
+    "recorded_at": "2025-11-16T10:38:02.453079+01:00",
+    "raw_valid": true,
+    "song_session_id": "a7d5022c-9265-4d2b-ad47-cd9564324101",
+    "duration_ms": 349500,
+    "genre": []
+  },
+  {
+    "song": "Heaven Is A Place On Earth",
+    "artists": [
+      "Belinda Carlisle"
+    ],
+    "isrc": "GBBLG8700257",
+    "start_time": "2025-11-16 10:38:27",
+    "radio": "expres",
+    "recorded_at": "2025-11-16T10:38:58.656232+01:00",
+    "raw_valid": true,
+    "song_session_id": "f1cc54ef-21f9-445c-a0b5-95743d629147",
+    "duration_ms": 234333,
+    "genre": []
+  },
+  {
+    "song": "The Fate Of Ophelia",
+    "artists": [
+      "Taylor Swift"
+    ],
+    "isrc": "USUG12506436",
+    "start_time": "2025-11-16 10:42:32",
+    "radio": "expres",
+    "recorded_at": "2025-11-16T10:43:02.377617+01:00",
+    "raw_valid": true,
+    "song_session_id": "6ba71ee8-c176-4efe-ac82-82bf246744b6",
+    "duration_ms": 226073,
+    "genre": [
+      "electronic"
+    ]
+  },
+  {
+    "song": "Narcotic",
+    "artists": [
+      "Liquido"
+    ],
+    "isrc": "DEG129800581",
+    "start_time": "2025-11-16 10:46:18",
+    "radio": "expres",
+    "recorded_at": "2025-11-16T10:46:41.517612+01:00",
+    "raw_valid": true,
+    "song_session_id": "ded4b584-7a29-4b27-8c53-549db29e8e36",
+    "duration_ms": 236150,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Thats So True",
+    "artists": [
+      "Gracie Abrams"
+    ],
+    "isrc": "USUG12406903",
+    "start_time": "2025-11-16 10:49:51",
+    "radio": "expres",
+    "recorded_at": "2025-11-16T10:50:19.984763+01:00",
+    "raw_valid": true,
+    "song_session_id": "f3a5b941-9676-4d66-8917-ec503cb9b9f0",
+    "duration_ms": 130771,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Leave Before You Love Me",
+    "artists": [
+      "Marshmello",
+      "Jonas Brothers"
+    ],
+    "isrc": "USUG12102313",
+    "start_time": "2025-11-16 10:52:46",
+    "radio": "expres",
+    "recorded_at": "2025-11-16T10:53:25.023925+01:00",
+    "raw_valid": true,
+    "song_session_id": "25115c1a-4669-4109-b620-5d2e023cb0b9",
+    "duration_ms": 154983,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Chci Zas V Tobe Spat",
+    "artists": [
+      "Lucie"
+    ],
+    "isrc": "CZUM71400331",
+    "start_time": "2025-11-16 10:55:21",
+    "radio": "expres",
+    "recorded_at": "2025-11-16T10:55:42.387939+01:00",
+    "raw_valid": true,
+    "song_session_id": "20b00198-7afb-4486-a8f2-65308bb25047",
+    "duration_ms": 305186,
+    "genre": []
+  },
+  {
+    "song": "Regalo",
+    "artists": [
+      "Alvaro Soler"
+    ],
+    "isrc": "DEE862500388",
+    "start_time": "2025-11-16 11:06:51",
+    "radio": "expres",
+    "recorded_at": "2025-11-16T11:07:26.626851+01:00",
+    "raw_valid": true,
+    "song_session_id": "796d4a06-fb44-4fa2-9ad9-ff026f0ca456",
+    "duration_ms": 184984,
+    "genre": []
+  },
+  {
+    "song": "Can You Feel The Love Tonight",
+    "artists": [
+      "Elton John"
+    ],
+    "isrc": "USWD10220758",
+    "start_time": "2025-11-16 11:10:08",
+    "radio": "expres",
+    "recorded_at": "2025-11-16T11:10:45.307158+01:00",
+    "raw_valid": true,
+    "song_session_id": "ca553b5b-b442-41f6-8a53-154cd2cca11e",
+    "duration_ms": 241386,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Houdini",
+    "artists": [
+      "Dua Lipa"
+    ],
+    "isrc": "GBAHT2301246",
+    "start_time": "2025-11-16 11:14:00",
+    "radio": "expres",
+    "recorded_at": "2025-11-16T11:14:28.744205+01:00",
+    "raw_valid": true,
+    "song_session_id": "2fdb1a72-4b84-4181-bf91-ed8a74030f70",
+    "duration_ms": 185917,
+    "genre": [
+      "electronic"
+    ]
+  },
+  {
+    "song": "La Bicicleta",
+    "artists": [
+      "Carlos Vives",
+      "Shakira"
+    ],
+    "isrc": "USSD11600112",
+    "start_time": "2025-11-16 11:17:04",
+    "radio": "expres",
+    "recorded_at": "2025-11-16T11:17:30.301417+01:00",
+    "raw_valid": true,
+    "song_session_id": "a8a46ca4-42cf-4af5-8926-c958563d3caf",
+    "duration_ms": 226480,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Head Above Water",
+    "artists": [
+      "Twocolors",
+      "Safri Duo",
+      "Chris De Sarandy"
+    ],
+    "isrc": "DEUM72503698",
+    "start_time": "2025-11-16 11:20:50",
+    "radio": "expres",
+    "recorded_at": "2025-11-16T11:21:10.866726+01:00",
+    "raw_valid": true,
+    "song_session_id": "03ba1571-276b-458e-ac0b-7b5a9ab824f4",
+    "duration_ms": 174550,
+    "genre": []
+  },
+  {
+    "song": "Reklama Na Ticho",
+    "artists": [
+      "Team"
+    ],
+    "isrc": "SKA128804502",
+    "start_time": "2025-11-16 11:23:55",
+    "radio": "expres",
+    "recorded_at": "2025-11-16T11:24:28.857331+01:00",
+    "raw_valid": true,
+    "song_session_id": "abc6a14c-d362-46f3-b871-7e5b0c0cd225",
+    "duration_ms": 222426,
+    "genre": []
+  },
+  {
+    "song": "Locked Out Of Heaven",
+    "artists": [
+      "Bruno Mars"
+    ],
+    "isrc": "USAT21203287",
+    "start_time": "2025-11-16 11:32:01",
+    "radio": "expres",
+    "recorded_at": "2025-11-16T11:32:39.566501+01:00",
+    "raw_valid": true,
+    "song_session_id": "d0b49edd-2d38-49a1-baa5-9929e479b345",
+    "duration_ms": 233478,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Beautiful People",
+    "artists": [
+      "David Guetta",
+      "Sia"
+    ],
+    "isrc": "UKWLG2500016",
+    "start_time": "2025-11-16 11:35:44",
+    "radio": "expres",
+    "recorded_at": "2025-11-16T11:36:19.464749+01:00",
+    "raw_valid": true,
+    "song_session_id": "3c4a24aa-a901-4f18-8689-80239199f3f6",
+    "duration_ms": 187086,
+    "genre": [
+      "house"
+    ]
+  },
+  {
+    "song": "The Show Must Go On",
+    "artists": [
+      "Queen"
+    ],
+    "isrc": "GBUM71106221",
+    "start_time": "2025-11-16 11:38:49",
+    "radio": "expres",
+    "recorded_at": "2025-11-16T11:39:22.102565+01:00",
+    "raw_valid": true,
+    "song_session_id": "df0a0a36-c27c-484d-bc75-094e7b613a7c",
+    "duration_ms": 277826,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "My Oh My",
+    "artists": [
+      "Ava Max"
+    ],
+    "isrc": "USAT22401759",
+    "start_time": "2025-11-16 11:42:57",
+    "radio": "expres",
+    "recorded_at": "2025-11-16T11:43:35.800905+01:00",
+    "raw_valid": true,
+    "song_session_id": "9dce6720-21e0-4d8a-8c82-99af44f56720",
+    "duration_ms": 156155,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Medzi Nebom A Zenou",
+    "artists": [
+      "Banket",
+      "Richard Muller",
+      "Ema Muller"
+    ],
+    "isrc": "SKC362500009",
+    "start_time": "2025-11-16 11:45:26",
+    "radio": "expres",
+    "recorded_at": "2025-11-16T11:45:59.471994+01:00",
+    "raw_valid": true,
+    "song_session_id": "2e90c540-94b9-448f-a320-9b4ddad2ee25",
+    "duration_ms": 228666,
+    "genre": []
+  },
+  {
+    "song": "The Time Of My Life",
+    "artists": [
+      "Bill Medley",
+      "Jennifer Warnes"
+    ],
+    "isrc": "USRC10300895",
+    "start_time": "2025-11-16 11:49:39",
+    "radio": "expres",
+    "recorded_at": "2025-11-16T11:50:16.630195+01:00",
+    "raw_valid": true,
+    "song_session_id": "f52c8c6a-cb60-4718-817e-d63721f43fbd",
+    "duration_ms": 288986,
+    "genre": []
+  },
+  {
+    "song": "Alejandro",
+    "artists": [
+      "Lady Gaga"
+    ],
+    "isrc": "USUM70905526",
+    "start_time": "2025-11-16 11:54:08",
+    "radio": "expres",
+    "recorded_at": "2025-11-16T11:54:41.195194+01:00",
+    "raw_valid": true,
+    "song_session_id": "221cc8f6-9248-4b85-a895-fd24bc943788",
+    "duration_ms": 274213,
+    "genre": [
+      "electronic"
+    ]
+  },
+  {
+    "song": "Overdrive",
+    "artists": [
+      "Ofenbach",
+      "Norma Jean Martine"
+    ],
+    "isrc": "FR9W12347222",
+    "start_time": "2025-11-16 11:57:45",
+    "radio": "expres",
+    "recorded_at": "2025-11-16T11:58:23.051101+01:00",
+    "raw_valid": true,
+    "song_session_id": "a886f0ca-34a8-4a43-92bb-0338eb5fd469",
+    "duration_ms": 155905,
+    "genre": [
+      "pop"
+    ]
+  }
+]

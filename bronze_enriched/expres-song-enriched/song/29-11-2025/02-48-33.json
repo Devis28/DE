@@ -1,0 +1,505 @@
+[
+  {
+    "song": "Head Above Water",
+    "artists": [
+      "Twocolors",
+      "Safri Duo",
+      "Chris De Sarandy"
+    ],
+    "isrc": "DEUM72503698",
+    "start_time": "2025-11-29 01:48:29",
+    "radio": "expres",
+    "recorded_at": "2025-11-29T01:48:37.901341+01:00",
+    "raw_valid": true,
+    "song_session_id": "4b39a11e-281e-4dbe-905e-57e5580a38ce",
+    "duration_ms": 174550,
+    "genre": []
+  },
+  {
+    "song": "Nejsom Ten Pravy",
+    "artists": [
+      "Kali"
+    ],
+    "isrc": "SKE531800001",
+    "start_time": "2025-11-29 01:51:25",
+    "radio": "expres",
+    "recorded_at": "2025-11-29T01:51:49.410977+01:00",
+    "raw_valid": true,
+    "song_session_id": "e976f052-a956-4038-9781-fd6239169a78",
+    "duration_ms": 216711,
+    "genre": []
+  },
+  {
+    "song": "Hymn For The Weekend",
+    "artists": [
+      "Coldplay",
+      "Beyonce"
+    ],
+    "isrc": "GBAYE1500979",
+    "start_time": "2025-11-29 01:55:10",
+    "radio": "expres",
+    "recorded_at": "2025-11-29T01:55:33.319719+01:00",
+    "raw_valid": true,
+    "song_session_id": "f0d84cc8-9c60-47cf-825a-214ec12b3418",
+    "duration_ms": 258265,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Fero",
+    "artists": [
+      "Elan"
+    ],
+    "isrc": "SKA128678703",
+    "start_time": "2025-11-29 01:58:55",
+    "radio": "expres",
+    "recorded_at": "2025-11-29T01:59:16.906337+01:00",
+    "raw_valid": true,
+    "song_session_id": "06878153-cf42-4b5d-b518-fd18f1035daf",
+    "duration_ms": 198506,
+    "genre": []
+  },
+  {
+    "song": "Austin",
+    "artists": [
+      "Dasha"
+    ],
+    "isrc": "QZTB92360479",
+    "start_time": "2025-11-29 02:02:11",
+    "radio": "expres",
+    "recorded_at": "2025-11-29T02:02:40.249140+01:00",
+    "raw_valid": true,
+    "song_session_id": "1a92cfe6-2e02-4a6f-9193-9502e7f2e983",
+    "duration_ms": 171782,
+    "genre": []
+  },
+  {
+    "song": "Prievan V Penazenke",
+    "artists": [
+      "Team"
+    ],
+    "isrc": "SKA128917012",
+    "start_time": "2025-11-29 02:05:01",
+    "radio": "expres",
+    "recorded_at": "2025-11-29T02:05:28.163691+01:00",
+    "raw_valid": true,
+    "song_session_id": "b32489c4-da47-4aca-a197-0d0a4a04bf41",
+    "duration_ms": 181026,
+    "genre": []
+  },
+  {
+    "song": "The One",
+    "artists": [
+      "Michael Patrick Kelly"
+    ],
+    "isrc": "DEE862500476",
+    "start_time": "2025-11-29 02:08:05",
+    "radio": "expres",
+    "recorded_at": "2025-11-29T02:08:31.166654+01:00",
+    "raw_valid": true,
+    "song_session_id": "33493fcc-6ca4-49e6-acee-caa54218fcb1",
+    "duration_ms": 181194,
+    "genre": []
+  },
+  {
+    "song": "Sme Take Ake Sme",
+    "artists": [
+      "Beata Dubasova"
+    ],
+    "isrc": "SKA128784701",
+    "start_time": "2025-11-29 02:11:05",
+    "radio": "expres",
+    "recorded_at": "2025-11-29T02:11:34.123147+01:00",
+    "raw_valid": true,
+    "song_session_id": "21f59643-31ca-44fa-bd8c-07adb4b91a25",
+    "duration_ms": 255346,
+    "genre": []
+  },
+  {
+    "song": "Breakfast At Tiffanys",
+    "artists": [
+      "Deep Blue Something"
+    ],
+    "isrc": "USIR19500177",
+    "start_time": "2025-11-29 02:14:58",
+    "radio": "expres",
+    "recorded_at": "2025-11-29T02:15:18.059576+01:00",
+    "raw_valid": true,
+    "song_session_id": "f0c927da-12ac-4f49-b7b7-e0e36e83581a",
+    "duration_ms": 270080,
+    "genre": []
+  },
+  {
+    "song": "Jediny A Jedina",
+    "artists": [
+      "Zuzana Smatanova"
+    ],
+    "isrc": "SKI941800607",
+    "start_time": "2025-11-29 02:19:12",
+    "radio": "expres",
+    "recorded_at": "2025-11-29T02:19:26.865271+01:00",
+    "raw_valid": true,
+    "song_session_id": "9ac12b9a-7415-4664-92c4-b8101ecbf117",
+    "duration_ms": 258669,
+    "genre": []
+  },
+  {
+    "song": "Golden",
+    "artists": [
+      "Kpop Demon Hunters"
+    ],
+    "isrc": "QZ8BZ2513510",
+    "start_time": "2025-11-29 02:23:16",
+    "radio": "expres",
+    "recorded_at": "2025-11-29T02:23:35.722737+01:00",
+    "raw_valid": true,
+    "song_session_id": "09a752f9-4082-4654-ba62-c3773b60e361",
+    "duration_ms": 194607,
+    "genre": [
+      "korean"
+    ]
+  },
+  {
+    "song": "Cigaretka Na Dva Tahy",
+    "artists": [
+      "Richard Muller"
+    ],
+    "isrc": "SKP501800111",
+    "start_time": "2025-11-29 02:25:56",
+    "radio": "expres",
+    "recorded_at": "2025-11-29T02:26:18.434049+01:00",
+    "raw_valid": true,
+    "song_session_id": "69db422f-c972-491d-ad1a-31add14c6a56",
+    "duration_ms": 436586,
+    "genre": []
+  },
+  {
+    "song": "Broken Sunshine",
+    "artists": [
+      "Michael Schulte"
+    ],
+    "isrc": "DECE72402375",
+    "start_time": "2025-11-29 02:29:18",
+    "radio": "expres",
+    "recorded_at": "2025-11-29T02:29:49.259105+01:00",
+    "raw_valid": true,
+    "song_session_id": "6a2c7db1-d1f2-4dfa-bb82-ceef66a3ae8d",
+    "duration_ms": 175866,
+    "genre": []
+  },
+  {
+    "song": "Regalo",
+    "artists": [
+      "Alvaro Soler"
+    ],
+    "isrc": "DEE862500388",
+    "start_time": "2025-11-29 02:33:00",
+    "radio": "expres",
+    "recorded_at": "2025-11-29T02:33:12.498230+01:00",
+    "raw_valid": true,
+    "song_session_id": "021b48c0-80df-4663-9ea6-e518a8f76c0f",
+    "duration_ms": 184984,
+    "genre": []
+  },
+  {
+    "song": "Vrat Mi Tie Hviezdy '08",
+    "artists": [
+      "Kristina"
+    ],
+    "isrc": null,
+    "start_time": "2025-11-29 02:36:13",
+    "radio": "expres",
+    "recorded_at": "2025-11-29T02:36:36.108313+01:00",
+    "raw_valid": true,
+    "song_session_id": "7817bf69-60ab-48f1-ad53-a8d724c7e238"
+  },
+  {
+    "song": "Just Give Me A Reason",
+    "artists": [
+      "Pink",
+      "Nate Ruess"
+    ],
+    "isrc": "USRC11200786",
+    "start_time": "2025-11-29 02:39:21",
+    "radio": "expres",
+    "recorded_at": "2025-11-29T02:39:39.216690+01:00",
+    "raw_valid": true,
+    "song_session_id": "d3965cbf-0a60-4a82-84ca-2c007dd55440",
+    "duration_ms": 243880,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "V Slepych Ulickach",
+    "artists": [
+      "Miro Zbirka",
+      "Marika Gombitova"
+    ],
+    "isrc": "SKA128000003",
+    "start_time": "2025-11-29 02:43:30",
+    "radio": "expres",
+    "recorded_at": "2025-11-29T02:43:49.436591+01:00",
+    "raw_valid": true,
+    "song_session_id": "70609c59-7555-41e9-be41-de660ea20e6b",
+    "duration_ms": 246160,
+    "genre": []
+  },
+  {
+    "song": "Zoo",
+    "artists": [
+      "Shakira"
+    ],
+    "isrc": "USWD12538420",
+    "start_time": "2025-11-29 02:47:12",
+    "radio": "expres",
+    "recorded_at": "2025-11-29T02:47:32.936261+01:00",
+    "raw_valid": true,
+    "song_session_id": "a8242a9a-d43c-4242-81e2-5285da4fe1a3",
+    "duration_ms": 190822,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Vrany",
+    "artists": [
+      "Imt Smile"
+    ],
+    "isrc": "SKA019903015",
+    "start_time": "2025-11-29 02:50:48",
+    "radio": "expres",
+    "recorded_at": "2025-11-29T02:51:10.058388+01:00",
+    "raw_valid": true,
+    "song_session_id": "3bab319f-216a-4dab-8701-4d1f7f80042c",
+    "duration_ms": 273506,
+    "genre": []
+  },
+  {
+    "song": "Sweet Dreams",
+    "artists": [
+      "Eurythmics"
+    ],
+    "isrc": "GBARL0300589",
+    "start_time": "2025-11-29 02:55:05",
+    "radio": "expres",
+    "recorded_at": "2025-11-29T02:55:29.780023+01:00",
+    "raw_valid": true,
+    "song_session_id": "62e6114a-70b3-41a4-a90f-581d195d3a2c",
+    "duration_ms": 216933,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Domov",
+    "artists": [
+      "Alan Murin"
+    ],
+    "isrc": "QZWDW2424416",
+    "start_time": "2025-11-29 02:58:35",
+    "radio": "expres",
+    "recorded_at": "2025-11-29T02:58:53.066449+01:00",
+    "raw_valid": true,
+    "song_session_id": "f992f6c1-533f-4a86-b10d-a86d06087bfc",
+    "duration_ms": 240000,
+    "genre": []
+  },
+  {
+    "song": "Mystical Magical",
+    "artists": [
+      "Benson Boone"
+    ],
+    "isrc": "USWB12500844",
+    "start_time": "2025-11-29 03:02:32",
+    "radio": "expres",
+    "recorded_at": "2025-11-29T03:02:57.011390+01:00",
+    "raw_valid": true,
+    "song_session_id": "297b3efe-ffe7-4193-9642-ea6a764337df",
+    "duration_ms": 165746,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Ako To Prezijem?",
+    "artists": [
+      "Polemic"
+    ],
+    "isrc": "CZA210000554",
+    "start_time": "2025-11-29 03:05:27",
+    "radio": "expres",
+    "recorded_at": "2025-11-29T03:05:39.879553+01:00",
+    "raw_valid": true,
+    "song_session_id": "54446ceb-5b31-47c2-ba18-4e27fe9a50c1",
+    "duration_ms": 204040,
+    "genre": []
+  },
+  {
+    "song": "Bad Dreams",
+    "artists": [
+      "Teddy Swims"
+    ],
+    "isrc": "USWB12403749",
+    "start_time": "2025-11-29 03:08:46",
+    "radio": "expres",
+    "recorded_at": "2025-11-29T03:09:10.725998+01:00",
+    "raw_valid": true,
+    "song_session_id": "d861e6ba-f93d-4944-af35-8d518f920d30",
+    "duration_ms": 184577,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Nelutujem",
+    "artists": [
+      "Adam Durica"
+    ],
+    "isrc": "SKA011400033",
+    "start_time": "2025-11-29 03:11:59",
+    "radio": "expres",
+    "recorded_at": "2025-11-29T03:12:14.755512+01:00",
+    "raw_valid": true,
+    "song_session_id": "a4364e40-daf0-4c25-a910-963f00dcd05c",
+    "duration_ms": 210996,
+    "genre": []
+  },
+  {
+    "song": "Shes Like The Wind",
+    "artists": [
+      "Patrick Swayze"
+    ],
+    "isrc": "USBMG0100040",
+    "start_time": "2025-11-29 03:15:31",
+    "radio": "expres",
+    "recorded_at": "2025-11-29T03:15:50.700136+01:00",
+    "raw_valid": true,
+    "song_session_id": "ba060086-ff7a-45ac-9442-ca7fc0e22354",
+    "duration_ms": 232826,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Dievca Amerika",
+    "artists": [
+      "Pavol Habera"
+    ],
+    "isrc": "FRX451573148",
+    "start_time": "2025-11-29 03:19:04",
+    "radio": "expres",
+    "recorded_at": "2025-11-29T03:19:23.996155+01:00",
+    "raw_valid": true,
+    "song_session_id": "1bea904f-b5c4-45cc-9b61-9ef4236027ef",
+    "duration_ms": 249226,
+    "genre": []
+  },
+  {
+    "song": "Eternity",
+    "artists": [
+      "Alex Warren"
+    ],
+    "isrc": "USAT22503779",
+    "start_time": "2025-11-29 03:23:07",
+    "radio": "expres",
+    "recorded_at": "2025-11-29T03:23:32.892570+01:00",
+    "raw_valid": true,
+    "song_session_id": "34450922-0e15-4765-b5fb-ab81f3004a28",
+    "duration_ms": 189553,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Nedivaj Sa Tak",
+    "artists": [
+      "Peter Bic Project"
+    ],
+    "isrc": "SKA011800004",
+    "start_time": "2025-11-29 03:26:41",
+    "radio": "expres",
+    "recorded_at": "2025-11-29T03:26:56.030322+01:00",
+    "raw_valid": true,
+    "song_session_id": "c5067079-aa50-4b8d-94a8-412fb9d4b83f",
+    "duration_ms": 169723,
+    "genre": []
+  },
+  {
+    "song": "Flowers",
+    "artists": [
+      "Miley Cyrus"
+    ],
+    "isrc": "USSM12209777",
+    "start_time": "2025-11-29 03:29:37",
+    "radio": "expres",
+    "recorded_at": "2025-11-29T03:29:59.084241+01:00",
+    "raw_valid": true,
+    "song_session_id": "41d5238c-7123-4f42-b209-9853a3ead61d",
+    "duration_ms": 200454,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Undressed",
+    "artists": [
+      "Sombr"
+    ],
+    "isrc": "USWB12500737",
+    "start_time": "2025-11-29 03:32:56",
+    "radio": "expres",
+    "recorded_at": "2025-11-29T03:33:43.496617+01:00",
+    "raw_valid": true,
+    "song_session_id": "985b7f58-77b6-4092-98c0-af69d8595697",
+    "duration_ms": 182088,
+    "genre": [
+      "indie pop"
+    ]
+  },
+  {
+    "song": "Luc",
+    "artists": [
+      "Buranowski"
+    ],
+    "isrc": "SKA011700059",
+    "start_time": "2025-11-29 03:35:59",
+    "radio": "expres",
+    "recorded_at": "2025-11-29T03:36:32.446314+01:00",
+    "raw_valid": true,
+    "song_session_id": "5a6f0962-7dd5-4152-9071-cfaebc002484",
+    "duration_ms": 233333,
+    "genre": []
+  },
+  {
+    "song": "Bad Romance",
+    "artists": [
+      "Lady Gaga"
+    ],
+    "isrc": "USUM70918596",
+    "start_time": "2025-11-29 03:39:47",
+    "radio": "expres",
+    "recorded_at": "2025-11-29T03:40:10.792135+01:00",
+    "raw_valid": true,
+    "song_session_id": "14f1b6a3-02fa-4372-b28b-d21fa58304fd",
+    "duration_ms": 294573,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Tlakova Niz",
+    "artists": [
+      "Banket"
+    ],
+    "isrc": "SKA128678604",
+    "start_time": "2025-11-29 03:44:20",
+    "radio": "expres",
+    "recorded_at": "2025-11-29T03:44:50.364158+01:00",
+    "raw_valid": true,
+    "song_session_id": "10f67ad7-9faf-40a8-8ad8-7562d6213708",
+    "duration_ms": 279946,
+    "genre": []
+  }
+]

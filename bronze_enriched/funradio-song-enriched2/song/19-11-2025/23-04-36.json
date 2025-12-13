@@ -1,0 +1,514 @@
+[
+  {
+    "last_update": "2025-11-19 21:06:37",
+    "song": {
+      "musicAuthor": "Billy Barman",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851a23169cca02f50dfb2788443",
+      "musicTitle": "Hory medzi nami",
+      "radio": "Fun Rádio",
+      "startTime": "22:05"
+    },
+    "recorded_at": "2025-11-19T22:06:37.133154+01:00",
+    "raw_valid": true,
+    "song_session_id": "a44922b8-328d-40f9-8067-34ed2e2affc2",
+    "duration_ms": 167160,
+    "genre": []
+  },
+  {
+    "last_update": "2025-11-19 21:08:36",
+    "song": {
+      "musicAuthor": "Peter Bič Project",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048515139fdcd66dc75d1abd7a899",
+      "musicTitle": "Stromy",
+      "radio": "Fun Rádio",
+      "startTime": "22:07"
+    },
+    "recorded_at": "2025-11-19T22:08:37.264607+01:00",
+    "raw_valid": true,
+    "song_session_id": "bf1adfe6-3cd2-4a7a-914d-0bf295c734e1",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "last_update": "2025-11-19 21:12:36",
+    "song": {
+      "musicAuthor": "Para",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851c08c10d99edfd2ee623b5447",
+      "musicTitle": "Vilma",
+      "radio": "Fun Rádio",
+      "startTime": "22:12"
+    },
+    "recorded_at": "2025-11-19T22:12:37.540769+01:00",
+    "raw_valid": true,
+    "song_session_id": "825c7cf1-1f88-44d8-a7a6-9aeab0a7bcc1",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "last_update": "2025-11-19 21:16:07",
+    "song": {
+      "musicAuthor": "Nocadeň",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851beffeb1bf4aa0d970c5c21d7",
+      "musicTitle": "V nás",
+      "radio": "Fun Rádio",
+      "startTime": "22:16"
+    },
+    "recorded_at": "2025-11-19T22:16:07.756026+01:00",
+    "raw_valid": true,
+    "song_session_id": "22cd9717-d14c-4c5c-afd2-a2288299e6f8",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "last_update": "2025-11-19 21:20:07",
+    "song": {
+      "musicAuthor": "Robert Burian",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048514245f996f39eb4e9b2eefef8",
+      "musicTitle": "Never Ever",
+      "radio": "Fun Rádio",
+      "startTime": "22:19"
+    },
+    "recorded_at": "2025-11-19T22:20:08.036359+01:00",
+    "raw_valid": true,
+    "song_session_id": "fba052e1-31b8-4963-9b25-4ee17e56d7b2",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "last_update": "2025-11-19 21:24:07",
+    "song": {
+      "musicAuthor": "Celeste Buckingham",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485171ca4f635950b4f94568ac28",
+      "musicTitle": "Another Life",
+      "radio": "Fun Rádio",
+      "startTime": "22:23"
+    },
+    "recorded_at": "2025-11-19T22:24:08.481315+01:00",
+    "raw_valid": true,
+    "song_session_id": "b32213d6-8f2d-40d8-8d67-62715a350fe4",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "last_update": "2025-11-19 21:28:08",
+    "song": {
+      "musicAuthor": "Adam Ďurica",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851af2ea0198ad8fc1ee245eb74",
+      "musicTitle": "Drobnosti",
+      "radio": "Fun Rádio",
+      "startTime": "22:27"
+    },
+    "recorded_at": "2025-11-19T22:28:08.721049+01:00",
+    "raw_valid": true,
+    "song_session_id": "99920568-ede3-46d8-a20f-8503983b7b7a",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "last_update": "2025-11-19 21:32:08",
+    "song": {
+      "musicAuthor": "Zuzana Smatanová",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485181c98c2eedf017b40291dbdf",
+      "musicTitle": "Tajomstvo",
+      "radio": "Fun Rádio",
+      "startTime": "22:31"
+    },
+    "recorded_at": "2025-11-19T22:32:08.954994+01:00",
+    "raw_valid": true,
+    "song_session_id": "9e0c1c29-adf8-4e67-92f0-591603cee0dc",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "last_update": "2025-11-19 21:35:08",
+    "song": {
+      "musicAuthor": "Mária Čírová & Peter Bažík",
+      "musicCover": "/layout/covers/default.webp",
+      "musicTitle": "Kto Vie",
+      "radio": "Fun Rádio",
+      "startTime": "22:35"
+    },
+    "recorded_at": "2025-11-19T22:35:09.133767+01:00",
+    "raw_valid": true,
+    "song_session_id": "695faa66-5585-4ac0-8b54-e0d6d6ea2b3d",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "last_update": "2025-11-19 21:39:08",
+    "song": {
+      "musicAuthor": "Kali",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048518592cb43a471fca984303224",
+      "musicTitle": "Dosnívané",
+      "radio": "Fun Rádio",
+      "startTime": "22:38"
+    },
+    "recorded_at": "2025-11-19T22:39:09.369039+01:00",
+    "raw_valid": true,
+    "song_session_id": "529f33de-1234-4494-8393-ad768a522c3a",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "last_update": "2025-11-19 21:43:08",
+    "song": {
+      "musicAuthor": "Hex",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048515df0db1126eea99a4e004065",
+      "musicTitle": "Nezaspím",
+      "radio": "Fun Rádio",
+      "startTime": "22:42"
+    },
+    "recorded_at": "2025-11-19T22:43:09.607725+01:00",
+    "raw_valid": true,
+    "song_session_id": "65d78afb-95b3-4201-83ea-f9151663a32d",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "last_update": "2025-11-19 21:47:09",
+    "song": {
+      "musicAuthor": "Richard Müller, Banket, Tina",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048513967d2f4422051622557f1b6",
+      "musicTitle": "Bla Bla Bla",
+      "radio": "Fun Rádio",
+      "startTime": "22:46"
+    },
+    "recorded_at": "2025-11-19T22:47:09.844621+01:00",
+    "raw_valid": true,
+    "song_session_id": "2038442e-acf1-446c-8ff4-00234a3be3a8",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "last_update": "2025-11-19 21:50:09",
+    "song": {
+      "musicAuthor": "Dara Rolins",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485124b2885f9e2506e4f5099228",
+      "musicTitle": "Všetko Alebo Nič",
+      "radio": "Fun Rádio",
+      "startTime": "22:49"
+    },
+    "recorded_at": "2025-11-19T22:50:10.028060+01:00",
+    "raw_valid": true,
+    "song_session_id": "ebcb5b01-82bf-4253-a778-22fedc255234",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "last_update": "2025-11-19 21:54:10",
+    "song": {
+      "musicAuthor": "Karmen Pál-Baláž",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048516acffb081c9c71ab7604b713",
+      "musicTitle": "Anjel",
+      "radio": "Fun Rádio",
+      "startTime": "22:53"
+    },
+    "recorded_at": "2025-11-19T22:54:10.266235+01:00",
+    "raw_valid": true,
+    "song_session_id": "aee1d18b-75f7-4650-8e10-2f470178122c",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "last_update": "2025-11-19 21:59:10",
+    "song": {
+      "musicAuthor": "Lina Mayer",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485139d2c18e23f40dc8fe4e1cd5",
+      "musicTitle": "Stratená",
+      "radio": "Fun Rádio",
+      "startTime": "22:58"
+    },
+    "recorded_at": "2025-11-19T22:59:10.585024+01:00",
+    "raw_valid": true,
+    "song_session_id": "2abfaee7-8aba-465c-97ca-70d2c3dd7802",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "last_update": "2025-11-19 22:02:10",
+    "song": {
+      "musicAuthor": "Emma Drobná",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851c6ef7839b584f2b8578663ad",
+      "musicTitle": "Yeah Baby! (F*ck with Me)",
+      "radio": "Fun Rádio",
+      "startTime": "23:01"
+    },
+    "recorded_at": "2025-11-19T23:02:10.821013+01:00",
+    "raw_valid": true,
+    "song_session_id": "f0c3d096-3603-4b46-83ac-844ec47796ac",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "last_update": "2025-11-19 22:06:10",
+    "song": {
+      "musicAuthor": "Peter Cmorík",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485103fa7bebdc1fc4816a8d5170",
+      "musicTitle": "Dážď",
+      "radio": "Fun Rádio",
+      "startTime": "23:05"
+    },
+    "recorded_at": "2025-11-19T23:06:11.076902+01:00",
+    "raw_valid": true,
+    "song_session_id": "ceb4364d-3b34-4514-a805-b41022838c06",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "last_update": "2025-11-19 22:10:11",
+    "song": {
+      "musicAuthor": "Peter Bič Project",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851f891c313686319ed6b87fe96",
+      "musicTitle": "Where Did You Go",
+      "radio": "Fun Rádio",
+      "startTime": "23:09"
+    },
+    "recorded_at": "2025-11-19T23:10:11.318767+01:00",
+    "raw_valid": true,
+    "song_session_id": "a7103f9e-1fbd-42a6-a027-0565ae9ab2bd",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "last_update": "2025-11-19 22:14:11",
+    "song": {
+      "musicAuthor": "Lukáš Adamec",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851f5ad5d21241f831c7ecec834",
+      "musicTitle": "Tancuj Mi",
+      "radio": "Fun Rádio",
+      "startTime": "23:14"
+    },
+    "recorded_at": "2025-11-19T23:14:11.616688+01:00",
+    "raw_valid": true,
+    "song_session_id": "56fff020-b465-43b3-b80d-480962dc8eed",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "last_update": "2025-11-19 22:17:10",
+    "song": {
+      "musicAuthor": "Para",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048510f257e67f97f48db33622548",
+      "musicTitle": "To Okolo Nás",
+      "radio": "Fun Rádio",
+      "startTime": "23:16"
+    },
+    "recorded_at": "2025-11-19T23:17:11.822573+01:00",
+    "raw_valid": true,
+    "song_session_id": "6a3096b8-9c5e-4f46-a6d8-daeced94d98d",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "last_update": "2025-11-19 22:21:11",
+    "song": {
+      "musicAuthor": "Katarina Knechtova",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851f209a986799ce380a6ea61b8",
+      "musicTitle": "Hladanie",
+      "radio": "Fun Rádio",
+      "startTime": "23:20"
+    },
+    "recorded_at": "2025-11-19T23:21:12.070230+01:00",
+    "raw_valid": true,
+    "song_session_id": "19dea9ec-7f44-44b1-ba7e-49190dff52a0",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "last_update": "2025-11-19 22:24:11",
+    "song": {
+      "musicAuthor": "Mark Dann Ft. Mina",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851cc457d35ab6c1def872dffe0",
+      "musicTitle": "Love Me Now",
+      "radio": "Fun Rádio",
+      "startTime": "23:23"
+    },
+    "recorded_at": "2025-11-19T23:24:12.264090+01:00",
+    "raw_valid": true,
+    "song_session_id": "59b5e6da-857c-4451-8d07-517326ef4481",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "last_update": "2025-11-19 22:27:12",
+    "song": {
+      "musicAuthor": "Bystrik",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851fcfba74ee0567dd538d023ef",
+      "musicTitle": "Ako ťa mám rád",
+      "radio": "Fun Rádio",
+      "startTime": "23:26"
+    },
+    "recorded_at": "2025-11-19T23:27:12.463134+01:00",
+    "raw_valid": true,
+    "song_session_id": "5d3fd890-471a-45cc-902e-f76d336ef12c",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "last_update": "2025-11-19 22:31:11",
+    "song": {
+      "musicAuthor": "Dominik Gerda",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485181f5a072e929cca3b4b23c74",
+      "musicTitle": "How Gorgeous You Are",
+      "radio": "Fun Rádio",
+      "startTime": "23:30"
+    },
+    "recorded_at": "2025-11-19T23:31:12.691547+01:00",
+    "raw_valid": true,
+    "song_session_id": "4a001155-492b-4753-b698-eeeac2109f7f",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "last_update": "2025-11-19 22:34:12",
+    "song": {
+      "musicAuthor": "Adam Durica",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851fbbbb5ef59caeba64bf0af46",
+      "musicTitle": "Z Popola Je Ohen",
+      "radio": "Fun Rádio",
+      "startTime": "23:33"
+    },
+    "recorded_at": "2025-11-19T23:34:12.870647+01:00",
+    "raw_valid": true,
+    "song_session_id": "e35a02de-b346-4742-b38a-990d230d66b8",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "last_update": "2025-11-19 22:37:12",
+    "song": {
+      "musicAuthor": "Zuzana Smatanová",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851fefe1a1ecc5375ca2590c771",
+      "musicTitle": "V Dobrom Aj Zlom",
+      "radio": "Fun Rádio",
+      "startTime": "23:36"
+    },
+    "recorded_at": "2025-11-19T23:37:13.069006+01:00",
+    "raw_valid": true,
+    "song_session_id": "b276c919-128e-4796-b489-2dcfb6f6e9f3",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "last_update": "2025-11-19 22:40:13",
+    "song": {
+      "musicAuthor": "Gladiator",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485188eed54314a8762fc38c3b73",
+      "musicTitle": "Sám S Ňou",
+      "radio": "Fun Rádio",
+      "startTime": "23:39"
+    },
+    "recorded_at": "2025-11-19T23:40:13.255276+01:00",
+    "raw_valid": true,
+    "song_session_id": "31f51a4e-189d-4707-ba20-4e0266167109",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "last_update": "2025-11-19 22:43:12",
+    "song": {
+      "musicAuthor": "Celeste Buckingham",
+      "musicCover": "https://static.radia.sk/covers/32/2678e8e1-7426-44ad-a98f-0b586115cd1c.jpg",
+      "musicTitle": "Unpredictable",
+      "radio": "Fun Rádio",
+      "startTime": "23:43"
+    },
+    "recorded_at": "2025-11-19T23:43:13.418612+01:00",
+    "raw_valid": true,
+    "song_session_id": "c214ba7e-ce5f-48bb-b33c-0c4e52670d2e",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "last_update": "2025-11-19 22:47:13",
+    "song": {
+      "musicAuthor": "Hex",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048512e1fe359f5a2fc9f7de8a10d",
+      "musicTitle": "V Piatok Podvečer",
+      "radio": "Fun Rádio",
+      "startTime": "23:46"
+    },
+    "recorded_at": "2025-11-19T23:47:13.660172+01:00",
+    "raw_valid": true,
+    "song_session_id": "0fd409c0-93ab-461c-93e9-1403ff9b3d98",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "last_update": "2025-11-19 22:51:13",
+    "song": {
+      "musicAuthor": "Majself",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048517587a49db64e27416b3317f8",
+      "musicTitle": "Pripijam Na Zivot",
+      "radio": "Fun Rádio",
+      "startTime": "23:50"
+    },
+    "recorded_at": "2025-11-19T23:51:13.901586+01:00",
+    "raw_valid": true,
+    "song_session_id": "3d448e22-f809-437d-a0b2-57e23f3b3a1b",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "last_update": "2025-11-19 22:53:13",
+    "song": {
+      "musicAuthor": "Sima Martausová & Richard Müller",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485134a47bb451e86d39ba511bd4",
+      "musicTitle": "Svätojánske Mušky",
+      "radio": "Fun Rádio",
+      "startTime": "23:52"
+    },
+    "recorded_at": "2025-11-19T23:53:14.083923+01:00",
+    "raw_valid": true,
+    "song_session_id": "43d5986f-fbbe-4e44-8bb5-c74eb0155399",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "last_update": "2025-11-19 22:57:13",
+    "song": {
+      "musicAuthor": "Wanastowi Vjecy A Jana Kirschner",
+      "musicCover": "/layout/covers/default.webp",
+      "musicTitle": "Myslím Na Tebe",
+      "radio": "Fun Rádio",
+      "startTime": "23:56"
+    },
+    "recorded_at": "2025-11-19T23:57:14.378800+01:00",
+    "raw_valid": true,
+    "song_session_id": "d81bdac4-ed50-4f43-91a1-0a1beec24a56",
+    "duration_ms": 228227,
+    "genre": []
+  },
+  {
+    "last_update": "2025-11-19 23:00:13",
+    "song": {
+      "musicAuthor": "Alex Warren",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851be63b155e4b40ff3017f8ac4",
+      "musicTitle": "Ordinary",
+      "radio": "Fun Rádio",
+      "startTime": "00:00"
+    },
+    "recorded_at": "2025-11-20T00:00:14.586639+01:00",
+    "raw_valid": true,
+    "song_session_id": "d44b88b8-44cb-4452-9277-a6aaf73aadbb",
+    "duration_ms": 186964,
+    "genre": [
+      "folk"
+    ]
+  },
+  {
+    "last_update": "2025-11-19 23:03:13",
+    "song": {
+      "musicAuthor": "Taylor Swift feat. Post Malone",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048518ecc33f195df6aa257c39eaa",
+      "musicTitle": "Fortnight",
+      "radio": "Fun Rádio",
+      "startTime": "00:03"
+    },
+    "recorded_at": "2025-11-20T00:03:14.781678+01:00",
+    "raw_valid": true,
+    "song_session_id": "55c1c1cb-0e9a-4254-b128-4e26aa09a89d",
+    "duration_ms": null,
+    "genre": []
+  }
+]

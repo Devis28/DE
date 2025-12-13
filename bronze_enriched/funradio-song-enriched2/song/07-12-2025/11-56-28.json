@@ -1,0 +1,382 @@
+[
+  {
+    "last_update": "2025-12-07 10:01:12",
+    "song": {
+      "musicAuthor": "Ed Sheeran",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048516fbb60d6a7e03ccb940a518e",
+      "musicTitle": "Sapphire",
+      "radio": "Fun Rádio",
+      "startTime": "11:00"
+    },
+    "recorded_at": "2025-12-07T11:01:12.760284+01:00",
+    "raw_valid": true,
+    "song_session_id": "edf1145e-87ed-4559-8caa-394776f2ed7a",
+    "duration_ms": 179082,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "last_update": "2025-12-07 10:08:12",
+    "song": {
+      "musicAuthor": "Billy Barman",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851a23169cca02f50dfb2788443",
+      "musicTitle": "Hory medzi nami",
+      "radio": "Fun Rádio",
+      "startTime": "11:08"
+    },
+    "recorded_at": "2025-12-07T11:08:13.321425+01:00",
+    "raw_valid": true,
+    "song_session_id": "a513bc43-c7d3-49a3-97bb-105a874e11b6",
+    "duration_ms": 167160,
+    "genre": []
+  },
+  {
+    "last_update": "2025-12-07 10:16:13",
+    "song": {
+      "musicAuthor": "Tate Mcrae",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485196e4cfdd4c3aa8088685b262",
+      "musicTitle": "Just Keep Watching",
+      "radio": "Fun Rádio",
+      "startTime": "11:16"
+    },
+    "recorded_at": "2025-12-07T11:16:13.850377+01:00",
+    "raw_valid": true,
+    "song_session_id": "326b7b73-5bb3-43dc-828d-0f59b3e1252c",
+    "duration_ms": 142550,
+    "genre": []
+  },
+  {
+    "last_update": "2025-12-07 10:22:13",
+    "song": {
+      "musicAuthor": "Ravyn Lenae",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048515511ceaa955a2bfd9ae90c21",
+      "musicTitle": "Love Me Not",
+      "radio": "Fun Rádio",
+      "startTime": "11:21"
+    },
+    "recorded_at": "2025-12-07T11:22:14.231974+01:00",
+    "raw_valid": true,
+    "song_session_id": "9b1d33ac-cd10-4ef5-b59d-a4b6f87a8955",
+    "duration_ms": 213466,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "last_update": "2025-12-07 10:25:13",
+    "song": {
+      "musicAuthor": "ClockClock",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851c61776f0a575e14018f134d5",
+      "musicTitle": "Sorry",
+      "radio": "Fun Rádio",
+      "startTime": "11:24"
+    },
+    "recorded_at": "2025-12-07T11:25:14.510719+01:00",
+    "raw_valid": true,
+    "song_session_id": "767ebbce-72c9-491f-8c17-2593d361f0e9",
+    "duration_ms": 176405,
+    "genre": []
+  },
+  {
+    "last_update": "2025-12-07 10:32:14",
+    "song": {
+      "musicAuthor": "Neiked & Portugal. The Man",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851d35db88bdcbf762f317d41da",
+      "musicTitle": "Glide",
+      "radio": "Fun Rádio",
+      "startTime": "11:31"
+    },
+    "recorded_at": "2025-12-07T11:32:14.959386+01:00",
+    "raw_valid": true,
+    "song_session_id": "2e860522-f9d6-4729-a651-17f36db894c1",
+    "duration_ms": 184405,
+    "genre": []
+  },
+  {
+    "last_update": "2025-12-07 10:39:14",
+    "song": {
+      "musicAuthor": "Shakin' Stevens",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851d962f3b4235f8c6429a829fb",
+      "musicTitle": "Merry Christmas Everyone",
+      "radio": "Fun Rádio",
+      "startTime": "11:38"
+    },
+    "recorded_at": "2025-12-07T11:39:15.380584+01:00",
+    "raw_valid": true,
+    "song_session_id": "2b23e8aa-b35a-4c11-bd74-224abe4de46f",
+    "duration_ms": 220160,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "last_update": "2025-12-07 10:47:14",
+    "song": {
+      "musicAuthor": "24kgoldn & Iann Dior",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485184c53fa832dfa265192419c5",
+      "musicTitle": "Mood",
+      "radio": "Fun Rádio",
+      "startTime": "11:46"
+    },
+    "recorded_at": "2025-12-07T11:47:15.933537+01:00",
+    "raw_valid": true,
+    "song_session_id": "68b7a7f7-4427-44f6-9592-802a790ce613",
+    "duration_ms": 140525,
+    "genre": []
+  },
+  {
+    "last_update": "2025-12-07 10:50:15",
+    "song": {
+      "musicAuthor": "Disco Lines & Tinashe",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485169aa159daad3e671c749f4c5",
+      "musicTitle": "No Broke Boys",
+      "radio": "Fun Rádio",
+      "startTime": "11:49"
+    },
+    "recorded_at": "2025-12-07T11:50:16.130055+01:00",
+    "raw_valid": true,
+    "song_session_id": "0add3bb5-6000-4b66-aeee-e5c1407bed41",
+    "duration_ms": 163994,
+    "genre": []
+  },
+  {
+    "last_update": "2025-12-07 10:57:16",
+    "song": {
+      "musicAuthor": "Shawn Mendes",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485180072bdea35d71c0008bf7ee",
+      "musicTitle": "Why Why Why",
+      "radio": "Fun Rádio",
+      "startTime": "11:56"
+    },
+    "recorded_at": "2025-12-07T11:57:16.541713+01:00",
+    "raw_valid": true,
+    "song_session_id": "3836dc84-0656-44aa-842b-58af41d83fa7",
+    "duration_ms": 169041,
+    "genre": []
+  },
+  {
+    "last_update": "2025-12-07 11:02:16",
+    "song": {
+      "musicAuthor": "Martin Garrix & Lauv",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048515c0e5abe73559c2de9d2eee0",
+      "musicTitle": "Mad",
+      "radio": "Fun Rádio",
+      "startTime": "12:01"
+    },
+    "recorded_at": "2025-12-07T12:02:16.942823+01:00",
+    "raw_valid": true,
+    "song_session_id": "2ae7b616-d9fc-4db4-9bf2-a581eb10c6b0",
+    "duration_ms": 199804,
+    "genre": []
+  },
+  {
+    "last_update": "2025-12-07 11:05:16",
+    "song": {
+      "musicAuthor": "Lady Gaga",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851465e58cfc2ee480a7d0ae59d",
+      "musicTitle": "Disease",
+      "radio": "Fun Rádio",
+      "startTime": "12:05"
+    },
+    "recorded_at": "2025-12-07T12:05:17.144299+01:00",
+    "raw_valid": true,
+    "song_session_id": "4fd1c7ca-1129-49ac-9b2b-b19ef6365691",
+    "duration_ms": 229997,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "last_update": "2025-12-07 11:10:17",
+    "song": {
+      "musicAuthor": "Miley Cyrus",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851309dc809182edea19bcf268d",
+      "musicTitle": "Easy Lover",
+      "radio": "Fun Rádio",
+      "startTime": "12:09"
+    },
+    "recorded_at": "2025-12-07T12:10:17.579946+01:00",
+    "raw_valid": true,
+    "song_session_id": "3f7dd544-46e7-4792-b64d-dbb03bc8c9a6",
+    "duration_ms": 186639,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "last_update": "2025-12-07 11:14:16",
+    "song": {
+      "musicAuthor": "Nelly Furtado",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851a6f439c8957170652f9410e2",
+      "musicTitle": "Say It Right",
+      "radio": "Fun Rádio",
+      "startTime": "12:13"
+    },
+    "recorded_at": "2025-12-07T12:14:17.950055+01:00",
+    "raw_valid": true,
+    "song_session_id": "e379349f-1130-4cd7-8d22-03e5be7bbe2a",
+    "duration_ms": 223080,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "last_update": "2025-12-07 11:17:17",
+    "song": {
+      "musicAuthor": "Ed Sheeran",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851ef24c3fdbf856340d55cfeb2",
+      "musicTitle": "Bad Habits",
+      "radio": "Fun Rádio",
+      "startTime": "12:16"
+    },
+    "recorded_at": "2025-12-07T12:17:18.186577+01:00",
+    "raw_valid": true,
+    "song_session_id": "d8139b1b-f686-47dd-a367-59d353995bc1",
+    "duration_ms": 230746,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "last_update": "2025-12-07 11:21:18",
+    "song": {
+      "musicAuthor": "Lewis Capaldi",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048515f5bd64a4a1c88f0610da5a6",
+      "musicTitle": "Survive",
+      "radio": "Fun Rádio",
+      "startTime": "12:20"
+    },
+    "recorded_at": "2025-12-07T12:21:18.429234+01:00",
+    "raw_valid": true,
+    "song_session_id": "1d4859f8-74fa-48f5-b204-b75dee7d7985",
+    "duration_ms": 225211,
+    "genre": []
+  },
+  {
+    "last_update": "2025-12-07 11:25:17",
+    "song": {
+      "musicAuthor": "Meghan Trainor",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048513cf28336dcc89c66c9f5ccdb",
+      "musicTitle": "Still Don't Care",
+      "radio": "Fun Rádio",
+      "startTime": "12:24"
+    },
+    "recorded_at": "2025-12-07T12:25:18.762565+01:00",
+    "raw_valid": true,
+    "song_session_id": "86c86af0-e3bc-4e44-942a-68d88c826deb",
+    "duration_ms": 169081,
+    "genre": []
+  },
+  {
+    "last_update": "2025-12-07 11:28:18",
+    "song": {
+      "musicAuthor": "Lost Frequencies, Tom Odell",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851a0fab1c9bdfc54357ddb89a6",
+      "musicTitle": "Black Friday (Pretty Like The Sun)",
+      "radio": "Fun Rádio",
+      "startTime": "12:27"
+    },
+    "recorded_at": "2025-12-07T12:28:18.940226+01:00",
+    "raw_valid": true,
+    "song_session_id": "e5b51c71-04eb-4ec5-aa07-6ce5e40d4412",
+    "duration_ms": 145599,
+    "genre": []
+  },
+  {
+    "last_update": "2025-12-07 11:33:19",
+    "song": {
+      "musicAuthor": "Tiesto",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851d14685bdecf74faff1bb28e7",
+      "musicTitle": "Lay Low",
+      "radio": "Fun Rádio",
+      "startTime": "12:32"
+    },
+    "recorded_at": "2025-12-07T12:33:19.251496+01:00",
+    "raw_valid": true,
+    "song_session_id": "4c37af82-5ad1-4839-8ace-c479d98bc537",
+    "duration_ms": 153442,
+    "genre": []
+  },
+  {
+    "last_update": "2025-12-07 11:36:18",
+    "song": {
+      "musicAuthor": "Sabrina Carpenter",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851062c6573009fdebd43de443b",
+      "musicTitle": "Manchild",
+      "radio": "Fun Rádio",
+      "startTime": "12:35"
+    },
+    "recorded_at": "2025-12-07T12:36:19.588654+01:00",
+    "raw_valid": true,
+    "song_session_id": "a86386e2-7f1c-4cc8-8e45-3f26ac870d4c",
+    "duration_ms": 213645,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "last_update": "2025-12-07 11:39:18",
+    "song": {
+      "musicAuthor": "Macklemore Ft. Ryan Lewis & Ray Dalton",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485198a02fef3a8b1d80a0f164ec",
+      "musicTitle": "Cant Hold Us",
+      "radio": "Fun Rádio",
+      "startTime": "12:38"
+    },
+    "recorded_at": "2025-12-07T12:39:19.796356+01:00",
+    "raw_valid": true,
+    "song_session_id": "b2552242-f9ea-4a86-a271-a2bf1735e947",
+    "duration_ms": 258432,
+    "genre": []
+  },
+  {
+    "last_update": "2025-12-07 11:46:19",
+    "song": {
+      "musicAuthor": "Hozier",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851be392334d99f82bc410cb239",
+      "musicTitle": "Too Sweet",
+      "radio": "Fun Rádio",
+      "startTime": "12:45"
+    },
+    "recorded_at": "2025-12-07T12:46:20.295852+01:00",
+    "raw_valid": true,
+    "song_session_id": "457eeb4e-c74f-45ed-843e-0ef3723d366a",
+    "duration_ms": 251424,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "last_update": "2025-12-07 11:50:19",
+    "song": {
+      "musicAuthor": "Celeste Buckingham",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851d2e4bb30c1b2e0c2b6d28680",
+      "musicTitle": "Come Again",
+      "radio": "Fun Rádio",
+      "startTime": "12:49"
+    },
+    "recorded_at": "2025-12-07T12:50:20.582386+01:00",
+    "raw_valid": true,
+    "song_session_id": "888d638c-5bd8-445f-bd21-6ee78a91ec57",
+    "duration_ms": 222197,
+    "genre": []
+  },
+  {
+    "last_update": "2025-12-07 11:54:20",
+    "song": {
+      "musicAuthor": "Sam Smith",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851b11bdc91cb9ac6b14f5c1dae",
+      "musicTitle": "Stay With Me",
+      "radio": "Fun Rádio",
+      "startTime": "12:53"
+    },
+    "recorded_at": "2025-12-07T12:54:20.834854+01:00",
+    "raw_valid": true,
+    "song_session_id": "7a28eea2-1e1c-416c-ac45-01b8d6555eb5",
+    "duration_ms": 172723,
+    "genre": [
+      "soul"
+    ]
+  }
+]

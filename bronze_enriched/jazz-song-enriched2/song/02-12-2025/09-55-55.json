@@ -1,0 +1,336 @@
+[
+  {
+    "song": {
+      "play_date": "2025-12-02",
+      "play_time": "08:55",
+      "artist": [
+        "All Time Jazz",
+        "Lucia Luzinská"
+      ],
+      "title": "If I Should Lose You"
+    },
+    "recorded_at": "2025-12-02T08:56:49.246546+01:00",
+    "raw_valid": true,
+    "song_session_id": "d1b87ec8-d576-479e-8900-f8ef2825d0ff",
+    "duration_ms": 332293,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-12-02",
+      "play_time": "09:05",
+      "artist": [
+        "Jazzanova"
+      ],
+      "title": "Theme For Belle Et Fou (The Opening & Bows)"
+    },
+    "recorded_at": "2025-12-02T09:06:20.744427+01:00",
+    "raw_valid": true,
+    "song_session_id": "8dab9a84-e50b-4889-abdb-7b4307674487",
+    "duration_ms": 105187,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-12-02",
+      "play_time": "09:10",
+      "artist": [
+        "Dj Cam Quartet"
+      ],
+      "title": "Look Of Love"
+    },
+    "recorded_at": "2025-12-02T09:11:21.668996+01:00",
+    "raw_valid": true,
+    "song_session_id": "26a910a6-5a47-483e-9d12-fd64a432daf2",
+    "duration_ms": 245653,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-12-02",
+      "play_time": "09:14",
+      "artist": [
+        "Bittersweet"
+      ],
+      "title": "Salty Air"
+    },
+    "recorded_at": "2025-12-02T09:16:23.480341+01:00",
+    "raw_valid": true,
+    "song_session_id": "74a88ee4-38c2-4ce5-9122-c563c33d479b",
+    "duration_ms": 182266,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-12-02",
+      "play_time": "09:17",
+      "artist": [
+        "3 Plus 1"
+      ],
+      "title": "3+4"
+    },
+    "recorded_at": "2025-12-02T09:21:24.228802+01:00",
+    "raw_valid": true,
+    "song_session_id": "1487acf5-b2de-45e1-b271-6caa6a55ebb4",
+    "duration_ms": 168720,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-12-02",
+      "play_time": "09:25",
+      "artist": [
+        "Inverse Cinematics"
+      ],
+      "title": "Detroit Jazzin (Dublex Inc Mix)"
+    },
+    "recorded_at": "2025-12-02T09:26:24.969529+01:00",
+    "raw_valid": true,
+    "song_session_id": "7cba7e64-ed5b-4a14-bff2-f011b932819c",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-12-02",
+      "play_time": "09:29",
+      "artist": [
+        "Glenn Miller Orchestra"
+      ],
+      "title": "A String Of Pearls"
+    },
+    "recorded_at": "2025-12-02T09:31:25.691184+01:00",
+    "raw_valid": true,
+    "song_session_id": "703cf7dd-2783-4734-92be-240ddaf75c1f",
+    "duration_ms": 192026,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-12-02",
+      "play_time": "09:35",
+      "artist": [
+        "Kruder",
+        "Dorfmeister",
+        "Count Basic"
+      ],
+      "title": "Anicca"
+    },
+    "recorded_at": "2025-12-02T09:36:26.453633+01:00",
+    "raw_valid": true,
+    "song_session_id": "b79eba8f-a971-4f73-b0c2-bc7ee2863079",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-12-02",
+      "play_time": "09:41",
+      "artist": [
+        "Sisa Michalidesová"
+      ],
+      "title": "Fight"
+    },
+    "recorded_at": "2025-12-02T09:41:27.285036+01:00",
+    "raw_valid": true,
+    "song_session_id": "11a78125-d7ea-42eb-9713-bbc6378226ce",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-12-02",
+      "play_time": "09:44",
+      "artist": [
+        "The Fly Guy Five"
+      ],
+      "title": "Weekly"
+    },
+    "recorded_at": "2025-12-02T09:46:28.012793+01:00",
+    "raw_valid": true,
+    "song_session_id": "562be310-2344-462c-ad33-08e2c3e2db3d",
+    "duration_ms": 186499,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-12-02",
+      "play_time": "09:47",
+      "artist": [
+        "Groove Collective"
+      ],
+      "title": "Hide It"
+    },
+    "recorded_at": "2025-12-02T09:51:28.754943+01:00",
+    "raw_valid": true,
+    "song_session_id": "f14f7e42-93cd-48e1-ad2d-f3c4a8f16023",
+    "duration_ms": 291874,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-12-02",
+      "play_time": "09:52",
+      "artist": [
+        "Subes"
+      ],
+      "title": "Jazz For 2"
+    },
+    "recorded_at": "2025-12-02T09:56:29.477718+01:00",
+    "raw_valid": true,
+    "song_session_id": "d80f10c1-44da-4d2e-94f7-f9fb59ed4b0d",
+    "duration_ms": 337413,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-12-02",
+      "play_time": "09:57",
+      "artist": [
+        "Thelonious Monk"
+      ],
+      "title": "Monk's Dream (Take 3)"
+    },
+    "recorded_at": "2025-12-02T10:01:30.417290+01:00",
+    "raw_valid": true,
+    "song_session_id": "03de4757-1a48-485d-81fb-ffcff2649ae9",
+    "duration_ms": 314360,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-12-02",
+      "play_time": "10:04",
+      "artist": [
+        "Soulstance"
+      ],
+      "title": "Jazz 2 More - After The Rain"
+    },
+    "recorded_at": "2025-12-02T10:06:31.147059+01:00",
+    "raw_valid": true,
+    "song_session_id": "d47a6fd9-3b27-4c34-baaa-ab7c66d0cace",
+    "duration_ms": 360014,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-12-02",
+      "play_time": "10:09",
+      "artist": [
+        "Nicola Conte"
+      ],
+      "title": "I See All Shades Of You"
+    },
+    "recorded_at": "2025-12-02T10:11:31.872947+01:00",
+    "raw_valid": true,
+    "song_session_id": "068f6a9c-b715-469c-a234-b8a3b8675932",
+    "duration_ms": 350720,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-12-02",
+      "play_time": "10:14",
+      "artist": [
+        "Soho"
+      ],
+      "title": "Hot Music"
+    },
+    "recorded_at": "2025-12-02T10:16:32.635828+01:00",
+    "raw_valid": true,
+    "song_session_id": "f6fe7783-c877-416e-a73a-a2244fa6c27b",
+    "duration_ms": 306133,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-12-02",
+      "play_time": "10:19",
+      "artist": [
+        "Reminiscence Quartet"
+      ],
+      "title": "Peace Of Mind"
+    },
+    "recorded_at": "2025-12-02T10:21:33.423791+01:00",
+    "raw_valid": true,
+    "song_session_id": "e3ed8476-b3c9-4e5e-bc76-7680c3591e28",
+    "duration_ms": 236597,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-12-02",
+      "play_time": "10:23",
+      "artist": [
+        "Duke Ellington"
+      ],
+      "title": "Laura"
+    },
+    "recorded_at": "2025-12-02T10:26:34.234046+01:00",
+    "raw_valid": true,
+    "song_session_id": "35b758b9-5d12-4e09-9bb0-f6110d5c79d4",
+    "duration_ms": 255826,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-12-02",
+      "play_time": "10:29",
+      "artist": [
+        "Peter Lipa"
+      ],
+      "title": "Problémy S Problémami"
+    },
+    "recorded_at": "2025-12-02T10:31:34.971598+01:00",
+    "raw_valid": true,
+    "song_session_id": "3a72bd54-4261-43e7-98d1-62bca680c0d0",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-12-02",
+      "play_time": "10:32",
+      "artist": [
+        "Soel"
+      ],
+      "title": "Shining Pain"
+    },
+    "recorded_at": "2025-12-02T10:36:35.883972+01:00",
+    "raw_valid": true,
+    "song_session_id": "ded59046-a69b-48be-9126-bef38fa3ee8c",
+    "duration_ms": 248240,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-12-02",
+      "play_time": "10:39",
+      "artist": [
+        "Kruder",
+        "Dorfmeister"
+      ],
+      "title": "High Noon"
+    },
+    "recorded_at": "2025-12-02T10:41:36.635690+01:00",
+    "raw_valid": true,
+    "song_session_id": "7bc260a1-8372-48bb-b54c-00bf97b1ee1f",
+    "duration_ms": 386266,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-12-02",
+      "play_time": "10:45",
+      "artist": [
+        "Big Bang"
+      ],
+      "title": "Yo Yo Jazz (Nicola Conte Rework)"
+    },
+    "recorded_at": "2025-12-02T10:46:37.364887+01:00",
+    "raw_valid": true,
+    "song_session_id": "ef23b51e-522e-453b-8d71-c06720e1606e",
+    "duration_ms": 225867,
+    "genre": []
+  }
+]

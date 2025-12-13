@@ -1,0 +1,232 @@
+[
+  {
+    "song": "They Don't Care About Us",
+    "artist": "Michael Jackson",
+    "start_time": "2025-10-30T16:58:21",
+    "recorded_at": "30.10.2025 16:58:51",
+    "raw_valid": true,
+    "song_session_id": "d4d4e45f-d79c-4781-a3f1-883b552da70d",
+    "duration_ms": 284310,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Zažni",
+    "artist": "Miro Žbirka",
+    "start_time": "2025-10-30T17:02:21",
+    "recorded_at": "30.10.2025 17:02:21",
+    "raw_valid": true,
+    "song_session_id": "83903de9-02ba-4810-a126-df9f7b23c6b8",
+    "duration_ms": 209906,
+    "genre": []
+  },
+  {
+    "song": "What A Wonderful World",
+    "artist": "Louis Armstrong",
+    "start_time": "2025-10-30T17:08:21",
+    "recorded_at": "30.10.2025 17:08:23",
+    "raw_valid": true,
+    "song_session_id": "1a97fa97-83ca-4920-906e-cd9fdc6b5237",
+    "duration_ms": 139226,
+    "genre": [
+      "jazz"
+    ]
+  },
+  {
+    "song": "Poison",
+    "artist": "Alice Cooper",
+    "start_time": "2025-10-30T17:10:21",
+    "recorded_at": "30.10.2025 17:10:23",
+    "raw_valid": true,
+    "song_session_id": "7e59397e-b26f-4073-b84f-ef2d8d2d500f",
+    "duration_ms": 269712,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Vráť Mi Tie Hviezdy",
+    "artist": "Dubasová Beáta",
+    "start_time": "2025-10-30T17:15:21",
+    "recorded_at": "30.10.2025 17:15:25",
+    "raw_valid": true,
+    "song_session_id": "a870a6f4-be69-418d-9d73-2eac7aabede2",
+    "duration_ms": 215000,
+    "genre": []
+  },
+  {
+    "song": "(I've Had) The Time Of My Life",
+    "artist": "Bill Medley And Jennifer Warnes",
+    "start_time": "2025-10-30T17:18:21",
+    "recorded_at": "30.10.2025 17:18:25",
+    "raw_valid": true,
+    "song_session_id": "98711bcc-14be-4187-a3e9-085e7b8068da",
+    "duration_ms": 289066,
+    "genre": []
+  },
+  {
+    "song": "Sunchyme",
+    "artist": "Dario G",
+    "start_time": "2025-10-30T17:28:21",
+    "recorded_at": "30.10.2025 17:28:28",
+    "raw_valid": true,
+    "song_session_id": "c9d8ec9a-859e-47ea-bf57-816655cf6b4a",
+    "duration_ms": 235850,
+    "genre": []
+  },
+  {
+    "song": "Say You, Say Me",
+    "artist": "Lionel Richie",
+    "start_time": "2025-10-30T17:32:21",
+    "recorded_at": "30.10.2025 17:32:29",
+    "raw_valid": true,
+    "song_session_id": "b88ad905-ba93-49f9-b499-5854aea5e7f6",
+    "duration_ms": 241066,
+    "genre": [
+      "motown"
+    ]
+  },
+  {
+    "song": "Livin' On A Prayer",
+    "artist": "Bon Jovi",
+    "start_time": "2025-10-30T17:37:21",
+    "recorded_at": "30.10.2025 17:37:30",
+    "raw_valid": true,
+    "song_session_id": "e6857008-8ff0-4a05-9af5-37d8aca68e3b",
+    "duration_ms": 249293,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "All That She Wants",
+    "artist": "Ace Of Base",
+    "start_time": "2025-10-30T17:41:21",
+    "recorded_at": "30.10.2025 17:41:31",
+    "raw_valid": true,
+    "song_session_id": "c5efe5da-abe2-446c-b22d-5c6d69d4c026",
+    "duration_ms": 211213,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Tancujem S Tebou Rád",
+    "artist": "Karol Duchoň",
+    "start_time": "2025-10-30T17:51:21",
+    "recorded_at": "30.10.2025 17:51:34",
+    "raw_valid": true,
+    "song_session_id": "d4f15bd4-2708-4b7a-9c2d-9e0ece2a185a",
+    "duration_ms": 191960,
+    "genre": []
+  },
+  {
+    "song": "Words",
+    "artist": "F. R. David",
+    "start_time": "2025-10-30T17:56:21",
+    "recorded_at": "30.10.2025 17:56:35",
+    "raw_valid": true,
+    "song_session_id": "bf4da646-bac4-4abf-9eca-3eb53d0fe04e",
+    "duration_ms": 208000,
+    "genre": []
+  },
+  {
+    "song": "Heaven For Everyone",
+    "artist": "Queen",
+    "start_time": "2025-10-30T17:59:21",
+    "recorded_at": "30.10.2025 17:59:36",
+    "raw_valid": true,
+    "song_session_id": "8af4ec22-64c3-4e49-89b8-7c455cab09ca",
+    "duration_ms": 336160,
+    "genre": [
+      "classic rock"
+    ]
+  },
+  {
+    "song": "Umenie Žiť",
+    "artist": "Patejdl Vašo",
+    "start_time": "2025-10-30T18:08:21",
+    "recorded_at": "30.10.2025 18:08:38",
+    "raw_valid": true,
+    "song_session_id": "4327bb58-9e13-4680-8199-7f45074a8a3b",
+    "duration_ms": 273933,
+    "genre": []
+  },
+  {
+    "song": "Strangers By Night",
+    "artist": "Cc Catch",
+    "start_time": "2025-10-30T18:14:21",
+    "recorded_at": "30.10.2025 18:14:39",
+    "raw_valid": true,
+    "song_session_id": "8ed5e75f-6f00-4f2d-bb08-2a8fca70da78",
+    "duration_ms": 342493,
+    "genre": [
+      "italo disco"
+    ]
+  },
+  {
+    "song": "Never Gonna Give You Up",
+    "artist": "Rick Astley",
+    "start_time": "2025-10-30T18:18:21",
+    "recorded_at": "30.10.2025 18:18:40",
+    "raw_valid": true,
+    "song_session_id": "21e1ee44-00ba-4e91-a28c-ed8c61364bc2",
+    "duration_ms": 213573,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "I'd Love You To Want Me",
+    "artist": "Lobo",
+    "start_time": "2025-10-30T18:27:21",
+    "recorded_at": "30.10.2025 18:27:43",
+    "raw_valid": true,
+    "song_session_id": "25a98282-04f2-481f-951c-f05abdf1e4cb",
+    "duration_ms": 247640,
+    "genre": []
+  },
+  {
+    "song": "Sweet Dreams (Are Made Of This)",
+    "artist": "Eurythmics",
+    "start_time": "2025-10-30T18:31:21",
+    "recorded_at": "30.10.2025 18:31:44",
+    "raw_valid": true,
+    "song_session_id": "66ab2c73-c8c4-452c-9b8f-2994fe97263c",
+    "duration_ms": 216933,
+    "genre": [
+      "new wave"
+    ]
+  },
+  {
+    "song": "Vráť Trochu Lásky Medzi Nás",
+    "artist": "Money Factor",
+    "start_time": "2025-10-30T18:38:21",
+    "recorded_at": "30.10.2025 18:38:45",
+    "raw_valid": true,
+    "song_session_id": "9a6f853f-1682-429b-b281-14e2355a8395",
+    "duration_ms": 245640,
+    "genre": []
+  },
+  {
+    "song": "Circle In The Sand",
+    "artist": "Carlisle Belinda",
+    "start_time": "2025-10-30T18:42:21",
+    "recorded_at": "30.10.2025 18:42:47",
+    "raw_valid": true,
+    "song_session_id": "b4202dbd-31b7-46d5-94d5-4d16ffd76b18",
+    "duration_ms": 220733,
+    "genre": []
+  },
+  {
+    "song": "Oheň, Voda, Vítr",
+    "artist": "Dalibor Janda A Prototyp",
+    "start_time": "2025-10-30T18:51:21",
+    "recorded_at": "30.10.2025 18:51:49",
+    "raw_valid": true,
+    "song_session_id": "62bd2acb-1f4b-46a9-9052-974d78e164a8",
+    "duration_ms": null,
+    "genre": []
+  }
+]

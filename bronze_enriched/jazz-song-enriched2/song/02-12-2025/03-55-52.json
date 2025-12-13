@@ -1,0 +1,336 @@
+[
+  {
+    "song": {
+      "play_date": "2025-12-02",
+      "play_time": "02:54",
+      "artist": [
+        "Jazzy Pecada"
+      ],
+      "title": "Slow Down"
+    },
+    "recorded_at": "2025-12-02T02:56:28.512033+01:00",
+    "raw_valid": true,
+    "song_session_id": "9ba97f1b-4453-43af-b9ad-da26745a0d86",
+    "duration_ms": 332133,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-12-02",
+      "play_time": "02:59",
+      "artist": [
+        "Moca"
+      ],
+      "title": "Post It"
+    },
+    "recorded_at": "2025-12-02T03:01:29.199965+01:00",
+    "raw_valid": true,
+    "song_session_id": "3c3a5b85-784b-4283-b014-2dfd79bb5cfa",
+    "duration_ms": 305773,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-12-02",
+      "play_time": "03:05",
+      "artist": [
+        "Vendla"
+      ],
+      "title": "Give Me A Call"
+    },
+    "recorded_at": "2025-12-02T03:06:29.896084+01:00",
+    "raw_valid": true,
+    "song_session_id": "a35fb954-34c8-4a1a-a9ff-cf36050d4bde",
+    "duration_ms": 201741,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-12-02",
+      "play_time": "03:08",
+      "artist": [
+        "Club Des Belugas"
+      ],
+      "title": "Some Like It Hot"
+    },
+    "recorded_at": "2025-12-02T03:11:30.637482+01:00",
+    "raw_valid": true,
+    "song_session_id": "3115f293-dfb7-45f7-9466-b885d13616a8",
+    "duration_ms": 283173,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-12-02",
+      "play_time": "03:13",
+      "artist": [
+        "Vasquez",
+        "Giorgio Distante"
+      ],
+      "title": "My Goob"
+    },
+    "recorded_at": "2025-12-02T03:16:31.363550+01:00",
+    "raw_valid": true,
+    "song_session_id": "29d6fc98-856d-465b-808d-77715bdfcef0",
+    "duration_ms": 229049,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-12-02",
+      "play_time": "03:20",
+      "artist": [
+        "Sigurd Rascher"
+      ],
+      "title": "Jascha Gurewich: Capriccio"
+    },
+    "recorded_at": "2025-12-02T03:21:32.059650+01:00",
+    "raw_valid": true,
+    "song_session_id": "2b60ed00-9603-4e30-9da1-e094e4f66e3f",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-12-02",
+      "play_time": "03:23",
+      "artist": [
+        "Julian Lage"
+      ],
+      "title": "Nothing Happens Here"
+    },
+    "recorded_at": "2025-12-02T03:26:32.744585+01:00",
+    "raw_valid": true,
+    "song_session_id": "32ac4d7d-5fd2-4758-89b8-0d20849b3bc6",
+    "duration_ms": 254560,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-12-02",
+      "play_time": "03:27",
+      "artist": [
+        "Dock In Absolute"
+      ],
+      "title": "Heartbeat"
+    },
+    "recorded_at": "2025-12-02T03:31:33.446092+01:00",
+    "raw_valid": true,
+    "song_session_id": "806588f0-4320-448d-81fb-d1cbc44d40c3",
+    "duration_ms": 341336,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-12-02",
+      "play_time": "03:30",
+      "artist": [
+        "Soulstance"
+      ],
+      "title": "Anonimous"
+    },
+    "recorded_at": "2025-12-02T03:36:04.081054+01:00",
+    "raw_valid": true,
+    "song_session_id": "c1757df7-3764-482e-a688-750c4da3ddb1",
+    "duration_ms": 351213,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-12-02",
+      "play_time": "03:40",
+      "artist": [
+        "Henry Mancini"
+      ],
+      "title": "So Neat"
+    },
+    "recorded_at": "2025-12-02T03:41:04.747946+01:00",
+    "raw_valid": true,
+    "song_session_id": "134ab603-8ec8-43b3-bd99-f1f24112fd77",
+    "duration_ms": 193569,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-12-02",
+      "play_time": "03:43",
+      "artist": [
+        "Alan Hartwell Big B",
+        "uring Cozy Cole"
+      ],
+      "title": "Topsy-Turvy 2"
+    },
+    "recorded_at": "2025-12-02T03:46:05.441887+01:00",
+    "raw_valid": true,
+    "song_session_id": "4d8571f6-bff5-4e2c-9164-419eb23ca8ea",
+    "duration_ms": 175013,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-12-02",
+      "play_time": "03:46",
+      "artist": [
+        "John Coltrane"
+      ],
+      "title": "Every Time We Say Goodbye"
+    },
+    "recorded_at": "2025-12-02T03:51:06.108949+01:00",
+    "raw_valid": true,
+    "song_session_id": "460f2e08-989d-47b8-9399-73de3e6d72f4",
+    "duration_ms": 345266,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-12-02",
+      "play_time": "03:51",
+      "artist": [
+        "Gogo Penguin"
+      ],
+      "title": "Time-Lapse City"
+    },
+    "recorded_at": "2025-12-02T03:56:06.775118+01:00",
+    "raw_valid": true,
+    "song_session_id": "eae3a10e-7710-4e0e-bb03-134fce2042f1",
+    "duration_ms": 235104,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-12-02",
+      "play_time": "03:59",
+      "artist": [
+        "The Invisible Session"
+      ],
+      "title": "My Inspiration"
+    },
+    "recorded_at": "2025-12-02T04:01:07.477572+01:00",
+    "raw_valid": true,
+    "song_session_id": "911d63fb-070c-41e3-acbb-3df66e4bf530",
+    "duration_ms": 312607,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-12-02",
+      "play_time": "04:05",
+      "artist": [
+        "Miles Davis"
+      ],
+      "title": "Oleo"
+    },
+    "recorded_at": "2025-12-02T04:06:08.165719+01:00",
+    "raw_valid": true,
+    "song_session_id": "a309be07-c15a-4deb-8538-9d4188f12eb6",
+    "duration_ms": 378333,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-12-02",
+      "play_time": "04:10",
+      "artist": [
+        "Coleman Hawkins"
+      ],
+      "title": "Pedalin'"
+    },
+    "recorded_at": "2025-12-02T04:11:08.849422+01:00",
+    "raw_valid": true,
+    "song_session_id": "c3afbb3e-7b0c-4665-85d4-6d6d150d6526",
+    "duration_ms": 396016,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-12-02",
+      "play_time": "04:16",
+      "artist": [
+        "Steward Dace",
+        "C",
+        "y Dulfer"
+      ],
+      "title": "Lily Was Here"
+    },
+    "recorded_at": "2025-12-02T04:21:10.206094+01:00",
+    "raw_valid": true,
+    "song_session_id": "3ebd757c-f85e-4de4-8713-8d78cd26955f",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-12-02",
+      "play_time": "04:20",
+      "artist": [
+        "Barry Can't Swim"
+      ],
+      "title": "Jazz Club After Hours"
+    },
+    "recorded_at": "2025-12-02T04:26:10.891628+01:00",
+    "raw_valid": true,
+    "song_session_id": "55cae7f2-5dab-499d-9472-f3363b8daa42",
+    "duration_ms": 294211,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-12-02",
+      "play_time": "04:28",
+      "artist": [
+        "Ella Fitzgerald"
+      ],
+      "title": "Dindi"
+    },
+    "recorded_at": "2025-12-02T04:31:11.578860+01:00",
+    "raw_valid": true,
+    "song_session_id": "4447d886-dee7-4be2-a8a0-80d068d6301d",
+    "duration_ms": 396066,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-12-02",
+      "play_time": "04:35",
+      "artist": [
+        "Down To The Bone"
+      ],
+      "title": "The Bounce"
+    },
+    "recorded_at": "2025-12-02T04:36:12.359535+01:00",
+    "raw_valid": true,
+    "song_session_id": "f6e1237e-927b-49d2-a64a-39804e0dad12",
+    "duration_ms": 320400,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-12-02",
+      "play_time": "04:45",
+      "artist": [
+        "Soulstance"
+      ],
+      "title": "Riding The Mambo"
+    },
+    "recorded_at": "2025-12-02T04:46:13.768670+01:00",
+    "raw_valid": true,
+    "song_session_id": "b162de08-2b44-46d8-88cc-7fa1ef67bcf7",
+    "duration_ms": 257123,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-12-02",
+      "play_time": "04:49",
+      "artist": [
+        "Van Mccoy"
+      ],
+      "title": "The Hustle"
+    },
+    "recorded_at": "2025-12-02T04:51:14.449483+01:00",
+    "raw_valid": true,
+    "song_session_id": "f3a24581-809a-4a16-8e76-a7d0889decad",
+    "duration_ms": 248222,
+    "genre": []
+  }
+]

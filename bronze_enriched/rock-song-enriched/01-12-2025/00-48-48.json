@@ -1,0 +1,522 @@
+[
+  {
+    "last_update": "2025-11-30 22:53:09",
+    "song": {
+      "musicAuthor": "Green Day",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048517f213369d5265a60af5f7e82",
+      "musicTitle": "Boulevard Of Broken Dreams",
+      "radio": "Rádio ROCK",
+      "startTime": "23:52"
+    },
+    "recorded_at": "2025-11-30T23:53:09.321572+01:00",
+    "raw_valid": true,
+    "song_session_id": "a955e22b-8637-44a7-836f-aab69a4dd1bd",
+    "duration_ms": 260936,
+    "isrc": "USRE11200337",
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "last_update": "2025-11-30 22:57:09",
+    "song": {
+      "musicAuthor": "Horkyze Slize",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485128e73897923333fef68107fc",
+      "musicTitle": "Ty Vies Ze Sa Chovam Tak Jak Sa Chovam",
+      "radio": "Rádio ROCK",
+      "startTime": "23:56"
+    },
+    "recorded_at": "2025-11-30T23:57:09.671121+01:00",
+    "raw_valid": true,
+    "song_session_id": "23c10ca0-790f-42f1-92d1-1b76f71702f8",
+    "duration_ms": 224581,
+    "isrc": "SKB992101814",
+    "genre": []
+  },
+  {
+    "last_update": "2025-11-30 23:02:11",
+    "song": {
+      "musicAuthor": "Guns 'n' Roses",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485168384dd85fd5e95831252f60",
+      "musicTitle": "Sweet Child O' Mine",
+      "radio": "Rádio ROCK",
+      "startTime": "00:01"
+    },
+    "recorded_at": "2025-12-01T00:02:11.263980+01:00",
+    "raw_valid": true,
+    "song_session_id": "084ca19b-0383-48ad-a969-59fe5a396970",
+    "duration_ms": 356066,
+    "isrc": "USGF18714809",
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "last_update": "2025-11-30 23:08:12",
+    "song": {
+      "musicAuthor": "Hex",
+      "musicCover": "https://static.radia.sk/covers/32/7e0ab803-009c-4005-b833-612a2ee53cfd.jpg",
+      "musicTitle": "Hej, Pán Doktor",
+      "radio": "Rádio ROCK",
+      "startTime": "00:07"
+    },
+    "recorded_at": "2025-12-01T00:08:13.324005+01:00",
+    "raw_valid": true,
+    "song_session_id": "2c83261e-69d6-4ae7-90c3-9f1bf5cf88ef",
+    "duration_ms": 166066,
+    "isrc": "CZA231204442",
+    "genre": []
+  },
+  {
+    "last_update": "2025-11-30 23:11:13",
+    "song": {
+      "musicAuthor": "Peter Bazik",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851a77bf87d26a55d387d8102fd",
+      "musicTitle": "Otočím planétu",
+      "radio": "Rádio ROCK",
+      "startTime": "00:10"
+    },
+    "recorded_at": "2025-12-01T00:11:14.119792+01:00",
+    "raw_valid": true,
+    "song_session_id": "34f02f04-1fd5-4e8d-b5b4-0702eb81821b",
+    "duration_ms": 184002,
+    "isrc": "QZWDW2325001",
+    "genre": []
+  },
+  {
+    "last_update": "2025-11-30 23:14:14",
+    "song": {
+      "musicAuthor": "Inxs",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048517ef5c661e64ec185d6180a40",
+      "musicTitle": "Disappear",
+      "radio": "Rádio ROCK",
+      "startTime": "00:13"
+    },
+    "recorded_at": "2025-12-01T00:14:14.306725+01:00",
+    "raw_valid": true,
+    "song_session_id": "6c8baacf-b75d-42a6-94f8-6a94fe82a9e4",
+    "duration_ms": 249053,
+    "isrc": "GBAMX9000004",
+    "genre": []
+  },
+  {
+    "last_update": "2025-11-30 23:18:49",
+    "song": {
+      "musicAuthor": "The Paranoid",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048515948d67ae9ad90d4c74e396e",
+      "musicTitle": "Skúšam Ťa Nájsť",
+      "radio": "Rádio ROCK",
+      "startTime": "00:17"
+    },
+    "recorded_at": "2025-12-01T00:18:50.840571+01:00",
+    "raw_valid": true,
+    "song_session_id": "7e5738f4-6a8c-4eb3-9b11-1cd28692c162",
+    "duration_ms": 185640,
+    "isrc": "SKC851600501",
+    "genre": []
+  },
+  {
+    "last_update": "2025-11-30 23:21:22",
+    "song": {
+      "musicAuthor": "The Stranglers",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851a713f9b06accedba5d963d61",
+      "musicTitle": "Golden Brown",
+      "radio": "Rádio ROCK",
+      "startTime": "00:20"
+    },
+    "recorded_at": "2025-12-01T00:21:22.816474+01:00",
+    "raw_valid": true,
+    "song_session_id": "e90f17e6-b725-4cf2-b4d2-584fe0a55605",
+    "duration_ms": 206760,
+    "isrc": "GBAYE8100053",
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "last_update": "2025-11-30 23:28:23",
+    "song": {
+      "musicAuthor": "Team",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851aaa0cb08e6a6ca74ccf28506",
+      "musicTitle": "Nároční",
+      "radio": "Rádio ROCK",
+      "startTime": "00:27"
+    },
+    "recorded_at": "2025-12-01T00:28:23.615132+01:00",
+    "raw_valid": true,
+    "song_session_id": "9e3a26d4-4176-4d92-b5c4-b3ac0f298d7b",
+    "duration_ms": 310506,
+    "isrc": "SKA128804501",
+    "genre": []
+  },
+  {
+    "last_update": "2025-11-30 23:33:24",
+    "song": {
+      "musicAuthor": "Billy Barman",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851ae1583f55bdb133b5df6fd2f",
+      "musicTitle": "Introvert",
+      "radio": "Rádio ROCK",
+      "startTime": "00:32"
+    },
+    "recorded_at": "2025-12-01T00:33:24.862104+01:00",
+    "raw_valid": true,
+    "song_session_id": "33dde779-a918-4899-9361-da8c75fcc9e3",
+    "duration_ms": 126000,
+    "isrc": "USX9P1335735",
+    "genre": []
+  },
+  {
+    "last_update": "2025-11-30 23:35:24",
+    "song": {
+      "musicAuthor": "Metallica",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485196a926d07aea417327ea024a",
+      "musicTitle": "Fade To Black",
+      "radio": "Rádio ROCK",
+      "startTime": "00:34"
+    },
+    "recorded_at": "2025-12-01T00:35:25.565128+01:00",
+    "raw_valid": true,
+    "song_session_id": "df8744e5-478b-4ad5-8a4b-29257dd758b7",
+    "duration_ms": 417226,
+    "isrc": "QMKHM1600097",
+    "genre": [
+      "metal"
+    ]
+  },
+  {
+    "last_update": "2025-11-30 23:40:28",
+    "song": {
+      "musicAuthor": "Walter Schnitzelsoon",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851ab49662c4aa573f0c85bb8fd",
+      "musicTitle": "Betonove Bozky",
+      "radio": "Rádio ROCK",
+      "startTime": "00:39"
+    },
+    "recorded_at": "2025-12-01T00:40:28.084726+01:00",
+    "raw_valid": true,
+    "song_session_id": "d4e668ba-b3e0-4d4d-8d53-bb5f2df89e74",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "last_update": "2025-11-30 23:43:29",
+    "song": {
+      "musicAuthor": "Gladiator",
+      "musicCover": "https://static.radia.sk/covers/32/637e2fb2-bf40-4366-b0dc-2df4a2d31541.jpg",
+      "musicTitle": "Third Eye",
+      "radio": "Rádio ROCK",
+      "startTime": "00:42"
+    },
+    "recorded_at": "2025-12-01T00:43:29.486106+01:00",
+    "raw_valid": true,
+    "song_session_id": "77bd6249-b8d5-4845-9cd6-f6d9cde59be1",
+    "duration_ms": 263000,
+    "isrc": "SKA849400201",
+    "genre": []
+  },
+  {
+    "last_update": "2025-11-30 23:47:29",
+    "song": {
+      "musicAuthor": "R.E.M.",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851ace3e7aae0b7c78bbe1c4f35",
+      "musicTitle": "Drive",
+      "radio": "Rádio ROCK",
+      "startTime": "00:46"
+    },
+    "recorded_at": "2025-12-01T00:47:29.723922+01:00",
+    "raw_valid": true,
+    "song_session_id": "8400711e-c4f5-4bd8-8fbb-70aa3510f16e",
+    "duration_ms": 187396,
+    "isrc": "USAT22503508",
+    "genre": [
+      "soft pop"
+    ]
+  },
+  {
+    "last_update": "2025-11-30 23:52:30",
+    "song": {
+      "musicAuthor": "I.M.T. Smile",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048519f87f415d273aea02df2ca65",
+      "musicTitle": "Veselá Pesnička",
+      "radio": "Rádio ROCK",
+      "startTime": "00:51"
+    },
+    "recorded_at": "2025-12-01T00:52:31.292489+01:00",
+    "raw_valid": true,
+    "song_session_id": "dc637a26-6e0f-4e1b-9723-d7203bb17366",
+    "duration_ms": 175240,
+    "isrc": "SKA019903012",
+    "genre": []
+  },
+  {
+    "last_update": "2025-11-30 23:55:31",
+    "song": {
+      "musicAuthor": "Megadeth",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048517b178f928742be1492c6fba2",
+      "musicTitle": "Symphony Of Destruction",
+      "radio": "Rádio ROCK",
+      "startTime": "00:54"
+    },
+    "recorded_at": "2025-12-01T00:55:31.593915+01:00",
+    "raw_valid": true,
+    "song_session_id": "f3cfe83f-c066-40ef-b53b-b735101e938b",
+    "duration_ms": 241906,
+    "isrc": "USCA21202505",
+    "genre": [
+      "thrash metal"
+    ]
+  },
+  {
+    "last_update": "2025-11-30 23:58:30",
+    "song": {
+      "musicAuthor": "Hex",
+      "musicCover": "https://static.radia.sk/covers/32/7e0ab803-009c-4005-b833-612a2ee53cfd.jpg",
+      "musicTitle": "Drogova Zavislost",
+      "radio": "Rádio ROCK",
+      "startTime": "00:58"
+    },
+    "recorded_at": "2025-12-01T00:58:31.846483+01:00",
+    "raw_valid": true,
+    "song_session_id": "51fced6a-16b4-4fa2-897d-1413b8de7392",
+    "duration_ms": 210800,
+    "isrc": "CZA231204460",
+    "genre": []
+  },
+  {
+    "last_update": "2025-12-01 00:03:32",
+    "song": {
+      "musicAuthor": "The Clash",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485125a4df452a3c42ccc2e9288b",
+      "musicTitle": "Should I Stay Or Should I Go",
+      "radio": "Rádio ROCK",
+      "startTime": "01:02"
+    },
+    "recorded_at": "2025-12-01T01:03:32.465993+01:00",
+    "raw_valid": true,
+    "song_session_id": "4af2d9d6-8867-4831-b6d9-43ed3bca81c0",
+    "duration_ms": 188987,
+    "isrc": "GBARL1200670",
+    "genre": [
+      "punk"
+    ]
+  },
+  {
+    "last_update": "2025-12-01 00:06:33",
+    "song": {
+      "musicAuthor": "Plus Mínus",
+      "musicCover": "/layout/covers/default.png",
+      "musicTitle": "Nádej",
+      "radio": "Rádio ROCK",
+      "startTime": "01:06"
+    },
+    "recorded_at": "2025-12-01T01:06:34.264355+01:00",
+    "raw_valid": true,
+    "song_session_id": "a5bba19e-6111-446b-9be5-25eb563a0c3e",
+    "duration_ms": 240300,
+    "isrc": "TCAGY2326063",
+    "genre": [
+      "skate punk"
+    ]
+  },
+  {
+    "last_update": "2025-12-01 00:10:34",
+    "song": {
+      "musicAuthor": "O.B.D.",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851d0c4dd37c1e73f78565286ce",
+      "musicTitle": "Zivy Pokoj",
+      "radio": "Rádio ROCK",
+      "startTime": "01:10"
+    },
+    "recorded_at": "2025-12-01T01:10:34.806278+01:00",
+    "raw_valid": true,
+    "song_session_id": "a3042a48-7c8c-4d8a-bcd1-9b2a0da37f5a",
+    "duration_ms": 214541,
+    "isrc": "SKB721600605",
+    "genre": []
+  },
+  {
+    "last_update": "2025-12-01 00:14:35",
+    "song": {
+      "musicAuthor": "Billy Talent",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485151ad1636a7d0456ad972a71c",
+      "musicTitle": "Red Flag",
+      "radio": "Rádio ROCK",
+      "startTime": "01:13"
+    },
+    "recorded_at": "2025-12-01T01:14:35.289489+01:00",
+    "raw_valid": true,
+    "song_session_id": "1c7c180e-75b0-4b73-8bef-72b9cb78aeaf",
+    "duration_ms": 198173,
+    "isrc": "USAT20612281",
+    "genre": [
+      "punk"
+    ]
+  },
+  {
+    "last_update": "2025-12-01 00:17:34",
+    "song": {
+      "musicAuthor": "Paranoid The",
+      "musicCover": "https://static.radia.sk/covers/32/8fea5179-4ce6-4a6b-9973-41f4cd4ab6fc.jpg",
+      "musicTitle": "Neviem Ti Povedať Nie",
+      "radio": "Rádio ROCK",
+      "startTime": "01:16"
+    },
+    "recorded_at": "2025-12-01T01:17:35.554482+01:00",
+    "raw_valid": true,
+    "song_session_id": "5e360d01-7368-44f7-a408-a21da2e08a99",
+    "duration_ms": 174000,
+    "isrc": "SKA011300084",
+    "genre": []
+  },
+  {
+    "last_update": "2025-12-01 00:20:36",
+    "song": {
+      "musicAuthor": "Team",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851826f46a00ae03aeef75be02c",
+      "musicTitle": "Prievan V Peňaženke",
+      "radio": "Rádio ROCK",
+      "startTime": "01:19"
+    },
+    "recorded_at": "2025-12-01T01:20:36.712861+01:00",
+    "raw_valid": true,
+    "song_session_id": "a7e0a7f0-1425-4718-a55b-ffa68857f142",
+    "duration_ms": 180360,
+    "isrc": "SKA128917012",
+    "genre": []
+  },
+  {
+    "last_update": "2025-12-01 00:23:35",
+    "song": {
+      "musicAuthor": "Nirvana",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851c4f52ef8782f0e8ede4c1aaf",
+      "musicTitle": "All Apologies",
+      "radio": "Rádio ROCK",
+      "startTime": "01:23"
+    },
+    "recorded_at": "2025-12-01T01:23:37.046963+01:00",
+    "raw_valid": true,
+    "song_session_id": "b3307c7c-ead3-4cb7-9548-2f88fce098ce",
+    "duration_ms": 233173,
+    "isrc": "USGF19960712",
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "last_update": "2025-12-01 00:27:07",
+    "song": {
+      "musicAuthor": "Konflikt",
+      "musicCover": "https://e-cdns-images.dzcdn.net/images/artist/dcfd816925da785719f77524d469bb87/64x64-000000-80-0-0.jpg",
+      "musicTitle": "Mrtva Planeta Ii",
+      "radio": "Rádio ROCK",
+      "startTime": "01:26"
+    },
+    "recorded_at": "2025-12-01T01:27:07.432049+01:00",
+    "raw_valid": true,
+    "song_session_id": "16ab848d-2206-45fe-8980-d191f986e939",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "last_update": "2025-12-01 00:30:37",
+    "song": {
+      "musicAuthor": "Bijouterrier",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485175df4008379c8347b012bd46",
+      "musicTitle": "Japanese Tourbus",
+      "radio": "Rádio ROCK",
+      "startTime": "01:30"
+    },
+    "recorded_at": "2025-12-01T01:30:37.636927+01:00",
+    "raw_valid": true,
+    "song_session_id": "e41fde5b-9c92-430d-b53c-22ba83a91afd",
+    "duration_ms": 194946,
+    "isrc": "SKB991301410",
+    "genre": []
+  },
+  {
+    "last_update": "2025-12-01 00:34:07",
+    "song": {
+      "musicAuthor": "Bowling For Soup",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851f9b3ece3271d3a5fa73d3759",
+      "musicTitle": "1985",
+      "radio": "Rádio ROCK",
+      "startTime": "01:33"
+    },
+    "recorded_at": "2025-12-01T01:34:08.135840+01:00",
+    "raw_valid": true,
+    "song_session_id": "9944a832-293e-4961-b892-3082b42e2c5b",
+    "duration_ms": 193000,
+    "isrc": "USJI10400613",
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "last_update": "2025-12-01 00:37:08",
+    "song": {
+      "musicAuthor": "The Beatmen",
+      "musicCover": "https://static.radia.sk/covers/32/eaa96938-6d43-4b42-ac2f-e244293e2a88.jpg",
+      "musicTitle": "Let's Make A Summer",
+      "radio": "Rádio ROCK",
+      "startTime": "01:36"
+    },
+    "recorded_at": "2025-12-01T01:37:09.076690+01:00",
+    "raw_valid": true,
+    "song_session_id": "5aed234c-cae7-4d1f-92c6-9b127b8884e5",
+    "duration_ms": 184333,
+    "isrc": "SKA126584201",
+    "genre": [
+      "big beat"
+    ]
+  },
+  {
+    "last_update": "2025-12-01 00:40:09",
+    "song": {
+      "musicAuthor": "Tublatanka",
+      "musicCover": "https://static.radia.sk/covers/32/7ee86987-baad-48a6-9afa-0ca560d378f2.jpg",
+      "musicTitle": "Nekonečná Pieseň",
+      "radio": "Rádio ROCK",
+      "startTime": "01:39"
+    },
+    "recorded_at": "2025-12-01T01:40:09.470335+01:00",
+    "raw_valid": true,
+    "song_session_id": "f0336bd4-b1e5-4060-bf27-71c75d51fa49",
+    "duration_ms": 181405,
+    "isrc": "CZA239500143",
+    "genre": []
+  },
+  {
+    "last_update": "2025-12-01 00:43:08",
+    "song": {
+      "musicAuthor": "Iné Kafe",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048518fc6f6fb2fa1a8a407bf218a",
+      "musicTitle": "Sínus Dopadu",
+      "radio": "Rádio ROCK",
+      "startTime": "01:42"
+    },
+    "recorded_at": "2025-12-01T01:43:09.635112+01:00",
+    "raw_valid": true,
+    "song_session_id": "78bce6ba-ff6d-4190-846d-5ddbd6c3bea6",
+    "duration_ms": 252000,
+    "isrc": "SKA721700001",
+    "genre": []
+  },
+  {
+    "last_update": "2025-12-01 00:48:09",
+    "song": {
+      "musicAuthor": "Limp Bizkit",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048514a31b146c7cf07705d912efe",
+      "musicTitle": "My Way",
+      "radio": "Rádio ROCK",
+      "startTime": "01:47"
+    },
+    "recorded_at": "2025-12-01T01:48:09.925317+01:00",
+    "raw_valid": true,
+    "song_session_id": "9e6992dd-20f6-4aa5-81d5-ec97509c45fa",
+    "duration_ms": 272973,
+    "isrc": "USIR10001177",
+    "genre": [
+      "rock"
+    ]
+  }
+]

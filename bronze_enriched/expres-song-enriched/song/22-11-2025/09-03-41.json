@@ -1,0 +1,403 @@
+[
+  {
+    "song": "Regalo",
+    "artists": [
+      "Alvaro Soler"
+    ],
+    "isrc": "DEE862500388",
+    "start_time": "2025-11-22 08:06:59",
+    "radio": "expres",
+    "recorded_at": "2025-11-22T08:07:33.206967+01:00",
+    "raw_valid": true,
+    "song_session_id": "9cdb50e9-1495-40a4-819e-f0b301e38e2b",
+    "duration_ms": 184984,
+    "genre": []
+  },
+  {
+    "song": "Only Time (Two Tribes Remix)",
+    "artists": [
+      "Enya"
+    ],
+    "isrc": null,
+    "start_time": "2025-11-22 08:10:06",
+    "radio": "expres",
+    "recorded_at": "2025-11-22T08:10:36.164720+01:00",
+    "raw_valid": true,
+    "song_session_id": "d3e6b026-abfd-4c6a-a6f9-8e51a82750f1"
+  },
+  {
+    "song": "Training Season",
+    "artists": [
+      "Dua Lipa"
+    ],
+    "isrc": "GBAHT2301078",
+    "start_time": "2025-11-22 08:13:21",
+    "radio": "expres",
+    "recorded_at": "2025-11-22T08:13:54.554394+01:00",
+    "raw_valid": true,
+    "song_session_id": "138da428-9154-4b74-b615-e7a13bc05565",
+    "duration_ms": 209487,
+    "genre": [
+      "electronic"
+    ]
+  },
+  {
+    "song": "Living On A Prayer",
+    "artists": [
+      "Bon Jovi"
+    ],
+    "isrc": "AUUS00634702",
+    "start_time": "2025-11-22 08:17:07",
+    "radio": "expres",
+    "recorded_at": "2025-11-22T08:17:47.625010+01:00",
+    "raw_valid": true,
+    "song_session_id": "00293251-aab9-493c-bce6-4c6438f4a562",
+    "duration_ms": 225109,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Girls Go Wild",
+    "artists": [
+      "Lp"
+    ],
+    "isrc": "QMRSZ1801659",
+    "start_time": "2025-11-22 08:20:45",
+    "radio": "expres",
+    "recorded_at": "2025-11-22T08:21:15.860078+01:00",
+    "raw_valid": true,
+    "song_session_id": "d88ec739-05b8-4a54-be3e-d268862446ba",
+    "duration_ms": 223426,
+    "genre": []
+  },
+  {
+    "song": "Medzi Nebom A Zenou",
+    "artists": [
+      "Banket",
+      "Richard Muller",
+      "Ema Muller"
+    ],
+    "isrc": "SKC362500009",
+    "start_time": "2025-11-22 08:24:16",
+    "radio": "expres",
+    "recorded_at": "2025-11-22T08:24:38.931975+01:00",
+    "raw_valid": true,
+    "song_session_id": "39aeee36-1e83-4e98-acbb-3dfdb472206b",
+    "duration_ms": 228666,
+    "genre": []
+  },
+  {
+    "song": "Somebody To Love",
+    "artists": [
+      "George Michael",
+      "Queen"
+    ],
+    "isrc": "GBCKZ9300002",
+    "start_time": "2025-11-22 08:33:20",
+    "radio": "expres",
+    "recorded_at": "2025-11-22T08:33:41.279540+01:00",
+    "raw_valid": true,
+    "song_session_id": "f0a7b17b-fb47-487f-a42c-d465eaca22c2",
+    "duration_ms": 318866,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Nice To Meet You",
+    "artists": [
+      "Myles Smith"
+    ],
+    "isrc": "GBARL2401376",
+    "start_time": "2025-11-22 08:38:24",
+    "radio": "expres",
+    "recorded_at": "2025-11-22T08:39:00.962676+01:00",
+    "raw_valid": true,
+    "song_session_id": "1181f7f7-0c33-4650-8a07-493466565b87",
+    "duration_ms": 176000,
+    "genre": [
+      "electro"
+    ]
+  },
+  {
+    "song": "I Want To Know What Love Is",
+    "artists": [
+      "Foreigner"
+    ],
+    "isrc": "USAT29900662",
+    "start_time": "2025-11-22 08:41:22",
+    "radio": "expres",
+    "recorded_at": "2025-11-22T08:41:43.501749+01:00",
+    "raw_valid": true,
+    "song_session_id": "8c3bc814-e44f-41a2-bb9b-65ed6ac2d3ea",
+    "duration_ms": 304786,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Wonderful Life 25",
+    "artists": [
+      "Hurts",
+      "Purple Disco Machine"
+    ],
+    "isrc": "DEE862500677",
+    "start_time": "2025-11-22 08:45:24",
+    "radio": "expres",
+    "recorded_at": "2025-11-22T08:45:44.230216+01:00",
+    "raw_valid": true,
+    "song_session_id": "cd303a30-91fc-4c8f-b9eb-3f3295ecebfe",
+    "duration_ms": 178658,
+    "genre": []
+  },
+  {
+    "song": "Angel",
+    "artists": [
+      "Shaggy"
+    ],
+    "isrc": "USMC19989405",
+    "start_time": "2025-11-22 08:48:23",
+    "radio": "expres",
+    "recorded_at": "2025-11-22T08:48:42.043649+01:00",
+    "raw_valid": true,
+    "song_session_id": "d08ea52d-ddc5-4f2b-ace0-1422dfdaaad6",
+    "duration_ms": 235146,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Otazka Za Milion",
+    "artists": [
+      "Ine Kafe"
+    ],
+    "isrc": "SKA722400001",
+    "start_time": "2025-11-22 08:52:25",
+    "radio": "expres",
+    "recorded_at": "2025-11-22T08:52:46.041433+01:00",
+    "raw_valid": true,
+    "song_session_id": "ec236410-77f6-47bd-91ca-768b55b3254f",
+    "duration_ms": 220400,
+    "genre": []
+  },
+  {
+    "song": "Some Say",
+    "artists": [
+      "Nea"
+    ],
+    "isrc": "SEBGA1902742",
+    "start_time": "2025-11-22 08:56:06",
+    "radio": "expres",
+    "recorded_at": "2025-11-22T08:56:24.877031+01:00",
+    "raw_valid": true,
+    "song_session_id": "1ee2443f-2543-4590-978e-b12a168182ff",
+    "duration_ms": 186878,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Murder On The Dancefloor",
+    "artists": [
+      "Sophie Ellis Bextor"
+    ],
+    "isrc": "GBAKW0100229",
+    "start_time": "2025-11-22 09:07:32",
+    "radio": "expres",
+    "recorded_at": "2025-11-22T09:08:14.090053+01:00",
+    "raw_valid": true,
+    "song_session_id": "750bcca1-8176-43b8-9bb6-19b98e171557",
+    "duration_ms": 231400,
+    "genre": [
+      "electronic"
+    ]
+  },
+  {
+    "song": "Mystical Magical",
+    "artists": [
+      "Benson Boone"
+    ],
+    "isrc": "USWB12500844",
+    "start_time": "2025-11-22 09:11:16",
+    "radio": "expres",
+    "recorded_at": "2025-11-22T09:11:50.099150+01:00",
+    "raw_valid": true,
+    "song_session_id": "8b82d352-65e8-4e59-8a18-d872a100abe8",
+    "duration_ms": 165746,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Another Love",
+    "artists": [
+      "Tom Odell"
+    ],
+    "isrc": "GBARL1300107",
+    "start_time": "2025-11-22 09:14:01",
+    "radio": "expres",
+    "recorded_at": "2025-11-22T09:14:27.942364+01:00",
+    "raw_valid": true,
+    "song_session_id": "182829d8-828a-4845-a1f5-9dab5b05cccc",
+    "duration_ms": 246040,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Italodisco",
+    "artists": [
+      "The Kolors"
+    ],
+    "isrc": "ITQ002300342",
+    "start_time": "2025-11-22 09:18:03",
+    "radio": "expres",
+    "recorded_at": "2025-11-22T09:18:31.463921+01:00",
+    "raw_valid": true,
+    "song_session_id": "a78e0008-53df-4e73-a092-83eb8094a566",
+    "duration_ms": 199512,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Pride",
+    "artists": [
+      "Felix Jaehn",
+      "Jhart"
+    ],
+    "isrc": "DEUM72503423",
+    "start_time": "2025-11-22 09:21:23",
+    "radio": "expres",
+    "recorded_at": "2025-11-22T09:21:50.032888+01:00",
+    "raw_valid": true,
+    "song_session_id": "531744d6-f634-4d36-ba3c-402f582fe110",
+    "duration_ms": 158150,
+    "genre": []
+  },
+  {
+    "song": "Another Brick In The Wall (Part 2)",
+    "artists": [
+      "Pink Floyd"
+    ],
+    "isrc": "GBN9Y1100099",
+    "start_time": "2025-11-22 09:24:11",
+    "radio": "expres",
+    "recorded_at": "2025-11-22T09:24:32.498104+01:00",
+    "raw_valid": true,
+    "song_session_id": "1a4b26f1-90a6-4f4b-9062-8740de10c85a",
+    "duration_ms": 228586,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Umbrella",
+    "artists": [
+      "Rihanna"
+    ],
+    "isrc": "USUM70736771",
+    "start_time": "2025-11-22 09:33:05",
+    "radio": "expres",
+    "recorded_at": "2025-11-22T09:33:44.912059+01:00",
+    "raw_valid": true,
+    "song_session_id": "6106b75e-e012-40cd-8e37-376c25d82f58",
+    "duration_ms": 276146,
+    "genre": [
+      "electronic"
+    ]
+  },
+  {
+    "song": "Forbidden Road",
+    "artists": [
+      "Robbie Williams"
+    ],
+    "isrc": "GBPS62400032",
+    "start_time": "2025-11-22 09:36:54",
+    "radio": "expres",
+    "recorded_at": "2025-11-22T09:37:31.896922+01:00",
+    "raw_valid": true,
+    "song_session_id": "bf873fa9-91c9-418c-9973-e492e3660bd2",
+    "duration_ms": 197419,
+    "genre": []
+  },
+  {
+    "song": "Another Day In Paradise",
+    "artists": [
+      "Phil Collins"
+    ],
+    "isrc": "USRH11602150",
+    "start_time": "2025-11-22 09:39:54",
+    "radio": "expres",
+    "recorded_at": "2025-11-22T09:40:24.725399+01:00",
+    "raw_valid": true,
+    "song_session_id": "4640e314-4b2e-4daa-97ff-479aefa2ca69",
+    "duration_ms": 323053,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "End Of The World",
+    "artists": [
+      "Miley Cyrus"
+    ],
+    "isrc": "USSM12501019",
+    "start_time": "2025-11-22 09:44:49",
+    "radio": "expres",
+    "recorded_at": "2025-11-22T09:45:24.012412+01:00",
+    "raw_valid": true,
+    "song_session_id": "c0a505b6-9690-468c-8fce-a01cd57f7362",
+    "duration_ms": 250483,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Eternity",
+    "artists": [
+      "Alex Warren"
+    ],
+    "isrc": "USAT22503779",
+    "start_time": "2025-11-22 09:48:42",
+    "radio": "expres",
+    "recorded_at": "2025-11-22T09:49:12.988679+01:00",
+    "raw_valid": true,
+    "song_session_id": "f30cf5fc-58dd-40ed-a61a-4f2c7366cfec",
+    "duration_ms": 189553,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Nikdy Nebolo Lepsie",
+    "artists": [
+      "Hex"
+    ],
+    "isrc": "SKA010600047",
+    "start_time": "2025-11-22 09:52:24",
+    "radio": "expres",
+    "recorded_at": "2025-11-22T09:52:57.132955+01:00",
+    "raw_valid": true,
+    "song_session_id": "afa0fbab-3c88-4ba0-8e61-d3622dae0d5a",
+    "duration_ms": 232840,
+    "genre": []
+  },
+  {
+    "song": "Ghost",
+    "artists": [
+      "Ella Henderson"
+    ],
+    "isrc": "GBHMU1400029",
+    "start_time": "2025-11-22 09:56:08",
+    "radio": "expres",
+    "recorded_at": "2025-11-22T09:56:30.459971+01:00",
+    "raw_valid": true,
+    "song_session_id": "369c2280-86ae-4511-bd66-9630d9754747",
+    "duration_ms": 216106,
+    "genre": [
+      "pop"
+    ]
+  }
+]

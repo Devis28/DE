@@ -1,0 +1,512 @@
+[
+  {
+    "song": "Srdce Nehasnou",
+    "artists": [
+      "Karel Gott",
+      "Charlotte Ella Gottova"
+    ],
+    "isrc": "CZA161900335",
+    "start_time": "2025-12-08 20:57:24",
+    "radio": "expres",
+    "recorded_at": "2025-12-08T20:57:46.731205+01:00",
+    "raw_valid": true,
+    "song_session_id": "bd012c46-bb3c-473b-a1bb-3fbd3906f6de",
+    "duration_ms": 228667,
+    "genre": []
+  },
+  {
+    "song": "Wonderful Life 25",
+    "artists": [
+      "Hurts",
+      "Purple Disco Machine"
+    ],
+    "isrc": "DEE862500677",
+    "start_time": "2025-12-08 21:05:13",
+    "radio": "expres",
+    "recorded_at": "2025-12-08T21:05:28.973771+01:00",
+    "raw_valid": true,
+    "song_session_id": "887da7df-af56-4fd0-b7ed-764cf6807a0d",
+    "duration_ms": 178658,
+    "genre": []
+  },
+  {
+    "song": "White Dove",
+    "artists": [
+      "Scorpions"
+    ],
+    "isrc": "USPR39500251",
+    "start_time": "2025-12-08 21:08:17",
+    "radio": "expres",
+    "recorded_at": "2025-12-08T21:08:32.729746+01:00",
+    "raw_valid": true,
+    "song_session_id": "201940c4-c91b-432b-96c4-bff6601c7d50",
+    "duration_ms": 260066,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Unhealthy",
+    "artists": [
+      "Anne-Marie",
+      "Shania Twain"
+    ],
+    "isrc": "GBAHS2300345",
+    "start_time": "2025-12-08 21:12:27",
+    "radio": "expres",
+    "recorded_at": "2025-12-08T21:12:57.479563+01:00",
+    "raw_valid": true,
+    "song_session_id": "74923d97-6fd7-4696-99f6-0ff37853135a",
+    "duration_ms": 149653,
+    "genre": []
+  },
+  {
+    "song": "Birds",
+    "artists": [
+      "Imagine Dragons",
+      "Elisa"
+    ],
+    "isrc": "USUM71911107",
+    "start_time": "2025-12-08 21:14:55",
+    "radio": "expres",
+    "recorded_at": "2025-12-08T21:15:20.619097+01:00",
+    "raw_valid": true,
+    "song_session_id": "e62fe5e6-c901-4400-a819-1f555cb90a25",
+    "duration_ms": 219434,
+    "genre": []
+  },
+  {
+    "song": "Gone Gone Gone",
+    "artists": [
+      "David Guetta",
+      "Teddy Swims",
+      "Tones And I"
+    ],
+    "isrc": "UKWLG2500132",
+    "start_time": "2025-12-08 21:18:28",
+    "radio": "expres",
+    "recorded_at": "2025-12-08T21:18:44.619771+01:00",
+    "raw_valid": true,
+    "song_session_id": "7da513da-a478-4184-88ac-50132867a613",
+    "duration_ms": 198004,
+    "genre": [
+      "soul"
+    ]
+  },
+  {
+    "song": "Under Pressure",
+    "artists": [
+      "Queen",
+      "David Bowie"
+    ],
+    "isrc": "GBUM71029622",
+    "start_time": "2025-12-08 21:22:14",
+    "radio": "expres",
+    "recorded_at": "2025-12-08T21:22:44.144155+01:00",
+    "raw_valid": true,
+    "song_session_id": "275051d6-75c5-45f1-8401-560e60aa409f",
+    "duration_ms": 236506,
+    "genre": []
+  },
+  {
+    "song": "World Gone Wild",
+    "artists": [
+      "Robin Schulz",
+      "Cyril",
+      "Sam Martin"
+    ],
+    "isrc": "DEA622403329",
+    "start_time": "2025-12-08 21:25:58",
+    "radio": "expres",
+    "recorded_at": "2025-12-08T21:26:28.685865+01:00",
+    "raw_valid": true,
+    "song_session_id": "ccf4d58d-e4c7-4581-9df4-9e518fb57adf",
+    "duration_ms": 146523,
+    "genre": []
+  },
+  {
+    "song": "Na Vianoce",
+    "artists": [
+      "Adam Durica"
+    ],
+    "isrc": "SKA011700088",
+    "start_time": "2025-12-08 21:28:19",
+    "radio": "expres",
+    "recorded_at": "2025-12-08T21:28:48.846645+01:00",
+    "raw_valid": true,
+    "song_session_id": "78193d3e-d83d-47d6-82e7-6894e524822b",
+    "duration_ms": 223319,
+    "genre": []
+  },
+  {
+    "song": "Blink Twice",
+    "artists": [
+      "Shaboozey",
+      "Myles Smith"
+    ],
+    "isrc": "USUYG1717098",
+    "start_time": "2025-12-08 21:33:23",
+    "radio": "expres",
+    "recorded_at": "2025-12-08T21:33:54.120669+01:00",
+    "raw_valid": true,
+    "song_session_id": "22a2440e-bfc8-4956-ae39-486549e577bd",
+    "duration_ms": 156721,
+    "genre": []
+  },
+  {
+    "song": "Komplikovana",
+    "artists": [
+      "Polemic"
+    ],
+    "isrc": "CZA210000559",
+    "start_time": "2025-12-08 21:36:06",
+    "radio": "expres",
+    "recorded_at": "2025-12-08T21:36:37.548907+01:00",
+    "raw_valid": true,
+    "song_session_id": "ec2e1294-103c-4da1-b839-9db4e7ec1f67",
+    "duration_ms": 186560,
+    "genre": []
+  },
+  {
+    "song": "Superheroes",
+    "artists": [
+      "Script"
+    ],
+    "isrc": "GBARL1400978",
+    "start_time": "2025-12-08 21:39:12",
+    "radio": "expres",
+    "recorded_at": "2025-12-08T21:39:38.967301+01:00",
+    "raw_valid": true,
+    "song_session_id": "a6699cc8-6363-4b7d-9818-1e98610d282a",
+    "duration_ms": 242880,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Mystical Magical",
+    "artists": [
+      "Benson Boone"
+    ],
+    "isrc": "USWB12500844",
+    "start_time": "2025-12-08 21:43:19",
+    "radio": "expres",
+    "recorded_at": "2025-12-08T21:43:43.438784+01:00",
+    "raw_valid": true,
+    "song_session_id": "3be87c07-8e9c-4648-9abc-3673e950434f",
+    "duration_ms": 165746,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Mystical Magical",
+    "artists": [
+      "Benson Boone"
+    ],
+    "isrc": "USWB12500844",
+    "start_time": "2025-12-08 21:43:19",
+    "radio": "expres",
+    "recorded_at": "2025-12-08T21:44:26.020551+01:00",
+    "raw_valid": true,
+    "song_session_id": "67713c98-f8bb-4c96-ada1-6bfc2861f792",
+    "duration_ms": 165746,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Burka",
+    "artists": [
+      "Maria Cirova"
+    ],
+    "isrc": "SKB000807104",
+    "start_time": "2025-12-08 21:46:07",
+    "radio": "expres",
+    "recorded_at": "2025-12-08T21:46:23.843624+01:00",
+    "raw_valid": true,
+    "song_session_id": "25fc21b8-a557-4589-b1f0-9bf7ad74a94e",
+    "duration_ms": 245680,
+    "genre": []
+  },
+  {
+    "song": "Wonders",
+    "artists": [
+      "Michael Patrick Kelly",
+      "Rakim"
+    ],
+    "isrc": "DEE862201500",
+    "start_time": "2025-12-08 21:50:12",
+    "radio": "expres",
+    "recorded_at": "2025-12-08T21:50:28.295043+01:00",
+    "raw_valid": true,
+    "song_session_id": "853d6f9f-8d7d-4b76-8ecf-06faca55eef7",
+    "duration_ms": 209186,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "12 To 12",
+    "artists": [
+      "Sombr"
+    ],
+    "isrc": "USWB12502453",
+    "start_time": "2025-12-08 21:53:35",
+    "radio": "expres",
+    "recorded_at": "2025-12-08T21:53:51.822055+01:00",
+    "raw_valid": true,
+    "song_session_id": "e53ac3ec-52f1-4aa2-8365-4ef9ac6ce7ee",
+    "duration_ms": 242903,
+    "genre": [
+      "offizielle charts"
+    ]
+  },
+  {
+    "song": "All I Want For Christmas Is You",
+    "artists": [
+      "Mariah Carey"
+    ],
+    "isrc": "USSM19400325",
+    "start_time": "2025-12-08 21:57:27",
+    "radio": "expres",
+    "recorded_at": "2025-12-08T21:57:54.727014+01:00",
+    "raw_valid": true,
+    "song_session_id": "d483f810-56ce-4f79-bbbb-8f1c340b409e",
+    "duration_ms": 241853,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "By Your Side (In My Mind)",
+    "artists": [
+      "Leony"
+    ],
+    "isrc": "DEN062400804",
+    "start_time": "2025-12-08 22:05:06",
+    "radio": "expres",
+    "recorded_at": "2025-12-08T22:05:20.869826+01:00",
+    "raw_valid": true,
+    "song_session_id": "3ea04bca-2479-441c-a1d6-2d7a99a8a7ca",
+    "duration_ms": 177148,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Every Single Day",
+    "artists": [
+      "Benassi Bros",
+      "Dhany"
+    ],
+    "isrc": "ITOOD0501603",
+    "start_time": "2025-12-08 22:08:12",
+    "radio": "expres",
+    "recorded_at": "2025-12-08T22:08:45.032114+01:00",
+    "raw_valid": true,
+    "song_session_id": "5fdf0c7d-5fa9-4ef6-8d46-0fe0755ee418",
+    "duration_ms": 212320,
+    "genre": [
+      "house"
+    ]
+  },
+  {
+    "song": "Love Me Not",
+    "artists": [
+      "Ravyn Lenae"
+    ],
+    "isrc": "USAT22401137",
+    "start_time": "2025-12-08 22:11:47",
+    "radio": "expres",
+    "recorded_at": "2025-12-08T22:12:07.681737+01:00",
+    "raw_valid": true,
+    "song_session_id": "b3ae2dfa-a1a3-47b5-8239-98a33d0535c4",
+    "duration_ms": 213466,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Pointless",
+    "artists": [
+      "Lewis Capaldi"
+    ],
+    "isrc": "DEUM72203211",
+    "start_time": "2025-12-08 22:15:04",
+    "radio": "expres",
+    "recorded_at": "2025-12-08T22:15:31.685352+01:00",
+    "raw_valid": true,
+    "song_session_id": "146f1992-23d2-4447-b2e8-e9426be35ea9",
+    "duration_ms": 231120,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Make It Right",
+    "artists": [
+      "Tom Gregory",
+      "Vize"
+    ],
+    "isrc": "DEE862501109",
+    "start_time": "2025-12-08 22:18:47",
+    "radio": "expres",
+    "recorded_at": "2025-12-08T22:19:13.190287+01:00",
+    "raw_valid": true,
+    "song_session_id": "cedd5a3b-186b-4413-95a4-026ef3173e6d",
+    "duration_ms": 141051,
+    "genre": []
+  },
+  {
+    "song": "Wake Me Up Before You Go Go",
+    "artists": [
+      "Wham"
+    ],
+    "isrc": "GBBBN0009712",
+    "start_time": "2025-12-08 22:21:23",
+    "radio": "expres",
+    "recorded_at": "2025-12-08T22:21:36.422994+01:00",
+    "raw_valid": true,
+    "song_session_id": "a7ee6471-9e13-4a03-8845-6a119e350913",
+    "duration_ms": 232542,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Flowers",
+    "artists": [
+      "Miley Cyrus"
+    ],
+    "isrc": "USSM12209777",
+    "start_time": "2025-12-08 22:25:13",
+    "radio": "expres",
+    "recorded_at": "2025-12-08T22:25:40.898635+01:00",
+    "raw_valid": true,
+    "song_session_id": "b283989a-fdd0-4c4e-b4a6-1573d746c2a1",
+    "duration_ms": 200454,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Kazdy Den Budu Vraj Vianoce",
+    "artists": [
+      "Lojzo",
+      "Miro Zbirka"
+    ],
+    "isrc": "SKA129075601",
+    "start_time": "2025-12-08 22:28:27",
+    "radio": "expres",
+    "recorded_at": "2025-12-08T22:28:44.069924+01:00",
+    "raw_valid": true,
+    "song_session_id": "dbb9312a-25dc-475e-86e8-c66864bc2f2d",
+    "duration_ms": 266893,
+    "genre": []
+  },
+  {
+    "song": "Be Mine",
+    "artists": [
+      "Kamrad"
+    ],
+    "isrc": "DE1NJ2500035",
+    "start_time": "2025-12-08 22:33:23",
+    "radio": "expres",
+    "recorded_at": "2025-12-08T22:33:49.512023+01:00",
+    "raw_valid": true,
+    "song_session_id": "db5e44cb-aac7-456b-b196-b01d0018f37a",
+    "duration_ms": 156463,
+    "genre": []
+  },
+  {
+    "song": "Vadi - Nevadi",
+    "artists": [
+      "Imt Smile"
+    ],
+    "isrc": "SKA010305105",
+    "start_time": "2025-12-08 22:36:12",
+    "radio": "expres",
+    "recorded_at": "2025-12-08T22:36:32.911901+01:00",
+    "raw_valid": true,
+    "song_session_id": "6380ca21-e5e8-4f50-9b8b-bce795885799",
+    "duration_ms": 199813,
+    "genre": []
+  },
+  {
+    "song": "Joyride",
+    "artists": [
+      "Roxette"
+    ],
+    "isrc": "SEAMA9079010",
+    "start_time": "2025-12-08 22:39:26",
+    "radio": "expres",
+    "recorded_at": "2025-12-08T22:39:56.867977+01:00",
+    "raw_valid": true,
+    "song_session_id": "43a1788a-78d6-4943-a116-af127b47bb12",
+    "duration_ms": 263093,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Eternity",
+    "artists": [
+      "Alex Warren"
+    ],
+    "isrc": "USAT22503779",
+    "start_time": "2025-12-08 22:43:34",
+    "radio": "expres",
+    "recorded_at": "2025-12-08T22:44:04.835276+01:00",
+    "raw_valid": true,
+    "song_session_id": "5e15a9b8-13ba-470e-8ddb-99662ae92d97",
+    "duration_ms": 189553,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Hlavu Maj Hore",
+    "artists": [
+      "Gladiator"
+    ],
+    "isrc": "CZA210901083",
+    "start_time": "2025-12-08 22:46:43",
+    "radio": "expres",
+    "recorded_at": "2025-12-08T22:47:08.484045+01:00",
+    "raw_valid": true,
+    "song_session_id": "effad8b2-6d1c-45d6-817a-ccf9204474dc",
+    "duration_ms": 205946,
+    "genre": []
+  },
+  {
+    "song": "The Sound Of Silence",
+    "artists": [
+      "Disturbed"
+    ],
+    "isrc": "USRE12400063",
+    "start_time": "2025-12-08 22:50:07",
+    "radio": "expres",
+    "recorded_at": "2025-12-08T22:50:29.767332+01:00",
+    "raw_valid": true,
+    "song_session_id": "73862255-e10e-44b4-a6f2-459ca04826d8",
+    "duration_ms": 185238,
+    "genre": []
+  },
+  {
+    "song": "Zoo",
+    "artists": [
+      "Shakira"
+    ],
+    "isrc": "USWD12538420",
+    "start_time": "2025-12-08 22:53:02",
+    "radio": "expres",
+    "recorded_at": "2025-12-08T22:53:32.515154+01:00",
+    "raw_valid": true,
+    "song_session_id": "54ea8767-05dd-45a4-b3f4-ac63fdc2ff85",
+    "duration_ms": 190822,
+    "genre": [
+      "pop"
+    ]
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "last_update": "2025-11-04 20:25:11",
+    "song": {
+      "musicAuthor": "Muller Richard",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048517815a2fffbdf883d1de8e3f2",
+      "musicTitle": "Srdce Jako Kniže Rohan",
+      "radio": "Fun Rádio",
+      "startTime": "21:24"
+    },
+    "recorded_at": "2025-11-04T21:25:11.583214+01:00",
+    "raw_valid": true,
+    "song_session_id": "8df9226a-1a5b-4715-83c1-4155f3a36c3e",
+    "duration_ms": 241146,
+    "genre": []
+  },
+  {
+    "last_update": "2025-11-04 20:29:11",
+    "song": {
+      "musicAuthor": "Imt Smile",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851390650dac22799f0ee7d7411",
+      "musicTitle": "Usmev",
+      "radio": "Fun Rádio",
+      "startTime": "21:28"
+    },
+    "recorded_at": "2025-11-04T21:29:11.849942+01:00",
+    "raw_valid": true,
+    "song_session_id": "ef285535-1cee-420e-b67c-5ab08ce7c0ee",
+    "duration_ms": 297920,
+    "genre": []
+  },
+  {
+    "last_update": "2025-11-04 20:32:11",
+    "song": {
+      "musicAuthor": "Katarína Knechtová",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851143d1dc0b4195aa6ded70e46",
+      "musicTitle": "Verím",
+      "radio": "Fun Rádio",
+      "startTime": "21:32"
+    },
+    "recorded_at": "2025-11-04T21:32:12.058993+01:00",
+    "raw_valid": true,
+    "song_session_id": "d77b4b9a-726c-4d97-8656-0ba2d0bbe162",
+    "duration_ms": 228830,
+    "genre": []
+  }
+]

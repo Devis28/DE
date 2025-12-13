@@ -1,0 +1,636 @@
+[
+  {
+    "last_update": "2025-11-21 19:07:23",
+    "song": {
+      "musicAuthor": "Topic, Fireboy Dml & Nico Santos",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485179288e0723b54dc1f7a94027",
+      "musicTitle": "Body",
+      "radio": "Fun Rádio",
+      "startTime": "20:06"
+    },
+    "recorded_at": "2025-11-21T20:07:23.610960+01:00",
+    "raw_valid": true,
+    "song_session_id": "2dcc533d-4c6b-4d39-8917-399504be8c5f",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "last_update": "2025-11-21 19:10:22",
+    "song": {
+      "musicAuthor": "Drenchill Featuring Perfect Pitch & Rocco",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485170b885668754ee4435c46305",
+      "musicTitle": "Join Me (In Death)",
+      "radio": "Fun Rádio",
+      "startTime": "20:09"
+    },
+    "recorded_at": "2025-11-21T20:10:23.808750+01:00",
+    "raw_valid": true,
+    "song_session_id": "15b700b0-1d80-4210-81d1-c1f2acde63ae",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "last_update": "2025-11-21 19:12:23",
+    "song": {
+      "musicAuthor": "Niiko & Swae Featuring Nick Schilder",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851b8e28740c6db47282e6556f1",
+      "musicTitle": "My Head",
+      "radio": "Fun Rádio",
+      "startTime": "20:11"
+    },
+    "recorded_at": "2025-11-21T20:12:23.965698+01:00",
+    "raw_valid": true,
+    "song_session_id": "8271002e-7bcc-439e-8b4a-712b57d82e50",
+    "duration_ms": 155625,
+    "genre": []
+  },
+  {
+    "last_update": "2025-11-21 19:15:23",
+    "song": {
+      "musicAuthor": "Fabrique Featuring Marphil",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048511be8a8b794fa2d7ac2aa636b",
+      "musicTitle": "I Like Chopin",
+      "radio": "Fun Rádio",
+      "startTime": "20:14"
+    },
+    "recorded_at": "2025-11-21T20:15:24.179915+01:00",
+    "raw_valid": true,
+    "song_session_id": "59e94a2e-8b8f-43a4-9b72-db4100150065",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "last_update": "2025-11-21 19:17:23",
+    "song": {
+      "musicAuthor": "Bl3ss, Camrinwatsin Ft. Bbyclose",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048512501aee4227a3288fe0000b5",
+      "musicTitle": "Kisses",
+      "radio": "Fun Rádio",
+      "startTime": "20:17"
+    },
+    "recorded_at": "2025-11-21T20:17:24.294077+01:00",
+    "raw_valid": true,
+    "song_session_id": "fc9eecf2-1830-4394-91e7-e492caef23de",
+    "duration_ms": 138247,
+    "genre": []
+  },
+  {
+    "last_update": "2025-11-21 19:20:23",
+    "song": {
+      "musicAuthor": "Kisch",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048519a183ef9868a813cb4376080",
+      "musicTitle": "Dive Deep",
+      "radio": "Fun Rádio",
+      "startTime": "20:19"
+    },
+    "recorded_at": "2025-11-21T20:20:24.482547+01:00",
+    "raw_valid": true,
+    "song_session_id": "c3dc53ec-ce76-4a51-93e1-7f74610e4491",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "last_update": "2025-11-21 19:23:24",
+    "song": {
+      "musicAuthor": "Dmnds Feat Lujavo & Nito-Onna",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851718a8b9e2a9c24d94ac93324",
+      "musicTitle": "Calabria",
+      "radio": "Fun Rádio",
+      "startTime": "20:22"
+    },
+    "recorded_at": "2025-11-21T20:23:24.665185+01:00",
+    "raw_valid": true,
+    "song_session_id": "33dcf3e7-870a-45f5-b43f-a79e89742f2c",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "last_update": "2025-11-21 19:25:24",
+    "song": {
+      "musicAuthor": "Galantis, david Guetta & 5 Seconds Of Summer",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851c93daad3fd7acf20168abdb9",
+      "musicTitle": "Lighter",
+      "radio": "Fun Rádio",
+      "startTime": "20:24"
+    },
+    "recorded_at": "2025-11-21T20:25:24.785935+01:00",
+    "raw_valid": true,
+    "song_session_id": "18db76c8-7d3e-47b5-a087-efe07370234e",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "last_update": "2025-11-21 19:29:24",
+    "song": {
+      "musicAuthor": "Quarterhead, Late Nine",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048518457916d1f5285273b1d2e73",
+      "musicTitle": "You Spin Me Right Round",
+      "radio": "Fun Rádio",
+      "startTime": "20:28"
+    },
+    "recorded_at": "2025-11-21T20:29:25.028785+01:00",
+    "raw_valid": true,
+    "song_session_id": "498fceaa-35bf-430b-8ea4-7d50ae64c861",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "last_update": "2025-11-21 19:31:24",
+    "song": {
+      "musicAuthor": "Armin Van Buuren & Rob Swire",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851d71412793f064c155d72c0a3",
+      "musicTitle": "Sound Of You",
+      "radio": "Fun Rádio",
+      "startTime": "20:30"
+    },
+    "recorded_at": "2025-11-21T20:31:25.145762+01:00",
+    "raw_valid": true,
+    "song_session_id": "fa35dc30-0b84-4d43-abf4-01ad1241b2fa",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "last_update": "2025-11-21 19:34:24",
+    "song": {
+      "musicAuthor": "Bebe Rexha",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851b24069af64a886e1b2a2d3f2",
+      "musicTitle": "Chase It (Mmm Da Da Da)",
+      "radio": "Fun Rádio",
+      "startTime": "20:33"
+    },
+    "recorded_at": "2025-11-21T20:34:25.314054+01:00",
+    "raw_valid": true,
+    "song_session_id": "4480febc-8c34-4821-8c98-9c1031b29a98",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "last_update": "2025-11-21 19:37:24",
+    "song": {
+      "musicAuthor": "Ely Oaks",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048516e2c3a9218378061c1a1b2b0",
+      "musicTitle": "Running Around",
+      "radio": "Fun Rádio",
+      "startTime": "20:36"
+    },
+    "recorded_at": "2025-11-21T20:37:25.489931+01:00",
+    "raw_valid": true,
+    "song_session_id": "3252c4d9-6786-440b-946f-77a40441e4a3",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "last_update": "2025-11-21 19:39:25",
+    "song": {
+      "musicAuthor": "Tiësto & Mathame",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485103f7275df8ef856179ec9458",
+      "musicTitle": "Everlight",
+      "radio": "Fun Rádio",
+      "startTime": "20:38"
+    },
+    "recorded_at": "2025-11-21T20:39:25.618866+01:00",
+    "raw_valid": true,
+    "song_session_id": "f6246350-b827-44d5-986f-f076cc5144f2",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "last_update": "2025-11-21 19:42:25",
+    "song": {
+      "musicAuthor": "Willcox",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851195a99e415ece879af4d51d0",
+      "musicTitle": "Bamboleo",
+      "radio": "Fun Rádio",
+      "startTime": "20:41"
+    },
+    "recorded_at": "2025-11-21T20:42:25.787786+01:00",
+    "raw_valid": true,
+    "song_session_id": "79874e84-0966-4370-8dfb-6a637bb6c2e4",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "last_update": "2025-11-21 19:45:25",
+    "song": {
+      "musicAuthor": "Duke Dumont",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851754b3675dd3a456f0fbf9fba",
+      "musicTitle": "I Need You Now",
+      "radio": "Fun Rádio",
+      "startTime": "20:44"
+    },
+    "recorded_at": "2025-11-21T20:45:26.040888+01:00",
+    "raw_valid": true,
+    "song_session_id": "b2e1ba11-caab-4907-b451-5953fa406d9e",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "last_update": "2025-11-21 19:48:26",
+    "song": {
+      "musicAuthor": "Rat City & Isak Heim",
+      "musicCover": "https://static.radia.sk/covers/32/18039237-2ac2-41e2-a5c7-89a47306cd56.jpg",
+      "musicTitle": "Rather Be",
+      "radio": "Fun Rádio",
+      "startTime": "20:48"
+    },
+    "recorded_at": "2025-11-21T20:48:26.250641+01:00",
+    "raw_valid": true,
+    "song_session_id": "079a0072-14d9-41fb-b4f7-150af4c06d61",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "last_update": "2025-11-21 19:52:26",
+    "song": {
+      "musicAuthor": "Peggy Gou",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048519a8459318ff1a68ecfd74522",
+      "musicTitle": "(It Goes Like) Nanana",
+      "radio": "Fun Rádio",
+      "startTime": "20:51"
+    },
+    "recorded_at": "2025-11-21T20:52:26.548253+01:00",
+    "raw_valid": true,
+    "song_session_id": "83adf312-4d6b-4e41-981f-7c270822b7e6",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "last_update": "2025-11-21 19:56:26",
+    "song": {
+      "musicAuthor": "Vinne & Adresz",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048511b72599445bb4d19dc1482f3",
+      "musicTitle": "Your Eyes",
+      "radio": "Fun Rádio",
+      "startTime": "20:56"
+    },
+    "recorded_at": "2025-11-21T20:56:26.834530+01:00",
+    "raw_valid": true,
+    "song_session_id": "d76ad646-0e4c-4f1d-810d-ef85e1c8f76a",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "last_update": "2025-11-21 20:00:26",
+    "song": {
+      "musicAuthor": "Lewis Thompson X David Guetta",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048515dd635542e559cd368d6966a",
+      "musicTitle": "Take Me Back",
+      "radio": "Fun Rádio",
+      "startTime": "20:59"
+    },
+    "recorded_at": "2025-11-21T21:00:27.082278+01:00",
+    "raw_valid": true,
+    "song_session_id": "e25a3713-d1ef-4f6e-b695-bd736edae106",
+    "duration_ms": 129479,
+    "genre": []
+  },
+  {
+    "last_update": "2025-11-21 20:02:27",
+    "song": {
+      "musicAuthor": "Nathan Dawe & Joel Corry & Ella Henderson",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048515ca6b7f4b15bdd7d91730b63",
+      "musicTitle": "0800 Heaven",
+      "radio": "Fun Rádio",
+      "startTime": "21:01"
+    },
+    "recorded_at": "2025-11-21T21:02:27.205146+01:00",
+    "raw_valid": true,
+    "song_session_id": "e502da38-63fa-40fd-a2be-6954aaa6cde9",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "last_update": "2025-11-21 20:04:26",
+    "song": {
+      "musicAuthor": "Tiësto Ft. Fast Boy",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485100d67b72c76eb4635fc23996",
+      "musicTitle": "All My Life",
+      "radio": "Fun Rádio",
+      "startTime": "21:04"
+    },
+    "recorded_at": "2025-11-21T21:04:27.318796+01:00",
+    "raw_valid": true,
+    "song_session_id": "e6aa580b-e188-478d-b4a5-cbf1ddabbb63",
+    "duration_ms": 146975,
+    "genre": []
+  },
+  {
+    "last_update": "2025-11-21 20:07:26",
+    "song": {
+      "musicAuthor": "Sophie And The Giants",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048513dcfb489babf3f8589ecc582",
+      "musicTitle": "Shut Up And Dance",
+      "radio": "Fun Rádio",
+      "startTime": "21:06"
+    },
+    "recorded_at": "2025-11-21T21:07:27.501977+01:00",
+    "raw_valid": true,
+    "song_session_id": "7f1361c3-7465-4574-a28f-69ed7eae9658",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "last_update": "2025-11-21 20:10:27",
+    "song": {
+      "musicAuthor": "Marcus Brodowski & Sarah Lahn",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851dc86b46e4d8718aa2805f8ea",
+      "musicTitle": "Frozen",
+      "radio": "Fun Rádio",
+      "startTime": "21:09"
+    },
+    "recorded_at": "2025-11-21T21:10:27.751165+01:00",
+    "raw_valid": true,
+    "song_session_id": "ec65ff11-40ac-459f-867b-dcd6106cfb4b",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "last_update": "2025-11-21 20:12:27",
+    "song": {
+      "musicAuthor": "Ely Oaks, Joki & Enny-Mae",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851f3f77996d0ca4d71375e28a3",
+      "musicTitle": "Mission",
+      "radio": "Fun Rádio",
+      "startTime": "21:11"
+    },
+    "recorded_at": "2025-11-21T21:12:27.886260+01:00",
+    "raw_valid": true,
+    "song_session_id": "d4f3943e-7d24-4a4b-a2c3-5f98c6f5c0d6",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "last_update": "2025-11-21 20:14:27",
+    "song": {
+      "musicAuthor": "DJ Fresh & Ora Rita",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851f36e1963b8fdcd13c531235b",
+      "musicTitle": "Hot Right Now",
+      "radio": "Fun Rádio",
+      "startTime": "21:13"
+    },
+    "recorded_at": "2025-11-21T21:14:28.062854+01:00",
+    "raw_valid": true,
+    "song_session_id": "f810ae8f-10d2-4048-940f-3f0a3546e95c",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "last_update": "2025-11-21 20:17:28",
+    "song": {
+      "musicAuthor": "Dom Dolla Feat. Daya",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048519ba6679cd9d99b9496d01b7f",
+      "musicTitle": "Dreamin",
+      "radio": "Fun Rádio",
+      "startTime": "21:16"
+    },
+    "recorded_at": "2025-11-21T21:17:28.361578+01:00",
+    "raw_valid": true,
+    "song_session_id": "ef4bb012-5378-4f0e-8fb0-c069f0f47e91",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "last_update": "2025-11-21 20:20:28",
+    "song": {
+      "musicAuthor": "Nervo, B Jones, Eke",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048515af0e4a1b88d2db9bd3d7e50",
+      "musicTitle": "Wherever You Go",
+      "radio": "Fun Rádio",
+      "startTime": "21:19"
+    },
+    "recorded_at": "2025-11-21T21:20:28.771558+01:00",
+    "raw_valid": true,
+    "song_session_id": "c64100db-1716-4530-8797-ebc9d58f0d42",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "last_update": "2025-11-21 20:23:28",
+    "song": {
+      "musicAuthor": "Acraze, Cherish",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485184d413b195aac8a69cc6e5c6",
+      "musicTitle": "Do It To It",
+      "radio": "Fun Rádio",
+      "startTime": "21:22"
+    },
+    "recorded_at": "2025-11-21T21:23:28.964943+01:00",
+    "raw_valid": true,
+    "song_session_id": "64469593-a7e0-4231-9655-3d75c852359c",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "last_update": "2025-11-21 20:25:28",
+    "song": {
+      "musicAuthor": "Teddy Swims",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851de4b0388cb6e5267132a07bc",
+      "musicTitle": "Bad Dreams",
+      "radio": "Fun Rádio",
+      "startTime": "21:25"
+    },
+    "recorded_at": "2025-11-21T21:25:29.083610+01:00",
+    "raw_valid": true,
+    "song_session_id": "c7b615cc-9970-4da3-a97d-19e24e9f6d8b",
+    "duration_ms": null,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "last_update": "2025-11-21 20:29:28",
+    "song": {
+      "musicAuthor": "Stevie Appleton Featuring Sam Feldt",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485115fc48cc6a2a1ee5cc312e2b",
+      "musicTitle": "Paradise",
+      "radio": "Fun Rádio",
+      "startTime": "21:28"
+    },
+    "recorded_at": "2025-11-21T21:29:29.348601+01:00",
+    "raw_valid": true,
+    "song_session_id": "6ff20a67-654a-4adc-b1e8-d41ca976ee59",
+    "duration_ms": 160244,
+    "genre": []
+  },
+  {
+    "last_update": "2025-11-21 20:32:28",
+    "song": {
+      "musicAuthor": "Phil The Beat & Ilira",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485199f5a93341cabf962b4a6f24",
+      "musicTitle": "Anytime",
+      "radio": "Fun Rádio",
+      "startTime": "21:31"
+    },
+    "recorded_at": "2025-11-21T21:32:29.568219+01:00",
+    "raw_valid": true,
+    "song_session_id": "6495c5a1-0c8b-4ca4-84dc-fac784647be1",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "last_update": "2025-11-21 20:34:29",
+    "song": {
+      "musicAuthor": "Topic & Bebe Rexha",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048518a5169176053574bb1d0a65b",
+      "musicTitle": "Chain My Heart",
+      "radio": "Fun Rádio",
+      "startTime": "21:33"
+    },
+    "recorded_at": "2025-11-21T21:34:29.702043+01:00",
+    "raw_valid": true,
+    "song_session_id": "159a3c1b-8591-4ae9-aa1d-1768289484c1",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "last_update": "2025-11-21 20:37:29",
+    "song": {
+      "musicAuthor": "Adam Port And Stryv Featuring Malachiii",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485117a013a00d0a33f3dd49974d",
+      "musicTitle": "Move",
+      "radio": "Fun Rádio",
+      "startTime": "21:36"
+    },
+    "recorded_at": "2025-11-21T21:37:29.900510+01:00",
+    "raw_valid": true,
+    "song_session_id": "c65b103f-2a2f-4386-9688-c0643c80f6b0",
+    "duration_ms": 177599,
+    "genre": []
+  },
+  {
+    "last_update": "2025-11-21 20:40:29",
+    "song": {
+      "musicAuthor": "Daniel Bedingfield X Aktive",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048510f06ba3e85ca9a96fd3df8f8",
+      "musicTitle": "Believer",
+      "radio": "Fun Rádio",
+      "startTime": "21:39"
+    },
+    "recorded_at": "2025-11-21T21:40:30.144907+01:00",
+    "raw_valid": true,
+    "song_session_id": "60421b17-03d4-43ba-956d-c18d4563ea44",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "last_update": "2025-11-21 20:42:29",
+    "song": {
+      "musicAuthor": "Switch Disco Featuring Tones And I",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851c877a2724aff727921befaa7",
+      "musicTitle": "Hideaway",
+      "radio": "Fun Rádio",
+      "startTime": "21:41"
+    },
+    "recorded_at": "2025-11-21T21:42:30.304764+01:00",
+    "raw_valid": true,
+    "song_session_id": "73636fd8-5cb8-4db3-aa0d-8ef31d861e6f",
+    "duration_ms": 187810,
+    "genre": []
+  },
+  {
+    "last_update": "2025-11-21 20:45:30",
+    "song": {
+      "musicAuthor": "Joel Corry Featuring Abi Flynn",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048512b4dca2795dfbdf2e2c9a981",
+      "musicTitle": "Phases",
+      "radio": "Fun Rádio",
+      "startTime": "21:45"
+    },
+    "recorded_at": "2025-11-21T21:45:30.518317+01:00",
+    "raw_valid": true,
+    "song_session_id": "352e46b7-d334-44e4-86e6-d0324555db2b",
+    "duration_ms": 184385,
+    "genre": []
+  },
+  {
+    "last_update": "2025-11-21 20:48:30",
+    "song": {
+      "musicAuthor": "Cactushead",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048517187f61c6132a1d6e18a9ee4",
+      "musicTitle": "Save Your Soul",
+      "radio": "Fun Rádio",
+      "startTime": "21:48"
+    },
+    "recorded_at": "2025-11-21T21:48:30.710133+01:00",
+    "raw_valid": true,
+    "song_session_id": "a82baab5-5278-42bf-b260-163f00f690d4",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "last_update": "2025-11-21 20:51:30",
+    "song": {
+      "musicAuthor": "Drenchill Featuring Jorik Burema",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851c100e3ae48eb80e13f063826",
+      "musicTitle": "Nina Nena",
+      "radio": "Fun Rádio",
+      "startTime": "21:50"
+    },
+    "recorded_at": "2025-11-21T21:51:30.900154+01:00",
+    "raw_valid": true,
+    "song_session_id": "ea4940dd-e095-476a-a35c-d88616c30c74",
+    "duration_ms": 157000,
+    "genre": []
+  },
+  {
+    "last_update": "2025-11-21 20:53:30",
+    "song": {
+      "musicAuthor": "Jonasu & Jc Stewart",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485117cfde21439d865db4f3e239",
+      "musicTitle": "On My Mind",
+      "radio": "Fun Rádio",
+      "startTime": "21:53"
+    },
+    "recorded_at": "2025-11-21T21:53:31.059151+01:00",
+    "raw_valid": true,
+    "song_session_id": "0d3ed683-aac6-40d4-ac1c-d061ca799201",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "last_update": "2025-11-21 20:56:31",
+    "song": {
+      "musicAuthor": "Lady Gaga",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851d8a389abdf9cb2d03b85ff54",
+      "musicTitle": "The Dead Dance",
+      "radio": "Fun Rádio",
+      "startTime": "21:55"
+    },
+    "recorded_at": "2025-11-21T21:56:31.298186+01:00",
+    "raw_valid": true,
+    "song_session_id": "237b79e5-2a8c-45a7-91bc-3259c062b9f8",
+    "duration_ms": 228519,
+    "genre": [
+      "disco"
+    ]
+  },
+  {
+    "last_update": "2025-11-21 21:00:31",
+    "song": {
+      "musicAuthor": "Toby Romeo, Roger Sanchez",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851436d52e709424a2acbb61e7d",
+      "musicTitle": "Make You Mine",
+      "radio": "Fun Rádio",
+      "startTime": "21:59"
+    },
+    "recorded_at": "2025-11-21T22:00:31.593747+01:00",
+    "raw_valid": true,
+    "song_session_id": "eba7d744-9527-4f87-89a6-33fac1368f2e",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "last_update": "2025-11-21 21:02:31",
+    "song": {
+      "musicAuthor": "Filatov Karas",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851633f46784e8a4c40fc22f009",
+      "musicTitle": "Au Au",
+      "radio": "Fun Rádio",
+      "startTime": "22:02"
+    },
+    "recorded_at": "2025-11-21T22:02:31.734683+01:00",
+    "raw_valid": true,
+    "song_session_id": "720a2a2e-0966-4970-a10e-63e06a02e135",
+    "duration_ms": null,
+    "genre": []
+  }
+]

@@ -1,0 +1,449 @@
+[
+  {
+    "last_update": "2025-11-20 15:05:21",
+    "song": {
+      "musicAuthor": "Linkin Park",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851c0db065619ed208515412917",
+      "musicTitle": "The Emptiness Machine",
+      "radio": "Fun Rádio",
+      "startTime": "16:04"
+    },
+    "recorded_at": "2025-11-20T16:05:21.937017+01:00",
+    "raw_valid": true,
+    "song_session_id": "be2c90cf-f707-4c7f-a80b-568c717b3260",
+    "duration_ms": null,
+    "genre": [
+      "metal"
+    ]
+  },
+  {
+    "last_update": "2025-11-20 15:08:21",
+    "song": {
+      "musicAuthor": "The Black Eyed Peas",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048510bd44f5ff9ecc99f7770acc5",
+      "musicTitle": "I Gotta Feeling",
+      "radio": "Fun Rádio",
+      "startTime": "16:07"
+    },
+    "recorded_at": "2025-11-20T16:08:22.137308+01:00",
+    "raw_valid": true,
+    "song_session_id": "84ce474a-64b9-43f0-a8a1-45f97d12c4cd",
+    "duration_ms": 289133,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "last_update": "2025-11-20 15:14:22",
+    "song": {
+      "musicAuthor": "Ravyn Lenae",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048515511ceaa955a2bfd9ae90c21",
+      "musicTitle": "Love Me Not",
+      "radio": "Fun Rádio",
+      "startTime": "16:13"
+    },
+    "recorded_at": "2025-11-20T16:14:22.576690+01:00",
+    "raw_valid": true,
+    "song_session_id": "1c2512a2-2de6-43e7-b525-4b8d03ea5b16",
+    "duration_ms": 213467,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "last_update": "2025-11-20 15:19:21",
+    "song": {
+      "musicAuthor": "Zara Larsson",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851a9eccb7ff0ef93cba9e4da5d",
+      "musicTitle": "Uncover",
+      "radio": "Fun Rádio",
+      "startTime": "16:18"
+    },
+    "recorded_at": "2025-11-20T16:19:22.920883+01:00",
+    "raw_valid": true,
+    "song_session_id": "eec3da56-8c2c-4b41-9a45-e8185fe2e477",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "last_update": "2025-11-20 15:22:22",
+    "song": {
+      "musicAuthor": "Huntrix Featuring Ejae & Audrey Nuna",
+      "musicCover": "https://i.scdn.co/image/ab6742d3000052b717f3963ae4a9f5422763140e",
+      "musicTitle": "Golden",
+      "radio": "Fun Rádio",
+      "startTime": "16:22"
+    },
+    "recorded_at": "2025-11-20T16:22:23.131330+01:00",
+    "raw_valid": true,
+    "song_session_id": "628de872-e449-4b6f-b8f8-6312a2a70959",
+    "duration_ms": 194608,
+    "genre": []
+  },
+  {
+    "last_update": "2025-11-20 15:31:23",
+    "song": {
+      "musicAuthor": "Kygo & Imagine Dragons",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851c02ebed68e17f31faa54d54d",
+      "musicTitle": "Stars Will Align",
+      "radio": "Fun Rádio",
+      "startTime": "16:30"
+    },
+    "recorded_at": "2025-11-20T16:31:23.839954+01:00",
+    "raw_valid": true,
+    "song_session_id": "ae6e0e8c-2758-4f3c-8700-fba97382c1a4",
+    "duration_ms": 234366,
+    "genre": []
+  },
+  {
+    "last_update": "2025-11-20 15:35:23",
+    "song": {
+      "musicAuthor": "Shaboozey",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851c97e11e794ddcd2c353ea390",
+      "musicTitle": "Good News",
+      "radio": "Fun Rádio",
+      "startTime": "16:34"
+    },
+    "recorded_at": "2025-11-20T16:35:24.115972+01:00",
+    "raw_valid": true,
+    "song_session_id": "e792f30d-f7ad-47cb-9415-9097f3142fcc",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "last_update": "2025-11-20 15:38:23",
+    "song": {
+      "musicAuthor": "Rita Ora",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851f1b136eb0388414a8225a348",
+      "musicTitle": "Let You Love Me",
+      "radio": "Fun Rádio",
+      "startTime": "16:37"
+    },
+    "recorded_at": "2025-11-20T16:38:24.333684+01:00",
+    "raw_valid": true,
+    "song_session_id": "121910eb-c200-4e57-a8db-95bb276d8c10",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "last_update": "2025-11-20 15:44:23",
+    "song": {
+      "musicAuthor": "Martin Garrix & Lauv",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048515c0e5abe73559c2de9d2eee0",
+      "musicTitle": "Mad",
+      "radio": "Fun Rádio",
+      "startTime": "16:43"
+    },
+    "recorded_at": "2025-11-20T16:44:24.722398+01:00",
+    "raw_valid": true,
+    "song_session_id": "e137a841-fe8b-4c40-a13d-c7bd36206884",
+    "duration_ms": 199805,
+    "genre": []
+  },
+  {
+    "last_update": "2025-11-20 15:47:24",
+    "song": {
+      "musicAuthor": "Switch Disco Featuring Ella Henderson & Robert Miles",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485121acc4c231327248498a35da",
+      "musicTitle": "React",
+      "radio": "Fun Rádio",
+      "startTime": "16:46"
+    },
+    "recorded_at": "2025-11-20T16:47:24.946763+01:00",
+    "raw_valid": true,
+    "song_session_id": "05cac374-cef3-4bc2-9850-375db468ebe3",
+    "duration_ms": 201146,
+    "genre": []
+  },
+  {
+    "last_update": "2025-11-20 15:50:24",
+    "song": {
+      "musicAuthor": "Jonas Brothers",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048517dbf3e9badd50f3f8886d161",
+      "musicTitle": "No Time To Talk",
+      "radio": "Fun Rádio",
+      "startTime": "16:49"
+    },
+    "recorded_at": "2025-11-20T16:50:25.179552+01:00",
+    "raw_valid": true,
+    "song_session_id": "79839ff8-4c5b-4427-869a-06039be8dcf6",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "last_update": "2025-11-20 15:53:24",
+    "song": {
+      "musicAuthor": "Sabrina Carpenter",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851208dc3669313f2c5114c612d",
+      "musicTitle": "Taste",
+      "radio": "Fun Rádio",
+      "startTime": "16:52"
+    },
+    "recorded_at": "2025-11-20T16:53:25.385417+01:00",
+    "raw_valid": true,
+    "song_session_id": "0015e720-32ab-4d15-82c8-023db29d8ce3",
+    "duration_ms": 157280,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "last_update": "2025-11-20 16:03:25",
+    "song": {
+      "musicAuthor": "Rudimental, Khalid",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851b49c06ad21eb3676299728b6",
+      "musicTitle": "All I Know",
+      "radio": "Fun Rádio",
+      "startTime": "17:02"
+    },
+    "recorded_at": "2025-11-20T17:03:26.190306+01:00",
+    "raw_valid": true,
+    "song_session_id": "7e4b014c-cdb2-474e-9ced-702fea720bdf",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "last_update": "2025-11-20 16:06:25",
+    "song": {
+      "musicAuthor": "Neiked & Portugal. The Man",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851d35db88bdcbf762f317d41da",
+      "musicTitle": "Glide",
+      "radio": "Fun Rádio",
+      "startTime": "17:05"
+    },
+    "recorded_at": "2025-11-20T17:06:26.390017+01:00",
+    "raw_valid": true,
+    "song_session_id": "9457cd49-187d-4b5a-8373-0df8966662b0",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "last_update": "2025-11-20 16:10:26",
+    "song": {
+      "musicAuthor": "Loud Luxury Featuring Natalie Jane",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485103c40ae4d2ef632efed7a903",
+      "musicTitle": "Uh Oh!",
+      "radio": "Fun Rádio",
+      "startTime": "17:09"
+    },
+    "recorded_at": "2025-11-20T17:10:26.691738+01:00",
+    "raw_valid": true,
+    "song_session_id": "236f70ed-dac6-4846-bce7-f22113fdeebc",
+    "duration_ms": 143440,
+    "genre": []
+  },
+  {
+    "last_update": "2025-11-20 16:13:27",
+    "song": {
+      "musicAuthor": "David Guetta, Teddy Swims, Tones And I",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851dff5897733ec36cdb24db9a2",
+      "musicTitle": "Gone Gone Gone",
+      "radio": "Fun Rádio",
+      "startTime": "17:12"
+    },
+    "recorded_at": "2025-11-20T17:13:27.061695+01:00",
+    "raw_valid": true,
+    "song_session_id": "6f6f14d1-ff80-41b3-8067-9bc9352228b5",
+    "duration_ms": 198004,
+    "genre": []
+  },
+  {
+    "last_update": "2025-11-20 16:16:27",
+    "song": {
+      "musicAuthor": "Wizthemc, Bees & Honey",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048519263dc4504ccf1b02899d9ae",
+      "musicTitle": "Show Me Love",
+      "radio": "Fun Rádio",
+      "startTime": "17:15"
+    },
+    "recorded_at": "2025-11-20T17:16:27.278006+01:00",
+    "raw_valid": true,
+    "song_session_id": "2da44bdd-fe84-4943-a795-2b3bb9d1b687",
+    "duration_ms": 176965,
+    "genre": []
+  },
+  {
+    "last_update": "2025-11-20 16:20:26",
+    "song": {
+      "musicAuthor": "Damiano David",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485127b99ccbfee751f2a1ed925c",
+      "musicTitle": "Next Summer",
+      "radio": "Fun Rádio",
+      "startTime": "17:19"
+    },
+    "recorded_at": "2025-11-20T17:20:27.577437+01:00",
+    "raw_valid": true,
+    "song_session_id": "1649efd3-2003-4248-a774-b73e04475ff0",
+    "duration_ms": 211560,
+    "genre": []
+  },
+  {
+    "last_update": "2025-11-20 16:22:27",
+    "song": {
+      "musicAuthor": "Alle Farben & Majestic",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485174ff6273a65ba86d5cab7e07",
+      "musicTitle": "From Disco To Disco",
+      "radio": "Fun Rádio",
+      "startTime": "17:22"
+    },
+    "recorded_at": "2025-11-20T17:22:27.721310+01:00",
+    "raw_valid": true,
+    "song_session_id": "2e47eee7-1fd9-42af-b9f1-323d12393ee6",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "last_update": "2025-11-20 16:31:27",
+    "song": {
+      "musicAuthor": "Myles Smith",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048519ddcb072adff08acd2501a06",
+      "musicTitle": "Nice To Meet You",
+      "radio": "Fun Rádio",
+      "startTime": "17:30"
+    },
+    "recorded_at": "2025-11-20T17:31:28.308566+01:00",
+    "raw_valid": true,
+    "song_session_id": "374e93bb-2610-44bd-b1a4-429b6e4e11aa",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "last_update": "2025-11-20 16:34:27",
+    "song": {
+      "musicAuthor": "Cardi B Featuring Selena Gomez",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048513e5a1515b5f85c7b45619273",
+      "musicTitle": "Pick It Up",
+      "radio": "Fun Rádio",
+      "startTime": "17:33"
+    },
+    "recorded_at": "2025-11-20T17:34:28.489495+01:00",
+    "raw_valid": true,
+    "song_session_id": "15190ba5-0aab-4a49-ad5c-290e86f3c445",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "last_update": "2025-11-20 16:39:28",
+    "song": {
+      "musicAuthor": "Felix Jaehn & Jhart",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851ffac2a8ae059b046b4bfd4c2",
+      "musicTitle": "Pride",
+      "radio": "Fun Rádio",
+      "startTime": "17:38"
+    },
+    "recorded_at": "2025-11-20T17:39:28.809565+01:00",
+    "raw_valid": true,
+    "song_session_id": "4db62458-2ace-401a-822c-07ff5db1d96e",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "last_update": "2025-11-20 16:41:27",
+    "song": {
+      "musicAuthor": "Alex Warren",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851be63b155e4b40ff3017f8ac4",
+      "musicTitle": "Ordinary",
+      "radio": "Fun Rádio",
+      "startTime": "17:40"
+    },
+    "recorded_at": "2025-11-20T17:41:28.991606+01:00",
+    "raw_valid": true,
+    "song_session_id": "c91b65c4-cdb3-4917-a093-690a7b8da44a",
+    "duration_ms": 186964,
+    "genre": [
+      "folk"
+    ]
+  },
+  {
+    "last_update": "2025-11-20 16:44:28",
+    "song": {
+      "musicAuthor": "Kim Petras",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485186f374fd15f4e6a057145bdb",
+      "musicTitle": "I Like Ur Look",
+      "radio": "Fun Rádio",
+      "startTime": "17:43"
+    },
+    "recorded_at": "2025-11-20T17:44:29.192628+01:00",
+    "raw_valid": true,
+    "song_session_id": "477dc66d-5daa-4c6f-805e-5b1b2482334e",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "last_update": "2025-11-20 16:48:28",
+    "song": {
+      "musicAuthor": "Mal & Call Dominika",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851128fb71f5399e0491f95d45b",
+      "musicTitle": "Fire In Your Eyes",
+      "radio": "Fun Rádio",
+      "startTime": "17:47"
+    },
+    "recorded_at": "2025-11-20T17:48:29.639545+01:00",
+    "raw_valid": true,
+    "song_session_id": "f92d1137-cc49-4eb9-8dee-c060e4c6780c",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "last_update": "2025-11-20 16:50:29",
+    "song": {
+      "musicAuthor": "Benson Boone",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048518887b5e2d0247d6d84042c55",
+      "musicTitle": "Mystical Magical",
+      "radio": "Fun Rádio",
+      "startTime": "17:49"
+    },
+    "recorded_at": "2025-11-20T17:50:29.760791+01:00",
+    "raw_valid": true,
+    "song_session_id": "57164f56-06b4-4294-af55-6fa13443172d",
+    "duration_ms": 165747,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "last_update": "2025-11-20 16:52:28",
+    "song": {
+      "musicAuthor": "Lost Frequencies, David Kushner",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485136d804998bb567e07dfbaeaf",
+      "musicTitle": "In My Bones",
+      "radio": "Fun Rádio",
+      "startTime": "17:52"
+    },
+    "recorded_at": "2025-11-20T17:52:29.888138+01:00",
+    "raw_valid": true,
+    "song_session_id": "f62cf7a1-8887-4e3a-8d8e-54aa36a60006",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "last_update": "2025-11-20 16:55:29",
+    "song": {
+      "musicAuthor": "KAMRAD",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485150e6021cfcb26eb4b302e9f3",
+      "musicTitle": "Feel Alive",
+      "radio": "Fun Rádio",
+      "startTime": "17:54"
+    },
+    "recorded_at": "2025-11-20T17:55:30.102549+01:00",
+    "raw_valid": true,
+    "song_session_id": "1e2fb2dd-bd00-48e5-8c6b-5f7145d54a64",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "last_update": "2025-11-20 17:04:30",
+    "song": {
+      "musicAuthor": "Coldplay",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485109ba52a5116e0c3e8461f58b",
+      "musicTitle": "feelslikeimfallinginlove",
+      "radio": "Fun Rádio",
+      "startTime": "18:04"
+    },
+    "recorded_at": "2025-11-20T18:04:30.926989+01:00",
+    "raw_valid": true,
+    "song_session_id": "47de5ebf-011c-4094-8817-501fcbc5913e",
+    "duration_ms": null,
+    "genre": []
+  }
+]

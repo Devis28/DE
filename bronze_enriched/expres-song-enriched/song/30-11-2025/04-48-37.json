@@ -1,0 +1,506 @@
+[
+  {
+    "song": "Blinding Lights",
+    "artists": [
+      "The Weeknd"
+    ],
+    "isrc": "USUG11904206",
+    "start_time": "2025-11-30 03:51:03",
+    "radio": "expres",
+    "recorded_at": "2025-11-30T03:51:31.136812+01:00",
+    "raw_valid": true,
+    "song_session_id": "96fa4ba5-b297-4fdf-8a21-037c1f258b3e",
+    "duration_ms": 200045,
+    "genre": [
+      "trance"
+    ]
+  },
+  {
+    "song": "Vsetko Bude Dobre",
+    "artists": [
+      "Gladiator"
+    ],
+    "isrc": "SKCM72560001",
+    "start_time": "2025-11-30 03:54:06",
+    "radio": "expres",
+    "recorded_at": "2025-11-30T03:54:43.999637+01:00",
+    "raw_valid": true,
+    "song_session_id": "d4211fec-e0b0-4c71-b898-35704369a7e9",
+    "duration_ms": 166588,
+    "genre": []
+  },
+  {
+    "song": "Sitting Down Here",
+    "artists": [
+      "Lene Marlin"
+    ],
+    "isrc": "NOAHV9818040",
+    "start_time": "2025-11-30 03:57:26",
+    "radio": "expres",
+    "recorded_at": "2025-11-30T03:57:41.964411+01:00",
+    "raw_valid": true,
+    "song_session_id": "e7e59c0c-5863-4c36-8bd8-67737a7b24cc",
+    "duration_ms": 234373,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Be Mine",
+    "artists": [
+      "Kamrad"
+    ],
+    "isrc": "DE1NJ2500035",
+    "start_time": "2025-11-30 04:01:04",
+    "radio": "expres",
+    "recorded_at": "2025-11-30T04:01:32.138885+01:00",
+    "raw_valid": true,
+    "song_session_id": "48d9db86-d6c3-4eb3-8481-14acf55a47b7",
+    "duration_ms": 156463,
+    "genre": []
+  },
+  {
+    "song": "Cardas Dvoch Srdc",
+    "artists": [
+      "Karol Duchon"
+    ],
+    "isrc": "SKA127650807",
+    "start_time": "2025-11-30 04:03:50",
+    "radio": "expres",
+    "recorded_at": "2025-11-30T04:04:14.273963+01:00",
+    "raw_valid": true,
+    "song_session_id": "392d2369-a4a8-404e-a2b8-fe058a541974",
+    "duration_ms": 210346,
+    "genre": []
+  },
+  {
+    "song": "Good News",
+    "artists": [
+      "Shaboozey"
+    ],
+    "isrc": "USUYG1580113",
+    "start_time": "2025-11-30 04:07:15",
+    "radio": "expres",
+    "recorded_at": "2025-11-30T04:07:34.859711+01:00",
+    "raw_valid": true,
+    "song_session_id": "09bbae42-2b52-48f8-bad8-483d5e597e85",
+    "duration_ms": 199209,
+    "genre": []
+  },
+  {
+    "song": "Len Ty Smies",
+    "artists": [
+      "Zdenka Predna"
+    ],
+    "isrc": "CZA210500897",
+    "start_time": "2025-11-30 04:10:47",
+    "radio": "expres",
+    "recorded_at": "2025-11-30T04:10:54.476799+01:00",
+    "raw_valid": true,
+    "song_session_id": "4512e88f-03e3-4d6c-a5e0-7e5c99b52e5d",
+    "duration_ms": 260519,
+    "genre": []
+  },
+  {
+    "song": "Everytime We Touch",
+    "artists": [
+      "Maggie Reilly"
+    ],
+    "isrc": "GBMUJ1900001",
+    "start_time": "2025-11-30 04:14:22",
+    "radio": "expres",
+    "recorded_at": "2025-11-30T04:14:43.406831+01:00",
+    "raw_valid": true,
+    "song_session_id": "7b74ba05-98ae-4294-8b65-50b1cb71b259",
+    "duration_ms": 244533,
+    "genre": []
+  },
+  {
+    "song": "Klasika",
+    "artists": [
+      "Elan"
+    ],
+    "isrc": "SKA128678702",
+    "start_time": "2025-11-30 04:18:11",
+    "radio": "expres",
+    "recorded_at": "2025-11-30T04:18:24.685924+01:00",
+    "raw_valid": true,
+    "song_session_id": "33b5f71c-a7ff-4a17-b311-22a45e0d7186",
+    "duration_ms": 194973,
+    "genre": []
+  },
+  {
+    "song": "Gone Gone Gone",
+    "artists": [
+      "David Guetta",
+      "Teddy Swims",
+      "Tones And I"
+    ],
+    "isrc": "UKWLG2500132",
+    "start_time": "2025-11-30 04:21:23",
+    "radio": "expres",
+    "recorded_at": "2025-11-30T04:21:48.282170+01:00",
+    "raw_valid": true,
+    "song_session_id": "52d1e8fc-f592-4bc8-9ec9-37967ce33751",
+    "duration_ms": 198004,
+    "genre": [
+      "soul"
+    ]
+  },
+  {
+    "song": "Pomarance Z Kuby",
+    "artists": [
+      "Hex"
+    ],
+    "isrc": "SKCA92300105",
+    "start_time": "2025-11-30 04:24:59",
+    "radio": "expres",
+    "recorded_at": "2025-11-30T04:25:16.576856+01:00",
+    "raw_valid": true,
+    "song_session_id": "440d6c73-7f1b-4cbd-8fa0-1a7c3d2af384",
+    "duration_ms": 260316,
+    "genre": []
+  },
+  {
+    "song": "Unwritten",
+    "artists": [
+      "Natasha Bedingfield"
+    ],
+    "isrc": "GBARL0400707",
+    "start_time": "2025-11-30 04:29:29",
+    "radio": "expres",
+    "recorded_at": "2025-11-30T04:29:40.627749+01:00",
+    "raw_valid": true,
+    "song_session_id": "c1923018-c5b6-4fe3-aec5-b810e957f75c",
+    "duration_ms": 259920,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "The One",
+    "artists": [
+      "Michael Patrick Kelly"
+    ],
+    "isrc": "DEE862500476",
+    "start_time": "2025-11-30 04:33:29",
+    "radio": "expres",
+    "recorded_at": "2025-11-30T04:33:59.508920+01:00",
+    "raw_valid": true,
+    "song_session_id": "b5798280-1eed-49c6-9dbe-6e7d5dd51e48",
+    "duration_ms": 181194,
+    "genre": []
+  },
+  {
+    "song": "Bol Raz Jeden Ziak",
+    "artists": [
+      "Robo Grigorov"
+    ],
+    "isrc": "TCAEJ1930274",
+    "start_time": "2025-11-30 04:36:24",
+    "radio": "expres",
+    "recorded_at": "2025-11-30T04:36:37.299198+01:00",
+    "raw_valid": true,
+    "song_session_id": "84b5ad33-14d4-487f-89c1-59438e11bdf0",
+    "duration_ms": 191373,
+    "genre": []
+  },
+  {
+    "song": "Wrecked",
+    "artists": [
+      "Imagine Dragons"
+    ],
+    "isrc": "USUM72110166",
+    "start_time": "2025-11-30 04:39:30",
+    "radio": "expres",
+    "recorded_at": "2025-11-30T04:39:45.447970+01:00",
+    "raw_valid": true,
+    "song_session_id": "23dec24e-4ac3-4f51-9c35-c519ee06dbb2",
+    "duration_ms": 244004,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Do You Love Me",
+    "artists": [
+      "Made 2 Mate"
+    ],
+    "isrc": "SKA122200002",
+    "start_time": "2025-11-30 04:43:44",
+    "radio": "expres",
+    "recorded_at": "2025-11-30T04:44:15.259921+01:00",
+    "raw_valid": true,
+    "song_session_id": "c09a8dd5-1b7b-45a7-a570-d27849bc02ef",
+    "duration_ms": 219026,
+    "genre": []
+  },
+  {
+    "song": "Love Me Not",
+    "artists": [
+      "Ravyn Lenae"
+    ],
+    "isrc": "USAT22401137",
+    "start_time": "2025-11-30 04:47:29",
+    "radio": "expres",
+    "recorded_at": "2025-11-30T04:47:54.366364+01:00",
+    "raw_valid": true,
+    "song_session_id": "5564f06c-adfb-420d-b3b6-71adf6bcce2e",
+    "duration_ms": 213466,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Zazni",
+    "artists": [
+      "Miro Zbirka"
+    ],
+    "isrc": "SKA127744001",
+    "start_time": "2025-11-30 04:50:49",
+    "radio": "expres",
+    "recorded_at": "2025-11-30T04:51:17.616239+01:00",
+    "raw_valid": true,
+    "song_session_id": "1c5bffbe-d30c-421e-b84a-9dc7024c7ebf",
+    "duration_ms": 206199,
+    "genre": []
+  },
+  {
+    "song": "Told You So",
+    "artists": [
+      "Martin Garrix",
+      "Jex"
+    ],
+    "isrc": "NLM5S2402334",
+    "start_time": "2025-11-30 04:54:06",
+    "radio": "expres",
+    "recorded_at": "2025-11-30T04:54:20.583155+01:00",
+    "raw_valid": true,
+    "song_session_id": "4c6bebff-bda7-487b-8855-b320a9f5bc7a",
+    "duration_ms": 187031,
+    "genre": []
+  },
+  {
+    "song": "Nic Nie Je Iste",
+    "artists": [
+      "Imt Smile"
+    ],
+    "isrc": "SKA010305102",
+    "start_time": "2025-11-30 04:57:07",
+    "radio": "expres",
+    "recorded_at": "2025-11-30T04:57:39.701853+01:00",
+    "raw_valid": true,
+    "song_session_id": "2ab07415-f5db-406b-8fd0-26e2b14d9ada",
+    "duration_ms": 241160,
+    "genre": []
+  },
+  {
+    "song": "Stumblin In",
+    "artists": [
+      "Cyril"
+    ],
+    "isrc": "NLZ542301810",
+    "start_time": "2025-11-30 05:01:01",
+    "radio": "expres",
+    "recorded_at": "2025-11-30T05:01:23.253242+01:00",
+    "raw_valid": true,
+    "song_session_id": "bab41872-23a2-4f30-8efd-6d77674cce13",
+    "duration_ms": 213363,
+    "genre": [
+      "alternative rock"
+    ]
+  },
+  {
+    "song": "Vyrobena Pre Mna",
+    "artists": [
+      "Desmod"
+    ],
+    "isrc": "SKA010700116",
+    "start_time": "2025-11-30 05:04:22",
+    "radio": "expres",
+    "recorded_at": "2025-11-30T05:04:55.774296+01:00",
+    "raw_valid": true,
+    "song_session_id": "fa0dd193-b0be-4b23-94dc-1f3cb5496236",
+    "duration_ms": 222746,
+    "genre": []
+  },
+  {
+    "song": "Regalo",
+    "artists": [
+      "Alvaro Soler"
+    ],
+    "isrc": "DEE862500388",
+    "start_time": "2025-11-30 05:08:03",
+    "radio": "expres",
+    "recorded_at": "2025-11-30T05:08:15.832926+01:00",
+    "raw_valid": true,
+    "song_session_id": "b0dd548e-4653-4672-80c1-9f8b2f713d02",
+    "duration_ms": 184984,
+    "genre": []
+  },
+  {
+    "song": "Liska",
+    "artists": [
+      "Jana Kirschner"
+    ],
+    "isrc": "SKA010003302",
+    "start_time": "2025-11-30 05:11:13",
+    "radio": "expres",
+    "recorded_at": "2025-11-30T05:11:35.877692+01:00",
+    "raw_valid": true,
+    "song_session_id": "5fa57a91-ccee-45ff-967e-03e0b13bc3a4",
+    "duration_ms": 192520,
+    "genre": []
+  },
+  {
+    "song": "Teenage Dirtbag",
+    "artists": [
+      "Wheatus"
+    ],
+    "isrc": "USSM10008431",
+    "start_time": "2025-11-30 05:14:13",
+    "radio": "expres",
+    "recorded_at": "2025-11-30T05:14:39.222902+01:00",
+    "raw_valid": true,
+    "song_session_id": "71e67874-da97-41c2-9030-96244641f09a",
+    "duration_ms": 243000,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Im Not Sorry",
+    "artists": [
+      "Celeste Buckingham"
+    ],
+    "isrc": "QMQNX1300002",
+    "start_time": "2025-11-30 05:18:09",
+    "radio": "expres",
+    "recorded_at": "2025-11-30T05:18:23.492735+01:00",
+    "raw_valid": true,
+    "song_session_id": "b741e366-3fc9-475b-b94c-c3fa4961beda",
+    "duration_ms": 233600,
+    "genre": []
+  },
+  {
+    "song": "Blink Twice",
+    "artists": [
+      "Shaboozey",
+      "Myles Smith"
+    ],
+    "isrc": "USUYG1717098",
+    "start_time": "2025-11-30 05:21:46",
+    "radio": "expres",
+    "recorded_at": "2025-11-30T05:22:07.659595+01:00",
+    "raw_valid": true,
+    "song_session_id": "6f173014-55ae-4f7f-bd61-cbccd2da702a",
+    "duration_ms": 156721,
+    "genre": []
+  },
+  {
+    "song": "Si Sam",
+    "artists": [
+      "Tina"
+    ],
+    "isrc": "CZA231100692",
+    "start_time": "2025-11-30 05:24:19",
+    "radio": "expres",
+    "recorded_at": "2025-11-30T05:24:45.399776+01:00",
+    "raw_valid": true,
+    "song_session_id": "7612ab1b-3f0b-4a8e-b38b-790a79a9935f",
+    "duration_ms": 236306,
+    "genre": []
+  },
+  {
+    "song": "I Dont Wanna Wait",
+    "artists": [
+      "David Guetta",
+      "Onerepublic"
+    ],
+    "isrc": "UKWLG2400013",
+    "start_time": "2025-11-30 05:28:21",
+    "radio": "expres",
+    "recorded_at": "2025-11-30T05:28:28.996442+01:00",
+    "raw_valid": true,
+    "song_session_id": "18cac6cd-2ff1-4332-8054-98dd3fa6a790",
+    "duration_ms": 149667,
+    "genre": [
+      "electronic"
+    ]
+  },
+  {
+    "song": "Mystical Magical",
+    "artists": [
+      "Benson Boone"
+    ],
+    "isrc": "USWB12500844",
+    "start_time": "2025-11-30 05:31:40",
+    "radio": "expres",
+    "recorded_at": "2025-11-30T05:31:57.216518+01:00",
+    "raw_valid": true,
+    "song_session_id": "e3b520cc-ab9a-4583-9297-df6305a02ea6",
+    "duration_ms": 165746,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Nova",
+    "artists": [
+      "Dominika Mirgova"
+    ],
+    "isrc": "SKE271200001",
+    "start_time": "2025-11-30 05:34:31",
+    "radio": "expres",
+    "recorded_at": "2025-11-30T05:34:55.340071+01:00",
+    "raw_valid": true,
+    "song_session_id": "6387f5be-8591-4b5b-82d0-65981f580a0a",
+    "duration_ms": 204770,
+    "genre": []
+  },
+  {
+    "song": "The Time Of My Life",
+    "artists": [
+      "Bill Medley",
+      "Jennifer Warnes"
+    ],
+    "isrc": "USRC10300895",
+    "start_time": "2025-11-30 05:37:49",
+    "radio": "expres",
+    "recorded_at": "2025-11-30T05:37:58.597915+01:00",
+    "raw_valid": true,
+    "song_session_id": "63970593-1f4c-483a-a937-5d2cfebddff9",
+    "duration_ms": 288986,
+    "genre": []
+  },
+  {
+    "song": "V Modlitbach",
+    "artists": [
+      "Katarina Knechtova"
+    ],
+    "isrc": "SKE431900135",
+    "start_time": "2025-11-30 05:42:31",
+    "radio": "expres",
+    "recorded_at": "2025-11-30T05:42:42.929059+01:00",
+    "raw_valid": true,
+    "song_session_id": "42ba4aed-22fb-4eb3-9711-b1c8a0fbc6d5",
+    "duration_ms": 235693,
+    "genre": []
+  },
+  {
+    "song": "Zoo",
+    "artists": [
+      "Shakira"
+    ],
+    "isrc": "USWD12538420",
+    "start_time": "2025-11-30 05:46:19",
+    "radio": "expres",
+    "recorded_at": "2025-11-30T05:46:27.853694+01:00",
+    "raw_valid": true,
+    "song_session_id": "b49cb5aa-661f-40d3-b544-4efa86473262",
+    "duration_ms": 190822,
+    "genre": [
+      "pop"
+    ]
+  }
+]

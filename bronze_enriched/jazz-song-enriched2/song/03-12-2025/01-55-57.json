@@ -1,0 +1,322 @@
+[
+  {
+    "song": {
+      "play_date": "2025-12-03",
+      "play_time": "00:55",
+      "artist": [
+        "All Time Jazz Trio",
+        "Lucia Luzinska"
+      ],
+      "title": "Bye Bye Blackbird"
+    },
+    "recorded_at": "2025-12-03T00:57:21.874760+01:00",
+    "raw_valid": true,
+    "song_session_id": "659d976b-3c8f-45b7-b200-36edb5fae858",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-12-03",
+      "play_time": "00:58",
+      "artist": [
+        "Vincent Herring"
+      ],
+      "title": "Use Me (Feat. Nicolas Bearde)"
+    },
+    "recorded_at": "2025-12-03T01:02:22.570488+01:00",
+    "raw_valid": true,
+    "song_session_id": "9d00e042-a7be-4faf-831f-36f263b5f231",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-12-03",
+      "play_time": "01:05",
+      "artist": [
+        "Duke Ellington"
+      ],
+      "title": "Caravan"
+    },
+    "recorded_at": "2025-12-03T01:07:23.255565+01:00",
+    "raw_valid": true,
+    "song_session_id": "96726196-509f-4d87-aac3-4bc4ac848da3",
+    "duration_ms": 254906,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-12-03",
+      "play_time": "01:07",
+      "artist": [
+        "Juraj Griglak"
+      ],
+      "title": "From The Bottom"
+    },
+    "recorded_at": "2025-12-03T01:12:23.936035+01:00",
+    "raw_valid": true,
+    "song_session_id": "e9ce6053-4a49-4c20-8bc3-7f02e038dea2",
+    "duration_ms": 385226,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-12-03",
+      "play_time": "01:13",
+      "artist": [
+        "Herbie Hancock"
+      ],
+      "title": "Little One (Remastered )"
+    },
+    "recorded_at": "2025-12-03T01:17:24.617632+01:00",
+    "raw_valid": true,
+    "song_session_id": "1252e7d8-97da-416c-ae49-89e31389d014",
+    "duration_ms": 527266,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-12-03",
+      "play_time": "01:22",
+      "artist": [
+        "Nikolaj Nikitin",
+        "Samuel Sramek"
+      ],
+      "title": "Directions"
+    },
+    "recorded_at": "2025-12-03T01:27:26.191705+01:00",
+    "raw_valid": true,
+    "song_session_id": "c95ea8d2-117d-4182-8dc4-3c6b991c6d2e",
+    "duration_ms": 361946,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-12-03",
+      "play_time": "01:28",
+      "artist": [
+        "Riyoko Takagi"
+      ],
+      "title": "Stella By Starlight"
+    },
+    "recorded_at": "2025-12-03T01:32:26.868330+01:00",
+    "raw_valid": true,
+    "song_session_id": "9f3ad4b0-5378-4d6a-8c32-a137742d7f4c",
+    "duration_ms": 315066,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-12-03",
+      "play_time": "01:34",
+      "artist": [
+        "Lukas Oravec Quartet",
+        "Bob Mintzer"
+      ],
+      "title": "Ali"
+    },
+    "recorded_at": "2025-12-03T01:37:27.550559+01:00",
+    "raw_valid": true,
+    "song_session_id": "84685cde-cfd2-4807-bd6d-338a9b53f3e2",
+    "duration_ms": 470720,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-12-03",
+      "play_time": "01:46",
+      "artist": [
+        "Peter Lipa"
+      ],
+      "title": "Užitočný"
+    },
+    "recorded_at": "2025-12-03T01:47:28.891044+01:00",
+    "raw_valid": true,
+    "song_session_id": "63be1618-9f89-465f-83e5-55a51ff98f43",
+    "duration_ms": 230448,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-12-03",
+      "play_time": "01:49",
+      "artist": [
+        "Funky Destination"
+      ],
+      "title": "The Inside Man (Soopasoul Remix)"
+    },
+    "recorded_at": "2025-12-03T01:52:29.565291+01:00",
+    "raw_valid": true,
+    "song_session_id": "3144a10a-8067-4aef-97ba-1e0480fc2c3b",
+    "duration_ms": 440350,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-12-03",
+      "play_time": "01:57",
+      "artist": [
+        "Jana Gavačová"
+      ],
+      "title": "Zelený Víneček"
+    },
+    "recorded_at": "2025-12-03T01:57:30.236990+01:00",
+    "raw_valid": true,
+    "song_session_id": "4edbf2da-a21e-4b48-9a54-b06aef15e258",
+    "duration_ms": 247253,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-12-03",
+      "play_time": "02:02",
+      "artist": [
+        "Soulstance"
+      ],
+      "title": "Life Size"
+    },
+    "recorded_at": "2025-12-03T02:02:30.926302+01:00",
+    "raw_valid": true,
+    "song_session_id": "60dd6f09-155f-491d-9973-36b661ed2f22",
+    "duration_ms": 337293,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-12-03",
+      "play_time": "02:07",
+      "artist": [
+        "David Benoit"
+      ],
+      "title": "Jellybeans & Chocolate"
+    },
+    "recorded_at": "2025-12-03T02:07:31.596750+01:00",
+    "raw_valid": true,
+    "song_session_id": "b99203b4-1ec5-41e2-8874-d73f0cb751a9",
+    "duration_ms": 312240,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-12-03",
+      "play_time": "02:12",
+      "artist": [
+        "Belladonna"
+      ],
+      "title": "Paresao"
+    },
+    "recorded_at": "2025-12-03T02:12:32.281400+01:00",
+    "raw_valid": true,
+    "song_session_id": "bb5aa40f-07dc-41ff-b48b-ce6f3a46f932",
+    "duration_ms": 301012,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-12-03",
+      "play_time": "02:17",
+      "artist": [
+        "Bill Evans"
+      ],
+      "title": "Waltz For Debby"
+    },
+    "recorded_at": "2025-12-03T02:17:32.953776+01:00",
+    "raw_valid": true,
+    "song_session_id": "11deb360-6df6-4328-bad5-8c45f0f62b6a",
+    "duration_ms": 409640,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-12-03",
+      "play_time": "02:26",
+      "artist": [
+        "Madeleine Peyroux"
+      ],
+      "title": "The Summer Wind"
+    },
+    "recorded_at": "2025-12-03T02:27:34.616346+01:00",
+    "raw_valid": true,
+    "song_session_id": "b47647a3-e9c7-4372-81b3-a3b9eb547973",
+    "duration_ms": 234106,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-12-03",
+      "play_time": "02:30",
+      "artist": [
+        "Jmdee Beat",
+        "Tassel",
+        "Naturel"
+      ],
+      "title": "A Fool Like Me"
+    },
+    "recorded_at": "2025-12-03T02:32:35.288980+01:00",
+    "raw_valid": true,
+    "song_session_id": "a9d79cb3-dacb-40c7-9d68-018786e71304",
+    "duration_ms": 250283,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-12-03",
+      "play_time": "02:36",
+      "artist": [
+        "Vendla"
+      ],
+      "title": "Bossa For Baden"
+    },
+    "recorded_at": "2025-12-03T02:37:35.971772+01:00",
+    "raw_valid": true,
+    "song_session_id": "5bac599f-4c81-4484-86f9-e6ec0f2f1c8d",
+    "duration_ms": 189443,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-12-03",
+      "play_time": "02:39",
+      "artist": [
+        "Caro Emerald"
+      ],
+      "title": "The Older Woman"
+    },
+    "recorded_at": "2025-12-03T02:42:36.645312+01:00",
+    "raw_valid": true,
+    "song_session_id": "91127b4b-b717-4db1-8b74-b1ca46bfdaab",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-12-03",
+      "play_time": "02:44",
+      "artist": [
+        "Thelonious Monk"
+      ],
+      "title": "Let's Cool One"
+    },
+    "recorded_at": "2025-12-03T02:47:37.327490+01:00",
+    "raw_valid": true,
+    "song_session_id": "ca752309-4865-4b84-8778-9de8b57b2f71",
+    "duration_ms": 294760,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-12-03",
+      "play_time": "02:48",
+      "artist": [
+        "Diana Krall"
+      ],
+      "title": "L-O-V-E"
+    },
+    "recorded_at": "2025-12-03T02:52:38.007677+01:00",
+    "raw_valid": true,
+    "song_session_id": "66d57d29-a4c0-46fc-a32d-4560f3378fba",
+    "duration_ms": 260986,
+    "genre": []
+  }
+]

@@ -1,0 +1,502 @@
+[
+  {
+    "song": "To Okolo Nas",
+    "artists": [
+      "Para"
+    ],
+    "isrc": "SKP662201002",
+    "start_time": "2025-11-05 20:05:21",
+    "radio": "expres",
+    "recorded_at": "2025-11-05T20:05:40.345157+01:00",
+    "raw_valid": true,
+    "song_session_id": "e4e7a447-ef7c-4cb9-8fcd-403fd8bc4b3b",
+    "duration_ms": 257185,
+    "genre": []
+  },
+  {
+    "song": "Give In To Me",
+    "artists": [
+      "Michael Jackson"
+    ],
+    "isrc": "USSM10024729",
+    "start_time": "2025-11-05 20:09:11",
+    "radio": "expres",
+    "recorded_at": "2025-11-05T20:09:24.285762+01:00",
+    "raw_valid": true,
+    "song_session_id": "8be733d1-02d3-4dad-aa6d-ceb55c5bd6a4",
+    "duration_ms": 329538,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Regalo",
+    "artists": [
+      "Alvaro Soler"
+    ],
+    "isrc": "DEE862500388",
+    "start_time": "2025-11-05 20:12:47",
+    "radio": "expres",
+    "recorded_at": "2025-11-05T20:13:09.882677+01:00",
+    "raw_valid": true,
+    "song_session_id": "312599cd-2b33-4a20-b9e4-e42563817a5e",
+    "duration_ms": 184984,
+    "genre": []
+  },
+  {
+    "song": "Danza Kuduro",
+    "artists": [
+      "Lucenzo",
+      "Don Omar"
+    ],
+    "isrc": "USUM71020778",
+    "start_time": "2025-11-05 20:15:53",
+    "radio": "expres",
+    "recorded_at": "2025-11-05T20:16:07.689956+01:00",
+    "raw_valid": true,
+    "song_session_id": "6bb824f6-ab80-4f6b-b96d-6622169e7a11",
+    "duration_ms": 198786,
+    "genre": [
+      "reggaeton"
+    ]
+  },
+  {
+    "song": "Man I Need",
+    "artists": [
+      "Olivia Dean"
+    ],
+    "isrc": "GBUM72503089",
+    "start_time": "2025-11-05 20:19:20",
+    "radio": "expres",
+    "recorded_at": "2025-11-05T20:19:31.072435+01:00",
+    "raw_valid": true,
+    "song_session_id": "595e5141-3b51-4756-a371-914f07afc28b",
+    "duration_ms": 184000,
+    "genre": [
+      "offizielle charts"
+    ]
+  },
+  {
+    "song": "Iris",
+    "artists": [
+      "Goo Goo Dolls"
+    ],
+    "isrc": "USWB19800160",
+    "start_time": "2025-11-05 20:22:42",
+    "radio": "expres",
+    "recorded_at": "2025-11-05T20:22:59.312995+01:00",
+    "raw_valid": true,
+    "song_session_id": "04eb356a-a2d8-4558-baa2-5371769decec",
+    "duration_ms": 289533,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Good News",
+    "artists": [
+      "Shaboozey"
+    ],
+    "isrc": "USUYG1580113",
+    "start_time": "2025-11-05 20:26:14",
+    "radio": "expres",
+    "recorded_at": "2025-11-05T20:26:35.370566+01:00",
+    "raw_valid": true,
+    "song_session_id": "617341a7-6bfa-456d-a312-9c0fef5af71c",
+    "duration_ms": 199209,
+    "genre": []
+  },
+  {
+    "song": "Nechcem O Teba Prist",
+    "artists": [
+      "Gladiator"
+    ],
+    "isrc": "SKA012000100",
+    "start_time": "2025-11-05 20:29:46",
+    "radio": "expres",
+    "recorded_at": "2025-11-05T20:30:06.327078+01:00",
+    "raw_valid": true,
+    "song_session_id": "46f3091a-c97d-4308-ab7b-bd891316342d",
+    "duration_ms": 208786,
+    "genre": []
+  },
+  {
+    "song": "Mystical Magical",
+    "artists": [
+      "Benson Boone"
+    ],
+    "isrc": "USWB12500844",
+    "start_time": "2025-11-05 20:34:15",
+    "radio": "expres",
+    "recorded_at": "2025-11-05T20:34:45.675207+01:00",
+    "raw_valid": true,
+    "song_session_id": "84fab884-eb1f-406f-ae70-7eb30b655090",
+    "duration_ms": 165746,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Prvykrat",
+    "artists": [
+      "Tina",
+      "Sukowach"
+    ],
+    "isrc": "CZA231203654",
+    "start_time": "2025-11-05 20:37:06",
+    "radio": "expres",
+    "recorded_at": "2025-11-05T20:37:25.612903+01:00",
+    "raw_valid": true,
+    "song_session_id": "97ce6003-ecb1-4eb4-a464-ed3f36f81bb4",
+    "duration_ms": 211835,
+    "genre": []
+  },
+  {
+    "song": "That Dont Impress Me Much",
+    "artists": [
+      "Shania Twain"
+    ],
+    "isrc": "USUM71609116",
+    "start_time": "2025-11-05 20:40:25",
+    "radio": "expres",
+    "recorded_at": "2025-11-05T20:40:45.800172+01:00",
+    "raw_valid": true,
+    "song_session_id": "2b10a443-bc90-4534-b83a-f48a1a974342",
+    "duration_ms": 238641,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Head Above Water",
+    "artists": [
+      "Twocolors",
+      "Safri Duo",
+      "Chris De Sarandy"
+    ],
+    "isrc": "DEUM72503698",
+    "start_time": "2025-11-05 20:44:25",
+    "radio": "expres",
+    "recorded_at": "2025-11-05T20:44:47.339614+01:00",
+    "raw_valid": true,
+    "song_session_id": "c266f1f2-d0c5-462d-be08-5832bf6f0064",
+    "duration_ms": 174550,
+    "genre": []
+  },
+  {
+    "song": "Shallow",
+    "artists": [
+      "Lady Gaga",
+      "Bradley Cooper"
+    ],
+    "isrc": "USUM71813192",
+    "start_time": "2025-11-05 20:47:31",
+    "radio": "expres",
+    "recorded_at": "2025-11-05T20:47:51.356215+01:00",
+    "raw_valid": true,
+    "song_session_id": "49ba4610-c93e-406a-97b2-160c1df80656",
+    "duration_ms": 215733,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Nice To Meet You",
+    "artists": [
+      "Myles Smith"
+    ],
+    "isrc": "GBARL2401376",
+    "start_time": "2025-11-05 20:51:08",
+    "radio": "expres",
+    "recorded_at": "2025-11-05T20:51:29.920183+01:00",
+    "raw_valid": true,
+    "song_session_id": "3de53c44-71c8-4423-90ca-b22a923e4c6f",
+    "duration_ms": 176000,
+    "genre": [
+      "electro"
+    ]
+  },
+  {
+    "song": "Do Neba",
+    "artists": [
+      "Dara Rolins"
+    ],
+    "isrc": "QZYFZ2505251",
+    "start_time": "2025-11-05 20:53:59",
+    "radio": "expres",
+    "recorded_at": "2025-11-05T20:54:13.329616+01:00",
+    "raw_valid": true,
+    "song_session_id": "c4b5ca66-5575-4a9d-b51e-5c13e696edf7",
+    "duration_ms": 204253,
+    "genre": []
+  },
+  {
+    "song": "Whats Love Got To Do With It",
+    "artists": [
+      "Kygo",
+      "Tina Turner"
+    ],
+    "isrc": "SEBGA2000676",
+    "start_time": "2025-11-05 20:57:39",
+    "radio": "expres",
+    "recorded_at": "2025-11-05T20:58:06.479668+01:00",
+    "raw_valid": true,
+    "song_session_id": "3f594033-f0e9-4022-a5f2-64a8ac6062d7",
+    "duration_ms": 208320,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Ordinary",
+    "artists": [
+      "Alex Warren"
+    ],
+    "isrc": "USAT22500463",
+    "start_time": "2025-11-05 21:06:05",
+    "radio": "expres",
+    "recorded_at": "2025-11-05T21:06:18.391927+01:00",
+    "raw_valid": true,
+    "song_session_id": "0357f79f-92af-43dc-96ce-6201925af4c9",
+    "duration_ms": 186964,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Angel",
+    "artists": [
+      "Shaggy"
+    ],
+    "isrc": "USMC19989405",
+    "start_time": "2025-11-05 21:09:15",
+    "radio": "expres",
+    "recorded_at": "2025-11-05T21:09:41.629392+01:00",
+    "raw_valid": true,
+    "song_session_id": "af8d28fa-9168-4464-b5fa-aefca1cb740b",
+    "duration_ms": 235146,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Green Green Grass",
+    "artists": [
+      "George Ezra"
+    ],
+    "isrc": "GBARL2200008",
+    "start_time": "2025-11-05 21:13:08",
+    "radio": "expres",
+    "recorded_at": "2025-11-05T21:13:25.182282+01:00",
+    "raw_valid": true,
+    "song_session_id": "29cd5644-9c72-4383-8d66-7c973e78e506",
+    "duration_ms": 167613,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Safe And Sound",
+    "artists": [
+      "Capital Cities"
+    ],
+    "isrc": "TCABD1246970",
+    "start_time": "2025-11-05 21:15:57",
+    "radio": "expres",
+    "recorded_at": "2025-11-05T21:16:16.875321+01:00",
+    "raw_valid": true,
+    "song_session_id": "69e0e4bb-4d02-401d-a1e2-d7f5c9f3cb61",
+    "duration_ms": 192789,
+    "genre": [
+      "synthpop"
+    ]
+  },
+  {
+    "song": "The Fate Of Ophelia",
+    "artists": [
+      "Taylor Swift"
+    ],
+    "isrc": "USUG12506436",
+    "start_time": "2025-11-05 21:19:05",
+    "radio": "expres",
+    "recorded_at": "2025-11-05T21:19:30.416201+01:00",
+    "raw_valid": true,
+    "song_session_id": "6837894c-3207-4fe9-9bfd-ee7636c1a919",
+    "duration_ms": 226073,
+    "genre": [
+      "electronic"
+    ]
+  },
+  {
+    "song": "Umbrella",
+    "artists": [
+      "Rihanna"
+    ],
+    "isrc": "USUM70736771",
+    "start_time": "2025-11-05 21:23:09",
+    "radio": "expres",
+    "recorded_at": "2025-11-05T21:23:43.518435+01:00",
+    "raw_valid": true,
+    "song_session_id": "02816ed8-d3f8-4ce6-b7e0-386488ad3e11",
+    "duration_ms": 276146,
+    "genre": [
+      "electronic"
+    ]
+  },
+  {
+    "song": "We Pray",
+    "artists": [
+      "Coldplay",
+      "Little Simz",
+      "Burna Boy",
+      "Elyanna",
+      "Tini"
+    ],
+    "isrc": "GBAYE2400890",
+    "start_time": "2025-11-05 21:25:49",
+    "radio": "expres",
+    "recorded_at": "2025-11-05T21:26:23.164524+01:00",
+    "raw_valid": true,
+    "song_session_id": "ff7937d2-681d-4163-b360-0d873bc31425",
+    "duration_ms": 233406,
+    "genre": [
+      "pop rap"
+    ]
+  },
+  {
+    "song": "Nedivaj Sa Tak",
+    "artists": [
+      "Peter Bic Project"
+    ],
+    "isrc": "SKA011800004",
+    "start_time": "2025-11-05 21:29:11",
+    "radio": "expres",
+    "recorded_at": "2025-11-05T21:29:42.423666+01:00",
+    "raw_valid": true,
+    "song_session_id": "3b32a062-6f23-4be1-9597-b1d3115dcc81",
+    "duration_ms": 169723,
+    "genre": []
+  },
+  {
+    "song": "Million Good Reasons",
+    "artists": [
+      "Robin Schulz",
+      "Fast Boy"
+    ],
+    "isrc": "DEA622404738",
+    "start_time": "2025-11-05 21:33:34",
+    "radio": "expres",
+    "recorded_at": "2025-11-05T21:34:01.754957+01:00",
+    "raw_valid": true,
+    "song_session_id": "c67cd17a-e9ee-407c-b9ff-63cf993cae18",
+    "duration_ms": 157130,
+    "genre": [
+      "tropical house"
+    ]
+  },
+  {
+    "song": "Everytime We Touch",
+    "artists": [
+      "Maggie Reilly"
+    ],
+    "isrc": "GBMUJ1900001",
+    "start_time": "2025-11-05 21:36:15",
+    "radio": "expres",
+    "recorded_at": "2025-11-05T21:36:39.432354+01:00",
+    "raw_valid": true,
+    "song_session_id": "8d2cbd1b-2dbc-4680-b2b5-4636fabed169",
+    "duration_ms": 244533,
+    "genre": []
+  },
+  {
+    "song": "Not Afraid",
+    "artists": [
+      "Eminem"
+    ],
+    "isrc": "USUM71011769",
+    "start_time": "2025-11-05 21:40:04",
+    "radio": "expres",
+    "recorded_at": "2025-11-05T21:40:22.933323+01:00",
+    "raw_valid": true,
+    "song_session_id": "31dcef24-353b-49a9-84dd-70fbcab97649",
+    "duration_ms": 249266,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Wonderful Life 25",
+    "artists": [
+      "Hurts",
+      "Purple Disco Machine"
+    ],
+    "isrc": "DEE862500677",
+    "start_time": "2025-11-05 21:44:23",
+    "radio": "expres",
+    "recorded_at": "2025-11-05T21:44:52.646793+01:00",
+    "raw_valid": true,
+    "song_session_id": "385ce08c-6876-439b-a224-98edd233ee8b",
+    "duration_ms": 178658,
+    "genre": []
+  },
+  {
+    "song": "Vrany",
+    "artists": [
+      "Imt Smile"
+    ],
+    "isrc": "SKA019903015",
+    "start_time": "2025-11-05 21:47:21",
+    "radio": "expres",
+    "recorded_at": "2025-11-05T21:47:50.858828+01:00",
+    "raw_valid": true,
+    "song_session_id": "34f0ae2e-0070-4ca0-99be-720a25a9eb0f",
+    "duration_ms": 273506,
+    "genre": []
+  },
+  {
+    "song": "Sorry Im Here For Someone Else",
+    "artists": [
+      "Benson Boone"
+    ],
+    "isrc": "USWB12500464",
+    "start_time": "2025-11-05 21:51:35",
+    "radio": "expres",
+    "recorded_at": "2025-11-05T21:51:56.156601+01:00",
+    "raw_valid": true,
+    "song_session_id": "0eae055e-4e4f-48c1-8437-e683fd867b2e",
+    "duration_ms": 156582,
+    "genre": []
+  },
+  {
+    "song": "Golden",
+    "artists": [
+      "Kpop Demon Hunters"
+    ],
+    "isrc": "QZ8BZ2513510",
+    "start_time": "2025-11-05 21:54:06",
+    "radio": "expres",
+    "recorded_at": "2025-11-05T21:54:36.303340+01:00",
+    "raw_valid": true,
+    "song_session_id": "e16d397d-5cb5-4d32-8391-3076ba0b5838",
+    "duration_ms": 194607,
+    "genre": [
+      "korean"
+    ]
+  },
+  {
+    "song": "Love Again",
+    "artists": [
+      "Dua Lipa"
+    ],
+    "isrc": "GBAHT1901302",
+    "start_time": "2025-11-05 21:57:03",
+    "radio": "expres",
+    "recorded_at": "2025-11-05T21:57:19.306983+01:00",
+    "raw_valid": true,
+    "song_session_id": "636c85d3-6410-43a3-a0e9-68f2419c8080",
+    "duration_ms": 258004,
+    "genre": [
+      "pop"
+    ]
+  }
+]

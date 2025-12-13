@@ -1,0 +1,475 @@
+[
+  {
+    "last_update": "2025-12-01 08:51:09",
+    "song": {
+      "musicAuthor": "Scorpions",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485111c2cc2ef9cada4f6bd84690",
+      "musicTitle": "Rock You Like A Hurricane",
+      "radio": "Rádio ROCK",
+      "startTime": "09:50"
+    },
+    "recorded_at": "2025-12-01T09:51:10.214678+01:00",
+    "raw_valid": true,
+    "song_session_id": "94543e9a-e9e7-4957-bfe1-5d31037325ee",
+    "duration_ms": 253666,
+    "isrc": "DELV41501024",
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "last_update": "2025-12-01 08:55:11",
+    "song": {
+      "musicAuthor": "Lenny Kravitz",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851f1157b7dcd21bae0c2c75d89",
+      "musicTitle": "American Woman",
+      "radio": "Rádio ROCK",
+      "startTime": "09:54"
+    },
+    "recorded_at": "2025-12-01T09:55:11.944996+01:00",
+    "raw_valid": true,
+    "song_session_id": "4a93d441-b6b0-4285-a61d-25d04926a201",
+    "duration_ms": 264560,
+    "isrc": "USVI29900084",
+    "genre": []
+  },
+  {
+    "last_update": "2025-12-01 09:04:13",
+    "song": {
+      "musicAuthor": "Offspring The",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851cbd2ee7dff77bfb2b5f0af52",
+      "musicTitle": "Why Don't You Get A Job",
+      "radio": "Rádio ROCK",
+      "startTime": "10:04"
+    },
+    "recorded_at": "2025-12-01T10:04:14.267553+01:00",
+    "raw_valid": true,
+    "song_session_id": "217c557e-cc3d-41f5-aa8a-fcda7f7ddd0e",
+    "duration_ms": 172466,
+    "isrc": "USSM19804369",
+    "genre": [
+      "punk"
+    ]
+  },
+  {
+    "last_update": "2025-12-01 09:07:14",
+    "song": {
+      "musicAuthor": "Ac Dc",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048510b51f8d91f3a21e8426361ae",
+      "musicTitle": "Back In Black",
+      "radio": "Rádio ROCK",
+      "startTime": "10:06"
+    },
+    "recorded_at": "2025-12-01T10:07:14.570096+01:00",
+    "raw_valid": true,
+    "song_session_id": "c64cc743-e080-44c9-ab07-82de73d6a387",
+    "duration_ms": 256000,
+    "isrc": "AUAP08000046",
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "last_update": "2025-12-01 09:11:13",
+    "song": {
+      "musicAuthor": "Linkin Park",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851b4ad7ebaf4575f120eb3f193",
+      "musicTitle": "Numb",
+      "radio": "Rádio ROCK",
+      "startTime": "10:11"
+    },
+    "recorded_at": "2025-12-01T10:11:14.892937+01:00",
+    "raw_valid": true,
+    "song_session_id": "903415e6-62e4-4a1c-b357-41ce4bb93b61",
+    "duration_ms": 187520,
+    "isrc": "USWB10300474",
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "last_update": "2025-12-01 09:15:14",
+    "song": {
+      "musicAuthor": "Green Day",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851db89b08034de626ebee6823d",
+      "musicTitle": "When I Come Around",
+      "radio": "Rádio ROCK",
+      "startTime": "10:14"
+    },
+    "recorded_at": "2025-12-01T10:15:15.225263+01:00",
+    "raw_valid": true,
+    "song_session_id": "353832d9-8b2f-4b53-b0f8-e5fbadce02b6",
+    "duration_ms": 178000,
+    "isrc": "USRE19900154",
+    "genre": [
+      "punk"
+    ]
+  },
+  {
+    "last_update": "2025-12-01 09:17:14",
+    "song": {
+      "musicAuthor": "Avril Lavigne & Simple Plan",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851dcb4445d2acfe556bb3269f7",
+      "musicTitle": "Young And Dumb",
+      "radio": "Rádio ROCK",
+      "startTime": "10:17"
+    },
+    "recorded_at": "2025-12-01T10:17:15.348925+01:00",
+    "raw_valid": true,
+    "song_session_id": "56a4a51c-fb9f-48d9-8e02-fdb8dcfb8e33",
+    "duration_ms": 166776,
+    "isrc": "USA2P2516906",
+    "genre": []
+  },
+  {
+    "last_update": "2025-12-01 09:20:14",
+    "song": {
+      "musicAuthor": "Van Halen",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851b414c63fb435b622238c15ed",
+      "musicTitle": "Jump",
+      "radio": "Rádio ROCK",
+      "startTime": "10:20"
+    },
+    "recorded_at": "2025-12-01T10:20:15.714974+01:00",
+    "raw_valid": true,
+    "song_session_id": "47b0310f-13e0-45f8-9619-35ac84505c6d",
+    "duration_ms": 241599,
+    "isrc": "USWB11403680",
+    "genre": [
+      "glam metal"
+    ]
+  },
+  {
+    "last_update": "2025-12-01 09:24:15",
+    "song": {
+      "musicAuthor": "Rammstein",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851cbe7573e1175f842e24b34c2",
+      "musicTitle": "Ohne Dich",
+      "radio": "Rádio ROCK",
+      "startTime": "10:23"
+    },
+    "recorded_at": "2025-12-01T10:24:15.990215+01:00",
+    "raw_valid": true,
+    "song_session_id": "447bf8df-1fb2-4c38-8b02-0e4480c75ee6",
+    "duration_ms": 271173,
+    "isrc": "DEN120405585",
+    "genre": [
+      "industrial metal"
+    ]
+  },
+  {
+    "last_update": "2025-12-01 09:29:16",
+    "song": {
+      "musicAuthor": "Iné Kafe",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048512f24981c95d815cac0e65b86",
+      "musicTitle": "Čumil",
+      "radio": "Rádio ROCK",
+      "startTime": "10:28"
+    },
+    "recorded_at": "2025-12-01T10:29:16.347709+01:00",
+    "raw_valid": true,
+    "song_session_id": "83125b59-b509-4e10-8612-0e8c0b6b8ef4",
+    "duration_ms": 181333,
+    "isrc": "SKA019909211",
+    "genre": []
+  },
+  {
+    "last_update": "2025-12-01 09:32:16",
+    "song": {
+      "musicAuthor": "Limp Bizkit",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485144971d48c21dbd132f2d506e",
+      "musicTitle": "Behind Blue Eyes",
+      "radio": "Rádio ROCK",
+      "startTime": "10:31"
+    },
+    "recorded_at": "2025-12-01T10:32:16.519947+01:00",
+    "raw_valid": true,
+    "song_session_id": "1b418f6d-fb0a-4709-a743-7e5c624a4f0e",
+    "duration_ms": 269973,
+    "isrc": "USIR10312186",
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "last_update": "2025-12-01 09:36:16",
+    "song": {
+      "musicAuthor": "Tublatanka",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851544f90aba7e4a572d633094a",
+      "musicTitle": "Skúsime To Cez Vesmír",
+      "radio": "Rádio ROCK",
+      "startTime": "10:35"
+    },
+    "recorded_at": "2025-12-01T10:36:17.434746+01:00",
+    "raw_valid": true,
+    "song_session_id": "af314abe-5dae-415d-94ea-50691abb15a3",
+    "duration_ms": 315373,
+    "isrc": "SKA128710205",
+    "genre": []
+  },
+  {
+    "last_update": "2025-12-01 09:41:17",
+    "song": {
+      "musicAuthor": "Blink 182",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048510538b48c180256e0bdd8363f",
+      "musicTitle": "I Miss You",
+      "radio": "Rádio ROCK",
+      "startTime": "10:40"
+    },
+    "recorded_at": "2025-12-01T10:41:17.757673+01:00",
+    "raw_valid": true,
+    "song_session_id": "90577cb5-5a8a-47d6-ab39-8980c3d50ac7",
+    "duration_ms": 227240,
+    "isrc": "USMC10346123",
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "last_update": "2025-12-01 09:44:16",
+    "song": {
+      "musicAuthor": "Travis",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851f54b99bf27cda88f4a7403ce",
+      "musicTitle": "Sing",
+      "radio": "Rádio ROCK",
+      "startTime": "10:44"
+    },
+    "recorded_at": "2025-12-01T10:44:17.928709+01:00",
+    "raw_valid": true,
+    "song_session_id": "ecb5efe4-284b-4364-b8ee-c1a842a585aa",
+    "duration_ms": 228800,
+    "isrc": "GBBPF0100539",
+    "genre": [
+      "britpop"
+    ]
+  },
+  {
+    "last_update": "2025-12-01 09:48:18",
+    "song": {
+      "musicAuthor": "Aerosmith",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851b11078ee23dcd99e085ac33e",
+      "musicTitle": "Dream On",
+      "radio": "Rádio ROCK",
+      "startTime": "10:47"
+    },
+    "recorded_at": "2025-12-01T10:48:19.506521+01:00",
+    "raw_valid": true,
+    "song_session_id": "d5b3d361-bfb5-4d2f-9239-78ed4867178b",
+    "duration_ms": 267596,
+    "isrc": "USSM10011897",
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "last_update": "2025-12-01 09:52:20",
+    "song": {
+      "musicAuthor": "Iron Maiden",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851443bd0f08a60dfad2b0165e7",
+      "musicTitle": "Speed Of Light",
+      "radio": "Rádio ROCK",
+      "startTime": "10:52"
+    },
+    "recorded_at": "2025-12-01T10:52:20.618058+01:00",
+    "raw_valid": true,
+    "song_session_id": "e08bf40c-9f42-4ffb-a43f-e59c4e3ce6d2",
+    "duration_ms": 301745,
+    "isrc": "GBCHB1410645",
+    "genre": [
+      "heavy metal"
+    ]
+  },
+  {
+    "last_update": "2025-12-01 09:57:23",
+    "song": {
+      "musicAuthor": "4 Non Blondes",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851381371cb8ce680d0dc324600",
+      "musicTitle": "What's Up",
+      "radio": "Rádio ROCK",
+      "startTime": "10:57"
+    },
+    "recorded_at": "2025-12-01T10:57:23.786031+01:00",
+    "raw_valid": true,
+    "song_session_id": "82ba96e3-5514-467f-9971-54ef72bc4df3",
+    "duration_ms": 295533,
+    "isrc": "USIR19200553",
+    "genre": []
+  },
+  {
+    "last_update": "2025-12-01 10:02:29",
+    "song": {
+      "musicAuthor": "Queen",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851d1e7c0e1bf0980298428a1ae",
+      "musicTitle": "I Want To Break Free",
+      "radio": "Rádio ROCK",
+      "startTime": "11:01"
+    },
+    "recorded_at": "2025-12-01T11:02:29.168003+01:00",
+    "raw_valid": true,
+    "song_session_id": "00addb71-70c6-4d3c-a0ef-29cd45690e59",
+    "duration_ms": 223080,
+    "isrc": "GBUM71805978",
+    "genre": [
+      "classic rock"
+    ]
+  },
+  {
+    "last_update": "2025-12-01 10:09:28",
+    "song": {
+      "musicAuthor": "Metallica",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485175e6375e11550746705a9645",
+      "musicTitle": "Whiskey In The Jar",
+      "radio": "Rádio ROCK",
+      "startTime": "11:08"
+    },
+    "recorded_at": "2025-12-01T11:09:29.731088+01:00",
+    "raw_valid": true,
+    "song_session_id": "19206dab-a9cb-48fb-a2b6-0c3dc4babccf",
+    "duration_ms": 304693,
+    "isrc": "GBAMC9800041",
+    "genre": [
+      "metal"
+    ]
+  },
+  {
+    "last_update": "2025-12-01 10:17:29",
+    "song": {
+      "musicAuthor": "Bryan Adams",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851cf1fee2a55e98e22bf358512",
+      "musicTitle": "Heaven",
+      "radio": "Rádio ROCK",
+      "startTime": "11:16"
+    },
+    "recorded_at": "2025-12-01T11:17:30.835239+01:00",
+    "raw_valid": true,
+    "song_session_id": "29c5a560-3389-469c-8a54-f399a7968df7",
+    "duration_ms": 243360,
+    "isrc": "USAM18490004",
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "last_update": "2025-12-01 10:24:33",
+    "song": {
+      "musicAuthor": "Linkin Park",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851e2f039481babe23658fc719a",
+      "musicTitle": "In The End",
+      "radio": "Rádio ROCK",
+      "startTime": "11:24"
+    },
+    "recorded_at": "2025-12-01T11:24:33.784797+01:00",
+    "raw_valid": true,
+    "song_session_id": "a4127780-b324-432f-a4ff-908958e52769",
+    "duration_ms": 216880,
+    "isrc": "USWB10002407",
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "last_update": "2025-12-01 10:28:33",
+    "song": {
+      "musicAuthor": "Wanastowi Vjecy",
+      "musicCover": "https://static.radia.sk/covers/32/5e454580-fa03-4ca6-89e2-d837eff7ac04.jpg",
+      "musicTitle": "Tak Mi To Teda Nandej",
+      "radio": "Rádio ROCK",
+      "startTime": "11:27"
+    },
+    "recorded_at": "2025-12-01T11:28:34.051250+01:00",
+    "raw_valid": true,
+    "song_session_id": "16783387-7fcc-48c6-82ac-05ea9b8f43f2",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "last_update": "2025-12-01 10:31:33",
+    "song": {
+      "musicAuthor": "Boston",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485190ef9760e57fafd8f966d17a",
+      "musicTitle": "More Than A Feeling",
+      "radio": "Rádio ROCK",
+      "startTime": "11:31"
+    },
+    "recorded_at": "2025-12-01T11:31:34.349226+01:00",
+    "raw_valid": true,
+    "song_session_id": "77ef85cc-d243-4251-a16e-f97aca34acff",
+    "duration_ms": 285133,
+    "isrc": "USSM17600941",
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "last_update": "2025-12-01 10:36:36",
+    "song": {
+      "musicAuthor": "Rammstein",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851cbe7573e1175f842e24b34c2",
+      "musicTitle": "Amerika",
+      "radio": "Rádio ROCK",
+      "startTime": "11:35"
+    },
+    "recorded_at": "2025-12-01T11:36:36.653390+01:00",
+    "raw_valid": true,
+    "song_session_id": "debb8178-650b-4176-a375-e79a0ef29a2c",
+    "duration_ms": 226760,
+    "isrc": "DEN120404987",
+    "genre": [
+      "industrial metal"
+    ]
+  },
+  {
+    "last_update": "2025-12-01 10:40:36",
+    "song": {
+      "musicAuthor": "Spin Doctors",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851436e38032cf3389d01426eca",
+      "musicTitle": "Two Princes",
+      "radio": "Rádio ROCK",
+      "startTime": "11:39"
+    },
+    "recorded_at": "2025-12-01T11:40:36.937247+01:00",
+    "raw_valid": true,
+    "song_session_id": "bcdacfb0-db76-4dff-a277-729e79b7fee9",
+    "duration_ms": 256733,
+    "isrc": "USSM19000350",
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "last_update": "2025-12-01 10:44:07",
+    "song": {
+      "musicAuthor": "R.E.M.",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851135322c78a93ff9b1f392c3a",
+      "musicTitle": "The One I Love",
+      "radio": "Rádio ROCK",
+      "startTime": "11:43"
+    },
+    "recorded_at": "2025-12-01T11:44:07.791180+01:00",
+    "raw_valid": true,
+    "song_session_id": "4af90049-5f12-4e50-bd2c-382e89d671af",
+    "duration_ms": 197800,
+    "isrc": "USCA21202402",
+    "genre": [
+      "jangle pop"
+    ]
+  },
+  {
+    "last_update": "2025-12-01 10:47:07",
+    "song": {
+      "musicAuthor": "Evanescence",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485125f49ab23f0ec6332efef432",
+      "musicTitle": "Bring Me To Life",
+      "radio": "Rádio ROCK",
+      "startTime": "11:47"
+    },
+    "recorded_at": "2025-12-01T11:47:08.040430+01:00",
+    "raw_valid": true,
+    "song_session_id": "94309bf6-6f5b-4861-95f4-679a8d8402dd",
+    "duration_ms": 235893,
+    "isrc": "USWU30200093",
+    "genre": [
+      "rock"
+    ]
+  }
+]

@@ -1,0 +1,471 @@
+[
+  {
+    "song": "Len S Nou",
+    "artists": [
+      "Miro Zbirka"
+    ],
+    "isrc": "SKA128804804",
+    "start_time": "2025-11-30 11:48:33",
+    "radio": "expres",
+    "recorded_at": "2025-11-30T11:48:42.543495+01:00",
+    "raw_valid": true,
+    "song_session_id": "508687ee-b880-4e4b-b926-28a29ad5e730",
+    "duration_ms": 186893,
+    "genre": []
+  },
+  {
+    "song": "Hero",
+    "artists": [
+      "Martin Garrix",
+      "Jvke"
+    ],
+    "isrc": "NLM5S2201815",
+    "start_time": "2025-11-30 11:51:35",
+    "radio": "expres",
+    "recorded_at": "2025-11-30T11:51:46.642908+01:00",
+    "raw_valid": true,
+    "song_session_id": "ada889e9-71d5-4449-b1ad-c9ab9ca3545b",
+    "duration_ms": 160714,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Ray Of Light",
+    "artists": [
+      "Nico Santos"
+    ],
+    "isrc": "DECE72402394",
+    "start_time": "2025-11-30 11:54:20",
+    "radio": "expres",
+    "recorded_at": "2025-11-30T11:54:44.891502+01:00",
+    "raw_valid": true,
+    "song_session_id": "532335d7-f1bb-44e6-a97f-bfd77b2fa25d",
+    "duration_ms": 176500,
+    "genre": []
+  },
+  {
+    "song": "I Can See Clearly Now",
+    "artists": [
+      "Jimmy Cliff"
+    ],
+    "isrc": "USSM19303258",
+    "start_time": "2025-11-30 11:57:11",
+    "radio": "expres",
+    "recorded_at": "2025-11-30T11:57:27.736187+01:00",
+    "raw_valid": true,
+    "song_session_id": "84e1373a-a54a-4125-9819-d481a1f3d584",
+    "duration_ms": 195160,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Last Christmas",
+    "artists": [
+      "Wham"
+    ],
+    "isrc": "GBBBM8400019",
+    "start_time": "2025-11-30 12:05:54",
+    "radio": "expres",
+    "recorded_at": "2025-11-30T12:06:23.070670+01:00",
+    "raw_valid": true,
+    "song_session_id": "182b6615-a4a3-4e3d-b4c0-da3ace8820e8",
+    "duration_ms": 262960,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Rockin Around The Christmas Tree",
+    "artists": [
+      "Mel",
+      "Kim"
+    ],
+    "isrc": "GBAAA8700049",
+    "start_time": "2025-11-30 12:10:40",
+    "radio": "expres",
+    "recorded_at": "2025-11-30T12:10:47.100442+01:00",
+    "raw_valid": true,
+    "song_session_id": "dae1c051-38d7-4a61-acbf-c08da3303de7",
+    "duration_ms": 223951,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Jingle Bells",
+    "artists": [
+      "Boney M"
+    ],
+    "isrc": "DED168100017",
+    "start_time": "2025-11-30 12:14:41",
+    "radio": "expres",
+    "recorded_at": "2025-11-30T12:14:51.022362+01:00",
+    "raw_valid": true,
+    "song_session_id": "b99fda2b-f474-4f56-9185-0315df4472f6",
+    "duration_ms": 208106,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Do They Know Its Christmas?",
+    "artists": [
+      "Band Aid"
+    ],
+    "isrc": "GBF088400001",
+    "start_time": "2025-11-30 12:17:36",
+    "radio": "expres",
+    "recorded_at": "2025-11-30T12:17:48.899398+01:00",
+    "raw_valid": true,
+    "song_session_id": "81e549c8-ea47-4e2a-9a2a-12d22806178c",
+    "duration_ms": 222533,
+    "genre": [
+      "christmas"
+    ]
+  },
+  {
+    "song": "Let It Snow! Let It Snow! Let It Snow!",
+    "artists": [
+      "Frank Sinatra"
+    ],
+    "isrc": "USSM10018232",
+    "start_time": "2025-11-30 12:21:04",
+    "radio": "expres",
+    "recorded_at": "2025-11-30T12:21:32.656766+01:00",
+    "raw_valid": true,
+    "song_session_id": "f008cb9e-2514-49d6-bfdf-cfcda07c97bb",
+    "duration_ms": 155453,
+    "genre": []
+  },
+  {
+    "song": "Love On Layaway",
+    "artists": [
+      "Gloria Estefan"
+    ],
+    "isrc": "USSM19918732",
+    "start_time": "2025-11-30 12:23:43",
+    "radio": "expres",
+    "recorded_at": "2025-11-30T12:23:49.981438+01:00",
+    "raw_valid": true,
+    "song_session_id": "38b744b5-2284-43b1-8b18-2c8b3cce9c45",
+    "duration_ms": 266382,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Happy Xmas (War Is Over)",
+    "artists": [
+      "John Lennon"
+    ],
+    "isrc": "GBAYE1000862",
+    "start_time": "2025-11-30 12:31:12",
+    "radio": "expres",
+    "recorded_at": "2025-11-30T12:31:37.017290+01:00",
+    "raw_valid": true,
+    "song_session_id": "ddea51d1-5d1d-4c48-b30c-00a23d33940f",
+    "duration_ms": 212680,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Thank God Its Christmas",
+    "artists": [
+      "Queen"
+    ],
+    "isrc": "GBCEG8400019",
+    "start_time": "2025-11-30 12:34:35",
+    "radio": "expres",
+    "recorded_at": "2025-11-30T12:34:55.152363+01:00",
+    "raw_valid": true,
+    "song_session_id": "4b0d97c3-94ef-4ab2-8acf-79945184b73a",
+    "duration_ms": 259226,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Wonderful Dream (Holidays Are Coming)",
+    "artists": [
+      "Melanie Thornton"
+    ],
+    "isrc": "DEE860100979",
+    "start_time": "2025-11-30 12:38:45",
+    "radio": "expres",
+    "recorded_at": "2025-11-30T12:38:53.998006+01:00",
+    "raw_valid": true,
+    "song_session_id": "46e462c7-e213-4c54-a7db-27a0ebce640c",
+    "duration_ms": 230733,
+    "genre": []
+  },
+  {
+    "song": "Feliz Navidad",
+    "artists": [
+      "Jose Feliciano"
+    ],
+    "isrc": "USRC19900930",
+    "start_time": "2025-11-30 12:42:48",
+    "radio": "expres",
+    "recorded_at": "2025-11-30T12:42:58.048665+01:00",
+    "raw_valid": true,
+    "song_session_id": "baf58995-bc34-44f2-aeb3-ed3e5345a1d2",
+    "duration_ms": 182360,
+    "genre": [
+      "classical"
+    ]
+  },
+  {
+    "song": "Its Beginning To Look A Lot Like Christmas",
+    "artists": [
+      "Michael Buble"
+    ],
+    "isrc": "USRE11300223",
+    "start_time": "2025-11-30 12:46:13",
+    "radio": "expres",
+    "recorded_at": "2025-11-30T12:46:38.154585+01:00",
+    "raw_valid": true,
+    "song_session_id": "1105a79c-035a-4b93-a84e-2f0145f048b3",
+    "duration_ms": 207199,
+    "genre": [
+      "jazz"
+    ]
+  },
+  {
+    "song": "Driving Home For Christmas",
+    "artists": [
+      "Chris Rea"
+    ],
+    "isrc": "GBAHS9904091",
+    "start_time": "2025-11-30 12:49:40",
+    "radio": "expres",
+    "recorded_at": "2025-11-30T12:49:56.292138+01:00",
+    "raw_valid": true,
+    "song_session_id": "58dfe98a-5558-4447-acf9-00791d56e185",
+    "duration_ms": 240213,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Its The Most Wonderful Time Of The Year",
+    "artists": [
+      "Andy Williams"
+    ],
+    "isrc": "USSM16300086",
+    "start_time": "2025-11-30 12:53:31",
+    "radio": "expres",
+    "recorded_at": "2025-11-30T12:53:48.552308+01:00",
+    "raw_valid": true,
+    "song_session_id": "69654f37-1339-4c3d-9939-8a2e95d4aa2e",
+    "duration_ms": 152266,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "All I Want For Christmas Is You",
+    "artists": [
+      "Mariah Carey"
+    ],
+    "isrc": "USSM19400325",
+    "start_time": "2025-11-30 12:56:35",
+    "radio": "expres",
+    "recorded_at": "2025-11-30T12:57:11.689872+01:00",
+    "raw_valid": true,
+    "song_session_id": "24b4ff89-5651-449e-bf1c-1f8019417991",
+    "duration_ms": 241853,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Training Season",
+    "artists": [
+      "Dua Lipa"
+    ],
+    "isrc": "GBAHT2301078",
+    "start_time": "2025-11-30 13:05:30",
+    "radio": "expres",
+    "recorded_at": "2025-11-30T13:05:44.182622+01:00",
+    "raw_valid": true,
+    "song_session_id": "9ffd5521-5614-46e7-8a39-59a559d5776a",
+    "duration_ms": 209487,
+    "genre": [
+      "electronic"
+    ]
+  },
+  {
+    "song": "One",
+    "artists": [
+      "U2"
+    ],
+    "isrc": "GBUM71106457",
+    "start_time": "2025-11-30 13:09:08",
+    "radio": "expres",
+    "recorded_at": "2025-11-30T13:09:22.566664+01:00",
+    "raw_valid": true,
+    "song_session_id": "54e30ea3-4c6f-4701-bae1-ca5ba4286c1a",
+    "duration_ms": 276186,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Undressed",
+    "artists": [
+      "Sombr"
+    ],
+    "isrc": "USWB12500737",
+    "start_time": "2025-11-30 13:13:38",
+    "radio": "expres",
+    "recorded_at": "2025-11-30T13:14:06.771926+01:00",
+    "raw_valid": true,
+    "song_session_id": "a567dd23-61b3-4d78-884e-425e0c514c67",
+    "duration_ms": 182088,
+    "genre": [
+      "indie pop"
+    ]
+  },
+  {
+    "song": "Roar",
+    "artists": [
+      "Katy Perry"
+    ],
+    "isrc": "USUM71308669",
+    "start_time": "2025-11-30 13:16:39",
+    "radio": "expres",
+    "recorded_at": "2025-11-30T13:17:04.754317+01:00",
+    "raw_valid": true,
+    "song_session_id": "270b611c-d469-4a56-8af2-2c16e1de5890",
+    "duration_ms": 222666,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Afterlife",
+    "artists": [
+      "Michael Schulte"
+    ],
+    "isrc": "DECE72500509",
+    "start_time": "2025-11-30 13:20:29",
+    "radio": "expres",
+    "recorded_at": "2025-11-30T13:20:49.934664+01:00",
+    "raw_valid": true,
+    "song_session_id": "f38a7091-2f0a-4290-bc5f-f1a02c52f38d",
+    "duration_ms": 160120,
+    "genre": []
+  },
+  {
+    "song": "Living On A Prayer",
+    "artists": [
+      "Bon Jovi"
+    ],
+    "isrc": "AUUS00634702",
+    "start_time": "2025-11-30 13:23:11",
+    "radio": "expres",
+    "recorded_at": "2025-11-30T13:23:27.942715+01:00",
+    "raw_valid": true,
+    "song_session_id": "0cd202ea-a1ff-4396-8cfd-0e3b072ed26b",
+    "duration_ms": 225109,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Feelslikeimfallinginlove",
+    "artists": [
+      "Coldplay"
+    ],
+    "isrc": "GBAYE2400676",
+    "start_time": "2025-11-30 13:26:58",
+    "radio": "expres",
+    "recorded_at": "2025-11-30T13:27:08.615611+01:00",
+    "raw_valid": true,
+    "song_session_id": "42e14243-dc29-426c-86d6-89cc05152962",
+    "duration_ms": 237803,
+    "genre": [
+      "alternative rock"
+    ]
+  },
+  {
+    "song": "Wonderful Life 25",
+    "artists": [
+      "Hurts",
+      "Purple Disco Machine"
+    ],
+    "isrc": "DEE862500677",
+    "start_time": "2025-11-30 13:33:27",
+    "radio": "expres",
+    "recorded_at": "2025-11-30T13:33:49.289034+01:00",
+    "raw_valid": true,
+    "song_session_id": "94ab2cd1-16d7-4b42-8eb4-192eb7d32fef",
+    "duration_ms": 178658,
+    "genre": []
+  },
+  {
+    "song": "Horehronie",
+    "artists": [
+      "Kristina"
+    ],
+    "isrc": "SKA011000098",
+    "start_time": "2025-11-30 13:36:23",
+    "radio": "expres",
+    "recorded_at": "2025-11-30T13:36:40.924055+01:00",
+    "raw_valid": true,
+    "song_session_id": "b08759e4-97ff-49c0-b489-7c6db07771df",
+    "duration_ms": 183146,
+    "genre": [
+      "remark/catchy"
+    ]
+  },
+  {
+    "song": "Bad Liar",
+    "artists": [
+      "Imagine Dragons"
+    ],
+    "isrc": "USUM71816161",
+    "start_time": "2025-11-30 13:39:26",
+    "radio": "expres",
+    "recorded_at": "2025-11-30T13:40:04.684207+01:00",
+    "raw_valid": true,
+    "song_session_id": "9ec994f5-4f99-48bc-aa57-27cfd61a3626",
+    "duration_ms": 260773,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Head Above Water",
+    "artists": [
+      "Twocolors",
+      "Safri Duo",
+      "Chris De Sarandy"
+    ],
+    "isrc": "DEUM72503698",
+    "start_time": "2025-11-30 13:43:47",
+    "radio": "expres",
+    "recorded_at": "2025-11-30T13:44:13.371347+01:00",
+    "raw_valid": true,
+    "song_session_id": "9ed2db06-d5bb-4d7a-adc6-182fba153fdb",
+    "duration_ms": 174550,
+    "genre": []
+  },
+  {
+    "song": "Obchodnik S Destem",
+    "artists": [
+      "Krystof"
+    ],
+    "isrc": "CZA230200203",
+    "start_time": "2025-11-30 13:46:55",
+    "radio": "expres",
+    "recorded_at": "2025-11-30T13:47:24.919862+01:00",
+    "raw_valid": true,
+    "song_session_id": "d4aa4ed3-c21d-43ce-bd68-c77b0c704cd7",
+    "duration_ms": 214400,
+    "genre": []
+  }
+]

@@ -1,0 +1,348 @@
+[
+  {
+    "song": "Quit Playing Games (With My Heart)",
+    "artist": "Backstreet Boys",
+    "start_time": "2025-11-04T06:33:17",
+    "recorded_at": "04.11.2025 06:33:27",
+    "raw_valid": true,
+    "song_session_id": "c1dca039-62ce-4cbe-991c-afd08e86aab1",
+    "duration_ms": 232666,
+    "genre": []
+  },
+  {
+    "song": "Žuvačka Za Uchom",
+    "artist": "Robo Grigorov & Midi",
+    "start_time": "2025-11-04T06:37:17",
+    "recorded_at": "04.11.2025 06:37:27",
+    "raw_valid": true,
+    "song_session_id": "87dd8a8d-7eed-425d-9854-1d28920f527d",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "song": "Super Trouper",
+    "artist": "Abba",
+    "start_time": "2025-11-04T06:40:17",
+    "recorded_at": "04.11.2025 06:40:48",
+    "raw_valid": true,
+    "song_session_id": "b54039ce-1bee-4e93-b0d0-6a148ea7a2b2",
+    "duration_ms": 252853,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Fading Like A Flower",
+    "artist": "Roxette",
+    "start_time": "2025-11-04T06:44:17",
+    "recorded_at": "04.11.2025 06:44:49",
+    "raw_valid": true,
+    "song_session_id": "1b88f9ec-3f21-4b95-9ad8-95c5ed91d0f5",
+    "duration_ms": 230680,
+    "genre": [
+      "swedish pop"
+    ]
+  },
+  {
+    "song": "Everything I Own",
+    "artist": "Boy George",
+    "start_time": "2025-11-04T06:47:17",
+    "recorded_at": "04.11.2025 06:47:29",
+    "raw_valid": true,
+    "song_session_id": "ebc3b133-7381-4cd4-bf59-a66e9c94c7d6",
+    "duration_ms": 233426,
+    "genre": []
+  },
+  {
+    "song": "Hold The Line",
+    "artist": "Toto",
+    "start_time": "2025-11-04T06:51:17",
+    "recorded_at": "04.11.2025 06:51:30",
+    "raw_valid": true,
+    "song_session_id": "e3add8ef-c366-4548-aed4-1ac27944931b",
+    "duration_ms": 235552,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Lásko Má, Já Stůňu",
+    "artist": "Vondráčková Helena",
+    "start_time": "2025-11-04T06:55:17",
+    "recorded_at": "04.11.2025 06:55:31",
+    "raw_valid": true,
+    "song_session_id": "cbedeeec-b02b-4ec4-827e-a88929af28d7",
+    "duration_ms": 136026,
+    "genre": []
+  },
+  {
+    "song": "Sitting Down Here",
+    "artist": "Marlin Lene",
+    "start_time": "2025-11-04T06:58:17",
+    "recorded_at": "04.11.2025 06:58:51",
+    "raw_valid": true,
+    "song_session_id": "d0eec17d-4ff4-4a78-a917-50b61a1e64cd",
+    "duration_ms": 234373,
+    "genre": [
+      "norwegian pop"
+    ]
+  },
+  {
+    "song": "Livin' On A Prayer",
+    "artist": "Bon Jovi",
+    "start_time": "2025-11-04T07:01:17",
+    "recorded_at": "04.11.2025 07:01:32",
+    "raw_valid": true,
+    "song_session_id": "383a9678-d1e8-4b4f-9f31-0780dc971180",
+    "duration_ms": 249293,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Time After Time",
+    "artist": "Cyndi Lauper",
+    "start_time": "2025-11-04T07:05:17",
+    "recorded_at": "04.11.2025 07:05:33",
+    "raw_valid": true,
+    "song_session_id": "fa38cba3-2c59-4337-8b38-4cd1daf4755b",
+    "duration_ms": 245529,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Úsmev",
+    "artist": "Modus",
+    "start_time": "2025-11-04T07:09:17",
+    "recorded_at": "04.11.2025 07:09:33",
+    "raw_valid": true,
+    "song_session_id": "52d1c65e-a2d1-4d5e-81b7-7d98fa0805aa",
+    "duration_ms": 208853,
+    "genre": []
+  },
+  {
+    "song": "Hallelujah",
+    "artist": "Leonard Cohen",
+    "start_time": "2025-11-04T07:13:17",
+    "recorded_at": "04.11.2025 07:13:34",
+    "raw_valid": true,
+    "song_session_id": "82fd87bd-045f-4c5c-9a34-eb23fbd79a6f",
+    "duration_ms": 279902,
+    "genre": [
+      "singer-songwriter"
+    ]
+  },
+  {
+    "song": "Žily",
+    "artist": "No Name",
+    "start_time": "2025-11-04T07:17:17",
+    "recorded_at": "04.11.2025 07:17:35",
+    "raw_valid": true,
+    "song_session_id": "8cc03f5f-4abd-4749-b7cf-d53ba3442472",
+    "duration_ms": 201266,
+    "genre": []
+  },
+  {
+    "song": "Lovesong",
+    "artist": "Habera Pavol",
+    "start_time": "2025-11-04T07:22:17",
+    "recorded_at": "04.11.2025 07:22:56",
+    "raw_valid": true,
+    "song_session_id": "dc097010-7d38-4f64-bff2-bca9aa636a01",
+    "duration_ms": 241000,
+    "genre": []
+  },
+  {
+    "song": "Dobrý Večer Priatelia",
+    "artist": "Le Payaco",
+    "start_time": "2025-11-04T07:26:17",
+    "recorded_at": "04.11.2025 07:26:57",
+    "raw_valid": true,
+    "song_session_id": "365b87ab-c685-456d-a087-a2d8bf94aa82",
+    "duration_ms": 157400,
+    "genre": []
+  },
+  {
+    "song": "Opri Sa O Mňa",
+    "artist": "I.M.T Smile",
+    "start_time": "2025-11-04T07:29:17",
+    "recorded_at": "04.11.2025 07:29:37",
+    "raw_valid": true,
+    "song_session_id": "d929b9fb-bacc-416a-b6c3-8ee2cc7a8efe",
+    "duration_ms": 163266,
+    "genre": []
+  },
+  {
+    "song": "Pesnička O Medulienke",
+    "artist": "Gladiator, Pavol Hammel & Petr Rajchert",
+    "start_time": "2025-11-04T07:31:17",
+    "recorded_at": "04.11.2025 07:31:37",
+    "raw_valid": true,
+    "song_session_id": "12e7a590-b25b-450e-a510-c4357abafd2f",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "song": "Mesto Snov",
+    "artist": "Heckovci Julia A Peter",
+    "start_time": "2025-11-04T07:35:17",
+    "recorded_at": "04.11.2025 07:35:38",
+    "raw_valid": true,
+    "song_session_id": "06183fcb-11f5-4c62-83c1-ba6fe5e89086",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "song": "Prvá",
+    "artist": "Miro Žbirka",
+    "start_time": "2025-11-04T07:39:17",
+    "recorded_at": "04.11.2025 07:39:39",
+    "raw_valid": true,
+    "song_session_id": "e79c1f03-5a3b-44d8-a37d-0d848a6b3266",
+    "duration_ms": 307013,
+    "genre": []
+  },
+  {
+    "song": "V Piatok Podvečer",
+    "artist": "Hex",
+    "start_time": "2025-11-04T07:44:17",
+    "recorded_at": "04.11.2025 07:44:20",
+    "raw_valid": true,
+    "song_session_id": "3481650e-117d-4d1f-8d97-656b848e7e17",
+    "duration_ms": 216253,
+    "genre": []
+  },
+  {
+    "song": "Môj Starý Dobrý Kabát",
+    "artist": "Tublatanka",
+    "start_time": "2025-11-04T07:47:17",
+    "recorded_at": "04.11.2025 07:47:40",
+    "raw_valid": true,
+    "song_session_id": "c818003e-4a82-4985-93d1-114f89e7a294",
+    "duration_ms": 197013,
+    "genre": []
+  },
+  {
+    "song": "Hrám",
+    "artist": "Karol Duchoň",
+    "start_time": "2025-11-04T07:51:17",
+    "recorded_at": "04.11.2025 07:51:41",
+    "raw_valid": true,
+    "song_session_id": "ae7104cf-b982-4d1a-b923-37c84e2e03a4",
+    "duration_ms": 220693,
+    "genre": []
+  },
+  {
+    "song": "Klasika",
+    "artist": "Elán",
+    "start_time": "2025-11-04T07:54:17",
+    "recorded_at": "04.11.2025 07:54:22",
+    "raw_valid": true,
+    "song_session_id": "6796fd00-c082-4bdb-a1dd-868b9d12e7f9",
+    "duration_ms": 194973,
+    "genre": []
+  },
+  {
+    "song": "Baroko",
+    "artist": "Richard Müller",
+    "start_time": "2025-11-04T07:58:17",
+    "recorded_at": "04.11.2025 07:58:22",
+    "raw_valid": true,
+    "song_session_id": "6a387a27-853f-4e4f-8f16-6aeaf672ec22",
+    "duration_ms": 379400,
+    "genre": []
+  },
+  {
+    "song": "Uličník Bozk",
+    "artist": "Gombitová Marika & Patejdl Vašo",
+    "start_time": "2025-11-04T08:02:17",
+    "recorded_at": "04.11.2025 08:02:23",
+    "raw_valid": true,
+    "song_session_id": "4ab2f5ff-c76a-4ee9-8934-c95374304fc3",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "song": "Zaľúbená Žaba",
+    "artist": "Metalinda",
+    "start_time": "2025-11-04T08:05:17",
+    "recorded_at": "04.11.2025 08:05:44",
+    "raw_valid": true,
+    "song_session_id": "f3a00818-cb89-47bf-b2c4-eaade4be82f4",
+    "duration_ms": 188386,
+    "genre": []
+  },
+  {
+    "song": "Edo",
+    "artist": "Robo Grigorov, Midi",
+    "start_time": "2025-11-04T08:10:17",
+    "recorded_at": "04.11.2025 08:10:25",
+    "raw_valid": true,
+    "song_session_id": "2a493ad5-e78e-48b4-922b-f8b842533bba",
+    "duration_ms": 212401,
+    "genre": []
+  },
+  {
+    "song": "Zrpš",
+    "artist": "Hammel, Pavol",
+    "start_time": "2025-11-04T08:13:17",
+    "recorded_at": "04.11.2025 08:13:45",
+    "raw_valid": true,
+    "song_session_id": "2ba270a3-6299-439b-89ba-170058905ca2",
+    "duration_ms": 179746,
+    "genre": [
+      "big beat"
+    ]
+  },
+  {
+    "song": "Nervózna Família",
+    "artist": "Ventil Rg",
+    "start_time": "2025-11-04T08:16:17",
+    "recorded_at": "04.11.2025 08:16:26",
+    "raw_valid": true,
+    "song_session_id": "36dae2cb-e4db-453c-84a2-fa6f7b5ff93c",
+    "duration_ms": 191066,
+    "genre": []
+  },
+  {
+    "song": "Láska je tu s vami",
+    "artist": "Peter Nagy",
+    "start_time": "2025-11-04T08:19:17",
+    "recorded_at": "04.11.2025 08:19:46",
+    "raw_valid": true,
+    "song_session_id": "50f91e32-1570-47c2-a190-6bb455830c62",
+    "duration_ms": 254933,
+    "genre": []
+  },
+  {
+    "song": "Ty A Tvoja Sestra",
+    "artist": "No Name",
+    "start_time": "2025-11-04T08:23:17",
+    "recorded_at": "04.11.2025 08:23:47",
+    "raw_valid": true,
+    "song_session_id": "7eb33d15-bdaf-449f-a506-86120c7a3bed",
+    "duration_ms": 202080,
+    "genre": []
+  },
+  {
+    "song": "Reklama Na Ticho",
+    "artist": "Team",
+    "start_time": "2025-11-04T08:26:17",
+    "recorded_at": "04.11.2025 08:26:28",
+    "raw_valid": true,
+    "song_session_id": "375ace21-30cb-4dad-b93e-815d70bb369d",
+    "duration_ms": 222426,
+    "genre": []
+  },
+  {
+    "song": "Kým Stúpa Dym",
+    "artist": "I.M.T. Smile",
+    "start_time": "2025-11-04T08:30:17",
+    "recorded_at": "04.11.2025 08:30:28",
+    "raw_valid": true,
+    "song_session_id": "570c43d1-503b-415f-bab2-7c92cfa0ed28",
+    "duration_ms": 275120,
+    "genre": []
+  }
+]

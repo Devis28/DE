@@ -1,0 +1,423 @@
+[
+  {
+    "song": "Afterlife",
+    "artists": [
+      "Michael Schulte"
+    ],
+    "isrc": "DECE72500509",
+    "start_time": "2025-11-23 08:06:26",
+    "radio": "expres",
+    "recorded_at": "2025-11-23T08:06:49.445430+01:00",
+    "raw_valid": true,
+    "song_session_id": "4744ab4e-3a6d-48c9-92ec-868b75627f07",
+    "duration_ms": 160120,
+    "genre": []
+  },
+  {
+    "song": "To The Moon And Back",
+    "artists": [
+      "Savage Garden"
+    ],
+    "isrc": "AURQ09700001",
+    "start_time": "2025-11-23 08:09:13",
+    "radio": "expres",
+    "recorded_at": "2025-11-23T08:09:36.549021+01:00",
+    "raw_valid": true,
+    "song_session_id": "ffaf979e-21b9-4c4a-945e-a971e73b2ea2",
+    "duration_ms": 339433,
+    "genre": []
+  },
+  {
+    "song": "Forever Young",
+    "artists": [
+      "David Guetta",
+      "Alphaville",
+      "Ava Max"
+    ],
+    "isrc": "UKWLG2400102",
+    "start_time": "2025-11-23 08:13:55",
+    "radio": "expres",
+    "recorded_at": "2025-11-23T08:14:24.628267+01:00",
+    "raw_valid": true,
+    "song_session_id": "6c07e8f6-ac68-4999-88a4-6285aae36684",
+    "duration_ms": 156923,
+    "genre": [
+      "offizielle charts"
+    ]
+  },
+  {
+    "song": "Zustan Tu Se Mnou (Za Sny)",
+    "artists": [
+      "Krystof"
+    ],
+    "isrc": "CZUM71700170",
+    "start_time": "2025-11-23 08:16:31",
+    "radio": "expres",
+    "recorded_at": "2025-11-23T08:16:57.259272+01:00",
+    "raw_valid": true,
+    "song_session_id": "ddb99488-6846-4d29-9d9c-469de2781bcc",
+    "duration_ms": 376000,
+    "genre": []
+  },
+  {
+    "song": "Pride",
+    "artists": [
+      "Felix Jaehn",
+      "Jhart"
+    ],
+    "isrc": "DEUM72503423",
+    "start_time": "2025-11-23 08:21:18",
+    "radio": "expres",
+    "recorded_at": "2025-11-23T08:21:42.162403+01:00",
+    "raw_valid": true,
+    "song_session_id": "af5595bd-9451-492e-913a-56ec4a86e3fa",
+    "duration_ms": 158150,
+    "genre": []
+  },
+  {
+    "song": "Alone",
+    "artists": [
+      "Heart"
+    ],
+    "isrc": "USCA28700690",
+    "start_time": "2025-11-23 08:24:05",
+    "radio": "expres",
+    "recorded_at": "2025-11-23T08:24:19.741713+01:00",
+    "raw_valid": true,
+    "song_session_id": "338713ba-463d-4241-808a-64c7c5c0634b",
+    "duration_ms": 218733,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Radioactive",
+    "artists": [
+      "Imagine Dragons"
+    ],
+    "isrc": "USUM71201074",
+    "start_time": "2025-11-23 08:32:11",
+    "radio": "expres",
+    "recorded_at": "2025-11-23T08:32:26.881436+01:00",
+    "raw_valid": true,
+    "song_session_id": "81ff1eed-7ae3-4ac2-88e3-9a708d7961de",
+    "duration_ms": 188000,
+    "genre": [
+      "indie"
+    ]
+  },
+  {
+    "song": "Forbidden Road",
+    "artists": [
+      "Robbie Williams"
+    ],
+    "isrc": "GBPS62400032",
+    "start_time": "2025-11-23 08:35:27",
+    "radio": "expres",
+    "recorded_at": "2025-11-23T08:35:50.411362+01:00",
+    "raw_valid": true,
+    "song_session_id": "8a4a0e85-3ebc-42dc-b05a-b46f5d3c5e9b",
+    "duration_ms": 197419,
+    "genre": []
+  },
+  {
+    "song": "What Is Love",
+    "artists": [
+      "Haddaway"
+    ],
+    "isrc": "DEA410500401",
+    "start_time": "2025-11-23 08:38:28",
+    "radio": "expres",
+    "recorded_at": "2025-11-23T08:38:53.868164+01:00",
+    "raw_valid": true,
+    "song_session_id": "fb891003-1973-48a2-9fea-d9e8a50b2762",
+    "duration_ms": 270373,
+    "genre": [
+      "trance"
+    ]
+  },
+  {
+    "song": "Dive",
+    "artists": [
+      "Lost Frequencies",
+      "Tom Gregory"
+    ],
+    "isrc": "BEHP42300028",
+    "start_time": "2025-11-23 08:43:02",
+    "radio": "expres",
+    "recorded_at": "2025-11-23T08:43:18.307538+01:00",
+    "raw_valid": true,
+    "song_session_id": "4d05e948-cf8a-4d17-a634-5718d634c7b7",
+    "duration_ms": 161093,
+    "genre": []
+  },
+  {
+    "song": "Lod Do Neznama",
+    "artists": [
+      "Uhercik / Durinda / Griglak / Horvath"
+    ],
+    "isrc": null,
+    "start_time": "2025-11-23 08:45:43",
+    "radio": "expres",
+    "recorded_at": "2025-11-23T08:46:01.418398+01:00",
+    "raw_valid": true,
+    "song_session_id": "a1ecb447-0fb2-4b1e-9e29-dd3d676210f4"
+  },
+  {
+    "song": "O.k.o",
+    "artists": [
+      "Michael Patrick Kelly"
+    ],
+    "isrc": "DEE862201502",
+    "start_time": "2025-11-23 08:49:35",
+    "radio": "expres",
+    "recorded_at": "2025-11-23T08:50:00.019012+01:00",
+    "raw_valid": true,
+    "song_session_id": "87f17c4c-8962-427f-9dfe-d40245fe90d7",
+    "duration_ms": 189080,
+    "genre": []
+  },
+  {
+    "song": "Belong Together",
+    "artists": [
+      "Mark Ambor"
+    ],
+    "isrc": "QM24S2400638",
+    "start_time": "2025-11-23 08:52:40",
+    "radio": "expres",
+    "recorded_at": "2025-11-23T08:53:03.108318+01:00",
+    "raw_valid": true,
+    "song_session_id": "82d9bb1f-a685-4367-b6ba-9e3692237ad6",
+    "duration_ms": 148317,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Uvazneni V Sebe",
+    "artists": [
+      "Nocaden"
+    ],
+    "isrc": "SKBW52500101",
+    "start_time": "2025-11-23 08:55:03",
+    "radio": "expres",
+    "recorded_at": "2025-11-23T08:55:26.217592+01:00",
+    "raw_valid": true,
+    "song_session_id": "11fdde21-d7aa-4bd7-88ae-b7c03994eb43",
+    "duration_ms": 215287,
+    "genre": []
+  },
+  {
+    "song": "The Sound Of Silence",
+    "artists": [
+      "Disturbed"
+    ],
+    "isrc": "USRE12400063",
+    "start_time": "2025-11-23 09:05:40",
+    "radio": "expres",
+    "recorded_at": "2025-11-23T09:05:54.751723+01:00",
+    "raw_valid": true,
+    "song_session_id": "2319e077-dde4-49ef-b65e-d58db81bca9f",
+    "duration_ms": 185238,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Dusk Till Dawn",
+    "artists": [
+      "Zayn",
+      "Sia"
+    ],
+    "isrc": "USRC11702155",
+    "start_time": "2025-11-23 09:08:43",
+    "radio": "expres",
+    "recorded_at": "2025-11-23T09:08:58.114252+01:00",
+    "raw_valid": true,
+    "song_session_id": "bb8bda5f-19ed-459a-b93c-ba0af1beb5bb",
+    "duration_ms": 239000,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "U + Ur Hand",
+    "artists": [
+      "Pink"
+    ],
+    "isrc": "USLF20500242",
+    "start_time": "2025-11-23 09:12:29",
+    "radio": "expres",
+    "recorded_at": "2025-11-23T09:12:36.764683+01:00",
+    "raw_valid": true,
+    "song_session_id": "5e101f2f-0c43-41e3-85a0-20a714319f10",
+    "duration_ms": 214826,
+    "genre": []
+  },
+  {
+    "song": "Save My Love",
+    "artists": [
+      "Marshmello",
+      "Ellie Goulding",
+      "Avaion"
+    ],
+    "isrc": "USUG12504310",
+    "start_time": "2025-11-23 09:16:08",
+    "radio": "expres",
+    "recorded_at": "2025-11-23T09:16:20.702482+01:00",
+    "raw_valid": true,
+    "song_session_id": "08b27515-26da-4827-8c79-4590fa0fb4f3",
+    "duration_ms": 215555,
+    "genre": []
+  },
+  {
+    "song": "Save Me",
+    "artists": [
+      "Morandi"
+    ],
+    "isrc": "ROUM70700048",
+    "start_time": "2025-11-23 09:19:49",
+    "radio": "expres",
+    "recorded_at": "2025-11-23T09:20:04.269436+01:00",
+    "raw_valid": true,
+    "song_session_id": "e31b046b-0f80-4c48-b293-cabd893d05db",
+    "duration_ms": 274133,
+    "genre": []
+  },
+  {
+    "song": "I Was Made For Loving You",
+    "artists": [
+      "Kiss"
+    ],
+    "isrc": "USUM72120195",
+    "start_time": "2025-11-23 09:23:12",
+    "radio": "expres",
+    "recorded_at": "2025-11-23T09:23:27.392143+01:00",
+    "raw_valid": true,
+    "song_session_id": "89942bbd-0ac5-4f9a-9ebf-0d514b311dc8",
+    "duration_ms": 372866,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Million Good Reasons",
+    "artists": [
+      "Robin Schulz",
+      "Fast Boy"
+    ],
+    "isrc": "DEA622404738",
+    "start_time": "2025-11-23 09:33:16",
+    "radio": "expres",
+    "recorded_at": "2025-11-23T09:33:39.018031+01:00",
+    "raw_valid": true,
+    "song_session_id": "6fbc3fcf-1917-4727-8659-af5b086fda85",
+    "duration_ms": 157130,
+    "genre": []
+  },
+  {
+    "song": "All Star",
+    "artists": [
+      "Smash Mouth"
+    ],
+    "isrc": "USIR19902220",
+    "start_time": "2025-11-23 09:35:58",
+    "radio": "expres",
+    "recorded_at": "2025-11-23T09:36:18.390653+01:00",
+    "raw_valid": true,
+    "song_session_id": "17190511-b289-4112-8175-b0938149ab99",
+    "duration_ms": 200253,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Wake Me Up",
+    "artists": [
+      "Avicii",
+      "Aloe Blacc"
+    ],
+    "isrc": "SEUM71301326",
+    "start_time": "2025-11-23 09:39:13",
+    "radio": "expres",
+    "recorded_at": "2025-11-23T09:39:39.894878+01:00",
+    "raw_valid": true,
+    "song_session_id": "77813c10-1c4e-42c7-8c43-6f3c6530c285",
+    "duration_ms": 247426,
+    "genre": [
+      "electronic"
+    ]
+  },
+  {
+    "song": "To Okolo Nas",
+    "artists": [
+      "Para"
+    ],
+    "isrc": "SKP662201002",
+    "start_time": "2025-11-23 09:43:24",
+    "radio": "expres",
+    "recorded_at": "2025-11-23T09:43:43.628886+01:00",
+    "raw_valid": true,
+    "song_session_id": "def0e69e-84bd-44cc-8c02-92d1d953e23d",
+    "duration_ms": 257185,
+    "genre": []
+  },
+  {
+    "song": "Leave A Light On",
+    "artists": [
+      "Belinda Carlisle"
+    ],
+    "isrc": "GBAAA8900043",
+    "start_time": "2025-11-23 09:46:58",
+    "radio": "expres",
+    "recorded_at": "2025-11-23T09:47:22.430188+01:00",
+    "raw_valid": true,
+    "song_session_id": "e31074de-35f7-4d69-a3cf-b56fe8e1ea93",
+    "duration_ms": 278360,
+    "genre": []
+  },
+  {
+    "song": "Vsetko Bude Dobre",
+    "artists": [
+      "Gladiator"
+    ],
+    "isrc": "SKCM72560001",
+    "start_time": "2025-11-23 09:50:53",
+    "radio": "expres",
+    "recorded_at": "2025-11-23T09:51:06.020173+01:00",
+    "raw_valid": true,
+    "song_session_id": "1f23aba8-9993-4ccf-83d1-28def0f92d46",
+    "duration_ms": 166588,
+    "genre": []
+  },
+  {
+    "song": "Desert Rose",
+    "artists": [
+      "Sting"
+    ],
+    "isrc": "USIR19902517",
+    "start_time": "2025-11-23 09:53:52",
+    "radio": "expres",
+    "recorded_at": "2025-11-23T09:54:09.286197+01:00",
+    "raw_valid": true,
+    "song_session_id": "827a1aa5-0a44-4dbb-bfe3-619094c67adc",
+    "duration_ms": 290626,
+    "genre": []
+  },
+  {
+    "song": "Ritual",
+    "artists": [
+      "Tiesto",
+      "Jonas Blue",
+      "Rita Ora"
+    ],
+    "isrc": "CYA111900146",
+    "start_time": "2025-11-23 09:57:16",
+    "radio": "expres",
+    "recorded_at": "2025-11-23T09:57:33.107618+01:00",
+    "raw_valid": true,
+    "song_session_id": "55e24aae-c45f-4a38-9720-4a6cf433295e",
+    "duration_ms": 198995,
+    "genre": []
+  }
+]

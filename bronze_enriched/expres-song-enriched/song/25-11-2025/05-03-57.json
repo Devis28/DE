@@ -1,0 +1,500 @@
+[
+  {
+    "song": "Sedem Noci",
+    "artists": [
+      "Komajota"
+    ],
+    "isrc": "SKA010800079",
+    "start_time": "2025-11-25 04:05:21",
+    "radio": "expres",
+    "recorded_at": "2025-11-25T04:05:36.915206+01:00",
+    "raw_valid": true,
+    "song_session_id": "481b3c57-3768-47e9-ab74-ff3f88f56f6d",
+    "duration_ms": 257106,
+    "genre": []
+  },
+  {
+    "song": "Wonderful Life 25",
+    "artists": [
+      "Hurts",
+      "Purple Disco Machine"
+    ],
+    "isrc": "DEE862500677",
+    "start_time": "2025-11-25 04:08:54",
+    "radio": "expres",
+    "recorded_at": "2025-11-25T04:09:20.451020+01:00",
+    "raw_valid": true,
+    "song_session_id": "388d05cb-9a58-48d8-8bc2-53cfb74c4936",
+    "duration_ms": 178658,
+    "genre": []
+  },
+  {
+    "song": "Len S Tebou",
+    "artists": [
+      "Peter Juhas"
+    ],
+    "isrc": "SKBZ92400003",
+    "start_time": "2025-11-25 04:11:49",
+    "radio": "expres",
+    "recorded_at": "2025-11-25T04:12:03.361554+01:00",
+    "raw_valid": true,
+    "song_session_id": "e66fec6b-837b-41a2-aaca-312b4eb4dc0a",
+    "duration_ms": 172872,
+    "genre": []
+  },
+  {
+    "song": "Hot N Cold",
+    "artists": [
+      "Katy Perry"
+    ],
+    "isrc": "USCA20802544",
+    "start_time": "2025-11-25 04:14:44",
+    "radio": "expres",
+    "recorded_at": "2025-11-25T04:15:20.062310+01:00",
+    "raw_valid": true,
+    "song_session_id": "a29f55d5-1330-4f1d-a9d8-291ea9cc4a29",
+    "duration_ms": 220226,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Mala Nocna Burka",
+    "artists": [
+      "Team"
+    ],
+    "isrc": "SKA128804506",
+    "start_time": "2025-11-25 04:18:25",
+    "radio": "expres",
+    "recorded_at": "2025-11-25T04:18:39.720952+01:00",
+    "raw_valid": true,
+    "song_session_id": "8e7425a8-6a1e-4e03-9c87-36d65c04a5ad",
+    "duration_ms": 244333,
+    "genre": []
+  },
+  {
+    "song": "Glide",
+    "artists": [
+      "Neiked",
+      "Portugal The Man"
+    ],
+    "isrc": "DEE862500421",
+    "start_time": "2025-11-25 04:22:29",
+    "radio": "expres",
+    "recorded_at": "2025-11-25T04:22:43.578246+01:00",
+    "raw_valid": true,
+    "song_session_id": "9b62eba5-2540-4f5b-ac9e-360d7ad4d1cf",
+    "duration_ms": 184405,
+    "genre": []
+  },
+  {
+    "song": "Ked Muz Miluje Zenu",
+    "artists": [
+      "Robo Opatovsky"
+    ],
+    "isrc": "SKC251701406",
+    "start_time": "2025-11-25 04:25:26",
+    "radio": "expres",
+    "recorded_at": "2025-11-25T04:25:41.558627+01:00",
+    "raw_valid": true,
+    "song_session_id": "88d5bff4-8d02-4fce-8370-530607cb2217",
+    "duration_ms": 249880,
+    "genre": []
+  },
+  {
+    "song": "Simple Life",
+    "artists": [
+      "Leony"
+    ],
+    "isrc": "DEN062400058",
+    "start_time": "2025-11-25 04:29:40",
+    "radio": "expres",
+    "recorded_at": "2025-11-25T04:30:10.589837+01:00",
+    "raw_valid": true,
+    "song_session_id": "ab8dab92-50b0-4cf5-b7d7-4ec12e6d715f",
+    "duration_ms": 153100,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Pride",
+    "artists": [
+      "Felix Jaehn",
+      "Jhart"
+    ],
+    "isrc": "DEUM72503423",
+    "start_time": "2025-11-25 04:32:31",
+    "radio": "expres",
+    "recorded_at": "2025-11-25T04:32:53.492394+01:00",
+    "raw_valid": true,
+    "song_session_id": "cc06d8d1-075c-426b-90d2-8a8cd23c5d5d",
+    "duration_ms": 158150,
+    "genre": []
+  },
+  {
+    "song": "Spievaj So Mnou",
+    "artists": [
+      "Bystrik"
+    ],
+    "isrc": "SKB002008101",
+    "start_time": "2025-11-25 04:35:07",
+    "radio": "expres",
+    "recorded_at": "2025-11-25T04:35:20.676703+01:00",
+    "raw_valid": true,
+    "song_session_id": "46623143-01b1-4dee-ac47-2cf8761abd9c",
+    "duration_ms": 203866,
+    "genre": []
+  },
+  {
+    "song": "Im So Excited",
+    "artists": [
+      "Pointer Sisters"
+    ],
+    "isrc": "USRC18203285",
+    "start_time": "2025-11-25 04:38:28",
+    "radio": "expres",
+    "recorded_at": "2025-11-25T04:38:44.105904+01:00",
+    "raw_valid": true,
+    "song_session_id": "05a6395e-9828-408c-9973-c46662cac94e",
+    "duration_ms": 233400,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Sam S Nou",
+    "artists": [
+      "Gladiator"
+    ],
+    "isrc": "SKB701403012",
+    "start_time": "2025-11-25 04:42:31",
+    "radio": "expres",
+    "recorded_at": "2025-11-25T04:42:48.518586+01:00",
+    "raw_valid": true,
+    "song_session_id": "b07ea4d3-0526-4929-9332-106d345a12ea",
+    "duration_ms": 254253,
+    "genre": []
+  },
+  {
+    "song": "Zoo",
+    "artists": [
+      "Shakira"
+    ],
+    "isrc": "USWD12538420",
+    "start_time": "2025-11-25 04:45:43",
+    "radio": "expres",
+    "recorded_at": "2025-11-25T04:46:12.840992+01:00",
+    "raw_valid": true,
+    "song_session_id": "78a9d97b-3020-48db-8203-8ed88524bb03",
+    "duration_ms": 190822,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Psi Sa Brania Utokom",
+    "artists": [
+      "Peter Nagy",
+      "Jozef Raz"
+    ],
+    "isrc": "SKA128797207",
+    "start_time": "2025-11-25 04:49:26",
+    "radio": "expres",
+    "recorded_at": "2025-11-25T04:50:00.925056+01:00",
+    "raw_valid": true,
+    "song_session_id": "c28da15b-aa17-4247-a92b-d6dfeea65088",
+    "duration_ms": 208413,
+    "genre": []
+  },
+  {
+    "song": "Poker Face",
+    "artists": [
+      "Lady Gaga"
+    ],
+    "isrc": "USUM70824409",
+    "start_time": "2025-11-25 04:52:51",
+    "radio": "expres",
+    "recorded_at": "2025-11-25T04:53:21.543100+01:00",
+    "raw_valid": true,
+    "song_session_id": "e115798d-e41c-4007-9bb6-fc52c2c2d300",
+    "duration_ms": 237213,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Spravne Dievcata",
+    "artists": [
+      "Marika Gombitova"
+    ],
+    "isrc": null,
+    "start_time": "2025-11-25 04:56:29",
+    "radio": "expres",
+    "recorded_at": "2025-11-25T04:56:41.044534+01:00",
+    "raw_valid": true,
+    "song_session_id": "bb0a0e60-04ee-41c0-beab-4560e8cc4dee"
+  },
+  {
+    "song": "The Fate Of Ophelia",
+    "artists": [
+      "Taylor Swift"
+    ],
+    "isrc": "USUG12506436",
+    "start_time": "2025-11-25 05:00:37",
+    "radio": "expres",
+    "recorded_at": "2025-11-25T05:01:00.345798+01:00",
+    "raw_valid": true,
+    "song_session_id": "e019231b-1dec-4143-babb-3c7b6a8c05e1",
+    "duration_ms": 226073,
+    "genre": [
+      "electronic"
+    ]
+  },
+  {
+    "song": "Linda",
+    "artists": [
+      "Para"
+    ],
+    "isrc": "TCACS1685920",
+    "start_time": "2025-11-25 05:04:30",
+    "radio": "expres",
+    "recorded_at": "2025-11-25T05:04:44.147580+01:00",
+    "raw_valid": true,
+    "song_session_id": "149a212b-08b5-41b1-915e-d0e083e5e804",
+    "duration_ms": 317628,
+    "genre": []
+  },
+  {
+    "song": "Beautiful Things",
+    "artists": [
+      "Benson Boone"
+    ],
+    "isrc": "USWB12307016",
+    "start_time": "2025-11-25 05:07:30",
+    "radio": "expres",
+    "recorded_at": "2025-11-25T05:07:47.293440+01:00",
+    "raw_valid": true,
+    "song_session_id": "f50582e2-8575-4fa1-89e8-139ea45928ba",
+    "duration_ms": 180304,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Miesta",
+    "artists": [
+      "Zuzana Smatanova",
+      "Adam Durica"
+    ],
+    "isrc": "SKI941400603",
+    "start_time": "2025-11-25 05:10:28",
+    "radio": "expres",
+    "recorded_at": "2025-11-25T05:10:50.214131+01:00",
+    "raw_valid": true,
+    "song_session_id": "9bac7f6c-f9e1-4bc0-8b04-0cd9692fe03d",
+    "duration_ms": 212858,
+    "genre": []
+  },
+  {
+    "song": "Summer Of 69",
+    "artists": [
+      "Bryan Adams"
+    ],
+    "isrc": "USAM18490006",
+    "start_time": "2025-11-25 05:14:06",
+    "radio": "expres",
+    "recorded_at": "2025-11-25T05:14:41.239413+01:00",
+    "raw_valid": true,
+    "song_session_id": "6e4899a4-0d1b-42ca-a146-e939686b7ffe",
+    "duration_ms": 216053,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Love In Your Soul",
+    "artists": [
+      "Celeste Buckingham"
+    ],
+    "isrc": "USUM71312321",
+    "start_time": "2025-11-25 05:17:27",
+    "radio": "expres",
+    "recorded_at": "2025-11-25T05:18:01.663099+01:00",
+    "raw_valid": true,
+    "song_session_id": "4c893a90-91c3-4589-b7ce-1aa5ebed4f8d",
+    "duration_ms": 224733,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Eternity",
+    "artists": [
+      "Alex Warren"
+    ],
+    "isrc": "USAT22503779",
+    "start_time": "2025-11-25 05:20:39",
+    "radio": "expres",
+    "recorded_at": "2025-11-25T05:20:54.735794+01:00",
+    "raw_valid": true,
+    "song_session_id": "89e79bdf-2dd2-442a-a460-e5bf9fa2faa2",
+    "duration_ms": 189553,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Pre Vas Hram",
+    "artists": [
+      "Kali",
+      "Karol Duchon",
+      "Peter Pann"
+    ],
+    "isrc": "CZA232500151",
+    "start_time": "2025-11-25 05:24:05",
+    "radio": "expres",
+    "recorded_at": "2025-11-25T05:24:18.014799+01:00",
+    "raw_valid": true,
+    "song_session_id": "b0a0e13b-0322-4639-b2e9-4041b8886bf3",
+    "duration_ms": 149118,
+    "genre": []
+  },
+  {
+    "song": "You Get What You Give",
+    "artists": [
+      "New Radicals"
+    ],
+    "isrc": "USMC19858327",
+    "start_time": "2025-11-25 05:26:42",
+    "radio": "expres",
+    "recorded_at": "2025-11-25T05:27:00.817237+01:00",
+    "raw_valid": true,
+    "song_session_id": "7e7f4d6b-1b85-4dfc-a21b-068e4521fb37",
+    "duration_ms": 300034,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Be Mine",
+    "artists": [
+      "Kamrad"
+    ],
+    "isrc": "DE1NJ2500035",
+    "start_time": "2025-11-25 05:32:11",
+    "radio": "expres",
+    "recorded_at": "2025-11-25T05:32:25.666350+01:00",
+    "raw_valid": true,
+    "song_session_id": "aaf96fbb-39ce-420b-a5e0-6a7565b8f49c",
+    "duration_ms": 156463,
+    "genre": []
+  },
+  {
+    "song": "Anjel",
+    "artists": [
+      "Desmod"
+    ],
+    "isrc": "SKE491500202",
+    "start_time": "2025-11-25 05:34:50",
+    "radio": "expres",
+    "recorded_at": "2025-11-25T05:35:08.314063+01:00",
+    "raw_valid": true,
+    "song_session_id": "d170b103-c152-4ff3-b5e8-50b4d1bbeb43",
+    "duration_ms": 185893,
+    "genre": []
+  },
+  {
+    "song": "Summer Wine",
+    "artists": [
+      "Ville Valo",
+      "Natalia Avelon"
+    ],
+    "isrc": "DEA620600750",
+    "start_time": "2025-11-25 05:37:51",
+    "radio": "expres",
+    "recorded_at": "2025-11-25T05:38:06.353366+01:00",
+    "raw_valid": true,
+    "song_session_id": "0e1d2d51-f726-405e-8946-7a50d9405ef8",
+    "duration_ms": 233546,
+    "genre": [
+      "soundtrack"
+    ]
+  },
+  {
+    "song": "Zijeme Len Raz",
+    "artists": [
+      "Ego",
+      "Robert Burian"
+    ],
+    "isrc": "CZA231204265",
+    "start_time": "2025-11-25 05:41:50",
+    "radio": "expres",
+    "recorded_at": "2025-11-25T05:42:10.056117+01:00",
+    "raw_valid": true,
+    "song_session_id": "46a5c50c-d135-47cc-9c59-07e3f8a8c21f",
+    "duration_ms": 205780,
+    "genre": []
+  },
+  {
+    "song": "Love Me Not",
+    "artists": [
+      "Ravyn Lenae"
+    ],
+    "isrc": "USAT22401137",
+    "start_time": "2025-11-25 05:45:14",
+    "radio": "expres",
+    "recorded_at": "2025-11-25T05:45:33.564887+01:00",
+    "raw_valid": true,
+    "song_session_id": "8dbefc41-4918-417d-8424-a47b588b98e4",
+    "duration_ms": 213466,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "So Zivotom V Ohrozeni",
+    "artists": [
+      "Jana Kirschner"
+    ],
+    "isrc": "SKA010205102",
+    "start_time": "2025-11-25 05:48:47",
+    "radio": "expres",
+    "recorded_at": "2025-11-25T05:49:11.952114+01:00",
+    "raw_valid": true,
+    "song_session_id": "8a240b6f-91bf-47dd-a384-99b731bc206e",
+    "duration_ms": 236426,
+    "genre": []
+  },
+  {
+    "song": "Cant Fight The Moonlight",
+    "artists": [
+      "Leann Rimes"
+    ],
+    "isrc": "USCRB0000703",
+    "start_time": "2025-11-25 05:52:42",
+    "radio": "expres",
+    "recorded_at": "2025-11-25T05:52:55.730720+01:00",
+    "raw_valid": true,
+    "song_session_id": "c2e98be3-6c61-4a17-acd3-7093f2c9b482",
+    "duration_ms": 215506,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Prilis Osobna Znamost",
+    "artists": [
+      "Imt Smile",
+      "Nikol Stibrova"
+    ],
+    "isrc": "SKA011900117",
+    "start_time": "2025-11-25 05:56:14",
+    "radio": "expres",
+    "recorded_at": "2025-11-25T05:56:42.486634+01:00",
+    "raw_valid": true,
+    "song_session_id": "f067fe63-611e-405a-a554-9762250c5f5c",
+    "duration_ms": 271597,
+    "genre": []
+  }
+]

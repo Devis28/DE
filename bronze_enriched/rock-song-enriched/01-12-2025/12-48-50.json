@@ -1,0 +1,492 @@
+[
+  {
+    "last_update": "2025-12-01 10:51:37",
+    "song": {
+      "musicAuthor": "Third Eye Blind",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048514139c9208eeed67d2a211beb",
+      "musicTitle": "Semi-Charmed Life",
+      "radio": "Rádio ROCK",
+      "startTime": "11:50"
+    },
+    "recorded_at": "2025-12-01T11:51:38.402827+01:00",
+    "raw_valid": true,
+    "song_session_id": "8202ddca-72ae-4935-9935-ef1ff3b10fe5",
+    "duration_ms": 268360,
+    "isrc": "USEE19701203",
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "last_update": "2025-12-01 10:55:13",
+    "song": {
+      "musicAuthor": "Steppenwolf",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851ec7e2c5c7ecd29301f1c4b93",
+      "musicTitle": "Born To Be Wild",
+      "radio": "Rádio ROCK",
+      "startTime": "11:54"
+    },
+    "recorded_at": "2025-12-01T11:55:13.814918+01:00",
+    "raw_valid": true,
+    "song_session_id": "8f421ef8-9633-4adc-a8ce-20b03a5500ed",
+    "duration_ms": 212893,
+    "isrc": "USMC16846563",
+    "genre": [
+      "classic rock"
+    ]
+  },
+  {
+    "last_update": "2025-12-01 10:58:15",
+    "song": {
+      "musicAuthor": "U2",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485138fa0dfe55b1ff2e8c962bae",
+      "musicTitle": "Elevation",
+      "radio": "Rádio ROCK",
+      "startTime": "11:58"
+    },
+    "recorded_at": "2025-12-01T11:58:15.674522+01:00",
+    "raw_valid": true,
+    "song_session_id": "5cbf45b6-df30-4bd4-810d-d17493efaf53",
+    "duration_ms": 226626,
+    "isrc": "GBAAN0000229",
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "last_update": "2025-12-01 11:03:16",
+    "song": {
+      "musicAuthor": "The Red Hot Chili Peppers",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851f3686323bf737cb7ba3de792",
+      "musicTitle": "Otherside",
+      "radio": "Rádio ROCK",
+      "startTime": "12:02"
+    },
+    "recorded_at": "2025-12-01T12:03:16.869626+01:00",
+    "raw_valid": true,
+    "song_session_id": "88745e0b-15e0-4bcd-9ede-c63e1449acd3",
+    "duration_ms": 198706,
+    "isrc": "USG7D1154605",
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "last_update": "2025-12-01 11:07:19",
+    "song": {
+      "musicAuthor": "Smith Patti",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851a28eabe111f67a386e75a31a",
+      "musicTitle": "Because The Night",
+      "radio": "Rádio ROCK",
+      "startTime": "12:06"
+    },
+    "recorded_at": "2025-12-01T12:07:19.409736+01:00",
+    "raw_valid": true,
+    "song_session_id": "0b896d7a-08cb-4876-97f0-f9150a70b35b",
+    "duration_ms": 204800,
+    "isrc": "USAR17800008",
+    "genre": [
+      "proto-punk"
+    ]
+  },
+  {
+    "last_update": "2025-12-01 11:12:20",
+    "song": {
+      "musicAuthor": "Green Day",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851c2ced39899b0d67cd5a724fa",
+      "musicTitle": "21 Guns",
+      "radio": "Rádio ROCK",
+      "startTime": "12:11"
+    },
+    "recorded_at": "2025-12-01T12:12:20.719957+01:00",
+    "raw_valid": true,
+    "song_session_id": "2c8f0daf-e327-4e21-839a-b2921e43f1ec",
+    "duration_ms": 321093,
+    "isrc": "USRE10900679",
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "last_update": "2025-12-01 11:17:20",
+    "song": {
+      "musicAuthor": "The Cranberries",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851b81b7c1663be64a39433eb35",
+      "musicTitle": "Animal Instinct",
+      "radio": "Rádio ROCK",
+      "startTime": "12:16"
+    },
+    "recorded_at": "2025-12-01T12:17:21.495728+01:00",
+    "raw_valid": true,
+    "song_session_id": "727a7143-62b0-4768-8f9d-a7437c090550",
+    "duration_ms": 211066,
+    "isrc": "USIR29900001",
+    "genre": []
+  },
+  {
+    "last_update": "2025-12-01 11:20:20",
+    "song": {
+      "musicAuthor": "Ine Kafe",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851488d72c3998d55463bc8be0f",
+      "musicTitle": "Ked Odchadza Niekto",
+      "radio": "Rádio ROCK",
+      "startTime": "12:20"
+    },
+    "recorded_at": "2025-12-01T12:20:21.719351+01:00",
+    "raw_valid": true,
+    "song_session_id": "684de8ab-86a8-4991-877c-28ded93b387b",
+    "duration_ms": 243720,
+    "isrc": "SKA722500002",
+    "genre": []
+  },
+  {
+    "last_update": "2025-12-01 11:24:22",
+    "song": {
+      "musicAuthor": "Zz Top",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048510fe2ec86a0ec561ef2e2aae1",
+      "musicTitle": "La Grange",
+      "radio": "Rádio ROCK",
+      "startTime": "12:24"
+    },
+    "recorded_at": "2025-12-01T12:24:22.480557+01:00",
+    "raw_valid": true,
+    "song_session_id": "70b849da-0d13-45da-9dc9-70181054ef75",
+    "duration_ms": 230480,
+    "isrc": "USWB10505222",
+    "genre": [
+      "southern rock"
+    ]
+  },
+  {
+    "last_update": "2025-12-01 11:28:22",
+    "song": {
+      "musicAuthor": "Papa Roach",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851985bf5ede2fe4a048ee85f28",
+      "musicTitle": "Last Resort",
+      "radio": "Rádio ROCK",
+      "startTime": "12:27"
+    },
+    "recorded_at": "2025-12-01T12:28:23.145782+01:00",
+    "raw_valid": true,
+    "song_session_id": "ec3b3059-301e-4c70-b268-1a01d2a1938d",
+    "duration_ms": 199906,
+    "isrc": "USDW10021712",
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "last_update": "2025-12-01 11:31:22",
+    "song": {
+      "musicAuthor": "Aerosmith",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851587b26d49596162397b29ec8",
+      "musicTitle": "Crazy",
+      "radio": "Rádio ROCK",
+      "startTime": "12:31"
+    },
+    "recorded_at": "2025-12-01T12:31:23.322203+01:00",
+    "raw_valid": true,
+    "song_session_id": "853dda03-a7eb-46ed-8850-6d55221a988d",
+    "duration_ms": 316826,
+    "isrc": "USIR10000428",
+    "genre": [
+      "classic rock"
+    ]
+  },
+  {
+    "last_update": "2025-12-01 11:36:24",
+    "song": {
+      "musicAuthor": "Linkin Park",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485146e207de66ba06422897f769",
+      "musicTitle": "Bleed It Out",
+      "radio": "Rádio ROCK",
+      "startTime": "12:36"
+    },
+    "recorded_at": "2025-12-01T12:36:25.013201+01:00",
+    "raw_valid": true,
+    "song_session_id": "723c753d-faf2-404c-a687-3e519c3de620",
+    "duration_ms": 164426,
+    "isrc": "USWB10701213",
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "last_update": "2025-12-01 11:39:26",
+    "song": {
+      "musicAuthor": "Tublatanka",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485170fd71ebc67a568023a387cb",
+      "musicTitle": "Šlabikár",
+      "radio": "Rádio ROCK",
+      "startTime": "12:38"
+    },
+    "recorded_at": "2025-12-01T12:39:26.342564+01:00",
+    "raw_valid": true,
+    "song_session_id": "949706df-dfdc-4c1d-8c54-584cc3ef3e72",
+    "duration_ms": 210853,
+    "isrc": "SKA120209201",
+    "genre": []
+  },
+  {
+    "last_update": "2025-12-01 11:43:26",
+    "song": {
+      "musicAuthor": "Ozzy Osbourne",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851962c158ac47845e7051fae4e",
+      "musicTitle": "Dreamer",
+      "radio": "Rádio ROCK",
+      "startTime": "12:42"
+    },
+    "recorded_at": "2025-12-01T12:43:27.507167+01:00",
+    "raw_valid": true,
+    "song_session_id": "a57d4211-3cba-4692-b566-d70620de6554",
+    "duration_ms": 284902,
+    "isrc": "USSM10110213",
+    "genre": [
+      "metal"
+    ]
+  },
+  {
+    "last_update": "2025-12-01 11:47:27",
+    "song": {
+      "musicAuthor": "Manic Street Preachers",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851b5f24b5004d008f05b0cb148",
+      "musicTitle": "Motorcycle Emptiness",
+      "radio": "Rádio ROCK",
+      "startTime": "12:46"
+    },
+    "recorded_at": "2025-12-01T12:47:27.842706+01:00",
+    "raw_valid": true,
+    "song_session_id": "3e81773b-7b14-49dc-9f97-cdb7385f3475",
+    "duration_ms": 305706,
+    "isrc": "GBBBM0202089",
+    "genre": [
+      "britpop"
+    ]
+  },
+  {
+    "last_update": "2025-12-01 11:52:29",
+    "song": {
+      "musicAuthor": "The Beastie Boys",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048519bfd5530395fa1a1b5044f18",
+      "musicTitle": "(You Gotta) Fight For Your Right (To Party)",
+      "radio": "Rádio ROCK",
+      "startTime": "12:51"
+    },
+    "recorded_at": "2025-12-01T12:52:30.302247+01:00",
+    "raw_valid": true,
+    "song_session_id": "080deb43-cec2-4926-95de-029e919a479c",
+    "duration_ms": 210386,
+    "isrc": "USDJ28600007",
+    "genre": [
+      "rap rock"
+    ]
+  },
+  {
+    "last_update": "2025-12-01 11:56:30",
+    "song": {
+      "musicAuthor": "Bullet For My Valentine",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851f467961e3089fd694c893584",
+      "musicTitle": "Your Betrayal",
+      "radio": "Rádio ROCK",
+      "startTime": "12:55"
+    },
+    "recorded_at": "2025-12-01T12:56:30.869849+01:00",
+    "raw_valid": true,
+    "song_session_id": "01c68b0c-1029-4919-8305-5a769f820860",
+    "duration_ms": 291426,
+    "isrc": "USJI11000030",
+    "genre": [
+      "metal"
+    ]
+  },
+  {
+    "last_update": "2025-12-01 12:01:30",
+    "song": {
+      "musicAuthor": "Placebo",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851ac68d5f575b62ee76a235396",
+      "musicTitle": "Every You, Every Me",
+      "radio": "Rádio ROCK",
+      "startTime": "13:00"
+    },
+    "recorded_at": "2025-12-01T13:01:31.221132+01:00",
+    "raw_valid": true,
+    "song_session_id": "f10b09cc-02bf-41e2-9a9b-3fc660161566",
+    "duration_ms": 213800,
+    "isrc": "GBAAA9820460",
+    "genre": [
+      "britpop"
+    ]
+  },
+  {
+    "last_update": "2025-12-01 12:04:30",
+    "song": {
+      "musicAuthor": "Good Charlotte",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851a58ea3c31c1fd13a659a4ef0",
+      "musicTitle": "I Just Wanna Live",
+      "radio": "Rádio ROCK",
+      "startTime": "13:04"
+    },
+    "recorded_at": "2025-12-01T13:04:31.574820+01:00",
+    "raw_valid": true,
+    "song_session_id": "6fc362e0-d24c-4947-ae17-1c89d37d392a",
+    "duration_ms": 166053,
+    "isrc": "USSM10412717",
+    "genre": [
+      "pop punk"
+    ]
+  },
+  {
+    "last_update": "2025-12-01 12:07:31",
+    "song": {
+      "musicAuthor": "Hooters The",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048519280b5fea3cde8e6caeaef00",
+      "musicTitle": "Johnny B.",
+      "radio": "Rádio ROCK",
+      "startTime": "13:06"
+    },
+    "recorded_at": "2025-12-01T13:07:31.782731+01:00",
+    "raw_valid": true,
+    "song_session_id": "1a5b46d5-e97b-4ca5-89a6-e4a5ef6f96ba",
+    "duration_ms": 237466,
+    "isrc": "USSM10017661",
+    "genre": []
+  },
+  {
+    "last_update": "2025-12-01 12:11:32",
+    "song": {
+      "musicAuthor": "Wanastowi Vjecy",
+      "musicCover": "https://static.radia.sk/covers/32/5e454580-fa03-4ca6-89e2-d837eff7ac04.jpg",
+      "musicTitle": "Bedna Od Whiskey",
+      "radio": "Rádio ROCK",
+      "startTime": "13:11"
+    },
+    "recorded_at": "2025-12-01T13:11:32.853235+01:00",
+    "raw_valid": true,
+    "song_session_id": "bfeab821-a7ee-46d6-a35d-b42b48cda913",
+    "duration_ms": 270786,
+    "isrc": "CZA110111029",
+    "genre": []
+  },
+  {
+    "last_update": "2025-12-01 12:17:33",
+    "song": {
+      "musicAuthor": "Mando Diao",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851f18145c7b83a6b0965ccb196",
+      "musicTitle": "Dance With Somebody",
+      "radio": "Rádio ROCK",
+      "startTime": "13:16"
+    },
+    "recorded_at": "2025-12-01T13:17:34.585170+01:00",
+    "raw_valid": true,
+    "song_session_id": "4b38c247-1284-4b08-9f99-9060597e9810",
+    "duration_ms": 317866,
+    "isrc": "SEYBD0800402",
+    "genre": [
+      "swedish pop"
+    ]
+  },
+  {
+    "last_update": "2025-12-01 12:21:34",
+    "song": {
+      "musicAuthor": "R.E.M.",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851a7c7f94cfccd5ab6de233916",
+      "musicTitle": "It`s The End Of The World",
+      "radio": "Rádio ROCK",
+      "startTime": "13:20"
+    },
+    "recorded_at": "2025-12-01T13:21:35.086236+01:00",
+    "raw_valid": true,
+    "song_session_id": "b3aa31d5-41c2-4ad6-93a9-2d818ffe9d37",
+    "duration_ms": 246933,
+    "isrc": "USIR38700037",
+    "genre": [
+      "jangle pop"
+    ]
+  },
+  {
+    "last_update": "2025-12-01 12:29:34",
+    "song": {
+      "musicAuthor": "The Red Hot Chili Peppers",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851f3686323bf737cb7ba3de792",
+      "musicTitle": "Dani California",
+      "radio": "Rádio ROCK",
+      "startTime": "13:28"
+    },
+    "recorded_at": "2025-12-01T13:29:35.589450+01:00",
+    "raw_valid": true,
+    "song_session_id": "da5e9397-00ca-4de8-9e48-70c740be8122",
+    "duration_ms": 246813,
+    "isrc": "USG7D1154604",
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "last_update": "2025-12-01 12:34:35",
+    "song": {
+      "musicAuthor": "Journey",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851c5653f9038e42efad2f8a266",
+      "musicTitle": "Don't Stop Believin'",
+      "radio": "Rádio ROCK",
+      "startTime": "13:33"
+    },
+    "recorded_at": "2025-12-01T13:34:35.969909+01:00",
+    "raw_valid": true,
+    "song_session_id": "5f3191c0-f9c8-4f9d-95c1-4065c40086b9",
+    "duration_ms": 249600,
+    "isrc": "USSM18100116",
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "last_update": "2025-12-01 12:39:07",
+    "song": {
+      "musicAuthor": "Iné Kafe",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851a36a083c5dec894348b99b3c",
+      "musicTitle": "Ráno",
+      "radio": "Rádio ROCK",
+      "startTime": "13:37"
+    },
+    "recorded_at": "2025-12-01T13:39:07.720771+01:00",
+    "raw_valid": true,
+    "song_session_id": "a05c2016-f4d1-4507-9628-b593d351bea2",
+    "duration_ms": 237800,
+    "isrc": "SKA880000304",
+    "genre": []
+  },
+  {
+    "last_update": "2025-12-01 12:42:08",
+    "song": {
+      "musicAuthor": "Billy Idol",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851de3a001606041808a9217c40",
+      "musicTitle": "Dancing With Myself",
+      "radio": "Rádio ROCK",
+      "startTime": "13:41"
+    },
+    "recorded_at": "2025-12-01T13:42:08.569958+01:00",
+    "raw_valid": true,
+    "song_session_id": "89c6b8ec-faf0-4081-897b-ad610be09da1",
+    "duration_ms": 359734,
+    "isrc": "GBAYK0200235",
+    "genre": []
+  },
+  {
+    "last_update": "2025-12-01 12:47:09",
+    "song": {
+      "musicAuthor": "Scorpions",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851d81745a4bbb5e8b169f9f13b",
+      "musicTitle": "You And I",
+      "radio": "Rádio ROCK",
+      "startTime": "13:46"
+    },
+    "recorded_at": "2025-12-01T13:47:09.450662+01:00",
+    "raw_valid": true,
+    "song_session_id": "96b4d295-e0af-4047-9f8f-e72388e25969",
+    "duration_ms": 319346,
+    "isrc": "DEA810901187",
+    "genre": [
+      "hard rock"
+    ]
+  }
+]

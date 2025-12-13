@@ -1,0 +1,340 @@
+[
+  {
+    "song": {
+      "play_date": "2025-11-09",
+      "play_time": "14:01",
+      "artist": [
+        "Karen Aoki",
+        "Native"
+      ],
+      "title": "Smooth Operator"
+    },
+    "recorded_at": "2025-11-09T14:04:43.757492+01:00",
+    "raw_valid": true,
+    "song_session_id": "aacff3be-c662-432e-a297-548a92372aa5",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-11-09",
+      "play_time": "14:05",
+      "artist": [
+        "Gerardo Frisina"
+      ],
+      "title": "On Again"
+    },
+    "recorded_at": "2025-11-09T14:09:44.435738+01:00",
+    "raw_valid": true,
+    "song_session_id": "e3e02b2d-da06-4c33-91b6-a2de1861b697",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-11-09",
+      "play_time": "14:11",
+      "artist": [
+        "Jon Lord"
+      ],
+      "title": "Deep Purple - Unsquare Dance (Dave Brubeck) Live"
+    },
+    "recorded_at": "2025-11-09T14:14:45.140231+01:00",
+    "raw_valid": true,
+    "song_session_id": "7ad922c7-0cd5-42d1-b94b-dce36ddb88dd",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-11-09",
+      "play_time": "14:17",
+      "artist": [
+        "Sole"
+      ],
+      "title": "Alfonsina Y El Mar"
+    },
+    "recorded_at": "2025-11-09T14:19:45.863911+01:00",
+    "raw_valid": true,
+    "song_session_id": "069a3fd7-9f91-4b59-aad2-187855ca7672",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-11-09",
+      "play_time": "14:21",
+      "artist": [
+        "Brad Mehldau"
+      ],
+      "title": "I Am The Walrus"
+    },
+    "recorded_at": "2025-11-09T14:24:46.545020+01:00",
+    "raw_valid": true,
+    "song_session_id": "8d4b5400-eedd-47f0-b8f4-566a3ff1888b",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-11-09",
+      "play_time": "14:26",
+      "artist": [
+        "Wes Montgomery"
+      ],
+      "title": "Nica's Dream"
+    },
+    "recorded_at": "2025-11-09T14:29:47.230610+01:00",
+    "raw_valid": true,
+    "song_session_id": "511e580d-5729-4719-9294-0fdb63a77181",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-11-09",
+      "play_time": "14:33",
+      "artist": [
+        "Jestofunk"
+      ],
+      "title": "Theme From Jfk"
+    },
+    "recorded_at": "2025-11-09T14:34:47.950249+01:00",
+    "raw_valid": true,
+    "song_session_id": "d81d7e93-c1fd-42b7-b7e4-299a5ceaf244",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-11-09",
+      "play_time": "14:39",
+      "artist": [
+        "Bossa Nostra",
+        "Vicki Anderson"
+      ],
+      "title": "Groupin'"
+    },
+    "recorded_at": "2025-11-09T14:44:49.318653+01:00",
+    "raw_valid": true,
+    "song_session_id": "ac9d4c32-7837-4137-a46e-4729feebab60",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-11-09",
+      "play_time": "14:45",
+      "artist": [
+        "All Time Jazz Trio",
+        "Lucia Lužinská"
+      ],
+      "title": "It Dont Mean A Thing"
+    },
+    "recorded_at": "2025-11-09T14:49:50.030585+01:00",
+    "raw_valid": true,
+    "song_session_id": "8646681a-c682-4c8a-af32-faf242f2c67b",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-11-09",
+      "play_time": "14:49",
+      "artist": [
+        "Gary Peacock",
+        "Art L",
+        "e",
+        "Eliot Zigmund"
+      ],
+      "title": "So Green"
+    },
+    "recorded_at": "2025-11-09T14:54:50.713611+01:00",
+    "raw_valid": true,
+    "song_session_id": "d0b13364-6849-4f47-881b-f61fe0982c0f",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-11-09",
+      "play_time": "14:58",
+      "artist": [
+        "S",
+        "y Nelson"
+      ],
+      "title": "Let There Be Drums"
+    },
+    "recorded_at": "2025-11-09T14:59:51.395832+01:00",
+    "raw_valid": true,
+    "song_session_id": "d24ff62b-1352-4974-be2a-da88489a53f0",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-11-09",
+      "play_time": "15:01",
+      "artist": [
+        "Belladonna"
+      ],
+      "title": "Samba De Ruerta"
+    },
+    "recorded_at": "2025-11-09T15:04:52.084858+01:00",
+    "raw_valid": true,
+    "song_session_id": "82cfba0d-2008-43a4-81c2-5c76d88268a8",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-11-09",
+      "play_time": "15:05",
+      "artist": [
+        "Chet Baker"
+      ],
+      "title": "But Not For Me"
+    },
+    "recorded_at": "2025-11-09T15:09:52.765969+01:00",
+    "raw_valid": true,
+    "song_session_id": "251cd6c7-4586-4c62-ac46-0a20f7a97707",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-11-09",
+      "play_time": "15:12",
+      "artist": [
+        "Jules Renauld",
+        "Von Mondo"
+      ],
+      "title": "Soul Train"
+    },
+    "recorded_at": "2025-11-09T15:14:53.450726+01:00",
+    "raw_valid": true,
+    "song_session_id": "0e512eec-d351-4097-8d10-1d14a76c8f62",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-11-09",
+      "play_time": "15:16",
+      "artist": [
+        "808 State"
+      ],
+      "title": "Black Morpheus"
+    },
+    "recorded_at": "2025-11-09T15:19:54.127017+01:00",
+    "raw_valid": true,
+    "song_session_id": "694e3010-5f43-4e5d-aa6a-0c4cd13f1447",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-11-09",
+      "play_time": "15:20",
+      "artist": [
+        "Marquis Hill"
+      ],
+      "title": "I Remember Summer"
+    },
+    "recorded_at": "2025-11-09T15:24:54.824349+01:00",
+    "raw_valid": true,
+    "song_session_id": "6fa779c4-28b8-43d4-9fa7-54c354684a86",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-11-09",
+      "play_time": "15:28",
+      "artist": [
+        "Madeleine Peyroux"
+      ],
+      "title": "Don't Wait Too Long"
+    },
+    "recorded_at": "2025-11-09T15:29:55.583635+01:00",
+    "raw_valid": true,
+    "song_session_id": "5a38fe1e-9d9c-4365-af78-03c967f3996f",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-11-09",
+      "play_time": "15:34",
+      "artist": [
+        "Soulstance"
+      ],
+      "title": "Jazz 2 More - Soulsamba"
+    },
+    "recorded_at": "2025-11-09T15:34:56.265318+01:00",
+    "raw_valid": true,
+    "song_session_id": "2fdf38f5-ca8a-456d-aee8-18ce78035408",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-11-09",
+      "play_time": "15:41",
+      "artist": [
+        "Roberto Roena (Nicola Conte Remix)"
+      ],
+      "title": "Take Five"
+    },
+    "recorded_at": "2025-11-09T15:44:57.634240+01:00",
+    "raw_valid": true,
+    "song_session_id": "e1684269-2b97-48c8-a064-747e70f1a648",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-11-09",
+      "play_time": "15:46",
+      "artist": [
+        "Ahmad Jamal Trio"
+      ],
+      "title": "What's New (Live At The Pershing, Chicago, 1958)"
+    },
+    "recorded_at": "2025-11-09T15:49:58.315801+01:00",
+    "raw_valid": true,
+    "song_session_id": "67b3fc40-1ff9-4293-9cdc-7f9f19bbed78",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-11-09",
+      "play_time": "15:53",
+      "artist": [
+        "Slaven Kolak"
+      ],
+      "title": "All Shades Of Blue"
+    },
+    "recorded_at": "2025-11-09T15:54:58.993251+01:00",
+    "raw_valid": true,
+    "song_session_id": "00c0e4df-dce5-4bfc-9184-319a3795e020",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-11-09",
+      "play_time": "15:57",
+      "artist": [
+        "Aaron Neville"
+      ],
+      "title": "Summertime"
+    },
+    "recorded_at": "2025-11-09T15:59:59.679049+01:00",
+    "raw_valid": true,
+    "song_session_id": "523f231e-50dc-447d-a6d4-bf873a42d3eb",
+    "duration_ms": null,
+    "genre": []
+  }
+]

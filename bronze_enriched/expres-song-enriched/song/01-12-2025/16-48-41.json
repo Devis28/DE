@@ -1,0 +1,379 @@
+[
+  {
+    "song": "Na Vianoce Domov",
+    "artists": [
+      "Alan Murin",
+      "Radio Expres"
+    ],
+    "isrc": null,
+    "start_time": "2025-12-01 15:51:39",
+    "radio": "expres",
+    "recorded_at": "2025-12-01T15:51:57.145909+01:00",
+    "raw_valid": true,
+    "song_session_id": "64af9aea-55af-4256-8a05-e3c0c60f65fd"
+  },
+  {
+    "song": "A Thousand Miles",
+    "artists": [
+      "Vanessa Carlton"
+    ],
+    "isrc": "USIR10210955",
+    "start_time": "2025-12-01 15:55:41",
+    "radio": "expres",
+    "recorded_at": "2025-12-01T15:55:56.971964+01:00",
+    "raw_valid": true,
+    "song_session_id": "a161072f-4397-4799-83bf-f750dc85ed70",
+    "duration_ms": 237413,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Undressed",
+    "artists": [
+      "Sombr"
+    ],
+    "isrc": "USWB12500737",
+    "start_time": "2025-12-01 16:09:14",
+    "radio": "expres",
+    "recorded_at": "2025-12-01T16:09:34.649638+01:00",
+    "raw_valid": true,
+    "song_session_id": "68b5a245-145c-4454-857d-22d4e552cdb5",
+    "duration_ms": 182088,
+    "genre": [
+      "indie pop"
+    ]
+  },
+  {
+    "song": "Kometa (Pre Gumpa)",
+    "artists": [
+      "Desmod",
+      "Majself"
+    ],
+    "isrc": null,
+    "start_time": "2025-12-01 16:12:16",
+    "radio": "expres",
+    "recorded_at": "2025-12-01T16:12:38.094762+01:00",
+    "raw_valid": true,
+    "song_session_id": "1b3d060c-e971-45a9-8b5e-28f059920125"
+  },
+  {
+    "song": "Head Above Water",
+    "artists": [
+      "Twocolors",
+      "Safri Duo",
+      "Chris De Sarandy"
+    ],
+    "isrc": "DEUM72503698",
+    "start_time": "2025-12-01 16:16:05",
+    "radio": "expres",
+    "recorded_at": "2025-12-01T16:16:17.081386+01:00",
+    "raw_valid": true,
+    "song_session_id": "61b38a47-4bfc-4563-b604-2bbf8cad9224",
+    "duration_ms": 174550,
+    "genre": []
+  },
+  {
+    "song": "Najkrajsie Vianoce",
+    "artists": [
+      "Imt Smile"
+    ],
+    "isrc": "SKA011000112",
+    "start_time": "2025-12-01 16:22:01",
+    "radio": "expres",
+    "recorded_at": "2025-12-01T16:22:17.341895+01:00",
+    "raw_valid": true,
+    "song_session_id": "ab41fce9-5a96-4e60-a395-318c5988770c",
+    "duration_ms": 180932,
+    "genre": []
+  },
+  {
+    "song": "By Your Side (In My Mind)",
+    "artists": [
+      "Leony"
+    ],
+    "isrc": "DEN062400804",
+    "start_time": "2025-12-01 16:25:03",
+    "radio": "expres",
+    "recorded_at": "2025-12-01T16:25:20.258144+01:00",
+    "raw_valid": true,
+    "song_session_id": "204a5264-1778-4887-bc51-c0f43b51850d",
+    "duration_ms": 177148,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Million Good Reasons",
+    "artists": [
+      "Robin Schulz",
+      "Fast Boy"
+    ],
+    "isrc": "DEA622404738",
+    "start_time": "2025-12-01 16:35:31",
+    "radio": "expres",
+    "recorded_at": "2025-12-01T16:35:44.260586+01:00",
+    "raw_valid": true,
+    "song_session_id": "778b9fbf-b0eb-4fa3-a504-35cf15d7afcd",
+    "duration_ms": 157130,
+    "genre": [
+      "tropical house"
+    ]
+  },
+  {
+    "song": "Somebody To Love",
+    "artists": [
+      "George Michael",
+      "Queen"
+    ],
+    "isrc": "GBCKZ9300002",
+    "start_time": "2025-12-01 16:38:02",
+    "radio": "expres",
+    "recorded_at": "2025-12-01T16:38:22.008950+01:00",
+    "raw_valid": true,
+    "song_session_id": "5d73f1d0-ad11-494f-a211-9e1cccd5e566",
+    "duration_ms": 318866,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Overdrive",
+    "artists": [
+      "Ofenbach",
+      "Norma Jean Martine"
+    ],
+    "isrc": "FR9W12347222",
+    "start_time": "2025-12-01 16:43:11",
+    "radio": "expres",
+    "recorded_at": "2025-12-01T16:43:21.680090+01:00",
+    "raw_valid": true,
+    "song_session_id": "cea44cb0-1a35-49c9-bc1d-16fb45180ec5",
+    "duration_ms": 155905,
+    "genre": []
+  },
+  {
+    "song": "Maniac",
+    "artists": [
+      "Michael Sembello"
+    ],
+    "isrc": "USPR38302462",
+    "start_time": "2025-12-01 16:45:58",
+    "radio": "expres",
+    "recorded_at": "2025-12-01T16:46:24.672522+01:00",
+    "raw_valid": true,
+    "song_session_id": "b3b9ba24-9c22-41b0-af3a-ecf708ae5524",
+    "duration_ms": 246000,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Zoo",
+    "artists": [
+      "Shakira"
+    ],
+    "isrc": "USWD12538420",
+    "start_time": "2025-12-01 16:49:44",
+    "radio": "expres",
+    "recorded_at": "2025-12-01T16:50:03.262205+01:00",
+    "raw_valid": true,
+    "song_session_id": "6cb45827-aa39-413a-aca8-a2806d225e0d",
+    "duration_ms": 190822,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Over The Rainbow",
+    "artists": [
+      "Israel"
+    ],
+    "isrc": "USMAC0100119",
+    "start_time": "2025-12-01 16:53:56",
+    "radio": "expres",
+    "recorded_at": "2025-12-01T16:54:07.085534+01:00",
+    "raw_valid": true,
+    "song_session_id": "cde0fc30-dd4f-47e3-a414-fee01d638f41",
+    "duration_ms": 211933,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Houdini",
+    "artists": [
+      "Dua Lipa"
+    ],
+    "isrc": "GBAHT2301246",
+    "start_time": "2025-12-01 16:57:10",
+    "radio": "expres",
+    "recorded_at": "2025-12-01T16:57:25.459075+01:00",
+    "raw_valid": true,
+    "song_session_id": "4931fb19-ef18-4e82-a392-c5c317d89015",
+    "duration_ms": 185917,
+    "genre": [
+      "electronic"
+    ]
+  },
+  {
+    "song": "Pride",
+    "artists": [
+      "Felix Jaehn",
+      "Jhart"
+    ],
+    "isrc": "DEUM72503423",
+    "start_time": "2025-12-01 17:12:55",
+    "radio": "expres",
+    "recorded_at": "2025-12-01T17:13:20.178600+01:00",
+    "raw_valid": true,
+    "song_session_id": "dde6ffa2-13ff-4d97-916e-f1af6ffb3ada",
+    "duration_ms": 158150,
+    "genre": [
+      "tropical house"
+    ]
+  },
+  {
+    "song": "I Follow Rivers (The Magician Remix)",
+    "artists": [
+      "Lykke Li"
+    ],
+    "isrc": "SEVUM1100103",
+    "start_time": "2025-12-01 17:15:32",
+    "radio": "expres",
+    "recorded_at": "2025-12-01T17:16:00.065700+01:00",
+    "raw_valid": true,
+    "song_session_id": "41a72771-1b0b-427b-9839-95fbb478980c",
+    "duration_ms": 279635,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Golden",
+    "artists": [
+      "Kpop Demon Hunters"
+    ],
+    "isrc": "QZ8BZ2513510",
+    "start_time": "2025-12-01 17:19:16",
+    "radio": "expres",
+    "recorded_at": "2025-12-01T17:19:33.468721+01:00",
+    "raw_valid": true,
+    "song_session_id": "3dade691-d113-42bd-986e-651bd7aadd29",
+    "duration_ms": 194607,
+    "genre": [
+      "korean"
+    ]
+  },
+  {
+    "song": "Beautiful People",
+    "artists": [
+      "David Guetta",
+      "Sia"
+    ],
+    "isrc": "UKWLG2500016",
+    "start_time": "2025-12-01 17:22:06",
+    "radio": "expres",
+    "recorded_at": "2025-12-01T17:22:40.160523+01:00",
+    "raw_valid": true,
+    "song_session_id": "282d9a9b-d498-4b8e-a330-8d509f0400ff",
+    "duration_ms": 187086,
+    "genre": [
+      "house"
+    ]
+  },
+  {
+    "song": "Happy Xmas (War Is Over)",
+    "artists": [
+      "John Lennon"
+    ],
+    "isrc": "GBAYE1000862",
+    "start_time": "2025-12-01 17:25:13",
+    "radio": "expres",
+    "recorded_at": "2025-12-01T17:25:33.086981+01:00",
+    "raw_valid": true,
+    "song_session_id": "49e98ff6-7cf3-432f-bfe1-379e4b00b867",
+    "duration_ms": 212680,
+    "genre": [
+      "christmas"
+    ]
+  },
+  {
+    "song": "The Fate Of Ophelia",
+    "artists": [
+      "Taylor Swift"
+    ],
+    "isrc": "USUG12506436",
+    "start_time": "2025-12-01 17:33:34",
+    "radio": "expres",
+    "recorded_at": "2025-12-01T17:34:00.472324+01:00",
+    "raw_valid": true,
+    "song_session_id": "21d1668e-cbc0-4230-9749-f78e8e931e10",
+    "duration_ms": 226073,
+    "genre": [
+      "electronic"
+    ]
+  },
+  {
+    "song": "Stay",
+    "artists": [
+      "Rihanna"
+    ],
+    "isrc": "USUM71214758",
+    "start_time": "2025-12-01 17:37:19",
+    "radio": "expres",
+    "recorded_at": "2025-12-01T17:37:33.757801+01:00",
+    "raw_valid": true,
+    "song_session_id": "caba6f1e-2bde-4af8-8677-7d3ca62622b9",
+    "duration_ms": 240706,
+    "genre": [
+      "electronic"
+    ]
+  },
+  {
+    "song": "Simple Life",
+    "artists": [
+      "Leony"
+    ],
+    "isrc": "DEN062400058",
+    "start_time": "2025-12-01 17:41:21",
+    "radio": "expres",
+    "recorded_at": "2025-12-01T17:41:32.557126+01:00",
+    "raw_valid": true,
+    "song_session_id": "8bfbc71c-f622-4345-b304-dd7693e379c0",
+    "duration_ms": 153100,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Reklama Na Ticho",
+    "artists": [
+      "Team"
+    ],
+    "isrc": "SKA128804502",
+    "start_time": "2025-12-01 17:44:05",
+    "radio": "expres",
+    "recorded_at": "2025-12-01T17:44:15.318703+01:00",
+    "raw_valid": true,
+    "song_session_id": "be4e22a4-0e5f-4df5-9c13-b6ed83cc1823",
+    "duration_ms": 222426,
+    "genre": []
+  },
+  {
+    "song": "Poker Face",
+    "artists": [
+      "Lady Gaga"
+    ],
+    "isrc": "USUM70824409",
+    "start_time": "2025-12-01 17:47:39",
+    "radio": "expres",
+    "recorded_at": "2025-12-01T17:48:00.748750+01:00",
+    "raw_valid": true,
+    "song_session_id": "8d3e0d5e-b1d0-4f3c-b889-285615a21ac7",
+    "duration_ms": 237200,
+    "genre": [
+      "pop"
+    ]
+  }
+]

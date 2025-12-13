@@ -1,0 +1,335 @@
+[
+  {
+    "song": {
+      "play_date": "2025-11-05",
+      "play_time": "01:59",
+      "artist": [
+        "Groove Brothers"
+      ],
+      "title": "Blues For Elvin"
+    },
+    "recorded_at": "2025-11-05T02:02:56.220901+01:00",
+    "raw_valid": true,
+    "song_session_id": "a32b0fa5-0552-45a0-93df-9fb33688734c",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-11-05",
+      "play_time": "02:04",
+      "artist": [
+        "Soulstance"
+      ],
+      "title": "Jazz 2 More - After The Rain"
+    },
+    "recorded_at": "2025-11-05T02:07:56.895532+01:00",
+    "raw_valid": true,
+    "song_session_id": "0699cc6a-60d7-4bd8-bb7f-ecb9c6d90a61",
+    "duration_ms": 360014,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-11-05",
+      "play_time": "02:09",
+      "artist": [
+        "Bill Evans"
+      ],
+      "title": "Night And Day"
+    },
+    "recorded_at": "2025-11-05T02:12:57.551852+01:00",
+    "raw_valid": true,
+    "song_session_id": "2beda280-eb5b-486a-978d-774f24669a97",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-11-05",
+      "play_time": "02:20",
+      "artist": [
+        "Soulstance"
+      ],
+      "title": "Inspired By Antonio Carlos"
+    },
+    "recorded_at": "2025-11-05T02:22:58.888340+01:00",
+    "raw_valid": true,
+    "song_session_id": "ae08af54-78f9-44db-8a65-2ffd3e8458a7",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-11-05",
+      "play_time": "02:26",
+      "artist": [
+        "Etta James"
+      ],
+      "title": "I Just Want To Make Love To You"
+    },
+    "recorded_at": "2025-11-05T02:27:29.483167+01:00",
+    "raw_valid": true,
+    "song_session_id": "f5469db6-4c54-43a6-b346-31c1496c044c",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-11-05",
+      "play_time": "02:29",
+      "artist": [
+        "Astrud Gilberto"
+      ],
+      "title": "Tu Mi Delirio"
+    },
+    "recorded_at": "2025-11-05T02:32:30.157951+01:00",
+    "raw_valid": true,
+    "song_session_id": "af20b44e-52d5-402d-ad72-a7dd0f021f60",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-11-05",
+      "play_time": "02:36",
+      "artist": [
+        "Chet Baker"
+      ],
+      "title": "Let's Get Lost"
+    },
+    "recorded_at": "2025-11-05T02:37:30.822659+01:00",
+    "raw_valid": true,
+    "song_session_id": "64369555-7048-4f90-b258-185621f216ff",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-11-05",
+      "play_time": "02:40",
+      "artist": [
+        "Opa Tsupa"
+      ],
+      "title": "Jazz Manouche"
+    },
+    "recorded_at": "2025-11-05T02:42:31.494345+01:00",
+    "raw_valid": true,
+    "song_session_id": "06b669ef-4010-4931-9c46-0b159b3b1d13",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-11-05",
+      "play_time": "02:45",
+      "artist": [
+        "Rubén González"
+      ],
+      "title": "La Engańadora"
+    },
+    "recorded_at": "2025-11-05T02:47:32.182897+01:00",
+    "raw_valid": true,
+    "song_session_id": "a6de5f9a-58ea-4599-b4e7-be59fd6730c0",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-11-05",
+      "play_time": "02:50",
+      "artist": [
+        "Oakwood Station"
+      ],
+      "title": "Just Another Walk In The Park"
+    },
+    "recorded_at": "2025-11-05T02:52:32.854213+01:00",
+    "raw_valid": true,
+    "song_session_id": "f36758e2-fb61-4ecf-938b-c9719c23ea60",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-11-05",
+      "play_time": "02:55",
+      "artist": [
+        "Mop Mop"
+      ],
+      "title": "Hot Pot"
+    },
+    "recorded_at": "2025-11-05T02:57:33.531248+01:00",
+    "raw_valid": true,
+    "song_session_id": "50578e37-e287-41b8-952c-c12d0975807c",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-11-05",
+      "play_time": "03:02",
+      "artist": [
+        "Toots Thielemans"
+      ],
+      "title": "Bluesette"
+    },
+    "recorded_at": "2025-11-05T03:02:34.251435+01:00",
+    "raw_valid": true,
+    "song_session_id": "0c5412d9-0890-4027-831a-173c6795de77",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-11-05",
+      "play_time": "03:04",
+      "artist": [
+        "Vince Guaraldi Trio"
+      ],
+      "title": "Cast Your Fate To The Wind"
+    },
+    "recorded_at": "2025-11-05T03:07:34.916858+01:00",
+    "raw_valid": true,
+    "song_session_id": "da50addf-aa21-47cb-9fed-09b740b4608b",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-11-05",
+      "play_time": "03:11",
+      "artist": [
+        "Jeff Denson Trio"
+      ],
+      "title": "Daily Jubilee Of Dancing Herbie D."
+    },
+    "recorded_at": "2025-11-05T03:12:35.630648+01:00",
+    "raw_valid": true,
+    "song_session_id": "fa876c9d-76c1-4ff4-a902-fe5134910e86",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-11-05",
+      "play_time": "03:16",
+      "artist": [
+        "Etta James"
+      ],
+      "title": "At Last"
+    },
+    "recorded_at": "2025-11-05T03:17:36.328938+01:00",
+    "raw_valid": true,
+    "song_session_id": "62f92910-12aa-49a2-8269-7acf1234936e",
+    "duration_ms": null,
+    "genre": [
+      "soul"
+    ]
+  },
+  {
+    "song": {
+      "play_date": "2025-11-05",
+      "play_time": "03:19",
+      "artist": [
+        "Erroll Garner"
+      ],
+      "title": "Exactly Like You"
+    },
+    "recorded_at": "2025-11-05T03:22:37.018591+01:00",
+    "raw_valid": true,
+    "song_session_id": "34abad24-00d2-4f93-8822-d7c93227e56c",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-11-05",
+      "play_time": "03:27",
+      "artist": [
+        "Soulstance"
+      ],
+      "title": "Caribe"
+    },
+    "recorded_at": "2025-11-05T03:27:37.686960+01:00",
+    "raw_valid": true,
+    "song_session_id": "e9f08b79-465d-4c40-95d0-3579db8101c9",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-11-05",
+      "play_time": "03:36",
+      "artist": [
+        "Waldeck"
+      ],
+      "title": "Why Did We Fire The Gun?"
+    },
+    "recorded_at": "2025-11-05T03:37:39.045103+01:00",
+    "raw_valid": true,
+    "song_session_id": "050289cb-6a5c-4443-bfab-f7ac3f175bb5",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-11-05",
+      "play_time": "03:41",
+      "artist": [
+        "Nina Simone"
+      ],
+      "title": "This Year's Kisses"
+    },
+    "recorded_at": "2025-11-05T03:42:39.729033+01:00",
+    "raw_valid": true,
+    "song_session_id": "d180db1d-8c6e-45dc-a2d7-3e6fa0ad08a0",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-11-05",
+      "play_time": "03:44",
+      "artist": [
+        "Monophonics"
+      ],
+      "title": "The Shape Of My Teardrops"
+    },
+    "recorded_at": "2025-11-05T03:47:40.396329+01:00",
+    "raw_valid": true,
+    "song_session_id": "6abdd6c1-5332-4969-bd03-0dfff3034d7c",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-11-05",
+      "play_time": "03:49",
+      "artist": [
+        "Badbadnotgood"
+      ],
+      "title": "Boogie No. 69"
+    },
+    "recorded_at": "2025-11-05T03:52:41.127272+01:00",
+    "raw_valid": true,
+    "song_session_id": "077fd037-46a9-403f-97ca-12c6c4d2c3d9",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-11-05",
+      "play_time": "03:55",
+      "artist": [
+        "Stan Getz",
+        "Joao Gilberto"
+      ],
+      "title": "So Danço Samba (Jazz Samba)"
+    },
+    "recorded_at": "2025-11-05T03:57:41.796121+01:00",
+    "raw_valid": true,
+    "song_session_id": "2f5ba323-cde9-4571-957a-bbd0dc535f98",
+    "duration_ms": null,
+    "genre": []
+  }
+]

@@ -1,0 +1,307 @@
+[
+  {
+    "song": {
+      "play_date": "2025-11-08",
+      "play_time": "00:04",
+      "artist": [
+        "Charlie Parker"
+      ],
+      "title": "Now's The Time"
+    },
+    "recorded_at": "2025-11-08T00:05:23.456851+01:00",
+    "raw_valid": true,
+    "song_session_id": "c68e1849-4938-4090-9ce0-030b9b545c73",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-11-08",
+      "play_time": "00:06",
+      "artist": [
+        "Mattia Muller"
+      ],
+      "title": "Fused"
+    },
+    "recorded_at": "2025-11-08T00:10:24.134604+01:00",
+    "raw_valid": true,
+    "song_session_id": "44bda5ba-515f-48fb-b418-f45e60a1a03e",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-11-08",
+      "play_time": "00:12",
+      "artist": [
+        "Deep Xcape"
+      ],
+      "title": "House According To Jazz"
+    },
+    "recorded_at": "2025-11-08T00:15:24.821721+01:00",
+    "raw_valid": true,
+    "song_session_id": "7678efe4-7f02-4813-bf72-44681856e2f9",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-11-08",
+      "play_time": "00:22",
+      "artist": [
+        "Denis Gerhardt"
+      ],
+      "title": "Deep Inside"
+    },
+    "recorded_at": "2025-11-08T00:25:26.208925+01:00",
+    "raw_valid": true,
+    "song_session_id": "ca6cfa26-b230-42e3-b90d-a75733906246",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-11-08",
+      "play_time": "00:28",
+      "artist": [
+        "Herbie Hancock"
+      ],
+      "title": "Palm Grease"
+    },
+    "recorded_at": "2025-11-08T00:30:26.875964+01:00",
+    "raw_valid": true,
+    "song_session_id": "c4892ea1-df1c-499f-b3d1-dbad446e196a",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-11-08",
+      "play_time": "00:38",
+      "artist": [
+        "Ľuboš Šrámek"
+      ],
+      "title": "Hu Man"
+    },
+    "recorded_at": "2025-11-08T00:40:28.304191+01:00",
+    "raw_valid": true,
+    "song_session_id": "a5d97502-5c34-4247-92d8-0a3d566f8307",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-11-08",
+      "play_time": "00:47",
+      "artist": [
+        "Count Basie"
+      ],
+      "title": "One O'clock Jump"
+    },
+    "recorded_at": "2025-11-08T00:50:29.745375+01:00",
+    "raw_valid": true,
+    "song_session_id": "af6188ec-1314-46e4-8996-b56cc1721046",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-11-08",
+      "play_time": "00:54",
+      "artist": [
+        "Thelonious Monk",
+        "Sonny Rollins",
+        "Ernie Henry"
+      ],
+      "title": "Pannonica"
+    },
+    "recorded_at": "2025-11-08T00:55:30.432192+01:00",
+    "raw_valid": true,
+    "song_session_id": "1ddbfa9e-5a7c-4547-8ebf-29a4b51c2f5d",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-11-08",
+      "play_time": "01:04",
+      "artist": [
+        "Biréli Lagrène",
+        "Jaco Pastorius"
+      ],
+      "title": "The Chicken"
+    },
+    "recorded_at": "2025-11-08T01:05:31.847048+01:00",
+    "raw_valid": true,
+    "song_session_id": "3c23bb49-4e38-420d-9759-b421b0d53039",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-11-08",
+      "play_time": "01:09",
+      "artist": [
+        "Michalidesová Sisa"
+      ],
+      "title": "Poštár"
+    },
+    "recorded_at": "2025-11-08T01:10:32.528503+01:00",
+    "raw_valid": true,
+    "song_session_id": "c052a50f-9a6d-4719-8b65-3526c26b8a16",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-11-08",
+      "play_time": "01:12",
+      "artist": [
+        "Charles Mingus"
+      ],
+      "title": "Jelly Roll"
+    },
+    "recorded_at": "2025-11-08T01:15:33.220615+01:00",
+    "raw_valid": true,
+    "song_session_id": "d045c058-f882-44bd-ab83-c343fde1a3bc",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-11-08",
+      "play_time": "01:18",
+      "artist": [
+        "Nikolaj Nikitin",
+        "Lubos Sramek Altar Quartets"
+      ],
+      "title": "November"
+    },
+    "recorded_at": "2025-11-08T01:20:33.960109+01:00",
+    "raw_valid": true,
+    "song_session_id": "a7501cb0-66c3-483f-8e16-f1b29aef12c5",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-11-08",
+      "play_time": "01:24",
+      "artist": [
+        "Art Tatum"
+      ],
+      "title": "Tea For Two"
+    },
+    "recorded_at": "2025-11-08T01:25:34.642036+01:00",
+    "raw_valid": true,
+    "song_session_id": "398e1ae1-98ea-4200-bb6f-3f55fb54cfd9",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-11-08",
+      "play_time": "01:27",
+      "artist": [
+        "Nikolaj Nikitin"
+      ],
+      "title": "Deeper Shit Tragedy (Ja Nebudem Dobry)"
+    },
+    "recorded_at": "2025-11-08T01:30:35.337048+01:00",
+    "raw_valid": true,
+    "song_session_id": "5455f776-b8a3-44d5-8eeb-fa2546faa187",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-11-08",
+      "play_time": "01:30",
+      "artist": [
+        "Eric Dolphy"
+      ],
+      "title": "Out To Lunch"
+    },
+    "recorded_at": "2025-11-08T01:35:36.034046+01:00",
+    "raw_valid": true,
+    "song_session_id": "c33826e0-6f94-4105-a4aa-9be334af654f",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-11-08",
+      "play_time": "01:37",
+      "artist": [
+        "Sole"
+      ],
+      "title": "Devoiko Mari Hubava"
+    },
+    "recorded_at": "2025-11-08T01:40:36.712349+01:00",
+    "raw_valid": true,
+    "song_session_id": "202f025e-2377-49f1-aa59-2b7d408ec60e",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-11-08",
+      "play_time": "01:42",
+      "artist": [
+        "Bill Evans Trio"
+      ],
+      "title": "Detour Ahead"
+    },
+    "recorded_at": "2025-11-08T01:45:37.626019+01:00",
+    "raw_valid": true,
+    "song_session_id": "bebfb418-ca4d-4d8a-a69e-89ae6e7359c5",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-11-08",
+      "play_time": "01:50",
+      "artist": [
+        "Mirka Abelova"
+      ],
+      "title": "Po Dvoch Rokoch Ku Kaderníčke"
+    },
+    "recorded_at": "2025-11-08T01:50:38.291879+01:00",
+    "raw_valid": true,
+    "song_session_id": "fdfc0207-e5ec-406c-8a34-3ad81b3071af",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-11-08",
+      "play_time": "01:53",
+      "artist": [
+        "Oscar Peterson",
+        "Louis Armstrong"
+      ],
+      "title": "That Old Feeling"
+    },
+    "recorded_at": "2025-11-08T01:55:38.971568+01:00",
+    "raw_valid": true,
+    "song_session_id": "a3e94740-5707-4225-bb14-e21c9a19eeb5",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-11-08",
+      "play_time": "01:55",
+      "artist": [
+        "Libertatem Ensemble"
+      ],
+      "title": "Hiawatha"
+    },
+    "recorded_at": "2025-11-08T02:00:39.664543+01:00",
+    "raw_valid": true,
+    "song_session_id": "0503c742-ff30-4ffd-ba34-d2f8228e742d",
+    "duration_ms": null,
+    "genre": []
+  }
+]

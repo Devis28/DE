@@ -1,0 +1,383 @@
+[
+  {
+    "song": "Million Good Reasons",
+    "artists": [
+      "Robin Schulz",
+      "Fast Boy"
+    ],
+    "isrc": "DEA622404738",
+    "start_time": "2025-11-06 14:07:17",
+    "radio": "expres",
+    "recorded_at": "2025-11-06T14:07:34.186532+01:00",
+    "raw_valid": true,
+    "song_session_id": "a59d64be-1c49-4a27-a926-10a261472ccb",
+    "duration_ms": 157130,
+    "genre": [
+      "tropical house"
+    ]
+  },
+  {
+    "song": "Im So Excited",
+    "artists": [
+      "Pointer Sisters"
+    ],
+    "isrc": "USRC18203285",
+    "start_time": "2025-11-06 14:09:51",
+    "radio": "expres",
+    "recorded_at": "2025-11-06T14:10:12.950067+01:00",
+    "raw_valid": true,
+    "song_session_id": "ceb117e5-1e4a-424d-a120-64d31d2df8d5",
+    "duration_ms": 233400,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Ked Odchadza Niekto",
+    "artists": [
+      "Ine Kafe"
+    ],
+    "isrc": "SKA722500002",
+    "start_time": "2025-11-06 14:13:40",
+    "radio": "expres",
+    "recorded_at": "2025-11-06T14:13:56.535738+01:00",
+    "raw_valid": true,
+    "song_session_id": "1a779a97-6064-4f13-8cee-cb03c53a99a3",
+    "duration_ms": 243720,
+    "genre": []
+  },
+  {
+    "song": "Marry You",
+    "artists": [
+      "Bruno Mars"
+    ],
+    "isrc": "USAT21001887",
+    "start_time": "2025-11-06 14:21:42",
+    "radio": "expres",
+    "recorded_at": "2025-11-06T14:21:58.592878+01:00",
+    "raw_valid": true,
+    "song_session_id": "7bbb1b6b-7a9c-4dce-854e-2c088e199c52",
+    "duration_ms": 230120,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Eyes Closed",
+    "artists": [
+      "Imagine Dragons"
+    ],
+    "isrc": "USUM72402448",
+    "start_time": "2025-11-06 14:25:40",
+    "radio": "expres",
+    "recorded_at": "2025-11-06T14:26:02.838789+01:00",
+    "raw_valid": true,
+    "song_session_id": "cfe4dfde-30f2-43c1-8ee5-0c39657a68e8",
+    "duration_ms": 200026,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Be Mine",
+    "artists": [
+      "Kamrad"
+    ],
+    "isrc": "DE1NJ2500035",
+    "start_time": "2025-11-06 14:34:39",
+    "radio": "expres",
+    "recorded_at": "2025-11-06T14:35:00.003359+01:00",
+    "raw_valid": true,
+    "song_session_id": "891b305f-18c1-4f7b-97c6-386d10e99e99",
+    "duration_ms": 156463,
+    "genre": []
+  },
+  {
+    "song": "We Are The World",
+    "artists": [
+      "Usa For Africa",
+      "Michael Jackson"
+    ],
+    "isrc": "US25T8511672",
+    "start_time": "2025-11-06 14:37:18",
+    "radio": "expres",
+    "recorded_at": "2025-11-06T14:37:27.595160+01:00",
+    "raw_valid": true,
+    "song_session_id": "add4a507-c523-4e7a-9357-f4d0b2c2b345",
+    "duration_ms": 427333,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Afterlife",
+    "artists": [
+      "Michael Schulte"
+    ],
+    "isrc": "DECE72500509",
+    "start_time": "2025-11-06 14:42:17",
+    "radio": "expres",
+    "recorded_at": "2025-11-06T14:42:36.528390+01:00",
+    "raw_valid": true,
+    "song_session_id": "a2e9d9dc-f607-44a5-81fd-473200e211d8",
+    "duration_ms": 160120,
+    "genre": []
+  },
+  {
+    "song": "Blank Space",
+    "artists": [
+      "Taylor Swift"
+    ],
+    "isrc": "USCJY1431309",
+    "start_time": "2025-11-06 14:45:05",
+    "radio": "expres",
+    "recorded_at": "2025-11-06T14:45:19.403073+01:00",
+    "raw_valid": true,
+    "song_session_id": "a0e0066b-f10a-43f8-b4d3-42a62441a328",
+    "duration_ms": 231826,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Fading Like A Flower",
+    "artists": [
+      "Roxette",
+      "Galantis"
+    ],
+    "isrc": "SEAMA2200001",
+    "start_time": "2025-11-06 14:47:56",
+    "radio": "expres",
+    "recorded_at": "2025-11-06T14:48:22.592138+01:00",
+    "raw_valid": true,
+    "song_session_id": "326df77e-3976-4a18-96d1-72346e057bac",
+    "duration_ms": 145807,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Prva",
+    "artists": [
+      "No Name"
+    ],
+    "isrc": "SKA010309202",
+    "start_time": "2025-11-06 14:52:02",
+    "radio": "expres",
+    "recorded_at": "2025-11-06T14:52:21.481416+01:00",
+    "raw_valid": true,
+    "song_session_id": "30cde007-a02a-4d59-ae55-b608049bfe94",
+    "duration_ms": 199146,
+    "genre": []
+  },
+  {
+    "song": "Alejandro",
+    "artists": [
+      "Lady Gaga"
+    ],
+    "isrc": "USUM70905526",
+    "start_time": "2025-11-06 14:55:07",
+    "radio": "expres",
+    "recorded_at": "2025-11-06T14:55:20.174238+01:00",
+    "raw_valid": true,
+    "song_session_id": "3190a6fa-94b3-4c6d-91a1-321bc66eabc0",
+    "duration_ms": 274213,
+    "genre": [
+      "electronic"
+    ]
+  },
+  {
+    "song": "The One",
+    "artists": [
+      "Michael Patrick Kelly"
+    ],
+    "isrc": "DEE862500476",
+    "start_time": "2025-11-06 15:06:26",
+    "radio": "expres",
+    "recorded_at": "2025-11-06T15:06:54.653693+01:00",
+    "raw_valid": true,
+    "song_session_id": "3f9a59ee-dabe-4d1c-bab6-fc5fce560e7e",
+    "duration_ms": 181194,
+    "genre": []
+  },
+  {
+    "song": "Head & Heart",
+    "artists": [
+      "Joel Corry",
+      "Mnek"
+    ],
+    "isrc": "UK4ZF2000305",
+    "start_time": "2025-11-06 15:09:22",
+    "radio": "expres",
+    "recorded_at": "2025-11-06T15:09:57.365866+01:00",
+    "raw_valid": true,
+    "song_session_id": "528f41e4-f271-4549-b129-b728462068fa",
+    "duration_ms": 166028,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Love Me Not",
+    "artists": [
+      "Ravyn Lenae"
+    ],
+    "isrc": "USAT22401137",
+    "start_time": "2025-11-06 15:12:06",
+    "radio": "expres",
+    "recorded_at": "2025-11-06T15:12:30.114691+01:00",
+    "raw_valid": true,
+    "song_session_id": "f4106471-bc89-4f9d-aeff-145a9a85c64d",
+    "duration_ms": 213466,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "We Pray",
+    "artists": [
+      "Coldplay",
+      "Little Simz",
+      "Burna Boy",
+      "Elyanna",
+      "Tini"
+    ],
+    "isrc": "GBAYE2400890",
+    "start_time": "2025-11-06 15:17:24",
+    "radio": "expres",
+    "recorded_at": "2025-11-06T15:17:43.006501+01:00",
+    "raw_valid": true,
+    "song_session_id": "a97d76da-34cc-48b4-84f8-eb18c537a165",
+    "duration_ms": 233406,
+    "genre": [
+      "pop rap"
+    ]
+  },
+  {
+    "song": "The One And Only",
+    "artists": [
+      "Chesney Hawkes"
+    ],
+    "isrc": "GBAYK9100001",
+    "start_time": "2025-11-06 15:20:46",
+    "radio": "expres",
+    "recorded_at": "2025-11-06T15:21:02.561972+01:00",
+    "raw_valid": true,
+    "song_session_id": "985ad1ab-9e64-4f0e-8508-9b6352d91010",
+    "duration_ms": 221440,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Glide",
+    "artists": [
+      "Neiked",
+      "Portugal The Man"
+    ],
+    "isrc": "DEE862500421",
+    "start_time": "2025-11-06 15:32:16",
+    "radio": "expres",
+    "recorded_at": "2025-11-06T15:32:43.012279+01:00",
+    "raw_valid": true,
+    "song_session_id": "4d9a0827-cf0b-488a-8a12-3e09150f042d",
+    "duration_ms": 184405,
+    "genre": []
+  },
+  {
+    "song": "Stan",
+    "artists": [
+      "Eminem",
+      "Dido"
+    ],
+    "isrc": "USIR10001280",
+    "start_time": "2025-11-06 15:39:59",
+    "radio": "expres",
+    "recorded_at": "2025-11-06T15:40:30.187265+01:00",
+    "raw_valid": true,
+    "song_session_id": "fb8006a1-bd5b-40bb-a216-8438f53bfddd",
+    "duration_ms": 404426,
+    "genre": [
+      "electronic"
+    ]
+  },
+  {
+    "song": "Head Above Water",
+    "artists": [
+      "Twocolors",
+      "Safri Duo",
+      "Chris De Sarandy"
+    ],
+    "isrc": "DEUM72503698",
+    "start_time": "2025-11-06 15:43:38",
+    "radio": "expres",
+    "recorded_at": "2025-11-06T15:43:50.198482+01:00",
+    "raw_valid": true,
+    "song_session_id": "4f13bdad-9327-4a55-8573-45d02439322f",
+    "duration_ms": 174550,
+    "genre": []
+  },
+  {
+    "song": "Hangover",
+    "artists": [
+      "Taio Cruz",
+      "Flo Rida"
+    ],
+    "isrc": "GBUM71108857",
+    "start_time": "2025-11-06 15:46:33",
+    "radio": "expres",
+    "recorded_at": "2025-11-06T15:46:53.416370+01:00",
+    "raw_valid": true,
+    "song_session_id": "5f8f2488-1baf-4bed-b153-7731fba4b61a",
+    "duration_ms": 244906,
+    "genre": []
+  },
+  {
+    "song": "To Be With You",
+    "artists": [
+      "Mr Big"
+    ],
+    "isrc": "HKG292100094",
+    "start_time": "2025-11-06 15:50:46",
+    "radio": "expres",
+    "recorded_at": "2025-11-06T15:51:19.088688+01:00",
+    "raw_valid": true,
+    "song_session_id": "d9ab0db4-4bd2-452d-bfcb-6829b54a21dc",
+    "duration_ms": 208080,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Pre Vas Hram",
+    "artists": [
+      "Kali",
+      "Karol Duchon",
+      "Peter Pann"
+    ],
+    "isrc": "CZA232500151",
+    "start_time": "2025-11-06 15:54:06",
+    "radio": "expres",
+    "recorded_at": "2025-11-06T15:54:19.141819+01:00",
+    "raw_valid": true,
+    "song_session_id": "9a4b0bd6-6b89-4756-8299-8c636afefb2c",
+    "duration_ms": 149118,
+    "genre": []
+  },
+  {
+    "song": "Demons",
+    "artists": [
+      "Imagine Dragons"
+    ],
+    "isrc": "USUM71201071",
+    "start_time": "2025-11-06 15:56:37",
+    "radio": "expres",
+    "recorded_at": "2025-11-06T15:57:00.034013+01:00",
+    "raw_valid": true,
+    "song_session_id": "d62bb8a7-d823-452e-905a-d3ecd9960b59",
+    "duration_ms": 177506,
+    "genre": [
+      "rock"
+    ]
+  }
+]

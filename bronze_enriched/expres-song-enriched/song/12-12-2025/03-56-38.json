@@ -1,0 +1,508 @@
+[
+  {
+    "song": "Na Vianoce Domov",
+    "artists": [
+      "Alan Murin",
+      "Radio Expres"
+    ],
+    "isrc": "QZYFZ2540500",
+    "start_time": "2025-12-12 02:57:52",
+    "radio": "expres",
+    "recorded_at": "2025-12-12T02:58:10.716923+01:00",
+    "raw_valid": true,
+    "song_session_id": "cb68b578-893d-4391-af9e-9b4ef24de2be",
+    "duration_ms": 240000,
+    "genre": []
+  },
+  {
+    "song": "All I Know",
+    "artists": [
+      "Rudimental",
+      "Khalid"
+    ],
+    "isrc": "GBARL2500365",
+    "start_time": "2025-12-12 03:01:57",
+    "radio": "expres",
+    "recorded_at": "2025-12-12T03:02:13.935543+01:00",
+    "raw_valid": true,
+    "song_session_id": "81630094-05f2-4845-ba59-e0daa38a94e5",
+    "duration_ms": 176046,
+    "genre": []
+  },
+  {
+    "song": "Ja Viem",
+    "artists": [
+      "Robo Grigorov"
+    ],
+    "isrc": "CZA210800942",
+    "start_time": "2025-12-12 03:04:56",
+    "radio": "expres",
+    "recorded_at": "2025-12-12T03:05:16.381808+01:00",
+    "raw_valid": true,
+    "song_session_id": "6cc0e82a-fe86-424d-be6c-e4c237409ce7",
+    "duration_ms": 209426,
+    "genre": []
+  },
+  {
+    "song": "Pride",
+    "artists": [
+      "Felix Jaehn",
+      "Jhart"
+    ],
+    "isrc": "DEUM72503423",
+    "start_time": "2025-12-12 03:08:28",
+    "radio": "expres",
+    "recorded_at": "2025-12-12T03:09:04.358873+01:00",
+    "raw_valid": true,
+    "song_session_id": "d9b55276-607a-45ea-9756-649939e66c2e",
+    "duration_ms": 158150,
+    "genre": []
+  },
+  {
+    "song": "Lietam V Tom Tiez",
+    "artists": [
+      "Team"
+    ],
+    "isrc": "SKA128917006",
+    "start_time": "2025-12-12 03:11:06",
+    "radio": "expres",
+    "recorded_at": "2025-12-12T03:11:46.654643+01:00",
+    "raw_valid": true,
+    "song_session_id": "586d07cb-2fd2-47aa-ab78-1f6ee4521a64",
+    "duration_ms": 233253,
+    "genre": []
+  },
+  {
+    "song": "November Rain",
+    "artists": [
+      "Guns N' Roses"
+    ],
+    "isrc": "USGF19141510",
+    "start_time": "2025-12-12 03:14:56",
+    "radio": "expres",
+    "recorded_at": "2025-12-12T03:15:24.500877+01:00",
+    "raw_valid": true,
+    "song_session_id": "03db76d4-3bc7-446e-80f6-70ef5fd92a03",
+    "duration_ms": 536960,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "V Nas",
+    "artists": [
+      "Nocaden"
+    ],
+    "isrc": "CZA231500032",
+    "start_time": "2025-12-12 03:20:20",
+    "radio": "expres",
+    "recorded_at": "2025-12-12T03:20:53.889077+01:00",
+    "raw_valid": true,
+    "song_session_id": "ebe06704-1267-44e2-8110-0ffed283596b",
+    "duration_ms": 220106,
+    "genre": []
+  },
+  {
+    "song": "Sapphire",
+    "artists": [
+      "Ed Sheeran"
+    ],
+    "isrc": "GBAHS2500262",
+    "start_time": "2025-12-12 03:23:58",
+    "radio": "expres",
+    "recorded_at": "2025-12-12T03:24:31.819766+01:00",
+    "raw_valid": true,
+    "song_session_id": "eb73d173-be33-4329-a64d-d517e61971c9",
+    "duration_ms": 179082,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Miesta",
+    "artists": [
+      "Zuzana Smatanova",
+      "Adam Durica"
+    ],
+    "isrc": "SKI941400603",
+    "start_time": "2025-12-12 03:26:52",
+    "radio": "expres",
+    "recorded_at": "2025-12-12T03:27:14.028486+01:00",
+    "raw_valid": true,
+    "song_session_id": "5ea01017-9d2d-4585-a1bf-8420c87548d3",
+    "duration_ms": 212858,
+    "genre": []
+  },
+  {
+    "song": "Happy Xmas (War Is Over)",
+    "artists": [
+      "John Lennon"
+    ],
+    "isrc": "GBAYE1000862",
+    "start_time": "2025-12-12 03:30:24",
+    "radio": "expres",
+    "recorded_at": "2025-12-12T03:31:02.066760+01:00",
+    "raw_valid": true,
+    "song_session_id": "5d1383e8-40b7-4fa1-9290-4958102f4495",
+    "duration_ms": 212680,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "The Fate Of Ophelia",
+    "artists": [
+      "Taylor Swift"
+    ],
+    "isrc": "USUG12506436",
+    "start_time": "2025-12-12 03:33:45",
+    "radio": "expres",
+    "recorded_at": "2025-12-12T03:34:24.799022+01:00",
+    "raw_valid": true,
+    "song_session_id": "f7fb3587-6b65-4edd-9a74-84b6e95f6534",
+    "duration_ms": 226073,
+    "genre": [
+      "electronic"
+    ]
+  },
+  {
+    "song": "Hlava",
+    "artists": [
+      "Peter Bic Project"
+    ],
+    "isrc": "SKA012100207",
+    "start_time": "2025-12-12 03:37:31",
+    "radio": "expres",
+    "recorded_at": "2025-12-12T03:38:02.930608+01:00",
+    "raw_valid": true,
+    "song_session_id": "08a418df-e084-418a-affb-bc224c702be5",
+    "duration_ms": 177277,
+    "genre": []
+  },
+  {
+    "song": "Im So Excited",
+    "artists": [
+      "Pointer Sisters"
+    ],
+    "isrc": "USRC18203285",
+    "start_time": "2025-12-12 03:40:24",
+    "radio": "expres",
+    "recorded_at": "2025-12-12T03:40:50.331599+01:00",
+    "raw_valid": true,
+    "song_session_id": "9b328946-bdbc-451a-a3f2-183ea97bf032",
+    "duration_ms": 233400,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Nina Ricci",
+    "artists": [
+      "Richard Muller"
+    ],
+    "isrc": "CZA110003021",
+    "start_time": "2025-12-12 03:44:25",
+    "radio": "expres",
+    "recorded_at": "2025-12-12T03:44:53.700360+01:00",
+    "raw_valid": true,
+    "song_session_id": "f3c3c06c-6d47-4a59-8942-b5e4c7218e31",
+    "duration_ms": 289133,
+    "genre": []
+  },
+  {
+    "song": "Where Is My Husband",
+    "artists": [
+      "Raye"
+    ],
+    "isrc": "QMFME2535037",
+    "start_time": "2025-12-12 03:49:01",
+    "radio": "expres",
+    "recorded_at": "2025-12-12T03:49:37.411645+01:00",
+    "raw_valid": true,
+    "song_session_id": "d3a1afa4-bdf9-4dc5-b241-a37e6eb8e4b7",
+    "duration_ms": 196795,
+    "genre": [
+      "offizielle charts"
+    ]
+  },
+  {
+    "song": "Neviem Ta Najst",
+    "artists": [
+      "Gladiator"
+    ],
+    "isrc": "CZA210900800",
+    "start_time": "2025-12-12 03:52:41",
+    "radio": "expres",
+    "recorded_at": "2025-12-12T03:53:00.222799+01:00",
+    "raw_valid": true,
+    "song_session_id": "43d2a159-041c-4c91-b468-d60ea1454a77",
+    "duration_ms": 253173,
+    "genre": []
+  },
+  {
+    "song": "Feel Alive",
+    "artists": [
+      "Kamrad"
+    ],
+    "isrc": "DEE862202500",
+    "start_time": "2025-12-12 03:56:44",
+    "radio": "expres",
+    "recorded_at": "2025-12-12T03:57:03.452731+01:00",
+    "raw_valid": true,
+    "song_session_id": "2fc36f47-49bf-415d-9927-20332cc2506f",
+    "duration_ms": 148116,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Najkrajsie Vianoce",
+    "artists": [
+      "Imt Smile"
+    ],
+    "isrc": "SKA011000112",
+    "start_time": "2025-12-12 03:59:18",
+    "radio": "expres",
+    "recorded_at": "2025-12-12T03:59:50.741678+01:00",
+    "raw_valid": true,
+    "song_session_id": "53ee0b28-4deb-4a87-a656-6c68761e912b",
+    "duration_ms": 180932,
+    "genre": []
+  },
+  {
+    "song": "The One",
+    "artists": [
+      "Michael Patrick Kelly"
+    ],
+    "isrc": "DEE862500476",
+    "start_time": "2025-12-12 04:02:13",
+    "radio": "expres",
+    "recorded_at": "2025-12-12T04:02:48.962839+01:00",
+    "raw_valid": true,
+    "song_session_id": "0476e0fc-4e5b-4a64-8376-ad65273d20c1",
+    "duration_ms": 181194,
+    "genre": []
+  },
+  {
+    "song": "Chvilu Ano Chvilu Nie",
+    "artists": [
+      "Hex"
+    ],
+    "isrc": "SKA010211105",
+    "start_time": "2025-12-12 04:05:17",
+    "radio": "expres",
+    "recorded_at": "2025-12-12T04:05:51.420916+01:00",
+    "raw_valid": true,
+    "song_session_id": "419d37c0-689b-4624-bba2-80e878e667ce",
+    "duration_ms": 222760,
+    "genre": []
+  },
+  {
+    "song": "Forbidden Road",
+    "artists": [
+      "Robbie Williams"
+    ],
+    "isrc": "GBPS62400032",
+    "start_time": "2025-12-12 04:08:59",
+    "radio": "expres",
+    "recorded_at": "2025-12-12T04:09:34.374285+01:00",
+    "raw_valid": true,
+    "song_session_id": "8c46853c-3eb9-4d4d-adde-efb06754b0ab",
+    "duration_ms": 197419,
+    "genre": []
+  },
+  {
+    "song": "Anjel",
+    "artists": [
+      "Desmod"
+    ],
+    "isrc": "SKE491500202",
+    "start_time": "2025-12-12 04:12:18",
+    "radio": "expres",
+    "recorded_at": "2025-12-12T04:12:36.856590+01:00",
+    "raw_valid": true,
+    "song_session_id": "682761bf-fdad-4231-9725-f76a1af3531b",
+    "duration_ms": 185893,
+    "genre": []
+  },
+  {
+    "song": "We Are The Champions",
+    "artists": [
+      "Queen"
+    ],
+    "isrc": "GBUM71029619",
+    "start_time": "2025-12-12 04:15:28",
+    "radio": "expres",
+    "recorded_at": "2025-12-12T04:15:59.655390+01:00",
+    "raw_valid": true,
+    "song_session_id": "b5e7f6a2-040a-45f7-bf7e-3a8ab25a33a5",
+    "duration_ms": 179200,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Abstinent",
+    "artists": [
+      "Para"
+    ],
+    "isrc": "CZA210700187",
+    "start_time": "2025-12-12 04:18:27",
+    "radio": "expres",
+    "recorded_at": "2025-12-12T04:19:02.060858+01:00",
+    "raw_valid": true,
+    "song_session_id": "94831968-ec9b-4418-8dd7-814287e2cb57",
+    "duration_ms": 174426,
+    "genre": []
+  },
+  {
+    "song": "Mad",
+    "artists": [
+      "Martin Garrix",
+      "Lauv"
+    ],
+    "isrc": "NLM5S2502535",
+    "start_time": "2025-12-12 04:21:13",
+    "radio": "expres",
+    "recorded_at": "2025-12-12T04:21:49.343252+01:00",
+    "raw_valid": true,
+    "song_session_id": "40872fb6-08c1-4286-bb38-b5c7b2d088b6",
+    "duration_ms": 199804,
+    "genre": []
+  },
+  {
+    "song": "Trustfall",
+    "artists": [
+      "Pink"
+    ],
+    "isrc": "USRC12204190",
+    "start_time": "2025-12-12 04:24:51",
+    "radio": "expres",
+    "recorded_at": "2025-12-12T04:25:32.387175+01:00",
+    "raw_valid": true,
+    "song_session_id": "1a101668-a690-4eec-b0a8-f603915117a6",
+    "duration_ms": 237192,
+    "genre": []
+  },
+  {
+    "song": "Kazdy Den Budu Vraj Vianoce",
+    "artists": [
+      "Lojzo",
+      "Miro Zbirka"
+    ],
+    "isrc": "SKA129075601",
+    "start_time": "2025-12-12 04:28:50",
+    "radio": "expres",
+    "recorded_at": "2025-12-12T04:29:15.369501+01:00",
+    "raw_valid": true,
+    "song_session_id": "c21ad708-2eeb-4b15-8009-610dbdc04e09",
+    "duration_ms": 266893,
+    "genre": []
+  },
+  {
+    "song": "Wonderful Life 25",
+    "artists": [
+      "Hurts",
+      "Purple Disco Machine"
+    ],
+    "isrc": "DEE862500677",
+    "start_time": "2025-12-12 04:33:59",
+    "radio": "expres",
+    "recorded_at": "2025-12-12T04:34:24.739740+01:00",
+    "raw_valid": true,
+    "song_session_id": "3ae3e2a2-51db-4e34-9883-f6e1fc271415",
+    "duration_ms": 178658,
+    "genre": []
+  },
+  {
+    "song": "Vecnost",
+    "artists": [
+      "No Name"
+    ],
+    "isrc": "SKA010110203",
+    "start_time": "2025-12-12 04:36:57",
+    "radio": "expres",
+    "recorded_at": "2025-12-12T04:37:32.304431+01:00",
+    "raw_valid": true,
+    "song_session_id": "d3377d47-25e9-4d0d-ab60-00fd4ae35c5a",
+    "duration_ms": 197706,
+    "genre": []
+  },
+  {
+    "song": "Ill Be Missing You",
+    "artists": [
+      "Puff Daddy",
+      "Faith Evans"
+    ],
+    "isrc": "USBB40581044",
+    "start_time": "2025-12-12 04:40:08",
+    "radio": "expres",
+    "recorded_at": "2025-12-12T04:40:29.677604+01:00",
+    "raw_valid": true,
+    "song_session_id": "816697b6-f0ce-4768-8450-16e54d50bed4",
+    "duration_ms": 301520,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Sestricka Z Kramarov",
+    "artists": [
+      "Elan"
+    ],
+    "isrc": "SKA129150302",
+    "start_time": "2025-12-12 04:45:11",
+    "radio": "expres",
+    "recorded_at": "2025-12-12T04:45:38.763291+01:00",
+    "raw_valid": true,
+    "song_session_id": "85672428-cf76-4b11-86cf-f2650af0e10e",
+    "duration_ms": 238000,
+    "genre": []
+  },
+  {
+    "song": "Save My Love",
+    "artists": [
+      "Marshmello",
+      "Ellie Goulding",
+      "Avaion"
+    ],
+    "isrc": "USUG12504310",
+    "start_time": "2025-12-12 04:48:59",
+    "radio": "expres",
+    "recorded_at": "2025-12-12T04:49:16.656573+01:00",
+    "raw_valid": true,
+    "song_session_id": "47e0c46e-e30c-44b0-b912-909bdcdd00c1",
+    "duration_ms": 215555,
+    "genre": []
+  },
+  {
+    "song": "Navzajom",
+    "artists": [
+      "Adam Durica"
+    ],
+    "isrc": "SKA011600035",
+    "start_time": "2025-12-12 04:52:39",
+    "radio": "expres",
+    "recorded_at": "2025-12-12T04:52:59.614365+01:00",
+    "raw_valid": true,
+    "song_session_id": "4d79f8ab-8d8f-484e-8f7b-952da5c98d90",
+    "duration_ms": 208366,
+    "genre": []
+  },
+  {
+    "song": "Radioactive",
+    "artists": [
+      "Imagine Dragons"
+    ],
+    "isrc": "USUM71201074",
+    "start_time": "2025-12-12 04:56:06",
+    "radio": "expres",
+    "recorded_at": "2025-12-12T04:56:27.350566+01:00",
+    "raw_valid": true,
+    "song_session_id": "adedf548-aecb-428f-a96a-334a90eaa490",
+    "duration_ms": 188000,
+    "genre": [
+      "indie"
+    ]
+  }
+]

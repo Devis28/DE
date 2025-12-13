@@ -1,0 +1,56 @@
+[
+  {
+    "last_update": "2025-11-04 18:55:33",
+    "song": {
+      "musicAuthor": "Guns N Roses",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851e44963b8bb127552ac761873",
+      "musicTitle": "Don't Cry",
+      "radio": "Rádio ROCK",
+      "startTime": "19:55"
+    },
+    "recorded_at": "2025-11-04T19:55:34.414927+01:00",
+    "raw_valid": true,
+    "song_session_id": "5cd00416-388c-496d-94d6-7826d9166625",
+    "duration_ms": 283733,
+    "isrc": "USGF19141504",
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "last_update": "2025-11-04 19:00:36",
+    "song": {
+      "musicAuthor": "Kiss",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851e5089214df66e4c6324861f7",
+      "musicTitle": "Lick It Up",
+      "radio": "Rádio ROCK",
+      "startTime": "20:00"
+    },
+    "recorded_at": "2025-11-04T20:00:36.712906+01:00",
+    "raw_valid": true,
+    "song_session_id": "e5b2725c-68dd-4a55-8313-61ec7ee98c4a",
+    "duration_ms": 236640,
+    "isrc": "USMR18382039",
+    "genre": [
+      "glam rock"
+    ]
+  },
+  {
+    "last_update": "2025-11-04 19:04:08",
+    "song": {
+      "musicAuthor": "Ram Jam",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851fa5dcfc4b1b99a0598224758",
+      "musicTitle": "Black Betty",
+      "radio": "Rádio ROCK",
+      "startTime": "20:03"
+    },
+    "recorded_at": "2025-11-04T20:04:08.688659+01:00",
+    "raw_valid": true,
+    "song_session_id": "76f70801-0f4a-46c2-82df-0c43edd66708",
+    "duration_ms": 240335,
+    "isrc": "USSM10211288",
+    "genre": [
+      "southern rock"
+    ]
+  }
+]

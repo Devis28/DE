@@ -1,0 +1,72 @@
+[
+  {
+    "last_update": "2025-11-04 17:42:36",
+    "song": {
+      "musicAuthor": "Lenny Kravitz",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851f1157b7dcd21bae0c2c75d89",
+      "musicTitle": "Fly Away",
+      "radio": "Rádio ROCK",
+      "startTime": "18:40"
+    },
+    "recorded_at": "2025-11-04T18:42:36.685076+01:00",
+    "raw_valid": true,
+    "song_session_id": "a00defbd-7ab5-4c91-ab58-b3f1e22adde5",
+    "duration_ms": 221332,
+    "isrc": "USVI29800169",
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "last_update": "2025-11-04 17:45:37",
+    "song": {
+      "musicAuthor": "The Beastie Boys",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048519bfd5530395fa1a1b5044f18",
+      "musicTitle": "(You Gotta) Fight For Your Right (To Party)",
+      "radio": "Rádio ROCK",
+      "startTime": "18:44"
+    },
+    "recorded_at": "2025-11-04T18:45:37.541326+01:00",
+    "raw_valid": true,
+    "song_session_id": "0581e08e-a08b-414b-8f79-7271917dd37f",
+    "duration_ms": 210386,
+    "isrc": "USDJ28600007",
+    "genre": [
+      "rap rock"
+    ]
+  },
+  {
+    "last_update": "2025-11-04 17:48:07",
+    "song": {
+      "musicAuthor": "Gladiator",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048519e1004ad4208503050590037",
+      "musicTitle": "Vsetko Bude Dobre",
+      "radio": "Rádio ROCK",
+      "startTime": "18:47"
+    },
+    "recorded_at": "2025-11-04T18:48:07.905042+01:00",
+    "raw_valid": true,
+    "song_session_id": "fb918f72-5413-4ee4-b347-000032698809",
+    "duration_ms": 166588,
+    "isrc": "SKCM72560001",
+    "genre": []
+  },
+  {
+    "last_update": "2025-11-04 17:51:07",
+    "song": {
+      "musicAuthor": "Blondie",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048516d23211741238ed227699c9d",
+      "musicTitle": "One Way Or Another",
+      "radio": "Rádio ROCK",
+      "startTime": "18:50"
+    },
+    "recorded_at": "2025-11-04T18:51:08.138385+01:00",
+    "raw_valid": true,
+    "song_session_id": "8715d17f-c0ee-4da5-8cef-6a7333fbd069",
+    "duration_ms": 215106,
+    "isrc": "USCH30100029",
+    "genre": [
+      "rock"
+    ]
+  }
+]

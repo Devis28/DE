@@ -1,0 +1,498 @@
+[
+  {
+    "song": "Regalo",
+    "artists": [
+      "Alvaro Soler"
+    ],
+    "isrc": "DEE862500388",
+    "start_time": "2025-11-11 22:04:37",
+    "radio": "expres",
+    "recorded_at": "2025-11-11T22:05:07.815451+01:00",
+    "raw_valid": true,
+    "song_session_id": "de15d726-d391-464e-b52c-646c88925af6",
+    "duration_ms": 184984,
+    "genre": []
+  },
+  {
+    "song": "Ghetto Gospel",
+    "artists": [
+      "2 Pac",
+      "Elton John"
+    ],
+    "isrc": "USIR10401032",
+    "start_time": "2025-11-11 22:07:52",
+    "radio": "expres",
+    "recorded_at": "2025-11-11T22:08:31.841564+01:00",
+    "raw_valid": true,
+    "song_session_id": "c837475e-1114-463f-88ce-adcf391c1744",
+    "duration_ms": 238626,
+    "genre": [
+      "rap"
+    ]
+  },
+  {
+    "song": "Green Green Grass",
+    "artists": [
+      "George Ezra"
+    ],
+    "isrc": "GBARL2200008",
+    "start_time": "2025-11-11 22:11:32",
+    "radio": "expres",
+    "recorded_at": "2025-11-11T22:11:50.064958+01:00",
+    "raw_valid": true,
+    "song_session_id": "67eba982-bb75-45cb-85fa-4d6bac2fdfb7",
+    "duration_ms": 167613,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Save Your Tears",
+    "artists": [
+      "The Weeknd"
+    ],
+    "isrc": "USUG12000658",
+    "start_time": "2025-11-11 22:14:21",
+    "radio": "expres",
+    "recorded_at": "2025-11-11T22:14:53.128057+01:00",
+    "raw_valid": true,
+    "song_session_id": "c48b31b4-0275-4e69-8f8b-b000ae6f17ef",
+    "duration_ms": 215627,
+    "genre": [
+      "trance"
+    ]
+  },
+  {
+    "song": "Gone Gone Gone",
+    "artists": [
+      "David Guetta",
+      "Teddy Swims",
+      "Tones And I"
+    ],
+    "isrc": "UKWLG2500132",
+    "start_time": "2025-11-11 22:17:52",
+    "radio": "expres",
+    "recorded_at": "2025-11-11T22:18:16.650479+01:00",
+    "raw_valid": true,
+    "song_session_id": "b4b14350-8801-40d1-a648-69b58f86d12c",
+    "duration_ms": 198004,
+    "genre": [
+      "soul"
+    ]
+  },
+  {
+    "song": "Sleeping In My Car",
+    "artists": [
+      "Roxette"
+    ],
+    "isrc": "SEAMA9301030",
+    "start_time": "2025-11-11 22:21:44",
+    "radio": "expres",
+    "recorded_at": "2025-11-11T22:22:15.198846+01:00",
+    "raw_valid": true,
+    "song_session_id": "7e693e2a-2851-487b-8250-caa302bd403f",
+    "duration_ms": 226133,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "By Your Side (In My Mind)",
+    "artists": [
+      "Leony"
+    ],
+    "isrc": "DEN062400804",
+    "start_time": "2025-11-11 22:25:11",
+    "radio": "expres",
+    "recorded_at": "2025-11-11T22:25:48.489761+01:00",
+    "raw_valid": true,
+    "song_session_id": "203e242a-34c8-45dd-aa31-6b76b3777070",
+    "duration_ms": 177148,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Lava",
+    "artists": [
+      "Peter Bic Project"
+    ],
+    "isrc": "SKA011900036",
+    "start_time": "2025-11-11 22:28:10",
+    "radio": "expres",
+    "recorded_at": "2025-11-11T22:28:47.542979+01:00",
+    "raw_valid": true,
+    "song_session_id": "0a2602d7-83f7-466c-96a5-2c0a2f0ffdc9",
+    "duration_ms": 271900,
+    "genre": []
+  },
+  {
+    "song": "Mystical Magical",
+    "artists": [
+      "Benson Boone"
+    ],
+    "isrc": "USWB12500844",
+    "start_time": "2025-11-11 22:33:24",
+    "radio": "expres",
+    "recorded_at": "2025-11-11T22:33:48.243698+01:00",
+    "raw_valid": true,
+    "song_session_id": "d9d6bf1d-7456-470f-b0c8-ae0e2ab2e6a4",
+    "duration_ms": 165746,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "V Blbym Veku",
+    "artists": [
+      "Xindl X"
+    ],
+    "isrc": "CZUM71400233",
+    "start_time": "2025-11-11 22:36:15",
+    "radio": "expres",
+    "recorded_at": "2025-11-11T22:36:47.491448+01:00",
+    "raw_valid": true,
+    "song_session_id": "703d24cb-8570-4951-904b-6eac1dc3f858",
+    "duration_ms": 226250,
+    "genre": []
+  },
+  {
+    "song": "Two Princes",
+    "artists": [
+      "Spin Doctors"
+    ],
+    "isrc": "USSM19000350",
+    "start_time": "2025-11-11 22:40:03",
+    "radio": "expres",
+    "recorded_at": "2025-11-11T22:40:31.649033+01:00",
+    "raw_valid": true,
+    "song_session_id": "a849bb35-7270-468e-9fba-cdc283fe5bc4",
+    "duration_ms": 256946,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Pride",
+    "artists": [
+      "Felix Jaehn",
+      "Jhart"
+    ],
+    "isrc": "DEUM72503423",
+    "start_time": "2025-11-11 22:44:21",
+    "radio": "expres",
+    "recorded_at": "2025-11-11T22:44:50.886075+01:00",
+    "raw_valid": true,
+    "song_session_id": "499fc83d-afca-47d5-887c-ce5517d8535e",
+    "duration_ms": 158150,
+    "genre": []
+  },
+  {
+    "song": "Dvaja",
+    "artists": [
+      "Robo Grigorov"
+    ],
+    "isrc": "SKA128676205",
+    "start_time": "2025-11-11 22:47:08",
+    "radio": "expres",
+    "recorded_at": "2025-11-11T22:47:33.794636+01:00",
+    "raw_valid": true,
+    "song_session_id": "cd90b6f9-0cbf-48c3-9640-e4203182376f",
+    "duration_ms": 288800,
+    "genre": []
+  },
+  {
+    "song": "Cynical",
+    "artists": [
+      "Twocolors",
+      "Safri Duo",
+      "Chris De Sarandy"
+    ],
+    "isrc": "DEUM72307092",
+    "start_time": "2025-11-11 22:51:27",
+    "radio": "expres",
+    "recorded_at": "2025-11-11T22:51:52.615631+01:00",
+    "raw_valid": true,
+    "song_session_id": "19f6306a-48d6-499c-a244-ba87e0d3cd6f",
+    "duration_ms": 191365,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Blink Twice",
+    "artists": [
+      "Shaboozey",
+      "Myles Smith"
+    ],
+    "isrc": "USUYG1717098",
+    "start_time": "2025-11-11 22:54:33",
+    "radio": "expres",
+    "recorded_at": "2025-11-11T22:54:55.643251+01:00",
+    "raw_valid": true,
+    "song_session_id": "8282f936-ccdd-41d3-8b1f-10f4dfeeab19",
+    "duration_ms": 156721,
+    "genre": []
+  },
+  {
+    "song": "Reality",
+    "artists": [
+      "Lost Frequencies",
+      "Janieck Devy"
+    ],
+    "isrc": "NLF711506121",
+    "start_time": "2025-11-11 22:57:26",
+    "radio": "expres",
+    "recorded_at": "2025-11-11T22:58:07.800604+01:00",
+    "raw_valid": true,
+    "song_session_id": "bc1f6e94-16b2-4771-afa1-beaeea74a998",
+    "duration_ms": 178000,
+    "genre": []
+  },
+  {
+    "song": "As It Was",
+    "artists": [
+      "Harry Styles"
+    ],
+    "isrc": "USSM12200612",
+    "start_time": "2025-11-11 23:04:31",
+    "radio": "expres",
+    "recorded_at": "2025-11-11T23:05:08.732740+01:00",
+    "raw_valid": true,
+    "song_session_id": "6ae00f9d-0176-4509-aaa9-08cb95cf0736",
+    "duration_ms": 167303,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Je To Vo Hviezdach",
+    "artists": [
+      "Pavol Habera"
+    ],
+    "isrc": "FRX451573147",
+    "start_time": "2025-11-11 23:07:24",
+    "radio": "expres",
+    "recorded_at": "2025-11-11T23:07:48.561730+01:00",
+    "raw_valid": true,
+    "song_session_id": "32cc5538-7464-4e3a-9f25-de1e3a34527d",
+    "duration_ms": 198533,
+    "genre": []
+  },
+  {
+    "song": "Undressed",
+    "artists": [
+      "Sombr"
+    ],
+    "isrc": "USWB12500737",
+    "start_time": "2025-11-11 23:10:34",
+    "radio": "expres",
+    "recorded_at": "2025-11-11T23:11:08.705571+01:00",
+    "raw_valid": true,
+    "song_session_id": "4829bc53-1494-4a7e-b376-8aaaf13715b7",
+    "duration_ms": 182088,
+    "genre": [
+      "indie pop"
+    ]
+  },
+  {
+    "song": "I Dont Care",
+    "artists": [
+      "Ed Sheeran",
+      "Justin Bieber"
+    ],
+    "isrc": "GBAHS1900673",
+    "start_time": "2025-11-11 23:13:34",
+    "radio": "expres",
+    "recorded_at": "2025-11-11T23:14:11.564090+01:00",
+    "raw_valid": true,
+    "song_session_id": "f7c77899-187f-4b11-bc92-4e9881099eaf",
+    "duration_ms": 219946,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "I Like The Way You Kiss Me",
+    "artists": [
+      "Artemas"
+    ],
+    "isrc": "QZJ842400387",
+    "start_time": "2025-11-11 23:17:20",
+    "radio": "expres",
+    "recorded_at": "2025-11-11T23:17:52.197448+01:00",
+    "raw_valid": true,
+    "song_session_id": "3ab3b464-c631-422a-9b6f-9e58bc877b26",
+    "duration_ms": 142514,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "What Is Love",
+    "artists": [
+      "Haddaway"
+    ],
+    "isrc": "DEA410500401",
+    "start_time": "2025-11-11 23:19:48",
+    "radio": "expres",
+    "recorded_at": "2025-11-11T23:20:14.795132+01:00",
+    "raw_valid": true,
+    "song_session_id": "f488c353-6c67-4339-94de-8819121142c3",
+    "duration_ms": 270373,
+    "genre": [
+      "trance"
+    ]
+  },
+  {
+    "song": "Manchild",
+    "artists": [
+      "Sabrina Carpenter"
+    ],
+    "isrc": "USUM72504354",
+    "start_time": "2025-11-11 23:24:21",
+    "radio": "expres",
+    "recorded_at": "2025-11-11T23:24:48.589194+01:00",
+    "raw_valid": true,
+    "song_session_id": "2bb67be4-3250-4181-a788-fde8e5899937",
+    "duration_ms": 213645,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Julia Roberts",
+    "artists": [
+      "Richard Muller"
+    ],
+    "isrc": "SKA011600016",
+    "start_time": "2025-11-11 23:27:45",
+    "radio": "expres",
+    "recorded_at": "2025-11-11T23:28:29.824336+01:00",
+    "raw_valid": true,
+    "song_session_id": "c5bb1176-1927-4433-8cd4-fbca150e3b7f",
+    "duration_ms": 239386,
+    "genre": []
+  },
+  {
+    "song": "Afterlife",
+    "artists": [
+      "Michael Schulte"
+    ],
+    "isrc": "DECE72500509",
+    "start_time": "2025-11-11 23:32:50",
+    "radio": "expres",
+    "recorded_at": "2025-11-11T23:33:29.622565+01:00",
+    "raw_valid": true,
+    "song_session_id": "94b19d09-d510-405d-829b-7b8bc317dca5",
+    "duration_ms": 160120,
+    "genre": []
+  },
+  {
+    "song": "Nie Sme Zli",
+    "artists": [
+      "Elan"
+    ],
+    "isrc": "SKA128229911",
+    "start_time": "2025-11-11 23:35:27",
+    "radio": "expres",
+    "recorded_at": "2025-11-11T23:35:49.492885+01:00",
+    "raw_valid": true,
+    "song_session_id": "553f0896-78ac-4275-995b-63aa0e9ecb1f",
+    "duration_ms": 244306,
+    "genre": []
+  },
+  {
+    "song": "Someone Like You",
+    "artists": [
+      "Adele"
+    ],
+    "isrc": "GBBKS1000351",
+    "start_time": "2025-11-11 23:39:17",
+    "radio": "expres",
+    "recorded_at": "2025-11-11T23:39:50.477673+01:00",
+    "raw_valid": true,
+    "song_session_id": "2015f03b-295a-4d7d-a743-48e4a89bd742",
+    "duration_ms": 282000,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Save My Love",
+    "artists": [
+      "Marshmello",
+      "Ellie Goulding",
+      "Avaion"
+    ],
+    "isrc": "USUG12504310",
+    "start_time": "2025-11-11 23:44:06",
+    "radio": "expres",
+    "recorded_at": "2025-11-11T23:44:29.758363+01:00",
+    "raw_valid": true,
+    "song_session_id": "35e7debd-4bba-459f-94db-2036c39f074f",
+    "duration_ms": 215555,
+    "genre": []
+  },
+  {
+    "song": "Kamaratka Nadej",
+    "artists": [
+      "Vaso Patejdl"
+    ],
+    "isrc": "SKA128919702",
+    "start_time": "2025-11-11 23:47:57",
+    "radio": "expres",
+    "recorded_at": "2025-11-11T23:48:13.450450+01:00",
+    "raw_valid": true,
+    "song_session_id": "8176e512-02ea-4efd-ae18-02f4abc40709",
+    "duration_ms": 192506,
+    "genre": []
+  },
+  {
+    "song": "Fading Like A Flower",
+    "artists": [
+      "Roxette",
+      "Galantis"
+    ],
+    "isrc": "SEAMA2200001",
+    "start_time": "2025-11-11 23:51:08",
+    "radio": "expres",
+    "recorded_at": "2025-11-11T23:51:36.620130+01:00",
+    "raw_valid": true,
+    "song_session_id": "d9d7fdb6-e94b-47f6-9e28-d297e59e74ef",
+    "duration_ms": 145807,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Vsetko Bude Dobre",
+    "artists": [
+      "Gladiator"
+    ],
+    "isrc": "SKCM72560001",
+    "start_time": "2025-11-11 23:53:30",
+    "radio": "expres",
+    "recorded_at": "2025-11-11T23:53:59.147482+01:00",
+    "raw_valid": true,
+    "song_session_id": "f7a999da-56da-4111-bcf2-223f2ab72a93",
+    "duration_ms": 166588,
+    "genre": []
+  },
+  {
+    "song": "Firework",
+    "artists": [
+      "Katy Perry"
+    ],
+    "isrc": "USCA21001262",
+    "start_time": "2025-11-11 23:56:27",
+    "radio": "expres",
+    "recorded_at": "2025-11-11T23:57:09.697576+01:00",
+    "raw_valid": true,
+    "song_session_id": "573f5982-2c26-4b6f-885b-6513691a54eb",
+    "duration_ms": 227746,
+    "genre": [
+      "rock"
+    ]
+  }
+]

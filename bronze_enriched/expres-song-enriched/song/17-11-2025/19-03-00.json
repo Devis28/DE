@@ -1,0 +1,416 @@
+[
+  {
+    "song": "The One",
+    "artists": [
+      "Michael Patrick Kelly"
+    ],
+    "isrc": "DEE862500476",
+    "start_time": "2025-11-17 18:06:44",
+    "radio": "expres",
+    "recorded_at": "2025-11-17T18:07:18.306313+01:00",
+    "raw_valid": true,
+    "song_session_id": "9be2ccc8-9dac-4cc0-abb4-9c6b2d907d2f",
+    "duration_ms": 181194,
+    "genre": []
+  },
+  {
+    "song": "Bad Habits",
+    "artists": [
+      "Ed Sheeran"
+    ],
+    "isrc": "GBAHS2100318",
+    "start_time": "2025-11-17 18:09:47",
+    "radio": "expres",
+    "recorded_at": "2025-11-17T18:10:19.481541+01:00",
+    "raw_valid": true,
+    "song_session_id": "a6b96f66-96a1-48b9-9cde-8d2b0836ee20",
+    "duration_ms": 230746,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Love Me Not",
+    "artists": [
+      "Ravyn Lenae"
+    ],
+    "isrc": "USAT22401137",
+    "start_time": "2025-11-17 18:13:30",
+    "radio": "expres",
+    "recorded_at": "2025-11-17T18:13:59.083548+01:00",
+    "raw_valid": true,
+    "song_session_id": "8fd171ec-7107-47e3-8a9d-37afa2cde101",
+    "duration_ms": 213466,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Nie Alebo Ano",
+    "artists": [
+      "No Name"
+    ],
+    "isrc": "SKA010110202",
+    "start_time": "2025-11-17 18:17:01",
+    "radio": "expres",
+    "recorded_at": "2025-11-17T18:17:39.847099+01:00",
+    "raw_valid": true,
+    "song_session_id": "e869cc61-92f6-4ce3-b5eb-53115760fcff",
+    "duration_ms": 243600,
+    "genre": []
+  },
+  {
+    "song": "Waka Waka (This Time For Africa)",
+    "artists": [
+      "Shakira",
+      "Freshlyground"
+    ],
+    "isrc": "USSM11001353",
+    "start_time": "2025-11-17 18:22:13",
+    "radio": "expres",
+    "recorded_at": "2025-11-17T18:22:40.123685+01:00",
+    "raw_valid": true,
+    "song_session_id": "65262a98-e994-4079-9f52-e058d0686093",
+    "duration_ms": 202480,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Fire",
+    "artists": [
+      "Meduza",
+      "Onerepublic",
+      "Leony"
+    ],
+    "isrc": "GBUM72402016",
+    "start_time": "2025-11-17 18:25:35",
+    "radio": "expres",
+    "recorded_at": "2025-11-17T18:26:03.457524+01:00",
+    "raw_valid": true,
+    "song_session_id": "b2a17f05-89e8-4936-8819-2449860be039",
+    "duration_ms": 168928,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Glide",
+    "artists": [
+      "Neiked",
+      "Portugal The Man"
+    ],
+    "isrc": "DEE862500421",
+    "start_time": "2025-11-17 18:34:09",
+    "radio": "expres",
+    "recorded_at": "2025-11-17T18:34:39.836662+01:00",
+    "raw_valid": true,
+    "song_session_id": "c004d777-032d-4863-b9a8-e44684cdee3a",
+    "duration_ms": 184405,
+    "genre": []
+  },
+  {
+    "song": "Shes The One",
+    "artists": [
+      "Robbie Williams"
+    ],
+    "isrc": "GBAYK9800020",
+    "start_time": "2025-11-17 18:37:06",
+    "radio": "expres",
+    "recorded_at": "2025-11-17T18:37:40.634156+01:00",
+    "raw_valid": true,
+    "song_session_id": "b2a984bb-c38d-4abd-8c21-b8a59bda4066",
+    "duration_ms": 260893,
+    "genre": []
+  },
+  {
+    "song": "Head Above Water",
+    "artists": [
+      "Twocolors",
+      "Safri Duo",
+      "Chris De Sarandy"
+    ],
+    "isrc": "DEUM72503698",
+    "start_time": "2025-11-17 18:41:26",
+    "radio": "expres",
+    "recorded_at": "2025-11-17T18:42:00.298582+01:00",
+    "raw_valid": true,
+    "song_session_id": "bd919039-11de-4d73-9057-a7d8d91612ef",
+    "duration_ms": 174550,
+    "genre": []
+  },
+  {
+    "song": "Follow You",
+    "artists": [
+      "Imagine Dragons"
+    ],
+    "isrc": "USUM72102981",
+    "start_time": "2025-11-17 18:44:23",
+    "radio": "expres",
+    "recorded_at": "2025-11-17T18:45:00.749152+01:00",
+    "raw_valid": true,
+    "song_session_id": "12616dc4-6955-455c-aed4-10ee0f808b74",
+    "duration_ms": 175643,
+    "genre": [
+      "trance"
+    ]
+  },
+  {
+    "song": "Where Is My Husband",
+    "artists": [
+      "Raye"
+    ],
+    "isrc": "QMFME2535037",
+    "start_time": "2025-11-17 18:47:04",
+    "radio": "expres",
+    "recorded_at": "2025-11-17T18:47:40.950647+01:00",
+    "raw_valid": true,
+    "song_session_id": "0f3d5020-2d4f-45d5-bb18-d31081b5d185",
+    "duration_ms": 196795,
+    "genre": [
+      "offizielle charts"
+    ]
+  },
+  {
+    "song": "Good News",
+    "artists": [
+      "Shaboozey"
+    ],
+    "isrc": "USUYG1580113",
+    "start_time": "2025-11-17 18:52:49",
+    "radio": "expres",
+    "recorded_at": "2025-11-17T18:53:20.780867+01:00",
+    "raw_valid": true,
+    "song_session_id": "8ba6c7d2-21a9-4f13-8b1f-d1eda5d42da8",
+    "duration_ms": 199209,
+    "genre": []
+  },
+  {
+    "song": "Nemozna",
+    "artists": [
+      "Silvia Slivova"
+    ],
+    "isrc": "SKA128676210",
+    "start_time": "2025-11-17 18:56:07",
+    "radio": "expres",
+    "recorded_at": "2025-11-17T18:56:45.141961+01:00",
+    "raw_valid": true,
+    "song_session_id": "e720daae-ae45-4129-90a8-d6cb533c5ed6",
+    "duration_ms": 233373,
+    "genre": []
+  },
+  {
+    "song": "Regalo",
+    "artists": [
+      "Alvaro Soler"
+    ],
+    "isrc": "DEE862500388",
+    "start_time": "2025-11-17 19:07:01",
+    "radio": "expres",
+    "recorded_at": "2025-11-17T19:07:34.490006+01:00",
+    "raw_valid": true,
+    "song_session_id": "c5d70c65-97cb-48ad-89a5-9d3fa5605705",
+    "duration_ms": 184984,
+    "genre": []
+  },
+  {
+    "song": "Somebody To Love",
+    "artists": [
+      "George Michael",
+      "Queen"
+    ],
+    "isrc": "GBCKZ9300002",
+    "start_time": "2025-11-17 19:10:24",
+    "radio": "expres",
+    "recorded_at": "2025-11-17T19:10:57.742879+01:00",
+    "raw_valid": true,
+    "song_session_id": "d4f91dcb-15ff-4b64-849a-59fcbf15c285",
+    "duration_ms": 318866,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Wonderful Life 25",
+    "artists": [
+      "Hurts",
+      "Purple Disco Machine"
+    ],
+    "isrc": "DEE862500677",
+    "start_time": "2025-11-17 19:15:25",
+    "radio": "expres",
+    "recorded_at": "2025-11-17T19:16:03.018680+01:00",
+    "raw_valid": true,
+    "song_session_id": "687b7e6c-ac75-435e-b410-eb1fc5bc8ba0",
+    "duration_ms": 178658,
+    "genre": []
+  },
+  {
+    "song": "Summer Wine",
+    "artists": [
+      "Ville Valo",
+      "Natalia Avelon"
+    ],
+    "isrc": "DEA620600750",
+    "start_time": "2025-11-17 19:18:31",
+    "radio": "expres",
+    "recorded_at": "2025-11-17T19:19:10.208882+01:00",
+    "raw_valid": true,
+    "song_session_id": "6a0dba6e-61cd-45bb-86d3-993e67f1bb64",
+    "duration_ms": 233546,
+    "genre": [
+      "soundtrack"
+    ]
+  },
+  {
+    "song": "To Okolo Nas",
+    "artists": [
+      "Para"
+    ],
+    "isrc": "SKP662201002",
+    "start_time": "2025-11-17 19:23:31",
+    "radio": "expres",
+    "recorded_at": "2025-11-17T19:24:05.426310+01:00",
+    "raw_valid": true,
+    "song_session_id": "bc6ae327-654e-468f-b847-b08d6b0bedab",
+    "duration_ms": 257185,
+    "genre": []
+  },
+  {
+    "song": "Mad",
+    "artists": [
+      "Martin Garrix",
+      "Lauv"
+    ],
+    "isrc": "NLM5S2502535",
+    "start_time": "2025-11-17 19:27:11",
+    "radio": "expres",
+    "recorded_at": "2025-11-17T19:27:28.502256+01:00",
+    "raw_valid": true,
+    "song_session_id": "16785628-c865-4792-a6e8-de1056b24efd",
+    "duration_ms": 199804,
+    "genre": []
+  },
+  {
+    "song": "Mystical Magical",
+    "artists": [
+      "Benson Boone"
+    ],
+    "isrc": "USWB12500844",
+    "start_time": "2025-11-17 19:32:33",
+    "radio": "expres",
+    "recorded_at": "2025-11-17T19:32:53.205446+01:00",
+    "raw_valid": true,
+    "song_session_id": "d989c048-9a6e-4c0d-a4ec-bd83e17b8956",
+    "duration_ms": 165746,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Id Do Anything For Love (But I Wont Do That)",
+    "artists": [
+      "Meat Loaf"
+    ],
+    "isrc": "USMC19341323",
+    "start_time": "2025-11-17 19:35:11",
+    "radio": "expres",
+    "recorded_at": "2025-11-17T19:35:35.670511+01:00",
+    "raw_valid": true,
+    "song_session_id": "fbf4eb7a-2eb8-40b8-ba29-f770d36ab744",
+    "duration_ms": 316466,
+    "genre": []
+  },
+  {
+    "song": "Simple Life",
+    "artists": [
+      "Leony"
+    ],
+    "isrc": "DEN062400058",
+    "start_time": "2025-11-17 19:40:43",
+    "radio": "expres",
+    "recorded_at": "2025-11-17T19:41:24.874738+01:00",
+    "raw_valid": true,
+    "song_session_id": "de6132bc-96aa-4092-b858-91721b6f7c58",
+    "duration_ms": 153100,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Vsetko Bude Dobre",
+    "artists": [
+      "Gladiator"
+    ],
+    "isrc": "SKCM72560001",
+    "start_time": "2025-11-17 19:43:15",
+    "radio": "expres",
+    "recorded_at": "2025-11-17T19:43:50.595703+01:00",
+    "raw_valid": true,
+    "song_session_id": "6fd87f3c-5ce9-4fa5-afac-99bf6bb698a1",
+    "duration_ms": 166588,
+    "genre": []
+  },
+  {
+    "song": "Everlasting Love",
+    "artists": [
+      "Sandra"
+    ],
+    "isrc": "DEG128700602",
+    "start_time": "2025-11-17 19:46:11",
+    "radio": "expres",
+    "recorded_at": "2025-11-17T19:48:09.504663+01:00",
+    "raw_valid": true,
+    "song_session_id": "f3293146-bf97-4c9f-8be3-801899dbdbcc",
+    "duration_ms": 227160,
+    "genre": [
+      "electronic"
+    ]
+  },
+  {
+    "song": "Stargazing",
+    "artists": [
+      "Myles Smith"
+    ],
+    "isrc": "GBARL2400510",
+    "start_time": "2025-11-17 19:49:51",
+    "radio": "expres",
+    "recorded_at": "2025-11-17T19:50:30.986672+01:00",
+    "raw_valid": true,
+    "song_session_id": "7ce86b24-1a9a-483a-8d2d-faf4cdb83dbc",
+    "duration_ms": 172533,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Blurry Eyes",
+    "artists": [
+      "Michael Patrick Kelly"
+    ],
+    "isrc": "DEE862101670",
+    "start_time": "2025-11-17 19:52:50",
+    "radio": "expres",
+    "recorded_at": "2025-11-17T19:53:11.655763+01:00",
+    "raw_valid": true,
+    "song_session_id": "6c7c35fc-d21c-4293-8c13-c5c79311cc85",
+    "duration_ms": 216440,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "In The Shadows",
+    "artists": [
+      "Rasmus"
+    ],
+    "isrc": "SEVJH0201601",
+    "start_time": "2025-11-17 19:56:24",
+    "radio": "expres",
+    "recorded_at": "2025-11-17T19:56:55.078206+01:00",
+    "raw_valid": true,
+    "song_session_id": "710937f4-0b8f-422a-b081-c6ac751eae11",
+    "duration_ms": 246933,
+    "genre": []
+  }
+]

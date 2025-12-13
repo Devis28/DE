@@ -1,0 +1,517 @@
+[
+  {
+    "data": {
+      "song": "Posledna",
+      "artists": [
+        "Desmod"
+      ],
+      "isrc": "CZA210300015",
+      "start_time": "2025-10-30 00:22:50",
+      "radio": "expres"
+    },
+    "recorded_at": "30.10.2025 00:23:16",
+    "raw_valid": true,
+    "song_session_id": "3f551fe3-04bc-4134-b9d3-484cfe9d028a"
+  },
+  {
+    "data": {
+      "song": "Afterlife",
+      "artists": [
+        "Michael Schulte"
+      ],
+      "isrc": "DECE72500509",
+      "start_time": "2025-10-30 00:26:19",
+      "radio": "expres"
+    },
+    "recorded_at": "30.10.2025 00:26:39",
+    "raw_valid": true,
+    "song_session_id": "adc13b1c-d70a-4659-bcd7-632758c036d2"
+  },
+  {
+    "data": {
+      "song": "Skuska Snov",
+      "artists": [
+        "Miro Zbirka",
+        "Katarina Knechtova"
+      ],
+      "isrc": "CZUM71800108",
+      "start_time": "2025-10-30 00:29:04",
+      "radio": "expres"
+    },
+    "recorded_at": "30.10.2025 00:29:32",
+    "raw_valid": true,
+    "song_session_id": "06ffad2d-e445-47e9-9d0a-f293c603db8b"
+  },
+  {
+    "data": {
+      "song": "Manchild",
+      "artists": [
+        "Sabrina Carpenter"
+      ],
+      "isrc": "USUM72504354",
+      "start_time": "2025-10-30 00:32:42",
+      "radio": "expres"
+    },
+    "recorded_at": "30.10.2025 00:32:55",
+    "raw_valid": true,
+    "song_session_id": "bbd9d5b5-8021-4bf0-a7b6-a6b3b2759f25"
+  },
+  {
+    "data": {
+      "song": "Glide",
+      "artists": [
+        "Neiked",
+        "Portugal The Man"
+      ],
+      "isrc": "DEE862500421",
+      "start_time": "2025-10-30 00:35:56",
+      "radio": "expres"
+    },
+    "recorded_at": "30.10.2025 00:36:18",
+    "raw_valid": true,
+    "song_session_id": "a808db45-3055-4b50-a2c2-6f1693cdb9fa"
+  },
+  {
+    "data": {
+      "song": "Tanecnice Z Lucnice",
+      "artists": [
+        "Elan"
+      ],
+      "isrc": "SKA128678701",
+      "start_time": "2025-10-30 00:38:49",
+      "radio": "expres"
+    },
+    "recorded_at": "30.10.2025 00:39:01",
+    "raw_valid": true,
+    "song_session_id": "cba7bfc4-c6b1-4edb-9540-555a37442351"
+  },
+  {
+    "data": {
+      "song": "Gangstas Paradise",
+      "artists": [
+        "Coolio",
+        "L.v."
+      ],
+      "isrc": "USTB10400128",
+      "start_time": "2025-10-30 00:41:37",
+      "radio": "expres"
+    },
+    "recorded_at": "30.10.2025 00:41:45",
+    "raw_valid": true,
+    "song_session_id": "96d64ced-b87a-4261-b92b-e6798ec11d8f"
+  },
+  {
+    "data": {
+      "song": "Dakujem Ze Si",
+      "artists": [
+        "No Name"
+      ],
+      "isrc": "SKA010005404",
+      "start_time": "2025-10-30 00:45:47",
+      "radio": "expres"
+    },
+    "recorded_at": "30.10.2025 00:46:20",
+    "raw_valid": true,
+    "song_session_id": "583e2a2c-b706-4f3b-b85e-c346f7069f0b"
+  },
+  {
+    "data": {
+      "song": "Memories",
+      "artists": [
+        "Maroon 5"
+      ],
+      "isrc": "USUM71913350",
+      "start_time": "2025-10-30 00:49:12",
+      "radio": "expres"
+    },
+    "recorded_at": "30.10.2025 00:49:53",
+    "raw_valid": true,
+    "song_session_id": "e9e1635a-ba75-4879-845c-ed5b210ea8ad"
+  },
+  {
+    "data": {
+      "song": "Do Neba",
+      "artists": [
+        "Dara Rolins"
+      ],
+      "isrc": "QZYFZ2505251",
+      "start_time": "2025-10-30 00:52:14",
+      "radio": "expres"
+    },
+    "recorded_at": "30.10.2025 00:52:43",
+    "raw_valid": true,
+    "song_session_id": "a029048e-d298-494c-b851-5ff3eda1964c"
+  },
+  {
+    "data": {
+      "song": "Bam Bam",
+      "artists": [
+        "Camila Cabello",
+        "Ed Sheeran"
+      ],
+      "isrc": "USSM12200047",
+      "start_time": "2025-10-30 00:55:48",
+      "radio": "expres"
+    },
+    "recorded_at": "30.10.2025 00:56:04",
+    "raw_valid": true,
+    "song_session_id": "03a61238-f383-4af5-a8c1-4440e52593c6"
+  },
+  {
+    "data": {
+      "song": "Lava",
+      "artists": [
+        "Peter Bic Project"
+      ],
+      "isrc": "SKA011900036",
+      "start_time": "2025-10-30 00:59:22",
+      "radio": "expres"
+    },
+    "recorded_at": "30.10.2025 00:59:53",
+    "raw_valid": true,
+    "song_session_id": "1e09dfa4-ac6f-4f4a-974d-e6500602beeb"
+  },
+  {
+    "data": {
+      "song": "Let Me Die",
+      "artists": [
+        "Mark Dann",
+        "Giovanni Ricci"
+      ],
+      "isrc": "US38Y2520370",
+      "start_time": "2025-10-30 01:02:44",
+      "radio": "expres"
+    },
+    "recorded_at": "30.10.2025 01:03:12",
+    "raw_valid": true,
+    "song_session_id": "9055e138-9b5b-4aab-beb2-ad34e9c129df"
+  },
+  {
+    "data": {
+      "song": "Mandolina",
+      "artists": [
+        "Adam Durica"
+      ],
+      "isrc": "SKA011400115",
+      "start_time": "2025-10-30 01:05:13",
+      "radio": "expres"
+    },
+    "recorded_at": "30.10.2025 01:05:34",
+    "raw_valid": true,
+    "song_session_id": "c784ff5d-df7a-4e37-aa73-cfddbc5bd4c1"
+  },
+  {
+    "data": {
+      "song": "Alibi",
+      "artists": [
+        "Sevdaliza",
+        "Pabllo Vittar",
+        "Yseult"
+      ],
+      "isrc": "NL47E2400004",
+      "start_time": "2025-10-30 01:08:27",
+      "radio": "expres"
+    },
+    "recorded_at": "30.10.2025 01:09:02",
+    "raw_valid": true,
+    "song_session_id": "50cfebb6-6409-4e29-8e71-2b363e46a76e"
+  },
+  {
+    "data": {
+      "song": "Ked To Nejde",
+      "artists": [
+        "Zdenka Predna"
+      ],
+      "isrc": "CZA210700071",
+      "start_time": "2025-10-30 01:11:10",
+      "radio": "expres"
+    },
+    "recorded_at": "30.10.2025 01:11:40",
+    "raw_valid": true,
+    "song_session_id": "45971f25-71cb-4dcd-b5fc-1752db946741"
+  },
+  {
+    "data": {
+      "song": "Africa",
+      "artists": [
+        "Toto"
+      ],
+      "isrc": "USSM19801941",
+      "start_time": "2025-10-30 01:14:25",
+      "radio": "expres"
+    },
+    "recorded_at": "30.10.2025 01:14:43",
+    "raw_valid": true,
+    "song_session_id": "b0f4e621-b933-4477-80dd-a8c23e7e16b5"
+  },
+  {
+    "data": {
+      "song": "Ta Ne",
+      "artists": [
+        "Kristina"
+      ],
+      "isrc": "SKG061400303",
+      "start_time": "2025-10-30 01:18:13",
+      "radio": "expres"
+    },
+    "recorded_at": "30.10.2025 01:18:27",
+    "raw_valid": true,
+    "song_session_id": "835f7522-05c1-4122-8ff5-6033a9e0cded"
+  },
+  {
+    "data": {
+      "song": "The Fate Of Ophelia",
+      "artists": [
+        "Taylor Swift"
+      ],
+      "isrc": "USUG12506436",
+      "start_time": "2025-10-30 01:21:14",
+      "radio": "expres"
+    },
+    "recorded_at": "30.10.2025 01:21:30",
+    "raw_valid": true,
+    "song_session_id": "c26d20e9-a685-44b0-9966-024bfecc0c43"
+  },
+  {
+    "data": {
+      "song": "Myslim Ze Moze Byt",
+      "artists": [
+        "Imt Smile",
+        "Marian Cekovsky"
+      ],
+      "isrc": "SKA010400075",
+      "start_time": "2025-10-30 01:25:10",
+      "radio": "expres"
+    },
+    "recorded_at": "30.10.2025 01:25:44",
+    "raw_valid": true,
+    "song_session_id": "be0f0914-848e-4346-b94a-cf6a94b6cace"
+  },
+  {
+    "data": {
+      "song": "Italodisco",
+      "artists": [
+        "The Kolors"
+      ],
+      "isrc": "ITQ002300342",
+      "start_time": "2025-10-30 01:29:34",
+      "radio": "expres"
+    },
+    "recorded_at": "30.10.2025 01:30:07",
+    "raw_valid": true,
+    "song_session_id": "70e2a7aa-72bd-46ce-ab4b-b50d60614383"
+  },
+  {
+    "data": {
+      "song": "Regalo",
+      "artists": [
+        "Alvaro Soler"
+      ],
+      "isrc": "DEE862500388",
+      "start_time": "2025-10-30 01:33:55",
+      "radio": "expres"
+    },
+    "recorded_at": "30.10.2025 01:34:17",
+    "raw_valid": true,
+    "song_session_id": "59e1c9df-5a2e-496a-b357-db1253b85d24"
+  },
+  {
+    "data": {
+      "song": "Najviac",
+      "artists": [
+        "Lukas Adamec"
+      ],
+      "isrc": "SKI601900020",
+      "start_time": "2025-10-30 01:37:01",
+      "radio": "expres"
+    },
+    "recorded_at": "30.10.2025 01:37:35",
+    "raw_valid": true,
+    "song_session_id": "cf6f4450-f774-49b6-b42f-36181e79dc08"
+  },
+  {
+    "data": {
+      "song": "Be My Lover",
+      "artists": [
+        "La Bouche"
+      ],
+      "isrc": "DED169500047",
+      "start_time": "2025-10-30 01:40:31",
+      "radio": "expres"
+    },
+    "recorded_at": "30.10.2025 01:40:58",
+    "raw_valid": true,
+    "song_session_id": "7e021b0e-d794-40c4-ac5d-985c4460a74f"
+  },
+  {
+    "data": {
+      "song": "Papierove Kone",
+      "artists": [
+        "Nocaden"
+      ],
+      "isrc": "SKBW52400104",
+      "start_time": "2025-10-30 01:44:40",
+      "radio": "expres"
+    },
+    "recorded_at": "30.10.2025 01:44:57",
+    "raw_valid": true,
+    "song_session_id": "aed8c234-06fa-4fb8-8ce9-733aa4e92a4d"
+  },
+  {
+    "data": {
+      "song": "Head Above Water",
+      "artists": [
+        "Twocolors",
+        "Safri Duo",
+        "Chris De Sarandy"
+      ],
+      "isrc": "DEUM72503698",
+      "start_time": "2025-10-30 01:48:53",
+      "radio": "expres"
+    },
+    "recorded_at": "30.10.2025 01:49:21",
+    "raw_valid": true,
+    "song_session_id": "84c0c1b4-c2c2-4623-89ec-2043f56c272f"
+  },
+  {
+    "data": {
+      "song": "Vo Svetle Ziariacich Hviezd",
+      "artists": [
+        "Katarina Knechtova"
+      ],
+      "isrc": "CZUM70800920",
+      "start_time": "2025-10-30 01:51:51",
+      "radio": "expres"
+    },
+    "recorded_at": "30.10.2025 01:52:08",
+    "raw_valid": true,
+    "song_session_id": "5f5fcdfa-8d8c-4acd-b325-210a2009f8a3"
+  },
+  {
+    "data": {
+      "song": "Whatever It Takes",
+      "artists": [
+        "Imagine Dragons"
+      ],
+      "isrc": "USUM71703515",
+      "start_time": "2025-10-30 01:55:03",
+      "radio": "expres"
+    },
+    "recorded_at": "30.10.2025 01:55:36",
+    "raw_valid": true,
+    "song_session_id": "1d5fc267-7d98-473d-b5ca-b9d7ca336201"
+  },
+  {
+    "data": {
+      "song": "Domov",
+      "artists": [
+        "Alan Murin"
+      ],
+      "isrc": "QZWDW2424416",
+      "start_time": "2025-10-30 01:58:26",
+      "radio": "expres"
+    },
+    "recorded_at": "30.10.2025 01:58:52",
+    "raw_valid": true,
+    "song_session_id": "cc7c64d4-4a39-47c1-84d5-dc451b0cb519"
+  },
+  {
+    "data": {
+      "song": "Snap",
+      "artists": [
+        "Rosa Linn"
+      ],
+      "isrc": "USSM12207342",
+      "start_time": "2025-10-30 02:02:23",
+      "radio": "expres"
+    },
+    "recorded_at": "30.10.2025 02:02:36",
+    "raw_valid": true,
+    "song_session_id": "345436ff-3a6f-4b92-b083-dca88c3164e0"
+  },
+  {
+    "data": {
+      "song": "Voda Divoka",
+      "artists": [
+        "Jana Kirschner"
+      ],
+      "isrc": "CZW851200003",
+      "start_time": "2025-10-30 02:05:26",
+      "radio": "expres"
+    },
+    "recorded_at": "30.10.2025 02:05:44",
+    "raw_valid": true,
+    "song_session_id": "12787436-19b3-49af-83c4-0b8d6a0f6c92"
+  },
+  {
+    "data": {
+      "song": "Mystical Magical",
+      "artists": [
+        "Benson Boone"
+      ],
+      "isrc": "USWB12500844",
+      "start_time": "2025-10-30 02:09:04",
+      "radio": "expres"
+    },
+    "recorded_at": "30.10.2025 02:09:30",
+    "raw_valid": true,
+    "song_session_id": "821cc6da-1f01-45ee-83b9-10ff67a3df74"
+  },
+  {
+    "data": {
+      "song": "Slnko Nevychadzaj",
+      "artists": [
+        "Metalinda"
+      ],
+      "isrc": "SKG871600305",
+      "start_time": "2025-10-30 02:11:49",
+      "radio": "expres"
+    },
+    "recorded_at": "30.10.2025 02:12:11",
+    "raw_valid": true,
+    "song_session_id": "307b1b43-42bf-4f5c-861b-5724fa50f9da"
+  },
+  {
+    "data": {
+      "song": "Sexy Chick",
+      "artists": [
+        "David Guetta",
+        "Akon"
+      ],
+      "isrc": "FRZID0900930",
+      "start_time": "2025-10-30 02:16:13",
+      "radio": "expres"
+    },
+    "recorded_at": "30.10.2025 02:16:38",
+    "raw_valid": true,
+    "song_session_id": "0b1722c1-3aa7-45f4-9fa5-cb72cddc2678"
+  },
+  {
+    "data": {
+      "song": "Niekto Ti To Povie Skor Nez Ja",
+      "artists": [
+        "Desmod"
+      ],
+      "isrc": "CZA210600216",
+      "start_time": "2025-10-30 02:19:40",
+      "radio": "expres"
+    },
+    "recorded_at": "30.10.2025 02:19:57",
+    "raw_valid": true,
+    "song_session_id": "a7a34ad4-0107-49eb-a5f7-02ef31c03977"
+  },
+  {
+    "data": {
+      "song": "Undressed",
+      "artists": [
+        "Sombr"
+      ],
+      "isrc": "USWB12500737",
+      "start_time": "2025-10-30 02:24:04",
+      "radio": "expres"
+    },
+    "recorded_at": "30.10.2025 02:24:19",
+    "raw_valid": true,
+    "song_session_id": "e1eff707-e8d1-4ac6-9e85-e058a4e2be8f"
+  }
+]

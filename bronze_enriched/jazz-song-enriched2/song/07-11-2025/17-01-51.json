@@ -1,0 +1,333 @@
+[
+  {
+    "song": {
+      "play_date": "2025-11-07",
+      "play_time": "16:05",
+      "artist": [
+        "Miles Davis"
+      ],
+      "title": "Milestones"
+    },
+    "recorded_at": "2025-11-07T16:09:45.086861+01:00",
+    "raw_valid": true,
+    "song_session_id": "c922e03d-6b91-48ba-8863-6021fcca3b38",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-11-07",
+      "play_time": "16:12",
+      "artist": [
+        "Emerald Caro"
+      ],
+      "title": "A Night Like This"
+    },
+    "recorded_at": "2025-11-07T16:14:45.810807+01:00",
+    "raw_valid": true,
+    "song_session_id": "733b0ff8-2672-479a-bff5-de909e3781b3",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-11-07",
+      "play_time": "16:16",
+      "artist": [
+        "Chet Baker"
+      ],
+      "title": "The More I See You"
+    },
+    "recorded_at": "2025-11-07T16:19:46.504945+01:00",
+    "raw_valid": true,
+    "song_session_id": "991aad38-44d4-4cda-b253-a04ef5f45ee4",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-11-07",
+      "play_time": "16:19",
+      "artist": [
+        "Andreas Varady"
+      ],
+      "title": "Do It Again"
+    },
+    "recorded_at": "2025-11-07T16:24:47.179496+01:00",
+    "raw_valid": true,
+    "song_session_id": "ac2585fa-bca9-4786-bfc2-5b910f1b39d2",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-11-07",
+      "play_time": "16:24",
+      "artist": [
+        "Four80east"
+      ],
+      "title": "Speak Easy"
+    },
+    "recorded_at": "2025-11-07T16:29:47.889312+01:00",
+    "raw_valid": true,
+    "song_session_id": "62f9c39c-2eeb-41a5-8a0d-7b6fef315ccb",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-11-07",
+      "play_time": "16:29",
+      "artist": [
+        "Emmet Cohen"
+      ],
+      "title": "Dardanella"
+    },
+    "recorded_at": "2025-11-07T16:34:48.565931+01:00",
+    "raw_valid": true,
+    "song_session_id": "29d213c7-594c-4b2e-ab0b-9e36211c89c1",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-11-07",
+      "play_time": "16:38",
+      "artist": [
+        "Nicola Conte"
+      ],
+      "title": "I See All Shades Of You"
+    },
+    "recorded_at": "2025-11-07T16:39:49.312922+01:00",
+    "raw_valid": true,
+    "song_session_id": "f50fff02-ae7c-4378-9ca2-ecfc642806da",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-11-07",
+      "play_time": "16:43",
+      "artist": [
+        "André Andreo"
+      ],
+      "title": "South Beach Soul"
+    },
+    "recorded_at": "2025-11-07T16:44:50.014582+01:00",
+    "raw_valid": true,
+    "song_session_id": "93d7cd12-cd92-4e3d-88d4-043b40ead046",
+    "duration_ms": 278107,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-11-07",
+      "play_time": "16:48",
+      "artist": [
+        "Nikolaj Nikitin"
+      ],
+      "title": "Parkside"
+    },
+    "recorded_at": "2025-11-07T16:49:50.675552+01:00",
+    "raw_valid": true,
+    "song_session_id": "d124a7df-aa46-4cae-9092-93404a415e00",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-11-07",
+      "play_time": "16:53",
+      "artist": [
+        "Eliane Elias"
+      ],
+      "title": "The Girl From Ipanema"
+    },
+    "recorded_at": "2025-11-07T16:54:51.357841+01:00",
+    "raw_valid": true,
+    "song_session_id": "46df5586-f26b-43d4-9a33-db46d97924bb",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-11-07",
+      "play_time": "16:58",
+      "artist": [
+        "Wes Montgomery"
+      ],
+      "title": "Eleanor Rigby"
+    },
+    "recorded_at": "2025-11-07T16:59:52.030066+01:00",
+    "raw_valid": true,
+    "song_session_id": "e164d8c7-ed5f-4295-a068-8336bb7b558c",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-11-07",
+      "play_time": "17:02",
+      "artist": [
+        "Count Basic"
+      ],
+      "title": "Wes Who"
+    },
+    "recorded_at": "2025-11-07T17:04:52.712171+01:00",
+    "raw_valid": true,
+    "song_session_id": "c8f6cbd0-4cf9-4e0a-a3f2-17997b940f30",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-11-07",
+      "play_time": "17:05",
+      "artist": [
+        "Weather Report"
+      ],
+      "title": "Palladium"
+    },
+    "recorded_at": "2025-11-07T17:09:53.412065+01:00",
+    "raw_valid": true,
+    "song_session_id": "542e49a3-f50c-4306-81f2-b93e45dd58ed",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-11-07",
+      "play_time": "17:10",
+      "artist": [
+        "Dzihan",
+        "Kamien"
+      ],
+      "title": "Stiff Jazz"
+    },
+    "recorded_at": "2025-11-07T17:14:54.486357+01:00",
+    "raw_valid": true,
+    "song_session_id": "68fe1a9c-2d1a-4257-8404-8d0a1fcaaaf0",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-11-07",
+      "play_time": "17:19",
+      "artist": [
+        "Miles Davis"
+      ],
+      "title": "Blue In Green"
+    },
+    "recorded_at": "2025-11-07T17:19:26.327637+01:00",
+    "raw_valid": true,
+    "song_session_id": "7a68e185-7698-4440-bde5-c516ebe60f5d",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-11-07",
+      "play_time": "17:24",
+      "artist": [
+        "Sisa Michalidesova"
+      ],
+      "title": "Jar"
+    },
+    "recorded_at": "2025-11-07T17:29:27.703522+01:00",
+    "raw_valid": true,
+    "song_session_id": "99a950e0-6d06-46be-8c14-99f4ce4bff66",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-11-07",
+      "play_time": "17:32",
+      "artist": [
+        "Oscar Peterson Trio"
+      ],
+      "title": "Band Call"
+    },
+    "recorded_at": "2025-11-07T17:34:28.393576+01:00",
+    "raw_valid": true,
+    "song_session_id": "9c88116c-5130-4eb7-bcb6-bca739ca0101",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-11-07",
+      "play_time": "17:36",
+      "artist": [
+        "Paul Desmond"
+      ],
+      "title": "Take Ten"
+    },
+    "recorded_at": "2025-11-07T17:39:29.083837+01:00",
+    "raw_valid": true,
+    "song_session_id": "593abb3c-da35-441d-a0d2-b7df0a729788",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-11-07",
+      "play_time": "17:39",
+      "artist": [
+        "Jeff Denson Trio"
+      ],
+      "title": "Daily Jubilee Of Dancing Herbie D."
+    },
+    "recorded_at": "2025-11-07T17:44:29.766169+01:00",
+    "raw_valid": true,
+    "song_session_id": "50b78af8-6121-47f3-a00f-d63475c9ee4e",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-11-07",
+      "play_time": "17:47",
+      "artist": [
+        "Young Slovak Jazz Generation"
+      ],
+      "title": "Jazzington"
+    },
+    "recorded_at": "2025-11-07T17:49:30.483386+01:00",
+    "raw_valid": true,
+    "song_session_id": "9cada1b4-74b9-4b64-b608-c8e1e34b9e29",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-11-07",
+      "play_time": "17:53",
+      "artist": [
+        "Dock In Absolute"
+      ],
+      "title": "Borderline"
+    },
+    "recorded_at": "2025-11-07T17:54:31.263862+01:00",
+    "raw_valid": true,
+    "song_session_id": "b3f1080b-b36c-450b-ba4c-ff102a453091",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-11-07",
+      "play_time": "17:57",
+      "artist": [
+        "Vendla"
+      ],
+      "title": "Gentlemen"
+    },
+    "recorded_at": "2025-11-07T17:59:31.955259+01:00",
+    "raw_valid": true,
+    "song_session_id": "3416528a-0e73-4c01-9d34-b8416f80cc1b",
+    "duration_ms": null,
+    "genre": []
+  }
+]

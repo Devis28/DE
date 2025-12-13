@@ -1,0 +1,512 @@
+[
+  {
+    "song": "Regalo",
+    "artists": [
+      "Alvaro Soler"
+    ],
+    "isrc": "DEE862500388",
+    "start_time": "2025-11-08 22:04:55",
+    "radio": "expres",
+    "recorded_at": "2025-11-08T22:05:19.677965+01:00",
+    "raw_valid": true,
+    "song_session_id": "ccd2e743-ddee-473c-843b-eb5b7edd6f82",
+    "duration_ms": 184984,
+    "genre": []
+  },
+  {
+    "song": "Hvezdari",
+    "artists": [
+      "Krystof",
+      "Sima Martausova"
+    ],
+    "isrc": "CZUM71900470",
+    "start_time": "2025-11-08 22:08:10",
+    "radio": "expres",
+    "recorded_at": "2025-11-08T22:08:38.689839+01:00",
+    "raw_valid": true,
+    "song_session_id": "229a30ee-37af-4e0b-b8f6-b07f0d202bb6",
+    "duration_ms": 242553,
+    "genre": []
+  },
+  {
+    "song": "Stars Will Align",
+    "artists": [
+      "Kygo",
+      "Imagine Dragons"
+    ],
+    "isrc": "SEBGA2401211",
+    "start_time": "2025-11-08 22:11:50",
+    "radio": "expres",
+    "recorded_at": "2025-11-08T22:12:26.415006+01:00",
+    "raw_valid": true,
+    "song_session_id": "27af8cdd-9378-40cc-9d45-83fa003b5db6",
+    "duration_ms": 234366,
+    "genre": []
+  },
+  {
+    "song": "Dancing In The Moonlight",
+    "artists": [
+      "Toploader"
+    ],
+    "isrc": "GBBBL9902165",
+    "start_time": "2025-11-08 22:15:38",
+    "radio": "expres",
+    "recorded_at": "2025-11-08T22:16:10.881619+01:00",
+    "raw_valid": true,
+    "song_session_id": "337debbf-8c2c-433f-ac9b-4c76ececc5b9",
+    "duration_ms": 230120,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Do Neba",
+    "artists": [
+      "Dara Rolins"
+    ],
+    "isrc": "QZYFZ2505251",
+    "start_time": "2025-11-08 22:19:14",
+    "radio": "expres",
+    "recorded_at": "2025-11-08T22:19:41.309703+01:00",
+    "raw_valid": true,
+    "song_session_id": "66d8b81e-3905-476f-aeae-9b98a85ba20b",
+    "duration_ms": 204253,
+    "genre": []
+  },
+  {
+    "song": "Apologize",
+    "artists": [
+      "Timbaland",
+      "Onerepublic"
+    ],
+    "isrc": "USUM70722793",
+    "start_time": "2025-11-08 22:22:56",
+    "radio": "expres",
+    "recorded_at": "2025-11-08T22:23:24.847406+01:00",
+    "raw_valid": true,
+    "song_session_id": "f8818d48-76ac-4732-8e4b-24f362f673e3",
+    "duration_ms": 184666,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Feelslikeimfallinginlove",
+    "artists": [
+      "Coldplay"
+    ],
+    "isrc": "GBAYE2400676",
+    "start_time": "2025-11-08 22:26:00",
+    "radio": "expres",
+    "recorded_at": "2025-11-08T22:26:28.586045+01:00",
+    "raw_valid": true,
+    "song_session_id": "668b7709-b626-47cc-a018-dec179d8f2d9",
+    "duration_ms": 237803,
+    "genre": [
+      "alternative rock"
+    ]
+  },
+  {
+    "song": "Holubicka",
+    "artists": [
+      "Adam Durica"
+    ],
+    "isrc": "SKA011800048",
+    "start_time": "2025-11-08 22:29:41",
+    "radio": "expres",
+    "recorded_at": "2025-11-08T22:30:06.913230+01:00",
+    "raw_valid": true,
+    "song_session_id": "00f8f821-344d-4838-a738-3700925b230b",
+    "duration_ms": 273955,
+    "genre": []
+  },
+  {
+    "song": "Mystical Magical",
+    "artists": [
+      "Benson Boone"
+    ],
+    "isrc": "USWB12500844",
+    "start_time": "2025-11-08 22:34:13",
+    "radio": "expres",
+    "recorded_at": "2025-11-08T22:34:40.777929+01:00",
+    "raw_valid": true,
+    "song_session_id": "517a0e3d-e48f-4bbe-a31e-3ad7c5cb0e20",
+    "duration_ms": 165746,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Blank Space",
+    "artists": [
+      "Taylor Swift"
+    ],
+    "isrc": "USCJY1431309",
+    "start_time": "2025-11-08 22:36:59",
+    "radio": "expres",
+    "recorded_at": "2025-11-08T22:37:20.466625+01:00",
+    "raw_valid": true,
+    "song_session_id": "c6ff1edb-dc72-4e7d-9b50-291fabc41415",
+    "duration_ms": 231826,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Bring Me To Life",
+    "artists": [
+      "Evanescence"
+    ],
+    "isrc": "USWU30200093",
+    "start_time": "2025-11-08 22:40:52",
+    "radio": "expres",
+    "recorded_at": "2025-11-08T22:41:20.823898+01:00",
+    "raw_valid": true,
+    "song_session_id": "7a54f40f-6cf8-447a-9d32-c12496b770b0",
+    "duration_ms": 235893,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Afterlife",
+    "artists": [
+      "Michael Schulte"
+    ],
+    "isrc": "DECE72500509",
+    "start_time": "2025-11-08 22:44:47",
+    "radio": "expres",
+    "recorded_at": "2025-11-08T22:44:59.070835+01:00",
+    "raw_valid": true,
+    "song_session_id": "38276f8f-4987-42a3-9875-c51d71c33a0a",
+    "duration_ms": 160120,
+    "genre": []
+  },
+  {
+    "song": "Ziva Voda",
+    "artists": [
+      "Zuzana Smatanova"
+    ],
+    "isrc": "SKI942300706",
+    "start_time": "2025-11-08 22:47:30",
+    "radio": "expres",
+    "recorded_at": "2025-11-08T22:47:42.773760+01:00",
+    "raw_valid": true,
+    "song_session_id": "2d9e004e-a8b1-482c-bf56-000c80fbf2db",
+    "duration_ms": 223791,
+    "genre": []
+  },
+  {
+    "song": "Walk With Me",
+    "artists": [
+      "Felix Jaehn",
+      "Shouse"
+    ],
+    "isrc": "DEUM72411810",
+    "start_time": "2025-11-08 22:51:12",
+    "radio": "expres",
+    "recorded_at": "2025-11-08T22:51:29.715243+01:00",
+    "raw_valid": true,
+    "song_session_id": "66edca32-0eb7-4ca0-af3a-d172b2eebe72",
+    "duration_ms": 152535,
+    "genre": []
+  },
+  {
+    "song": "Gone Gone Gone",
+    "artists": [
+      "David Guetta",
+      "Teddy Swims",
+      "Tones And I"
+    ],
+    "isrc": "UKWLG2500132",
+    "start_time": "2025-11-08 22:53:39",
+    "radio": "expres",
+    "recorded_at": "2025-11-08T22:54:11.842215+01:00",
+    "raw_valid": true,
+    "song_session_id": "c7b8f48d-7c81-49e4-9460-8b7f64f4bd0a",
+    "duration_ms": 198004,
+    "genre": [
+      "soul"
+    ]
+  },
+  {
+    "song": "Cesty Ii. Triedy",
+    "artists": [
+      "Ivan Tasler",
+      "Imt Smile"
+    ],
+    "isrc": "SKA011400080",
+    "start_time": "2025-11-08 22:57:16",
+    "radio": "expres",
+    "recorded_at": "2025-11-08T22:57:31.042239+01:00",
+    "raw_valid": true,
+    "song_session_id": "c1643fa7-cd05-4b95-896d-5f72f965a32c",
+    "duration_ms": 234786,
+    "genre": []
+  },
+  {
+    "song": "Bad Memories",
+    "artists": [
+      "Meduza",
+      "James Carter",
+      "Elley Duhe",
+      "Fast Boy"
+    ],
+    "isrc": "GBUM72203666",
+    "start_time": "2025-11-08 23:01:08",
+    "radio": "expres",
+    "recorded_at": "2025-11-08T23:01:31.122858+01:00",
+    "raw_valid": true,
+    "song_session_id": "0e16b19b-baed-437b-9690-4e6bbb821fce",
+    "duration_ms": 148629,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Over My Shoulder",
+    "artists": [
+      "Mike",
+      "The Mechanics"
+    ],
+    "isrc": "GBAAA9500015",
+    "start_time": "2025-11-08 23:03:37",
+    "radio": "expres",
+    "recorded_at": "2025-11-08T23:03:53.652539+01:00",
+    "raw_valid": true,
+    "song_session_id": "24caefdd-69e2-4852-92ff-e3dc7dea7eb2",
+    "duration_ms": 217200,
+    "genre": []
+  },
+  {
+    "song": "Ordinary",
+    "artists": [
+      "Alex Warren"
+    ],
+    "isrc": "USAT22500463",
+    "start_time": "2025-11-08 23:07:07",
+    "radio": "expres",
+    "recorded_at": "2025-11-08T23:07:17.168285+01:00",
+    "raw_valid": true,
+    "song_session_id": "50c36910-759c-4456-80d5-c07947f4f00a",
+    "duration_ms": 186964,
+    "genre": [
+      "folk"
+    ]
+  },
+  {
+    "song": "Bonfire Heart",
+    "artists": [
+      "James Blunt"
+    ],
+    "isrc": "GBAHS1300301",
+    "start_time": "2025-11-08 23:10:12",
+    "radio": "expres",
+    "recorded_at": "2025-11-08T23:10:41.687781+01:00",
+    "raw_valid": true,
+    "song_session_id": "c7042254-7346-4f8b-9c39-c7e98d075996",
+    "duration_ms": 238000,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Forbidden Road",
+    "artists": [
+      "Robbie Williams"
+    ],
+    "isrc": "GBPS62400032",
+    "start_time": "2025-11-08 23:13:58",
+    "radio": "expres",
+    "recorded_at": "2025-11-08T23:14:20.175554+01:00",
+    "raw_valid": true,
+    "song_session_id": "acc345ea-e6a9-4017-a23a-dd1bdb90666d",
+    "duration_ms": 197419,
+    "genre": []
+  },
+  {
+    "song": "Its My Life",
+    "artists": [
+      "Bon Jovi"
+    ],
+    "isrc": "USIR20000145",
+    "start_time": "2025-11-08 23:17:10",
+    "radio": "expres",
+    "recorded_at": "2025-11-08T23:17:41.634864+01:00",
+    "raw_valid": true,
+    "song_session_id": "17192c65-2e63-4966-b3f4-c5bb015dd5ac",
+    "duration_ms": 224600,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Burka",
+    "artists": [
+      "Maria Cirova"
+    ],
+    "isrc": "SKB000807104",
+    "start_time": "2025-11-08 23:21:06",
+    "radio": "expres",
+    "recorded_at": "2025-11-08T23:21:32.622556+01:00",
+    "raw_valid": true,
+    "song_session_id": "ccd65b04-fa4c-4f74-ac1c-9c9f2a188a2c",
+    "duration_ms": 245680,
+    "genre": []
+  },
+  {
+    "song": "Symphony",
+    "artists": [
+      "Imagine Dragons"
+    ],
+    "isrc": "USUM72205463",
+    "start_time": "2025-11-08 23:25:12",
+    "radio": "expres",
+    "recorded_at": "2025-11-08T23:25:33.332272+01:00",
+    "raw_valid": true,
+    "song_session_id": "aac65c49-46b2-4615-8917-c190a208bcce",
+    "duration_ms": 175833,
+    "genre": [
+      "alternative rock"
+    ]
+  },
+  {
+    "song": "Si Sam",
+    "artists": [
+      "Tina"
+    ],
+    "isrc": "CZA231100692",
+    "start_time": "2025-11-08 23:28:16",
+    "radio": "expres",
+    "recorded_at": "2025-11-08T23:28:41.164186+01:00",
+    "raw_valid": true,
+    "song_session_id": "fcc8df85-eff9-403a-933c-fda41b429d25",
+    "duration_ms": 236306,
+    "genre": []
+  },
+  {
+    "song": "Million Good Reasons",
+    "artists": [
+      "Robin Schulz",
+      "Fast Boy"
+    ],
+    "isrc": "DEA622404738",
+    "start_time": "2025-11-08 23:32:55",
+    "radio": "expres",
+    "recorded_at": "2025-11-08T23:33:16.212493+01:00",
+    "raw_valid": true,
+    "song_session_id": "0935ddbf-9786-4f34-9a9a-2c8ac0b4737e",
+    "duration_ms": 157130,
+    "genre": []
+  },
+  {
+    "song": "Voda Co Ma Drzi Nad Vodou",
+    "artists": [
+      "Jozo Raz"
+    ],
+    "isrc": "SKA019908110",
+    "start_time": "2025-11-08 23:35:30",
+    "radio": "expres",
+    "recorded_at": "2025-11-08T23:35:53.924180+01:00",
+    "raw_valid": true,
+    "song_session_id": "82914397-6cd0-4c79-982b-4699585c397d",
+    "duration_ms": 312600,
+    "genre": []
+  },
+  {
+    "song": "Only Girl (In The World)",
+    "artists": [
+      "Rihanna"
+    ],
+    "isrc": "USUM71023200",
+    "start_time": "2025-11-08 23:40:25",
+    "radio": "expres",
+    "recorded_at": "2025-11-08T23:40:38.088575+01:00",
+    "raw_valid": true,
+    "song_session_id": "f68fa10e-4803-4675-9c86-22135d7011f3",
+    "duration_ms": 235626,
+    "genre": [
+      "electronic"
+    ]
+  },
+  {
+    "song": "Head Above Water",
+    "artists": [
+      "Twocolors",
+      "Safri Duo",
+      "Chris De Sarandy"
+    ],
+    "isrc": "DEUM72503698",
+    "start_time": "2025-11-08 23:44:27",
+    "radio": "expres",
+    "recorded_at": "2025-11-08T23:44:48.106075+01:00",
+    "raw_valid": true,
+    "song_session_id": "9b5ea546-156d-4f1e-9684-b8a3db835e87",
+    "duration_ms": 174550,
+    "genre": []
+  },
+  {
+    "song": "Dont Speak",
+    "artists": [
+      "No Doubt"
+    ],
+    "isrc": "USIR19500279",
+    "start_time": "2025-11-08 23:47:30",
+    "radio": "expres",
+    "recorded_at": "2025-11-08T23:47:45.927433+01:00",
+    "raw_valid": true,
+    "song_session_id": "5256ea8a-f151-4b88-a6d2-4e77752fca5d",
+    "duration_ms": 262746,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Simple Life",
+    "artists": [
+      "Leony"
+    ],
+    "isrc": "DEN062400058",
+    "start_time": "2025-11-08 23:51:35",
+    "radio": "expres",
+    "recorded_at": "2025-11-08T23:51:49.765056+01:00",
+    "raw_valid": true,
+    "song_session_id": "53544895-70a5-4ecc-8c09-a582f93bfd1d",
+    "duration_ms": 153100,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "The Fate Of Ophelia",
+    "artists": [
+      "Taylor Swift"
+    ],
+    "isrc": "USUG12506436",
+    "start_time": "2025-11-08 23:54:07",
+    "radio": "expres",
+    "recorded_at": "2025-11-08T23:54:32.467058+01:00",
+    "raw_valid": true,
+    "song_session_id": "fc43faec-bf68-4ff6-8a8c-856a283a4c12",
+    "duration_ms": 226073,
+    "genre": [
+      "electronic"
+    ]
+  },
+  {
+    "song": "Little Bit Of Love",
+    "artists": [
+      "Tom Grennan"
+    ],
+    "isrc": "GBARL2001197",
+    "start_time": "2025-11-08 23:58:01",
+    "radio": "expres",
+    "recorded_at": "2025-11-08T23:58:20.307614+01:00",
+    "raw_valid": true,
+    "song_session_id": "f9483d28-4f39-4c21-92a5-18ae70ee28d0",
+    "duration_ms": 226268,
+    "genre": [
+      "pop"
+    ]
+  }
+]

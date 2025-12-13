@@ -1,0 +1,350 @@
+[
+  {
+    "last_update": "2025-11-18 05:06:20",
+    "song": {
+      "musicAuthor": "Adele",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851f1ea3305aa003425dda05882",
+      "musicTitle": "Send My Love (To Your New Lover)",
+      "radio": "Fun Rádio",
+      "startTime": "06:05"
+    },
+    "recorded_at": "2025-11-18T06:06:20.702318+01:00",
+    "raw_valid": true,
+    "song_session_id": "a30f08a6-b393-4cd4-b6d5-c9a70220fcd4",
+    "duration_ms": null,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "last_update": "2025-11-18 05:13:21",
+    "song": {
+      "musicAuthor": "Jax Jones, Calum Scott",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851490a887b85a95378ea66b41d",
+      "musicTitle": "Whistle",
+      "radio": "Fun Rádio",
+      "startTime": "06:12"
+    },
+    "recorded_at": "2025-11-18T06:13:21.152086+01:00",
+    "raw_valid": true,
+    "song_session_id": "40124d02-f6ea-42be-9104-d8bf8dec166e",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "last_update": "2025-11-18 05:16:20",
+    "song": {
+      "musicAuthor": "Sabrina Carpenter",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851062c6573009fdebd43de443b",
+      "musicTitle": "Manchild",
+      "radio": "Fun Rádio",
+      "startTime": "06:15"
+    },
+    "recorded_at": "2025-11-18T06:16:21.341212+01:00",
+    "raw_valid": true,
+    "song_session_id": "b482c0f1-622a-4b97-9e50-80f40cee80c4",
+    "duration_ms": null,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "last_update": "2025-11-18 05:22:21",
+    "song": {
+      "musicAuthor": "Linkin Park",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851c0db065619ed208515412917",
+      "musicTitle": "The Emptiness Machine",
+      "radio": "Fun Rádio",
+      "startTime": "06:21"
+    },
+    "recorded_at": "2025-11-18T06:22:21.732716+01:00",
+    "raw_valid": true,
+    "song_session_id": "352e0a1f-5583-455a-976e-4de6599362c3",
+    "duration_ms": null,
+    "genre": [
+      "metal"
+    ]
+  },
+  {
+    "last_update": "2025-11-18 05:26:21",
+    "song": {
+      "musicAuthor": "Taylor Swift",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851d7812467811a7da6e6a44902",
+      "musicTitle": "The Fate Of Ophelia",
+      "radio": "Fun Rádio",
+      "startTime": "06:25"
+    },
+    "recorded_at": "2025-11-18T06:26:21.996731+01:00",
+    "raw_valid": true,
+    "song_session_id": "3b6c71c4-eaba-4be8-a2b3-d0d625c4aa94",
+    "duration_ms": 226074,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "last_update": "2025-11-18 05:33:22",
+    "song": {
+      "musicAuthor": "KAMRAD",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485150e6021cfcb26eb4b302e9f3",
+      "musicTitle": "Feel Alive",
+      "radio": "Fun Rádio",
+      "startTime": "06:32"
+    },
+    "recorded_at": "2025-11-18T06:33:22.512151+01:00",
+    "raw_valid": true,
+    "song_session_id": "cfb1f29b-4406-438f-88f5-b0d6a3caf183",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "last_update": "2025-11-18 05:36:22",
+    "song": {
+      "musicAuthor": "Ravyn Lenae",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048515511ceaa955a2bfd9ae90c21",
+      "musicTitle": "Love Me Not",
+      "radio": "Fun Rádio",
+      "startTime": "06:35"
+    },
+    "recorded_at": "2025-11-18T06:36:22.740757+01:00",
+    "raw_valid": true,
+    "song_session_id": "015142e0-a6c5-4a71-ac4c-77ac635cd9d9",
+    "duration_ms": 213467,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "last_update": "2025-11-18 05:45:23",
+    "song": {
+      "musicAuthor": "Robin Schulz feat. Francesco Yates",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048513c9047f9aa5d0d1e03827039",
+      "musicTitle": "Sugar",
+      "radio": "Fun Rádio",
+      "startTime": "06:44"
+    },
+    "recorded_at": "2025-11-18T06:45:23.386232+01:00",
+    "raw_valid": true,
+    "song_session_id": "4233e197-fdfe-4cdc-9797-44e27c9d3284",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "last_update": "2025-11-18 05:52:22",
+    "song": {
+      "musicAuthor": "Sevdaliza Featuring Anitta, Pabllo Vittar & Yseult",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048513faa0df2405b9c5b1cdefbb4",
+      "musicTitle": "Alibi Pt. 2",
+      "radio": "Fun Rádio",
+      "startTime": "06:51"
+    },
+    "recorded_at": "2025-11-18T06:52:23.840405+01:00",
+    "raw_valid": true,
+    "song_session_id": "620eb42e-e9cb-4352-92b4-64863dd4de5d",
+    "duration_ms": 161656,
+    "genre": []
+  },
+  {
+    "last_update": "2025-11-18 05:56:23",
+    "song": {
+      "musicAuthor": "Dua Lipa",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048516b915e407b70e121e06fe979",
+      "musicTitle": "Idgaf",
+      "radio": "Fun Rádio",
+      "startTime": "06:55"
+    },
+    "recorded_at": "2025-11-18T06:56:24.092698+01:00",
+    "raw_valid": true,
+    "song_session_id": "6282a029-014b-42e4-96f5-3e8b891cefe5",
+    "duration_ms": null,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "last_update": "2025-11-18 06:05:24",
+    "song": {
+      "musicAuthor": "Michael Patrick Kelly",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048518e343a3bae0daf062bcb5c88",
+      "musicTitle": "The One",
+      "radio": "Fun Rádio",
+      "startTime": "07:04"
+    },
+    "recorded_at": "2025-11-18T07:05:24.655938+01:00",
+    "raw_valid": true,
+    "song_session_id": "a821b1ad-2cbc-4a6b-9e26-805fe3975129",
+    "duration_ms": 181195,
+    "genre": []
+  },
+  {
+    "last_update": "2025-11-18 06:08:24",
+    "song": {
+      "musicAuthor": "Tiesto",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851d14685bdecf74faff1bb28e7",
+      "musicTitle": "Lay Low",
+      "radio": "Fun Rádio",
+      "startTime": "07:07"
+    },
+    "recorded_at": "2025-11-18T07:08:24.848537+01:00",
+    "raw_valid": true,
+    "song_session_id": "7d4b5b29-dfeb-4f82-a9a5-8f0ba9169291",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "last_update": "2025-11-18 06:15:24",
+    "song": {
+      "musicAuthor": "Duke Dumont",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048512500bcdc1790d13e7ac1a0c0",
+      "musicTitle": "Ocean Drive",
+      "radio": "Fun Rádio",
+      "startTime": "07:14"
+    },
+    "recorded_at": "2025-11-18T07:15:25.358508+01:00",
+    "raw_valid": true,
+    "song_session_id": "5bd78bf6-11e9-4ffc-b5f0-a6d2b9c7f35b",
+    "duration_ms": 206320,
+    "genre": [
+      "electronic"
+    ]
+  },
+  {
+    "last_update": "2025-11-18 06:19:25",
+    "song": {
+      "musicAuthor": "Celeste Buckingham",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851d2e4bb30c1b2e0c2b6d28680",
+      "musicTitle": "Come Again",
+      "radio": "Fun Rádio",
+      "startTime": "07:18"
+    },
+    "recorded_at": "2025-11-18T07:19:25.662919+01:00",
+    "raw_valid": true,
+    "song_session_id": "05f0bc1d-71e2-425e-af4d-f7781d4831a2",
+    "duration_ms": 222197,
+    "genre": []
+  },
+  {
+    "last_update": "2025-11-18 06:25:25",
+    "song": {
+      "musicAuthor": "Neiked & Portugal. The Man",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851d35db88bdcbf762f317d41da",
+      "musicTitle": "Glide",
+      "radio": "Fun Rádio",
+      "startTime": "07:24"
+    },
+    "recorded_at": "2025-11-18T07:25:26.054547+01:00",
+    "raw_valid": true,
+    "song_session_id": "2d1bf479-f1a9-46d1-8751-7eb490b1a600",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "last_update": "2025-11-18 06:28:25",
+    "song": {
+      "musicAuthor": "Sam Smith Ft. Kim Petras",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851b11bdc91cb9ac6b14f5c1dae",
+      "musicTitle": "Unholy",
+      "radio": "Fun Rádio",
+      "startTime": "07:27"
+    },
+    "recorded_at": "2025-11-18T07:28:26.240670+01:00",
+    "raw_valid": true,
+    "song_session_id": "2478f3e9-e854-405a-a85b-004fba59eab0",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "last_update": "2025-11-18 06:33:25",
+    "song": {
+      "musicAuthor": "Lost Frequencies & Tom Gregory",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048510ed817eff6ba362a49a34b40",
+      "musicTitle": "Dive",
+      "radio": "Fun Rádio",
+      "startTime": "07:32"
+    },
+    "recorded_at": "2025-11-18T07:33:26.611399+01:00",
+    "raw_valid": true,
+    "song_session_id": "4245ea97-4395-4f88-8065-40e0a8be2926",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "last_update": "2025-11-18 06:36:26",
+    "song": {
+      "musicAuthor": "Train",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048516ff8bc258e3ebc835ffe14ca",
+      "musicTitle": "Hey Soul Sister",
+      "radio": "Fun Rádio",
+      "startTime": "07:35"
+    },
+    "recorded_at": "2025-11-18T07:36:26.913262+01:00",
+    "raw_valid": true,
+    "song_session_id": "f415de80-1921-4c2b-a8e3-68ac59bdc174",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "last_update": "2025-11-18 06:45:26",
+    "song": {
+      "musicAuthor": "Lady Gaga",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851d8a389abdf9cb2d03b85ff54",
+      "musicTitle": "The Dead Dance",
+      "radio": "Fun Rádio",
+      "startTime": "07:44"
+    },
+    "recorded_at": "2025-11-18T07:45:27.503268+01:00",
+    "raw_valid": true,
+    "song_session_id": "13ccfc49-ca9a-419c-aff2-ae4242c0de71",
+    "duration_ms": 228519,
+    "genre": [
+      "disco"
+    ]
+  },
+  {
+    "last_update": "2025-11-18 06:50:27",
+    "song": {
+      "musicAuthor": "Para",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851d82b36bcc44ef29b8297674e",
+      "musicTitle": "Prepojení",
+      "radio": "Fun Rádio",
+      "startTime": "07:49"
+    },
+    "recorded_at": "2025-11-18T07:50:27.793384+01:00",
+    "raw_valid": true,
+    "song_session_id": "d3d889ad-2e8a-4b74-a534-8982c5f4e6c6",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "last_update": "2025-11-18 06:53:27",
+    "song": {
+      "musicAuthor": "Leony & G-Eazy",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485115565a1966c3bcc6790c2f8d",
+      "musicTitle": "Rock N Roll",
+      "radio": "Fun Rádio",
+      "startTime": "07:52"
+    },
+    "recorded_at": "2025-11-18T07:53:27.976836+01:00",
+    "raw_valid": true,
+    "song_session_id": "b19a5b68-6d18-4cdb-970f-ffebc178d961",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "last_update": "2025-11-18 06:56:27",
+    "song": {
+      "musicAuthor": "Ed Sheeran",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851ba5db46f4b838ef6027e6f96",
+      "musicTitle": "Castle On The Hill",
+      "radio": "Fun Rádio",
+      "startTime": "07:55"
+    },
+    "recorded_at": "2025-11-18T07:56:28.140760+01:00",
+    "raw_valid": true,
+    "song_session_id": "dfa3e817-30e4-4352-a0fa-82e4792f9e78",
+    "duration_ms": null,
+    "genre": [
+      "pop"
+    ]
+  }
+]

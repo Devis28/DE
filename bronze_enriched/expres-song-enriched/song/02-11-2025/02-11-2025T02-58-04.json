@@ -1,0 +1,529 @@
+[
+  {
+    "song": "Na Dosah",
+    "artists": [
+      "Maria Cirova"
+    ],
+    "isrc": "SKB001109101",
+    "start_time": "2025-11-02 01:00:19",
+    "radio": "expres",
+    "recorded_at": "02.11.2025 01:00:56",
+    "raw_valid": true,
+    "song_session_id": "187e0175-f045-4695-b532-e8bed3fcf2c7",
+    "duration_ms": 219626,
+    "genre": []
+  },
+  {
+    "song": "Feel Alive",
+    "artists": [
+      "Kamrad"
+    ],
+    "isrc": "DEE862202500",
+    "start_time": "2025-11-02 01:03:48",
+    "radio": "expres",
+    "recorded_at": "02.11.2025 01:04:19",
+    "raw_valid": true,
+    "song_session_id": "902ba277-6f65-4f44-9de6-027dae40d24b",
+    "duration_ms": 148116,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Kym Ta Mam",
+    "artists": [
+      "Pavol Habera"
+    ],
+    "isrc": "FRX451573106",
+    "start_time": "2025-11-02 01:06:20",
+    "radio": "expres",
+    "recorded_at": "02.11.2025 01:06:37",
+    "raw_valid": true,
+    "song_session_id": "ba140371-784e-44dc-a7fc-819217ab05c7",
+    "duration_ms": 303493,
+    "genre": []
+  },
+  {
+    "song": "Mystical Magical",
+    "artists": [
+      "Benson Boone"
+    ],
+    "isrc": "USWB12500844",
+    "start_time": "2025-11-02 01:11:09",
+    "radio": "expres",
+    "recorded_at": "02.11.2025 01:11:42",
+    "raw_valid": true,
+    "song_session_id": "32a60d21-6223-4e16-b154-30f8d8148251",
+    "duration_ms": 165746,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Sedem Noci",
+    "artists": [
+      "Komajota"
+    ],
+    "isrc": "SKA010800079",
+    "start_time": "2025-11-02 01:13:54",
+    "radio": "expres",
+    "recorded_at": "02.11.2025 01:14:25",
+    "raw_valid": true,
+    "song_session_id": "30f49041-60e4-4457-82f4-389d19a46515",
+    "duration_ms": 257106,
+    "genre": []
+  },
+  {
+    "song": "Demons",
+    "artists": [
+      "Imagine Dragons"
+    ],
+    "isrc": "USUM71201071",
+    "start_time": "2025-11-02 01:17:21",
+    "radio": "expres",
+    "recorded_at": "02.11.2025 01:17:55",
+    "raw_valid": true,
+    "song_session_id": "bd5c5b0c-d3ba-4261-8086-be2f4edcdfad",
+    "duration_ms": 177506,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Taki Sme",
+    "artists": [
+      "Katarina Knechtova",
+      "Adam Durica"
+    ],
+    "isrc": "SKE432000137",
+    "start_time": "2025-11-02 01:20:23",
+    "radio": "expres",
+    "recorded_at": "02.11.2025 01:20:56",
+    "raw_valid": true,
+    "song_session_id": "584f3f64-221a-4963-a985-19fe63a81d34",
+    "duration_ms": 177933,
+    "genre": []
+  },
+  {
+    "song": "Wonderful Life 25",
+    "artists": [
+      "Hurts",
+      "Purple Disco Machine"
+    ],
+    "isrc": "DEE862500677",
+    "start_time": "2025-11-02 01:23:08",
+    "radio": "expres",
+    "recorded_at": "02.11.2025 01:23:36",
+    "raw_valid": true,
+    "song_session_id": "51874e63-4e1d-4560-b071-1d8e61b6a1f2",
+    "duration_ms": 178658,
+    "genre": []
+  },
+  {
+    "song": "Yeah Baby!",
+    "artists": [
+      "Emma Drobna"
+    ],
+    "isrc": "CZA232000586",
+    "start_time": "2025-11-02 01:26:01",
+    "radio": "expres",
+    "recorded_at": "02.11.2025 01:26:39",
+    "raw_valid": true,
+    "song_session_id": "aef01fb8-63ea-4717-bdeb-d3c39c8be184",
+    "duration_ms": 220013,
+    "genre": []
+  },
+  {
+    "song": "To Okolo Nas",
+    "artists": [
+      "Para"
+    ],
+    "isrc": "SKP662201002",
+    "start_time": "2025-11-02 01:29:45",
+    "radio": "expres",
+    "recorded_at": "02.11.2025 01:30:23",
+    "raw_valid": true,
+    "song_session_id": "c4bd0d77-d967-4d59-b764-1faa155c3bdc",
+    "duration_ms": 257185,
+    "genre": []
+  },
+  {
+    "song": "Ordinary",
+    "artists": [
+      "Alex Warren"
+    ],
+    "isrc": "USAT22500463",
+    "start_time": "2025-11-02 01:33:25",
+    "radio": "expres",
+    "recorded_at": "02.11.2025 01:33:56",
+    "raw_valid": true,
+    "song_session_id": "1e9f1301-ae83-4d6d-bfa7-ebaadb9a00bc",
+    "duration_ms": 186964,
+    "genre": [
+      "folk"
+    ]
+  },
+  {
+    "song": "Staci Si Priat",
+    "artists": [
+      "Zuzana Smatanova"
+    ],
+    "isrc": "CZA210900978",
+    "start_time": "2025-11-02 01:36:32",
+    "radio": "expres",
+    "recorded_at": "02.11.2025 01:37:16",
+    "raw_valid": true,
+    "song_session_id": "4dc6af56-9b5f-4bbf-84ea-ff327ba68e50",
+    "duration_ms": 215506,
+    "genre": []
+  },
+  {
+    "song": "The Show Must Go On",
+    "artists": [
+      "Queen"
+    ],
+    "isrc": "GBUM71106221",
+    "start_time": "2025-11-02 01:40:01",
+    "radio": "expres",
+    "recorded_at": "02.11.2025 01:40:36",
+    "raw_valid": true,
+    "song_session_id": "9e8cdc5e-6710-4c22-ba6a-d7edcc843f8f",
+    "duration_ms": 277826,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Prilis Osobna Znamost",
+    "artists": [
+      "Imt Smile",
+      "Nikol Stibrova"
+    ],
+    "isrc": "SKA011900117",
+    "start_time": "2025-11-02 01:44:05",
+    "radio": "expres",
+    "recorded_at": "02.11.2025 01:44:37",
+    "raw_valid": true,
+    "song_session_id": "5b0e3558-b66f-4622-a0d3-7ba4c43b7f2c",
+    "duration_ms": 271597,
+    "genre": []
+  },
+  {
+    "song": "The Fate Of Ophelia",
+    "artists": [
+      "Taylor Swift"
+    ],
+    "isrc": "USUG12506436",
+    "start_time": "2025-11-02 01:48:30",
+    "radio": "expres",
+    "recorded_at": "02.11.2025 01:49:01",
+    "raw_valid": true,
+    "song_session_id": "2fd621af-e3d1-4bb7-868b-521ade89550f",
+    "duration_ms": 226073,
+    "genre": [
+      "electronic"
+    ]
+  },
+  {
+    "song": "Kazdy Den Je Nedela",
+    "artists": [
+      "Hex"
+    ],
+    "isrc": "SKC751300419",
+    "start_time": "2025-11-02 01:52:35",
+    "radio": "expres",
+    "recorded_at": "02.11.2025 01:53:04",
+    "raw_valid": true,
+    "song_session_id": "d2e97e1f-5996-4430-b4c5-3821d58a512d",
+    "duration_ms": 202066,
+    "genre": []
+  },
+  {
+    "song": "Just A Dream",
+    "artists": [
+      "Nelly"
+    ],
+    "isrc": "USUM71020948",
+    "start_time": "2025-11-02 01:56:48",
+    "radio": "expres",
+    "recorded_at": "02.11.2025 01:57:24",
+    "raw_valid": true,
+    "song_session_id": "eb3e342e-4931-4a78-a434-b613ce020110",
+    "duration_ms": 237866,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Sexxxy",
+    "artists": [
+      "Tina",
+      "Ego"
+    ],
+    "isrc": "CZA231204270",
+    "start_time": "2025-11-02 02:00:48",
+    "radio": "expres",
+    "recorded_at": "02.11.2025 02:01:07",
+    "raw_valid": true,
+    "song_session_id": "351396e9-8cb1-40e6-a6f1-b9ad96ebb782",
+    "duration_ms": 361586,
+    "genre": []
+  },
+  {
+    "song": "Million Good Reasons",
+    "artists": [
+      "Robin Schulz",
+      "Fast Boy"
+    ],
+    "isrc": "DEA622404738",
+    "start_time": "2025-11-02 02:04:08",
+    "radio": "expres",
+    "recorded_at": "02.11.2025 02:04:37",
+    "raw_valid": true,
+    "song_session_id": "f26fa696-9eba-4fed-a8e8-55c0ef26c9a4",
+    "duration_ms": 157130,
+    "genre": [
+      "tropical house"
+    ]
+  },
+  {
+    "song": "Psi Sa Brania Utokom",
+    "artists": [
+      "Peter Nagy",
+      "Jozef Raz"
+    ],
+    "isrc": "SKA128797207",
+    "start_time": "2025-11-02 02:06:53",
+    "radio": "expres",
+    "recorded_at": "02.11.2025 02:07:17",
+    "raw_valid": true,
+    "song_session_id": "537bd61a-ddbd-4f77-a0e7-5c198ff7895b",
+    "duration_ms": 208413,
+    "genre": []
+  },
+  {
+    "song": "The Sound Of Silence",
+    "artists": [
+      "Disturbed"
+    ],
+    "isrc": "USRE12400063",
+    "start_time": "2025-11-02 02:10:19",
+    "radio": "expres",
+    "recorded_at": "02.11.2025 02:10:41",
+    "raw_valid": true,
+    "song_session_id": "f213d3ce-c6c2-4f26-9e8a-bd74e0b5efa6",
+    "duration_ms": 185238,
+    "genre": [
+      "metal"
+    ]
+  },
+  {
+    "song": "Lovestory",
+    "artists": [
+      "Jana Kirschner",
+      "Milan Ondrik"
+    ],
+    "isrc": "CZA232200948",
+    "start_time": "2025-11-02 02:13:25",
+    "radio": "expres",
+    "recorded_at": "02.11.2025 02:13:44",
+    "raw_valid": true,
+    "song_session_id": "2019011f-6df6-4a46-9ea6-34b4cc25e957",
+    "duration_ms": 187231,
+    "genre": []
+  },
+  {
+    "song": "Californication",
+    "artists": [
+      "Red Hot Chili Peppers"
+    ],
+    "isrc": "USWB19900690",
+    "start_time": "2025-11-02 02:17:11",
+    "radio": "expres",
+    "recorded_at": "02.11.2025 02:17:48",
+    "raw_valid": true,
+    "song_session_id": "04ef71c9-252f-47cb-b70e-ac7167d66abc",
+    "duration_ms": 329733,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Thinking About You",
+    "artists": [
+      "Peter Bic Project"
+    ],
+    "isrc": "SKA011200054",
+    "start_time": "2025-11-02 02:20:29",
+    "radio": "expres",
+    "recorded_at": "02.11.2025 02:20:59",
+    "raw_valid": true,
+    "song_session_id": "ac2366a8-bc60-4a34-9885-4089ac987a1e",
+    "duration_ms": 234240,
+    "genre": []
+  },
+  {
+    "song": "Save My Love",
+    "artists": [
+      "Marshmello",
+      "Ellie Goulding",
+      "Avaion"
+    ],
+    "isrc": "USUG12504310",
+    "start_time": "2025-11-02 02:24:12",
+    "radio": "expres",
+    "recorded_at": "02.11.2025 02:24:39",
+    "raw_valid": true,
+    "song_session_id": "6ac46b43-7f21-4e13-8b7a-aa03ffa98bef",
+    "duration_ms": 215555,
+    "genre": [
+      "edm"
+    ]
+  },
+  {
+    "song": "Povedzme",
+    "artists": [
+      "Robo Grigorov"
+    ],
+    "isrc": "CZA210800043",
+    "start_time": "2025-11-02 02:28:07",
+    "radio": "expres",
+    "recorded_at": "02.11.2025 02:28:40",
+    "raw_valid": true,
+    "song_session_id": "d6b98a1e-dbc3-4d58-9dc2-d774e635308e",
+    "duration_ms": 291973,
+    "genre": []
+  },
+  {
+    "song": "Austin",
+    "artists": [
+      "Dasha"
+    ],
+    "isrc": "QZTB92360479",
+    "start_time": "2025-11-02 02:31:43",
+    "radio": "expres",
+    "recorded_at": "02.11.2025 02:32:03",
+    "raw_valid": true,
+    "song_session_id": "2917762b-2063-418c-ba36-b8a11b947786",
+    "duration_ms": 171782,
+    "genre": []
+  },
+  {
+    "song": "Be Mine",
+    "artists": [
+      "Kamrad"
+    ],
+    "isrc": "DE1NJ2500035",
+    "start_time": "2025-11-02 02:34:32",
+    "radio": "expres",
+    "recorded_at": "02.11.2025 02:35:18",
+    "raw_valid": true,
+    "song_session_id": "b1999cbb-6aa5-4cf7-bece-43cccd182df7",
+    "duration_ms": 156463,
+    "genre": []
+  },
+  {
+    "song": "Mmuoj Boze",
+    "artists": [
+      "Katarina Knechtova"
+    ],
+    "isrc": null,
+    "start_time": "2025-11-02 02:37:17",
+    "radio": "expres",
+    "recorded_at": "02.11.2025 02:38:00",
+    "raw_valid": true,
+    "song_session_id": "e3695140-1ba1-4212-aaf5-b509e41995f5"
+  },
+  {
+    "song": "Photograph",
+    "artists": [
+      "Ed Sheeran"
+    ],
+    "isrc": "GBAHS1400094",
+    "start_time": "2025-11-02 02:40:38",
+    "radio": "expres",
+    "recorded_at": "02.11.2025 02:41:20",
+    "raw_valid": true,
+    "song_session_id": "fa3a24da-73bf-4e4c-ad6b-953b4f26c0a4",
+    "duration_ms": 258986,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Dovtedy",
+    "artists": [
+      "Adam Durica"
+    ],
+    "isrc": "SKA011600030",
+    "start_time": "2025-11-02 02:44:31",
+    "radio": "expres",
+    "recorded_at": "02.11.2025 02:45:04",
+    "raw_valid": true,
+    "song_session_id": "853408e8-50a8-46a1-bee7-cabbd7d85cb8",
+    "duration_ms": 147750,
+    "genre": []
+  },
+  {
+    "song": "The Dead Dance",
+    "artists": [
+      "Lady Gaga"
+    ],
+    "isrc": "USUM72407034",
+    "start_time": "2025-11-02 02:46:43",
+    "radio": "expres",
+    "recorded_at": "02.11.2025 02:47:01",
+    "raw_valid": true,
+    "song_session_id": "7de12838-b792-46dd-9eaa-c57d3de04dd4",
+    "duration_ms": 228518,
+    "genre": [
+      "offizielle charts"
+    ]
+  },
+  {
+    "song": "V Dobrom Aj V Zlom",
+    "artists": [
+      "Zuzana Smatanova"
+    ],
+    "isrc": "SKI941500601",
+    "start_time": "2025-11-02 02:50:17",
+    "radio": "expres",
+    "recorded_at": "02.11.2025 02:50:49",
+    "raw_valid": true,
+    "song_session_id": "74dec48e-5b86-47a0-ad2b-3bfd67778f15",
+    "duration_ms": 175065,
+    "genre": []
+  },
+  {
+    "song": "Every Single Day",
+    "artists": [
+      "Benassi Bros",
+      "Dhany"
+    ],
+    "isrc": "ITOOD0501603",
+    "start_time": "2025-11-02 02:53:17",
+    "radio": "expres",
+    "recorded_at": "02.11.2025 02:54:00",
+    "raw_valid": true,
+    "song_session_id": "3f73dfb4-b2b1-4a07-b46f-81a05cdfa981",
+    "duration_ms": 212320,
+    "genre": [
+      "house"
+    ]
+  },
+  {
+    "song": "I Was Wrong",
+    "artists": [
+      "Majk Spirit",
+      "Celeste Buckingham"
+    ],
+    "isrc": "QMQNX1300013",
+    "start_time": "2025-11-02 02:56:49",
+    "radio": "expres",
+    "recorded_at": "02.11.2025 02:57:20",
+    "raw_valid": true,
+    "song_session_id": "ecb55f72-bb75-4e90-95a3-8ee97a276986",
+    "duration_ms": 239240,
+    "genre": []
+  }
+]

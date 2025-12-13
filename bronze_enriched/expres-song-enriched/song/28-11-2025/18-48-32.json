@@ -1,0 +1,387 @@
+[
+  {
+    "song": "Flowers",
+    "artists": [
+      "Alle Farben",
+      "Graham Candy",
+      "Lahos"
+    ],
+    "isrc": "DEA622500325",
+    "start_time": "2025-11-28 17:52:42",
+    "radio": "expres",
+    "recorded_at": "2025-11-28T17:53:07.797685+01:00",
+    "raw_valid": true,
+    "song_session_id": "32d0f7fd-6076-4fdd-9dff-2e46815693d0",
+    "duration_ms": 153103,
+    "genre": []
+  },
+  {
+    "song": "Nenahraditelna",
+    "artists": [
+      "Sima Martausova",
+      "For You"
+    ],
+    "isrc": "TCADT1800486",
+    "start_time": "2025-11-28 17:55:22",
+    "radio": "expres",
+    "recorded_at": "2025-11-28T17:55:30.308712+01:00",
+    "raw_valid": true,
+    "song_session_id": "7373820a-4506-4c44-ae45-227525d3b5ff",
+    "duration_ms": 198648,
+    "genre": []
+  },
+  {
+    "song": "A Little Party Never Killed Nobody",
+    "artists": [
+      "Fergie"
+    ],
+    "isrc": "USUM71303856",
+    "start_time": "2025-11-28 18:07:05",
+    "radio": "expres",
+    "recorded_at": "2025-11-28T18:07:29.306871+01:00",
+    "raw_valid": true,
+    "song_session_id": "1d72617d-d912-4576-a3aa-fbb6cfa6fc8c",
+    "duration_ms": 240733,
+    "genre": [
+      "soundtrack"
+    ]
+  },
+  {
+    "song": "Mystical Magical",
+    "artists": [
+      "Benson Boone"
+    ],
+    "isrc": "USWB12500844",
+    "start_time": "2025-11-28 18:10:44",
+    "radio": "expres",
+    "recorded_at": "2025-11-28T18:11:03.173489+01:00",
+    "raw_valid": true,
+    "song_session_id": "862a180f-9b45-4ed6-b32c-47ad658992e8",
+    "duration_ms": 165746,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Reality",
+    "artists": [
+      "Lost Frequencies",
+      "Janieck Devy"
+    ],
+    "isrc": "NLF711506121",
+    "start_time": "2025-11-28 18:13:33",
+    "radio": "expres",
+    "recorded_at": "2025-11-28T18:13:46.136342+01:00",
+    "raw_valid": true,
+    "song_session_id": "f0a5676c-3e7c-4514-9265-3bcc22e281e3",
+    "duration_ms": 178000,
+    "genre": []
+  },
+  {
+    "song": "Baroko",
+    "artists": [
+      "Richard Muller",
+      "Anna K.",
+      "Ivan Tasler"
+    ],
+    "isrc": "CZA110003026",
+    "start_time": "2025-11-28 18:16:13",
+    "radio": "expres",
+    "recorded_at": "2025-11-28T18:16:23.852913+01:00",
+    "raw_valid": true,
+    "song_session_id": "e522b7bd-d76d-4c31-bf15-8bd115ed466c",
+    "duration_ms": 379120,
+    "genre": []
+  },
+  {
+    "song": "Good News",
+    "artists": [
+      "Shaboozey"
+    ],
+    "isrc": "USUYG1580113",
+    "start_time": "2025-11-28 18:22:20",
+    "radio": "expres",
+    "recorded_at": "2025-11-28T18:22:29.272252+01:00",
+    "raw_valid": true,
+    "song_session_id": "f0d254d1-4023-43b3-b8c0-1f2638651eee",
+    "duration_ms": 199209,
+    "genre": []
+  },
+  {
+    "song": "Zoo",
+    "artists": [
+      "Shakira"
+    ],
+    "isrc": "USWD12538420",
+    "start_time": "2025-11-28 18:25:37",
+    "radio": "expres",
+    "recorded_at": "2025-11-28T18:25:52.570061+01:00",
+    "raw_valid": true,
+    "song_session_id": "96626b62-b923-43cf-97bd-528b950103f6",
+    "duration_ms": 190822,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Undressed",
+    "artists": [
+      "Sombr"
+    ],
+    "isrc": "USWB12500737",
+    "start_time": "2025-11-28 18:34:57",
+    "radio": "expres",
+    "recorded_at": "2025-11-28T18:35:30.091260+01:00",
+    "raw_valid": true,
+    "song_session_id": "dc9643f3-ae06-4393-8536-869159664649",
+    "duration_ms": 182088,
+    "genre": [
+      "indie pop"
+    ]
+  },
+  {
+    "song": "Complicated",
+    "artists": [
+      "Avril Lavigne"
+    ],
+    "isrc": "USAR10200223",
+    "start_time": "2025-11-28 18:37:58",
+    "radio": "expres",
+    "recorded_at": "2025-11-28T18:38:22.820084+01:00",
+    "raw_valid": true,
+    "song_session_id": "5e6e50be-9709-4be6-8f55-c142646b4327",
+    "duration_ms": 245211,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Golden",
+    "artists": [
+      "Kpop Demon Hunters"
+    ],
+    "isrc": "QZ8BZ2513510",
+    "start_time": "2025-11-28 18:42:06",
+    "radio": "expres",
+    "recorded_at": "2025-11-28T18:42:26.614697+01:00",
+    "raw_valid": true,
+    "song_session_id": "b196bafe-b1e1-48f3-9c89-0cb694704f27",
+    "duration_ms": 194607,
+    "genre": [
+      "korean"
+    ]
+  },
+  {
+    "song": "O Blaznech",
+    "artists": [
+      "Michal Penk"
+    ],
+    "isrc": "CZA549200308",
+    "start_time": "2025-11-28 18:44:51",
+    "radio": "expres",
+    "recorded_at": "2025-11-28T18:45:09.303383+01:00",
+    "raw_valid": true,
+    "song_session_id": "2a02bcf9-acbb-4298-961d-a3cbbaa13f12",
+    "duration_ms": 278000,
+    "genre": []
+  },
+  {
+    "song": "To Okolo Nas",
+    "artists": [
+      "Para"
+    ],
+    "isrc": "SKP662201002",
+    "start_time": "2025-11-28 18:51:13",
+    "radio": "expres",
+    "recorded_at": "2025-11-28T18:51:35.004688+01:00",
+    "raw_valid": true,
+    "song_session_id": "a5059cb5-b691-458e-b2ff-c1add46a842d",
+    "duration_ms": 257185,
+    "genre": []
+  },
+  {
+    "song": "Blood Running",
+    "artists": [
+      "Ray Dalton"
+    ],
+    "isrc": "DEUM72507812",
+    "start_time": "2025-11-28 18:54:39",
+    "radio": "expres",
+    "recorded_at": "2025-11-28T18:54:53.044109+01:00",
+    "raw_valid": true,
+    "song_session_id": "6b7bc403-341e-4fef-9a8c-d77228fb5960",
+    "duration_ms": 173146,
+    "genre": []
+  },
+  {
+    "song": "Wonderful Life 25",
+    "artists": [
+      "Hurts",
+      "Purple Disco Machine"
+    ],
+    "isrc": "DEE862500677",
+    "start_time": "2025-11-28 19:05:48",
+    "radio": "expres",
+    "recorded_at": "2025-11-28T19:06:11.263522+01:00",
+    "raw_valid": true,
+    "song_session_id": "ed34b38d-7682-41ac-b7c7-994ac5e0a933",
+    "duration_ms": 178658,
+    "genre": []
+  },
+  {
+    "song": "Hot N Cold",
+    "artists": [
+      "Katy Perry"
+    ],
+    "isrc": "USCA20802544",
+    "start_time": "2025-11-28 19:08:40",
+    "radio": "expres",
+    "recorded_at": "2025-11-28T19:09:04.042627+01:00",
+    "raw_valid": true,
+    "song_session_id": "9f1fa412-c5e0-4728-8565-fe75aab576c4",
+    "duration_ms": 220226,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Save My Love",
+    "artists": [
+      "Marshmello",
+      "Ellie Goulding",
+      "Avaion"
+    ],
+    "isrc": "USUG12504310",
+    "start_time": "2025-11-28 19:12:19",
+    "radio": "expres",
+    "recorded_at": "2025-11-28T19:12:27.381926+01:00",
+    "raw_valid": true,
+    "song_session_id": "8cb2aff0-97c6-4e4c-a3b3-c7abab313cb2",
+    "duration_ms": 215555,
+    "genre": []
+  },
+  {
+    "song": "Unstoppable",
+    "artists": [
+      "Sia"
+    ],
+    "isrc": "USRC11502934",
+    "start_time": "2025-11-28 19:15:57",
+    "radio": "expres",
+    "recorded_at": "2025-11-28T19:16:11.813014+01:00",
+    "raw_valid": true,
+    "song_session_id": "f9166ad3-681a-4c9b-919a-027902dfb6dc",
+    "duration_ms": 217746,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Sapphire",
+    "artists": [
+      "Ed Sheeran"
+    ],
+    "isrc": "GBAHS2500262",
+    "start_time": "2025-11-28 19:21:39",
+    "radio": "expres",
+    "recorded_at": "2025-11-28T19:21:59.338628+01:00",
+    "raw_valid": true,
+    "song_session_id": "b327c577-492b-46cf-8d7d-1fe8400297a6",
+    "duration_ms": 179082,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Mad",
+    "artists": [
+      "Martin Garrix",
+      "Lauv"
+    ],
+    "isrc": "NLM5S2502535",
+    "start_time": "2025-11-28 19:24:32",
+    "radio": "expres",
+    "recorded_at": "2025-11-28T19:24:57.222166+01:00",
+    "raw_valid": true,
+    "song_session_id": "9e585c1a-9a94-4821-8142-a3c4a3a6902c",
+    "duration_ms": 199804,
+    "genre": []
+  },
+  {
+    "song": "Pride",
+    "artists": [
+      "Felix Jaehn",
+      "Jhart"
+    ],
+    "isrc": "DEUM72503423",
+    "start_time": "2025-11-28 19:32:19",
+    "radio": "expres",
+    "recorded_at": "2025-11-28T19:32:52.886323+01:00",
+    "raw_valid": true,
+    "song_session_id": "661f8e40-bb54-46c2-9c55-78d3ba3a663f",
+    "duration_ms": 158150,
+    "genre": []
+  },
+  {
+    "song": "Shes The One",
+    "artists": [
+      "Robbie Williams"
+    ],
+    "isrc": "GBAYK9800020",
+    "start_time": "2025-11-28 19:34:54",
+    "radio": "expres",
+    "recorded_at": "2025-11-28T19:35:05.855088+01:00",
+    "raw_valid": true,
+    "song_session_id": "0c33765d-4ee0-4cec-843e-1f45192d8dc2",
+    "duration_ms": 260893,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Pre Vas Hram",
+    "artists": [
+      "Kali",
+      "Karol Duchon",
+      "Peter Pann"
+    ],
+    "isrc": "CZA232500151",
+    "start_time": "2025-11-28 19:39:13",
+    "radio": "expres",
+    "recorded_at": "2025-11-28T19:39:33.943182+01:00",
+    "raw_valid": true,
+    "song_session_id": "be48ef1e-33e8-4d91-a8cf-c151a1fd6241",
+    "duration_ms": 149118,
+    "genre": []
+  },
+  {
+    "song": "Eternity",
+    "artists": [
+      "Alex Warren"
+    ],
+    "isrc": "USAT22503779",
+    "start_time": "2025-11-28 19:41:40",
+    "radio": "expres",
+    "recorded_at": "2025-11-28T19:41:51.656553+01:00",
+    "raw_valid": true,
+    "song_session_id": "2d48dc7c-a79a-4112-9611-a21ec5c56b7e",
+    "duration_ms": 189553,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "O.k.o",
+    "artists": [
+      "Michael Patrick Kelly"
+    ],
+    "isrc": "DEE862201502",
+    "start_time": "2025-11-28 19:45:22",
+    "radio": "expres",
+    "recorded_at": "2025-11-28T19:45:35.257115+01:00",
+    "raw_valid": true,
+    "song_session_id": "ccf30bc8-3614-4612-a7c8-3e69c2691c16",
+    "duration_ms": 189080,
+    "genre": []
+  }
+]

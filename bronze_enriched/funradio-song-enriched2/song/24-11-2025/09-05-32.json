@@ -1,0 +1,269 @@
+[
+  {
+    "last_update": "2025-11-24 07:09:32",
+    "song": {
+      "musicAuthor": "Mariah Carey",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048514246e3158421f5abb75abc4f",
+      "musicTitle": "All I Want For Christmas Is You",
+      "radio": "Fun Rádio",
+      "startTime": "08:08"
+    },
+    "recorded_at": "2025-11-24T08:09:33.716166+01:00",
+    "raw_valid": true,
+    "song_session_id": "8f508bac-63c2-4909-9288-746d67d43c50",
+    "duration_ms": 241562,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "last_update": "2025-11-24 07:18:34",
+    "song": {
+      "musicAuthor": "Bon Jovi",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485148dfcfd269a34c3555cb2da0",
+      "musicTitle": "Please Come Home For Christmas",
+      "radio": "Fun Rádio",
+      "startTime": "08:17"
+    },
+    "recorded_at": "2025-11-24T08:18:34.374060+01:00",
+    "raw_valid": true,
+    "song_session_id": "ab25985b-ba0e-45fc-b15a-8c0e7396a783",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "last_update": "2025-11-24 07:22:33",
+    "song": {
+      "musicAuthor": "Ed Sheeran & Elton John",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851b629026e4cf6254a90dfc414",
+      "musicTitle": "Merry Christmas",
+      "radio": "Fun Rádio",
+      "startTime": "08:21"
+    },
+    "recorded_at": "2025-11-24T08:22:34.655110+01:00",
+    "raw_valid": true,
+    "song_session_id": "ca804074-8f71-4f14-841e-f183f1ee2f52",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "last_update": "2025-11-24 07:26:34",
+    "song": {
+      "musicAuthor": "Michael Bublé",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851119e4094f07a8123b471ac1d",
+      "musicTitle": "It's Beginning To Look A Lot Like Christmas",
+      "radio": "Fun Rádio",
+      "startTime": "08:25"
+    },
+    "recorded_at": "2025-11-24T08:26:34.901646+01:00",
+    "raw_valid": true,
+    "song_session_id": "652834b3-6347-4d0c-adc9-76f813552338",
+    "duration_ms": null,
+    "genre": [
+      "jazz"
+    ]
+  },
+  {
+    "last_update": "2025-11-24 07:31:34",
+    "song": {
+      "musicAuthor": "Boney M.",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485150aa0f2afd71cc8da311742d",
+      "musicTitle": "Mary's Boy Child Oh My Lord",
+      "radio": "Fun Rádio",
+      "startTime": "08:30"
+    },
+    "recorded_at": "2025-11-24T08:31:35.205146+01:00",
+    "raw_valid": true,
+    "song_session_id": "4563f6a0-e170-4190-9d60-bb524300326e",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "last_update": "2025-11-24 07:36:34",
+    "song": {
+      "musicAuthor": "Alexandra Burke",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851ef5b8a9e457c26494a2ae724",
+      "musicTitle": "Hallelujah",
+      "radio": "Fun Rádio",
+      "startTime": "08:35"
+    },
+    "recorded_at": "2025-11-24T08:36:35.510497+01:00",
+    "raw_valid": true,
+    "song_session_id": "d4e4e08e-9e36-420e-b0e8-5c81758cf697",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "last_update": "2025-11-24 07:48:36",
+    "song": {
+      "musicAuthor": "Martin, Dean",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851e359bd02a639a4d01b8241ae",
+      "musicTitle": "Let It Snow! Let It Snow! Let It Snow!",
+      "radio": "Fun Rádio",
+      "startTime": "08:47"
+    },
+    "recorded_at": "2025-11-24T08:48:36.306078+01:00",
+    "raw_valid": true,
+    "song_session_id": "226dd6fa-bfff-4344-9cab-817713ac32ce",
+    "duration_ms": null,
+    "genre": [
+      "jazz"
+    ]
+  },
+  {
+    "last_update": "2025-11-24 07:52:35",
+    "song": {
+      "musicAuthor": "John Lennon, Yoko Ono",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485161a389971d7842d02b0623ab",
+      "musicTitle": "Happy Xmas (War Is Over)",
+      "radio": "Fun Rádio",
+      "startTime": "08:51"
+    },
+    "recorded_at": "2025-11-24T08:52:36.573510+01:00",
+    "raw_valid": true,
+    "song_session_id": "4e2a74bf-ec04-4e2c-a269-6462185a7e04",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "last_update": "2025-11-24 07:55:36",
+    "song": {
+      "musicAuthor": "Václav Neckář",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048510e561ba4ce332636f21b1d30",
+      "musicTitle": "Půlnoční",
+      "radio": "Fun Rádio",
+      "startTime": "08:54"
+    },
+    "recorded_at": "2025-11-24T08:55:36.792586+01:00",
+    "raw_valid": true,
+    "song_session_id": "b7b389af-18b7-41a6-bd18-43a370611e4d",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "last_update": "2025-11-24 08:12:07",
+    "song": {
+      "musicAuthor": "Band Aid",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048512f77772e5c981e44fc347e22",
+      "musicTitle": "Do They Know It's Christmas",
+      "radio": "Fun Rádio",
+      "startTime": "09:11"
+    },
+    "recorded_at": "2025-11-24T09:12:08.135421+01:00",
+    "raw_valid": true,
+    "song_session_id": "24a1a5ce-e36d-4007-841e-069546a27967",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "last_update": "2025-11-24 08:26:09",
+    "song": {
+      "musicAuthor": "Tublatanka",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485153dbdfa6b6be3cdf8e1ddf20",
+      "musicTitle": "Poďme Bratia Do Betlehema",
+      "radio": "Fun Rádio",
+      "startTime": "09:25"
+    },
+    "recorded_at": "2025-11-24T09:26:09.164200+01:00",
+    "raw_valid": true,
+    "song_session_id": "d63757e3-51a8-43e9-bc0e-1a2c773595f2",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "last_update": "2025-11-24 08:31:08",
+    "song": {
+      "musicAuthor": "Chris Rea",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048519c8d257b1af6187595e7c087",
+      "musicTitle": "Driving Home For Christmas",
+      "radio": "Fun Rádio",
+      "startTime": "09:30"
+    },
+    "recorded_at": "2025-11-24T09:31:09.494402+01:00",
+    "raw_valid": true,
+    "song_session_id": "3274b399-1718-40c8-8e33-3ca289115696",
+    "duration_ms": null,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "last_update": "2025-11-24 08:35:08",
+    "song": {
+      "musicAuthor": "Britney Spears",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485116ed688a08ecd351560f4566",
+      "musicTitle": "My Only Wish [This Year]",
+      "radio": "Fun Rádio",
+      "startTime": "09:34"
+    },
+    "recorded_at": "2025-11-24T09:35:09.801786+01:00",
+    "raw_valid": true,
+    "song_session_id": "b9afbbdb-c8d3-4af4-b094-9ca3d7e0099a",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "last_update": "2025-11-24 08:45:09",
+    "song": {
+      "musicAuthor": "Robo Opatovský",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048511cc9d574985559fa73793a06",
+      "musicTitle": "Vianočná Pošta",
+      "radio": "Fun Rádio",
+      "startTime": "09:44"
+    },
+    "recorded_at": "2025-11-24T09:45:10.546766+01:00",
+    "raw_valid": true,
+    "song_session_id": "0712f77e-0940-45e6-a31d-82873def8221",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "last_update": "2025-11-24 08:49:10",
+    "song": {
+      "musicAuthor": "Feliciano Jose",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851bf203d76f2bea51656862edd",
+      "musicTitle": "Feliz Navidad",
+      "radio": "Fun Rádio",
+      "startTime": "09:48"
+    },
+    "recorded_at": "2025-11-24T09:49:10.821957+01:00",
+    "raw_valid": true,
+    "song_session_id": "36491e2b-2ab1-440b-8332-cf7f4b9fdfed",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "last_update": "2025-11-24 08:55:11",
+    "song": {
+      "musicAuthor": "Wham!",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851f2d2adaa21ad616df6241e7d",
+      "musicTitle": "Last Christmas",
+      "radio": "Fun Rádio",
+      "startTime": "09:54"
+    },
+    "recorded_at": "2025-11-24T09:55:11.371055+01:00",
+    "raw_valid": true,
+    "song_session_id": "2e2ae0b6-20cb-4999-9ca3-4d37001d6065",
+    "duration_ms": 262960,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "last_update": "2025-11-24 09:04:11",
+    "song": {
+      "musicAuthor": "Miley Cyrus",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851f429549123dbe8552764ba1d",
+      "musicTitle": "Flowers",
+      "radio": "Fun Rádio",
+      "startTime": "10:03"
+    },
+    "recorded_at": "2025-11-24T10:04:12.004087+01:00",
+    "raw_valid": true,
+    "song_session_id": "08a7a7e2-072b-437a-ae64-3bd528058258",
+    "duration_ms": null,
+    "genre": [
+      "pop"
+    ]
+  }
+]

@@ -1,0 +1,522 @@
+[
+  {
+    "song": "Este Vaham",
+    "artists": [
+      "Kristina"
+    ],
+    "isrc": "SKK642000301",
+    "start_time": "2025-11-20 02:03:13",
+    "radio": "expres",
+    "recorded_at": "2025-11-20T02:03:53.407178+01:00",
+    "raw_valid": true,
+    "song_session_id": "a461f49b-42b4-4fc5-a8c7-1cae141a365f",
+    "duration_ms": 231291,
+    "genre": []
+  },
+  {
+    "song": "Glide",
+    "artists": [
+      "Neiked",
+      "Portugal The Man"
+    ],
+    "isrc": "DEE862500421",
+    "start_time": "2025-11-20 02:06:55",
+    "radio": "expres",
+    "recorded_at": "2025-11-20T02:07:16.319394+01:00",
+    "raw_valid": true,
+    "song_session_id": "5f464473-5bcb-4460-b789-be5d28e0f6a5",
+    "duration_ms": 184405,
+    "genre": []
+  },
+  {
+    "song": "Prva",
+    "artists": [
+      "Miro Zbirka"
+    ],
+    "isrc": "SKA128804806",
+    "start_time": "2025-11-20 02:09:52",
+    "radio": "expres",
+    "recorded_at": "2025-11-20T02:10:19.168803+01:00",
+    "raw_valid": true,
+    "song_session_id": "cb01aa47-fd1d-488d-a7a7-5714d6127fdc",
+    "duration_ms": 304640,
+    "genre": []
+  },
+  {
+    "song": "Happy Ending",
+    "artists": [
+      "Mika"
+    ],
+    "isrc": "USC7R0600016",
+    "start_time": "2025-11-20 02:14:00",
+    "radio": "expres",
+    "recorded_at": "2025-11-20T02:14:22.877251+01:00",
+    "raw_valid": true,
+    "song_session_id": "496fcdf3-8609-4ba3-9c3b-6d259c21e836",
+    "duration_ms": 275493,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Lovesong",
+    "artists": [
+      "Pavol Habera"
+    ],
+    "isrc": "FRX201717073",
+    "start_time": "2025-11-20 02:18:27",
+    "radio": "expres",
+    "recorded_at": "2025-11-20T02:18:55.819325+01:00",
+    "raw_valid": true,
+    "song_session_id": "8ab55bb2-3fd7-4fed-b2c6-16244db9b80c",
+    "duration_ms": 241000,
+    "genre": []
+  },
+  {
+    "song": "Head Above Water",
+    "artists": [
+      "Twocolors",
+      "Safri Duo",
+      "Chris De Sarandy"
+    ],
+    "isrc": "DEUM72503698",
+    "start_time": "2025-11-20 02:22:24",
+    "radio": "expres",
+    "recorded_at": "2025-11-20T02:22:51.956858+01:00",
+    "raw_valid": true,
+    "song_session_id": "002b6af9-e189-4dcc-b83f-6875969db0ae",
+    "duration_ms": 174550,
+    "genre": []
+  },
+  {
+    "song": "Words",
+    "artists": [
+      "Emma Drobna"
+    ],
+    "isrc": "CZA231700209",
+    "start_time": "2025-11-20 02:25:16",
+    "radio": "expres",
+    "recorded_at": "2025-11-20T02:25:43.363270+01:00",
+    "raw_valid": true,
+    "song_session_id": "f34b6df9-5488-47a5-a258-0b22f6cea839",
+    "duration_ms": 207584,
+    "genre": []
+  },
+  {
+    "song": "Training Season",
+    "artists": [
+      "Dua Lipa"
+    ],
+    "isrc": "GBAHT2301078",
+    "start_time": "2025-11-20 02:28:53",
+    "radio": "expres",
+    "recorded_at": "2025-11-20T02:29:21.710020+01:00",
+    "raw_valid": true,
+    "song_session_id": "45bcb98e-0675-4a95-826a-065374ddf677",
+    "duration_ms": 209487,
+    "genre": [
+      "electronic"
+    ]
+  },
+  {
+    "song": "Regalo",
+    "artists": [
+      "Alvaro Soler"
+    ],
+    "isrc": "DEE862500388",
+    "start_time": "2025-11-20 02:32:24",
+    "radio": "expres",
+    "recorded_at": "2025-11-20T02:32:52.130752+01:00",
+    "raw_valid": true,
+    "song_session_id": "0b9cee7f-6fc7-4f10-9bed-7556182a31e8",
+    "duration_ms": 184984,
+    "genre": []
+  },
+  {
+    "song": "Neobzerajte Sa, Pani Lotova",
+    "artists": [
+      "Elan"
+    ],
+    "isrc": "SKA128678704",
+    "start_time": "2025-11-20 02:35:27",
+    "radio": "expres",
+    "recorded_at": "2025-11-20T02:35:55.009677+01:00",
+    "raw_valid": true,
+    "song_session_id": "e490b522-eb0f-4258-878f-2d59b8f9857d",
+    "duration_ms": 164893,
+    "genre": []
+  },
+  {
+    "song": "The Best",
+    "artists": [
+      "Tina Turner"
+    ],
+    "isrc": "USCA28900109",
+    "start_time": "2025-11-20 02:38:11",
+    "radio": "expres",
+    "recorded_at": "2025-11-20T02:38:40.285183+01:00",
+    "raw_valid": true,
+    "song_session_id": "5492bdb8-e81e-46d8-98bd-e9c4aa5dafb5",
+    "duration_ms": 333267,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Modra",
+    "artists": [
+      "Jana Kirschner"
+    ],
+    "isrc": "SKA010003304",
+    "start_time": "2025-11-20 02:42:26",
+    "radio": "expres",
+    "recorded_at": "2025-11-20T02:43:13.206315+01:00",
+    "raw_valid": true,
+    "song_session_id": "700db1dd-990e-4a79-92a4-06a66230bedc",
+    "duration_ms": 252906,
+    "genre": []
+  },
+  {
+    "song": "This Is What It Feels Like",
+    "artists": [
+      "Armin Van Buuren"
+    ],
+    "isrc": "NLF711303312",
+    "start_time": "2025-11-20 02:46:35",
+    "radio": "expres",
+    "recorded_at": "2025-11-20T02:47:11.577570+01:00",
+    "raw_valid": true,
+    "song_session_id": "79d9078b-b8f0-420d-a236-47bd17d88e45",
+    "duration_ms": 204360,
+    "genre": []
+  },
+  {
+    "song": "Vsetko Bude Dobre",
+    "artists": [
+      "Gladiator"
+    ],
+    "isrc": "SKCM72560001",
+    "start_time": "2025-11-20 02:49:54",
+    "radio": "expres",
+    "recorded_at": "2025-11-20T02:50:40.199183+01:00",
+    "raw_valid": true,
+    "song_session_id": "716b4062-e81e-464f-aa5f-6e68d20fab21",
+    "duration_ms": 166588,
+    "genre": []
+  },
+  {
+    "song": "Belong Together",
+    "artists": [
+      "Mark Ambor"
+    ],
+    "isrc": "QM24S2400638",
+    "start_time": "2025-11-20 02:52:53",
+    "radio": "expres",
+    "recorded_at": "2025-11-20T02:53:17.101743+01:00",
+    "raw_valid": true,
+    "song_session_id": "d3bf9823-e038-4208-9dd0-74864819b46f",
+    "duration_ms": 148317,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Klid Mir A Pokora",
+    "artists": [
+      "Richard Muller",
+      "Tereza Kerndlova"
+    ],
+    "isrc": "SKA011100115",
+    "start_time": "2025-11-20 02:55:21",
+    "radio": "expres",
+    "recorded_at": "2025-11-20T02:55:59.729359+01:00",
+    "raw_valid": true,
+    "song_session_id": "e2eaa95c-43b3-4bbc-8c56-aa608dbb0b88",
+    "duration_ms": 273813,
+    "genre": []
+  },
+  {
+    "song": "Mystical Magical",
+    "artists": [
+      "Benson Boone"
+    ],
+    "isrc": "USWB12500844",
+    "start_time": "2025-11-20 02:59:46",
+    "radio": "expres",
+    "recorded_at": "2025-11-20T03:00:23.654779+01:00",
+    "raw_valid": true,
+    "song_session_id": "f6d5a82b-8258-460f-b818-4ac0ee232b97",
+    "duration_ms": 165746,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Ulicnik Bozk",
+    "artists": [
+      "Marika Gombitova",
+      "Vaso Patejdl"
+    ],
+    "isrc": "SKA128673102",
+    "start_time": "2025-11-20 03:02:40",
+    "radio": "expres",
+    "recorded_at": "2025-11-20T03:03:04.024164+01:00",
+    "raw_valid": true,
+    "song_session_id": "bd47c8a7-5808-41a2-a429-6a539b98aeec",
+    "duration_ms": 199360,
+    "genre": []
+  },
+  {
+    "song": "Forbidden Road",
+    "artists": [
+      "Robbie Williams"
+    ],
+    "isrc": "GBPS62400032",
+    "start_time": "2025-11-20 03:05:56",
+    "radio": "expres",
+    "recorded_at": "2025-11-20T03:06:38.997967+01:00",
+    "raw_valid": true,
+    "song_session_id": "30c155d5-9ca6-48d9-8a1e-356b701f0a56",
+    "duration_ms": 197419,
+    "genre": []
+  },
+  {
+    "song": "Make Me",
+    "artists": [
+      "Celeste Buckingham"
+    ],
+    "isrc": "QMQNX2201801",
+    "start_time": "2025-11-20 03:09:05",
+    "radio": "expres",
+    "recorded_at": "2025-11-20T03:09:31.660539+01:00",
+    "raw_valid": true,
+    "song_session_id": "1b4ae055-7c36-464a-b1c2-8f3aac13e844",
+    "duration_ms": 225753,
+    "genre": []
+  },
+  {
+    "song": "Shes Like The Wind",
+    "artists": [
+      "Patrick Swayze"
+    ],
+    "isrc": "USBMG0100040",
+    "start_time": "2025-11-20 03:12:58",
+    "radio": "expres",
+    "recorded_at": "2025-11-20T03:13:24.304211+01:00",
+    "raw_valid": true,
+    "song_session_id": "bf7027c5-cdf0-4337-8f43-f572cd9e96b7",
+    "duration_ms": 232826,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Pribeh",
+    "artists": [
+      "Tina",
+      "Rytmus"
+    ],
+    "isrc": "QZN882120156",
+    "start_time": "2025-11-20 03:16:31",
+    "radio": "expres",
+    "recorded_at": "2025-11-20T03:17:07.664570+01:00",
+    "raw_valid": true,
+    "song_session_id": "6381fe39-c789-4b83-9593-f2f26cadc583",
+    "duration_ms": 241002,
+    "genre": []
+  },
+  {
+    "song": "Gone Gone Gone",
+    "artists": [
+      "David Guetta",
+      "Teddy Swims",
+      "Tones And I"
+    ],
+    "isrc": "UKWLG2500132",
+    "start_time": "2025-11-20 03:20:14",
+    "radio": "expres",
+    "recorded_at": "2025-11-20T03:20:55.511671+01:00",
+    "raw_valid": true,
+    "song_session_id": "06c442f7-59bb-4dde-aa0f-89d2d0612f25",
+    "duration_ms": 198004,
+    "genre": [
+      "soul"
+    ]
+  },
+  {
+    "song": "Domino",
+    "artists": [
+      "Nocaden"
+    ],
+    "isrc": "SKG971900106",
+    "start_time": "2025-11-20 03:23:50",
+    "radio": "expres",
+    "recorded_at": "2025-11-20T03:24:17.124395+01:00",
+    "raw_valid": true,
+    "song_session_id": "bb016c61-53d4-4b73-bde9-0f56d3bfc5ab",
+    "duration_ms": 247280,
+    "genre": []
+  },
+  {
+    "song": "Chasing Paradise",
+    "artists": [
+      "Kygo",
+      "Onerepublic"
+    ],
+    "isrc": "SEBGA2500019",
+    "start_time": "2025-11-20 03:27:47",
+    "radio": "expres",
+    "recorded_at": "2025-11-20T03:28:30.453185+01:00",
+    "raw_valid": true,
+    "song_session_id": "92d529d9-c37a-450f-a5dd-2da7f4476359",
+    "duration_ms": 180532,
+    "genre": []
+  },
+  {
+    "song": "Undressed",
+    "artists": [
+      "Sombr"
+    ],
+    "isrc": "USWB12500737",
+    "start_time": "2025-11-20 03:31:22",
+    "radio": "expres",
+    "recorded_at": "2025-11-20T03:31:50.345987+01:00",
+    "raw_valid": true,
+    "song_session_id": "7c6d544a-3b6d-48c2-89af-687ebe4ebc3c",
+    "duration_ms": 182088,
+    "genre": [
+      "indie pop"
+    ]
+  },
+  {
+    "song": "Piesen Pre Nesmelych",
+    "artists": [
+      "Team"
+    ],
+    "isrc": "SKA128917010",
+    "start_time": "2025-11-20 03:34:24",
+    "radio": "expres",
+    "recorded_at": "2025-11-20T03:34:43.169596+01:00",
+    "raw_valid": true,
+    "song_session_id": "d5e29faa-d35c-49d2-b8f9-a9a65104aebb",
+    "duration_ms": 270040,
+    "genre": []
+  },
+  {
+    "song": "Always",
+    "artists": [
+      "Bon Jovi"
+    ],
+    "isrc": "USPR39412221",
+    "start_time": "2025-11-20 03:38:40",
+    "radio": "expres",
+    "recorded_at": "2025-11-20T03:39:16.106675+01:00",
+    "raw_valid": true,
+    "song_session_id": "d176ff18-7866-4199-8f29-d97b8b84350d",
+    "duration_ms": 353573,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Fair Play",
+    "artists": [
+      "Miro Zbirka"
+    ],
+    "isrc": "CZUM71500267",
+    "start_time": "2025-11-20 03:44:32",
+    "radio": "expres",
+    "recorded_at": "2025-11-20T03:45:01.086273+01:00",
+    "raw_valid": true,
+    "song_session_id": "7ffbbfb3-a555-4f59-9ddd-7c9d588eceaa",
+    "duration_ms": 184666,
+    "genre": []
+  },
+  {
+    "song": "Wonderful Life 25",
+    "artists": [
+      "Hurts",
+      "Purple Disco Machine"
+    ],
+    "isrc": "DEE862500677",
+    "start_time": "2025-11-20 03:47:13",
+    "radio": "expres",
+    "recorded_at": "2025-11-20T03:47:43.606804+01:00",
+    "raw_valid": true,
+    "song_session_id": "7b978ffc-570c-463b-9923-6213020d873b",
+    "duration_ms": 178658,
+    "genre": []
+  },
+  {
+    "song": "Kralovna Bielych Tenisiek",
+    "artists": [
+      "Elan"
+    ],
+    "isrc": "SKA128562210",
+    "start_time": "2025-11-20 03:50:24",
+    "radio": "expres",
+    "recorded_at": "2025-11-20T03:50:56.356756+01:00",
+    "raw_valid": true,
+    "song_session_id": "0d8d41cb-bee5-492e-aaae-c18de530fee9",
+    "duration_ms": 219573,
+    "genre": []
+  },
+  {
+    "song": "Save Me",
+    "artists": [
+      "Morandi"
+    ],
+    "isrc": "ROUM70700048",
+    "start_time": "2025-11-20 03:54:01",
+    "radio": "expres",
+    "recorded_at": "2025-11-20T03:54:36.267268+01:00",
+    "raw_valid": true,
+    "song_session_id": "0c104586-cbdf-4c26-b299-0d6c1bd69338",
+    "duration_ms": 274133,
+    "genre": []
+  },
+  {
+    "song": "Vo Svetle Ziariacich Hviezd",
+    "artists": [
+      "Katarina Knechtova"
+    ],
+    "isrc": "CZUM70800920",
+    "start_time": "2025-11-20 03:57:26",
+    "radio": "expres",
+    "recorded_at": "2025-11-20T03:58:02.999948+01:00",
+    "raw_valid": true,
+    "song_session_id": "7a2790d1-a2b8-4e8a-8909-c35907ec1ec6",
+    "duration_ms": 195920,
+    "genre": []
+  },
+  {
+    "song": "Sorry Im Here For Someone Else",
+    "artists": [
+      "Benson Boone"
+    ],
+    "isrc": "USWB12500464",
+    "start_time": "2025-11-20 04:00:24",
+    "radio": "expres",
+    "recorded_at": "2025-11-20T04:01:10.711259+01:00",
+    "raw_valid": true,
+    "song_session_id": "c94241d3-6108-4f86-ab89-83255ffb15d7",
+    "duration_ms": 156582,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Hej Dievca",
+    "artists": [
+      "Bystrik"
+    ],
+    "isrc": "SKB002008102",
+    "start_time": "2025-11-20 04:03:03",
+    "radio": "expres",
+    "recorded_at": "2025-11-20T04:03:22.853541+01:00",
+    "raw_valid": true,
+    "song_session_id": "3b9a025f-624e-4b04-99e7-a6d160418545",
+    "duration_ms": 218666,
+    "genre": []
+  }
+]

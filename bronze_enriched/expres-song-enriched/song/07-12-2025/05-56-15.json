@@ -1,0 +1,505 @@
+[
+  {
+    "song": "Stay Another Day",
+    "artists": [
+      "East 17"
+    ],
+    "isrc": "GBANP9400042",
+    "start_time": "2025-12-07 04:55:57",
+    "radio": "expres",
+    "recorded_at": "2025-12-07T04:56:33.217749+01:00",
+    "raw_valid": true,
+    "song_session_id": "a73773db-84d0-47b2-a883-6243ef305102",
+    "duration_ms": 267133,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Len Sa Smej",
+    "artists": [
+      "Peter Bic Project"
+    ],
+    "isrc": "SKA012300333",
+    "start_time": "2025-12-07 05:00:23",
+    "radio": "expres",
+    "recorded_at": "2025-12-07T05:00:56.770061+01:00",
+    "raw_valid": true,
+    "song_session_id": "aa4ba017-ac85-403b-950f-4c73f4465459",
+    "duration_ms": 164741,
+    "genre": []
+  },
+  {
+    "song": "Regalo",
+    "artists": [
+      "Alvaro Soler"
+    ],
+    "isrc": "DEE862500388",
+    "start_time": "2025-12-07 05:03:08",
+    "radio": "expres",
+    "recorded_at": "2025-12-07T05:03:39.047226+01:00",
+    "raw_valid": true,
+    "song_session_id": "4dfbf153-ba59-4987-a7f8-36b5483fcefc",
+    "duration_ms": 184984,
+    "genre": []
+  },
+  {
+    "song": "Dievca Amerika",
+    "artists": [
+      "Pavol Habera"
+    ],
+    "isrc": "FRX451573148",
+    "start_time": "2025-12-07 05:06:23",
+    "radio": "expres",
+    "recorded_at": "2025-12-07T05:06:41.543489+01:00",
+    "raw_valid": true,
+    "song_session_id": "7e9ffdf5-24fd-4894-8209-d2cc45d31c98",
+    "duration_ms": 249226,
+    "genre": []
+  },
+  {
+    "song": "What Ive Done",
+    "artists": [
+      "Linkin Park"
+    ],
+    "isrc": "USWB10700721",
+    "start_time": "2025-12-07 05:10:30",
+    "radio": "expres",
+    "recorded_at": "2025-12-07T05:11:10.298167+01:00",
+    "raw_valid": true,
+    "song_session_id": "e4c00a96-af35-4f32-a52f-afb7005a0abe",
+    "duration_ms": 205613,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Zienka Domaca",
+    "artists": [
+      "Jana Kirschner"
+    ],
+    "isrc": "SKA010003313",
+    "start_time": "2025-12-07 05:13:50",
+    "radio": "expres",
+    "recorded_at": "2025-12-07T05:14:07.780884+01:00",
+    "raw_valid": true,
+    "song_session_id": "c9fe2610-86e5-4ef9-8a70-3fa922c635ef",
+    "duration_ms": 236986,
+    "genre": []
+  },
+  {
+    "song": "Save My Love",
+    "artists": [
+      "Marshmello",
+      "Ellie Goulding",
+      "Avaion"
+    ],
+    "isrc": "USUG12504310",
+    "start_time": "2025-12-07 05:17:47",
+    "radio": "expres",
+    "recorded_at": "2025-12-07T05:18:16.274377+01:00",
+    "raw_valid": true,
+    "song_session_id": "0b0f97e7-90a4-4013-b70a-029e6b17b9b7",
+    "duration_ms": 215555,
+    "genre": [
+      "edm"
+    ]
+  },
+  {
+    "song": "Vilma",
+    "artists": [
+      "Para"
+    ],
+    "isrc": "SKCF92401002",
+    "start_time": "2025-12-07 05:21:23",
+    "radio": "expres",
+    "recorded_at": "2025-12-07T05:21:54.185777+01:00",
+    "raw_valid": true,
+    "song_session_id": "fcbbf891-af08-4502-981e-cae194975317",
+    "duration_ms": 234044,
+    "genre": []
+  },
+  {
+    "song": "Salt",
+    "artists": [
+      "Ava Max"
+    ],
+    "isrc": "USAT21906991",
+    "start_time": "2025-12-07 05:25:14",
+    "radio": "expres",
+    "recorded_at": "2025-12-07T05:25:37.294400+01:00",
+    "raw_valid": true,
+    "song_session_id": "28f9dc7f-d0f3-443f-86cb-04b6c3fc1e0b",
+    "duration_ms": 180283,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Srdce Nehasnou",
+    "artists": [
+      "Karel Gott",
+      "Charlotte Ella Gottova"
+    ],
+    "isrc": "CZA161900335",
+    "start_time": "2025-12-07 05:28:19",
+    "radio": "expres",
+    "recorded_at": "2025-12-07T05:28:39.817321+01:00",
+    "raw_valid": true,
+    "song_session_id": "16cbdc52-d8cb-4214-b61d-49564d2bae1a",
+    "duration_ms": 228667,
+    "genre": [
+      "schlager"
+    ]
+  },
+  {
+    "song": "Be Mine",
+    "artists": [
+      "Kamrad"
+    ],
+    "isrc": "DE1NJ2500035",
+    "start_time": "2025-12-07 05:32:56",
+    "radio": "expres",
+    "recorded_at": "2025-12-07T05:33:28.606935+01:00",
+    "raw_valid": true,
+    "song_session_id": "3a7a7c45-bfd8-480a-97f7-64a07fbe53f6",
+    "duration_ms": 156463,
+    "genre": []
+  },
+  {
+    "song": "Sme Svoji",
+    "artists": [
+      "Peter Nagy"
+    ],
+    "isrc": "SKA128567810",
+    "start_time": "2025-12-07 05:35:34",
+    "radio": "expres",
+    "recorded_at": "2025-12-07T05:36:10.862303+01:00",
+    "raw_valid": true,
+    "song_session_id": "ee80d3f7-a031-4eba-8121-36bb0c296560",
+    "duration_ms": 196826,
+    "genre": []
+  },
+  {
+    "song": "Wake Me Up",
+    "artists": [
+      "Avicii",
+      "Aloe Blacc"
+    ],
+    "isrc": "SEUM71301326",
+    "start_time": "2025-12-07 05:38:39",
+    "radio": "expres",
+    "recorded_at": "2025-12-07T05:39:08.571818+01:00",
+    "raw_valid": true,
+    "song_session_id": "dbbe8f69-0633-4f53-b3e3-ec5ea8ca3747",
+    "duration_ms": 246813,
+    "genre": [
+      "electronic"
+    ]
+  },
+  {
+    "song": "Za Tebou",
+    "artists": [
+      "Peha"
+    ],
+    "isrc": "CZA110500020",
+    "start_time": "2025-12-07 05:42:55",
+    "radio": "expres",
+    "recorded_at": "2025-12-07T05:43:11.891002+01:00",
+    "raw_valid": true,
+    "song_session_id": "9ff1f2da-6874-45b1-a9f0-6cc68acc58d4",
+    "duration_ms": 236680,
+    "genre": []
+  },
+  {
+    "song": "Zoo",
+    "artists": [
+      "Shakira"
+    ],
+    "isrc": "USWD12538420",
+    "start_time": "2025-12-07 05:46:23",
+    "radio": "expres",
+    "recorded_at": "2025-12-07T05:47:00.183023+01:00",
+    "raw_valid": true,
+    "song_session_id": "488596e0-4eed-4cad-88e2-134784355234",
+    "duration_ms": 190822,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Posledna",
+    "artists": [
+      "Desmod"
+    ],
+    "isrc": "CZA210300015",
+    "start_time": "2025-12-07 05:50:01",
+    "radio": "expres",
+    "recorded_at": "2025-12-07T05:50:18.083528+01:00",
+    "raw_valid": true,
+    "song_session_id": "acc5ae6b-cb64-405d-8235-52eb28141f70",
+    "duration_ms": 213853,
+    "genre": []
+  },
+  {
+    "song": "Everlasting Love",
+    "artists": [
+      "Sandra"
+    ],
+    "isrc": "DEG128700602",
+    "start_time": "2025-12-07 05:53:36",
+    "radio": "expres",
+    "recorded_at": "2025-12-07T05:54:01.071151+01:00",
+    "raw_valid": true,
+    "song_session_id": "5f0303f4-1e9a-45d2-ba53-930a156e6faa",
+    "duration_ms": 227160,
+    "genre": [
+      "electronic"
+    ]
+  },
+  {
+    "song": "Shake Up Christmas",
+    "artists": [
+      "Natasha Bedingfield"
+    ],
+    "isrc": "QMTKR1100001",
+    "start_time": "2025-12-07 05:56:59",
+    "radio": "expres",
+    "recorded_at": "2025-12-07T05:57:23.906105+01:00",
+    "raw_valid": true,
+    "song_session_id": "177871fd-71a7-4442-ae7b-e4187b6fe410",
+    "duration_ms": 224517,
+    "genre": [
+      "christmas"
+    ]
+  },
+  {
+    "song": "The One",
+    "artists": [
+      "Michael Patrick Kelly"
+    ],
+    "isrc": "DEE862500476",
+    "start_time": "2025-12-07 06:04:43",
+    "radio": "expres",
+    "recorded_at": "2025-12-07T06:05:10.133995+01:00",
+    "raw_valid": true,
+    "song_session_id": "3f05abd4-fb1e-4642-a0d1-5b98ad79d00a",
+    "duration_ms": 181194,
+    "genre": []
+  },
+  {
+    "song": "Cudzinka V Tvojej Zemi",
+    "artists": [
+      "Xindl X",
+      "Mirka Miskechova"
+    ],
+    "isrc": "CZUM71400626",
+    "start_time": "2025-12-07 06:07:43",
+    "radio": "expres",
+    "recorded_at": "2025-12-07T06:08:12.697875+01:00",
+    "raw_valid": true,
+    "song_session_id": "d7d7bc2d-425a-432b-93a0-7bbc07829018",
+    "duration_ms": 263183,
+    "genre": []
+  },
+  {
+    "song": "Eyes Closed",
+    "artists": [
+      "Imagine Dragons"
+    ],
+    "isrc": "USUM72402448",
+    "start_time": "2025-12-07 06:11:45",
+    "radio": "expres",
+    "recorded_at": "2025-12-07T06:12:16.007943+01:00",
+    "raw_valid": true,
+    "song_session_id": "8fd54e3d-aa58-4294-839b-2c3fdb2be23a",
+    "duration_ms": 200026,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Skusame Sa Najst",
+    "artists": [
+      "Peter Bic Project"
+    ],
+    "isrc": "SKA011700065",
+    "start_time": "2025-12-07 06:14:59",
+    "radio": "expres",
+    "recorded_at": "2025-12-07T06:15:18.782349+01:00",
+    "raw_valid": true,
+    "song_session_id": "e7a5858d-064d-4453-b147-ddff435b1bf4",
+    "duration_ms": 191165,
+    "genre": []
+  },
+  {
+    "song": "We Are The Champions",
+    "artists": [
+      "Queen"
+    ],
+    "isrc": "GBUM71029619",
+    "start_time": "2025-12-07 06:18:15",
+    "radio": "expres",
+    "recorded_at": "2025-12-07T06:18:41.609160+01:00",
+    "raw_valid": true,
+    "song_session_id": "ccdf1a1b-c3e4-47ba-9785-e3d9576af900",
+    "duration_ms": 179200,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Slova Uz Nevravia Nic",
+    "artists": [
+      "Nocaden"
+    ],
+    "isrc": "SKBW52400105",
+    "start_time": "2025-12-07 06:21:17",
+    "radio": "expres",
+    "recorded_at": "2025-12-07T06:21:44.114764+01:00",
+    "raw_valid": true,
+    "song_session_id": "93bc6d95-2b66-4f22-b0a8-c5fab77f0875",
+    "duration_ms": 249213,
+    "genre": []
+  },
+  {
+    "song": "Where Is My Husband",
+    "artists": [
+      "Raye"
+    ],
+    "isrc": "QMFME2535037",
+    "start_time": "2025-12-07 06:24:55",
+    "radio": "expres",
+    "recorded_at": "2025-12-07T06:25:27.269102+01:00",
+    "raw_valid": true,
+    "song_session_id": "e8ee3542-c815-4cb9-9aae-8cbabb33abdd",
+    "duration_ms": 196795,
+    "genre": [
+      "offizielle charts"
+    ]
+  },
+  {
+    "song": "Vianocna Pohoda",
+    "artists": [
+      "Radio Expres",
+      "Sam Sebou",
+      "Kali"
+    ],
+    "isrc": "CZCZ42400089",
+    "start_time": "2025-12-07 06:28:26",
+    "radio": "expres",
+    "recorded_at": "2025-12-07T06:28:50.064224+01:00",
+    "raw_valid": true,
+    "song_session_id": "028cd5d3-3cac-4eef-a851-78c0b87343f3",
+    "duration_ms": 164833,
+    "genre": []
+  },
+  {
+    "song": "Wonderful Life 25",
+    "artists": [
+      "Hurts",
+      "Purple Disco Machine"
+    ],
+    "isrc": "DEE862500677",
+    "start_time": "2025-12-07 06:32:44",
+    "radio": "expres",
+    "recorded_at": "2025-12-07T06:33:08.509710+01:00",
+    "raw_valid": true,
+    "song_session_id": "60062ac9-4a18-433b-90b0-9d7a0e9b24f5",
+    "duration_ms": 178658,
+    "genre": []
+  },
+  {
+    "song": "Svetla Mesta",
+    "artists": [
+      "Polemic"
+    ],
+    "isrc": "SKB811000111",
+    "start_time": "2025-12-07 06:35:44",
+    "radio": "expres",
+    "recorded_at": "2025-12-07T06:36:11.184736+01:00",
+    "raw_valid": true,
+    "song_session_id": "931018c6-1253-43c8-975e-54a7c596a52e",
+    "duration_ms": 264093,
+    "genre": [
+      "ska"
+    ]
+  },
+  {
+    "song": "Perfect",
+    "artists": [
+      "Ed Sheeran"
+    ],
+    "isrc": "GBAHS1700024",
+    "start_time": "2025-12-07 06:39:59",
+    "radio": "expres",
+    "recorded_at": "2025-12-07T06:40:34.668958+01:00",
+    "raw_valid": true,
+    "song_session_id": "897c50d7-7a3f-4ad7-90cf-aa83e819639e",
+    "duration_ms": 263400,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Ako Posledni",
+    "artists": [
+      "Elevenhill",
+      "Zuzana Smatanova"
+    ],
+    "isrc": "SKAG41900201",
+    "start_time": "2025-12-07 06:44:26",
+    "radio": "expres",
+    "recorded_at": "2025-12-07T06:44:58.149799+01:00",
+    "raw_valid": true,
+    "song_session_id": "90389524-b06a-4910-88a0-d62ad25a7277",
+    "duration_ms": 209081,
+    "genre": []
+  },
+  {
+    "song": "Glide",
+    "artists": [
+      "Neiked",
+      "Portugal The Man"
+    ],
+    "isrc": "DEE862500421",
+    "start_time": "2025-12-07 06:47:57",
+    "radio": "expres",
+    "recorded_at": "2025-12-07T06:48:20.889534+01:00",
+    "raw_valid": true,
+    "song_session_id": "9e9051a2-1b60-4e5d-ba44-f0f598993a68",
+    "duration_ms": 184405,
+    "genre": []
+  },
+  {
+    "song": "Dive",
+    "artists": [
+      "Lost Frequencies",
+      "Tom Gregory"
+    ],
+    "isrc": "BEHP42300028",
+    "start_time": "2025-12-07 06:50:51",
+    "radio": "expres",
+    "recorded_at": "2025-12-07T06:51:23.492340+01:00",
+    "raw_valid": true,
+    "song_session_id": "fbcb90bd-8119-47cc-9f1a-07ef1ee2a7cd",
+    "duration_ms": 161093,
+    "genre": [
+      "tropical house"
+    ]
+  },
+  {
+    "song": "V Sieti Ta Mam",
+    "artists": [
+      "Kristina"
+    ],
+    "isrc": "SKA011000110",
+    "start_time": "2025-12-07 06:53:39",
+    "radio": "expres",
+    "recorded_at": "2025-12-07T06:54:05.849267+01:00",
+    "raw_valid": true,
+    "song_session_id": "e9226987-d63a-485a-be20-ea2bfaca92c7",
+    "duration_ms": 183332,
+    "genre": []
+  }
+]

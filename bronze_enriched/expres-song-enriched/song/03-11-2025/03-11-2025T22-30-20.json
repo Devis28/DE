@@ -1,0 +1,503 @@
+[
+  {
+    "song": "Million Good Reasons",
+    "artists": [
+      "Robin Schulz",
+      "Fast Boy"
+    ],
+    "isrc": "DEA622404738",
+    "start_time": "2025-11-03 20:32:29",
+    "radio": "expres",
+    "recorded_at": "03.11.2025 20:32:40",
+    "raw_valid": true,
+    "song_session_id": "6f1edc28-862f-4fe6-9571-0809e1570396",
+    "duration_ms": 157130,
+    "genre": [
+      "tropical house"
+    ]
+  },
+  {
+    "song": "Dva A Dva",
+    "artists": [
+      "Elan"
+    ],
+    "isrc": "SKA128562203",
+    "start_time": "2025-11-03 20:35:10",
+    "radio": "expres",
+    "recorded_at": "03.11.2025 20:35:31",
+    "raw_valid": true,
+    "song_session_id": "34d79593-4cee-4940-8e7e-8adbe5918cb9",
+    "duration_ms": 275986,
+    "genre": []
+  },
+  {
+    "song": "Someone Like You",
+    "artists": [
+      "Adele"
+    ],
+    "isrc": "GBBKS1000351",
+    "start_time": "2025-11-03 20:39:39",
+    "radio": "expres",
+    "recorded_at": "03.11.2025 20:40:14",
+    "raw_valid": true,
+    "song_session_id": "832a45dd-7175-4db2-9ad3-17cae9832a47",
+    "duration_ms": 282000,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Undressed",
+    "artists": [
+      "Sombr"
+    ],
+    "isrc": "USWB12500737",
+    "start_time": "2025-11-03 20:44:28",
+    "radio": "expres",
+    "recorded_at": "03.11.2025 20:44:49",
+    "raw_valid": true,
+    "song_session_id": "03d201ec-15dc-4050-b038-f02e979b7b8f",
+    "duration_ms": 182088,
+    "genre": [
+      "indie pop"
+    ]
+  },
+  {
+    "song": "Cant Fight The Moonlight",
+    "artists": [
+      "Leann Rimes"
+    ],
+    "isrc": "USCRB0000703",
+    "start_time": "2025-11-03 20:47:25",
+    "radio": "expres",
+    "recorded_at": "03.11.2025 20:47:54",
+    "raw_valid": true,
+    "song_session_id": "af6e3e21-a842-4314-95e7-68e75c49e671",
+    "duration_ms": 215506,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Beautiful Things",
+    "artists": [
+      "Benson Boone"
+    ],
+    "isrc": "USWB12307016",
+    "start_time": "2025-11-03 20:51:12",
+    "radio": "expres",
+    "recorded_at": "03.11.2025 20:51:32",
+    "raw_valid": true,
+    "song_session_id": "454750a2-137e-47e1-8b27-4d15791d3550",
+    "duration_ms": 180304,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "The Fate Of Ophelia",
+    "artists": [
+      "Taylor Swift"
+    ],
+    "isrc": "USUG12506436",
+    "start_time": "2025-11-03 20:54:07",
+    "radio": "expres",
+    "recorded_at": "03.11.2025 20:54:19",
+    "raw_valid": true,
+    "song_session_id": "fa50426a-670d-4b81-81ce-1d5ea9a69ee5",
+    "duration_ms": 226073,
+    "genre": [
+      "electronic"
+    ]
+  },
+  {
+    "song": "Dont Be So Shy (Filatov & Karas Remix)",
+    "artists": [
+      "Imany"
+    ],
+    "isrc": "RUA591500339",
+    "start_time": "2025-11-03 20:58:02",
+    "radio": "expres",
+    "recorded_at": "03.11.2025 20:58:24",
+    "raw_valid": true,
+    "song_session_id": "efd8ac25-db2e-453b-8274-28fe274a97b5",
+    "duration_ms": 191360,
+    "genre": [
+      "electronic"
+    ]
+  },
+  {
+    "song": "Be Mine",
+    "artists": [
+      "Kamrad"
+    ],
+    "isrc": "DE1NJ2500035",
+    "start_time": "2025-11-03 21:04:54",
+    "radio": "expres",
+    "recorded_at": "03.11.2025 21:05:05",
+    "raw_valid": true,
+    "song_session_id": "deb9adfb-6c84-42b6-afaf-bbdac3726e8f",
+    "duration_ms": 156463,
+    "genre": []
+  },
+  {
+    "song": "Mozno Sa Ti Zda",
+    "artists": [
+      "Miro Zbirka"
+    ],
+    "isrc": "SKA128804807",
+    "start_time": "2025-11-03 21:07:37",
+    "radio": "expres",
+    "recorded_at": "03.11.2025 21:07:48",
+    "raw_valid": true,
+    "song_session_id": "dbffa683-f60b-490b-95bb-154edf276a47",
+    "duration_ms": 197360,
+    "genre": []
+  },
+  {
+    "song": "Head Down",
+    "artists": [
+      "Lost Frequencies",
+      "Bastille"
+    ],
+    "isrc": "BEHP42300071",
+    "start_time": "2025-11-03 21:10:56",
+    "radio": "expres",
+    "recorded_at": "03.11.2025 21:11:11",
+    "raw_valid": true,
+    "song_session_id": "ee51c1e6-3544-4b7a-abba-4fe9398e60c8",
+    "duration_ms": 173888,
+    "genre": [
+      "alternative rock"
+    ]
+  },
+  {
+    "song": "Nevrav Mi Aky Som",
+    "artists": [
+      "Desmod"
+    ],
+    "isrc": "SKM901700103",
+    "start_time": "2025-11-03 21:13:57",
+    "radio": "expres",
+    "recorded_at": "03.11.2025 21:14:37",
+    "raw_valid": true,
+    "song_session_id": "dcd95de5-0088-4352-99c3-c152618fa1b5",
+    "duration_ms": 207978,
+    "genre": []
+  },
+  {
+    "song": "Save My Love",
+    "artists": [
+      "Marshmello",
+      "Ellie Goulding",
+      "Avaion"
+    ],
+    "isrc": "USUG12504310",
+    "start_time": "2025-11-03 21:17:19",
+    "radio": "expres",
+    "recorded_at": "03.11.2025 21:17:40",
+    "raw_valid": true,
+    "song_session_id": "27364ebb-ba33-4912-8ac8-f77f2ff078da",
+    "duration_ms": 215555,
+    "genre": [
+      "edm"
+    ]
+  },
+  {
+    "song": "We Are",
+    "artists": [
+      "Ana Johnsson"
+    ],
+    "isrc": "DEE860400428",
+    "start_time": "2025-11-03 21:21:24",
+    "radio": "expres",
+    "recorded_at": "03.11.2025 21:21:47",
+    "raw_valid": true,
+    "song_session_id": "3d94f9a2-0f4b-42c4-b6d8-86d9510088ef",
+    "duration_ms": 234573,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Forbidden Road",
+    "artists": [
+      "Robbie Williams"
+    ],
+    "isrc": "GBPS62400032",
+    "start_time": "2025-11-03 21:25:20",
+    "radio": "expres",
+    "recorded_at": "03.11.2025 21:25:46",
+    "raw_valid": true,
+    "song_session_id": "0b669c51-f091-4d0e-8275-2dda6db9636c",
+    "duration_ms": 197419,
+    "genre": []
+  },
+  {
+    "song": "Verim",
+    "artists": [
+      "Katarina Knechtova"
+    ],
+    "isrc": "SKA012200135",
+    "start_time": "2025-11-03 21:28:30",
+    "radio": "expres",
+    "recorded_at": "03.11.2025 21:28:49",
+    "raw_valid": true,
+    "song_session_id": "7d5a17ee-b5f1-497f-80e4-156cbabd2cdc",
+    "duration_ms": 228830,
+    "genre": []
+  },
+  {
+    "song": "The One",
+    "artists": [
+      "Michael Patrick Kelly"
+    ],
+    "isrc": "DEE862500476",
+    "start_time": "2025-11-03 21:33:13",
+    "radio": "expres",
+    "recorded_at": "03.11.2025 21:33:33",
+    "raw_valid": true,
+    "song_session_id": "6118ada8-3ec1-4957-8141-59faf876538b",
+    "duration_ms": 181194,
+    "genre": []
+  },
+  {
+    "song": "Bad Habits",
+    "artists": [
+      "Ed Sheeran"
+    ],
+    "isrc": "GBAHS2100318",
+    "start_time": "2025-11-03 21:36:19",
+    "radio": "expres",
+    "recorded_at": "03.11.2025 21:36:42",
+    "raw_valid": true,
+    "song_session_id": "e1166c00-310c-40e8-84a0-c27422047911",
+    "duration_ms": 230746,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "It Must Have Been Love",
+    "artists": [
+      "Roxette"
+    ],
+    "isrc": "SEAMA8777131",
+    "start_time": "2025-11-03 21:40:06",
+    "radio": "expres",
+    "recorded_at": "03.11.2025 21:40:20",
+    "raw_valid": true,
+    "song_session_id": "24db3fef-e957-4d32-bc43-afcf2ea06c51",
+    "duration_ms": 259666,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Pride",
+    "artists": [
+      "Felix Jaehn",
+      "Jhart"
+    ],
+    "isrc": "DEUM72503423",
+    "start_time": "2025-11-03 21:44:20",
+    "radio": "expres",
+    "recorded_at": "03.11.2025 21:44:45",
+    "raw_valid": true,
+    "song_session_id": "95b48434-660e-4148-b3d1-4783b853c679",
+    "duration_ms": 158150,
+    "genre": [
+      "tropical house"
+    ]
+  },
+  {
+    "song": "V Nas",
+    "artists": [
+      "Nocaden"
+    ],
+    "isrc": "CZA231500032",
+    "start_time": "2025-11-03 21:47:09",
+    "radio": "expres",
+    "recorded_at": "03.11.2025 21:47:28",
+    "raw_valid": true,
+    "song_session_id": "d7a76733-3764-41db-a31a-502cccb977dd",
+    "duration_ms": 220106,
+    "genre": []
+  },
+  {
+    "song": "Cynical",
+    "artists": [
+      "Twocolors",
+      "Safri Duo",
+      "Chris De Sarandy"
+    ],
+    "isrc": "DEUM72307092",
+    "start_time": "2025-11-03 21:50:54",
+    "radio": "expres",
+    "recorded_at": "03.11.2025 21:51:17",
+    "raw_valid": true,
+    "song_session_id": "89db7c00-95cf-47e4-be62-2d77ad54ebc7",
+    "duration_ms": 191365,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Gone Gone Gone",
+    "artists": [
+      "David Guetta",
+      "Teddy Swims",
+      "Tones And I"
+    ],
+    "isrc": "UKWLG2500132",
+    "start_time": "2025-11-03 21:53:59",
+    "radio": "expres",
+    "recorded_at": "03.11.2025 21:54:15",
+    "raw_valid": true,
+    "song_session_id": "a47d6c11-0a61-47ff-866f-d0f2ee5a6f39",
+    "duration_ms": 198004,
+    "genre": [
+      "soul"
+    ]
+  },
+  {
+    "song": "Ceresne",
+    "artists": [
+      "Zuzana Smatanova"
+    ],
+    "isrc": "SKA012300327",
+    "start_time": "2025-11-03 21:57:38",
+    "radio": "expres",
+    "recorded_at": "03.11.2025 21:58:04",
+    "raw_valid": true,
+    "song_session_id": "760f7036-fd00-4031-bcbf-9d96977a7f07",
+    "duration_ms": 190909,
+    "genre": []
+  },
+  {
+    "song": "Manchild",
+    "artists": [
+      "Sabrina Carpenter"
+    ],
+    "isrc": "USUM72504354",
+    "start_time": "2025-11-03 22:05:01",
+    "radio": "expres",
+    "recorded_at": "03.11.2025 22:05:10",
+    "raw_valid": true,
+    "song_session_id": "4792fa27-7cbe-4aa6-8244-70a9ddc8ca98",
+    "duration_ms": 213645,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Unwritten",
+    "artists": [
+      "Natasha Bedingfield"
+    ],
+    "isrc": "GBARL0400707",
+    "start_time": "2025-11-03 22:08:22",
+    "radio": "expres",
+    "recorded_at": "03.11.2025 22:08:33",
+    "raw_valid": true,
+    "song_session_id": "de992cbd-b2ef-433c-9e10-1c0fc55d18cb",
+    "duration_ms": 259920,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Glide",
+    "artists": [
+      "Neiked",
+      "Portugal The Man"
+    ],
+    "isrc": "DEE862500421",
+    "start_time": "2025-11-03 22:12:25",
+    "radio": "expres",
+    "recorded_at": "03.11.2025 22:12:45",
+    "raw_valid": true,
+    "song_session_id": "0ef3c98e-2ff4-4a4d-a2b9-04a36351a12d",
+    "duration_ms": 184405,
+    "genre": []
+  },
+  {
+    "song": "Enemy",
+    "artists": [
+      "Imagine Dragons",
+      "Jid"
+    ],
+    "isrc": "USUM72119916",
+    "start_time": "2025-11-03 22:15:20",
+    "radio": "expres",
+    "recorded_at": "03.11.2025 22:15:43",
+    "raw_valid": true,
+    "song_session_id": "d6286be9-5b49-46b2-88cc-e3ec857bb29e",
+    "duration_ms": 173381,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Man I Need",
+    "artists": [
+      "Olivia Dean"
+    ],
+    "isrc": "GBUM72503089",
+    "start_time": "2025-11-03 22:18:01",
+    "radio": "expres",
+    "recorded_at": "03.11.2025 22:18:26",
+    "raw_valid": true,
+    "song_session_id": "b17d5a5f-db18-4425-b672-ef87abe343f5",
+    "duration_ms": 184000,
+    "genre": [
+      "offizielle charts"
+    ]
+  },
+  {
+    "song": "Here I Am",
+    "artists": [
+      "Bryan Adams"
+    ],
+    "isrc": "USAM10200173",
+    "start_time": "2025-11-03 22:21:21",
+    "radio": "expres",
+    "recorded_at": "03.11.2025 22:21:52",
+    "raw_valid": true,
+    "song_session_id": "066c0a6c-bc30-4ab4-b922-7cfe32462fba",
+    "duration_ms": 284066,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Srdce",
+    "artists": [
+      "Hex"
+    ],
+    "isrc": "SKC751700107",
+    "start_time": "2025-11-03 22:25:01",
+    "radio": "expres",
+    "recorded_at": "03.11.2025 22:25:17",
+    "raw_valid": true,
+    "song_session_id": "2d876004-74cd-4f7b-8263-197f4696b7a8",
+    "duration_ms": 237266,
+    "genre": []
+  },
+  {
+    "song": "Feel Alive",
+    "artists": [
+      "Kamrad"
+    ],
+    "isrc": "DEE862202500",
+    "start_time": "2025-11-03 22:28:48",
+    "radio": "expres",
+    "recorded_at": "03.11.2025 22:29:17",
+    "raw_valid": true,
+    "song_session_id": "55fbeb5e-788d-4d1f-9a63-c9c58e1b1f6e",
+    "duration_ms": 148116,
+    "genre": [
+      "pop"
+    ]
+  }
+]

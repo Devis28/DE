@@ -1,0 +1,332 @@
+[
+  {
+    "song": "Be Mine",
+    "artists": [
+      "Kamrad"
+    ],
+    "isrc": "DE1NJ2500035",
+    "start_time": "2025-11-26 08:08:34",
+    "radio": "expres",
+    "recorded_at": "2025-11-26T08:08:57.195604+01:00",
+    "raw_valid": true,
+    "song_session_id": "1edb8554-fd95-4477-94e6-7806dc7f0632",
+    "duration_ms": 156463,
+    "genre": []
+  },
+  {
+    "song": "Waterfall",
+    "artists": [
+      "Michael Schulte",
+      "R3Hab"
+    ],
+    "isrc": "DEUM72119688",
+    "start_time": "2025-11-26 08:11:13",
+    "radio": "expres",
+    "recorded_at": "2025-11-26T08:11:39.943602+01:00",
+    "raw_valid": true,
+    "song_session_id": "07d55c07-8869-4026-a254-c8e6be444bfa",
+    "duration_ms": 137999,
+    "genre": []
+  },
+  {
+    "song": "Hero",
+    "artists": [
+      "Chad Kroeger",
+      "Josey Scott"
+    ],
+    "isrc": "NLA320219756",
+    "start_time": "2025-11-26 08:16:27",
+    "radio": "expres",
+    "recorded_at": "2025-11-26T08:16:44.557398+01:00",
+    "raw_valid": true,
+    "song_session_id": "7cc69c6b-5f7c-413a-8945-0626ff82377f",
+    "duration_ms": 200480,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Head Above Water",
+    "artists": [
+      "Twocolors",
+      "Safri Duo",
+      "Chris De Sarandy"
+    ],
+    "isrc": "DEUM72503698",
+    "start_time": "2025-11-26 08:26:21",
+    "radio": "expres",
+    "recorded_at": "2025-11-26T08:26:29.357068+01:00",
+    "raw_valid": true,
+    "song_session_id": "124bd10c-2b4b-4173-a30a-3c389b68160c",
+    "duration_ms": 174550,
+    "genre": []
+  },
+  {
+    "song": "We Are The World",
+    "artists": [
+      "Usa For Africa",
+      "Michael Jackson"
+    ],
+    "isrc": "QMFMF2530606",
+    "start_time": "2025-11-26 08:31:04",
+    "radio": "expres",
+    "recorded_at": "2025-11-26T08:31:13.526061+01:00",
+    "raw_valid": true,
+    "song_session_id": "8ec46ffa-b932-4f39-ae42-ad55d70c65a3",
+    "duration_ms": 427333,
+    "genre": []
+  },
+  {
+    "song": "The One",
+    "artists": [
+      "Michael Patrick Kelly"
+    ],
+    "isrc": "DEE862500476",
+    "start_time": "2025-11-26 08:36:00",
+    "radio": "expres",
+    "recorded_at": "2025-11-26T08:36:18.009630+01:00",
+    "raw_valid": true,
+    "song_session_id": "519784de-8d58-4653-9206-7337fc413901",
+    "duration_ms": 181194,
+    "genre": []
+  },
+  {
+    "song": "Locked Out Of Heaven",
+    "artists": [
+      "Bruno Mars"
+    ],
+    "isrc": "USAT21203287",
+    "start_time": "2025-11-26 08:45:10",
+    "radio": "expres",
+    "recorded_at": "2025-11-26T08:45:25.474628+01:00",
+    "raw_valid": true,
+    "song_session_id": "84e50fc2-0887-46f0-8a0b-c1b58a8f30e2",
+    "duration_ms": 233478,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "World Gone Wild",
+    "artists": [
+      "Robin Schulz",
+      "Cyril",
+      "Sam Martin"
+    ],
+    "isrc": "DEA622403329",
+    "start_time": "2025-11-26 08:51:27",
+    "radio": "expres",
+    "recorded_at": "2025-11-26T08:51:49.644997+01:00",
+    "raw_valid": true,
+    "song_session_id": "f2dc774e-5f92-4855-b902-8598b3778b1d",
+    "duration_ms": 146523,
+    "genre": []
+  },
+  {
+    "song": "Srdce Jako Knize Rohan",
+    "artists": [
+      "Richard Muller"
+    ],
+    "isrc": "CZA110003022",
+    "start_time": "2025-11-26 08:53:53",
+    "radio": "expres",
+    "recorded_at": "2025-11-26T08:54:07.060587+01:00",
+    "raw_valid": true,
+    "song_session_id": "9a30f0ed-bbb3-4181-942a-dd555f361b98",
+    "duration_ms": 245160,
+    "genre": []
+  },
+  {
+    "song": "Ill Be There For You",
+    "artists": [
+      "Rembrandts"
+    ],
+    "isrc": "USEE10001295",
+    "start_time": "2025-11-26 09:08:07",
+    "radio": "expres",
+    "recorded_at": "2025-11-26T09:08:18.235629+01:00",
+    "raw_valid": true,
+    "song_session_id": "8b38c7fd-d662-465c-8bc9-ddccd10205cc",
+    "duration_ms": 188359,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Diamonds",
+    "artists": [
+      "Rihanna"
+    ],
+    "isrc": "USUM71211793",
+    "start_time": "2025-11-26 09:11:04",
+    "radio": "expres",
+    "recorded_at": "2025-11-26T09:11:21.080645+01:00",
+    "raw_valid": true,
+    "song_session_id": "5043bd36-050f-424d-aaac-39761d55fb73",
+    "duration_ms": 225200,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Eye Of The Tiger",
+    "artists": [
+      "Survivor"
+    ],
+    "isrc": "USVR19300001",
+    "start_time": "2025-11-26 09:14:46",
+    "radio": "expres",
+    "recorded_at": "2025-11-26T09:15:04.749136+01:00",
+    "raw_valid": true,
+    "song_session_id": "a5a448e0-ab55-4189-9785-0a4eb7e9765e",
+    "duration_ms": 246080,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Golden",
+    "artists": [
+      "Kpop Demon Hunters"
+    ],
+    "isrc": "QZ8BZ2513510",
+    "start_time": "2025-11-26 09:20:30",
+    "radio": "expres",
+    "recorded_at": "2025-11-26T09:20:49.740210+01:00",
+    "raw_valid": true,
+    "song_session_id": "17f64089-dfe2-41b0-8f8d-da25703d448b",
+    "duration_ms": 194607,
+    "genre": [
+      "korean"
+    ]
+  },
+  {
+    "song": "Let Me Die",
+    "artists": [
+      "Mark Dann",
+      "Giovanni Ricci"
+    ],
+    "isrc": "US38Y2520370",
+    "start_time": "2025-11-26 09:23:21",
+    "radio": "expres",
+    "recorded_at": "2025-11-26T09:23:27.313127+01:00",
+    "raw_valid": true,
+    "song_session_id": "9fac3be8-2866-4d61-8855-d02759f16c3c",
+    "duration_ms": 147010,
+    "genre": []
+  },
+  {
+    "song": "Regalo",
+    "artists": [
+      "Alvaro Soler"
+    ],
+    "isrc": "DEE862500388",
+    "start_time": "2025-11-26 09:32:26",
+    "radio": "expres",
+    "recorded_at": "2025-11-26T09:33:02.274888+01:00",
+    "raw_valid": true,
+    "song_session_id": "f636901d-1895-4dcd-bf96-b80b44b4dd72",
+    "duration_ms": 184984,
+    "genre": []
+  },
+  {
+    "song": "Something Just Like This",
+    "artists": [
+      "The Chainsmokers",
+      "Coldplay"
+    ],
+    "isrc": "USQX91700278",
+    "start_time": "2025-11-26 09:35:39",
+    "radio": "expres",
+    "recorded_at": "2025-11-26T09:35:54.913011+01:00",
+    "raw_valid": true,
+    "song_session_id": "8a48ff14-e86f-44ab-9be2-69863517cada",
+    "duration_ms": 247280,
+    "genre": [
+      "electronic"
+    ]
+  },
+  {
+    "song": "Somebody To Love",
+    "artists": [
+      "George Michael",
+      "Queen"
+    ],
+    "isrc": "GBCKZ9300002",
+    "start_time": "2025-11-26 09:39:38",
+    "radio": "expres",
+    "recorded_at": "2025-11-26T09:40:13.918138+01:00",
+    "raw_valid": true,
+    "song_session_id": "9e86672e-5525-4115-b5d1-f774404967a1",
+    "duration_ms": 318866,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Feel Alive",
+    "artists": [
+      "Kamrad"
+    ],
+    "isrc": "DEE862202500",
+    "start_time": "2025-11-26 09:44:46",
+    "radio": "expres",
+    "recorded_at": "2025-11-26T09:45:03.064151+01:00",
+    "raw_valid": true,
+    "song_session_id": "67d769ff-292c-4c4c-aa54-17f4008a9c9c",
+    "duration_ms": 148116,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Like A Prayer",
+    "artists": [
+      "Madonna"
+    ],
+    "isrc": "USWB10903606",
+    "start_time": "2025-11-26 09:47:19",
+    "radio": "expres",
+    "recorded_at": "2025-11-26T09:47:56.658501+01:00",
+    "raw_valid": true,
+    "song_session_id": "df0eb3e6-a8e5-424d-91d9-2e5ba28778b4",
+    "duration_ms": 342680,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Gone Gone Gone",
+    "artists": [
+      "David Guetta",
+      "Teddy Swims",
+      "Tones And I"
+    ],
+    "isrc": "UKWLG2500132",
+    "start_time": "2025-11-26 09:50:17",
+    "radio": "expres",
+    "recorded_at": "2025-11-26T09:50:24.064406+01:00",
+    "raw_valid": true,
+    "song_session_id": "4e2961b5-eadb-4be2-ad13-64acc8bae0da",
+    "duration_ms": 198004,
+    "genre": [
+      "soul"
+    ]
+  },
+  {
+    "song": "Iris",
+    "artists": [
+      "Goo Goo Dolls"
+    ],
+    "isrc": "USWB19800160",
+    "start_time": "2025-11-26 09:53:59",
+    "radio": "expres",
+    "recorded_at": "2025-11-26T09:54:10.819932+01:00",
+    "raw_valid": true,
+    "song_session_id": "59d7fe0b-856b-40bc-92d5-bc603065714a",
+    "duration_ms": 289533,
+    "genre": [
+      "rock"
+    ]
+  }
+]

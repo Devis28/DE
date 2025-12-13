@@ -1,0 +1,242 @@
+[
+  {
+    "song": "I Will Survive",
+    "artist": "Gloria Gaynor",
+    "start_time": "2025-10-31T10:59:22",
+    "recorded_at": "31.10.2025 10:59:30",
+    "raw_valid": true,
+    "song_session_id": "5e6a4067-2922-4bb3-92d7-60a4b29840e3",
+    "duration_ms": 296106,
+    "genre": [
+      "disco"
+    ]
+  },
+  {
+    "song": "Will You Be There",
+    "artist": "Michael Jackson",
+    "start_time": "2025-10-31T11:05:22",
+    "recorded_at": "31.10.2025 11:05:32",
+    "raw_valid": true,
+    "song_session_id": "c9b6f6c9-3c1a-43c0-a01c-1c2b4fbbb7ba",
+    "duration_ms": 224015,
+    "genre": []
+  },
+  {
+    "song": "Mopedová",
+    "artist": "Vašo Patejdl a Oľga Záblacká",
+    "start_time": "2025-10-31T11:09:22",
+    "recorded_at": "31.10.2025 11:09:33",
+    "raw_valid": true,
+    "song_session_id": "437807a0-a853-40a0-a6d8-0830c1c83687",
+    "duration_ms": 141000,
+    "genre": []
+  },
+  {
+    "song": "Reality",
+    "artist": "Richard Sanderson",
+    "start_time": "2025-10-31T11:11:22",
+    "recorded_at": "31.10.2025 11:11:33",
+    "raw_valid": true,
+    "song_session_id": "3b0daac3-87c4-4c65-8cbf-e2eb8619f68b",
+    "duration_ms": 289733,
+    "genre": []
+  },
+  {
+    "song": "It's My Life",
+    "artist": "Bon Jovi",
+    "start_time": "2025-10-31T11:27:22",
+    "recorded_at": "31.10.2025 11:27:38",
+    "raw_valid": true,
+    "song_session_id": "64beab40-57e2-4492-b15e-397ee86a220b",
+    "duration_ms": 224493,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Zamilovaná (Je L´aime Á Mourir)",
+    "artist": "Lenka Filipová",
+    "start_time": "2025-10-31T11:31:22",
+    "recorded_at": "31.10.2025 11:31:39",
+    "raw_valid": true,
+    "song_session_id": "2b6bfd05-bb6b-467c-8fac-9e46e835150c",
+    "duration_ms": 172720,
+    "genre": []
+  },
+  {
+    "song": "Que Sera Mi Vida (If You Should Go)",
+    "artist": "Gibson Brothers",
+    "start_time": "2025-10-31T11:35:22",
+    "recorded_at": "31.10.2025 11:35:40",
+    "raw_valid": true,
+    "song_session_id": "40feedbc-7908-4996-a85f-085ca30ba54d",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "song": "St. Elmo's Fire (Man In Motion)",
+    "artist": "Parr John",
+    "start_time": "2025-10-31T11:41:22",
+    "recorded_at": "31.10.2025 11:41:41",
+    "raw_valid": true,
+    "song_session_id": "a6568756-81a2-45ca-b80f-2fb7d65ef926",
+    "duration_ms": 251800,
+    "genre": []
+  },
+  {
+    "song": "Stín Katedrál",
+    "artist": "Petr Muk",
+    "start_time": "2025-10-31T11:48:22",
+    "recorded_at": "31.10.2025 11:48:43",
+    "raw_valid": true,
+    "song_session_id": "346a9acd-ebc1-461f-a8bc-6f8ffb39fd34",
+    "duration_ms": 214240,
+    "genre": []
+  },
+  {
+    "song": "Big In Japan",
+    "artist": "Alphaville",
+    "start_time": "2025-10-31T11:51:22",
+    "recorded_at": "31.10.2025 11:51:44",
+    "raw_valid": true,
+    "song_session_id": "eb609078-6c1c-416b-8bc6-83b876970d4c",
+    "duration_ms": 286160,
+    "genre": [
+      "synthpop"
+    ]
+  },
+  {
+    "song": "I Swear",
+    "artist": "All-4-One",
+    "start_time": "2025-10-31T11:56:22",
+    "recorded_at": "31.10.2025 11:56:45",
+    "raw_valid": true,
+    "song_session_id": "7f7ab2f1-c389-4525-838e-ff3511844475",
+    "duration_ms": 259853,
+    "genre": []
+  },
+  {
+    "song": "It's A Sin",
+    "artist": "Pet Shop Boys",
+    "start_time": "2025-10-31T12:00:22",
+    "recorded_at": "31.10.2025 12:00:46",
+    "raw_valid": true,
+    "song_session_id": "16ee5476-3b9f-4a49-836c-be0009302ff6",
+    "duration_ms": 299253,
+    "genre": [
+      "synthpop"
+    ]
+  },
+  {
+    "song": "We Are World",
+    "artist": "Usa For Africa",
+    "start_time": "2025-10-31T12:07:22",
+    "recorded_at": "31.10.2025 12:07:48",
+    "raw_valid": true,
+    "song_session_id": "be75fb43-f625-4fd9-8253-dc4bdf037bcd",
+    "duration_ms": 427333,
+    "genre": []
+  },
+  {
+    "song": "We Will Rock You",
+    "artist": "Queen",
+    "start_time": "2025-10-31T12:12:22",
+    "recorded_at": "31.10.2025 12:12:49",
+    "raw_valid": true,
+    "song_session_id": "1eff968e-daf1-4067-aa76-f3f00d16c4f4",
+    "duration_ms": 122066,
+    "genre": [
+      "classic rock"
+    ]
+  },
+  {
+    "song": "Hero",
+    "artist": "Carey Mariah",
+    "start_time": "2025-10-31T12:15:22",
+    "recorded_at": "31.10.2025 12:15:50",
+    "raw_valid": true,
+    "song_session_id": "a561ead2-18c3-48a6-a876-730946f19299",
+    "duration_ms": 257921,
+    "genre": [
+      "christmas"
+    ]
+  },
+  {
+    "song": "Material Girl",
+    "artist": "Madonna",
+    "start_time": "2025-10-31T12:19:22",
+    "recorded_at": "31.10.2025 12:19:51",
+    "raw_valid": true,
+    "song_session_id": "32ecde45-64ec-47b5-b694-7b81fb65c915",
+    "duration_ms": 240280,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Hands Up",
+    "artist": "Ottawan",
+    "start_time": "2025-10-31T12:28:22",
+    "recorded_at": "31.10.2025 12:28:23",
+    "raw_valid": true,
+    "song_session_id": "939ea7a4-d7b8-4389-9ed5-dfa86854b963",
+    "duration_ms": 208573,
+    "genre": [
+      "disco"
+    ]
+  },
+  {
+    "song": "She's The One",
+    "artist": "Robbie Williams",
+    "start_time": "2025-10-31T12:31:22",
+    "recorded_at": "31.10.2025 12:31:24",
+    "raw_valid": true,
+    "song_session_id": "30a6952a-09a8-4d82-a86b-7c381c33676c",
+    "duration_ms": 258026,
+    "genre": []
+  },
+  {
+    "song": "Come Back And Stay",
+    "artist": "Bad Boys Blue",
+    "start_time": "2025-10-31T12:36:22",
+    "recorded_at": "31.10.2025 12:36:25",
+    "raw_valid": true,
+    "song_session_id": "b9c2bb52-c3c0-408e-bc18-7b75bc274e96",
+    "duration_ms": 247026,
+    "genre": [
+      "italo disco"
+    ]
+  },
+  {
+    "song": "A Hard Days Night",
+    "artist": "Beatles, The",
+    "start_time": "2025-10-31T12:41:22",
+    "recorded_at": "31.10.2025 12:41:27",
+    "raw_valid": true,
+    "song_session_id": "a34a2653-1d81-42e6-b2cd-fccd3e1fbe66",
+    "duration_ms": 149693,
+    "genre": [
+      "classic rock"
+    ]
+  },
+  {
+    "song": "Severanka",
+    "artist": "Team",
+    "start_time": "2025-10-31T12:46:22",
+    "recorded_at": "31.10.2025 12:46:28",
+    "raw_valid": true,
+    "song_session_id": "49914b88-a532-43d4-b802-905b3229a0dc",
+    "duration_ms": 305106,
+    "genre": []
+  },
+  {
+    "song": "Ghostbusters",
+    "artist": "Ray Parker Jr.",
+    "start_time": "2025-10-31T12:51:22",
+    "recorded_at": "31.10.2025 12:51:29",
+    "raw_valid": true,
+    "song_session_id": "32babbbc-27ab-4750-aa55-8fdc931c9fc0",
+    "duration_ms": 245248,
+    "genre": []
+  }
+]
