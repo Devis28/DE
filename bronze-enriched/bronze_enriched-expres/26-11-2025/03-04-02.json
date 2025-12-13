@@ -1,0 +1,525 @@
+[
+  {
+    "song": "Viac",
+    "artists": [
+      "Ivan Tasler",
+      "Imt Smile"
+    ],
+    "isrc": "SKA011200007",
+    "start_time": "2025-11-26 02:05:14",
+    "radio": "expres",
+    "recorded_at": "2025-11-26T02:05:25.156455+01:00",
+    "raw_valid": true,
+    "song_session_id": "329ab446-8fae-417f-a2aa-508f37279104",
+    "duration_ms": 307066,
+    "genre": []
+  },
+  {
+    "song": "The Sound Of Silence",
+    "artists": [
+      "Disturbed"
+    ],
+    "isrc": "USRE12400063",
+    "start_time": "2025-11-26 02:09:29",
+    "radio": "expres",
+    "recorded_at": "2025-11-26T02:09:49.130169+01:00",
+    "raw_valid": true,
+    "song_session_id": "e9a3fb75-19fe-415f-bcd3-13f72c8d7cbe",
+    "duration_ms": 185238,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Ziva Voda",
+    "artists": [
+      "Zuzana Smatanova"
+    ],
+    "isrc": "SKI942300706",
+    "start_time": "2025-11-26 02:12:28",
+    "radio": "expres",
+    "recorded_at": "2025-11-26T02:12:57.724271+01:00",
+    "raw_valid": true,
+    "song_session_id": "205dc191-79b0-43b5-b876-e47460086e1a",
+    "duration_ms": 223791,
+    "genre": []
+  },
+  {
+    "song": "Ma Cherie",
+    "artists": [
+      "Dj Antoine"
+    ],
+    "isrc": "CH4881000515",
+    "start_time": "2025-11-26 02:16:15",
+    "radio": "expres",
+    "recorded_at": "2025-11-26T02:16:45.325718+01:00",
+    "raw_valid": true,
+    "song_session_id": "09a7f4c1-3094-4cbf-b31e-4bb6a9766383",
+    "duration_ms": 191090,
+    "genre": [
+      "dance"
+    ]
+  },
+  {
+    "song": "Havran",
+    "artists": [
+      "Nocaden"
+    ],
+    "isrc": "CZA231500030",
+    "start_time": "2025-11-26 02:19:25",
+    "radio": "expres",
+    "recorded_at": "2025-11-26T02:19:38.203016+01:00",
+    "raw_valid": true,
+    "song_session_id": "adbd0507-2df7-4f14-a450-0cd1626fe865",
+    "duration_ms": 238320,
+    "genre": []
+  },
+  {
+    "song": "Eternity",
+    "artists": [
+      "Alex Warren"
+    ],
+    "isrc": "USAT22503779",
+    "start_time": "2025-11-26 02:22:25",
+    "radio": "expres",
+    "recorded_at": "2025-11-26T02:22:44.389890+01:00",
+    "raw_valid": true,
+    "song_session_id": "ad0c901c-4108-4994-b591-2c97d24706d6",
+    "duration_ms": 189553,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "365 Dni",
+    "artists": [
+      "Bacil",
+      "Rakby"
+    ],
+    "isrc": "SKC801203006",
+    "start_time": "2025-11-26 02:25:59",
+    "radio": "expres",
+    "recorded_at": "2025-11-26T02:26:23.360653+01:00",
+    "raw_valid": true,
+    "song_session_id": "e36d7248-58ad-4a9b-9b3e-957965cddd26",
+    "duration_ms": 188813,
+    "genre": []
+  },
+  {
+    "song": "Ray Of Light",
+    "artists": [
+      "Nico Santos"
+    ],
+    "isrc": "DECE72402394",
+    "start_time": "2025-11-26 02:29:15",
+    "radio": "expres",
+    "recorded_at": "2025-11-26T02:29:32.865650+01:00",
+    "raw_valid": true,
+    "song_session_id": "9de2b0a0-d764-460a-b5a8-d38a51c49441",
+    "duration_ms": 176500,
+    "genre": []
+  },
+  {
+    "song": "Wonderful Life 25",
+    "artists": [
+      "Hurts",
+      "Purple Disco Machine"
+    ],
+    "isrc": "DEE862500677",
+    "start_time": "2025-11-26 02:32:59",
+    "radio": "expres",
+    "recorded_at": "2025-11-26T02:33:11.387706+01:00",
+    "raw_valid": true,
+    "song_session_id": "1e6db7fa-e399-4af9-b13d-9f5f4b048df9",
+    "duration_ms": 178658,
+    "genre": []
+  },
+  {
+    "song": "Pustam Ta",
+    "artists": [
+      "Karmen Pal-Balaz"
+    ],
+    "isrc": "SKA011900082",
+    "start_time": "2025-11-26 02:35:54",
+    "radio": "expres",
+    "recorded_at": "2025-11-26T02:36:14.620860+01:00",
+    "raw_valid": true,
+    "song_session_id": "3c06af53-a7f1-445f-bdef-db747a2434f0",
+    "duration_ms": 226682,
+    "genre": []
+  },
+  {
+    "song": "(Everything I Do) I Do It For You",
+    "artists": [
+      "Bryan Adams"
+    ],
+    "isrc": "USAM19190012",
+    "start_time": "2025-11-26 02:39:38",
+    "radio": "expres",
+    "recorded_at": "2025-11-26T02:39:58.451479+01:00",
+    "raw_valid": true,
+    "song_session_id": "de338309-988b-447f-b27f-f1574d570151",
+    "duration_ms": 394733,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Milionkrat",
+    "artists": [
+      "Miro Zbirka"
+    ],
+    "isrc": "SKA010110112",
+    "start_time": "2025-11-26 02:43:58",
+    "radio": "expres",
+    "recorded_at": "2025-11-26T02:44:17.704809+01:00",
+    "raw_valid": true,
+    "song_session_id": "71c1b19b-7cc3-49e2-8a79-ad8d4e374f96",
+    "duration_ms": 287373,
+    "genre": []
+  },
+  {
+    "song": "Head Above Water",
+    "artists": [
+      "Twocolors",
+      "Safri Duo",
+      "Chris De Sarandy"
+    ],
+    "isrc": "DEUM72503698",
+    "start_time": "2025-11-26 02:48:10",
+    "radio": "expres",
+    "recorded_at": "2025-11-26T02:48:26.455272+01:00",
+    "raw_valid": true,
+    "song_session_id": "ea47ccbf-784b-41a3-9b29-fbac6611bebb",
+    "duration_ms": 174550,
+    "genre": []
+  },
+  {
+    "song": "Reklama Na Ticho",
+    "artists": [
+      "Team"
+    ],
+    "isrc": "SKA128804502",
+    "start_time": "2025-11-26 02:51:10",
+    "radio": "expres",
+    "recorded_at": "2025-11-26T02:51:28.838262+01:00",
+    "raw_valid": true,
+    "song_session_id": "5f13386c-6395-494e-8093-423d26abffec",
+    "duration_ms": 222426,
+    "genre": []
+  },
+  {
+    "song": "Italodisco",
+    "artists": [
+      "The Kolors"
+    ],
+    "isrc": "ITQ002300342",
+    "start_time": "2025-11-26 02:54:23",
+    "radio": "expres",
+    "recorded_at": "2025-11-26T02:54:47.044739+01:00",
+    "raw_valid": true,
+    "song_session_id": "a5124745-7654-4e21-9355-06dc7c006b1f",
+    "duration_ms": 199512,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Ze Mi Je Luto",
+    "artists": [
+      "Elan",
+      "Lojzo"
+    ],
+    "isrc": "SKA128665701",
+    "start_time": "2025-11-26 02:57:41",
+    "radio": "expres",
+    "recorded_at": "2025-11-26T02:57:50.265017+01:00",
+    "raw_valid": true,
+    "song_session_id": "5929e7f8-b37e-4024-a81a-7e3c572b8df4",
+    "duration_ms": 235173,
+    "genre": []
+  },
+  {
+    "song": "A Bar Song (Tipsy)",
+    "artists": [
+      "Shaboozey"
+    ],
+    "isrc": "USUYG1541249",
+    "start_time": "2025-11-26 03:00:06",
+    "radio": "expres",
+    "recorded_at": "2025-11-26T03:00:33.116666+01:00",
+    "raw_valid": true,
+    "song_session_id": "f905fe2d-ca42-442f-ab73-ecc6f8f7a73c",
+    "duration_ms": 171291,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Srdce",
+    "artists": [
+      "Hex"
+    ],
+    "isrc": "SKC751700107",
+    "start_time": "2025-11-26 03:02:57",
+    "radio": "expres",
+    "recorded_at": "2025-11-26T03:03:15.975275+01:00",
+    "raw_valid": true,
+    "song_session_id": "5f823e1f-f068-4cdc-8b95-e4dcf03c9208",
+    "duration_ms": 237266,
+    "genre": []
+  },
+  {
+    "song": "Pride",
+    "artists": [
+      "Felix Jaehn",
+      "Jhart"
+    ],
+    "isrc": "DEUM72503423",
+    "start_time": "2025-11-26 03:06:54",
+    "radio": "expres",
+    "recorded_at": "2025-11-26T03:07:34.295766+01:00",
+    "raw_valid": true,
+    "song_session_id": "b6ef3077-3289-4f98-a3b3-f357faff2523",
+    "duration_ms": 158150,
+    "genre": []
+  },
+  {
+    "song": "Taki Sme",
+    "artists": [
+      "Katarina Knechtova",
+      "Adam Durica"
+    ],
+    "isrc": "SKE432000137",
+    "start_time": "2025-11-26 03:09:32",
+    "radio": "expres",
+    "recorded_at": "2025-11-26T03:09:41.439263+01:00",
+    "raw_valid": true,
+    "song_session_id": "b1d8ba4e-3c33-4e8b-959c-cb32bb04b883",
+    "duration_ms": 177933,
+    "genre": []
+  },
+  {
+    "song": "The Show Must Go On",
+    "artists": [
+      "Queen"
+    ],
+    "isrc": "GBUM71106221",
+    "start_time": "2025-11-26 03:12:14",
+    "radio": "expres",
+    "recorded_at": "2025-11-26T03:12:24.324666+01:00",
+    "raw_valid": true,
+    "song_session_id": "fc5d2f81-71cc-4f4f-87ed-f1d8db09b395",
+    "duration_ms": 277826,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Umenie Zit",
+    "artists": [
+      "Vaso Patejdl"
+    ],
+    "isrc": "SKA128784002",
+    "start_time": "2025-11-26 03:16:22",
+    "radio": "expres",
+    "recorded_at": "2025-11-26T03:16:40.536798+01:00",
+    "raw_valid": true,
+    "song_session_id": "d73186ec-37f0-413b-97c3-82742acadf7a",
+    "duration_ms": 273933,
+    "genre": []
+  },
+  {
+    "song": "Golden",
+    "artists": [
+      "Kpop Demon Hunters"
+    ],
+    "isrc": "QZ8BZ2513510",
+    "start_time": "2025-11-26 03:20:36",
+    "radio": "expres",
+    "recorded_at": "2025-11-26T03:21:03.789554+01:00",
+    "raw_valid": true,
+    "song_session_id": "77aebcc1-3497-4de3-ab71-8d5ff5904dd6",
+    "duration_ms": 194607,
+    "genre": [
+      "korean"
+    ]
+  },
+  {
+    "song": "Vyznanie",
+    "artists": [
+      "Marika Gombitova",
+      "Modus"
+    ],
+    "isrc": "SKA127985812",
+    "start_time": "2025-11-26 03:23:24",
+    "radio": "expres",
+    "recorded_at": "2025-11-26T03:23:40.771891+01:00",
+    "raw_valid": true,
+    "song_session_id": "c7d6f7b8-eba4-4219-af70-f773d4186bdd",
+    "duration_ms": 285906,
+    "genre": []
+  },
+  {
+    "song": "Alibi",
+    "artists": [
+      "Sevdaliza",
+      "Pabllo Vittar",
+      "Yseult"
+    ],
+    "isrc": "NL47E2400004",
+    "start_time": "2025-11-26 03:28:13",
+    "radio": "expres",
+    "recorded_at": "2025-11-26T03:28:25.060430+01:00",
+    "raw_valid": true,
+    "song_session_id": "c43ffe43-6d77-4917-99d2-e713d70ca3f7",
+    "duration_ms": 161655,
+    "genre": []
+  },
+  {
+    "song": "The Fate Of Ophelia",
+    "artists": [
+      "Taylor Swift"
+    ],
+    "isrc": "USUG12506436",
+    "start_time": "2025-11-26 03:31:10",
+    "radio": "expres",
+    "recorded_at": "2025-11-26T03:31:33.444070+01:00",
+    "raw_valid": true,
+    "song_session_id": "38775e4b-a50c-463b-880b-f9382023d4ea",
+    "duration_ms": 226073,
+    "genre": [
+      "electronic"
+    ]
+  },
+  {
+    "song": "Stonka",
+    "artists": [
+      "Kristina"
+    ],
+    "isrc": "SKA011000105",
+    "start_time": "2025-11-26 03:34:58",
+    "radio": "expres",
+    "recorded_at": "2025-11-26T03:35:12.083717+01:00",
+    "raw_valid": true,
+    "song_session_id": "cbf8fd16-8625-4e71-9a74-032625b24d3b",
+    "duration_ms": 227266,
+    "genre": []
+  },
+  {
+    "song": "Right Here Waiting",
+    "artists": [
+      "Richard Marx"
+    ],
+    "isrc": "USEM38900208",
+    "start_time": "2025-11-26 03:38:23",
+    "radio": "expres",
+    "recorded_at": "2025-11-26T03:38:35.224396+01:00",
+    "raw_valid": true,
+    "song_session_id": "84b586d6-572d-4813-8cdd-cd5d30ff5b7f",
+    "duration_ms": 263893,
+    "genre": []
+  },
+  {
+    "song": "Gravitacia",
+    "artists": [
+      "Zuzana Smatanova"
+    ],
+    "isrc": "SKI942300703",
+    "start_time": "2025-11-26 03:42:35",
+    "radio": "expres",
+    "recorded_at": "2025-11-26T03:43:10.083219+01:00",
+    "raw_valid": true,
+    "song_session_id": "d49c511d-8cc1-4a72-8327-f929d233fc52",
+    "duration_ms": 195101,
+    "genre": []
+  },
+  {
+    "song": "Man I Need",
+    "artists": [
+      "Olivia Dean"
+    ],
+    "isrc": "GBUM72503089",
+    "start_time": "2025-11-26 03:45:41",
+    "radio": "expres",
+    "recorded_at": "2025-11-26T03:46:02.859420+01:00",
+    "raw_valid": true,
+    "song_session_id": "572a4491-17d7-42a2-94f1-ce9832ca76f4",
+    "duration_ms": 184000,
+    "genre": [
+      "offizielle charts"
+    ]
+  },
+  {
+    "song": "Laska Je Tu S Nami",
+    "artists": [
+      "Peter Nagy"
+    ],
+    "isrc": "QT6EZ2507353",
+    "start_time": "2025-11-26 03:49:02",
+    "radio": "expres",
+    "recorded_at": "2025-11-26T03:49:43.477575+01:00",
+    "raw_valid": true,
+    "song_session_id": "0f8bc02c-28d0-4492-a031-f3290bdb1e28",
+    "duration_ms": 181727,
+    "genre": []
+  },
+  {
+    "song": "Say It Right",
+    "artists": [
+      "Nelly Furtado"
+    ],
+    "isrc": "USUM70603368",
+    "start_time": "2025-11-26 03:53:09",
+    "radio": "expres",
+    "recorded_at": "2025-11-26T03:53:31.987078+01:00",
+    "raw_valid": true,
+    "song_session_id": "52706d78-3e60-4454-8f07-c999e0a22625",
+    "duration_ms": 223080,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Perly",
+    "artists": [
+      "Peter Bic Project"
+    ],
+    "isrc": "SKCM72410201",
+    "start_time": "2025-11-26 03:56:16",
+    "radio": "expres",
+    "recorded_at": "2025-11-26T03:56:35.036791+01:00",
+    "raw_valid": true,
+    "song_session_id": "8e66f77d-e244-4793-99c9-5de0bc9fb174",
+    "duration_ms": 273191,
+    "genre": []
+  },
+  {
+    "song": "Be Mine",
+    "artists": [
+      "Kamrad"
+    ],
+    "isrc": "DE1NJ2500035",
+    "start_time": "2025-11-26 04:00:47",
+    "radio": "expres",
+    "recorded_at": "2025-11-26T04:01:03.519951+01:00",
+    "raw_valid": true,
+    "song_session_id": "1ce60317-383c-4f1b-a254-1795846489f2",
+    "duration_ms": 156463,
+    "genre": []
+  },
+  {
+    "song": "Bonboniera",
+    "artists": [
+      "Gladiator"
+    ],
+    "isrc": "CZA210600038",
+    "start_time": "2025-11-26 04:03:38",
+    "radio": "expres",
+    "recorded_at": "2025-11-26T04:04:01.412253+01:00",
+    "raw_valid": true,
+    "song_session_id": "a3bf1a04-d053-442a-a2a1-0b29c9697a0f",
+    "duration_ms": 199000,
+    "genre": []
+  }
+]

@@ -1,0 +1,498 @@
+[
+  {
+    "song": "Happy Xmas (War Is Over)",
+    "artists": [
+      "John Lennon"
+    ],
+    "isrc": "GBAYE1000862",
+    "start_time": "2025-12-11 20:56:44",
+    "radio": "expres",
+    "recorded_at": "2025-12-11T20:57:12.047268+01:00",
+    "raw_valid": true,
+    "song_session_id": "7a2b884b-e6ff-4a37-97d2-6c561a9186b5",
+    "duration_ms": 212680,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Walk With Me",
+    "artists": [
+      "Felix Jaehn",
+      "Shouse"
+    ],
+    "isrc": "DEUM72411810",
+    "start_time": "2025-12-11 21:04:51",
+    "radio": "expres",
+    "recorded_at": "2025-12-11T21:05:18.191641+01:00",
+    "raw_valid": true,
+    "song_session_id": "dd5c3355-5947-4a19-8289-7ffa32f73fc9",
+    "duration_ms": 152535,
+    "genre": []
+  },
+  {
+    "song": "Beds Are Burning",
+    "artists": [
+      "Midnight Oil"
+    ],
+    "isrc": "AUBM00700707",
+    "start_time": "2025-12-11 21:07:31",
+    "radio": "expres",
+    "recorded_at": "2025-12-11T21:07:55.293235+01:00",
+    "raw_valid": true,
+    "song_session_id": "6f059601-f9bf-4f22-91b8-ae26b3d79810",
+    "duration_ms": 255173,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Blink Twice",
+    "artists": [
+      "Shaboozey",
+      "Myles Smith"
+    ],
+    "isrc": "USUYG1717098",
+    "start_time": "2025-12-11 21:11:48",
+    "radio": "expres",
+    "recorded_at": "2025-12-11T21:12:19.132950+01:00",
+    "raw_valid": true,
+    "song_session_id": "82810787-a630-476b-83b6-94112baafb4f",
+    "duration_ms": 156721,
+    "genre": []
+  },
+  {
+    "song": "Hey Now",
+    "artists": [
+      "Peter Bic Project"
+    ],
+    "isrc": "SKA011200019",
+    "start_time": "2025-12-11 21:14:25",
+    "radio": "expres",
+    "recorded_at": "2025-12-11T21:15:01.367361+01:00",
+    "raw_valid": true,
+    "song_session_id": "f2e4919a-83e1-4792-ae96-01db9221330a",
+    "duration_ms": 242053,
+    "genre": []
+  },
+  {
+    "song": "Opalite",
+    "artists": [
+      "Taylor Swift"
+    ],
+    "isrc": "USUG12506438",
+    "start_time": "2025-12-11 21:17:42",
+    "radio": "expres",
+    "recorded_at": "2025-12-11T21:18:03.920345+01:00",
+    "raw_valid": true,
+    "song_session_id": "66ae2a41-ee8c-4f9e-866d-e2fc1f4aa326",
+    "duration_ms": 235356,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Freed From Desire",
+    "artists": [
+      "Gala"
+    ],
+    "isrc": "ITA179700143",
+    "start_time": "2025-12-11 21:21:54",
+    "radio": "expres",
+    "recorded_at": "2025-12-11T21:22:22.549916+01:00",
+    "raw_valid": true,
+    "song_session_id": "179a2cd4-3504-412a-a095-8cd931ee2def",
+    "duration_ms": 213394,
+    "genre": [
+      "electronic"
+    ]
+  },
+  {
+    "song": "Rock N Roll",
+    "artists": [
+      "Leony",
+      "G-Eazy"
+    ],
+    "isrc": "DEN062400703",
+    "start_time": "2025-12-11 21:25:22",
+    "radio": "expres",
+    "recorded_at": "2025-12-11T21:25:45.306083+01:00",
+    "raw_valid": true,
+    "song_session_id": "1aada53d-4815-4d3e-9040-061ce40f9236",
+    "duration_ms": 158374,
+    "genre": [
+      "offizielle charts"
+    ]
+  },
+  {
+    "song": "Kazdy Den Budu Vraj Vianoce",
+    "artists": [
+      "Lojzo",
+      "Miro Zbirka"
+    ],
+    "isrc": "SKA129075601",
+    "start_time": "2025-12-11 21:28:08",
+    "radio": "expres",
+    "recorded_at": "2025-12-11T21:28:27.550248+01:00",
+    "raw_valid": true,
+    "song_session_id": "0ddb4151-e7fe-4004-bfc8-20397cf158e2",
+    "duration_ms": 266893,
+    "genre": []
+  },
+  {
+    "song": "Love Me Not",
+    "artists": [
+      "Ravyn Lenae"
+    ],
+    "isrc": "USAT22401137",
+    "start_time": "2025-12-11 21:33:24",
+    "radio": "expres",
+    "recorded_at": "2025-12-11T21:33:46.754609+01:00",
+    "raw_valid": true,
+    "song_session_id": "77a188aa-35da-4c94-a48d-331eca284d2a",
+    "duration_ms": 213466,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Len Tebe",
+    "artists": [
+      "Ivan Tasler"
+    ],
+    "isrc": "SKA010202105",
+    "start_time": "2025-12-11 21:36:48",
+    "radio": "expres",
+    "recorded_at": "2025-12-11T21:37:09.484618+01:00",
+    "raw_valid": true,
+    "song_session_id": "a225ac87-09ab-49de-b8a9-f71117f68ecd",
+    "duration_ms": 299000,
+    "genre": []
+  },
+  {
+    "song": "Never Be The Same Again",
+    "artists": [
+      "Melanie C"
+    ],
+    "isrc": "GBAAA9900729",
+    "start_time": "2025-12-11 21:40:39",
+    "radio": "expres",
+    "recorded_at": "2025-12-11T21:41:12.775786+01:00",
+    "raw_valid": true,
+    "song_session_id": "5c600042-1e96-4244-81cc-b433ba7b5683",
+    "duration_ms": 294200,
+    "genre": [
+      "electronic"
+    ]
+  },
+  {
+    "song": "Sapphire",
+    "artists": [
+      "Ed Sheeran"
+    ],
+    "isrc": "GBAHS2500262",
+    "start_time": "2025-12-11 21:45:41",
+    "radio": "expres",
+    "recorded_at": "2025-12-11T21:46:17.033204+01:00",
+    "raw_valid": true,
+    "song_session_id": "87e4a8b5-1354-4a0a-b7c7-5d08d1650c4e",
+    "duration_ms": 179082,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Ma Cherie",
+    "artists": [
+      "Dj Antoine"
+    ],
+    "isrc": "CH4881000515",
+    "start_time": "2025-12-11 21:48:35",
+    "radio": "expres",
+    "recorded_at": "2025-12-11T21:48:59.210369+01:00",
+    "raw_valid": true,
+    "song_session_id": "acf87618-89bc-4b1c-91b0-a67898e6efb0",
+    "duration_ms": 191090,
+    "genre": [
+      "dance"
+    ]
+  },
+  {
+    "song": "Let Me Die",
+    "artists": [
+      "Mark Dann",
+      "Giovanni Ricci"
+    ],
+    "isrc": "US38Y2520370",
+    "start_time": "2025-12-11 21:51:52",
+    "radio": "expres",
+    "recorded_at": "2025-12-11T21:52:16.823784+01:00",
+    "raw_valid": true,
+    "song_session_id": "fd81055b-7d38-4667-bc76-cc5ed10ef20b",
+    "duration_ms": 147010,
+    "genre": []
+  },
+  {
+    "song": "Zoo",
+    "artists": [
+      "Shakira"
+    ],
+    "isrc": "USWD12538420",
+    "start_time": "2025-12-11 21:54:11",
+    "radio": "expres",
+    "recorded_at": "2025-12-11T21:54:38.877240+01:00",
+    "raw_valid": true,
+    "song_session_id": "13236892-03c2-49b9-abd5-694c51513c46",
+    "duration_ms": 190822,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Do They Know Its Christmas?",
+    "artists": [
+      "Band Aid"
+    ],
+    "isrc": "GBF088400001",
+    "start_time": "2025-12-11 21:57:39",
+    "radio": "expres",
+    "recorded_at": "2025-12-11T21:58:01.620910+01:00",
+    "raw_valid": true,
+    "song_session_id": "7d80cc57-f2ae-4fb6-9205-bf8963dd1a71",
+    "duration_ms": 222533,
+    "genre": []
+  },
+  {
+    "song": "Be Mine",
+    "artists": [
+      "Kamrad"
+    ],
+    "isrc": "DE1NJ2500035",
+    "start_time": "2025-12-11 22:04:49",
+    "radio": "expres",
+    "recorded_at": "2025-12-11T22:05:27.512620+01:00",
+    "raw_valid": true,
+    "song_session_id": "c210996f-96dd-48e3-9c47-98624b1e54e7",
+    "duration_ms": 156463,
+    "genre": []
+  },
+  {
+    "song": "Daylight In Your Eyes",
+    "artists": [
+      "No Angels"
+    ],
+    "isrc": "DEN120003772",
+    "start_time": "2025-12-11 22:07:33",
+    "radio": "expres",
+    "recorded_at": "2025-12-11T22:08:04.744125+01:00",
+    "raw_valid": true,
+    "song_session_id": "ff38e0c1-884a-4d78-b9b7-88a2e4146b37",
+    "duration_ms": 211600,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Te Imaginaba",
+    "artists": [
+      "Alvaro Soler"
+    ],
+    "isrc": "DEE862401045",
+    "start_time": "2025-12-11 22:11:06",
+    "radio": "expres",
+    "recorded_at": "2025-12-11T22:11:28.004048+01:00",
+    "raw_valid": true,
+    "song_session_id": "2a8de7e0-2f8b-48ca-b0b2-125072a50ef3",
+    "duration_ms": 158817,
+    "genre": []
+  },
+  {
+    "song": "Apologize",
+    "artists": [
+      "Timbaland",
+      "Onerepublic"
+    ],
+    "isrc": "USUM70722793",
+    "start_time": "2025-12-11 22:13:43",
+    "radio": "expres",
+    "recorded_at": "2025-12-11T22:14:10.205051+01:00",
+    "raw_valid": true,
+    "song_session_id": "fa6e1b8f-bc46-4c24-8e42-c89ebcb04b7e",
+    "duration_ms": 184666,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Where Is My Husband",
+    "artists": [
+      "Raye"
+    ],
+    "isrc": "QMFME2535037",
+    "start_time": "2025-12-11 22:16:43",
+    "radio": "expres",
+    "recorded_at": "2025-12-11T22:17:12.651190+01:00",
+    "raw_valid": true,
+    "song_session_id": "08d409f9-3c6c-4b46-824e-4b9f73fe5896",
+    "duration_ms": 196795,
+    "genre": [
+      "offizielle charts"
+    ]
+  },
+  {
+    "song": "Everlasting Love",
+    "artists": [
+      "Sandra"
+    ],
+    "isrc": "DEG128700602",
+    "start_time": "2025-12-11 22:20:18",
+    "radio": "expres",
+    "recorded_at": "2025-12-11T22:21:00.541975+01:00",
+    "raw_valid": true,
+    "song_session_id": "fd200600-e28b-4123-8e8a-5cf7cf366268",
+    "duration_ms": 227160,
+    "genre": [
+      "electronic"
+    ]
+  },
+  {
+    "song": "Bad Dreams",
+    "artists": [
+      "Teddy Swims"
+    ],
+    "isrc": "USWB12403749",
+    "start_time": "2025-12-11 22:23:38",
+    "radio": "expres",
+    "recorded_at": "2025-12-11T22:24:13.292192+01:00",
+    "raw_valid": true,
+    "song_session_id": "50b7b26f-0fb5-4d48-af20-9264ab18e3fc",
+    "duration_ms": 184577,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Srdce Nehasnou",
+    "artists": [
+      "Karel Gott",
+      "Charlotte Ella Gottova"
+    ],
+    "isrc": "CZA161900335",
+    "start_time": "2025-12-11 22:26:42",
+    "radio": "expres",
+    "recorded_at": "2025-12-11T22:27:15.731676+01:00",
+    "raw_valid": true,
+    "song_session_id": "724fb044-619f-4c20-9711-8430eca2bbd4",
+    "duration_ms": 228667,
+    "genre": []
+  },
+  {
+    "song": "Undressed",
+    "artists": [
+      "Sombr"
+    ],
+    "isrc": "USWB12500737",
+    "start_time": "2025-12-11 22:32:14",
+    "radio": "expres",
+    "recorded_at": "2025-12-11T22:32:40.064389+01:00",
+    "raw_valid": true,
+    "song_session_id": "4af19c0c-571e-4fcc-8b86-e5eae11a2598",
+    "duration_ms": 182088,
+    "genre": [
+      "indie pop"
+    ]
+  },
+  {
+    "song": "Its My Life",
+    "artists": [
+      "Bon Jovi"
+    ],
+    "isrc": "USIR20000145",
+    "start_time": "2025-12-11 22:35:19",
+    "radio": "expres",
+    "recorded_at": "2025-12-11T22:35:43.375762+01:00",
+    "raw_valid": true,
+    "song_session_id": "c17f0847-15f0-43e8-b848-bbbf4ae64476",
+    "duration_ms": 224600,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Family Portrait",
+    "artists": [
+      "Pink"
+    ],
+    "isrc": "USAR10100720",
+    "start_time": "2025-12-11 22:39:05",
+    "radio": "expres",
+    "recorded_at": "2025-12-11T22:39:26.338129+01:00",
+    "raw_valid": true,
+    "song_session_id": "c31c623a-8f8c-423d-aeda-49650ed5be4b",
+    "duration_ms": 296426,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Save My Love",
+    "artists": [
+      "Marshmello",
+      "Ellie Goulding",
+      "Avaion"
+    ],
+    "isrc": "USUG12504310",
+    "start_time": "2025-12-11 22:43:58",
+    "radio": "expres",
+    "recorded_at": "2025-12-11T22:44:30.414704+01:00",
+    "raw_valid": true,
+    "song_session_id": "e45d07cf-c2a6-40c3-8ddf-de784a2657a5",
+    "duration_ms": 215555,
+    "genre": []
+  },
+  {
+    "song": "V Tichu",
+    "artists": [
+      "Katarina Knechtova"
+    ],
+    "isrc": "CZUM70800919",
+    "start_time": "2025-12-11 22:47:36",
+    "radio": "expres",
+    "recorded_at": "2025-12-11T22:48:08.377407+01:00",
+    "raw_valid": true,
+    "song_session_id": "3c85b551-686d-4a12-94ba-2dd27cda264d",
+    "duration_ms": 212306,
+    "genre": []
+  },
+  {
+    "song": "Alibi",
+    "artists": [
+      "Sevdaliza",
+      "Pabllo Vittar",
+      "Yseult"
+    ],
+    "isrc": "NL47E2400004",
+    "start_time": "2025-12-11 22:51:07",
+    "radio": "expres",
+    "recorded_at": "2025-12-11T22:51:31.041227+01:00",
+    "raw_valid": true,
+    "song_session_id": "9918c4b5-96c0-4e01-891e-a7706d1e1727",
+    "duration_ms": 161655,
+    "genre": []
+  },
+  {
+    "song": "Make It Right",
+    "artists": [
+      "Tom Gregory",
+      "Vize"
+    ],
+    "isrc": "DEE862501109",
+    "start_time": "2025-12-11 22:53:46",
+    "radio": "expres",
+    "recorded_at": "2025-12-11T22:54:13.283360+01:00",
+    "raw_valid": true,
+    "song_session_id": "bf66cf50-4cf1-4302-bd58-2072d28b77ba",
+    "duration_ms": 141051,
+    "genre": []
+  }
+]

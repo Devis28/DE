@@ -1,0 +1,391 @@
+[
+  {
+    "song": "Ordinary World",
+    "artists": [
+      "Duran Duran"
+    ],
+    "isrc": "GBAYE9200048",
+    "start_time": "2025-11-22 16:06:28",
+    "radio": "expres",
+    "recorded_at": "2025-11-22T16:06:48.751693+01:00",
+    "raw_valid": true,
+    "song_session_id": "ee89b1d6-b3f3-4190-9471-429f756aa6cf",
+    "duration_ms": 277760,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "9Pm (Till I Come)",
+    "artists": [
+      "Atb"
+    ],
+    "isrc": "DEN060301020",
+    "start_time": "2025-11-22 16:11:09",
+    "radio": "expres",
+    "recorded_at": "2025-11-22T16:11:28.801259+01:00",
+    "raw_valid": true,
+    "song_session_id": "af404bbb-88b1-4dac-add6-947a759a3e89",
+    "duration_ms": 193880,
+    "genre": [
+      "trance"
+    ]
+  },
+  {
+    "song": "I Love Rock N Roll",
+    "artists": [
+      "Joan Jett"
+    ],
+    "isrc": "USBH18100118",
+    "start_time": "2025-11-22 16:13:55",
+    "radio": "expres",
+    "recorded_at": "2025-11-22T16:14:11.741698+01:00",
+    "raw_valid": true,
+    "song_session_id": "dcc826fa-2d20-49ce-85e5-de473cc95bca",
+    "duration_ms": 175493,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Burka",
+    "artists": [
+      "Maria Cirova"
+    ],
+    "isrc": "SKB000807104",
+    "start_time": "2025-11-22 16:17:50",
+    "radio": "expres",
+    "recorded_at": "2025-11-22T16:18:10.309582+01:00",
+    "raw_valid": true,
+    "song_session_id": "b386c803-fabe-4cce-8858-351d753c5cd9",
+    "duration_ms": 245680,
+    "genre": []
+  },
+  {
+    "song": "Youre My Heart Youre My Soul",
+    "artists": [
+      "Modern Talking"
+    ],
+    "isrc": "DEC738500015",
+    "start_time": "2025-11-22 16:21:54",
+    "radio": "expres",
+    "recorded_at": "2025-11-22T16:22:23.432019+01:00",
+    "raw_valid": true,
+    "song_session_id": "a4a75fb2-f783-45ae-a70e-83d31015f887",
+    "duration_ms": 330293,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "A Thousand Miles",
+    "artists": [
+      "Vanessa Carlton"
+    ],
+    "isrc": "USIR10210955",
+    "start_time": "2025-11-22 16:25:11",
+    "radio": "expres",
+    "recorded_at": "2025-11-22T16:25:36.892706+01:00",
+    "raw_valid": true,
+    "song_session_id": "e1fb4961-9c36-483c-9659-cd005eebc4e8",
+    "duration_ms": 237413,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Reklama Na Ticho",
+    "artists": [
+      "Team"
+    ],
+    "isrc": "SKA128804502",
+    "start_time": "2025-11-22 16:33:52",
+    "radio": "expres",
+    "recorded_at": "2025-11-22T16:34:34.153441+01:00",
+    "raw_valid": true,
+    "song_session_id": "4bf37833-d699-4037-b603-e69c212faa45",
+    "duration_ms": 222426,
+    "genre": []
+  },
+  {
+    "song": "Dreamlover",
+    "artists": [
+      "Mariah Carey"
+    ],
+    "isrc": "USSM19303170",
+    "start_time": "2025-11-22 16:37:35",
+    "radio": "expres",
+    "recorded_at": "2025-11-22T16:38:05.594980+01:00",
+    "raw_valid": true,
+    "song_session_id": "c154204c-1063-47fd-ae34-d470850e8625",
+    "duration_ms": 233641,
+    "genre": [
+      "electronic"
+    ]
+  },
+  {
+    "song": "Wind Of Change",
+    "artists": [
+      "Scorpions"
+    ],
+    "isrc": "USPG19090037",
+    "start_time": "2025-11-22 16:41:35",
+    "radio": "expres",
+    "recorded_at": "2025-11-22T16:42:05.760402+01:00",
+    "raw_valid": true,
+    "song_session_id": "daa0fcd6-8085-42e7-b31e-5ed19f52a822",
+    "duration_ms": 311240,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Dolce Vita",
+    "artists": [
+      "Ryan Paris"
+    ],
+    "isrc": "DEA310904718",
+    "start_time": "2025-11-22 16:46:50",
+    "radio": "expres",
+    "recorded_at": "2025-11-22T16:47:09.805761+01:00",
+    "raw_valid": true,
+    "song_session_id": "fc49f758-65dd-490a-bd0d-c4e34e2e5dd4",
+    "duration_ms": 451426,
+    "genre": [
+      "electronic"
+    ]
+  },
+  {
+    "song": "Narcotic",
+    "artists": [
+      "Liquido"
+    ],
+    "isrc": "DEG129800581",
+    "start_time": "2025-11-22 16:51:11",
+    "radio": "expres",
+    "recorded_at": "2025-11-22T16:51:28.455978+01:00",
+    "raw_valid": true,
+    "song_session_id": "7c04afc3-9404-4179-b9ec-55ed42d7532e",
+    "duration_ms": 236150,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Sorry",
+    "artists": [
+      "Madonna"
+    ],
+    "isrc": "USWB10504974",
+    "start_time": "2025-11-22 16:54:56",
+    "radio": "expres",
+    "recorded_at": "2025-11-22T16:55:22.766344+01:00",
+    "raw_valid": true,
+    "song_session_id": "7b585f6f-9038-4a5e-9853-60fde31b821d",
+    "duration_ms": 281880,
+    "genre": [
+      "electronic"
+    ]
+  },
+  {
+    "song": "Need You Tonight",
+    "artists": [
+      "Inxs"
+    ],
+    "isrc": "GBAMX8700008",
+    "start_time": "2025-11-22 17:05:51",
+    "radio": "expres",
+    "recorded_at": "2025-11-22T17:06:15.991574+01:00",
+    "raw_valid": true,
+    "song_session_id": "f4a7dea7-7f7f-4f42-b97b-e8ca31ebb151",
+    "duration_ms": 181240,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "All About The Money",
+    "artists": [
+      "Meja"
+    ],
+    "isrc": "SEBGE1900004",
+    "start_time": "2025-11-22 17:08:57",
+    "radio": "expres",
+    "recorded_at": "2025-11-22T17:09:05.327901+01:00",
+    "raw_valid": true,
+    "song_session_id": "4589e673-373f-439d-8d4d-eee521f1700e",
+    "duration_ms": 198000,
+    "genre": []
+  },
+  {
+    "song": "Neviem Byt Sam",
+    "artists": [
+      "Elan"
+    ],
+    "isrc": "SKA128561901",
+    "start_time": "2025-11-22 17:11:55",
+    "radio": "expres",
+    "recorded_at": "2025-11-22T17:12:08.429395+01:00",
+    "raw_valid": true,
+    "song_session_id": "06db6e05-9510-47dd-a93d-dd0e580744cd",
+    "duration_ms": 231066,
+    "genre": []
+  },
+  {
+    "song": "Lamour Toujours",
+    "artists": [
+      "Gigi D'agostino"
+    ],
+    "isrc": "NLS241000174",
+    "start_time": "2025-11-22 17:16:26",
+    "radio": "expres",
+    "recorded_at": "2025-11-22T17:16:48.306912+01:00",
+    "raw_valid": true,
+    "song_session_id": "a05f1688-2aed-4d32-a508-8aef1a3a92b6",
+    "duration_ms": 242053,
+    "genre": [
+      "trance"
+    ]
+  },
+  {
+    "song": "You Came",
+    "artists": [
+      "Kim Wilde"
+    ],
+    "isrc": "GBAAN0400022",
+    "start_time": "2025-11-22 17:20:27",
+    "radio": "expres",
+    "recorded_at": "2025-11-22T17:20:47.125432+01:00",
+    "raw_valid": true,
+    "song_session_id": "1b3ae1b9-0761-4174-a67d-ae74815dc05e",
+    "duration_ms": 273773,
+    "genre": []
+  },
+  {
+    "song": "Total Eclipse Of The Heart",
+    "artists": [
+      "Westlife"
+    ],
+    "isrc": "GBARL0601585",
+    "start_time": "2025-11-22 17:23:53",
+    "radio": "expres",
+    "recorded_at": "2025-11-22T17:24:10.343850+01:00",
+    "raw_valid": true,
+    "song_session_id": "0f027a9e-9e97-4ea3-9723-1c98e8fbd5b0",
+    "duration_ms": 279466,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Viva La Vida",
+    "artists": [
+      "Coldplay"
+    ],
+    "isrc": "GBAYE0800265",
+    "start_time": "2025-11-22 17:32:35",
+    "radio": "expres",
+    "recorded_at": "2025-11-22T17:32:52.741231+01:00",
+    "raw_valid": true,
+    "song_session_id": "c92aabb8-0e75-4aea-b53b-cd7cff6fa8cb",
+    "duration_ms": 242373,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Stop",
+    "artists": [
+      "Sam Brown"
+    ],
+    "isrc": "GBAAM8800004",
+    "start_time": "2025-11-22 17:36:31",
+    "radio": "expres",
+    "recorded_at": "2025-11-22T17:36:51.308647+01:00",
+    "raw_valid": true,
+    "song_session_id": "2560c88b-af5d-409b-9c38-c422b2dbdc59",
+    "duration_ms": 295000,
+    "genre": []
+  },
+  {
+    "song": "Lily Was Here",
+    "artists": [
+      "Dave Stewart",
+      "Candy Dulfer"
+    ],
+    "isrc": "GBARL8900064",
+    "start_time": "2025-11-22 17:40:28",
+    "radio": "expres",
+    "recorded_at": "2025-11-22T17:40:55.360856+01:00",
+    "raw_valid": true,
+    "song_session_id": "aedcc5b4-9271-410b-9d7b-df0c52c04c32",
+    "duration_ms": 260200,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Wake Me Up Before You Go Go",
+    "artists": [
+      "Wham"
+    ],
+    "isrc": "GBBBN0009712",
+    "start_time": "2025-11-22 17:44:39",
+    "radio": "expres",
+    "recorded_at": "2025-11-22T17:44:53.875641+01:00",
+    "raw_valid": true,
+    "song_session_id": "a1043a80-e5a3-4acb-8e1f-6d6051c9b595",
+    "duration_ms": 232542,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Bubbly",
+    "artists": [
+      "Colbie Caillat"
+    ],
+    "isrc": "USUM70736197",
+    "start_time": "2025-11-22 17:48:26",
+    "radio": "expres",
+    "recorded_at": "2025-11-22T17:48:37.520127+01:00",
+    "raw_valid": true,
+    "song_session_id": "63698d8d-172a-4970-8a8a-fc8223b6f035",
+    "duration_ms": 198360,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Freed From Desire",
+    "artists": [
+      "Gala"
+    ],
+    "isrc": "ITA179700143",
+    "start_time": "2025-11-22 17:54:05",
+    "radio": "expres",
+    "recorded_at": "2025-11-22T17:54:19.663969+01:00",
+    "raw_valid": true,
+    "song_session_id": "9878bc46-0da6-4df5-b96b-2d593615d85b",
+    "duration_ms": 213394,
+    "genre": [
+      "electronic"
+    ]
+  },
+  {
+    "song": "Two Hearts",
+    "artists": [
+      "Phil Collins"
+    ],
+    "isrc": "USWI19600240",
+    "start_time": "2025-11-22 17:57:42",
+    "radio": "expres",
+    "recorded_at": "2025-11-22T17:57:58.048239+01:00",
+    "raw_valid": true,
+    "song_session_id": "0da0d728-3742-40e8-8776-b4d6ba079bec",
+    "duration_ms": 204386,
+    "genre": [
+      "rock"
+    ]
+  }
+]

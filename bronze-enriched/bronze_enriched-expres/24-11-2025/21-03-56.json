@@ -1,0 +1,514 @@
+[
+  {
+    "song": "Len Sa Smej",
+    "artists": [
+      "Peter Bic Project"
+    ],
+    "isrc": "SKA012300333",
+    "start_time": "2025-11-24 20:05:15",
+    "radio": "expres",
+    "recorded_at": "2025-11-24T20:05:29.341192+01:00",
+    "raw_valid": true,
+    "song_session_id": "c270b631-66f6-4585-a6a9-225fbe0a52b1",
+    "duration_ms": 164741,
+    "genre": []
+  },
+  {
+    "song": "Bring Me To Life",
+    "artists": [
+      "Evanescence"
+    ],
+    "isrc": "USWU30200093",
+    "start_time": "2025-11-24 20:08:05",
+    "radio": "expres",
+    "recorded_at": "2025-11-24T20:08:32.501548+01:00",
+    "raw_valid": true,
+    "song_session_id": "d5685b95-ccf3-47f3-a8b1-2b8e9cb335c5",
+    "duration_ms": 235893,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Wonderful Life 25",
+    "artists": [
+      "Hurts",
+      "Purple Disco Machine"
+    ],
+    "isrc": "DEE862500677",
+    "start_time": "2025-11-24 20:11:51",
+    "radio": "expres",
+    "recorded_at": "2025-11-24T20:12:16.480827+01:00",
+    "raw_valid": true,
+    "song_session_id": "699b1b3d-06c1-4226-ab7d-3c8b02145767",
+    "duration_ms": 178658,
+    "genre": []
+  },
+  {
+    "song": "Hold Me While You Wait",
+    "artists": [
+      "Lewis Capaldi"
+    ],
+    "isrc": "DEUM71900680",
+    "start_time": "2025-11-24 20:14:54",
+    "radio": "expres",
+    "recorded_at": "2025-11-24T20:15:25.297690+01:00",
+    "raw_valid": true,
+    "song_session_id": "4b6f027c-d5f5-46e2-98f2-0c4cf01cb91a",
+    "duration_ms": 205720,
+    "genre": []
+  },
+  {
+    "song": "Make It Right",
+    "artists": [
+      "Tom Gregory",
+      "Vize"
+    ],
+    "isrc": "DEE862501109",
+    "start_time": "2025-11-24 20:18:15",
+    "radio": "expres",
+    "recorded_at": "2025-11-24T20:18:53.852937+01:00",
+    "raw_valid": true,
+    "song_session_id": "da6a4f43-2bd7-4105-a2a1-27e1d446961f",
+    "duration_ms": 141051,
+    "genre": []
+  },
+  {
+    "song": "Moonlight Shadow",
+    "artists": [
+      "Mike Oldfield",
+      "Maggie Reilly"
+    ],
+    "isrc": "GBAAA8300001",
+    "start_time": "2025-11-24 20:20:51",
+    "radio": "expres",
+    "recorded_at": "2025-11-24T20:21:11.231753+01:00",
+    "raw_valid": true,
+    "song_session_id": "537c1895-4688-47d6-ba4f-b1f8f64a339a",
+    "duration_ms": 218226,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "To Okolo Nas",
+    "artists": [
+      "Para"
+    ],
+    "isrc": "SKP662201002",
+    "start_time": "2025-11-24 20:24:05",
+    "radio": "expres",
+    "recorded_at": "2025-11-24T20:24:34.152675+01:00",
+    "raw_valid": true,
+    "song_session_id": "0758f695-3b19-4b6e-a3fb-fcfa5a2e355a",
+    "duration_ms": 257185,
+    "genre": []
+  },
+  {
+    "song": "Ghetto Gospel",
+    "artists": [
+      "2 Pac",
+      "Elton John"
+    ],
+    "isrc": "USIR10401032",
+    "start_time": "2025-11-24 20:27:57",
+    "radio": "expres",
+    "recorded_at": "2025-11-24T20:28:07.494286+01:00",
+    "raw_valid": true,
+    "song_session_id": "1744a961-432d-4d84-be28-f19c9662e84b",
+    "duration_ms": 238626,
+    "genre": [
+      "rap"
+    ]
+  },
+  {
+    "song": "Pride",
+    "artists": [
+      "Felix Jaehn",
+      "Jhart"
+    ],
+    "isrc": "DEUM72503423",
+    "start_time": "2025-11-24 20:32:33",
+    "radio": "expres",
+    "recorded_at": "2025-11-24T20:32:51.824103+01:00",
+    "raw_valid": true,
+    "song_session_id": "27834e2e-67cc-46f2-b091-5162728cd965",
+    "duration_ms": 158150,
+    "genre": []
+  },
+  {
+    "song": "Keby Si Bol Moj",
+    "artists": [
+      "Jana Kirschner"
+    ],
+    "isrc": "SKA011000039",
+    "start_time": "2025-11-24 20:35:12",
+    "radio": "expres",
+    "recorded_at": "2025-11-24T20:35:34.982487+01:00",
+    "raw_valid": true,
+    "song_session_id": "2ac025c4-c835-4d0d-b2bd-94fc2b396d7f",
+    "duration_ms": 370533,
+    "genre": []
+  },
+  {
+    "song": "Unwritten",
+    "artists": [
+      "Natasha Bedingfield"
+    ],
+    "isrc": "GBARL0400707",
+    "start_time": "2025-11-24 20:38:55",
+    "radio": "expres",
+    "recorded_at": "2025-11-24T20:39:19.272558+01:00",
+    "raw_valid": true,
+    "song_session_id": "39d253a4-d044-4b59-8e90-d2c5ff0af78c",
+    "duration_ms": 259920,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Golden",
+    "artists": [
+      "Kpop Demon Hunters"
+    ],
+    "isrc": "QZ8BZ2513510",
+    "start_time": "2025-11-24 20:43:03",
+    "radio": "expres",
+    "recorded_at": "2025-11-24T20:43:22.983051+01:00",
+    "raw_valid": true,
+    "song_session_id": "5610bbac-3a22-4cc1-98e3-0fc994435496",
+    "duration_ms": 194607,
+    "genre": [
+      "korean"
+    ]
+  },
+  {
+    "song": "Birds",
+    "artists": [
+      "Imagine Dragons",
+      "Elisa"
+    ],
+    "isrc": "USUM71911107",
+    "start_time": "2025-11-24 20:45:43",
+    "radio": "expres",
+    "recorded_at": "2025-11-24T20:46:06.282900+01:00",
+    "raw_valid": true,
+    "song_session_id": "4c948773-552e-410c-9153-9c88a2f9bc5b",
+    "duration_ms": 219434,
+    "genre": []
+  },
+  {
+    "song": "World Gone Wild",
+    "artists": [
+      "Robin Schulz",
+      "Cyril",
+      "Sam Martin"
+    ],
+    "isrc": "DEA622403329",
+    "start_time": "2025-11-24 20:49:36",
+    "radio": "expres",
+    "recorded_at": "2025-11-24T20:49:51.479202+01:00",
+    "raw_valid": true,
+    "song_session_id": "5286e07a-32fd-46df-ae94-9e67522d98f5",
+    "duration_ms": 146523,
+    "genre": []
+  },
+  {
+    "song": "Vsetko Bude Dobre",
+    "artists": [
+      "Gladiator"
+    ],
+    "isrc": "SKCM72560001",
+    "start_time": "2025-11-24 20:51:52",
+    "radio": "expres",
+    "recorded_at": "2025-11-24T20:52:10.076100+01:00",
+    "raw_valid": true,
+    "song_session_id": "ec8b10dd-6fb8-4dce-b3b8-a03ccebeda59",
+    "duration_ms": 166588,
+    "genre": []
+  },
+  {
+    "song": "Maniac",
+    "artists": [
+      "Michael Sembello"
+    ],
+    "isrc": "USPR38302462",
+    "start_time": "2025-11-24 20:54:56",
+    "radio": "expres",
+    "recorded_at": "2025-11-24T20:55:13.172207+01:00",
+    "raw_valid": true,
+    "song_session_id": "779610f8-a426-4cb1-b865-5120545832c0",
+    "duration_ms": 246000,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Nasa Laska Leti",
+    "artists": [
+      "Richard Muller"
+    ],
+    "isrc": "CZA110201001",
+    "start_time": "2025-11-24 20:58:40",
+    "radio": "expres",
+    "recorded_at": "2025-11-24T20:58:56.724102+01:00",
+    "raw_valid": true,
+    "song_session_id": "756f9bc0-41e9-4642-9d5e-f772dffa08cb",
+    "duration_ms": 159133,
+    "genre": []
+  },
+  {
+    "song": "The Fate Of Ophelia",
+    "artists": [
+      "Taylor Swift"
+    ],
+    "isrc": "USUG12506436",
+    "start_time": "2025-11-24 21:05:38",
+    "radio": "expres",
+    "recorded_at": "2025-11-24T21:06:02.655837+01:00",
+    "raw_valid": true,
+    "song_session_id": "8fa12d15-3e01-464f-ae8a-1d47980a1cfc",
+    "duration_ms": 226073,
+    "genre": [
+      "electronic"
+    ]
+  },
+  {
+    "song": "I Can See Clearly Now",
+    "artists": [
+      "Jimmy Cliff"
+    ],
+    "isrc": "USSM19303258",
+    "start_time": "2025-11-24 21:09:30",
+    "radio": "expres",
+    "recorded_at": "2025-11-24T21:09:51.864052+01:00",
+    "raw_valid": true,
+    "song_session_id": "04a93fd3-b84b-4116-b62c-37413b29a127",
+    "duration_ms": 195160,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Pohoda",
+    "artists": [
+      "Sam Sebou",
+      "Kali"
+    ],
+    "isrc": "SKE502400602",
+    "start_time": "2025-11-24 21:12:35",
+    "radio": "expres",
+    "recorded_at": "2025-11-24T21:12:50.140221+01:00",
+    "raw_valid": true,
+    "song_session_id": "89dcfbe5-f22d-474c-b464-0f8d77bb405f",
+    "duration_ms": 167000,
+    "genre": []
+  },
+  {
+    "song": "Skin",
+    "artists": [
+      "Rag N Bone Man"
+    ],
+    "isrc": "GBARL1601147",
+    "start_time": "2025-11-24 21:15:28",
+    "radio": "expres",
+    "recorded_at": "2025-11-24T21:15:53.250257+01:00",
+    "raw_valid": true,
+    "song_session_id": "fa9ce7f9-65ef-479c-bd0f-7ce491bc728f",
+    "duration_ms": 237653,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Gone Gone Gone",
+    "artists": [
+      "David Guetta",
+      "Teddy Swims",
+      "Tones And I"
+    ],
+    "isrc": "UKWLG2500132",
+    "start_time": "2025-11-24 21:18:20",
+    "radio": "expres",
+    "recorded_at": "2025-11-24T21:18:36.100705+01:00",
+    "raw_valid": true,
+    "song_session_id": "57e0b44c-e31e-467f-b827-5611156c210a",
+    "duration_ms": 198004,
+    "genre": [
+      "soul"
+    ]
+  },
+  {
+    "song": "Shes Like The Wind",
+    "artists": [
+      "Patrick Swayze"
+    ],
+    "isrc": "USBMG0100040",
+    "start_time": "2025-11-24 21:22:04",
+    "radio": "expres",
+    "recorded_at": "2025-11-24T21:22:19.708407+01:00",
+    "raw_valid": true,
+    "song_session_id": "0b685194-d209-4883-b611-e9085bd1c508",
+    "duration_ms": 232826,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "We Pray",
+    "artists": [
+      "Coldplay",
+      "Little Simz",
+      "Burna Boy",
+      "Elyanna",
+      "Tini"
+    ],
+    "isrc": "GBAYE2400890",
+    "start_time": "2025-11-24 21:25:38",
+    "radio": "expres",
+    "recorded_at": "2025-11-24T21:26:03.118597+01:00",
+    "raw_valid": true,
+    "song_session_id": "1cc4f434-04a1-4338-9a0c-078d9f63d2b7",
+    "duration_ms": 233406,
+    "genre": [
+      "pop rap"
+    ]
+  },
+  {
+    "song": "V Lete ...",
+    "artists": [
+      "Imt Smile"
+    ],
+    "isrc": "SKA012100245",
+    "start_time": "2025-11-24 21:28:59",
+    "radio": "expres",
+    "recorded_at": "2025-11-24T21:29:21.456366+01:00",
+    "raw_valid": true,
+    "song_session_id": "830f07a3-0d7e-4752-a23d-05f55a0498e0",
+    "duration_ms": 202000,
+    "genre": []
+  },
+  {
+    "song": "Be Mine",
+    "artists": [
+      "Kamrad"
+    ],
+    "isrc": "DE1NJ2500035",
+    "start_time": "2025-11-24 21:33:45",
+    "radio": "expres",
+    "recorded_at": "2025-11-24T21:34:10.693007+01:00",
+    "raw_valid": true,
+    "song_session_id": "42979541-73b5-4d82-8df2-c22919d46835",
+    "duration_ms": 156463,
+    "genre": []
+  },
+  {
+    "song": "Power Over Me",
+    "artists": [
+      "Dermot Kennedy"
+    ],
+    "isrc": "USUG11802208",
+    "start_time": "2025-11-24 21:36:37",
+    "radio": "expres",
+    "recorded_at": "2025-11-24T21:36:53.553081+01:00",
+    "raw_valid": true,
+    "song_session_id": "48129e65-2e54-41fa-9ee3-881eab33033b",
+    "duration_ms": 206960,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "A Thousand Miles",
+    "artists": [
+      "Vanessa Carlton"
+    ],
+    "isrc": "USIR10210955",
+    "start_time": "2025-11-24 21:39:52",
+    "radio": "expres",
+    "recorded_at": "2025-11-24T21:40:11.618039+01:00",
+    "raw_valid": true,
+    "song_session_id": "21ef54a4-146c-4026-aab4-dee3a7f2f8c3",
+    "duration_ms": 237413,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Save My Love",
+    "artists": [
+      "Marshmello",
+      "Ellie Goulding",
+      "Avaion"
+    ],
+    "isrc": "USUG12504310",
+    "start_time": "2025-11-24 21:43:59",
+    "radio": "expres",
+    "recorded_at": "2025-11-24T21:44:16.066607+01:00",
+    "raw_valid": true,
+    "song_session_id": "4b522aab-083b-468e-942c-05d3f1c078a7",
+    "duration_ms": 215555,
+    "genre": []
+  },
+  {
+    "song": "Vecnost",
+    "artists": [
+      "No Name"
+    ],
+    "isrc": "SKA010110203",
+    "start_time": "2025-11-24 21:47:38",
+    "radio": "expres",
+    "recorded_at": "2025-11-24T21:47:59.682392+01:00",
+    "raw_valid": true,
+    "song_session_id": "782566fb-3981-4450-a131-ec37fa5d97b1",
+    "duration_ms": 197706,
+    "genre": []
+  },
+  {
+    "song": "Beautiful Reason",
+    "artists": [
+      "Michael Schulte"
+    ],
+    "isrc": "DECE72400963",
+    "start_time": "2025-11-24 21:50:51",
+    "radio": "expres",
+    "recorded_at": "2025-11-24T21:51:04.086788+01:00",
+    "raw_valid": true,
+    "song_session_id": "d07fbe12-6e59-40d7-a502-e6605257f9a7",
+    "duration_ms": 183586,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Mad",
+    "artists": [
+      "Martin Garrix",
+      "Lauv"
+    ],
+    "isrc": "NLM5S2502535",
+    "start_time": "2025-11-24 21:53:53",
+    "radio": "expres",
+    "recorded_at": "2025-11-24T21:54:07.137721+01:00",
+    "raw_valid": true,
+    "song_session_id": "6e15cefc-1bc6-4064-b383-2c27703c5c2f",
+    "duration_ms": 199804,
+    "genre": []
+  },
+  {
+    "song": "Tubthumping",
+    "artists": [
+      "Chumbawamba"
+    ],
+    "isrc": "DEA349700542",
+    "start_time": "2025-11-24 21:57:38",
+    "radio": "expres",
+    "recorded_at": "2025-11-24T21:57:54.004034+01:00",
+    "raw_valid": true,
+    "song_session_id": "17960ec3-4e4f-444b-9717-f04342397824",
+    "duration_ms": 234133,
+    "genre": [
+      "pop"
+    ]
+  }
+]

@@ -1,0 +1,417 @@
+[
+  {
+    "song": "Be Mine",
+    "artists": [
+      "Kamrad"
+    ],
+    "isrc": "DE1NJ2500035",
+    "start_time": "2025-11-16 08:06:12",
+    "radio": "expres",
+    "recorded_at": "2025-11-16T08:06:33.523447+01:00",
+    "raw_valid": true,
+    "song_session_id": "1eb97067-27e4-4cd2-9e2a-b4e1ea22153d",
+    "duration_ms": 156463,
+    "genre": []
+  },
+  {
+    "song": "Two Princes",
+    "artists": [
+      "Spin Doctors"
+    ],
+    "isrc": "USSM19000350",
+    "start_time": "2025-11-16 08:08:54",
+    "radio": "expres",
+    "recorded_at": "2025-11-16T08:09:16.109064+01:00",
+    "raw_valid": true,
+    "song_session_id": "8c7af957-972a-410b-bb2e-3dc155259899",
+    "duration_ms": 256946,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Len Sa Smej",
+    "artists": [
+      "Peter Bic Project"
+    ],
+    "isrc": "SKA012300333",
+    "start_time": "2025-11-16 08:13:09",
+    "radio": "expres",
+    "recorded_at": "2025-11-16T08:13:35.825510+01:00",
+    "raw_valid": true,
+    "song_session_id": "3f040fc7-fa93-4364-9021-8a3193beb0bf",
+    "duration_ms": 164741,
+    "genre": []
+  },
+  {
+    "song": "Wrecked",
+    "artists": [
+      "Imagine Dragons"
+    ],
+    "isrc": "USUM72110166",
+    "start_time": "2025-11-16 08:15:52",
+    "radio": "expres",
+    "recorded_at": "2025-11-16T08:16:18.313394+01:00",
+    "raw_valid": true,
+    "song_session_id": "19ff3d45-f718-42ea-a8a1-400612aa6f45",
+    "duration_ms": 244004,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Save My Love",
+    "artists": [
+      "Marshmello",
+      "Ellie Goulding",
+      "Avaion"
+    ],
+    "isrc": "USUG12504310",
+    "start_time": "2025-11-16 08:19:53",
+    "radio": "expres",
+    "recorded_at": "2025-11-16T08:20:16.896481+01:00",
+    "raw_valid": true,
+    "song_session_id": "38ae02b0-f1ba-4bec-89ed-d15bd95ed712",
+    "duration_ms": 215555,
+    "genre": []
+  },
+  {
+    "song": "The Look",
+    "artists": [
+      "Roxette"
+    ],
+    "isrc": "SEAME8878010",
+    "start_time": "2025-11-16 08:23:38",
+    "radio": "expres",
+    "recorded_at": "2025-11-16T08:24:00.358640+01:00",
+    "raw_valid": true,
+    "song_session_id": "fa557e55-132e-40d9-b5a3-3dc85f201ae5",
+    "duration_ms": 237320,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Skin",
+    "artists": [
+      "Rag N Bone Man"
+    ],
+    "isrc": "GBARL1601147",
+    "start_time": "2025-11-16 08:30:24",
+    "radio": "expres",
+    "recorded_at": "2025-11-16T08:31:01.858315+01:00",
+    "raw_valid": true,
+    "song_session_id": "9c0e1a12-7d04-4aad-9cce-d628016a8310",
+    "duration_ms": 237653,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Forbidden Road",
+    "artists": [
+      "Robbie Williams"
+    ],
+    "isrc": "GBPS62400032",
+    "start_time": "2025-11-16 08:33:33",
+    "radio": "expres",
+    "recorded_at": "2025-11-16T08:34:04.628667+01:00",
+    "raw_valid": true,
+    "song_session_id": "6cd17781-7ef6-493a-836a-1d2c573d0403",
+    "duration_ms": 197419,
+    "genre": []
+  },
+  {
+    "song": "Runaway Train",
+    "artists": [
+      "Soul Asylum"
+    ],
+    "isrc": "USSM19200235",
+    "start_time": "2025-11-16 08:36:42",
+    "radio": "expres",
+    "recorded_at": "2025-11-16T08:37:02.495381+01:00",
+    "raw_valid": true,
+    "song_session_id": "62b4ad06-a73d-400d-b8a7-38f1fda19d35",
+    "duration_ms": 266573,
+    "genre": []
+  },
+  {
+    "song": "Broken Sunshine",
+    "artists": [
+      "Michael Schulte"
+    ],
+    "isrc": "DECE72402375",
+    "start_time": "2025-11-16 08:41:04",
+    "radio": "expres",
+    "recorded_at": "2025-11-16T08:41:26.246389+01:00",
+    "raw_valid": true,
+    "song_session_id": "4f39ca35-3a80-4e60-8ce5-d466ecac3533",
+    "duration_ms": 175866,
+    "genre": []
+  },
+  {
+    "song": "Love Me Not",
+    "artists": [
+      "Ravyn Lenae"
+    ],
+    "isrc": "USAT22401137",
+    "start_time": "2025-11-16 08:43:55",
+    "radio": "expres",
+    "recorded_at": "2025-11-16T08:44:24.282924+01:00",
+    "raw_valid": true,
+    "song_session_id": "21c107e4-898a-450b-a5b7-0c4c0095f64e",
+    "duration_ms": 213466,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Total Eclipse Of The Heart",
+    "artists": [
+      "Westlife"
+    ],
+    "isrc": "GBARL0601585",
+    "start_time": "2025-11-16 08:47:40",
+    "radio": "expres",
+    "recorded_at": "2025-11-16T08:48:07.608908+01:00",
+    "raw_valid": true,
+    "song_session_id": "dc883f95-50ea-48b8-b2b5-6ccf1a6d199d",
+    "duration_ms": 279466,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Cesty Ii. Triedy",
+    "artists": [
+      "Ivan Tasler",
+      "Imt Smile"
+    ],
+    "isrc": "SKA011400080",
+    "start_time": "2025-11-16 08:52:15",
+    "radio": "expres",
+    "recorded_at": "2025-11-16T08:52:47.000067+01:00",
+    "raw_valid": true,
+    "song_session_id": "c49082e8-a7ca-4f44-89d0-3e60556ec966",
+    "duration_ms": 234786,
+    "genre": []
+  },
+  {
+    "song": "A Bar Song (Tipsy)",
+    "artists": [
+      "Shaboozey"
+    ],
+    "isrc": "USUYG1541249",
+    "start_time": "2025-11-16 08:56:04",
+    "radio": "expres",
+    "recorded_at": "2025-11-16T08:56:30.576672+01:00",
+    "raw_valid": true,
+    "song_session_id": "76df2bef-735a-49f8-b9f6-5e806bcb194f",
+    "duration_ms": 171291,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "The Best",
+    "artists": [
+      "Tina Turner"
+    ],
+    "isrc": "USCA28900109",
+    "start_time": "2025-11-16 09:06:25",
+    "radio": "expres",
+    "recorded_at": "2025-11-16T09:06:53.816863+01:00",
+    "raw_valid": true,
+    "song_session_id": "14bcdeeb-69af-449d-a81d-4aa2f80c42f2",
+    "duration_ms": 333267,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Billionaire",
+    "artists": [
+      "Travie Mccoy",
+      "Bruno Mars"
+    ],
+    "isrc": "USAT21000257",
+    "start_time": "2025-11-16 09:10:36",
+    "radio": "expres",
+    "recorded_at": "2025-11-16T09:11:12.747372+01:00",
+    "raw_valid": true,
+    "song_session_id": "5d15323e-fea0-47b1-b73a-1cf78fad0e96",
+    "duration_ms": 211160,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "What Ive Done",
+    "artists": [
+      "Linkin Park"
+    ],
+    "isrc": "USWB10700721",
+    "start_time": "2025-11-16 09:14:10",
+    "radio": "expres",
+    "recorded_at": "2025-11-16T09:14:35.967018+01:00",
+    "raw_valid": true,
+    "song_session_id": "15ba672c-81fe-4e2e-8738-d2acfb95f134",
+    "duration_ms": 205613,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Golden",
+    "artists": [
+      "Kpop Demon Hunters"
+    ],
+    "isrc": "QZ8BZ2513510",
+    "start_time": "2025-11-16 09:17:34",
+    "radio": "expres",
+    "recorded_at": "2025-11-16T09:17:53.812017+01:00",
+    "raw_valid": true,
+    "song_session_id": "1e321b82-38b9-4f50-addb-3662888530fb",
+    "duration_ms": 194607,
+    "genre": [
+      "korean"
+    ]
+  },
+  {
+    "song": "Viva La Vida",
+    "artists": [
+      "Coldplay"
+    ],
+    "isrc": "GBAYE0800265",
+    "start_time": "2025-11-16 09:20:28",
+    "radio": "expres",
+    "recorded_at": "2025-11-16T09:20:56.777116+01:00",
+    "raw_valid": true,
+    "song_session_id": "ce9867af-0112-4bc0-8385-35f397da6d94",
+    "duration_ms": 242373,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Eyes Closed",
+    "artists": [
+      "Imagine Dragons"
+    ],
+    "isrc": "USUM72402448",
+    "start_time": "2025-11-16 09:24:12",
+    "radio": "expres",
+    "recorded_at": "2025-11-16T09:24:39.997186+01:00",
+    "raw_valid": true,
+    "song_session_id": "0fc332f6-1e0f-4ee0-a7e5-1539b23d75db",
+    "duration_ms": 200026,
+    "genre": []
+  },
+  {
+    "song": "The One",
+    "artists": [
+      "Michael Patrick Kelly"
+    ],
+    "isrc": "DEE862500476",
+    "start_time": "2025-11-16 09:32:13",
+    "radio": "expres",
+    "recorded_at": "2025-11-16T09:34:43.179752+01:00",
+    "raw_valid": true,
+    "song_session_id": "cfc43918-ca81-4b80-89b6-917268d444c2",
+    "duration_ms": 181194,
+    "genre": []
+  },
+  {
+    "song": "Not Afraid",
+    "artists": [
+      "Eminem"
+    ],
+    "isrc": "USUM71011769",
+    "start_time": "2025-11-16 09:35:16",
+    "radio": "expres",
+    "recorded_at": "2025-11-16T09:35:54.812083+01:00",
+    "raw_valid": true,
+    "song_session_id": "49d11649-467f-4353-914e-bdac4b80c4ff",
+    "duration_ms": 249266,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Please Forgive Me",
+    "artists": [
+      "Bryan Adams"
+    ],
+    "isrc": "US23A1544710",
+    "start_time": "2025-11-16 09:39:27",
+    "radio": "expres",
+    "recorded_at": "2025-11-16T09:40:05.286750+01:00",
+    "raw_valid": true,
+    "song_session_id": "dd6206f1-9a92-4c2e-ba1a-e3d595a552d8",
+    "duration_ms": 312983,
+    "genre": []
+  },
+  {
+    "song": "Otazka Za Milion",
+    "artists": [
+      "Ine Kafe"
+    ],
+    "isrc": "SKA722400001",
+    "start_time": "2025-11-16 09:45:15",
+    "radio": "expres",
+    "recorded_at": "2025-11-16T09:45:45.783569+01:00",
+    "raw_valid": true,
+    "song_session_id": "9cc7af12-c925-4433-b7ec-747e26bde247",
+    "duration_ms": 220400,
+    "genre": []
+  },
+  {
+    "song": "We Are The World",
+    "artists": [
+      "Usa For Africa",
+      "Michael Jackson"
+    ],
+    "isrc": "US25T8511672",
+    "start_time": "2025-11-16 09:48:51",
+    "radio": "expres",
+    "recorded_at": "2025-11-16T09:53:07.274014+01:00",
+    "raw_valid": true,
+    "song_session_id": "83122620-4290-4d76-83f8-c0c7b4c025f4",
+    "duration_ms": 427333,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Gone Gone Gone",
+    "artists": [
+      "David Guetta",
+      "Teddy Swims",
+      "Tones And I"
+    ],
+    "isrc": "UKWLG2500132",
+    "start_time": "2025-11-16 09:53:38",
+    "radio": "expres",
+    "recorded_at": "2025-11-16T09:54:18.488091+01:00",
+    "raw_valid": true,
+    "song_session_id": "1c809c1b-4609-4ef0-8472-dc25e0a7522d",
+    "duration_ms": 198004,
+    "genre": [
+      "soul"
+    ]
+  },
+  {
+    "song": "On My Head",
+    "artists": [
+      "Dan Barta"
+    ],
+    "isrc": "CZA140400345",
+    "start_time": "2025-11-16 09:57:17",
+    "radio": "expres",
+    "recorded_at": "2025-11-16T09:57:48.831575+01:00",
+    "raw_valid": true,
+    "song_session_id": "84938e5b-6f71-4dd4-ad8f-d9f8c0c70fe5",
+    "duration_ms": 163360,
+    "genre": []
+  }
+]

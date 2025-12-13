@@ -1,0 +1,529 @@
+[
+  {
+    "song": "The One",
+    "artists": [
+      "Michael Patrick Kelly"
+    ],
+    "isrc": "DEE862500476",
+    "start_time": "2025-11-07 02:02:20",
+    "radio": "expres",
+    "recorded_at": "2025-11-07T02:02:41.639103+01:00",
+    "raw_valid": true,
+    "song_session_id": "b1b2d8a0-41f3-4c42-8006-1a4b5c6a2b62",
+    "duration_ms": 181194,
+    "genre": []
+  },
+  {
+    "song": "Musim Uz Ist",
+    "artists": [
+      "Martin Kelecsenyi"
+    ],
+    "isrc": "GBLFP2320732",
+    "start_time": "2025-11-07 02:05:27",
+    "radio": "expres",
+    "recorded_at": "2025-11-07T02:05:47.836497+01:00",
+    "raw_valid": true,
+    "song_session_id": "afa1b2d5-3410-4844-b2d4-37a91b457b4b",
+    "duration_ms": 206040,
+    "genre": []
+  },
+  {
+    "song": "By Your Side (In My Mind)",
+    "artists": [
+      "Leony"
+    ],
+    "isrc": "DEN062400804",
+    "start_time": "2025-11-07 02:08:53",
+    "radio": "expres",
+    "recorded_at": "2025-11-07T02:09:11.205102+01:00",
+    "raw_valid": true,
+    "song_session_id": "58f060ca-2600-4476-bec1-12722b6a86dd",
+    "duration_ms": 177148,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Kamarati",
+    "artists": [
+      "Elan"
+    ],
+    "isrc": "SKA128229901",
+    "start_time": "2025-11-07 02:11:52",
+    "radio": "expres",
+    "recorded_at": "2025-11-07T02:12:15.573787+01:00",
+    "raw_valid": true,
+    "song_session_id": "ecac20fc-8384-4199-b212-d2af699c36b9",
+    "duration_ms": 165226,
+    "genre": []
+  },
+  {
+    "song": "Smooth Criminal",
+    "artists": [
+      "Michael Jackson"
+    ],
+    "isrc": "USSM11204989",
+    "start_time": "2025-11-07 02:14:37",
+    "radio": "expres",
+    "recorded_at": "2025-11-07T02:15:09.046861+01:00",
+    "raw_valid": true,
+    "song_session_id": "4e14c881-5f0d-4370-aefd-0547148995bc",
+    "duration_ms": 257766,
+    "genre": []
+  },
+  {
+    "song": "Vilma",
+    "artists": [
+      "Para"
+    ],
+    "isrc": "SKCF92401002",
+    "start_time": "2025-11-07 02:18:24",
+    "radio": "expres",
+    "recorded_at": "2025-11-07T02:18:42.343538+01:00",
+    "raw_valid": true,
+    "song_session_id": "b2e84261-7a43-4ad6-b4f3-ede2a9bf4406",
+    "duration_ms": 234044,
+    "genre": []
+  },
+  {
+    "song": "Love Me Not",
+    "artists": [
+      "Ravyn Lenae"
+    ],
+    "isrc": "USAT22401137",
+    "start_time": "2025-11-07 02:22:14",
+    "radio": "expres",
+    "recorded_at": "2025-11-07T02:22:25.905716+01:00",
+    "raw_valid": true,
+    "song_session_id": "bb0fc70f-84a7-4ee7-be81-a2883144a022",
+    "duration_ms": 213466,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Pomarance Z Kuby",
+    "artists": [
+      "Hex"
+    ],
+    "isrc": "SKCA92300105",
+    "start_time": "2025-11-07 02:25:49",
+    "radio": "expres",
+    "recorded_at": "2025-11-07T02:26:15.470173+01:00",
+    "raw_valid": true,
+    "song_session_id": "f0ed4bb4-07fe-475d-ab7e-7d7e89bb7b30",
+    "duration_ms": 260316,
+    "genre": []
+  },
+  {
+    "song": "Head & Heart",
+    "artists": [
+      "Joel Corry",
+      "Mnek"
+    ],
+    "isrc": "UK4ZF2000305",
+    "start_time": "2025-11-07 02:30:17",
+    "radio": "expres",
+    "recorded_at": "2025-11-07T02:30:34.533305+01:00",
+    "raw_valid": true,
+    "song_session_id": "50661d11-f8b4-43b7-ac3f-0d6e0ee173c9",
+    "duration_ms": 166028,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Glide",
+    "artists": [
+      "Neiked",
+      "Portugal The Man"
+    ],
+    "isrc": "DEE862500421",
+    "start_time": "2025-11-07 02:33:42",
+    "radio": "expres",
+    "recorded_at": "2025-11-07T02:34:11.578604+01:00",
+    "raw_valid": true,
+    "song_session_id": "4f7a923b-220d-4ad8-9ca1-53159ed096ad",
+    "duration_ms": 184405,
+    "genre": []
+  },
+  {
+    "song": "Kym Stupa Dym",
+    "artists": [
+      "Imt Smile"
+    ],
+    "isrc": "SKA010309225",
+    "start_time": "2025-11-07 02:36:39",
+    "radio": "expres",
+    "recorded_at": "2025-11-07T02:36:59.489855+01:00",
+    "raw_valid": true,
+    "song_session_id": "e93ed29c-fcd2-4b3f-92a3-dfcfa76f97a9",
+    "duration_ms": 277120,
+    "genre": []
+  },
+  {
+    "song": "Ill Be Missing You",
+    "artists": [
+      "Puff Daddy",
+      "Faith Evans"
+    ],
+    "isrc": "USBB40581044",
+    "start_time": "2025-11-07 02:40:20",
+    "radio": "expres",
+    "recorded_at": "2025-11-07T02:40:47.948303+01:00",
+    "raw_valid": true,
+    "song_session_id": "c5492ff8-5002-420d-9ec6-094707b9309c",
+    "duration_ms": 301520,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Premyslam Nad Tebou",
+    "artists": [
+      "Peter Cmorik"
+    ],
+    "isrc": "SKA011100147",
+    "start_time": "2025-11-07 02:45:25",
+    "radio": "expres",
+    "recorded_at": "2025-11-07T02:45:52.486047+01:00",
+    "raw_valid": true,
+    "song_session_id": "f87de211-7450-45ed-91cf-92bad456a8da",
+    "duration_ms": 196813,
+    "genre": []
+  },
+  {
+    "song": "Afterlife",
+    "artists": [
+      "Michael Schulte"
+    ],
+    "isrc": "DECE72500509",
+    "start_time": "2025-11-07 02:48:39",
+    "radio": "expres",
+    "recorded_at": "2025-11-07T02:48:56.509257+01:00",
+    "raw_valid": true,
+    "song_session_id": "defe1a4e-0c68-4e41-81f5-4aff2aa394d8",
+    "duration_ms": 160120,
+    "genre": []
+  },
+  {
+    "song": "Jedno Rano",
+    "artists": [
+      "Tina",
+      "Tomas Mastalir"
+    ],
+    "isrc": "SKC542100201",
+    "start_time": "2025-11-07 02:51:19",
+    "radio": "expres",
+    "recorded_at": "2025-11-07T02:51:45.452190+01:00",
+    "raw_valid": true,
+    "song_session_id": "010b0451-23c9-444d-96d2-8b4b7103b8ef",
+    "duration_ms": 251732,
+    "genre": []
+  },
+  {
+    "song": "Airplanes",
+    "artists": [
+      "B.o.b.",
+      "Hayley Williams"
+    ],
+    "isrc": "USAT21000477",
+    "start_time": "2025-11-07 02:55:32",
+    "radio": "expres",
+    "recorded_at": "2025-11-07T02:55:44.041681+01:00",
+    "raw_valid": true,
+    "song_session_id": "3720433e-e9ea-4afa-bc0b-7a5a123000cf",
+    "duration_ms": 180480,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Otazka Za Milion",
+    "artists": [
+      "Ine Kafe"
+    ],
+    "isrc": "SKA722400001",
+    "start_time": "2025-11-07 02:58:25",
+    "radio": "expres",
+    "recorded_at": "2025-11-07T02:58:57.032087+01:00",
+    "raw_valid": true,
+    "song_session_id": "2d1596b9-ca77-4f15-9f24-a86a497e0b68",
+    "duration_ms": 220400,
+    "genre": []
+  },
+  {
+    "song": "Italodisco",
+    "artists": [
+      "The Kolors"
+    ],
+    "isrc": "ITQ002300342",
+    "start_time": "2025-11-07 03:02:04",
+    "radio": "expres",
+    "recorded_at": "2025-11-07T03:02:30.397357+01:00",
+    "raw_valid": true,
+    "song_session_id": "907445e6-9ac6-457d-b5e8-26cf2acf165c",
+    "duration_ms": 199512,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Jediny A Jedina",
+    "artists": [
+      "Zuzana Smatanova"
+    ],
+    "isrc": "SKI941800607",
+    "start_time": "2025-11-07 03:05:28",
+    "radio": "expres",
+    "recorded_at": "2025-11-07T03:05:57.629581+01:00",
+    "raw_valid": true,
+    "song_session_id": "54bbd3fe-2952-4068-a153-39d023791baa",
+    "duration_ms": 258669,
+    "genre": []
+  },
+  {
+    "song": "Let Me Die",
+    "artists": [
+      "Mark Dann",
+      "Giovanni Ricci"
+    ],
+    "isrc": "US38Y2520370",
+    "start_time": "2025-11-07 03:09:37",
+    "radio": "expres",
+    "recorded_at": "2025-11-07T03:09:59.013133+01:00",
+    "raw_valid": true,
+    "song_session_id": "6bf06de3-a595-48c7-8258-883d63934376",
+    "duration_ms": 147010,
+    "genre": [
+      "slap house"
+    ]
+  },
+  {
+    "song": "Vyrobena Pre Mna",
+    "artists": [
+      "Desmod"
+    ],
+    "isrc": "SKA010700116",
+    "start_time": "2025-11-07 03:12:09",
+    "radio": "expres",
+    "recorded_at": "2025-11-07T03:12:19.659238+01:00",
+    "raw_valid": true,
+    "song_session_id": "f72ac216-c505-4dc6-a477-70feecd8806f",
+    "duration_ms": 222746,
+    "genre": []
+  },
+  {
+    "song": "Hymn For The Weekend",
+    "artists": [
+      "Coldplay",
+      "Beyonce"
+    ],
+    "isrc": "GBAYE1500979",
+    "start_time": "2025-11-07 03:15:45",
+    "radio": "expres",
+    "recorded_at": "2025-11-07T03:16:08.787667+01:00",
+    "raw_valid": true,
+    "song_session_id": "ae81eccf-72dc-4758-8fe8-2bd9d01ee25b",
+    "duration_ms": 258265,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Vana Plna Pirani",
+    "artists": [
+      "Peha"
+    ],
+    "isrc": "SKA770103101",
+    "start_time": "2025-11-07 03:19:39",
+    "radio": "expres",
+    "recorded_at": "2025-11-07T03:19:52.152387+01:00",
+    "raw_valid": true,
+    "song_session_id": "c8c07a0b-549a-4891-9b7a-168011a58a3f",
+    "duration_ms": 162693,
+    "genre": []
+  },
+  {
+    "song": "Head Above Water",
+    "artists": [
+      "Twocolors",
+      "Safri Duo",
+      "Chris De Sarandy"
+    ],
+    "isrc": "DEUM72503698",
+    "start_time": "2025-11-07 03:22:12",
+    "radio": "expres",
+    "recorded_at": "2025-11-07T03:22:39.827420+01:00",
+    "raw_valid": true,
+    "song_session_id": "9e03e212-cb7c-4426-918a-e1027f867215",
+    "duration_ms": 174550,
+    "genre": []
+  },
+  {
+    "song": "Netrpezlivi",
+    "artists": [
+      "Elan"
+    ],
+    "isrc": "SKA128229905",
+    "start_time": "2025-11-07 03:25:05",
+    "radio": "expres",
+    "recorded_at": "2025-11-07T03:25:17.486904+01:00",
+    "raw_valid": true,
+    "song_session_id": "ff975e9b-0878-4963-b2f2-9433131c68cb",
+    "duration_ms": 250546,
+    "genre": []
+  },
+  {
+    "song": "Thats So True",
+    "artists": [
+      "Gracie Abrams"
+    ],
+    "isrc": "USUG12406903",
+    "start_time": "2025-11-07 03:29:03",
+    "radio": "expres",
+    "recorded_at": "2025-11-07T03:29:16.082968+01:00",
+    "raw_valid": true,
+    "song_session_id": "a9f9c410-4e76-4e33-98b4-475d02a6f512",
+    "duration_ms": 130771,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Regalo",
+    "artists": [
+      "Alvaro Soler"
+    ],
+    "isrc": "DEE862500388",
+    "start_time": "2025-11-07 03:31:58",
+    "radio": "expres",
+    "recorded_at": "2025-11-07T03:32:43.152291+01:00",
+    "raw_valid": true,
+    "song_session_id": "0cad666b-e3a2-45f6-8b6f-08ad737a94db",
+    "duration_ms": 184984,
+    "genre": []
+  },
+  {
+    "song": "Skusame Sa Najst",
+    "artists": [
+      "Peter Bic Project"
+    ],
+    "isrc": "SKA011700065",
+    "start_time": "2025-11-07 03:35:09",
+    "radio": "expres",
+    "recorded_at": "2025-11-07T03:35:26.577918+01:00",
+    "raw_valid": true,
+    "song_session_id": "e079ff1d-bb3f-4317-808a-3f86cf21e8f3",
+    "duration_ms": 191165,
+    "genre": []
+  },
+  {
+    "song": "Dont Stop The Music",
+    "artists": [
+      "Rihanna"
+    ],
+    "isrc": "USUM70734700",
+    "start_time": "2025-11-07 03:38:17",
+    "radio": "expres",
+    "recorded_at": "2025-11-07T03:38:34.615716+01:00",
+    "raw_valid": true,
+    "song_session_id": "a6118e1c-4ae4-4338-b951-c3f82641be41",
+    "duration_ms": 269400,
+    "genre": [
+      "electronic"
+    ]
+  },
+  {
+    "song": "Nejsi Sam",
+    "artists": [
+      "Miro Zbirka",
+      "David Zbirka"
+    ],
+    "isrc": "CZUM72200083",
+    "start_time": "2025-11-07 03:42:49",
+    "radio": "expres",
+    "recorded_at": "2025-11-07T03:43:18.749509+01:00",
+    "raw_valid": true,
+    "song_session_id": "c74c9abb-2fc8-4ff5-8daa-6abb441b28f8",
+    "duration_ms": 191146,
+    "genre": []
+  },
+  {
+    "song": "No Time To Talk",
+    "artists": [
+      "Jonas Brothers"
+    ],
+    "isrc": "USUG12504831",
+    "start_time": "2025-11-07 03:45:42",
+    "radio": "expres",
+    "recorded_at": "2025-11-07T03:46:02.038390+01:00",
+    "raw_valid": true,
+    "song_session_id": "d6d01fb0-1354-41f6-8e5b-1dd753636903",
+    "duration_ms": 155053,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "My Dvaja",
+    "artists": [
+      "Imt Smile"
+    ],
+    "isrc": "SKA011200006",
+    "start_time": "2025-11-07 03:48:31",
+    "radio": "expres",
+    "recorded_at": "2025-11-07T03:48:40.790412+01:00",
+    "raw_valid": true,
+    "song_session_id": "f828bef9-b0f9-4da2-8463-22bc5e197c67",
+    "duration_ms": 229706,
+    "genre": []
+  },
+  {
+    "song": "Afterglow",
+    "artists": [
+      "Ed Sheeran"
+    ],
+    "isrc": "GBAHS2001193",
+    "start_time": "2025-11-07 03:52:07",
+    "radio": "expres",
+    "recorded_at": "2025-11-07T03:52:24.219119+01:00",
+    "raw_valid": true,
+    "song_session_id": "56852097-f909-478e-8043-4ebe08bc9550",
+    "duration_ms": 185486,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Severanka",
+    "artists": [
+      "Team"
+    ],
+    "isrc": "SKA129031210",
+    "start_time": "2025-11-07 03:55:08",
+    "radio": "expres",
+    "recorded_at": "2025-11-07T03:55:27.217369+01:00",
+    "raw_valid": true,
+    "song_session_id": "5c5906ed-befc-4549-b53a-255bd62933b7",
+    "duration_ms": 305266,
+    "genre": []
+  },
+  {
+    "song": "Walk With Me",
+    "artists": [
+      "Felix Jaehn",
+      "Shouse"
+    ],
+    "isrc": "DEUM72411810",
+    "start_time": "2025-11-07 04:00:12",
+    "radio": "expres",
+    "recorded_at": "2025-11-07T04:00:38.640414+01:00",
+    "raw_valid": true,
+    "song_session_id": "c911f065-4c6c-42f0-98e0-7bc04777949a",
+    "duration_ms": 152535,
+    "genre": [
+      "tropical house"
+    ]
+  }
+]

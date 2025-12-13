@@ -1,0 +1,187 @@
+[
+  {
+    "song": "Be Mine",
+    "artists": [
+      "Kamrad"
+    ],
+    "isrc": "DE1NJ2500035",
+    "start_time": "2025-12-12 11:07:04",
+    "radio": "expres",
+    "recorded_at": "2025-12-12T11:07:39.338363+01:00",
+    "raw_valid": true,
+    "song_session_id": "c952e4d9-95a8-44bb-b155-0a388d69bbaf",
+    "duration_ms": 156463,
+    "genre": []
+  },
+  {
+    "song": "With Or Without You",
+    "artists": [
+      "U2"
+    ],
+    "isrc": "GBUM70709792",
+    "start_time": "2025-12-12 11:09:41",
+    "radio": "expres",
+    "recorded_at": "2025-12-12T11:10:01.350871+01:00",
+    "raw_valid": true,
+    "song_session_id": "f2ff1b99-fec9-4b0f-b6a2-48a8cc015371",
+    "duration_ms": 295520,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Overdrive",
+    "artists": [
+      "Ofenbach",
+      "Norma Jean Martine"
+    ],
+    "isrc": "FR9W12347222",
+    "start_time": "2025-12-12 11:13:29",
+    "radio": "expres",
+    "recorded_at": "2025-12-12T11:14:05.756164+01:00",
+    "raw_valid": true,
+    "song_session_id": "b9eb3639-6c03-4b1a-9f1f-ea764c731fd6",
+    "duration_ms": 155905,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Na Vianoce Domov",
+    "artists": [
+      "Alan Murin",
+      "Radio Expres"
+    ],
+    "isrc": "QZYFZ2540500",
+    "start_time": "2025-12-12 11:19:51",
+    "radio": "expres",
+    "recorded_at": "2025-12-12T11:20:25.731353+01:00",
+    "raw_valid": true,
+    "song_session_id": "16402c80-ed61-4d78-8bd1-c80928505c89",
+    "duration_ms": 240000,
+    "genre": []
+  },
+  {
+    "song": "Zoo",
+    "artists": [
+      "Shakira"
+    ],
+    "isrc": "USWD12538420",
+    "start_time": "2025-12-12 11:23:46",
+    "radio": "expres",
+    "recorded_at": "2025-12-12T11:24:04.194019+01:00",
+    "raw_valid": true,
+    "song_session_id": "dd072255-7e27-419f-8e15-b8116a642d01",
+    "duration_ms": 190822,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Abracadabra",
+    "artists": [
+      "Lady Gaga"
+    ],
+    "isrc": "USUM72412581",
+    "start_time": "2025-12-12 11:33:53",
+    "radio": "expres",
+    "recorded_at": "2025-12-12T11:34:27.279015+01:00",
+    "raw_valid": true,
+    "song_session_id": "7c019fef-600d-4147-805c-6bb8ea7d1d1a",
+    "duration_ms": 223398,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Head Above Water",
+    "artists": [
+      "Twocolors",
+      "Safri Duo",
+      "Chris De Sarandy"
+    ],
+    "isrc": "DEUM72503698",
+    "start_time": "2025-12-12 11:37:42",
+    "radio": "expres",
+    "recorded_at": "2025-12-12T11:38:05.283970+01:00",
+    "raw_valid": true,
+    "song_session_id": "d8841d51-8771-42d0-b1e2-dc9316d84dd5",
+    "duration_ms": 174550,
+    "genre": []
+  },
+  {
+    "song": "Dont Cry",
+    "artists": [
+      "Guns N' Roses"
+    ],
+    "isrc": "USGF19141504",
+    "start_time": "2025-12-12 11:40:38",
+    "radio": "expres",
+    "recorded_at": "2025-12-12T11:41:07.827876+01:00",
+    "raw_valid": true,
+    "song_session_id": "a8f669b6-ccf4-4579-b31d-6751a6bb8791",
+    "duration_ms": 284093,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Demons",
+    "artists": [
+      "Imagine Dragons"
+    ],
+    "isrc": "USUM71201071",
+    "start_time": "2025-12-12 11:45:14",
+    "radio": "expres",
+    "recorded_at": "2025-12-12T11:45:46.658933+01:00",
+    "raw_valid": true,
+    "song_session_id": "3de1453a-ab46-4557-9ac4-0aa0ae68fe35",
+    "duration_ms": 177506,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Afterlife",
+    "artists": [
+      "Michael Schulte"
+    ],
+    "isrc": "DECE72500509",
+    "start_time": "2025-12-12 11:48:12",
+    "radio": "expres",
+    "recorded_at": "2025-12-12T11:48:49.222952+01:00",
+    "raw_valid": true,
+    "song_session_id": "22e04dd2-2867-4d5d-9414-b4e0e674edab",
+    "duration_ms": 160120,
+    "genre": []
+  },
+  {
+    "song": "Hot Stuff",
+    "artists": [
+      "Kygo",
+      "Donna Summer"
+    ],
+    "isrc": "SEBGA2000777",
+    "start_time": "2025-12-12 11:52:27",
+    "radio": "expres",
+    "recorded_at": "2025-12-12T11:52:52.530485+01:00",
+    "raw_valid": true,
+    "song_session_id": "461d5dd8-fa6d-4a62-a78f-4a98b48586f2",
+    "duration_ms": 199007,
+    "genre": []
+  },
+  {
+    "song": "Happy Xmas (War Is Over)",
+    "artists": [
+      "John Lennon"
+    ],
+    "isrc": "GBAYE1000862",
+    "start_time": "2025-12-12 11:55:36",
+    "radio": "expres",
+    "recorded_at": "2025-12-12T11:56:10.225363+01:00",
+    "raw_valid": true,
+    "song_session_id": "72047a16-f857-4b79-8205-639e7314afb2",
+    "duration_ms": 212680,
+    "genre": []
+  }
+]

@@ -1,0 +1,372 @@
+[
+  {
+    "song": "Cant Fight The Moonlight",
+    "artists": [
+      "Leann Rimes"
+    ],
+    "isrc": "USCRB0000703",
+    "start_time": "2025-11-08 16:06:16",
+    "radio": "expres",
+    "recorded_at": "2025-11-08T16:06:45.203580+01:00",
+    "raw_valid": true,
+    "song_session_id": "b4191ab5-80ef-41a9-b628-db40b5d4e99d",
+    "duration_ms": 215506,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Live Is Life",
+    "artists": [
+      "Opus"
+    ],
+    "isrc": "ATM470200672",
+    "start_time": "2025-11-08 16:09:59",
+    "radio": "expres",
+    "recorded_at": "2025-11-08T16:10:30.953724+01:00",
+    "raw_valid": true,
+    "song_session_id": "0245b42b-851d-4a69-a9f6-aa3419ced6eb",
+    "duration_ms": 254600,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Baby Baby",
+    "artists": [
+      "Corona"
+    ],
+    "isrc": "ITA199800034",
+    "start_time": "2025-11-08 16:13:55",
+    "radio": "expres",
+    "recorded_at": "2025-11-08T16:14:08.976202+01:00",
+    "raw_valid": true,
+    "song_session_id": "c04c72d8-dbc9-4c44-ac77-fd736fcf1e13",
+    "duration_ms": 228013,
+    "genre": [
+      "electronic"
+    ]
+  },
+  {
+    "song": "Laska",
+    "artists": [
+      "Gladiator"
+    ],
+    "isrc": "CZA210000409",
+    "start_time": "2025-11-08 16:18:50",
+    "radio": "expres",
+    "recorded_at": "2025-11-08T16:19:11.769873+01:00",
+    "raw_valid": true,
+    "song_session_id": "54156348-a86c-43ac-86e5-804db888d247",
+    "duration_ms": 238466,
+    "genre": []
+  },
+  {
+    "song": "Ballet Dancer",
+    "artists": [
+      "Twins"
+    ],
+    "isrc": "DEA650699974",
+    "start_time": "2025-11-08 16:22:55",
+    "radio": "expres",
+    "recorded_at": "2025-11-08T16:23:10.985526+01:00",
+    "raw_valid": true,
+    "song_session_id": "cea4fbcd-66cf-4cd9-be97-9b8bf483111f",
+    "duration_ms": 206333,
+    "genre": []
+  },
+  {
+    "song": "Genie In A Bottle",
+    "artists": [
+      "Christina Aguilera"
+    ],
+    "isrc": "USRC19900032",
+    "start_time": "2025-11-08 16:26:10",
+    "radio": "expres",
+    "recorded_at": "2025-11-08T16:26:41.956844+01:00",
+    "raw_valid": true,
+    "song_session_id": "eccd9839-56f2-45a4-a974-ee83a1d32580",
+    "duration_ms": 217573,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Angels",
+    "artists": [
+      "Morandi"
+    ],
+    "isrc": "ROUM70700047",
+    "start_time": "2025-11-08 16:33:38",
+    "radio": "expres",
+    "recorded_at": "2025-11-08T16:33:59.393489+01:00",
+    "raw_valid": true,
+    "song_session_id": "2b2a5203-1679-474f-bf34-38fe5101cf85",
+    "duration_ms": 225120,
+    "genre": []
+  },
+  {
+    "song": "Dont You Want Me",
+    "artists": [
+      "Human League"
+    ],
+    "isrc": "GBAAA0200924",
+    "start_time": "2025-11-08 16:36:53",
+    "radio": "expres",
+    "recorded_at": "2025-11-08T16:37:19.152801+01:00",
+    "raw_valid": true,
+    "song_session_id": "bc199b5f-d395-4c9d-8224-76f0079a0697",
+    "duration_ms": 236920,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Tears In Heaven",
+    "artists": [
+      "Eric Clapton"
+    ],
+    "isrc": "USRE19100010",
+    "start_time": "2025-11-08 16:40:50",
+    "radio": "expres",
+    "recorded_at": "2025-11-08T16:41:14.790997+01:00",
+    "raw_valid": true,
+    "song_session_id": "978737b4-375c-4eca-854c-f482ee905766",
+    "duration_ms": 271760,
+    "genre": []
+  },
+  {
+    "song": "Im Your Baby Tonight",
+    "artists": [
+      "Whitney Houston"
+    ],
+    "isrc": "USAR19000129",
+    "start_time": "2025-11-08 16:45:22",
+    "radio": "expres",
+    "recorded_at": "2025-11-08T16:45:34.688852+01:00",
+    "raw_valid": true,
+    "song_session_id": "8b0be50c-393a-47ab-bb19-1f01cfbf9b2e",
+    "duration_ms": 299713,
+    "genre": []
+  },
+  {
+    "song": "I Like To Move It",
+    "artists": [
+      "Reel Ii Real"
+    ],
+    "isrc": "USUM70840409",
+    "start_time": "2025-11-08 16:50:32",
+    "radio": "expres",
+    "recorded_at": "2025-11-08T16:50:55.917791+01:00",
+    "raw_valid": true,
+    "song_session_id": "68b8d267-ef4c-46f7-bbe1-6fac2d8d9504",
+    "duration_ms": 221466,
+    "genre": [
+      "soundtrack"
+    ]
+  },
+  {
+    "song": "Two Princes",
+    "artists": [
+      "Spin Doctors"
+    ],
+    "isrc": "USSM19000350",
+    "start_time": "2025-11-08 16:54:26",
+    "radio": "expres",
+    "recorded_at": "2025-11-08T16:54:39.318095+01:00",
+    "raw_valid": true,
+    "song_session_id": "519c081d-de3f-4cf6-a169-d6eb7fec6d1d",
+    "duration_ms": 256946,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Neverending Story",
+    "artists": [
+      "Limahl"
+    ],
+    "isrc": "DEN060701014",
+    "start_time": "2025-11-08 17:05:34",
+    "radio": "expres",
+    "recorded_at": "2025-11-08T17:05:59.106511+01:00",
+    "raw_valid": true,
+    "song_session_id": "987a4344-9c45-4247-853f-b86adbd1fd68",
+    "duration_ms": 232169,
+    "genre": [
+      "trance"
+    ]
+  },
+  {
+    "song": "You Gotta Be",
+    "artists": [
+      "Desree"
+    ],
+    "isrc": "GBBBN0009325",
+    "start_time": "2025-11-08 17:08:52",
+    "radio": "expres",
+    "recorded_at": "2025-11-08T17:09:09.547889+01:00",
+    "raw_valid": true,
+    "song_session_id": "d948d2cf-c045-4620-a5ac-76c9c8572abb",
+    "duration_ms": 239933,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Kids In America",
+    "artists": [
+      "Kim Wilde"
+    ],
+    "isrc": "GBAYE8100054",
+    "start_time": "2025-11-08 17:12:50",
+    "radio": "expres",
+    "recorded_at": "2025-11-08T17:13:03.480108+01:00",
+    "raw_valid": true,
+    "song_session_id": "1bfcdc98-74d5-4440-9fd7-c392dfd537a7",
+    "duration_ms": 206426,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Dnes",
+    "artists": [
+      "Tublatanka"
+    ],
+    "isrc": "SKA128710206",
+    "start_time": "2025-11-08 17:16:55",
+    "radio": "expres",
+    "recorded_at": "2025-11-08T17:17:07.588235+01:00",
+    "raw_valid": true,
+    "song_session_id": "3fbba3e6-3c15-4ef6-8437-cea3a7cb6d53",
+    "duration_ms": 298893,
+    "genre": []
+  },
+  {
+    "song": "Crucified",
+    "artists": [
+      "Army Of Lovers"
+    ],
+    "isrc": "SEBFN9101010",
+    "start_time": "2025-11-08 17:21:48",
+    "radio": "expres",
+    "recorded_at": "2025-11-08T17:22:08.488848+01:00",
+    "raw_valid": true,
+    "song_session_id": "7f2536ef-cd04-483c-aa79-a29611a52a46",
+    "duration_ms": 213733,
+    "genre": [
+      "electronic"
+    ]
+  },
+  {
+    "song": "Bad Day",
+    "artists": [
+      "Daniel Powter"
+    ],
+    "isrc": "USWB10401971",
+    "start_time": "2025-11-08 17:25:19",
+    "radio": "expres",
+    "recorded_at": "2025-11-08T17:25:46.791676+01:00",
+    "raw_valid": true,
+    "song_session_id": "3bc8cd95-1a16-4197-8869-17aaa2b6d91a",
+    "duration_ms": 233919,
+    "genre": [
+      "soundtrack"
+    ]
+  },
+  {
+    "song": "Summer Son",
+    "artists": [
+      "Texas"
+    ],
+    "isrc": "GBF089900144",
+    "start_time": "2025-11-08 17:32:36",
+    "radio": "expres",
+    "recorded_at": "2025-11-08T17:32:53.654802+01:00",
+    "raw_valid": true,
+    "song_session_id": "060d4bc5-60fc-4eed-9862-05bddadf2f04",
+    "duration_ms": 243173,
+    "genre": [
+      "electronic"
+    ]
+  },
+  {
+    "song": "I Just Called To Say I Love You",
+    "artists": [
+      "Stevie Wonder"
+    ],
+    "isrc": "USUMG9900476",
+    "start_time": "2025-11-08 17:36:29",
+    "radio": "expres",
+    "recorded_at": "2025-11-08T17:36:52.205636+01:00",
+    "raw_valid": true,
+    "song_session_id": "77cb9e07-03b4-48cb-9be4-f817ee314cf2",
+    "duration_ms": 262360,
+    "genre": []
+  },
+  {
+    "song": "My Immortal",
+    "artists": [
+      "Evanescence"
+    ],
+    "isrc": "USWU30200104",
+    "start_time": "2025-11-08 17:40:54",
+    "radio": "expres",
+    "recorded_at": "2025-11-08T17:41:16.303287+01:00",
+    "raw_valid": true,
+    "song_session_id": "401b1862-3061-4329-af20-0ac3bccd9d23",
+    "duration_ms": 262533,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Baby One More Time",
+    "artists": [
+      "Britney Spears"
+    ],
+    "isrc": "USJI19810404",
+    "start_time": "2025-11-08 17:45:23",
+    "radio": "expres",
+    "recorded_at": "2025-11-08T17:45:35.629724+01:00",
+    "raw_valid": true,
+    "song_session_id": "ee4c9b52-838e-4089-92b8-0051b677c31c",
+    "duration_ms": 210386,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "I Dont Want To Miss A Thing",
+    "artists": [
+      "Aerosmith"
+    ],
+    "isrc": "USSM19801545",
+    "start_time": "2025-11-08 17:52:07",
+    "radio": "expres",
+    "recorded_at": "2025-11-08T17:52:22.071567+01:00",
+    "raw_valid": true,
+    "song_session_id": "789995d5-94b3-4663-b930-c55de994e093",
+    "duration_ms": 298760,
+    "genre": [
+      "hard rock"
+    ]
+  },
+  {
+    "song": "The Sun Always Shines On Tv",
+    "artists": [
+      "A-Ha"
+    ],
+    "isrc": "USWB19901219",
+    "start_time": "2025-11-08 17:55:47",
+    "radio": "expres",
+    "recorded_at": "2025-11-08T17:56:10.098352+01:00",
+    "raw_valid": true,
+    "song_session_id": "06471fe0-5c13-43cd-ae9d-3774b7432a3d",
+    "duration_ms": 302400,
+    "genre": [
+      "rock"
+    ]
+  }
+]

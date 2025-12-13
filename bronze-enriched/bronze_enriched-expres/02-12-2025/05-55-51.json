@@ -1,0 +1,437 @@
+[
+  {
+    "song": "Simple Life",
+    "artists": [
+      "Leony"
+    ],
+    "isrc": "DEN062400058",
+    "start_time": "2025-12-02 04:57:52",
+    "radio": "expres",
+    "recorded_at": "2025-12-02T04:58:17.587589+01:00",
+    "raw_valid": true,
+    "song_session_id": "4fb677f9-0ae8-478f-9ad9-0ce0619f5f09",
+    "duration_ms": 153100,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Pride",
+    "artists": [
+      "Felix Jaehn",
+      "Jhart"
+    ],
+    "isrc": "DEUM72503423",
+    "start_time": "2025-12-02 05:00:27",
+    "radio": "expres",
+    "recorded_at": "2025-12-02T05:00:39.985003+01:00",
+    "raw_valid": true,
+    "song_session_id": "a6ab3973-8538-410f-bb93-cc4269e93f8a",
+    "duration_ms": 158150,
+    "genre": [
+      "tropical house"
+    ]
+  },
+  {
+    "song": "Slovenska",
+    "artists": [
+      "Miro Zbirka"
+    ],
+    "isrc": "CZUM72000500",
+    "start_time": "2025-12-02 05:03:13",
+    "radio": "expres",
+    "recorded_at": "2025-12-02T05:03:37.978288+01:00",
+    "raw_valid": true,
+    "song_session_id": "56ac0571-d3bb-47fc-9a1b-8586678876aa",
+    "duration_ms": 193373,
+    "genre": []
+  },
+  {
+    "song": "Stargazing",
+    "artists": [
+      "Myles Smith"
+    ],
+    "isrc": "GBARL2400510",
+    "start_time": "2025-12-02 05:06:17",
+    "radio": "expres",
+    "recorded_at": "2025-12-02T05:06:41.186760+01:00",
+    "raw_valid": true,
+    "song_session_id": "cf149d52-601a-47b8-bb30-084a268dd07d",
+    "duration_ms": 172533,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Thinking About You",
+    "artists": [
+      "Peter Bic Project"
+    ],
+    "isrc": "SKA011200054",
+    "start_time": "2025-12-02 05:09:14",
+    "radio": "expres",
+    "recorded_at": "2025-12-02T05:09:32.220825+01:00",
+    "raw_valid": true,
+    "song_session_id": "150338fc-1ee5-4dc1-a568-ec450cebc5f3",
+    "duration_ms": 234240,
+    "genre": []
+  },
+  {
+    "song": "Maniac",
+    "artists": [
+      "Michael Sembello"
+    ],
+    "isrc": "USPR38302462",
+    "start_time": "2025-12-02 05:13:11",
+    "radio": "expres",
+    "recorded_at": "2025-12-02T05:13:32.383170+01:00",
+    "raw_valid": true,
+    "song_session_id": "dd54339a-3875-4387-be24-0b1dc26b7b98",
+    "duration_ms": 246000,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Je Koniec",
+    "artists": [
+      "Dominika Mirgova",
+      "Kali"
+    ],
+    "isrc": "SKE271300105",
+    "start_time": "2025-12-02 05:17:02",
+    "radio": "expres",
+    "recorded_at": "2025-12-02T05:17:32.495804+01:00",
+    "raw_valid": true,
+    "song_session_id": "a1ba80af-ee6b-43e3-aae3-eeff1a703a95",
+    "duration_ms": 228136,
+    "genre": []
+  },
+  {
+    "song": "Where Is My Husband",
+    "artists": [
+      "Raye"
+    ],
+    "isrc": "QMFME2535037",
+    "start_time": "2025-12-02 05:20:45",
+    "radio": "expres",
+    "recorded_at": "2025-12-02T05:21:20.798324+01:00",
+    "raw_valid": true,
+    "song_session_id": "8874d856-b634-4359-b06b-a02d12f939bf",
+    "duration_ms": 196795,
+    "genre": [
+      "offizielle charts"
+    ]
+  },
+  {
+    "song": "Nemozem Dychat",
+    "artists": [
+      "Gladiator"
+    ],
+    "isrc": "SKA010400086",
+    "start_time": "2025-12-02 05:24:15",
+    "radio": "expres",
+    "recorded_at": "2025-12-02T05:24:28.812437+01:00",
+    "raw_valid": true,
+    "song_session_id": "ea3db980-b31f-4990-81f3-040e6ca62050",
+    "duration_ms": 217933,
+    "genre": []
+  },
+  {
+    "song": "Wonderful Dream (Holidays Are Coming)",
+    "artists": [
+      "Melanie Thornton"
+    ],
+    "isrc": "DEE860100979",
+    "start_time": "2025-12-02 05:27:46",
+    "radio": "expres",
+    "recorded_at": "2025-12-02T05:28:12.929809+01:00",
+    "raw_valid": true,
+    "song_session_id": "b6134331-646f-4b40-9797-733acfcd177d",
+    "duration_ms": 230733,
+    "genre": [
+      "christmas"
+    ]
+  },
+  {
+    "song": "The Fate Of Ophelia",
+    "artists": [
+      "Taylor Swift"
+    ],
+    "isrc": "USUG12506436",
+    "start_time": "2025-12-02 05:32:23",
+    "radio": "expres",
+    "recorded_at": "2025-12-02T05:32:41.282645+01:00",
+    "raw_valid": true,
+    "song_session_id": "ed83e9a0-2a0d-45a8-8024-3f1179e74463",
+    "duration_ms": 226073,
+    "genre": [
+      "electronic"
+    ]
+  },
+  {
+    "song": "Bosy A Sam",
+    "artists": [
+      "Robo Grigorov"
+    ],
+    "isrc": "GBBPW2501549",
+    "start_time": "2025-12-02 05:36:11",
+    "radio": "expres",
+    "recorded_at": "2025-12-02T05:36:41.661283+01:00",
+    "raw_valid": true,
+    "song_session_id": "58a95ecd-12e1-4fb1-8c74-4b8b56b5a9d4",
+    "duration_ms": 128000,
+    "genre": [
+      "experimental hip hop"
+    ]
+  },
+  {
+    "song": "Waiting For Love",
+    "artists": [
+      "Avicii"
+    ],
+    "isrc": "CHB701400134",
+    "start_time": "2025-12-02 05:39:58",
+    "radio": "expres",
+    "recorded_at": "2025-12-02T05:40:15.160589+01:00",
+    "raw_valid": true,
+    "song_session_id": "5d6d0e58-ca8c-404f-ab41-c54de004525d",
+    "duration_ms": 232880,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Ona Je Taka",
+    "artists": [
+      "Polemic"
+    ],
+    "isrc": "SKA139920103",
+    "start_time": "2025-12-02 05:43:55",
+    "radio": "expres",
+    "recorded_at": "2025-12-02T05:44:19.194862+01:00",
+    "raw_valid": true,
+    "song_session_id": "9dca5767-9e49-407c-b0bd-a0f434e6ce25",
+    "duration_ms": 140120,
+    "genre": [
+      "ska"
+    ]
+  },
+  {
+    "song": "Golden",
+    "artists": [
+      "Kpop Demon Hunters"
+    ],
+    "isrc": "QZ8BZ2513510",
+    "start_time": "2025-12-02 05:46:18",
+    "radio": "expres",
+    "recorded_at": "2025-12-02T05:46:41.862031+01:00",
+    "raw_valid": true,
+    "song_session_id": "15a6ec57-36fd-4c82-a29b-2dea67d66870",
+    "duration_ms": 194607,
+    "genre": [
+      "korean"
+    ]
+  },
+  {
+    "song": "Vsetky Oci Na Mne",
+    "artists": [
+      "Majk Spirit"
+    ],
+    "isrc": "FRX202201096",
+    "start_time": "2025-12-02 05:49:01",
+    "radio": "expres",
+    "recorded_at": "2025-12-02T05:49:22.139272+01:00",
+    "raw_valid": true,
+    "song_session_id": "31e847dd-7d2b-4683-8003-8eb2126910f5",
+    "duration_ms": 208692,
+    "genre": []
+  },
+  {
+    "song": "Its My Life",
+    "artists": [
+      "Bon Jovi"
+    ],
+    "isrc": "USIR20000145",
+    "start_time": "2025-12-02 05:52:30",
+    "radio": "expres",
+    "recorded_at": "2025-12-02T05:52:42.121678+01:00",
+    "raw_valid": true,
+    "song_session_id": "9bbc2a21-5195-4e4a-83a5-e60873b72b94",
+    "duration_ms": 224600,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Pustam Ta",
+    "artists": [
+      "Karmen Pal-Balaz"
+    ],
+    "isrc": "SKA011900082",
+    "start_time": "2025-12-02 05:56:19",
+    "radio": "expres",
+    "recorded_at": "2025-12-02T05:56:54.104500+01:00",
+    "raw_valid": true,
+    "song_session_id": "14979c61-f74b-45d3-b38f-44f7da5e1e2f",
+    "duration_ms": 226682,
+    "genre": []
+  },
+  {
+    "song": "Regalo",
+    "artists": [
+      "Alvaro Soler"
+    ],
+    "isrc": "DEE862500388",
+    "start_time": "2025-12-02 06:05:56",
+    "radio": "expres",
+    "recorded_at": "2025-12-02T06:06:14.417071+01:00",
+    "raw_valid": true,
+    "song_session_id": "ebaa55d8-7736-425d-ba3f-a77709bdc4c9",
+    "duration_ms": 184984,
+    "genre": []
+  },
+  {
+    "song": "Umbrella",
+    "artists": [
+      "Rihanna"
+    ],
+    "isrc": "USUM70736771",
+    "start_time": "2025-12-02 06:09:02",
+    "radio": "expres",
+    "recorded_at": "2025-12-02T06:09:34.315809+01:00",
+    "raw_valid": true,
+    "song_session_id": "8fd5a7f0-6a86-4521-94c2-570f76c8c668",
+    "duration_ms": 276146,
+    "genre": [
+      "electronic"
+    ]
+  },
+  {
+    "song": "The Sound Of Silence",
+    "artists": [
+      "Disturbed"
+    ],
+    "isrc": "USRE12400063",
+    "start_time": "2025-12-02 06:14:17",
+    "radio": "expres",
+    "recorded_at": "2025-12-02T06:14:29.047008+01:00",
+    "raw_valid": true,
+    "song_session_id": "dcc1e540-3edd-4127-a86c-4536493ffdd0",
+    "duration_ms": 185238,
+    "genre": [
+      "metal"
+    ]
+  },
+  {
+    "song": "In The Shadows",
+    "artists": [
+      "Rasmus"
+    ],
+    "isrc": "SEVJH0201601",
+    "start_time": "2025-12-02 06:21:17",
+    "radio": "expres",
+    "recorded_at": "2025-12-02T06:21:34.754054+01:00",
+    "raw_valid": true,
+    "song_session_id": "dc251320-d1c5-4c0e-b979-9cf32b5c31dd",
+    "duration_ms": 246933,
+    "genre": [
+      "finnish rock"
+    ]
+  },
+  {
+    "song": "Save My Love",
+    "artists": [
+      "Marshmello",
+      "Ellie Goulding",
+      "Avaion"
+    ],
+    "isrc": "USUG12504310",
+    "start_time": "2025-12-02 06:25:17",
+    "radio": "expres",
+    "recorded_at": "2025-12-02T06:25:34.696733+01:00",
+    "raw_valid": true,
+    "song_session_id": "bc9d1f01-f7a0-4813-9d4d-d39ec213122b",
+    "duration_ms": 215555,
+    "genre": [
+      "edm"
+    ]
+  },
+  {
+    "song": "Leave A Light On",
+    "artists": [
+      "Belinda Carlisle"
+    ],
+    "isrc": "GBAAA8900043",
+    "start_time": "2025-12-02 06:31:08",
+    "radio": "expres",
+    "recorded_at": "2025-12-02T06:31:35.305424+01:00",
+    "raw_valid": true,
+    "song_session_id": "32cc2ae2-0b5e-4188-8059-69499be8068a",
+    "duration_ms": 278360,
+    "genre": []
+  },
+  {
+    "song": "To Okolo Nas",
+    "artists": [
+      "Para"
+    ],
+    "isrc": "SKP662201002",
+    "start_time": "2025-12-02 06:35:31",
+    "radio": "expres",
+    "recorded_at": "2025-12-02T06:36:03.666359+01:00",
+    "raw_valid": true,
+    "song_session_id": "6d011044-0646-495a-9e62-a8ce1ed5a39b",
+    "duration_ms": 257185,
+    "genre": []
+  },
+  {
+    "song": "Be Mine",
+    "artists": [
+      "Kamrad"
+    ],
+    "isrc": "DE1NJ2500035",
+    "start_time": "2025-12-02 06:43:40",
+    "radio": "expres",
+    "recorded_at": "2025-12-02T06:44:04.065003+01:00",
+    "raw_valid": true,
+    "song_session_id": "9cb963f0-dd49-4eaf-8f5f-dd39982a80d5",
+    "duration_ms": 156463,
+    "genre": []
+  },
+  {
+    "song": "Srdce Nehasnou",
+    "artists": [
+      "Karel Gott",
+      "Charlotte Ella Gottova"
+    ],
+    "isrc": "CZA161900335",
+    "start_time": "2025-12-02 06:46:19",
+    "radio": "expres",
+    "recorded_at": "2025-12-02T06:46:44.321158+01:00",
+    "raw_valid": true,
+    "song_session_id": "1e60c272-608f-4c5d-a14d-6eebeed1b911",
+    "duration_ms": 228667,
+    "genre": [
+      "schlager"
+    ]
+  },
+  {
+    "song": "Forever Young",
+    "artists": [
+      "David Guetta",
+      "Alphaville",
+      "Ava Max"
+    ],
+    "isrc": "UKWLG2400102",
+    "start_time": "2025-12-02 06:52:43",
+    "radio": "expres",
+    "recorded_at": "2025-12-02T06:53:00.034071+01:00",
+    "raw_valid": true,
+    "song_session_id": "cd043b81-3067-44dc-b941-276f9b582187",
+    "duration_ms": 156923,
+    "genre": [
+      "edm"
+    ]
+  }
+]

@@ -1,0 +1,504 @@
+[
+  {
+    "song": "Mystical Magical",
+    "artists": [
+      "Benson Boone"
+    ],
+    "isrc": "USWB12500844",
+    "start_time": "2025-11-11 04:02:29",
+    "radio": "expres",
+    "recorded_at": "2025-11-11T04:02:53.842750+01:00",
+    "raw_valid": true,
+    "song_session_id": "3a310b7d-0549-4ba4-bcad-e501089d14fc",
+    "duration_ms": 165746,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Letna Laska",
+    "artists": [
+      "Hex"
+    ],
+    "isrc": "CZA231204446",
+    "start_time": "2025-11-11 04:05:14",
+    "radio": "expres",
+    "recorded_at": "2025-11-11T04:05:35.303992+01:00",
+    "raw_valid": true,
+    "song_session_id": "f6b5028e-c13d-4e98-9ee6-68304ed76eee",
+    "duration_ms": 200533,
+    "genre": []
+  },
+  {
+    "song": "Heavy Metal Love",
+    "artists": [
+      "Twocolors"
+    ],
+    "isrc": "DEUM72203320",
+    "start_time": "2025-11-11 04:08:46",
+    "radio": "expres",
+    "recorded_at": "2025-11-11T04:09:15.897978+01:00",
+    "raw_valid": true,
+    "song_session_id": "429a3e51-5365-45b3-97a0-3e6061b0a9b4",
+    "duration_ms": 132000,
+    "genre": []
+  },
+  {
+    "song": "Je Koniec",
+    "artists": [
+      "Dominika Mirgova",
+      "Kali"
+    ],
+    "isrc": "SKE271300105",
+    "start_time": "2025-11-11 04:10:57",
+    "radio": "expres",
+    "recorded_at": "2025-11-11T04:11:13.974863+01:00",
+    "raw_valid": true,
+    "song_session_id": "08593c33-b2a1-480d-9d3e-939fdab3d6d5",
+    "duration_ms": 228136,
+    "genre": []
+  },
+  {
+    "song": "Million Reasons",
+    "artists": [
+      "Lady Gaga"
+    ],
+    "isrc": "USUM71609736",
+    "start_time": "2025-11-11 04:14:47",
+    "radio": "expres",
+    "recorded_at": "2025-11-11T04:15:13.056226+01:00",
+    "raw_valid": true,
+    "song_session_id": "6ad0be0e-88d9-4fe8-bb03-562cebf209a1",
+    "duration_ms": 205280,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Maly Princ",
+    "artists": [
+      "Aya"
+    ],
+    "isrc": "CZA210700631",
+    "start_time": "2025-11-11 04:18:02",
+    "radio": "expres",
+    "recorded_at": "2025-11-11T04:18:17.013448+01:00",
+    "raw_valid": true,
+    "song_session_id": "43e1734d-3fd1-4955-8c64-7be39b9c6010",
+    "duration_ms": 250000,
+    "genre": []
+  },
+  {
+    "song": "Save My Love",
+    "artists": [
+      "Marshmello",
+      "Ellie Goulding",
+      "Avaion"
+    ],
+    "isrc": "USUG12504310",
+    "start_time": "2025-11-11 04:22:27",
+    "radio": "expres",
+    "recorded_at": "2025-11-11T04:22:42.027577+01:00",
+    "raw_valid": true,
+    "song_session_id": "ea4749df-a83d-4324-a2ad-f343222588c9",
+    "duration_ms": 215555,
+    "genre": []
+  },
+  {
+    "song": "Gravitacia",
+    "artists": [
+      "Zuzana Smatanova"
+    ],
+    "isrc": "SKI942300703",
+    "start_time": "2025-11-11 04:26:09",
+    "radio": "expres",
+    "recorded_at": "2025-11-11T04:26:24.586509+01:00",
+    "raw_valid": true,
+    "song_session_id": "8eb052e3-0305-4aa6-b9eb-499cacefbc4c",
+    "duration_ms": 195101,
+    "genre": []
+  },
+  {
+    "song": "O.k.o",
+    "artists": [
+      "Michael Patrick Kelly"
+    ],
+    "isrc": "DEE862201502",
+    "start_time": "2025-11-11 04:29:27",
+    "radio": "expres",
+    "recorded_at": "2025-11-11T04:29:49.444432+01:00",
+    "raw_valid": true,
+    "song_session_id": "44602b2b-ae1f-4557-b07c-829f100fe22c",
+    "duration_ms": 189080,
+    "genre": []
+  },
+  {
+    "song": "Undressed",
+    "artists": [
+      "Sombr"
+    ],
+    "isrc": "USWB12500737",
+    "start_time": "2025-11-11 04:32:38",
+    "radio": "expres",
+    "recorded_at": "2025-11-11T04:32:59.994765+01:00",
+    "raw_valid": true,
+    "song_session_id": "87977cf8-9c89-4513-a5b9-07049473cfe3",
+    "duration_ms": 182088,
+    "genre": [
+      "indie pop"
+    ]
+  },
+  {
+    "song": "Umenie Zit",
+    "artists": [
+      "Vaso Patejdl"
+    ],
+    "isrc": "SKA128784002",
+    "start_time": "2025-11-11 04:35:44",
+    "radio": "expres",
+    "recorded_at": "2025-11-11T04:36:08.969409+01:00",
+    "raw_valid": true,
+    "song_session_id": "8f4a1b3f-c07c-44d3-a84e-c92fec2d92ae",
+    "duration_ms": 273933,
+    "genre": []
+  },
+  {
+    "song": "Heaven Is A Place On Earth",
+    "artists": [
+      "Belinda Carlisle"
+    ],
+    "isrc": "GBBLG8700257",
+    "start_time": "2025-11-11 04:39:20",
+    "radio": "expres",
+    "recorded_at": "2025-11-11T04:39:48.259828+01:00",
+    "raw_valid": true,
+    "song_session_id": "75c39ab2-a19c-492a-bcea-9fd941859658",
+    "duration_ms": 234333,
+    "genre": []
+  },
+  {
+    "song": "V Cudzom Meste",
+    "artists": [
+      "Jana Kirschner"
+    ],
+    "isrc": "SKA010003305",
+    "start_time": "2025-11-11 04:43:30",
+    "radio": "expres",
+    "recorded_at": "2025-11-11T04:43:48.052487+01:00",
+    "raw_valid": true,
+    "song_session_id": "697c2380-1a12-456c-a052-b6f9fc4bf4ee",
+    "duration_ms": 201320,
+    "genre": []
+  },
+  {
+    "song": "Talk To Me",
+    "artists": [
+      "Damiano David",
+      "Tyla",
+      "Nile Rodgers"
+    ],
+    "isrc": "ITB002500942",
+    "start_time": "2025-11-11 04:46:31",
+    "radio": "expres",
+    "recorded_at": "2025-11-11T04:47:00.946910+01:00",
+    "raw_valid": true,
+    "song_session_id": "4b9a7d7b-5f1a-453b-be31-e245cfe558e9",
+    "duration_ms": 193502,
+    "genre": []
+  },
+  {
+    "song": "Van Goghovo Ucho",
+    "artists": [
+      "Elan"
+    ],
+    "isrc": "SKA128912910",
+    "start_time": "2025-11-11 04:50:07",
+    "radio": "expres",
+    "recorded_at": "2025-11-11T04:50:34.696684+01:00",
+    "raw_valid": true,
+    "song_session_id": "da899fde-187d-45aa-b636-d8d4f7a4b782",
+    "duration_ms": 355026,
+    "genre": []
+  },
+  {
+    "song": "Billionaire",
+    "artists": [
+      "Travie Mccoy",
+      "Bruno Mars"
+    ],
+    "isrc": "USAT21000257",
+    "start_time": "2025-11-11 04:54:30",
+    "radio": "expres",
+    "recorded_at": "2025-11-11T04:54:59.057752+01:00",
+    "raw_valid": true,
+    "song_session_id": "f3bcf3db-4a68-4db2-be08-aad5e1c91cea",
+    "duration_ms": 211160,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Otazka Za Milion",
+    "artists": [
+      "Ine Kafe"
+    ],
+    "isrc": "SKA722400001",
+    "start_time": "2025-11-11 04:58:00",
+    "radio": "expres",
+    "recorded_at": "2025-11-11T04:58:26.694513+01:00",
+    "raw_valid": true,
+    "song_session_id": "987f8290-e030-4c70-b964-f90c40208ab7",
+    "duration_ms": 220400,
+    "genre": []
+  },
+  {
+    "song": "Afterlife",
+    "artists": [
+      "Michael Schulte"
+    ],
+    "isrc": "DECE72500509",
+    "start_time": "2025-11-11 05:01:47",
+    "radio": "expres",
+    "recorded_at": "2025-11-11T05:02:15.961083+01:00",
+    "raw_valid": true,
+    "song_session_id": "4dc28a1c-70be-468d-8bbf-1d00d213502c",
+    "duration_ms": 160120,
+    "genre": []
+  },
+  {
+    "song": "Spravne Dievcata",
+    "artists": [
+      "Marika Gombitova"
+    ],
+    "isrc": null,
+    "start_time": "2025-11-11 05:04:34",
+    "radio": "expres",
+    "recorded_at": "2025-11-11T05:04:57.924866+01:00",
+    "raw_valid": true,
+    "song_session_id": "bbf24b18-83c8-48da-8d66-3e48f6a7f7ad"
+  },
+  {
+    "song": "Alibi",
+    "artists": [
+      "Sevdaliza",
+      "Pabllo Vittar",
+      "Yseult"
+    ],
+    "isrc": "NL47E2400004",
+    "start_time": "2025-11-11 05:08:23",
+    "radio": "expres",
+    "recorded_at": "2025-11-11T05:08:58.340156+01:00",
+    "raw_valid": true,
+    "song_session_id": "968a4ab6-0718-427f-a84b-7edd2d9844bb",
+    "duration_ms": 161655,
+    "genre": []
+  },
+  {
+    "song": "Slnko Nevychadzaj",
+    "artists": [
+      "Metalinda"
+    ],
+    "isrc": "SKG871600305",
+    "start_time": "2025-11-11 05:11:09",
+    "radio": "expres",
+    "recorded_at": "2025-11-11T05:11:46.088845+01:00",
+    "raw_valid": true,
+    "song_session_id": "3163abb8-ade9-4137-a092-36ea53bb8804",
+    "duration_ms": 267000,
+    "genre": []
+  },
+  {
+    "song": "Everytime",
+    "artists": [
+      "Britney Spears"
+    ],
+    "isrc": "USJI10301010",
+    "start_time": "2025-11-11 05:15:09",
+    "radio": "expres",
+    "recorded_at": "2025-11-11T05:15:44.470045+01:00",
+    "raw_valid": true,
+    "song_session_id": "a07331d7-16d7-4fbf-a554-0eed4c778891",
+    "duration_ms": 230320,
+    "genre": [
+      "electronic"
+    ]
+  },
+  {
+    "song": "Lietam V Tom Tiez",
+    "artists": [
+      "Team"
+    ],
+    "isrc": "SKA128917006",
+    "start_time": "2025-11-11 05:18:49",
+    "radio": "expres",
+    "recorded_at": "2025-11-11T05:19:18.777384+01:00",
+    "raw_valid": true,
+    "song_session_id": "0a666e8d-2ea8-4333-8def-52e723429c61",
+    "duration_ms": 233253,
+    "genre": []
+  },
+  {
+    "song": "Love Me Not",
+    "artists": [
+      "Ravyn Lenae"
+    ],
+    "isrc": "USAT22401137",
+    "start_time": "2025-11-11 05:22:32",
+    "radio": "expres",
+    "recorded_at": "2025-11-11T05:23:05.285566+01:00",
+    "raw_valid": true,
+    "song_session_id": "631b1052-c766-4a04-ac26-7591ea12564d",
+    "duration_ms": 213466,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Chcem Znamenie",
+    "artists": [
+      "Dara Rolins"
+    ],
+    "isrc": "USDY41511079",
+    "start_time": "2025-11-11 05:26:07",
+    "radio": "expres",
+    "recorded_at": "2025-11-11T05:26:24.354965+01:00",
+    "raw_valid": true,
+    "song_session_id": "01555b22-a841-478b-92bc-20541f0831c2",
+    "duration_ms": 218005,
+    "genre": []
+  },
+  {
+    "song": "Gimme Love",
+    "artists": [
+      "Sia"
+    ],
+    "isrc": "USAT22307798",
+    "start_time": "2025-11-11 05:29:49",
+    "radio": "expres",
+    "recorded_at": "2025-11-11T05:30:08.529865+01:00",
+    "raw_valid": true,
+    "song_session_id": "a6ac8527-2929-41c1-b72d-c64194f8c0a8",
+    "duration_ms": 214074,
+    "genre": []
+  },
+  {
+    "song": "Million Good Reasons",
+    "artists": [
+      "Robin Schulz",
+      "Fast Boy"
+    ],
+    "isrc": "DEA622404738",
+    "start_time": "2025-11-11 05:33:27",
+    "radio": "expres",
+    "recorded_at": "2025-11-11T05:33:50.185633+01:00",
+    "raw_valid": true,
+    "song_session_id": "185b4a7c-1fb3-4b46-aa98-f0c37e3c3d2e",
+    "duration_ms": 157130,
+    "genre": []
+  },
+  {
+    "song": "Vietor",
+    "artists": [
+      "Adam Durica"
+    ],
+    "isrc": "SKA012300351",
+    "start_time": "2025-11-11 05:36:01",
+    "radio": "expres",
+    "recorded_at": "2025-11-11T05:36:27.976503+01:00",
+    "raw_valid": true,
+    "song_session_id": "bd4bebe4-9c7b-4384-bbb7-8e1bb6fb41f8",
+    "duration_ms": 215240,
+    "genre": []
+  },
+  {
+    "song": "Somebody That I Used To Know",
+    "artists": [
+      "Gotye",
+      "Kimbra"
+    ],
+    "isrc": "AUZS21100040",
+    "start_time": "2025-11-11 05:39:34",
+    "radio": "expres",
+    "recorded_at": "2025-11-11T05:39:52.634312+01:00",
+    "raw_valid": true,
+    "song_session_id": "af7c7141-590a-43d9-a629-592b94433744",
+    "duration_ms": 245755,
+    "genre": [
+      "trip-hop"
+    ]
+  },
+  {
+    "song": "Stratena",
+    "artists": [
+      "Lina Mayer"
+    ],
+    "isrc": "SKK312100201",
+    "start_time": "2025-11-11 05:43:48",
+    "radio": "expres",
+    "recorded_at": "2025-11-11T05:44:11.923035+01:00",
+    "raw_valid": true,
+    "song_session_id": "f4e6501a-73c6-414a-b7df-46cf62c6d5c6",
+    "duration_ms": 221304,
+    "genre": []
+  },
+  {
+    "song": "Golden",
+    "artists": [
+      "Kpop Demon Hunters"
+    ],
+    "isrc": "QZ8BZ2513510",
+    "start_time": "2025-11-11 05:47:28",
+    "radio": "expres",
+    "recorded_at": "2025-11-11T05:47:56.345035+01:00",
+    "raw_valid": true,
+    "song_session_id": "cbc0d576-1229-4119-82c2-3c787ecc4809",
+    "duration_ms": 194607,
+    "genre": [
+      "korean"
+    ]
+  },
+  {
+    "song": "V Dolinach",
+    "artists": [
+      "Desmod"
+    ],
+    "isrc": "CZA210600107",
+    "start_time": "2025-11-11 05:50:12",
+    "radio": "expres",
+    "recorded_at": "2025-11-11T05:50:35.531595+01:00",
+    "raw_valid": true,
+    "song_session_id": "5ad5a8ef-fa4d-4df6-90cf-a7224b004e75",
+    "duration_ms": 208693,
+    "genre": []
+  },
+  {
+    "song": "Training Season",
+    "artists": [
+      "Dua Lipa"
+    ],
+    "isrc": "GBAHT2301078",
+    "start_time": "2025-11-11 05:53:32",
+    "radio": "expres",
+    "recorded_at": "2025-11-11T05:54:02.107034+01:00",
+    "raw_valid": true,
+    "song_session_id": "5b0934e9-ceca-459f-88e9-1d13a54627a5",
+    "duration_ms": 209487,
+    "genre": [
+      "electronic"
+    ]
+  },
+  {
+    "song": "Renesancia",
+    "artists": [
+      "Peha"
+    ],
+    "isrc": "CZA110500034",
+    "start_time": "2025-11-11 05:57:11",
+    "radio": "expres",
+    "recorded_at": "2025-11-11T05:57:44.756098+01:00",
+    "raw_valid": true,
+    "song_session_id": "e7d5fc93-1164-4e8d-8193-db4a0e9ec1f1",
+    "duration_ms": 212333,
+    "genre": []
+  }
+]

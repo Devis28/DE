@@ -1,0 +1,465 @@
+[
+  {
+    "song": "Mystical Magical",
+    "artists": [
+      "Benson Boone"
+    ],
+    "isrc": "USWB12500844",
+    "start_time": "2025-11-16 12:05:57",
+    "radio": "expres",
+    "recorded_at": "2025-11-16T12:06:24.242870+01:00",
+    "raw_valid": true,
+    "song_session_id": "d19d759b-cb52-47cf-a599-d365e1dc599e",
+    "duration_ms": 165746,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Angels",
+    "artists": [
+      "Robbie Williams"
+    ],
+    "isrc": "GBAYE9700233",
+    "start_time": "2025-11-16 12:08:49",
+    "radio": "expres",
+    "recorded_at": "2025-11-16T12:09:27.965548+01:00",
+    "raw_valid": true,
+    "song_session_id": "7d7d119b-a074-4924-bfc0-d8be42625cee",
+    "duration_ms": 265733,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Dive",
+    "artists": [
+      "Lost Frequencies",
+      "Tom Gregory"
+    ],
+    "isrc": "BEHP42300028",
+    "start_time": "2025-11-16 12:13:06",
+    "radio": "expres",
+    "recorded_at": "2025-11-16T12:13:45.030730+01:00",
+    "raw_valid": true,
+    "song_session_id": "667b9bb1-e0ee-4a03-93ee-54210ed2f37c",
+    "duration_ms": 161093,
+    "genre": []
+  },
+  {
+    "song": "Danza Kuduro",
+    "artists": [
+      "Lucenzo",
+      "Don Omar"
+    ],
+    "isrc": "USUM71020778",
+    "start_time": "2025-11-16 12:16:04",
+    "radio": "expres",
+    "recorded_at": "2025-11-16T12:16:25.648880+01:00",
+    "raw_valid": true,
+    "song_session_id": "29df13d9-b26a-4038-a201-6a2a0fdfb373",
+    "duration_ms": 198786,
+    "genre": []
+  },
+  {
+    "song": "Eternity",
+    "artists": [
+      "Alex Warren"
+    ],
+    "isrc": "USAT22503779",
+    "start_time": "2025-11-16 12:19:29",
+    "radio": "expres",
+    "recorded_at": "2025-11-16T12:20:11.852660+01:00",
+    "raw_valid": true,
+    "song_session_id": "f0348d4b-ed28-4241-80d6-9bd1410f43f1",
+    "duration_ms": 189553,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Holding Out For A Hero",
+    "artists": [
+      "Bonnie Tyler"
+    ],
+    "isrc": "USSM18300449",
+    "start_time": "2025-11-16 12:23:09",
+    "radio": "expres",
+    "recorded_at": "2025-11-16T12:23:46.070571+01:00",
+    "raw_valid": true,
+    "song_session_id": "ec9f6eaa-35f2-46b9-9afa-88dd6d794675",
+    "duration_ms": 349893,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Stars Will Align",
+    "artists": [
+      "Kygo",
+      "Imagine Dragons"
+    ],
+    "isrc": "SEBGA2401211",
+    "start_time": "2025-11-16 12:26:27",
+    "radio": "expres",
+    "recorded_at": "2025-11-16T12:27:06.091147+01:00",
+    "raw_valid": true,
+    "song_session_id": "404b8a7a-69f3-4c27-b59f-307a0985ff90",
+    "duration_ms": 234366,
+    "genre": []
+  },
+  {
+    "song": "Undressed",
+    "artists": [
+      "Sombr"
+    ],
+    "isrc": "USWB12500737",
+    "start_time": "2025-11-16 12:32:34",
+    "radio": "expres",
+    "recorded_at": "2025-11-16T12:33:08.905648+01:00",
+    "raw_valid": true,
+    "song_session_id": "61aba05a-ce5d-40e8-86a1-23ebece265eb",
+    "duration_ms": 182088,
+    "genre": [
+      "indie pop"
+    ]
+  },
+  {
+    "song": "Whered You Go",
+    "artists": [
+      "Fort Minor",
+      "Holly Brook"
+    ],
+    "isrc": "USWB10504785",
+    "start_time": "2025-11-16 12:35:44",
+    "radio": "expres",
+    "recorded_at": "2025-11-16T12:36:15.302190+01:00",
+    "raw_valid": true,
+    "song_session_id": "85561767-dd42-448c-9598-e7ba2b0044ee",
+    "duration_ms": 231866,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "21 Guns",
+    "artists": [
+      "Green Day"
+    ],
+    "isrc": "USRE10900679",
+    "start_time": "2025-11-16 12:39:25",
+    "radio": "expres",
+    "recorded_at": "2025-11-16T12:39:50.286094+01:00",
+    "raw_valid": true,
+    "song_session_id": "8d786826-8cf8-492b-ace4-21488edc849e",
+    "duration_ms": 322040,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Wonderful Life 25",
+    "artists": [
+      "Hurts",
+      "Purple Disco Machine"
+    ],
+    "isrc": "DEE862500677",
+    "start_time": "2025-11-16 12:44:10",
+    "radio": "expres",
+    "recorded_at": "2025-11-16T12:44:31.334251+01:00",
+    "raw_valid": true,
+    "song_session_id": "1b467a65-65c4-4570-ba65-2f64e1d3df94",
+    "duration_ms": 178658,
+    "genre": []
+  },
+  {
+    "song": "Vela Lasky",
+    "artists": [
+      "Imt Smile"
+    ],
+    "isrc": "SKA011200004",
+    "start_time": "2025-11-16 12:47:24",
+    "radio": "expres",
+    "recorded_at": "2025-11-16T12:47:50.352907+01:00",
+    "raw_valid": true,
+    "song_session_id": "bcc2b65f-2471-452c-aee7-74ad87dee7d2",
+    "duration_ms": 195293,
+    "genre": []
+  },
+  {
+    "song": "Good News",
+    "artists": [
+      "Shaboozey"
+    ],
+    "isrc": "USUYG1580113",
+    "start_time": "2025-11-16 12:50:34",
+    "radio": "expres",
+    "recorded_at": "2025-11-16T12:51:13.351759+01:00",
+    "raw_valid": true,
+    "song_session_id": "218702fe-6370-49dd-b9ec-a776ccdacfe1",
+    "duration_ms": 199209,
+    "genre": []
+  },
+  {
+    "song": "Quit Playing Games With My Heart",
+    "artists": [
+      "Backstreet Boys"
+    ],
+    "isrc": "USJI19710152",
+    "start_time": "2025-11-16 12:53:55",
+    "radio": "expres",
+    "recorded_at": "2025-11-16T12:54:35.355076+01:00",
+    "raw_valid": true,
+    "song_session_id": "a0a1ce1e-cda3-45c3-ba8b-afc0067e978e",
+    "duration_ms": 232466,
+    "genre": [
+      "electronic"
+    ]
+  },
+  {
+    "song": "Hall Of Fame",
+    "artists": [
+      "Script",
+      "Will I Am"
+    ],
+    "isrc": "GBARL1201055",
+    "start_time": "2025-11-16 12:57:54",
+    "radio": "expres",
+    "recorded_at": "2025-11-16T12:58:14.445243+01:00",
+    "raw_valid": true,
+    "song_session_id": "bebbf2c5-3b6b-4b5d-901a-7693cc8d5d56",
+    "duration_ms": 201240,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Feelslikeimfallinginlove",
+    "artists": [
+      "Coldplay"
+    ],
+    "isrc": "GBAYE2400676",
+    "start_time": "2025-11-16 13:06:44",
+    "radio": "expres",
+    "recorded_at": "2025-11-16T13:07:18.911864+01:00",
+    "raw_valid": true,
+    "song_session_id": "dd6e1090-fa6b-49d4-a9a1-1e718c254ace",
+    "duration_ms": 237803,
+    "genre": [
+      "alternative rock"
+    ]
+  },
+  {
+    "song": "I Will Always Love You",
+    "artists": [
+      "Whitney Houston"
+    ],
+    "isrc": "USAR19200110",
+    "start_time": "2025-11-16 13:10:31",
+    "radio": "expres",
+    "recorded_at": "2025-11-16T13:10:57.424145+01:00",
+    "raw_valid": true,
+    "song_session_id": "5e6b4cd7-b939-4ec7-80dd-ff26438574d3",
+    "duration_ms": 270946,
+    "genre": [
+      "electronic"
+    ]
+  },
+  {
+    "song": "Afterlife",
+    "artists": [
+      "Michael Schulte"
+    ],
+    "isrc": "DECE72500509",
+    "start_time": "2025-11-16 13:14:55",
+    "radio": "expres",
+    "recorded_at": "2025-11-16T13:15:21.386911+01:00",
+    "raw_valid": true,
+    "song_session_id": "7a7a6aa9-5780-474f-a7b0-c2c77e28a7c6",
+    "duration_ms": 160120,
+    "genre": []
+  },
+  {
+    "song": "Girls Go Wild",
+    "artists": [
+      "Lp"
+    ],
+    "isrc": "QMRSZ1801659",
+    "start_time": "2025-11-16 13:17:34",
+    "radio": "expres",
+    "recorded_at": "2025-11-16T13:18:01.349097+01:00",
+    "raw_valid": true,
+    "song_session_id": "1d668577-2c99-4f23-be81-9bf009bddb42",
+    "duration_ms": 223426,
+    "genre": []
+  },
+  {
+    "song": "I Like The Way You Kiss Me",
+    "artists": [
+      "Artemas"
+    ],
+    "isrc": "QZJ842400387",
+    "start_time": "2025-11-16 13:21:17",
+    "radio": "expres",
+    "recorded_at": "2025-11-16T13:21:42.263778+01:00",
+    "raw_valid": true,
+    "song_session_id": "11b70253-bf30-45f4-a8b6-b004278e2ce4",
+    "duration_ms": 142514,
+    "genre": [
+      "pop rock"
+    ]
+  },
+  {
+    "song": "Alone",
+    "artists": [
+      "Heart"
+    ],
+    "isrc": "USCA28700690",
+    "start_time": "2025-11-16 13:23:41",
+    "radio": "expres",
+    "recorded_at": "2025-11-16T13:24:09.368636+01:00",
+    "raw_valid": true,
+    "song_session_id": "76eb410b-f15a-479d-ad0d-bdb5152dd7cf",
+    "duration_ms": 218733,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Pre Vas Hram",
+    "artists": [
+      "Kali",
+      "Karol Duchon",
+      "Peter Pann"
+    ],
+    "isrc": "CZA232500151",
+    "start_time": "2025-11-16 13:26:48",
+    "radio": "expres",
+    "recorded_at": "2025-11-16T13:27:22.811562+01:00",
+    "raw_valid": true,
+    "song_session_id": "ca23c184-bd2b-467b-af7b-0ec2898219d1",
+    "duration_ms": 149118,
+    "genre": []
+  },
+  {
+    "song": "Million Good Reasons",
+    "artists": [
+      "Robin Schulz",
+      "Fast Boy"
+    ],
+    "isrc": "DEA622404738",
+    "start_time": "2025-11-16 13:32:18",
+    "radio": "expres",
+    "recorded_at": "2025-11-16T13:32:43.332280+01:00",
+    "raw_valid": true,
+    "song_session_id": "3b87bc09-360f-4e7f-8338-d6c1766f15d0",
+    "duration_ms": 157130,
+    "genre": []
+  },
+  {
+    "song": "Keby Si Bol Moj",
+    "artists": [
+      "Jana Kirschner"
+    ],
+    "isrc": "SKA011000039",
+    "start_time": "2025-11-16 13:34:58",
+    "radio": "expres",
+    "recorded_at": "2025-11-16T13:35:20.719902+01:00",
+    "raw_valid": true,
+    "song_session_id": "eb905696-436e-4a5a-b007-b79edb528261",
+    "duration_ms": 370533,
+    "genre": []
+  },
+  {
+    "song": "Dusk Till Dawn",
+    "artists": [
+      "Zayn",
+      "Sia"
+    ],
+    "isrc": "USRC11702155",
+    "start_time": "2025-11-16 13:38:41",
+    "radio": "expres",
+    "recorded_at": "2025-11-16T13:39:10.472788+01:00",
+    "raw_valid": true,
+    "song_session_id": "630bf70c-f181-4d1d-a137-e57fd3299f03",
+    "duration_ms": 239000,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Pride",
+    "artists": [
+      "Felix Jaehn",
+      "Jhart"
+    ],
+    "isrc": "DEUM72503423",
+    "start_time": "2025-11-16 13:42:37",
+    "radio": "expres",
+    "recorded_at": "2025-11-16T13:43:10.607835+01:00",
+    "raw_valid": true,
+    "song_session_id": "d508748a-5d0f-47e0-968c-0eddc5cbf5f6",
+    "duration_ms": 158150,
+    "genre": []
+  },
+  {
+    "song": "Rano",
+    "artists": [
+      "Ine Kafe"
+    ],
+    "isrc": "SKA880000304",
+    "start_time": "2025-11-16 13:45:30",
+    "radio": "expres",
+    "recorded_at": "2025-11-16T13:46:03.388500+01:00",
+    "raw_valid": true,
+    "song_session_id": "2cd2b212-8bf5-4a56-92b8-9375bb069d91",
+    "duration_ms": 237800,
+    "genre": []
+  },
+  {
+    "song": "Simple Life",
+    "artists": [
+      "Leony"
+    ],
+    "isrc": "DEN062400058",
+    "start_time": "2025-11-16 13:49:23",
+    "radio": "expres",
+    "recorded_at": "2025-11-16T13:49:53.979535+01:00",
+    "raw_valid": true,
+    "song_session_id": "b5fd677e-0842-4b71-9c60-bb8825441040",
+    "duration_ms": 153100,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Talk To Me",
+    "artists": [
+      "Damiano David",
+      "Tyla",
+      "Nile Rodgers"
+    ],
+    "isrc": "ITB002500942",
+    "start_time": "2025-11-16 13:51:55",
+    "radio": "expres",
+    "recorded_at": "2025-11-16T13:52:34.755634+01:00",
+    "raw_valid": true,
+    "song_session_id": "2eac0c72-4579-44bd-a202-078585e716ea",
+    "duration_ms": 193502,
+    "genre": []
+  },
+  {
+    "song": "Ty A Ja",
+    "artists": [
+      "Krystof"
+    ],
+    "isrc": "CZUM71500172",
+    "start_time": "2025-11-16 13:55:28",
+    "radio": "expres",
+    "recorded_at": "2025-11-16T13:55:47.881132+01:00",
+    "raw_valid": true,
+    "song_session_id": "28b62837-866a-4f5d-9164-d6959f31749f",
+    "duration_ms": 270000,
+    "genre": []
+  }
+]

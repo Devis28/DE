@@ -1,0 +1,459 @@
+[
+  {
+    "song": "Wonderful Life 25",
+    "artists": [
+      "Hurts",
+      "Purple Disco Machine"
+    ],
+    "isrc": "DEE862500677",
+    "start_time": "2025-12-04 19:06:29",
+    "radio": "expres",
+    "recorded_at": "2025-12-04T19:06:40.226177+01:00",
+    "raw_valid": true,
+    "song_session_id": "746566ed-8b98-444d-a60b-42317f29a2fa",
+    "duration_ms": 178658,
+    "genre": []
+  },
+  {
+    "song": "It Aint Me",
+    "artists": [
+      "Kygo",
+      "Selena Gomez"
+    ],
+    "isrc": "SEBGA1700015",
+    "start_time": "2025-12-04 19:09:28",
+    "radio": "expres",
+    "recorded_at": "2025-12-04T19:09:42.857011+01:00",
+    "raw_valid": true,
+    "song_session_id": "98982f04-d961-4544-aade-083b6a9ddefa",
+    "duration_ms": 220780,
+    "genre": [
+      "electronic"
+    ]
+  },
+  {
+    "song": "Gone Gone Gone",
+    "artists": [
+      "David Guetta",
+      "Teddy Swims",
+      "Tones And I"
+    ],
+    "isrc": "UKWLG2500132",
+    "start_time": "2025-12-04 19:12:58",
+    "radio": "expres",
+    "recorded_at": "2025-12-04T19:13:20.910856+01:00",
+    "raw_valid": true,
+    "song_session_id": "be66bef0-0bd5-45b9-a296-e5edb1862c48",
+    "duration_ms": 198004,
+    "genre": [
+      "soul"
+    ]
+  },
+  {
+    "song": "Desert Rose",
+    "artists": [
+      "Sting"
+    ],
+    "isrc": "USIR19902517",
+    "start_time": "2025-12-04 19:16:37",
+    "radio": "expres",
+    "recorded_at": "2025-12-04T19:17:04.175990+01:00",
+    "raw_valid": true,
+    "song_session_id": "8204092e-d52d-4105-b3a1-3621fc2f253b",
+    "duration_ms": 290626,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Na Vianoce Domov",
+    "artists": [
+      "Alan Murin",
+      "Radio Expres"
+    ],
+    "isrc": "QZYFZ2540500",
+    "start_time": "2025-12-04 19:21:33",
+    "radio": "expres",
+    "recorded_at": "2025-12-04T19:21:48.048176+01:00",
+    "raw_valid": true,
+    "song_session_id": "c50d1702-0f6e-48bb-bc3b-87e7849532f0",
+    "duration_ms": 240000,
+    "genre": []
+  },
+  {
+    "song": "Blank Space",
+    "artists": [
+      "Taylor Swift"
+    ],
+    "isrc": "USCJY1431309",
+    "start_time": "2025-12-04 19:25:35",
+    "radio": "expres",
+    "recorded_at": "2025-12-04T19:25:46.425757+01:00",
+    "raw_valid": true,
+    "song_session_id": "be16bc47-ad39-4475-b217-eba1b47f9f95",
+    "duration_ms": 231826,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Mystical Magical",
+    "artists": [
+      "Benson Boone"
+    ],
+    "isrc": "USWB12500844",
+    "start_time": "2025-12-04 19:33:27",
+    "radio": "expres",
+    "recorded_at": "2025-12-04T19:33:47.951292+01:00",
+    "raw_valid": true,
+    "song_session_id": "c610b1c7-d019-4f82-b9c8-403586397462",
+    "duration_ms": 165746,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Wrecked",
+    "artists": [
+      "Imagine Dragons"
+    ],
+    "isrc": "USUM72110166",
+    "start_time": "2025-12-04 19:36:12",
+    "radio": "expres",
+    "recorded_at": "2025-12-04T19:36:30.534388+01:00",
+    "raw_valid": true,
+    "song_session_id": "cee9f56b-1930-440e-a7f6-7cf355a250c8",
+    "duration_ms": 244004,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Head Above Water",
+    "artists": [
+      "Twocolors",
+      "Safri Duo",
+      "Chris De Sarandy"
+    ],
+    "isrc": "DEUM72503698",
+    "start_time": "2025-12-04 19:40:21",
+    "radio": "expres",
+    "recorded_at": "2025-12-04T19:40:33.958205+01:00",
+    "raw_valid": true,
+    "song_session_id": "351c8920-752f-462b-8e1e-e17d82847550",
+    "duration_ms": 174550,
+    "genre": []
+  },
+  {
+    "song": "Living On A Prayer",
+    "artists": [
+      "Bon Jovi"
+    ],
+    "isrc": "FRX452106165",
+    "start_time": "2025-12-04 19:43:20",
+    "radio": "expres",
+    "recorded_at": "2025-12-04T19:43:31.940108+01:00",
+    "raw_valid": true,
+    "song_session_id": "ec7b3199-85a2-4a61-b294-4d339659ea38",
+    "duration_ms": 167368,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Blood Running",
+    "artists": [
+      "Ray Dalton"
+    ],
+    "isrc": "DEUM72507812",
+    "start_time": "2025-12-04 19:46:56",
+    "radio": "expres",
+    "recorded_at": "2025-12-04T19:47:15.193817+01:00",
+    "raw_valid": true,
+    "song_session_id": "228d7fdd-0d6e-4850-bcd3-222faf49c92f",
+    "duration_ms": 173146,
+    "genre": []
+  },
+  {
+    "song": "Let Me Die",
+    "artists": [
+      "Mark Dann",
+      "Giovanni Ricci"
+    ],
+    "isrc": "US38Y2520370",
+    "start_time": "2025-12-04 19:50:10",
+    "radio": "expres",
+    "recorded_at": "2025-12-04T19:50:33.091588+01:00",
+    "raw_valid": true,
+    "song_session_id": "9babb2d2-c29f-478e-ada0-2a2461c36c18",
+    "duration_ms": 147010,
+    "genre": [
+      "slap house"
+    ]
+  },
+  {
+    "song": "Californication",
+    "artists": [
+      "Red Hot Chili Peppers"
+    ],
+    "isrc": "USWB19900690",
+    "start_time": "2025-12-04 19:52:42",
+    "radio": "expres",
+    "recorded_at": "2025-12-04T19:52:55.246220+01:00",
+    "raw_valid": true,
+    "song_session_id": "23622fb1-a125-4b1c-bb63-fb00c2069d12",
+    "duration_ms": 329733,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "El Perdon",
+    "artists": [
+      "Nicky Jam",
+      "Enrique Iglesias"
+    ],
+    "isrc": "USSD11500005",
+    "start_time": "2025-12-04 19:56:15",
+    "radio": "expres",
+    "recorded_at": "2025-12-04T19:56:38.364976+01:00",
+    "raw_valid": true,
+    "song_session_id": "4c49cf9f-1780-40ec-af06-1a2c17e3096f",
+    "duration_ms": 207837,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Undressed",
+    "artists": [
+      "Sombr"
+    ],
+    "isrc": "USWB12500737",
+    "start_time": "2025-12-04 20:05:03",
+    "radio": "expres",
+    "recorded_at": "2025-12-04T20:05:20.013690+01:00",
+    "raw_valid": true,
+    "song_session_id": "7a0826a6-1aff-4dfb-81ac-aa928fbad8ad",
+    "duration_ms": 182088,
+    "genre": [
+      "indie pop"
+    ]
+  },
+  {
+    "song": "Niekto Ti To Povie Skor Nez Ja",
+    "artists": [
+      "Desmod"
+    ],
+    "isrc": "CZA210600216",
+    "start_time": "2025-12-04 20:08:13",
+    "radio": "expres",
+    "recorded_at": "2025-12-04T20:08:22.627531+01:00",
+    "raw_valid": true,
+    "song_session_id": "99ca1954-c19d-4963-a68a-22829bcf5afb",
+    "duration_ms": 275800,
+    "genre": []
+  },
+  {
+    "song": "Overdrive",
+    "artists": [
+      "Ofenbach",
+      "Norma Jean Martine"
+    ],
+    "isrc": "FR9W12347222",
+    "start_time": "2025-12-04 20:12:35",
+    "radio": "expres",
+    "recorded_at": "2025-12-04T20:12:46.300104+01:00",
+    "raw_valid": true,
+    "song_session_id": "8db2f4de-8706-4e7f-b1f3-23ac79396cee",
+    "duration_ms": 155905,
+    "genre": []
+  },
+  {
+    "song": "Bad Habits",
+    "artists": [
+      "Ed Sheeran"
+    ],
+    "isrc": "GBAHS2100318",
+    "start_time": "2025-12-04 20:15:11",
+    "radio": "expres",
+    "recorded_at": "2025-12-04T20:15:23.726100+01:00",
+    "raw_valid": true,
+    "song_session_id": "ed9bc0f9-d470-453c-8c48-773bdeabf570",
+    "duration_ms": 230746,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Man I Need",
+    "artists": [
+      "Olivia Dean"
+    ],
+    "isrc": "GBUM72503089",
+    "start_time": "2025-12-04 20:18:54",
+    "radio": "expres",
+    "recorded_at": "2025-12-04T20:19:06.852387+01:00",
+    "raw_valid": true,
+    "song_session_id": "6caeeb6c-8ec2-4e3b-ac36-65d699dbe146",
+    "duration_ms": 184000,
+    "genre": [
+      "offizielle charts"
+    ]
+  },
+  {
+    "song": "Like A Prayer",
+    "artists": [
+      "Madonna"
+    ],
+    "isrc": "USWB10903606",
+    "start_time": "2025-12-04 20:22:15",
+    "radio": "expres",
+    "recorded_at": "2025-12-04T20:22:29.993752+01:00",
+    "raw_valid": true,
+    "song_session_id": "18e47ff0-c3dc-4791-924d-99d41b2b0ff1",
+    "duration_ms": 342680,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Ordinary",
+    "artists": [
+      "Alex Warren"
+    ],
+    "isrc": "USAT22500463",
+    "start_time": "2025-12-04 20:25:18",
+    "radio": "expres",
+    "recorded_at": "2025-12-04T20:25:27.601040+01:00",
+    "raw_valid": true,
+    "song_session_id": "6992e802-5111-4d62-a100-1a8abc1fce5f",
+    "duration_ms": 186964,
+    "genre": [
+      "folk"
+    ]
+  },
+  {
+    "song": "Vianocny Cas",
+    "artists": [
+      "Emma Drobna"
+    ],
+    "isrc": "SKB452300101",
+    "start_time": "2025-12-04 20:28:26",
+    "radio": "expres",
+    "recorded_at": "2025-12-04T20:28:50.618962+01:00",
+    "raw_valid": true,
+    "song_session_id": "ee4dd7f7-1ee0-47ad-81cc-c63498d48464",
+    "duration_ms": 173151,
+    "genre": []
+  },
+  {
+    "song": "Pride",
+    "artists": [
+      "Felix Jaehn",
+      "Jhart"
+    ],
+    "isrc": "DEUM72503423",
+    "start_time": "2025-12-04 20:32:30",
+    "radio": "expres",
+    "recorded_at": "2025-12-04T20:32:54.111798+01:00",
+    "raw_valid": true,
+    "song_session_id": "4e4a4ad1-b762-471f-9ad6-816200a832ff",
+    "duration_ms": 158150,
+    "genre": [
+      "tropical house"
+    ]
+  },
+  {
+    "song": "Grenade",
+    "artists": [
+      "Bruno Mars"
+    ],
+    "isrc": "USAT21001883",
+    "start_time": "2025-12-04 20:35:16",
+    "radio": "expres",
+    "recorded_at": "2025-12-04T20:35:31.440987+01:00",
+    "raw_valid": true,
+    "song_session_id": "d68a6584-8a07-42e7-b584-026d2d12e971",
+    "duration_ms": 222091,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Nothing Else Matters",
+    "artists": [
+      "Metallica"
+    ],
+    "isrc": "QMKHM1900008",
+    "start_time": "2025-12-04 20:38:52",
+    "radio": "expres",
+    "recorded_at": "2025-12-04T20:39:14.620680+01:00",
+    "raw_valid": true,
+    "song_session_id": "f848e8f4-b439-47c1-9ce6-8fbb50454c77",
+    "duration_ms": 388733,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Golden",
+    "artists": [
+      "Kpop Demon Hunters"
+    ],
+    "isrc": "QZ8BZ2513510",
+    "start_time": "2025-12-04 20:44:45",
+    "radio": "expres",
+    "recorded_at": "2025-12-04T20:44:59.270950+01:00",
+    "raw_valid": true,
+    "song_session_id": "e617471d-6859-4123-92a1-c67012522653",
+    "duration_ms": 194607,
+    "genre": [
+      "korean"
+    ]
+  },
+  {
+    "song": "Ak Nahodou",
+    "artists": [
+      "Darina Rolincova"
+    ],
+    "isrc": "CZA168700010",
+    "start_time": "2025-12-04 20:47:29",
+    "radio": "expres",
+    "recorded_at": "2025-12-04T20:47:36.690945+01:00",
+    "raw_valid": true,
+    "song_session_id": "297f3f6c-a2ef-4877-85fe-0648fde2cb11",
+    "duration_ms": 163066,
+    "genre": [
+      "schlager"
+    ]
+  },
+  {
+    "song": "Sorry Im Here For Someone Else",
+    "artists": [
+      "Benson Boone"
+    ],
+    "isrc": "USWB12500464",
+    "start_time": "2025-12-04 20:50:12",
+    "radio": "expres",
+    "recorded_at": "2025-12-04T20:50:39.325555+01:00",
+    "raw_valid": true,
+    "song_session_id": "455c1261-f78f-4e79-bbd8-26199e8016a1",
+    "duration_ms": 156582,
+    "genre": []
+  },
+  {
+    "song": "Ked Odchadza Niekto",
+    "artists": [
+      "Ine Kafe"
+    ],
+    "isrc": "SKA722500002",
+    "start_time": "2025-12-04 20:52:43",
+    "radio": "expres",
+    "recorded_at": "2025-12-04T20:53:01.478932+01:00",
+    "raw_valid": true,
+    "song_session_id": "b62aabbb-8ab0-4cd0-bb26-447a7a0fe4b7",
+    "duration_ms": 243720,
+    "genre": []
+  }
+]

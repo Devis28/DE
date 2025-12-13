@@ -1,0 +1,316 @@
+[
+  {
+    "song": "Wonderful Life 25",
+    "artists": [
+      "Hurts",
+      "Purple Disco Machine"
+    ],
+    "isrc": "DEE862500677",
+    "start_time": "2025-11-27 07:53:14",
+    "radio": "expres",
+    "recorded_at": "2025-11-27T07:53:33.962744+01:00",
+    "raw_valid": true,
+    "song_session_id": "9774595e-e9fa-4df2-9dc3-d13b8b99fe22",
+    "duration_ms": 178658,
+    "genre": []
+  },
+  {
+    "song": "Pride",
+    "artists": [
+      "Felix Jaehn",
+      "Jhart"
+    ],
+    "isrc": "DEUM72503423",
+    "start_time": "2025-11-27 08:08:20",
+    "radio": "expres",
+    "recorded_at": "2025-11-27T08:08:35.942130+01:00",
+    "raw_valid": true,
+    "song_session_id": "e54f5c3d-c764-455d-abe8-aa9ddf8e73e9",
+    "duration_ms": 158150,
+    "genre": []
+  },
+  {
+    "song": "Beautiful People",
+    "artists": [
+      "David Guetta",
+      "Sia"
+    ],
+    "isrc": "UKWLG2500016",
+    "start_time": "2025-11-27 08:11:04",
+    "radio": "expres",
+    "recorded_at": "2025-11-27T08:11:21.776736+01:00",
+    "raw_valid": true,
+    "song_session_id": "b7d1fbac-b9e2-4c85-963e-14d887c2f7fa",
+    "duration_ms": 187086,
+    "genre": []
+  },
+  {
+    "song": "Mam V Pazi Na Lehatku",
+    "artists": [
+      "Horkyze Slize"
+    ],
+    "isrc": null,
+    "start_time": "2025-11-27 08:14:37",
+    "radio": "expres",
+    "recorded_at": "2025-11-27T08:14:56.133333+01:00",
+    "raw_valid": true,
+    "song_session_id": "b8d94670-fc59-4703-a59a-f786f73ea3df"
+  },
+  {
+    "song": "Blink Twice",
+    "artists": [
+      "Shaboozey",
+      "Myles Smith"
+    ],
+    "isrc": "USUYG1717098",
+    "start_time": "2025-11-27 08:25:54",
+    "radio": "expres",
+    "recorded_at": "2025-11-27T08:26:28.458691+01:00",
+    "raw_valid": true,
+    "song_session_id": "ffabf684-f3c4-4661-96db-0523171f6eff",
+    "duration_ms": 156721,
+    "genre": []
+  },
+  {
+    "song": "Billie Jean",
+    "artists": [
+      "Michael Jackson"
+    ],
+    "isrc": "USSM19902991",
+    "start_time": "2025-11-27 08:30:33",
+    "radio": "expres",
+    "recorded_at": "2025-11-27T08:30:57.425862+01:00",
+    "raw_valid": true,
+    "song_session_id": "fb72d28e-384a-4b4d-8ffa-899827a792d9",
+    "duration_ms": 294601,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Simple Life",
+    "artists": [
+      "Leony"
+    ],
+    "isrc": "DEN062400058",
+    "start_time": "2025-11-27 08:35:27",
+    "radio": "expres",
+    "recorded_at": "2025-11-27T08:35:41.793309+01:00",
+    "raw_valid": true,
+    "song_session_id": "d76ff931-4f3b-4b24-8c6d-b07c916cbe1b",
+    "duration_ms": 153100,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "I Want It That Way",
+    "artists": [
+      "Backstreet Boys"
+    ],
+    "isrc": "USJI19910614",
+    "start_time": "2025-11-27 08:44:32",
+    "radio": "expres",
+    "recorded_at": "2025-11-27T08:44:40.216079+01:00",
+    "raw_valid": true,
+    "song_session_id": "aac80afe-51e5-4838-8961-33d7cb7acbdf",
+    "duration_ms": 213306,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "The Fate Of Ophelia",
+    "artists": [
+      "Taylor Swift"
+    ],
+    "isrc": "USUG12506436",
+    "start_time": "2025-11-27 08:50:49",
+    "radio": "expres",
+    "recorded_at": "2025-11-27T08:51:00.787039+01:00",
+    "raw_valid": true,
+    "song_session_id": "0346de60-6985-4218-a92b-154f32f7b1fd",
+    "duration_ms": 226073,
+    "genre": [
+      "electronic"
+    ]
+  },
+  {
+    "song": "Leave Before You Love Me",
+    "artists": [
+      "Marshmello",
+      "Jonas Brothers"
+    ],
+    "isrc": "USUG12102313",
+    "start_time": "2025-11-27 08:54:40",
+    "radio": "expres",
+    "recorded_at": "2025-11-27T08:55:07.348963+01:00",
+    "raw_valid": true,
+    "song_session_id": "972f6334-553a-47f3-af3d-fce7e261cf70",
+    "duration_ms": 154983,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Be Mine",
+    "artists": [
+      "Kamrad"
+    ],
+    "isrc": "DE1NJ2500035",
+    "start_time": "2025-11-27 09:07:47",
+    "radio": "expres",
+    "recorded_at": "2025-11-27T09:08:08.353520+01:00",
+    "raw_valid": true,
+    "song_session_id": "8b4e7748-bba3-4acf-a0df-f82dbefb7693",
+    "duration_ms": 156463,
+    "genre": []
+  },
+  {
+    "song": "Danza Kuduro",
+    "artists": [
+      "Lucenzo",
+      "Don Omar"
+    ],
+    "isrc": "USUM71020778",
+    "start_time": "2025-11-27 09:10:34",
+    "radio": "expres",
+    "recorded_at": "2025-11-27T09:10:46.073416+01:00",
+    "raw_valid": true,
+    "song_session_id": "ebee7e75-7afd-480b-8ba6-900319f46794",
+    "duration_ms": 198786,
+    "genre": [
+      "electronic"
+    ]
+  },
+  {
+    "song": "Flowers",
+    "artists": [
+      "Alle Farben",
+      "Graham Candy",
+      "Lahos"
+    ],
+    "isrc": "DEA622500325",
+    "start_time": "2025-11-27 09:14:10",
+    "radio": "expres",
+    "recorded_at": "2025-11-27T09:14:29.780840+01:00",
+    "raw_valid": true,
+    "song_session_id": "de5fa9ed-0250-4eb5-9c96-00dade1324a8",
+    "duration_ms": 153103,
+    "genre": []
+  },
+  {
+    "song": "Tubthumping",
+    "artists": [
+      "Chumbawamba"
+    ],
+    "isrc": "DEA349700542",
+    "start_time": "2025-11-27 09:16:49",
+    "radio": "expres",
+    "recorded_at": "2025-11-27T09:17:07.358123+01:00",
+    "raw_valid": true,
+    "song_session_id": "e7dbab3e-c53e-4ef1-938b-24706e982a8e",
+    "duration_ms": 234133,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Eternity",
+    "artists": [
+      "Alex Warren"
+    ],
+    "isrc": "USAT22503779",
+    "start_time": "2025-11-27 09:19:57",
+    "radio": "expres",
+    "recorded_at": "2025-11-27T09:20:10.523366+01:00",
+    "raw_valid": true,
+    "song_session_id": "5fba4344-b6f8-4022-abdd-5f9e0a844d41",
+    "duration_ms": 189553,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Symphony",
+    "artists": [
+      "Imagine Dragons"
+    ],
+    "isrc": "USUM72205463",
+    "start_time": "2025-11-27 09:23:28",
+    "radio": "expres",
+    "recorded_at": "2025-11-27T09:23:49.248056+01:00",
+    "raw_valid": true,
+    "song_session_id": "8a738fba-b154-4e52-851b-ae21ab8f54e1",
+    "duration_ms": 175833,
+    "genre": [
+      "alternative rock"
+    ]
+  },
+  {
+    "song": "Ak Nie Si Moja",
+    "artists": [
+      "Vaso Patejdl"
+    ],
+    "isrc": "SKA128676213",
+    "start_time": "2025-11-27 09:34:40",
+    "radio": "expres",
+    "recorded_at": "2025-11-27T09:34:56.861499+01:00",
+    "raw_valid": true,
+    "song_session_id": "c607a44b-9702-44a2-93f2-8a3f5512bf37",
+    "duration_ms": 252013,
+    "genre": []
+  },
+  {
+    "song": "We Pray",
+    "artists": [
+      "Coldplay",
+      "Little Simz",
+      "Burna Boy",
+      "Elyanna",
+      "Tini"
+    ],
+    "isrc": "GBAYE2400890",
+    "start_time": "2025-11-27 09:38:48",
+    "radio": "expres",
+    "recorded_at": "2025-11-27T09:39:18.790717+01:00",
+    "raw_valid": true,
+    "song_session_id": "c72fc6d4-cba3-4475-9e74-80ae97584a23",
+    "duration_ms": 233406,
+    "genre": [
+      "pop rap"
+    ]
+  },
+  {
+    "song": "21 Guns",
+    "artists": [
+      "Green Day"
+    ],
+    "isrc": "USRE10900679",
+    "start_time": "2025-11-27 09:42:11",
+    "radio": "expres",
+    "recorded_at": "2025-11-27T09:42:33.487947+01:00",
+    "raw_valid": true,
+    "song_session_id": "8df8aed4-fbf4-41bb-905e-423d1c8ba864",
+    "duration_ms": 322040,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Head Above Water",
+    "artists": [
+      "Twocolors",
+      "Safri Duo",
+      "Chris De Sarandy"
+    ],
+    "isrc": "DEUM72503698",
+    "start_time": "2025-11-27 09:46:55",
+    "radio": "expres",
+    "recorded_at": "2025-11-27T09:47:12.684825+01:00",
+    "raw_valid": true,
+    "song_session_id": "393f33e0-3b31-4feb-9d1e-a6f29c6ff9fc",
+    "duration_ms": 174550,
+    "genre": []
+  }
+]

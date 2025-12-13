@@ -1,0 +1,371 @@
+[
+  {
+    "song": "Regalo",
+    "artists": [
+      "Alvaro Soler"
+    ],
+    "isrc": "DEE862500388",
+    "start_time": "2025-12-04 17:13:12",
+    "radio": "expres",
+    "recorded_at": "2025-12-04T17:13:30.639097+01:00",
+    "raw_valid": true,
+    "song_session_id": "4d46d6b3-c0cc-404c-9857-ffa1b4693002",
+    "duration_ms": 184984,
+    "genre": []
+  },
+  {
+    "song": "Leave Out All The Rest",
+    "artists": [
+      "Linkin Park"
+    ],
+    "isrc": "USWB10701212",
+    "start_time": "2025-12-04 17:16:18",
+    "radio": "expres",
+    "recorded_at": "2025-12-04T17:16:28.398010+01:00",
+    "raw_valid": true,
+    "song_session_id": "a1f76b37-ca19-4891-9e7d-dc8995dd7da3",
+    "duration_ms": 209306,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Eternity",
+    "artists": [
+      "Alex Warren"
+    ],
+    "isrc": "USAT22503779",
+    "start_time": "2025-12-04 17:19:34",
+    "radio": "expres",
+    "recorded_at": "2025-12-04T17:19:51.241356+01:00",
+    "raw_valid": true,
+    "song_session_id": "7b84dce1-ce0f-4a5b-b2a0-2409a097217f",
+    "duration_ms": 189553,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Afterlife",
+    "artists": [
+      "Michael Schulte"
+    ],
+    "isrc": "DECE72500509",
+    "start_time": "2025-12-04 17:23:08",
+    "radio": "expres",
+    "recorded_at": "2025-12-04T17:23:29.416899+01:00",
+    "raw_valid": true,
+    "song_session_id": "f57ddfbd-21c3-4617-afc9-47abeed595a5",
+    "duration_ms": 160120,
+    "genre": []
+  },
+  {
+    "song": "All I Want For Christmas Is You",
+    "artists": [
+      "Mariah Carey"
+    ],
+    "isrc": "USSM19400325",
+    "start_time": "2025-12-04 17:25:54",
+    "radio": "expres",
+    "recorded_at": "2025-12-04T17:26:11.784624+01:00",
+    "raw_valid": true,
+    "song_session_id": "d9b052da-16c4-4e4b-b42c-9d2c98bae94d",
+    "duration_ms": 241853,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Love Me Not",
+    "artists": [
+      "Ravyn Lenae"
+    ],
+    "isrc": "USAT22401137",
+    "start_time": "2025-12-04 17:35:26",
+    "radio": "expres",
+    "recorded_at": "2025-12-04T17:35:54.777778+01:00",
+    "raw_valid": true,
+    "song_session_id": "078eacb7-4aa6-4b88-9dec-fb3ad3b5c61f",
+    "duration_ms": 213466,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Thinking Out Loud",
+    "artists": [
+      "Ed Sheeran"
+    ],
+    "isrc": "GBAHS1400099",
+    "start_time": "2025-12-04 17:38:43",
+    "radio": "expres",
+    "recorded_at": "2025-12-04T17:38:52.419573+01:00",
+    "raw_valid": true,
+    "song_session_id": "56cb894f-6cf7-47c5-ac0e-cf442c30f70a",
+    "duration_ms": 281560,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Ray Of Light",
+    "artists": [
+      "Nico Santos"
+    ],
+    "isrc": "DECE72402394",
+    "start_time": "2025-12-04 17:43:29",
+    "radio": "expres",
+    "recorded_at": "2025-12-04T17:43:56.602629+01:00",
+    "raw_valid": true,
+    "song_session_id": "7e816d49-9b6e-4c39-b0b8-fdacf936d327",
+    "duration_ms": 176500,
+    "genre": []
+  },
+  {
+    "song": "Im So Excited",
+    "artists": [
+      "Pointer Sisters"
+    ],
+    "isrc": "USRC18203285",
+    "start_time": "2025-12-04 17:46:35",
+    "radio": "expres",
+    "recorded_at": "2025-12-04T17:46:54.279819+01:00",
+    "raw_valid": true,
+    "song_session_id": "2465cd68-534c-4d04-b604-bd26fb13fb91",
+    "duration_ms": 233400,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "The Fate Of Ophelia",
+    "artists": [
+      "Taylor Swift"
+    ],
+    "isrc": "USUG12506436",
+    "start_time": "2025-12-04 17:52:11",
+    "radio": "expres",
+    "recorded_at": "2025-12-04T17:52:38.941061+01:00",
+    "raw_valid": true,
+    "song_session_id": "316c347f-5418-40b5-8c56-8aa718b1fc32",
+    "duration_ms": 226073,
+    "genre": [
+      "electronic"
+    ]
+  },
+  {
+    "song": "Can You Feel The Love Tonight",
+    "artists": [
+      "Elton John"
+    ],
+    "isrc": "USWD11780906",
+    "start_time": "2025-12-04 17:56:06",
+    "radio": "expres",
+    "recorded_at": "2025-12-04T17:56:17.017977+01:00",
+    "raw_valid": true,
+    "song_session_id": "a98b74d6-92a3-4abb-a9b5-07683267920d",
+    "duration_ms": 241893,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Be Mine",
+    "artists": [
+      "Kamrad"
+    ],
+    "isrc": "DE1NJ2500035",
+    "start_time": "2025-12-04 18:08:22",
+    "radio": "expres",
+    "recorded_at": "2025-12-04T18:08:41.686951+01:00",
+    "raw_valid": true,
+    "song_session_id": "9c225afa-e1b5-4d96-8524-effd7066df05",
+    "duration_ms": 156463,
+    "genre": []
+  },
+  {
+    "song": "Wherever You Will Go",
+    "artists": [
+      "Calling"
+    ],
+    "isrc": "USRC10001047",
+    "start_time": "2025-12-04 18:11:06",
+    "radio": "expres",
+    "recorded_at": "2025-12-04T18:11:24.105928+01:00",
+    "raw_valid": true,
+    "song_session_id": "671eee0d-da9b-4ec7-bb7b-f6c79ade9e7f",
+    "duration_ms": 207200,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Blink Twice",
+    "artists": [
+      "Shaboozey",
+      "Myles Smith"
+    ],
+    "isrc": "USUYG1717098",
+    "start_time": "2025-12-04 18:14:31",
+    "radio": "expres",
+    "recorded_at": "2025-12-04T18:14:41.962548+01:00",
+    "raw_valid": true,
+    "song_session_id": "59b4de16-a84e-46f5-9d7b-0febc21aaac3",
+    "duration_ms": 156721,
+    "genre": []
+  },
+  {
+    "song": "Save Me",
+    "artists": [
+      "Morandi"
+    ],
+    "isrc": "ROUM70700048",
+    "start_time": "2025-12-04 18:17:06",
+    "radio": "expres",
+    "recorded_at": "2025-12-04T18:17:24.321503+01:00",
+    "raw_valid": true,
+    "song_session_id": "910da78f-ecd3-49b7-a3de-96194bb314e1",
+    "duration_ms": 274133,
+    "genre": [
+      "europop"
+    ]
+  },
+  {
+    "song": "Broken Sunshine",
+    "artists": [
+      "Michael Schulte"
+    ],
+    "isrc": "DECE72402375",
+    "start_time": "2025-12-04 18:21:50",
+    "radio": "expres",
+    "recorded_at": "2025-12-04T18:22:08.192804+01:00",
+    "raw_valid": true,
+    "song_session_id": "e2df1bbb-c827-4300-ad22-1699e1ecac5e",
+    "duration_ms": 175866,
+    "genre": []
+  },
+  {
+    "song": "Mad",
+    "artists": [
+      "Martin Garrix",
+      "Lauv"
+    ],
+    "isrc": "NLM5S2502535",
+    "start_time": "2025-12-04 18:24:41",
+    "radio": "expres",
+    "recorded_at": "2025-12-04T18:25:05.815948+01:00",
+    "raw_valid": true,
+    "song_session_id": "bde4b9d2-97c7-4f04-8d48-db9d441dc44c",
+    "duration_ms": 199804,
+    "genre": [
+      "edm"
+    ]
+  },
+  {
+    "song": "The One",
+    "artists": [
+      "Michael Patrick Kelly"
+    ],
+    "isrc": "DEE862500476",
+    "start_time": "2025-12-04 18:34:20",
+    "radio": "expres",
+    "recorded_at": "2025-12-04T18:34:28.287971+01:00",
+    "raw_valid": true,
+    "song_session_id": "d88e1333-530e-4447-9171-7a727f3b425b",
+    "duration_ms": 181194,
+    "genre": []
+  },
+  {
+    "song": "I Want To Know What Love Is",
+    "artists": [
+      "Foreigner"
+    ],
+    "isrc": "USAT29900662",
+    "start_time": "2025-12-04 18:37:21",
+    "radio": "expres",
+    "recorded_at": "2025-12-04T18:37:30.934004+01:00",
+    "raw_valid": true,
+    "song_session_id": "e749de84-a9a1-4187-80f1-6283fd5cc9b8",
+    "duration_ms": 304786,
+    "genre": [
+      "aor"
+    ]
+  },
+  {
+    "song": "Dive",
+    "artists": [
+      "Lost Frequencies",
+      "Tom Gregory"
+    ],
+    "isrc": "BEHP42300028",
+    "start_time": "2025-12-04 18:41:20",
+    "radio": "expres",
+    "recorded_at": "2025-12-04T18:41:34.350889+01:00",
+    "raw_valid": true,
+    "song_session_id": "da7e8cb2-ee99-4e2e-aedc-6897dee2d0ff",
+    "duration_ms": 161093,
+    "genre": [
+      "tropical house"
+    ]
+  },
+  {
+    "song": "Vsetko Bude Dobre",
+    "artists": [
+      "Gladiator"
+    ],
+    "isrc": "SKCM72560001",
+    "start_time": "2025-12-04 18:43:57",
+    "radio": "expres",
+    "recorded_at": "2025-12-04T18:44:11.750302+01:00",
+    "raw_valid": true,
+    "song_session_id": "06eaec2d-74ce-4377-87e3-0344bd11a3a7",
+    "duration_ms": 166588,
+    "genre": []
+  },
+  {
+    "song": "Because Of You",
+    "artists": [
+      "Kelly Clarkson"
+    ],
+    "isrc": "GBCTA0400265",
+    "start_time": "2025-12-04 18:46:56",
+    "radio": "expres",
+    "recorded_at": "2025-12-04T18:47:14.450132+01:00",
+    "raw_valid": true,
+    "song_session_id": "1f6f6e85-061f-4bc9-9101-7e78567dc98c",
+    "duration_ms": 220373,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "I Like The Way You Kiss Me",
+    "artists": [
+      "Artemas"
+    ],
+    "isrc": "QZJ842400387",
+    "start_time": "2025-12-04 18:51:39",
+    "radio": "expres",
+    "recorded_at": "2025-12-04T18:51:53.316393+01:00",
+    "raw_valid": true,
+    "song_session_id": "e0dd6659-de04-4e13-90d2-2c6ea079734c",
+    "duration_ms": 142514,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Na Vianoce",
+    "artists": [
+      "Adam Durica"
+    ],
+    "isrc": "SKA011700088",
+    "start_time": "2025-12-04 18:54:06",
+    "radio": "expres",
+    "recorded_at": "2025-12-04T18:54:15.497888+01:00",
+    "raw_valid": true,
+    "song_session_id": "86638ba7-10cc-4f79-b7a3-390ee1dafaa6",
+    "duration_ms": 223319,
+    "genre": []
+  }
+]

@@ -1,0 +1,548 @@
+[
+  {
+    "song": "Architekti Stastia",
+    "artists": [
+      "Nocaden"
+    ],
+    "isrc": "SKG971900108",
+    "start_time": "2025-11-27 02:04:23",
+    "radio": "expres",
+    "recorded_at": "2025-11-27T02:04:48.175718+01:00",
+    "raw_valid": true,
+    "song_session_id": "1e3e9d66-c76a-4920-b9c3-2bfd79282f63",
+    "duration_ms": 277386,
+    "genre": []
+  },
+  {
+    "song": "Regalo",
+    "artists": [
+      "Alvaro Soler"
+    ],
+    "isrc": "DEE862500388",
+    "start_time": "2025-11-27 02:08:32",
+    "radio": "expres",
+    "recorded_at": "2025-11-27T02:08:52.231163+01:00",
+    "raw_valid": true,
+    "song_session_id": "9c38a791-bf04-47d6-bff3-545b114cc147",
+    "duration_ms": 184984,
+    "genre": []
+  },
+  {
+    "song": "Dokola",
+    "artists": [
+      "Alan Murin"
+    ],
+    "isrc": "QZZ662451350",
+    "start_time": "2025-11-27 02:11:37",
+    "radio": "expres",
+    "recorded_at": "2025-11-27T02:12:09.908187+01:00",
+    "raw_valid": true,
+    "song_session_id": "886c1dbd-34c1-4b85-8309-183854c23577",
+    "duration_ms": 155076,
+    "genre": []
+  },
+  {
+    "song": "Iris",
+    "artists": [
+      "Goo Goo Dolls"
+    ],
+    "isrc": "USWB19800160",
+    "start_time": "2025-11-27 02:14:09",
+    "radio": "expres",
+    "recorded_at": "2025-11-27T02:14:42.410208+01:00",
+    "raw_valid": true,
+    "song_session_id": "e071d1d5-0100-4239-be76-6d62fcf297f2",
+    "duration_ms": 289533,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Spolu",
+    "artists": [
+      "Adam Durica"
+    ],
+    "isrc": "SKA011600001",
+    "start_time": "2025-11-27 02:16:50",
+    "radio": "expres",
+    "recorded_at": "2025-11-27T02:17:27.426441+01:00",
+    "raw_valid": true,
+    "song_session_id": "c4c03d56-a2d0-4bd6-a088-ee3e8e9f2c89",
+    "duration_ms": 200191,
+    "genre": []
+  },
+  {
+    "song": "Blink Twice",
+    "artists": [
+      "Shaboozey",
+      "Myles Smith"
+    ],
+    "isrc": "USUYG1717098",
+    "start_time": "2025-11-27 02:20:02",
+    "radio": "expres",
+    "recorded_at": "2025-11-27T02:20:21.101778+01:00",
+    "raw_valid": true,
+    "song_session_id": "748317d5-b0b3-4f51-83b9-d10dcfea6823",
+    "duration_ms": 156721,
+    "genre": []
+  },
+  {
+    "song": "Otec",
+    "artists": [
+      "Korben Dallas"
+    ],
+    "isrc": "SKE011305113",
+    "start_time": "2025-11-27 02:22:35",
+    "radio": "expres",
+    "recorded_at": "2025-11-27T02:22:47.599201+01:00",
+    "raw_valid": true,
+    "song_session_id": "9ca9cc1c-67fe-427a-b23a-7c73798fd201",
+    "duration_ms": 223852,
+    "genre": []
+  },
+  {
+    "song": "Thats So True",
+    "artists": [
+      "Gracie Abrams"
+    ],
+    "isrc": "USUG12406903",
+    "start_time": "2025-11-27 02:26:19",
+    "radio": "expres",
+    "recorded_at": "2025-11-27T02:26:32.866625+01:00",
+    "raw_valid": true,
+    "song_session_id": "2076d0ca-2420-476c-8708-6fdd684bb1e2",
+    "duration_ms": 130771,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Velky Sen Mora",
+    "artists": [
+      "Skampi Na Zaru"
+    ],
+    "isrc": "SKA127143801",
+    "start_time": "2025-11-27 02:29:11",
+    "radio": "expres",
+    "recorded_at": "2025-11-27T02:29:31.198247+01:00",
+    "raw_valid": true,
+    "song_session_id": "f5f889e1-db8c-4fb7-9905-2c402953a5fe",
+    "duration_ms": 289613,
+    "genre": []
+  },
+  {
+    "song": "Mystical Magical",
+    "artists": [
+      "Benson Boone"
+    ],
+    "isrc": "USWB12500844",
+    "start_time": "2025-11-27 02:32:30",
+    "radio": "expres",
+    "recorded_at": "2025-11-27T02:32:56.328904+01:00",
+    "raw_valid": true,
+    "song_session_id": "692ffff2-f1b9-4576-96ae-d829884ec2ef",
+    "duration_ms": 165746,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Indianske Leto",
+    "artists": [
+      "Hex"
+    ],
+    "isrc": "TCABR1336173",
+    "start_time": "2025-11-27 02:35:22",
+    "radio": "expres",
+    "recorded_at": "2025-11-27T02:35:39.051603+01:00",
+    "raw_valid": true,
+    "song_session_id": "5c319d21-a1c2-4add-9670-dda78ac7f00e",
+    "duration_ms": 215733,
+    "genre": []
+  },
+  {
+    "song": "We Are The World",
+    "artists": [
+      "Usa For Africa",
+      "Michael Jackson"
+    ],
+    "isrc": "QMFMF2530606",
+    "start_time": "2025-11-27 02:38:49",
+    "radio": "expres",
+    "recorded_at": "2025-11-27T02:39:10.115980+01:00",
+    "raw_valid": true,
+    "song_session_id": "8b0b23e5-a560-4e78-bd52-ef281df7606f",
+    "duration_ms": 427333,
+    "genre": []
+  },
+  {
+    "song": "Od Tatier K Dunaju",
+    "artists": [
+      "Elan"
+    ],
+    "isrc": "SKA128912901",
+    "start_time": "2025-11-27 02:43:49",
+    "radio": "expres",
+    "recorded_at": "2025-11-27T02:44:19.728190+01:00",
+    "raw_valid": true,
+    "song_session_id": "099cc708-5313-46e0-a9cb-f9270bcebeda",
+    "duration_ms": 254333,
+    "genre": []
+  },
+  {
+    "song": "Where Is My Husband",
+    "artists": [
+      "Raye"
+    ],
+    "isrc": "QMFME2535037",
+    "start_time": "2025-11-27 02:46:26",
+    "radio": "expres",
+    "recorded_at": "2025-11-27T02:46:52.646878+01:00",
+    "raw_valid": true,
+    "song_session_id": "6ee3850d-1016-4a61-9e44-0a5d66f7cbee",
+    "duration_ms": 196795,
+    "genre": [
+      "offizielle charts"
+    ]
+  },
+  {
+    "song": "Pod So Mnou",
+    "artists": [
+      "Imt Smile",
+      "Kali"
+    ],
+    "isrc": "SKA011800065",
+    "start_time": "2025-11-27 02:49:59",
+    "radio": "expres",
+    "recorded_at": "2025-11-27T02:50:25.617895+01:00",
+    "raw_valid": true,
+    "song_session_id": "6a1ff566-f782-4f42-8989-af9e86ba27b4",
+    "duration_ms": 260854,
+    "genre": []
+  },
+  {
+    "song": "Love Me Like You Do",
+    "artists": [
+      "Ellie Goulding"
+    ],
+    "isrc": "GBUM71406823",
+    "start_time": "2025-11-27 02:53:52",
+    "radio": "expres",
+    "recorded_at": "2025-11-27T02:54:30.702596+01:00",
+    "raw_valid": true,
+    "song_session_id": "d95cda4a-76c2-4ea2-94fd-a0bb2add50c0",
+    "duration_ms": 253279,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Len Sa Smej",
+    "artists": [
+      "Peter Bic Project"
+    ],
+    "isrc": "SKA012300333",
+    "start_time": "2025-11-27 02:57:43",
+    "radio": "expres",
+    "recorded_at": "2025-11-27T02:58:17.937296+01:00",
+    "raw_valid": true,
+    "song_session_id": "83702d42-4e73-4f60-afb0-3c71af805fbc",
+    "duration_ms": 164741,
+    "genre": []
+  },
+  {
+    "song": "Undressed",
+    "artists": [
+      "Sombr"
+    ],
+    "isrc": "USWB12500737",
+    "start_time": "2025-11-27 03:00:25",
+    "radio": "expres",
+    "recorded_at": "2025-11-27T03:00:59.716593+01:00",
+    "raw_valid": true,
+    "song_session_id": "ccc831ea-8a20-4abe-b982-2c59ddd5f2e7",
+    "duration_ms": 182088,
+    "genre": [
+      "indie pop"
+    ]
+  },
+  {
+    "song": "Smej Sa",
+    "artists": [
+      "Sima Martausova"
+    ],
+    "isrc": "SKG081607101",
+    "start_time": "2025-11-27 03:03:33",
+    "radio": "expres",
+    "recorded_at": "2025-11-27T03:03:52.981779+01:00",
+    "raw_valid": true,
+    "song_session_id": "4e6394d2-2556-45af-85aa-903df41dedde",
+    "duration_ms": 200946,
+    "genre": []
+  },
+  {
+    "song": "Million Good Reasons",
+    "artists": [
+      "Robin Schulz",
+      "Fast Boy"
+    ],
+    "isrc": "DEA622404738",
+    "start_time": "2025-11-27 03:06:45",
+    "radio": "expres",
+    "recorded_at": "2025-11-27T03:06:58.754578+01:00",
+    "raw_valid": true,
+    "song_session_id": "d6ea0bed-8d13-4d6a-a6bd-a559c405b2f3",
+    "duration_ms": 157130,
+    "genre": []
+  },
+  {
+    "song": "Cim To Je",
+    "artists": [
+      "No Name"
+    ],
+    "isrc": "SKA010500063",
+    "start_time": "2025-11-27 03:09:26",
+    "radio": "expres",
+    "recorded_at": "2025-11-27T03:09:36.453687+01:00",
+    "raw_valid": true,
+    "song_session_id": "a61e378d-fcb3-4959-b095-21409a7086c1",
+    "duration_ms": 199680,
+    "genre": []
+  },
+  {
+    "song": "Locked Out Of Heaven",
+    "artists": [
+      "Bruno Mars"
+    ],
+    "isrc": "USAT21203287",
+    "start_time": "2025-11-27 03:12:45",
+    "radio": "expres",
+    "recorded_at": "2025-11-27T03:13:27.726663+01:00",
+    "raw_valid": true,
+    "song_session_id": "82eea508-ee8d-497c-87dd-c308e368e55c",
+    "duration_ms": 233478,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Vsetko Bude Dobre",
+    "artists": [
+      "Gladiator"
+    ],
+    "isrc": "SKCM72560001",
+    "start_time": "2025-11-27 03:16:34",
+    "radio": "expres",
+    "recorded_at": "2025-11-27T03:16:46.058055+01:00",
+    "raw_valid": true,
+    "song_session_id": "4ac9d53a-a7ea-4dc4-aff6-ab75a310092b",
+    "duration_ms": 166588,
+    "genre": []
+  },
+  {
+    "song": "Chasing Paradise",
+    "artists": [
+      "Kygo",
+      "Onerepublic"
+    ],
+    "isrc": "SEBGA2500019",
+    "start_time": "2025-11-27 03:19:31",
+    "radio": "expres",
+    "recorded_at": "2025-11-27T03:20:02.396538+01:00",
+    "raw_valid": true,
+    "song_session_id": "4c72b1df-02c2-4a82-9990-7f4a25979071",
+    "duration_ms": 180532,
+    "genre": []
+  },
+  {
+    "song": "Ona Je Taka",
+    "artists": [
+      "Polemic"
+    ],
+    "isrc": "SKA139920103",
+    "start_time": "2025-11-27 03:22:35",
+    "radio": "expres",
+    "recorded_at": "2025-11-27T03:22:55.909826+01:00",
+    "raw_valid": true,
+    "song_session_id": "00086b66-5ac0-41bd-8607-4e5c15f97bd5",
+    "duration_ms": 140120,
+    "genre": []
+  },
+  {
+    "song": "Only Time (Two Tribes Remix)",
+    "artists": [
+      "Enya"
+    ],
+    "isrc": null,
+    "start_time": "2025-11-27 03:25:05",
+    "radio": "expres",
+    "recorded_at": "2025-11-27T03:25:18.724718+01:00",
+    "raw_valid": true,
+    "song_session_id": "97f5c068-a833-47fd-b47d-ddbe81d6de48"
+  },
+  {
+    "song": "Nocna Optika",
+    "artists": [
+      "Richard Muller"
+    ],
+    "isrc": "CZA110201037",
+    "start_time": "2025-11-27 03:28:13",
+    "radio": "expres",
+    "recorded_at": "2025-11-27T03:28:26.598111+01:00",
+    "raw_valid": true,
+    "song_session_id": "da6428cb-cd92-484a-a150-9838590d7353",
+    "duration_ms": 302920,
+    "genre": []
+  },
+  {
+    "song": "Wonderful Life 25",
+    "artists": [
+      "Hurts",
+      "Purple Disco Machine"
+    ],
+    "isrc": "DEE862500677",
+    "start_time": "2025-11-27 03:33:32",
+    "radio": "expres",
+    "recorded_at": "2025-11-27T03:33:59.913452+01:00",
+    "raw_valid": true,
+    "song_session_id": "9fa8a7e1-2209-404e-8923-ed7646cd9022",
+    "duration_ms": 178658,
+    "genre": []
+  },
+  {
+    "song": "Ceresne",
+    "artists": [
+      "Zuzana Smatanova"
+    ],
+    "isrc": "SKA012300327",
+    "start_time": "2025-11-27 03:36:28",
+    "radio": "expres",
+    "recorded_at": "2025-11-27T03:36:56.599538+01:00",
+    "raw_valid": true,
+    "song_session_id": "052e793e-b0f3-470b-8c6c-8421c24cd63c",
+    "duration_ms": 190909,
+    "genre": []
+  },
+  {
+    "song": "I Was Made For Loving You",
+    "artists": [
+      "Kiss"
+    ],
+    "isrc": "USUM72120195",
+    "start_time": "2025-11-27 03:40:33",
+    "radio": "expres",
+    "recorded_at": "2025-11-27T03:40:55.316733+01:00",
+    "raw_valid": true,
+    "song_session_id": "87f83196-0011-48af-85a2-62033ae395e8",
+    "duration_ms": 372866,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Ked Ta Stretnem",
+    "artists": [
+      "Para"
+    ],
+    "isrc": "SKA010400108",
+    "start_time": "2025-11-27 03:45:02",
+    "radio": "expres",
+    "recorded_at": "2025-11-27T03:45:25.680020+01:00",
+    "raw_valid": true,
+    "song_session_id": "f4c6bd03-00a1-4811-a0e2-df51dc2e000b",
+    "duration_ms": 244906,
+    "genre": []
+  },
+  {
+    "song": "Head Above Water",
+    "artists": [
+      "Twocolors",
+      "Safri Duo",
+      "Chris De Sarandy"
+    ],
+    "isrc": "DEUM72503698",
+    "start_time": "2025-11-27 03:48:58",
+    "radio": "expres",
+    "recorded_at": "2025-11-27T03:49:18.456152+01:00",
+    "raw_valid": true,
+    "song_session_id": "92f249e7-ab3e-41b6-8ee4-e83c9fed19d4",
+    "duration_ms": 174550,
+    "genre": []
+  },
+  {
+    "song": "Mopedova",
+    "artists": [
+      "Olga Zablacka",
+      "Vaso Patejdl"
+    ],
+    "isrc": "SKA128676208",
+    "start_time": "2025-11-27 03:52:08",
+    "radio": "expres",
+    "recorded_at": "2025-11-27T03:52:26.484289+01:00",
+    "raw_valid": true,
+    "song_session_id": "6a097725-4287-4189-99cc-30eeb922d609",
+    "duration_ms": 141000,
+    "genre": []
+  },
+  {
+    "song": "Hero",
+    "artists": [
+      "Chad Kroeger",
+      "Josey Scott"
+    ],
+    "isrc": "NLA320219756",
+    "start_time": "2025-11-27 03:54:36",
+    "radio": "expres",
+    "recorded_at": "2025-11-27T03:54:57.978051+01:00",
+    "raw_valid": true,
+    "song_session_id": "affe45b1-9b20-4627-830b-adaa4c5b5246",
+    "duration_ms": 200480,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Unikat",
+    "artists": [
+      "Maria Cirova"
+    ],
+    "isrc": "SKK871600102",
+    "start_time": "2025-11-27 03:57:43",
+    "radio": "expres",
+    "recorded_at": "2025-11-27T03:57:56.017643+01:00",
+    "raw_valid": true,
+    "song_session_id": "3727bb98-9cff-474c-a8f4-c674ba9de0af",
+    "duration_ms": 206360,
+    "genre": []
+  },
+  {
+    "song": "Pride",
+    "artists": [
+      "Felix Jaehn",
+      "Jhart"
+    ],
+    "isrc": "DEUM72503423",
+    "start_time": "2025-11-27 04:01:10",
+    "radio": "expres",
+    "recorded_at": "2025-11-27T04:01:39.572387+01:00",
+    "raw_valid": true,
+    "song_session_id": "811fe8c6-d5a2-46d1-9edf-1eb0b1d63340",
+    "duration_ms": 158150,
+    "genre": []
+  },
+  {
+    "song": "Po Com Zeny Tuzia",
+    "artists": [
+      "Robo Opatovsky",
+      "Marian Cekovsky"
+    ],
+    "isrc": "SKC252301807",
+    "start_time": "2025-11-27 04:03:46",
+    "radio": "expres",
+    "recorded_at": "2025-11-27T04:03:57.337949+01:00",
+    "raw_valid": true,
+    "song_session_id": "d1b30ea4-51c3-4fad-bf6f-24de273750bb",
+    "duration_ms": 210937,
+    "genre": []
+  }
+]

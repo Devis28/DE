@@ -1,0 +1,493 @@
+[
+  {
+    "song": "Let Me Die",
+    "artists": [
+      "Mark Dann",
+      "Giovanni Ricci"
+    ],
+    "isrc": "US38Y2520370",
+    "start_time": "2025-11-29 21:51:39",
+    "radio": "expres",
+    "recorded_at": "2025-11-29T21:51:50.267236+01:00",
+    "raw_valid": true,
+    "song_session_id": "48497f8b-ac4c-4856-a6da-af8b33f0d368",
+    "duration_ms": 147010,
+    "genre": []
+  },
+  {
+    "song": "Man I Need",
+    "artists": [
+      "Olivia Dean"
+    ],
+    "isrc": "GBUM72503089",
+    "start_time": "2025-11-29 21:53:57",
+    "radio": "expres",
+    "recorded_at": "2025-11-29T21:54:18.224828+01:00",
+    "raw_valid": true,
+    "song_session_id": "0d3c2d6f-d229-464c-aa93-b4e4714fd6de",
+    "duration_ms": 184000,
+    "genre": [
+      "offizielle charts"
+    ]
+  },
+  {
+    "song": "Ak Nie Si Moja",
+    "artists": [
+      "Vaso Patejdl"
+    ],
+    "isrc": "SKA128676213",
+    "start_time": "2025-11-29 21:57:15",
+    "radio": "expres",
+    "recorded_at": "2025-11-29T21:57:41.614759+01:00",
+    "raw_valid": true,
+    "song_session_id": "4610528a-cea7-466d-b578-6c7d662664d3",
+    "duration_ms": 252013,
+    "genre": []
+  },
+  {
+    "song": "Mystical Magical",
+    "artists": [
+      "Benson Boone"
+    ],
+    "isrc": "USWB12500844",
+    "start_time": "2025-11-29 22:05:06",
+    "radio": "expres",
+    "recorded_at": "2025-11-29T22:05:18.154110+01:00",
+    "raw_valid": true,
+    "song_session_id": "e43e8cce-35d3-4375-9c65-ca4bc715639d",
+    "duration_ms": 165746,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Baby One More Time",
+    "artists": [
+      "Britney Spears"
+    ],
+    "isrc": "USJI19810404",
+    "start_time": "2025-11-29 22:08:00",
+    "radio": "expres",
+    "recorded_at": "2025-11-29T22:08:22.090702+01:00",
+    "raw_valid": true,
+    "song_session_id": "8648c5a2-d3fb-428a-98c6-11b201957297",
+    "duration_ms": 210386,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Espresso",
+    "artists": [
+      "Sabrina Carpenter"
+    ],
+    "isrc": "USUM72403305",
+    "start_time": "2025-11-29 22:11:28",
+    "radio": "expres",
+    "recorded_at": "2025-11-29T22:11:46.820042+01:00",
+    "raw_valid": true,
+    "song_session_id": "d6e2743e-f0e6-41dd-91e5-d1558f657bce",
+    "duration_ms": 175453,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Summer Wine",
+    "artists": [
+      "Ville Valo",
+      "Natalia Avelon"
+    ],
+    "isrc": "DEA620600750",
+    "start_time": "2025-11-29 22:14:23",
+    "radio": "expres",
+    "recorded_at": "2025-11-29T22:14:44.648705+01:00",
+    "raw_valid": true,
+    "song_session_id": "10b0d8ff-6e1b-4313-b62e-c6c3b140f205",
+    "duration_ms": 233546,
+    "genre": [
+      "soundtrack"
+    ]
+  },
+  {
+    "song": "Where Is My Husband",
+    "artists": [
+      "Raye"
+    ],
+    "isrc": "QMFME2535037",
+    "start_time": "2025-11-29 22:18:10",
+    "radio": "expres",
+    "recorded_at": "2025-11-29T22:18:30.723577+01:00",
+    "raw_valid": true,
+    "song_session_id": "5dff92a7-26de-40a8-9b51-fb0e0383e8ce",
+    "duration_ms": 196795,
+    "genre": [
+      "offizielle charts"
+    ]
+  },
+  {
+    "song": "With Or Without You",
+    "artists": [
+      "U2"
+    ],
+    "isrc": "GBUM70709792",
+    "start_time": "2025-11-29 22:21:45",
+    "radio": "expres",
+    "recorded_at": "2025-11-29T22:22:29.100222+01:00",
+    "raw_valid": true,
+    "song_session_id": "0777238e-79fc-4d56-8ada-e5084204ab3f",
+    "duration_ms": 295520,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "World Gone Wild",
+    "artists": [
+      "Robin Schulz",
+      "Cyril",
+      "Sam Martin"
+    ],
+    "isrc": "DEA622403329",
+    "start_time": "2025-11-29 22:25:29",
+    "radio": "expres",
+    "recorded_at": "2025-11-29T22:25:59.472701+01:00",
+    "raw_valid": true,
+    "song_session_id": "675928bf-8366-49af-a0c5-c6e55ae14339",
+    "duration_ms": 146523,
+    "genre": []
+  },
+  {
+    "song": "Jan Amos Dzinovy",
+    "artists": [
+      "Metalinda"
+    ],
+    "isrc": "SKA129023811",
+    "start_time": "2025-11-29 22:27:48",
+    "radio": "expres",
+    "recorded_at": "2025-11-29T22:28:11.762933+01:00",
+    "raw_valid": true,
+    "song_session_id": "f8a8089f-d4c2-4187-bae2-26dfc0ca2560",
+    "duration_ms": 336967,
+    "genre": []
+  },
+  {
+    "song": "Undressed",
+    "artists": [
+      "Sombr"
+    ],
+    "isrc": "USWB12500737",
+    "start_time": "2025-11-29 22:33:40",
+    "radio": "expres",
+    "recorded_at": "2025-11-29T22:33:57.788069+01:00",
+    "raw_valid": true,
+    "song_session_id": "3421bbad-396a-4ed5-b527-1867903195ec",
+    "duration_ms": 182088,
+    "genre": [
+      "indie pop"
+    ]
+  },
+  {
+    "song": "Zily",
+    "artists": [
+      "No Name"
+    ],
+    "isrc": "SKA010005400",
+    "start_time": "2025-11-29 22:36:54",
+    "radio": "expres",
+    "recorded_at": "2025-11-29T22:37:20.913794+01:00",
+    "raw_valid": true,
+    "song_session_id": "1c9fb86f-089e-45bc-a0a5-fabb23cb2af2",
+    "duration_ms": 204173,
+    "genre": []
+  },
+  {
+    "song": "Hangover",
+    "artists": [
+      "Taio Cruz",
+      "Flo Rida"
+    ],
+    "isrc": "GBUM71108857",
+    "start_time": "2025-11-29 22:39:56",
+    "radio": "expres",
+    "recorded_at": "2025-11-29T22:40:23.584643+01:00",
+    "raw_valid": true,
+    "song_session_id": "a8777962-39c3-44bf-b217-56ccae30667a",
+    "duration_ms": 244906,
+    "genre": []
+  },
+  {
+    "song": "Love Me Not",
+    "artists": [
+      "Ravyn Lenae"
+    ],
+    "isrc": "USAT22401137",
+    "start_time": "2025-11-29 22:44:09",
+    "radio": "expres",
+    "recorded_at": "2025-11-29T22:44:22.269282+01:00",
+    "raw_valid": true,
+    "song_session_id": "fdcc4e30-ca81-4ef6-9c87-61a761272879",
+    "duration_ms": 213466,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Svetla Mesta",
+    "artists": [
+      "Polemic"
+    ],
+    "isrc": "SKB811000111",
+    "start_time": "2025-11-29 22:47:28",
+    "radio": "expres",
+    "recorded_at": "2025-11-29T22:47:45.582780+01:00",
+    "raw_valid": true,
+    "song_session_id": "35bded33-0f9f-48b8-8c7a-4aa0d6326c0b",
+    "duration_ms": 264093,
+    "genre": []
+  },
+  {
+    "song": "Austin",
+    "artists": [
+      "Dasha"
+    ],
+    "isrc": "QZTB92360479",
+    "start_time": "2025-11-29 22:51:59",
+    "radio": "expres",
+    "recorded_at": "2025-11-29T22:52:09.452365+01:00",
+    "raw_valid": true,
+    "song_session_id": "20d06bf3-70d1-47e6-ad97-37ea2b5e38c1",
+    "duration_ms": 171782,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Blood Running",
+    "artists": [
+      "Ray Dalton"
+    ],
+    "isrc": "DEUM72507812",
+    "start_time": "2025-11-29 22:54:45",
+    "radio": "expres",
+    "recorded_at": "2025-11-29T22:55:07.773153+01:00",
+    "raw_valid": true,
+    "song_session_id": "1b5fa075-dde5-4518-977a-830ea16aa94e",
+    "duration_ms": 173146,
+    "genre": []
+  },
+  {
+    "song": "The Unforgiven",
+    "artists": [
+      "Metallica"
+    ],
+    "isrc": "QMKHM1900004",
+    "start_time": "2025-11-29 22:57:52",
+    "radio": "expres",
+    "recorded_at": "2025-11-29T22:58:10.690946+01:00",
+    "raw_valid": true,
+    "song_session_id": "fde115f5-f187-433a-b44b-e015f938012c",
+    "duration_ms": 382880,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Italodisco",
+    "artists": [
+      "The Kolors"
+    ],
+    "isrc": "ITQ002300342",
+    "start_time": "2025-11-29 23:01:33",
+    "radio": "expres",
+    "recorded_at": "2025-11-29T23:01:59.342122+01:00",
+    "raw_valid": true,
+    "song_session_id": "62cbaa57-cdae-4a88-bc7a-bc7e6f3e741f",
+    "duration_ms": 199512,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "You Get What You Give",
+    "artists": [
+      "New Radicals"
+    ],
+    "isrc": "USMC19858327",
+    "start_time": "2025-11-29 23:05:03",
+    "radio": "expres",
+    "recorded_at": "2025-11-29T23:05:25.906868+01:00",
+    "raw_valid": true,
+    "song_session_id": "fd914491-8fa3-4413-a927-52c711170edb",
+    "duration_ms": 300034,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Wonderful Life 25",
+    "artists": [
+      "Hurts",
+      "Purple Disco Machine"
+    ],
+    "isrc": "DEE862500677",
+    "start_time": "2025-11-29 23:09:50",
+    "radio": "expres",
+    "recorded_at": "2025-11-29T23:10:04.506607+01:00",
+    "raw_valid": true,
+    "song_session_id": "5132148e-2f30-4f98-ad9d-3552953c1947",
+    "duration_ms": 178658,
+    "genre": []
+  },
+  {
+    "song": "Secrets",
+    "artists": [
+      "Onerepublic"
+    ],
+    "isrc": "USUM70985644",
+    "start_time": "2025-11-29 23:12:45",
+    "radio": "expres",
+    "recorded_at": "2025-11-29T23:13:21.884916+01:00",
+    "raw_valid": true,
+    "song_session_id": "868b303e-0239-49c8-92d6-ed0c62b80edc",
+    "duration_ms": 224680,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Eyes Closed",
+    "artists": [
+      "Imagine Dragons"
+    ],
+    "isrc": "USUM72402448",
+    "start_time": "2025-11-29 23:16:41",
+    "radio": "expres",
+    "recorded_at": "2025-11-29T23:17:05.605768+01:00",
+    "raw_valid": true,
+    "song_session_id": "2bb622e6-cad4-4b21-85b3-48e82a5ae49b",
+    "duration_ms": 200026,
+    "genre": []
+  },
+  {
+    "song": "Im So Excited",
+    "artists": [
+      "Pointer Sisters"
+    ],
+    "isrc": "USRC18203285",
+    "start_time": "2025-11-29 23:20:10",
+    "radio": "expres",
+    "recorded_at": "2025-11-29T23:20:28.751343+01:00",
+    "raw_valid": true,
+    "song_session_id": "84e7a2e2-09eb-4d79-9742-7db4e47a45d5",
+    "duration_ms": 233400,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Flowers",
+    "artists": [
+      "Miley Cyrus"
+    ],
+    "isrc": "USSM12209777",
+    "start_time": "2025-11-29 23:24:07",
+    "radio": "expres",
+    "recorded_at": "2025-11-29T23:24:27.798905+01:00",
+    "raw_valid": true,
+    "song_session_id": "61c96fe7-6c31-4232-a791-887b3afad7ac",
+    "duration_ms": 200454,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Myslim Ze Moze Byt",
+    "artists": [
+      "Imt Smile",
+      "Marian Cekovsky"
+    ],
+    "isrc": "SKA010400075",
+    "start_time": "2025-11-29 23:27:27",
+    "radio": "expres",
+    "recorded_at": "2025-11-29T23:27:51.521038+01:00",
+    "raw_valid": true,
+    "song_session_id": "3d21bdf4-58e2-43a8-a9e4-fe35b579c351",
+    "duration_ms": 292253,
+    "genre": []
+  },
+  {
+    "song": "Pride",
+    "artists": [
+      "Felix Jaehn",
+      "Jhart"
+    ],
+    "isrc": "DEUM72503423",
+    "start_time": "2025-11-29 23:32:34",
+    "radio": "expres",
+    "recorded_at": "2025-11-29T23:32:51.973157+01:00",
+    "raw_valid": true,
+    "song_session_id": "80452b59-cbcb-4603-b918-ca52d8357669",
+    "duration_ms": 158150,
+    "genre": []
+  },
+  {
+    "song": "Do Cista",
+    "artists": [
+      "Richard Muller"
+    ],
+    "isrc": "SKB331300305",
+    "start_time": "2025-11-29 23:35:15",
+    "radio": "expres",
+    "recorded_at": "2025-11-29T23:35:45.036960+01:00",
+    "raw_valid": true,
+    "song_session_id": "7bd9a3da-8f66-412b-8d91-d7a5dd810a3e",
+    "duration_ms": 211513,
+    "genre": []
+  },
+  {
+    "song": "Another Love",
+    "artists": [
+      "Tom Odell"
+    ],
+    "isrc": "GBARL1300107",
+    "start_time": "2025-11-29 23:39:04",
+    "radio": "expres",
+    "recorded_at": "2025-11-29T23:39:18.434997+01:00",
+    "raw_valid": true,
+    "song_session_id": "7b293cf1-e483-4609-afa5-7ebc273f63e9",
+    "duration_ms": 246040,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Blink Twice",
+    "artists": [
+      "Shaboozey",
+      "Myles Smith"
+    ],
+    "isrc": "USUYG1717098",
+    "start_time": "2025-11-29 23:43:16",
+    "radio": "expres",
+    "recorded_at": "2025-11-29T23:43:48.615552+01:00",
+    "raw_valid": true,
+    "song_session_id": "db9db981-1e2d-420c-b8eb-3574d2f5f0b9",
+    "duration_ms": 156721,
+    "genre": []
+  },
+  {
+    "song": "Bosorka",
+    "artists": [
+      "Elan"
+    ],
+    "isrc": "SKA129150310",
+    "start_time": "2025-11-29 23:45:56",
+    "radio": "expres",
+    "recorded_at": "2025-11-29T23:46:06.113176+01:00",
+    "raw_valid": true,
+    "song_session_id": "788e30bf-f263-4f95-85d8-4d12713485c6",
+    "duration_ms": 235000,
+    "genre": []
+  }
+]

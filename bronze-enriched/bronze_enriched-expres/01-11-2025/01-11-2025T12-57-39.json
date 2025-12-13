@@ -1,0 +1,460 @@
+[
+  {
+    "song": "The One",
+    "artists": [
+      "Michael Patrick Kelly"
+    ],
+    "isrc": "DEE862500476",
+    "start_time": "2025-11-01 11:06:17",
+    "radio": "expres",
+    "recorded_at": "01.11.2025 11:06:50",
+    "raw_valid": true,
+    "song_session_id": "e1b587fc-9448-4840-bf7a-91fc5fa46adb",
+    "duration_ms": 181194,
+    "genre": []
+  },
+  {
+    "song": "Without You",
+    "artists": [
+      "David Guetta",
+      "Usher"
+    ],
+    "isrc": "GB28K1100030",
+    "start_time": "2025-11-01 11:09:16",
+    "radio": "expres",
+    "recorded_at": "01.11.2025 11:09:53",
+    "raw_valid": true,
+    "song_session_id": "8ab7a88e-dcb8-43e2-8072-2dbeebfa918c",
+    "duration_ms": 208133,
+    "genre": [
+      "electronic"
+    ]
+  },
+  {
+    "song": "Rano",
+    "artists": [
+      "Ine Kafe"
+    ],
+    "isrc": "SKA880000304",
+    "start_time": "2025-11-01 11:12:55",
+    "radio": "expres",
+    "recorded_at": "01.11.2025 11:13:33",
+    "raw_valid": true,
+    "song_session_id": "e508e4e9-8a4a-4626-9a8b-bf1d5cc6cb3f",
+    "duration_ms": 237800,
+    "genre": []
+  },
+  {
+    "song": "Espresso",
+    "artists": [
+      "Sabrina Carpenter"
+    ],
+    "isrc": "USUM72403305",
+    "start_time": "2025-11-01 11:16:51",
+    "radio": "expres",
+    "recorded_at": "01.11.2025 11:17:12",
+    "raw_valid": true,
+    "song_session_id": "e9bbd6b4-1dfb-4e13-9574-4f9e73e64b4c",
+    "duration_ms": 175453,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "The Fate Of Ophelia",
+    "artists": [
+      "Taylor Swift"
+    ],
+    "isrc": "USUG12506436",
+    "start_time": "2025-11-01 11:19:42",
+    "radio": "expres",
+    "recorded_at": "01.11.2025 11:20:15",
+    "raw_valid": true,
+    "song_session_id": "9fff339b-3b42-49df-8018-d8bcc6a2782c",
+    "duration_ms": 226073,
+    "genre": [
+      "electronic"
+    ]
+  },
+  {
+    "song": "Broken Strings",
+    "artists": [
+      "James Morrison",
+      "Nelly Furtado"
+    ],
+    "isrc": "GBUM70810083",
+    "start_time": "2025-11-01 11:23:42",
+    "radio": "expres",
+    "recorded_at": "01.11.2025 11:24:13",
+    "raw_valid": true,
+    "song_session_id": "eaf8d9b7-bc18-403a-8845-13d8d682f6a9",
+    "duration_ms": 254733,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "This Is What It Feels Like",
+    "artists": [
+      "Armin Van Buuren"
+    ],
+    "isrc": "NLF711303312",
+    "start_time": "2025-11-01 11:32:58",
+    "radio": "expres",
+    "recorded_at": "01.11.2025 11:33:25",
+    "raw_valid": true,
+    "song_session_id": "1a08e6b8-6af7-47b0-80ca-499e209b52bf",
+    "duration_ms": 204360,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Feelslikeimfallinginlove",
+    "artists": [
+      "Coldplay"
+    ],
+    "isrc": "GBAYE2400676",
+    "start_time": "2025-11-01 11:36:28",
+    "radio": "expres",
+    "recorded_at": "01.11.2025 11:37:06",
+    "raw_valid": true,
+    "song_session_id": "7cb51bcd-071e-499f-bde2-f5b5024a36b7",
+    "duration_ms": 237803,
+    "genre": [
+      "alternative rock"
+    ]
+  },
+  {
+    "song": "White Dove",
+    "artists": [
+      "Scorpions"
+    ],
+    "isrc": "USPR39500251",
+    "start_time": "2025-11-01 11:40:11",
+    "radio": "expres",
+    "recorded_at": "01.11.2025 11:40:45",
+    "raw_valid": true,
+    "song_session_id": "7a78ee14-57fb-447a-a55f-43abfaad5abe",
+    "duration_ms": 260066,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Afterlife",
+    "artists": [
+      "Michael Schulte"
+    ],
+    "isrc": "DECE72500509",
+    "start_time": "2025-11-01 11:44:23",
+    "radio": "expres",
+    "recorded_at": "01.11.2025 11:45:09",
+    "raw_valid": true,
+    "song_session_id": "e76b3ef1-4d68-47a0-8950-34f0c35d8da5",
+    "duration_ms": 160120,
+    "genre": []
+  },
+  {
+    "song": "Ka Ching",
+    "artists": [
+      "Shania Twain"
+    ],
+    "isrc": "USMR10200404",
+    "start_time": "2025-11-01 11:47:07",
+    "radio": "expres",
+    "recorded_at": "01.11.2025 11:47:55",
+    "raw_valid": true,
+    "song_session_id": "a4bc45b7-e9d3-4644-9cf8-d8bf348dfcca",
+    "duration_ms": 200466,
+    "genre": [
+      "country"
+    ]
+  },
+  {
+    "song": "Stumblin In",
+    "artists": [
+      "Cyril"
+    ],
+    "isrc": "NLZ542301810",
+    "start_time": "2025-11-01 11:50:20",
+    "radio": "expres",
+    "recorded_at": "01.11.2025 11:50:51",
+    "raw_valid": true,
+    "song_session_id": "7918fdbe-4aa7-4135-a22b-4429dfb10db7",
+    "duration_ms": 213363,
+    "genre": [
+      "alternative rock"
+    ]
+  },
+  {
+    "song": "Chandelier",
+    "artists": [
+      "Sia"
+    ],
+    "isrc": "USRC11400498",
+    "start_time": "2025-11-01 11:53:40",
+    "radio": "expres",
+    "recorded_at": "01.11.2025 11:54:11",
+    "raw_valid": true,
+    "song_session_id": "b10c91a6-7107-46d6-b00f-e8dce8bfd108",
+    "duration_ms": 216120,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Podme Sa Zachranit",
+    "artists": [
+      "Peter Nagy"
+    ],
+    "isrc": "SKA128666501",
+    "start_time": "2025-11-01 11:57:17",
+    "radio": "expres",
+    "recorded_at": "01.11.2025 11:57:47",
+    "raw_valid": true,
+    "song_session_id": "ac6d23e6-fa51-4777-80ae-004771c922cf",
+    "duration_ms": 224346,
+    "genre": []
+  },
+  {
+    "song": "Call It Love",
+    "artists": [
+      "Felix Jaehn",
+      "Ray Dalton"
+    ],
+    "isrc": "DEUM72204750",
+    "start_time": "2025-11-01 12:05:09",
+    "radio": "expres",
+    "recorded_at": "01.11.2025 12:05:37",
+    "raw_valid": true,
+    "song_session_id": "21eb19e9-3a53-44dc-8506-9e9468f5e17c",
+    "duration_ms": 154560,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "We Are The World",
+    "artists": [
+      "Usa For Africa",
+      "Michael Jackson"
+    ],
+    "isrc": "US25T8511672",
+    "start_time": "2025-11-01 12:07:53",
+    "radio": "expres",
+    "recorded_at": "01.11.2025 12:08:36",
+    "raw_valid": true,
+    "song_session_id": "b940fc9f-2ac1-44ae-a10e-5d14ae8cb532",
+    "duration_ms": 427333,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Glide",
+    "artists": [
+      "Neiked",
+      "Portugal The Man"
+    ],
+    "isrc": "DEE862500421",
+    "start_time": "2025-11-01 12:12:47",
+    "radio": "expres",
+    "recorded_at": "01.11.2025 12:13:17",
+    "raw_valid": true,
+    "song_session_id": "fb722253-19ae-4afe-94ac-8cd321453710",
+    "duration_ms": 184405,
+    "genre": []
+  },
+  {
+    "song": "Midnight Sky",
+    "artists": [
+      "Miley Cyrus"
+    ],
+    "isrc": "USRC12002653",
+    "start_time": "2025-11-01 12:15:42",
+    "radio": "expres",
+    "recorded_at": "01.11.2025 12:16:10",
+    "raw_valid": true,
+    "song_session_id": "d806aa88-7930-49e5-9396-9610cf022b7b",
+    "duration_ms": 223279,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "By Your Side (In My Mind)",
+    "artists": [
+      "Leony"
+    ],
+    "isrc": "DEN062400804",
+    "start_time": "2025-11-01 12:19:30",
+    "radio": "expres",
+    "recorded_at": "01.11.2025 12:19:57",
+    "raw_valid": true,
+    "song_session_id": "33c12f35-0a69-4aae-8c39-e85ec374f892",
+    "duration_ms": 177148,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "I Love You Always Forever",
+    "artists": [
+      "Donna Lewis"
+    ],
+    "isrc": "USAT29600040",
+    "start_time": "2025-11-01 12:22:31",
+    "radio": "expres",
+    "recorded_at": "01.11.2025 12:23:02",
+    "raw_valid": true,
+    "song_session_id": "a9d5d103-2893-4dff-8a60-3fa452aac82a",
+    "duration_ms": 239960,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Head Down",
+    "artists": [
+      "Lost Frequencies",
+      "Bastille"
+    ],
+    "isrc": "BEHP42300071",
+    "start_time": "2025-11-01 12:25:44",
+    "radio": "expres",
+    "recorded_at": "01.11.2025 12:26:22",
+    "raw_valid": true,
+    "song_session_id": "c448a7d3-25b0-4e43-aeeb-0fe5480cd2fc",
+    "duration_ms": 173888,
+    "genre": [
+      "alternative rock"
+    ]
+  },
+  {
+    "song": "Let Me Die",
+    "artists": [
+      "Mark Dann",
+      "Giovanni Ricci"
+    ],
+    "isrc": "US38Y2520370",
+    "start_time": "2025-11-01 12:31:19",
+    "radio": "expres",
+    "recorded_at": "01.11.2025 12:31:57",
+    "raw_valid": true,
+    "song_session_id": "2eb1398a-6d2e-4fd4-b3d1-ad3071ae7929",
+    "duration_ms": 147010,
+    "genre": [
+      "slap house"
+    ]
+  },
+  {
+    "song": "Nahy 2",
+    "artists": [
+      "Richard Muller"
+    ],
+    "isrc": "SKA010109110",
+    "start_time": "2025-11-01 12:33:45",
+    "radio": "expres",
+    "recorded_at": "01.11.2025 12:34:24",
+    "raw_valid": true,
+    "song_session_id": "f2e96cc2-cd87-4ad7-8b15-2d732997bca4",
+    "duration_ms": 300466,
+    "genre": []
+  },
+  {
+    "song": "Superheroes",
+    "artists": [
+      "Script"
+    ],
+    "isrc": "GBARL1400978",
+    "start_time": "2025-11-01 12:38:01",
+    "radio": "expres",
+    "recorded_at": "01.11.2025 12:38:41",
+    "raw_valid": true,
+    "song_session_id": "592bd06d-d781-45db-9d3a-ece0f8707a8d",
+    "duration_ms": 242880,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Head Above Water",
+    "artists": [
+      "Twocolors",
+      "Safri Duo",
+      "Chris De Sarandy"
+    ],
+    "isrc": "DEUM72503698",
+    "start_time": "2025-11-01 12:42:06",
+    "radio": "expres",
+    "recorded_at": "01.11.2025 12:42:41",
+    "raw_valid": true,
+    "song_session_id": "b61fdd73-eda8-4d8e-886d-15986e6e1537",
+    "duration_ms": 174550,
+    "genre": []
+  },
+  {
+    "song": "Slobodna",
+    "artists": [
+      "Elan"
+    ],
+    "isrc": "SKA128343910",
+    "start_time": "2025-11-01 12:44:59",
+    "radio": "expres",
+    "recorded_at": "01.11.2025 12:45:29",
+    "raw_valid": true,
+    "song_session_id": "d87a6ad6-2ee2-4d78-b3e0-93ff3ace67b8",
+    "duration_ms": 215066,
+    "genre": []
+  },
+  {
+    "song": "Waterfall",
+    "artists": [
+      "Michael Schulte",
+      "R3Hab"
+    ],
+    "isrc": "DEUM72119688",
+    "start_time": "2025-11-01 12:48:21",
+    "radio": "expres",
+    "recorded_at": "01.11.2025 12:48:51",
+    "raw_valid": true,
+    "song_session_id": "2b58ecc5-895d-4745-924a-3e07c2ec82d3",
+    "duration_ms": 137999,
+    "genre": []
+  },
+  {
+    "song": "Save My Love",
+    "artists": [
+      "Marshmello",
+      "Ellie Goulding",
+      "Avaion"
+    ],
+    "isrc": "USUG12504310",
+    "start_time": "2025-11-01 12:50:37",
+    "radio": "expres",
+    "recorded_at": "01.11.2025 12:51:11",
+    "raw_valid": true,
+    "song_session_id": "78986c1e-0195-49d4-a11c-4f1b99e34851",
+    "duration_ms": 215555,
+    "genre": [
+      "edm"
+    ]
+  },
+  {
+    "song": "Shivers",
+    "artists": [
+      "Ed Sheeran"
+    ],
+    "isrc": "GBAHS2100671",
+    "start_time": "2025-11-01 12:54:27",
+    "radio": "expres",
+    "recorded_at": "01.11.2025 12:55:11",
+    "raw_valid": true,
+    "song_session_id": "67823be8-2f79-4730-b8fc-4844685a8b5e",
+    "duration_ms": 207853,
+    "genre": [
+      "pop"
+    ]
+  }
+]

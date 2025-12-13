@@ -1,0 +1,453 @@
+[
+  {
+    "song": "Boys Dont Cry",
+    "artists": [
+      "Cure"
+    ],
+    "isrc": "GBALB7800001",
+    "start_time": "2025-12-06 16:56:09",
+    "radio": "expres",
+    "recorded_at": "2025-12-06T16:56:26.293624+01:00",
+    "raw_valid": true,
+    "song_session_id": "8446889d-88b7-4410-bb0a-d21bebc95ee1",
+    "duration_ms": 156506,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Last Christmas",
+    "artists": [
+      "Wham"
+    ],
+    "isrc": "GBBBM8400019",
+    "start_time": "2025-12-06 17:05:19",
+    "radio": "expres",
+    "recorded_at": "2025-12-06T17:05:48.543317+01:00",
+    "raw_valid": true,
+    "song_session_id": "1043422b-baa2-4639-979b-6f87d25d6f32",
+    "duration_ms": 262960,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "When You Say Nothing At All",
+    "artists": [
+      "Ronan Keating"
+    ],
+    "isrc": "GBAKW9900139",
+    "start_time": "2025-12-06 17:09:40",
+    "radio": "expres",
+    "recorded_at": "2025-12-06T17:10:13.088718+01:00",
+    "raw_valid": true,
+    "song_session_id": "b9efc40f-dfc6-4bed-8385-d364747cc1e4",
+    "duration_ms": 254960,
+    "genre": []
+  },
+  {
+    "song": "It Feels So Good",
+    "artists": [
+      "Sonique"
+    ],
+    "isrc": "GBHAD2400076",
+    "start_time": "2025-12-06 17:13:39",
+    "radio": "expres",
+    "recorded_at": "2025-12-06T17:14:11.430866+01:00",
+    "raw_valid": true,
+    "song_session_id": "76e76a69-b669-444b-b0fa-89356d73c513",
+    "duration_ms": 160973,
+    "genre": [
+      "tech house"
+    ]
+  },
+  {
+    "song": "Podme Sa Zachranit",
+    "artists": [
+      "Peter Nagy"
+    ],
+    "isrc": "SKA128666501",
+    "start_time": "2025-12-06 17:18:56",
+    "radio": "expres",
+    "recorded_at": "2025-12-06T17:19:15.454827+01:00",
+    "raw_valid": true,
+    "song_session_id": "487c0906-6baf-4d03-bf14-45981e48a101",
+    "duration_ms": 224346,
+    "genre": []
+  },
+  {
+    "song": "Crush",
+    "artists": [
+      "Jennifer Paige"
+    ],
+    "isrc": "DEB349800301",
+    "start_time": "2025-12-06 17:22:17",
+    "radio": "expres",
+    "recorded_at": "2025-12-06T17:22:33.180518+01:00",
+    "raw_valid": true,
+    "song_session_id": "a2c65187-8d2b-4a75-80f7-395c74830801",
+    "duration_ms": 200293,
+    "genre": [
+      "electronic"
+    ]
+  },
+  {
+    "song": "To Be With You",
+    "artists": [
+      "Mr Big"
+    ],
+    "isrc": "HKG292100094",
+    "start_time": "2025-12-06 17:25:35",
+    "radio": "expres",
+    "recorded_at": "2025-12-06T17:25:55.955932+01:00",
+    "raw_valid": true,
+    "song_session_id": "c2de5b2d-86da-4110-a0ee-2d482f64d9c7",
+    "duration_ms": 208080,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Vymyslena",
+    "artists": [
+      "Elan"
+    ],
+    "isrc": "SKA128229908",
+    "start_time": "2025-12-06 17:31:42",
+    "radio": "expres",
+    "recorded_at": "2025-12-06T17:32:00.698054+01:00",
+    "raw_valid": true,
+    "song_session_id": "3c6b3683-59f4-4fa8-8ed3-8f496b63a036",
+    "duration_ms": 138120,
+    "genre": []
+  },
+  {
+    "song": "Finally (7\" Choice Mix)",
+    "artists": [
+      "Ce Ce Peniston"
+    ],
+    "isrc": "USUM71913057",
+    "start_time": "2025-12-06 17:33:59",
+    "radio": "expres",
+    "recorded_at": "2025-12-06T17:34:22.721591+01:00",
+    "raw_valid": true,
+    "song_session_id": "4f672e5f-6b6d-4133-9378-e943fb7a2c92",
+    "duration_ms": 251933,
+    "genre": [
+      "electronic"
+    ]
+  },
+  {
+    "song": "In The Air Tonight",
+    "artists": [
+      "Phil Collins"
+    ],
+    "isrc": "USAT21502120",
+    "start_time": "2025-12-06 17:38:03",
+    "radio": "expres",
+    "recorded_at": "2025-12-06T17:38:21.048005+01:00",
+    "raw_valid": true,
+    "song_session_id": "64e31635-6477-486c-a988-c2046281e3b1",
+    "duration_ms": 335973,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Marry You",
+    "artists": [
+      "Bruno Mars"
+    ],
+    "isrc": "USAT21001887",
+    "start_time": "2025-12-06 17:42:48",
+    "radio": "expres",
+    "recorded_at": "2025-12-06T17:43:25.054796+01:00",
+    "raw_valid": true,
+    "song_session_id": "ef9cedbd-78b4-4c1e-875d-b0223233fe6b",
+    "duration_ms": 230120,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Never Can Say Goodbye",
+    "artists": [
+      "Communards"
+    ],
+    "isrc": "GBAAP0001082",
+    "start_time": "2025-12-06 17:46:42",
+    "radio": "expres",
+    "recorded_at": "2025-12-06T17:47:08.155416+01:00",
+    "raw_valid": true,
+    "song_session_id": "5cbb413e-83d5-46a6-8ba3-81e482e26322",
+    "duration_ms": 291320,
+    "genre": [
+      "hi-nrg"
+    ]
+  },
+  {
+    "song": "Alone",
+    "artists": [
+      "Heart"
+    ],
+    "isrc": "USCA28700690",
+    "start_time": "2025-12-06 17:53:33",
+    "radio": "expres",
+    "recorded_at": "2025-12-06T17:54:08.769568+01:00",
+    "raw_valid": true,
+    "song_session_id": "16dd3753-68d0-49aa-9360-362deb2c0d31",
+    "duration_ms": 218733,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Santa Claus Is Comin To Town",
+    "artists": [
+      "Mariah Carey"
+    ],
+    "isrc": "USSM10109136",
+    "start_time": "2025-12-06 17:57:15",
+    "radio": "expres",
+    "recorded_at": "2025-12-06T17:57:51.792991+01:00",
+    "raw_valid": true,
+    "song_session_id": "298c55f9-f077-4756-b03e-b4edf351ab77",
+    "duration_ms": 204553,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "The One",
+    "artists": [
+      "Michael Patrick Kelly"
+    ],
+    "isrc": "DEE862500476",
+    "start_time": "2025-12-06 18:05:18",
+    "radio": "expres",
+    "recorded_at": "2025-12-06T18:05:53.159251+01:00",
+    "raw_valid": true,
+    "song_session_id": "d0e7d81f-21bb-4cf7-8acf-1aeab925fac6",
+    "duration_ms": 181194,
+    "genre": []
+  },
+  {
+    "song": "Salt",
+    "artists": [
+      "Ava Max"
+    ],
+    "isrc": "USAT21906991",
+    "start_time": "2025-12-06 18:08:11",
+    "radio": "expres",
+    "recorded_at": "2025-12-06T18:10:32.948271+01:00",
+    "raw_valid": true,
+    "song_session_id": "a7614766-e9dd-4805-bb14-31e3dfb76de0",
+    "duration_ms": 180283,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "End Of The World",
+    "artists": [
+      "Miley Cyrus"
+    ],
+    "isrc": "USSM12501019",
+    "start_time": "2025-12-06 18:11:17",
+    "radio": "expres",
+    "recorded_at": "2025-12-06T18:11:54.333916+01:00",
+    "raw_valid": true,
+    "song_session_id": "bb6d84b7-f724-4401-9f33-4eca972ef0f3",
+    "duration_ms": 250483,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Its My Life",
+    "artists": [
+      "Bon Jovi"
+    ],
+    "isrc": "USIR20000145",
+    "start_time": "2025-12-06 18:15:09",
+    "radio": "expres",
+    "recorded_at": "2025-12-06T18:15:37.465103+01:00",
+    "raw_valid": true,
+    "song_session_id": "364c7e4c-b41b-4203-8e10-0ed2e08506e9",
+    "duration_ms": 224600,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Man I Need",
+    "artists": [
+      "Olivia Dean"
+    ],
+    "isrc": "GBUM72503089",
+    "start_time": "2025-12-06 18:18:51",
+    "radio": "expres",
+    "recorded_at": "2025-12-06T18:19:15.430596+01:00",
+    "raw_valid": true,
+    "song_session_id": "c3b52fd5-6b04-4e11-b564-3ef55e8c8ed1",
+    "duration_ms": 184000,
+    "genre": [
+      "offizielle charts"
+    ]
+  },
+  {
+    "song": "We Pray",
+    "artists": [
+      "Coldplay",
+      "Little Simz",
+      "Burna Boy",
+      "Elyanna",
+      "Tini"
+    ],
+    "isrc": "GBAYE2400890",
+    "start_time": "2025-12-06 18:22:12",
+    "radio": "expres",
+    "recorded_at": "2025-12-06T18:22:38.228718+01:00",
+    "raw_valid": true,
+    "song_session_id": "55d4a302-82d4-4e88-921a-2e36065ce7bf",
+    "duration_ms": 233406,
+    "genre": [
+      "pop rap"
+    ]
+  },
+  {
+    "song": "Vianocny Cas",
+    "artists": [
+      "Emma Drobna"
+    ],
+    "isrc": "SKB452300101",
+    "start_time": "2025-12-06 18:25:35",
+    "radio": "expres",
+    "recorded_at": "2025-12-06T18:26:01.049910+01:00",
+    "raw_valid": true,
+    "song_session_id": "0561a4dd-587f-45fe-9572-26821403c946",
+    "duration_ms": 173151,
+    "genre": []
+  },
+  {
+    "song": "Wonderful Life 25",
+    "artists": [
+      "Hurts",
+      "Purple Disco Machine"
+    ],
+    "isrc": "DEE862500677",
+    "start_time": "2025-12-06 18:31:23",
+    "radio": "expres",
+    "recorded_at": "2025-12-06T18:31:40.573805+01:00",
+    "raw_valid": true,
+    "song_session_id": "ce2e4781-d13f-4c93-8f74-8f44d32fcab1",
+    "duration_ms": 178658,
+    "genre": []
+  },
+  {
+    "song": "Everytime We Touch",
+    "artists": [
+      "Maggie Reilly"
+    ],
+    "isrc": "GBMUJ1900001",
+    "start_time": "2025-12-06 18:34:26",
+    "radio": "expres",
+    "recorded_at": "2025-12-06T18:35:03.496070+01:00",
+    "raw_valid": true,
+    "song_session_id": "ad65e592-f36f-4992-87e2-1ab53cb77fd5",
+    "duration_ms": 244533,
+    "genre": []
+  },
+  {
+    "song": "Love The Way You Lie",
+    "artists": [
+      "Eminem",
+      "Rihanna"
+    ],
+    "isrc": "USUM71015397",
+    "start_time": "2025-12-06 18:38:14",
+    "radio": "expres",
+    "recorded_at": "2025-12-06T18:38:41.570368+01:00",
+    "raw_valid": true,
+    "song_session_id": "b2088dff-941f-489a-863c-5f3a990133af",
+    "duration_ms": 263373,
+    "genre": [
+      "rap"
+    ]
+  },
+  {
+    "song": "Glide",
+    "artists": [
+      "Neiked",
+      "Portugal The Man"
+    ],
+    "isrc": "DEE862500421",
+    "start_time": "2025-12-06 18:42:46",
+    "radio": "expres",
+    "recorded_at": "2025-12-06T18:43:05.099547+01:00",
+    "raw_valid": true,
+    "song_session_id": "8bb8a657-a847-45fd-bc5f-aca38b556176",
+    "duration_ms": 184405,
+    "genre": []
+  },
+  {
+    "song": "Kapela",
+    "artists": [
+      "Imt Smile"
+    ],
+    "isrc": "SKA010400077",
+    "start_time": "2025-12-06 18:45:39",
+    "radio": "expres",
+    "recorded_at": "2025-12-06T18:46:07.746821+01:00",
+    "raw_valid": true,
+    "song_session_id": "80ca1c95-1d72-4497-b5c1-977acf7de684",
+    "duration_ms": 231800,
+    "genre": []
+  },
+  {
+    "song": "I Dont Wanna Wait",
+    "artists": [
+      "David Guetta",
+      "Onerepublic"
+    ],
+    "isrc": "UKWLG2400013",
+    "start_time": "2025-12-06 18:49:28",
+    "radio": "expres",
+    "recorded_at": "2025-12-06T18:49:45.717441+01:00",
+    "raw_valid": true,
+    "song_session_id": "763bd4a5-82e9-4c0b-bd94-0b1ed04da242",
+    "duration_ms": 149667,
+    "genre": [
+      "electronic"
+    ]
+  },
+  {
+    "song": "Blood Running",
+    "artists": [
+      "Ray Dalton"
+    ],
+    "isrc": "DEUM72507812",
+    "start_time": "2025-12-06 18:51:55",
+    "radio": "expres",
+    "recorded_at": "2025-12-06T18:52:27.992914+01:00",
+    "raw_valid": true,
+    "song_session_id": "7fba5a7b-fb10-4c4b-9cb9-b104e2ff393a",
+    "duration_ms": 173146,
+    "genre": []
+  },
+  {
+    "song": "Na Vianoce Domov",
+    "artists": [
+      "Alan Murin",
+      "Radio Expres"
+    ],
+    "isrc": "QZYFZ2540500",
+    "start_time": "2025-12-06 18:55:07",
+    "radio": "expres",
+    "recorded_at": "2025-12-06T18:55:30.447589+01:00",
+    "raw_valid": true,
+    "song_session_id": "eb193afa-453b-4598-ab8f-effce910a656",
+    "duration_ms": 240000,
+    "genre": []
+  }
+]

@@ -1,0 +1,442 @@
+[
+  {
+    "song": "Regalo",
+    "artists": [
+      "Alvaro Soler"
+    ],
+    "isrc": "DEE862500388",
+    "start_time": "2025-11-11 18:07:49",
+    "radio": "expres",
+    "recorded_at": "2025-11-11T18:08:20.226529+01:00",
+    "raw_valid": true,
+    "song_session_id": "76c93665-f84e-421c-91df-579085944dd9",
+    "duration_ms": 184984,
+    "genre": []
+  },
+  {
+    "song": "Maniac",
+    "artists": [
+      "Michael Sembello"
+    ],
+    "isrc": "USPR38302462",
+    "start_time": "2025-11-11 18:11:04",
+    "radio": "expres",
+    "recorded_at": "2025-11-11T18:11:39.810306+01:00",
+    "raw_valid": true,
+    "song_session_id": "66dd06fa-774b-4f09-82c6-71da8064c9ac",
+    "duration_ms": 246000,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Golden",
+    "artists": [
+      "Kpop Demon Hunters"
+    ],
+    "isrc": "QZ8BZ2513510",
+    "start_time": "2025-11-11 18:14:55",
+    "radio": "expres",
+    "recorded_at": "2025-11-11T18:15:22.388068+01:00",
+    "raw_valid": true,
+    "song_session_id": "efbeda1b-9f14-44a5-bccd-c7f32b82652d",
+    "duration_ms": 194607,
+    "genre": [
+      "korean"
+    ]
+  },
+  {
+    "song": "Hymn For The Weekend",
+    "artists": [
+      "Coldplay",
+      "Beyonce"
+    ],
+    "isrc": "GBAYE1500979",
+    "start_time": "2025-11-11 18:17:38",
+    "radio": "expres",
+    "recorded_at": "2025-11-11T18:18:20.243411+01:00",
+    "raw_valid": true,
+    "song_session_id": "e9246e76-433d-4bc8-8484-0ec9c72aa486",
+    "duration_ms": 258265,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Zienka Domaca",
+    "artists": [
+      "Jana Kirschner"
+    ],
+    "isrc": "SKA010003313",
+    "start_time": "2025-11-11 18:21:21",
+    "radio": "expres",
+    "recorded_at": "2025-11-11T18:22:02.580218+01:00",
+    "raw_valid": true,
+    "song_session_id": "2dd50dea-dba4-41db-a3aa-27220ab88855",
+    "duration_ms": 236986,
+    "genre": []
+  },
+  {
+    "song": "Where Is My Husband",
+    "artists": [
+      "Raye"
+    ],
+    "isrc": "QMFME2535037",
+    "start_time": "2025-11-11 18:22:03",
+    "radio": "expres",
+    "recorded_at": "2025-11-11T18:22:42.465542+01:00",
+    "raw_valid": true,
+    "song_session_id": "37593657-13ba-4cb3-a8eb-848b11695328",
+    "duration_ms": 196795,
+    "genre": [
+      "offizielle charts"
+    ]
+  },
+  {
+    "song": "Calm Down",
+    "artists": [
+      "Rema",
+      "Selena Gomez"
+    ],
+    "isrc": "NGA3B2214021",
+    "start_time": "2025-11-11 18:25:16",
+    "radio": "expres",
+    "recorded_at": "2025-11-11T18:25:40.636051+01:00",
+    "raw_valid": true,
+    "song_session_id": "66558596-0e5e-44b8-bf9c-82dff84431c9",
+    "duration_ms": 239317,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Mystical Magical",
+    "artists": [
+      "Benson Boone"
+    ],
+    "isrc": "USWB12500844",
+    "start_time": "2025-11-11 18:33:34",
+    "radio": "expres",
+    "recorded_at": "2025-11-11T18:34:02.824975+01:00",
+    "raw_valid": true,
+    "song_session_id": "3029b5c5-4824-414b-8391-4d3375eefb3a",
+    "duration_ms": 165746,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "When You Say Nothing At All",
+    "artists": [
+      "Ronan Keating"
+    ],
+    "isrc": "GBAKW9900139",
+    "start_time": "2025-11-11 18:36:19",
+    "radio": "expres",
+    "recorded_at": "2025-11-11T18:36:42.722154+01:00",
+    "raw_valid": true,
+    "song_session_id": "8d423c67-10bc-4fb6-bb23-7d6c8fbe948e",
+    "duration_ms": 254960,
+    "genre": []
+  },
+  {
+    "song": "Im Good (Blue)",
+    "artists": [
+      "David Guetta",
+      "Bebe Rexha"
+    ],
+    "isrc": "UKWLG2200055",
+    "start_time": "2025-11-11 18:40:25",
+    "radio": "expres",
+    "recorded_at": "2025-11-11T18:41:01.958829+01:00",
+    "raw_valid": true,
+    "song_session_id": "82c50028-957b-4300-8da7-2d6c9f3d4b98",
+    "duration_ms": 175238,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Medzi Nebom A Zenou",
+    "artists": [
+      "Banket",
+      "Richard Muller",
+      "Ema Muller"
+    ],
+    "isrc": "SKC362500009",
+    "start_time": "2025-11-11 18:43:17",
+    "radio": "expres",
+    "recorded_at": "2025-11-11T18:43:44.568594+01:00",
+    "raw_valid": true,
+    "song_session_id": "d7bf9a5a-629a-462b-a939-cd00efe3227b",
+    "duration_ms": 228666,
+    "genre": []
+  },
+  {
+    "song": "Fairytale Gone Bad",
+    "artists": [
+      "Sunrise Avenue"
+    ],
+    "isrc": "FIB3A0600009",
+    "start_time": "2025-11-11 18:48:37",
+    "radio": "expres",
+    "recorded_at": "2025-11-11T18:49:04.270567+01:00",
+    "raw_valid": true,
+    "song_session_id": "b00f9b58-c729-4c15-bb52-47687d841f70",
+    "duration_ms": 213213,
+    "genre": []
+  },
+  {
+    "song": "Rock N Roll",
+    "artists": [
+      "Leony",
+      "G-Eazy"
+    ],
+    "isrc": "DEN062400703",
+    "start_time": "2025-11-11 18:51:48",
+    "radio": "expres",
+    "recorded_at": "2025-11-11T18:52:28.646665+01:00",
+    "raw_valid": true,
+    "song_session_id": "985342cd-a0b7-47d3-8372-6f60db443cba",
+    "duration_ms": 158374,
+    "genre": [
+      "offizielle charts"
+    ]
+  },
+  {
+    "song": "Jerusalema",
+    "artists": [
+      "Master Kg",
+      "Nomcebo"
+    ],
+    "isrc": "ZA82Y1900130",
+    "start_time": "2025-11-11 18:54:34",
+    "radio": "expres",
+    "recorded_at": "2025-11-11T18:55:07.221841+01:00",
+    "raw_valid": true,
+    "song_session_id": "f602bc58-f16a-41be-b5da-aeb9608eb934",
+    "duration_ms": 342662,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Undressed",
+    "artists": [
+      "Sombr"
+    ],
+    "isrc": "USWB12500737",
+    "start_time": "2025-11-11 19:06:38",
+    "radio": "expres",
+    "recorded_at": "2025-11-11T19:07:11.866176+01:00",
+    "raw_valid": true,
+    "song_session_id": "c03e08bb-3e6b-4649-9879-72e57934a332",
+    "duration_ms": 182088,
+    "genre": [
+      "indie pop"
+    ]
+  },
+  {
+    "song": "Beautiful Madness",
+    "artists": [
+      "Michael Patrick Kelly"
+    ],
+    "isrc": "DEE862000669",
+    "start_time": "2025-11-11 19:09:45",
+    "radio": "expres",
+    "recorded_at": "2025-11-11T19:10:10.433672+01:00",
+    "raw_valid": true,
+    "song_session_id": "6542328d-1734-46b1-83c0-c6293488da61",
+    "duration_ms": 176693,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Eternity",
+    "artists": [
+      "Alex Warren"
+    ],
+    "isrc": "USAT22503779",
+    "start_time": "2025-11-11 19:12:37",
+    "radio": "expres",
+    "recorded_at": "2025-11-11T19:13:23.244448+01:00",
+    "raw_valid": true,
+    "song_session_id": "8fee3e23-0881-4d30-8f11-8ee208ee2095",
+    "duration_ms": 189553,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Ironic",
+    "artists": [
+      "Alanis Morissette"
+    ],
+    "isrc": "USMV21500010",
+    "start_time": "2025-11-11 19:16:09",
+    "radio": "expres",
+    "recorded_at": "2025-11-11T19:16:31.439518+01:00",
+    "raw_valid": true,
+    "song_session_id": "2bc55249-2e3e-4fc9-b4eb-a72e761fb3a1",
+    "duration_ms": 230000,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Nice To Meet You",
+    "artists": [
+      "Myles Smith"
+    ],
+    "isrc": "GBARL2401376",
+    "start_time": "2025-11-11 19:20:18",
+    "radio": "expres",
+    "recorded_at": "2025-11-11T19:21:01.627749+01:00",
+    "raw_valid": true,
+    "song_session_id": "b54fc1ce-1c39-4380-8f27-8d62c0921f10",
+    "duration_ms": 176000,
+    "genre": []
+  },
+  {
+    "song": "Moves Like Jagger",
+    "artists": [
+      "Maroon 5",
+      "Christina Aguilera"
+    ],
+    "isrc": "USUM71109132",
+    "start_time": "2025-11-11 19:23:33",
+    "radio": "expres",
+    "recorded_at": "2025-11-11T19:24:03.762418+01:00",
+    "raw_valid": true,
+    "song_session_id": "aeae53d0-4c68-4430-a25e-c6f3c3c6cda1",
+    "duration_ms": 202859,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "End Of The World",
+    "artists": [
+      "Miley Cyrus"
+    ],
+    "isrc": "USSM12501019",
+    "start_time": "2025-11-11 19:27:02",
+    "radio": "expres",
+    "recorded_at": "2025-11-11T19:27:42.133182+01:00",
+    "raw_valid": true,
+    "song_session_id": "66ab0044-1a2f-4561-8424-94c82348c83c",
+    "duration_ms": 250483,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Afterlife",
+    "artists": [
+      "Michael Schulte"
+    ],
+    "isrc": "DECE72500509",
+    "start_time": "2025-11-11 19:34:18",
+    "radio": "expres",
+    "recorded_at": "2025-11-11T19:34:44.050065+01:00",
+    "raw_valid": true,
+    "song_session_id": "aa7fd4a4-e80d-4496-ab66-7af1c3ce270f",
+    "duration_ms": 160120,
+    "genre": []
+  },
+  {
+    "song": "Feel",
+    "artists": [
+      "Robbie Williams"
+    ],
+    "isrc": "GBFFG0200002",
+    "start_time": "2025-11-11 19:36:58",
+    "radio": "expres",
+    "recorded_at": "2025-11-11T19:37:23.731652+01:00",
+    "raw_valid": true,
+    "song_session_id": "39367e44-edd4-4193-91f9-809de034098a",
+    "duration_ms": 264093,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "The Fate Of Ophelia",
+    "artists": [
+      "Taylor Swift"
+    ],
+    "isrc": "USUG12506436",
+    "start_time": "2025-11-11 19:41:26",
+    "radio": "expres",
+    "recorded_at": "2025-11-11T19:42:03.940059+01:00",
+    "raw_valid": true,
+    "song_session_id": "2860b3ae-5154-454e-ab3b-5e43d4938f65",
+    "duration_ms": 226073,
+    "genre": [
+      "electronic"
+    ]
+  },
+  {
+    "song": "Hall Of Fame",
+    "artists": [
+      "Script",
+      "Will I Am"
+    ],
+    "isrc": "GBARL1201055",
+    "start_time": "2025-11-11 19:45:12",
+    "radio": "expres",
+    "recorded_at": "2025-11-11T19:45:47.399953+01:00",
+    "raw_valid": true,
+    "song_session_id": "f5ba191d-4f46-4da9-aa39-afddd4d222f5",
+    "duration_ms": 201240,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Mad",
+    "artists": [
+      "Martin Garrix",
+      "Lauv"
+    ],
+    "isrc": "NLM5S2502535",
+    "start_time": "2025-11-11 19:49:50",
+    "radio": "expres",
+    "recorded_at": "2025-11-11T19:50:26.621542+01:00",
+    "raw_valid": true,
+    "song_session_id": "89d5faf8-c200-4dd0-bffa-784fb43245e2",
+    "duration_ms": 199804,
+    "genre": []
+  },
+  {
+    "song": "Espresso",
+    "artists": [
+      "Sabrina Carpenter"
+    ],
+    "isrc": "USUM72403305",
+    "start_time": "2025-11-11 19:53:31",
+    "radio": "expres",
+    "recorded_at": "2025-11-11T19:54:10.188183+01:00",
+    "raw_valid": true,
+    "song_session_id": "60472b34-97ee-443f-81ce-2d700704d358",
+    "duration_ms": 175453,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Chlap Z Kriza",
+    "artists": [
+      "Szidi Tobias"
+    ],
+    "isrc": "FRX201717075",
+    "start_time": "2025-11-11 19:56:38",
+    "radio": "expres",
+    "recorded_at": "2025-11-11T19:57:08.118496+01:00",
+    "raw_valid": true,
+    "song_session_id": "d472b13b-50a7-4882-a8b8-bbe7ad733a24",
+    "duration_ms": 307000,
+    "genre": []
+  }
+]

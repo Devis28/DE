@@ -1,0 +1,488 @@
+[
+  {
+    "song": "I Dont Wanna Wait",
+    "artists": [
+      "David Guetta",
+      "Onerepublic"
+    ],
+    "isrc": "UKWLG2400013",
+    "start_time": "2025-11-21 22:04:56",
+    "radio": "expres",
+    "recorded_at": "2025-11-21T22:05:35.553211+01:00",
+    "raw_valid": true,
+    "song_session_id": "f1020dff-fe78-4528-80d5-91ac3dc61f2f",
+    "duration_ms": 149667,
+    "genre": [
+      "electronic"
+    ]
+  },
+  {
+    "song": "Nie Alebo Ano",
+    "artists": [
+      "No Name"
+    ],
+    "isrc": "SKA010110202",
+    "start_time": "2025-11-21 22:07:41",
+    "radio": "expres",
+    "recorded_at": "2025-11-21T22:08:13.902596+01:00",
+    "raw_valid": true,
+    "song_session_id": "4e82efd9-b954-43c0-a386-d535969679b7",
+    "duration_ms": 243600,
+    "genre": []
+  },
+  {
+    "song": "Million Good Reasons",
+    "artists": [
+      "Robin Schulz",
+      "Fast Boy"
+    ],
+    "isrc": "DEA622404738",
+    "start_time": "2025-11-21 22:11:30",
+    "radio": "expres",
+    "recorded_at": "2025-11-21T22:11:58.789224+01:00",
+    "raw_valid": true,
+    "song_session_id": "36971248-fe64-4a9d-8756-84b7654f8eed",
+    "duration_ms": 157130,
+    "genre": []
+  },
+  {
+    "song": "Star Walkin",
+    "artists": [
+      "Lil Nas X"
+    ],
+    "isrc": "USSM12208809",
+    "start_time": "2025-11-21 22:14:04",
+    "radio": "expres",
+    "recorded_at": "2025-11-21T22:14:38.994555+01:00",
+    "raw_valid": true,
+    "song_session_id": "52ef63aa-c24f-456e-8fe7-d35fb9981911",
+    "duration_ms": 210575,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Blood Running",
+    "artists": [
+      "Ray Dalton"
+    ],
+    "isrc": "DEUM72507812",
+    "start_time": "2025-11-21 22:17:27",
+    "radio": "expres",
+    "recorded_at": "2025-11-21T22:18:03.381188+01:00",
+    "raw_valid": true,
+    "song_session_id": "fede9a4a-0b01-4a6e-8854-97445822db7a",
+    "duration_ms": 173146,
+    "genre": []
+  },
+  {
+    "song": "Forever Young",
+    "artists": [
+      "Alphaville"
+    ],
+    "isrc": "DEA629260150",
+    "start_time": "2025-11-21 22:20:39",
+    "radio": "expres",
+    "recorded_at": "2025-11-21T22:21:01.062007+01:00",
+    "raw_valid": true,
+    "song_session_id": "2c350b04-44ef-4fcd-ad50-b3add4734bac",
+    "duration_ms": 226706,
+    "genre": [
+      "electronic"
+    ]
+  },
+  {
+    "song": "Belong Together",
+    "artists": [
+      "Mark Ambor"
+    ],
+    "isrc": "QM24S2400638",
+    "start_time": "2025-11-21 22:24:11",
+    "radio": "expres",
+    "recorded_at": "2025-11-21T22:24:44.608978+01:00",
+    "raw_valid": true,
+    "song_session_id": "558ec709-1879-4b5a-ac05-4201eec17116",
+    "duration_ms": 148317,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Tlakova Niz",
+    "artists": [
+      "Banket"
+    ],
+    "isrc": "SKA128678604",
+    "start_time": "2025-11-21 22:26:39",
+    "radio": "expres",
+    "recorded_at": "2025-11-21T22:27:12.251022+01:00",
+    "raw_valid": true,
+    "song_session_id": "13e82fac-ebd4-4009-afc9-1a7c8a801309",
+    "duration_ms": 279946,
+    "genre": []
+  },
+  {
+    "song": "Be Mine",
+    "artists": [
+      "Kamrad"
+    ],
+    "isrc": "DE1NJ2500035",
+    "start_time": "2025-11-21 22:31:54",
+    "radio": "expres",
+    "recorded_at": "2025-11-21T22:32:26.805915+01:00",
+    "raw_valid": true,
+    "song_session_id": "594e9554-4217-41a7-8ce9-e09228c0d4b3",
+    "duration_ms": 156463,
+    "genre": []
+  },
+  {
+    "song": "Stonka",
+    "artists": [
+      "Kristina"
+    ],
+    "isrc": "SKA011000105",
+    "start_time": "2025-11-21 22:34:45",
+    "radio": "expres",
+    "recorded_at": "2025-11-21T22:35:14.995963+01:00",
+    "raw_valid": true,
+    "song_session_id": "9376b751-b1ab-4f7e-b204-82a309e2e4d0",
+    "duration_ms": 227266,
+    "genre": []
+  },
+  {
+    "song": "I Will Always Love You",
+    "artists": [
+      "Whitney Houston"
+    ],
+    "isrc": "USAR19200110",
+    "start_time": "2025-11-21 22:38:11",
+    "radio": "expres",
+    "recorded_at": "2025-11-21T22:38:42.972979+01:00",
+    "raw_valid": true,
+    "song_session_id": "6dd5a7bd-41e8-46dc-b1d5-7d937febad48",
+    "duration_ms": 270946,
+    "genre": [
+      "electronic"
+    ]
+  },
+  {
+    "song": "Golden",
+    "artists": [
+      "Kpop Demon Hunters"
+    ],
+    "isrc": "QZ8BZ2513510",
+    "start_time": "2025-11-21 22:42:39",
+    "radio": "expres",
+    "recorded_at": "2025-11-21T22:43:26.953357+01:00",
+    "raw_valid": true,
+    "song_session_id": "e943891a-0e5b-4f87-9d4d-19ef1202ada9",
+    "duration_ms": 194607,
+    "genre": [
+      "korean"
+    ]
+  },
+  {
+    "song": "Demons",
+    "artists": [
+      "Imagine Dragons"
+    ],
+    "isrc": "USUM71201071",
+    "start_time": "2025-11-21 22:45:26",
+    "radio": "expres",
+    "recorded_at": "2025-11-21T22:45:59.920117+01:00",
+    "raw_valid": true,
+    "song_session_id": "d29a98e1-38eb-4011-990c-a65352107019",
+    "duration_ms": 177506,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Ray Of Light",
+    "artists": [
+      "Nico Santos"
+    ],
+    "isrc": "DECE72402394",
+    "start_time": "2025-11-21 22:48:26",
+    "radio": "expres",
+    "recorded_at": "2025-11-21T22:49:00.792181+01:00",
+    "raw_valid": true,
+    "song_session_id": "50fb6372-95b4-4402-83e2-c07ddbd33748",
+    "duration_ms": 176500,
+    "genre": []
+  },
+  {
+    "song": "Love Me Not",
+    "artists": [
+      "Ravyn Lenae"
+    ],
+    "isrc": "USAT22401137",
+    "start_time": "2025-11-21 22:51:19",
+    "radio": "expres",
+    "recorded_at": "2025-11-21T22:51:38.438308+01:00",
+    "raw_valid": true,
+    "song_session_id": "9c2c5e0f-114e-46cb-8092-24678c1967af",
+    "duration_ms": 213466,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Clovecina",
+    "artists": [
+      "Elan"
+    ],
+    "isrc": "SKA128343909",
+    "start_time": "2025-11-21 22:54:51",
+    "radio": "expres",
+    "recorded_at": "2025-11-21T22:55:23.100230+01:00",
+    "raw_valid": true,
+    "song_session_id": "c73c3c7a-11b9-4c5d-8a78-556f0f9f8e14",
+    "duration_ms": 277786,
+    "genre": []
+  },
+  {
+    "song": "The One",
+    "artists": [
+      "Michael Patrick Kelly"
+    ],
+    "isrc": "DEE862500476",
+    "start_time": "2025-11-21 23:04:45",
+    "radio": "expres",
+    "recorded_at": "2025-11-21T23:05:11.204266+01:00",
+    "raw_valid": true,
+    "song_session_id": "dbe0330c-39eb-4a8a-9eb5-302f1eb88b78",
+    "duration_ms": 181194,
+    "genre": []
+  },
+  {
+    "song": "Se Bastasse Una Canzone",
+    "artists": [
+      "Eros Ramazzotti"
+    ],
+    "isrc": "ITB009700365",
+    "start_time": "2025-11-21 23:07:48",
+    "radio": "expres",
+    "recorded_at": "2025-11-21T23:08:17.800137+01:00",
+    "raw_valid": true,
+    "song_session_id": "9f82bb35-43d2-438d-b3e0-e011311a329a",
+    "duration_ms": 323866,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Why Why Why",
+    "artists": [
+      "Shawn Mendes"
+    ],
+    "isrc": "USUM72408543",
+    "start_time": "2025-11-21 23:12:06",
+    "radio": "expres",
+    "recorded_at": "2025-11-21T23:12:42.185211+01:00",
+    "raw_valid": true,
+    "song_session_id": "58dcc7bb-83f5-41ee-94f6-dec3f3cba253",
+    "duration_ms": 169041,
+    "genre": []
+  },
+  {
+    "song": "It Aint Me",
+    "artists": [
+      "Kygo",
+      "Selena Gomez"
+    ],
+    "isrc": "SEBGA1700015",
+    "start_time": "2025-11-21 23:14:56",
+    "radio": "expres",
+    "recorded_at": "2025-11-21T23:15:22.117427+01:00",
+    "raw_valid": true,
+    "song_session_id": "4d7228bc-9a49-43f7-a1dd-ac46d339ed9a",
+    "duration_ms": 220780,
+    "genre": [
+      "electronic"
+    ]
+  },
+  {
+    "song": "Vsetko Bude Dobre",
+    "artists": [
+      "Gladiator"
+    ],
+    "isrc": "SKCM72560001",
+    "start_time": "2025-11-21 23:18:25",
+    "radio": "expres",
+    "recorded_at": "2025-11-21T23:19:00.455957+01:00",
+    "raw_valid": true,
+    "song_session_id": "0ba5c18d-d271-4f13-997f-ac28b39fcbc7",
+    "duration_ms": 166588,
+    "genre": []
+  },
+  {
+    "song": "Billie Jean",
+    "artists": [
+      "Michael Jackson"
+    ],
+    "isrc": "USSM19902991",
+    "start_time": "2025-11-21 23:21:32",
+    "radio": "expres",
+    "recorded_at": "2025-11-21T23:22:02.647203+01:00",
+    "raw_valid": true,
+    "song_session_id": "37d86b3b-b6d7-454e-af06-93573bd16490",
+    "duration_ms": 294601,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Beautiful People",
+    "artists": [
+      "David Guetta",
+      "Sia"
+    ],
+    "isrc": "UKWLG2500016",
+    "start_time": "2025-11-21 23:25:49",
+    "radio": "expres",
+    "recorded_at": "2025-11-21T23:26:22.475780+01:00",
+    "raw_valid": true,
+    "song_session_id": "9512fbb9-b786-4331-b8e6-4a80074cc5fb",
+    "duration_ms": 187086,
+    "genre": [
+      "house"
+    ]
+  },
+  {
+    "song": "Nedivaj Sa Tak",
+    "artists": [
+      "Peter Bic Project"
+    ],
+    "isrc": "SKA011800004",
+    "start_time": "2025-11-21 23:28:54",
+    "radio": "expres",
+    "recorded_at": "2025-11-21T23:29:31.787571+01:00",
+    "raw_valid": true,
+    "song_session_id": "5dcc522f-ac04-4f2f-8607-432d6d169a81",
+    "duration_ms": 169723,
+    "genre": []
+  },
+  {
+    "song": "Glide",
+    "artists": [
+      "Neiked",
+      "Portugal The Man"
+    ],
+    "isrc": "DEE862500421",
+    "start_time": "2025-11-21 23:32:46",
+    "radio": "expres",
+    "recorded_at": "2025-11-21T23:33:08.609758+01:00",
+    "raw_valid": true,
+    "song_session_id": "81b43b68-c752-4379-a340-78881eeb0fb1",
+    "duration_ms": 184405,
+    "genre": []
+  },
+  {
+    "song": "Drzim Ti Miesto",
+    "artists": [
+      "Team"
+    ],
+    "isrc": "SKA129031212",
+    "start_time": "2025-11-21 23:36:01",
+    "radio": "expres",
+    "recorded_at": "2025-11-21T23:36:30.834167+01:00",
+    "raw_valid": true,
+    "song_session_id": "8cba297c-1e4a-4c7c-b80e-bc675b741969",
+    "duration_ms": 243640,
+    "genre": []
+  },
+  {
+    "song": "Love Yourself",
+    "artists": [
+      "Justin Bieber"
+    ],
+    "isrc": "USUM71516761",
+    "start_time": "2025-11-21 23:40:03",
+    "radio": "expres",
+    "recorded_at": "2025-11-21T23:40:29.474992+01:00",
+    "raw_valid": true,
+    "song_session_id": "a2406a2e-abf3-41e0-8021-694ad66c6a2b",
+    "duration_ms": 232626,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "The Fate Of Ophelia",
+    "artists": [
+      "Taylor Swift"
+    ],
+    "isrc": "USUG12506436",
+    "start_time": "2025-11-21 23:44:05",
+    "radio": "expres",
+    "recorded_at": "2025-11-21T23:44:38.093093+01:00",
+    "raw_valid": true,
+    "song_session_id": "1aa4f594-adf3-46ed-b692-d737bc95bf2a",
+    "duration_ms": 226073,
+    "genre": [
+      "electronic"
+    ]
+  },
+  {
+    "song": "Steny",
+    "artists": [
+      "Nocaden"
+    ],
+    "isrc": "CZA210000096",
+    "start_time": "2025-11-21 23:47:51",
+    "radio": "expres",
+    "recorded_at": "2025-11-21T23:48:26.369491+01:00",
+    "raw_valid": true,
+    "song_session_id": "ba6c5f93-11b8-453a-b3a0-e7daf783f367",
+    "duration_ms": 195440,
+    "genre": []
+  },
+  {
+    "song": "Unhealthy",
+    "artists": [
+      "Anne-Marie",
+      "Shania Twain"
+    ],
+    "isrc": "GBAHS2300345",
+    "start_time": "2025-11-21 23:51:06",
+    "radio": "expres",
+    "recorded_at": "2025-11-21T23:51:45.796995+01:00",
+    "raw_valid": true,
+    "song_session_id": "0d3af57a-7f74-40cb-9101-5d767b990f34",
+    "duration_ms": 149653,
+    "genre": []
+  },
+  {
+    "song": "Man I Need",
+    "artists": [
+      "Olivia Dean"
+    ],
+    "isrc": "GBUM72503089",
+    "start_time": "2025-11-21 23:53:31",
+    "radio": "expres",
+    "recorded_at": "2025-11-21T23:54:07.999918+01:00",
+    "raw_valid": true,
+    "song_session_id": "d1541955-8deb-4e08-af0d-b682864c691f",
+    "duration_ms": 184000,
+    "genre": [
+      "offizielle charts"
+    ]
+  },
+  {
+    "song": "Here I Am",
+    "artists": [
+      "Bryan Adams"
+    ],
+    "isrc": "USAM10200173",
+    "start_time": "2025-11-21 23:56:45",
+    "radio": "expres",
+    "recorded_at": "2025-11-21T23:57:21.002122+01:00",
+    "raw_valid": true,
+    "song_session_id": "a54e0d30-a6ad-4d8c-8970-e53de0116bc1",
+    "duration_ms": 284066,
+    "genre": [
+      "rock"
+    ]
+  }
+]

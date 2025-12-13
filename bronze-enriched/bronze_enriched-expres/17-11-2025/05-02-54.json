@@ -1,0 +1,518 @@
+[
+  {
+    "song": "Dobri Priatelia",
+    "artists": [
+      "Tublatanka"
+    ],
+    "isrc": "SKG392300109",
+    "start_time": "2025-11-17 04:04:25",
+    "radio": "expres",
+    "recorded_at": "2025-11-17T04:05:31.539917+01:00",
+    "raw_valid": true,
+    "song_session_id": "d17b1b9f-6764-4407-823e-72cfb8c0231d",
+    "duration_ms": 235480,
+    "genre": []
+  },
+  {
+    "song": "I Like The Way You Kiss Me",
+    "artists": [
+      "Artemas"
+    ],
+    "isrc": "QZJ842400387",
+    "start_time": "2025-11-17 04:08:16",
+    "radio": "expres",
+    "recorded_at": "2025-11-17T04:08:48.135399+01:00",
+    "raw_valid": true,
+    "song_session_id": "21fe7898-e571-4baf-bf3f-4587d016a56f",
+    "duration_ms": 142514,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Navzdy",
+    "artists": [
+      "Imt Smile"
+    ],
+    "isrc": "SKA012000043",
+    "start_time": "2025-11-17 04:10:38",
+    "radio": "expres",
+    "recorded_at": "2025-11-17T04:11:05.302584+01:00",
+    "raw_valid": true,
+    "song_session_id": "308c0dad-d3b2-4794-9cd1-3cadcccbd233",
+    "duration_ms": 230911,
+    "genre": []
+  },
+  {
+    "song": "The Best",
+    "artists": [
+      "Tina Turner"
+    ],
+    "isrc": "USCA28900109",
+    "start_time": "2025-11-17 04:14:35",
+    "radio": "expres",
+    "recorded_at": "2025-11-17T04:15:09.026696+01:00",
+    "raw_valid": true,
+    "song_session_id": "77ce368d-1ede-4bee-9870-f4074461608c",
+    "duration_ms": 333267,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Room Of Ghosts (Dudo Rmx)",
+    "artists": [
+      "Elevenhill"
+    ],
+    "isrc": null,
+    "start_time": "2025-11-17 04:18:43",
+    "radio": "expres",
+    "recorded_at": "2025-11-17T04:19:13.125547+01:00",
+    "raw_valid": true,
+    "song_session_id": "edee82aa-8214-4499-8efb-a8988ca3ca1c"
+  },
+  {
+    "song": "Gone Gone Gone",
+    "artists": [
+      "David Guetta",
+      "Teddy Swims",
+      "Tones And I"
+    ],
+    "isrc": "UKWLG2500132",
+    "start_time": "2025-11-17 04:21:43",
+    "radio": "expres",
+    "recorded_at": "2025-11-17T04:22:25.713094+01:00",
+    "raw_valid": true,
+    "song_session_id": "6fafb639-dee3-45cf-9a91-8f43d281cfdf",
+    "duration_ms": 198004,
+    "genre": [
+      "soul"
+    ]
+  },
+  {
+    "song": "Dievca Neplac",
+    "artists": [
+      "Mirka Brezovska"
+    ],
+    "isrc": "SKB722301302",
+    "start_time": "2025-11-17 04:25:22",
+    "radio": "expres",
+    "recorded_at": "2025-11-17T04:25:45.739082+01:00",
+    "raw_valid": true,
+    "song_session_id": "385eb2d5-dc31-46fe-9277-caa496bc0af3",
+    "duration_ms": 161142,
+    "genre": []
+  },
+  {
+    "song": "Overdrive",
+    "artists": [
+      "Ofenbach",
+      "Norma Jean Martine"
+    ],
+    "isrc": "FR9W12347222",
+    "start_time": "2025-11-17 04:28:26",
+    "radio": "expres",
+    "recorded_at": "2025-11-17T04:28:49.207941+01:00",
+    "raw_valid": true,
+    "song_session_id": "9a74fb3d-1ee6-4172-9614-5c300859a854",
+    "duration_ms": 155905,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Regalo",
+    "artists": [
+      "Alvaro Soler"
+    ],
+    "isrc": "DEE862500388",
+    "start_time": "2025-11-17 04:31:11",
+    "radio": "expres",
+    "recorded_at": "2025-11-17T04:31:45.976044+01:00",
+    "raw_valid": true,
+    "song_session_id": "52b7b13a-e35b-48ac-83d6-af88de59077c",
+    "duration_ms": 184984,
+    "genre": []
+  },
+  {
+    "song": "Where Did You Go",
+    "artists": [
+      "Peter Bic Project"
+    ],
+    "isrc": "SKA011700062",
+    "start_time": "2025-11-17 04:34:22",
+    "radio": "expres",
+    "recorded_at": "2025-11-17T04:34:48.862367+01:00",
+    "raw_valid": true,
+    "song_session_id": "ce78c823-488f-482d-a69b-513df406106e",
+    "duration_ms": 253320,
+    "genre": []
+  },
+  {
+    "song": "La Bicicleta",
+    "artists": [
+      "Carlos Vives",
+      "Shakira"
+    ],
+    "isrc": "USSD11600112",
+    "start_time": "2025-11-17 04:38:31",
+    "radio": "expres",
+    "recorded_at": "2025-11-17T04:38:52.410048+01:00",
+    "raw_valid": true,
+    "song_session_id": "c749bc72-5af8-4886-91eb-683d8a461a4e",
+    "duration_ms": 226480,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Miesta",
+    "artists": [
+      "Zuzana Smatanova",
+      "Adam Durica"
+    ],
+    "isrc": "SKI941400603",
+    "start_time": "2025-11-17 04:42:26",
+    "radio": "expres",
+    "recorded_at": "2025-11-17T04:42:56.108783+01:00",
+    "raw_valid": true,
+    "song_session_id": "518fe98c-ec87-4fd7-bda7-2b54655b64a2",
+    "duration_ms": 212858,
+    "genre": []
+  },
+  {
+    "song": "The Fate Of Ophelia",
+    "artists": [
+      "Taylor Swift"
+    ],
+    "isrc": "USUG12506436",
+    "start_time": "2025-11-17 04:45:54",
+    "radio": "expres",
+    "recorded_at": "2025-11-17T04:46:27.643388+01:00",
+    "raw_valid": true,
+    "song_session_id": "eba27f4b-e27a-49a8-8daf-794e08775290",
+    "duration_ms": 226073,
+    "genre": [
+      "electronic"
+    ]
+  },
+  {
+    "song": "Za Tebou",
+    "artists": [
+      "Peha"
+    ],
+    "isrc": "CZA110500020",
+    "start_time": "2025-11-17 04:49:51",
+    "radio": "expres",
+    "recorded_at": "2025-11-17T04:50:28.731546+01:00",
+    "raw_valid": true,
+    "song_session_id": "363c20e5-0465-4f4a-ae9b-62817a66d5f2",
+    "duration_ms": 236680,
+    "genre": []
+  },
+  {
+    "song": "On My Head",
+    "artists": [
+      "Dan Barta"
+    ],
+    "isrc": "CZA140400345",
+    "start_time": "2025-11-17 04:53:31",
+    "radio": "expres",
+    "recorded_at": "2025-11-17T04:53:51.667435+01:00",
+    "raw_valid": true,
+    "song_session_id": "04506d43-b469-401a-a8a5-342d8e4afa9e",
+    "duration_ms": 163360,
+    "genre": []
+  },
+  {
+    "song": "Love In Your Soul",
+    "artists": [
+      "Celeste Buckingham"
+    ],
+    "isrc": "USUM71312321",
+    "start_time": "2025-11-17 04:56:12",
+    "radio": "expres",
+    "recorded_at": "2025-11-17T04:56:34.769730+01:00",
+    "raw_valid": true,
+    "song_session_id": "2d9368b0-0136-459c-8bc2-519ff071e705",
+    "duration_ms": 224733,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Dive",
+    "artists": [
+      "Lost Frequencies",
+      "Tom Gregory"
+    ],
+    "isrc": "BEHP42300028",
+    "start_time": "2025-11-17 04:59:26",
+    "radio": "expres",
+    "recorded_at": "2025-11-17T05:00:09.187021+01:00",
+    "raw_valid": true,
+    "song_session_id": "ed3366b7-7add-4a0a-8f66-472ea4cddd6f",
+    "duration_ms": 161093,
+    "genre": []
+  },
+  {
+    "song": "Stars Will Align",
+    "artists": [
+      "Kygo",
+      "Imagine Dragons"
+    ],
+    "isrc": "SEBGA2401211",
+    "start_time": "2025-11-17 05:02:05",
+    "radio": "expres",
+    "recorded_at": "2025-11-17T05:02:28.710882+01:00",
+    "raw_valid": true,
+    "song_session_id": "7e871ef1-23a1-4a53-a6cc-9f7f13a81a64",
+    "duration_ms": 234366,
+    "genre": []
+  },
+  {
+    "song": "Ja Viem",
+    "artists": [
+      "Robo Grigorov"
+    ],
+    "isrc": "CZA210800942",
+    "start_time": "2025-11-17 05:06:03",
+    "radio": "expres",
+    "recorded_at": "2025-11-17T05:06:28.470192+01:00",
+    "raw_valid": true,
+    "song_session_id": "803bafc6-4e4f-4c45-b599-cbc39d1e0e27",
+    "duration_ms": 209426,
+    "genre": []
+  },
+  {
+    "song": "Mystical Magical",
+    "artists": [
+      "Benson Boone"
+    ],
+    "isrc": "USWB12500844",
+    "start_time": "2025-11-17 05:09:33",
+    "radio": "expres",
+    "recorded_at": "2025-11-17T05:09:51.671974+01:00",
+    "raw_valid": true,
+    "song_session_id": "5273b73e-b80f-401b-b8ba-51771fef51b3",
+    "duration_ms": 165746,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Len S Tebou",
+    "artists": [
+      "Peter Juhas"
+    ],
+    "isrc": "SKBZ92400003",
+    "start_time": "2025-11-17 05:12:17",
+    "radio": "expres",
+    "recorded_at": "2025-11-17T05:12:34.361674+01:00",
+    "raw_valid": true,
+    "song_session_id": "4332c41a-8ba6-4e02-91c8-2b8176097485",
+    "duration_ms": 172872,
+    "genre": []
+  },
+  {
+    "song": "Be My Lover",
+    "artists": [
+      "La Bouche"
+    ],
+    "isrc": "DED169500047",
+    "start_time": "2025-11-17 05:15:10",
+    "radio": "expres",
+    "recorded_at": "2025-11-17T05:15:37.171418+01:00",
+    "raw_valid": true,
+    "song_session_id": "afae07a0-5cc1-43d5-ae33-47ebed7c39f6",
+    "duration_ms": 240266,
+    "genre": [
+      "electronic"
+    ]
+  },
+  {
+    "song": "Aby Bolo Jasne!",
+    "artists": [
+      "Desmod"
+    ],
+    "isrc": "CZA210400238",
+    "start_time": "2025-11-17 05:18:02",
+    "radio": "expres",
+    "recorded_at": "2025-11-17T05:18:28.595154+01:00",
+    "raw_valid": true,
+    "song_session_id": "0d202009-d6b5-4c24-bc44-2cf9e00f39ad",
+    "duration_ms": 196066,
+    "genre": []
+  },
+  {
+    "song": "Head Above Water",
+    "artists": [
+      "Twocolors",
+      "Safri Duo",
+      "Chris De Sarandy"
+    ],
+    "isrc": "DEUM72503698",
+    "start_time": "2025-11-17 05:21:21",
+    "radio": "expres",
+    "recorded_at": "2025-11-17T05:21:48.888772+01:00",
+    "raw_valid": true,
+    "song_session_id": "c8678649-7791-4a1b-b533-f73f2d88dee2",
+    "duration_ms": 174550,
+    "genre": []
+  },
+  {
+    "song": "Biely Kvet",
+    "artists": [
+      "Miro Zbirka"
+    ],
+    "isrc": "SKA128225801",
+    "start_time": "2025-11-17 05:24:25",
+    "radio": "expres",
+    "recorded_at": "2025-11-17T05:24:49.468498+01:00",
+    "raw_valid": true,
+    "song_session_id": "0f1feb7e-3140-49cb-8b80-bf918636e469",
+    "duration_ms": 210880,
+    "genre": []
+  },
+  {
+    "song": "Feelslikeimfallinginlove",
+    "artists": [
+      "Coldplay"
+    ],
+    "isrc": "GBAYE2400676",
+    "start_time": "2025-11-17 05:27:44",
+    "radio": "expres",
+    "recorded_at": "2025-11-17T05:28:12.643895+01:00",
+    "raw_valid": true,
+    "song_session_id": "43b3c4f9-ec92-4bcf-9785-c719fffa4304",
+    "duration_ms": 237803,
+    "genre": [
+      "alternative rock"
+    ]
+  },
+  {
+    "song": "Undressed",
+    "artists": [
+      "Sombr"
+    ],
+    "isrc": "USWB12500737",
+    "start_time": "2025-11-17 05:32:03",
+    "radio": "expres",
+    "recorded_at": "2025-11-17T05:32:37.659001+01:00",
+    "raw_valid": true,
+    "song_session_id": "eded49c4-f4cd-4eee-b3a3-30822d33b431",
+    "duration_ms": 182088,
+    "genre": [
+      "indie pop"
+    ]
+  },
+  {
+    "song": "Mala Nocna Burka",
+    "artists": [
+      "Team"
+    ],
+    "isrc": "SKA128804506",
+    "start_time": "2025-11-17 05:35:07",
+    "radio": "expres",
+    "recorded_at": "2025-11-17T05:35:49.027623+01:00",
+    "raw_valid": true,
+    "song_session_id": "d23a3e7a-4310-42d7-bdd1-284244c2b04a",
+    "duration_ms": 244333,
+    "genre": []
+  },
+  {
+    "song": "We Are The World",
+    "artists": [
+      "Usa For Africa",
+      "Michael Jackson"
+    ],
+    "isrc": "US25T8511672",
+    "start_time": "2025-11-17 05:39:08",
+    "radio": "expres",
+    "recorded_at": "2025-11-17T05:39:42.718064+01:00",
+    "raw_valid": true,
+    "song_session_id": "3cae3886-7071-4b11-998d-67e40e08710d",
+    "duration_ms": 427333,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Sam S Nou",
+    "artists": [
+      "Gladiator"
+    ],
+    "isrc": "SKB701403012",
+    "start_time": "2025-11-17 05:44:07",
+    "radio": "expres",
+    "recorded_at": "2025-11-17T05:44:34.383375+01:00",
+    "raw_valid": true,
+    "song_session_id": "176053de-81d5-45d1-a0bc-ee269d4f2999",
+    "duration_ms": 254253,
+    "genre": []
+  },
+  {
+    "song": "Budapest",
+    "artists": [
+      "George Ezra"
+    ],
+    "isrc": "GBARL1400477",
+    "start_time": "2025-11-17 05:47:38",
+    "radio": "expres",
+    "recorded_at": "2025-11-17T05:48:12.705149+01:00",
+    "raw_valid": true,
+    "song_session_id": "c394d57d-7c87-4b31-8dc8-e7ea3858e04b",
+    "duration_ms": 200733,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Medzi Nebom A Zenou",
+    "artists": [
+      "Banket",
+      "Richard Muller",
+      "Ema Muller"
+    ],
+    "isrc": "SKC362500009",
+    "start_time": "2025-11-17 05:50:57",
+    "radio": "expres",
+    "recorded_at": "2025-11-17T05:51:35.859625+01:00",
+    "raw_valid": true,
+    "song_session_id": "696bac8f-8eb0-44c3-a748-913ba3aa1725",
+    "duration_ms": 228666,
+    "genre": []
+  },
+  {
+    "song": "Almost Lover",
+    "artists": [
+      "A Fine Frenzy"
+    ],
+    "isrc": "USVI20700644",
+    "start_time": "2025-11-17 05:55:07",
+    "radio": "expres",
+    "recorded_at": "2025-11-17T05:55:40.118599+01:00",
+    "raw_valid": true,
+    "song_session_id": "816f3d2d-05ce-45aa-957b-5d81908664b3",
+    "duration_ms": 268800,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Pre Vas Hram",
+    "artists": [
+      "Kali",
+      "Karol Duchon",
+      "Peter Pann"
+    ],
+    "isrc": "CZA232500151",
+    "start_time": "2025-11-17 05:58:48",
+    "radio": "expres",
+    "recorded_at": "2025-11-17T05:59:18.457802+01:00",
+    "raw_valid": true,
+    "song_session_id": "3c61de6f-5314-4e60-ba58-9c3fa5250596",
+    "duration_ms": 149118,
+    "genre": []
+  }
+]

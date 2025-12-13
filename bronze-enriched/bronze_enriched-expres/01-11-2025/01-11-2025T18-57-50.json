@@ -1,0 +1,443 @@
+[
+  {
+    "song": "I Dont Wanna Dance",
+    "artists": [
+      "Eddy Grant"
+    ],
+    "isrc": "UKALA2300002",
+    "start_time": "2025-11-01 16:57:01",
+    "radio": "expres",
+    "recorded_at": "01.11.2025 16:57:32",
+    "raw_valid": true,
+    "song_session_id": "041472d9-c03d-4726-9e64-b61876875c89",
+    "duration_ms": 219533,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Jesenna Laska",
+    "artists": [
+      "Miro Zbirka"
+    ],
+    "isrc": "CZUM71100297",
+    "start_time": "2025-11-01 17:06:53",
+    "radio": "expres",
+    "recorded_at": "01.11.2025 17:07:16",
+    "raw_valid": true,
+    "song_session_id": "d7d38166-e0f0-4756-a2ef-0016907fa897",
+    "duration_ms": 192453,
+    "genre": []
+  },
+  {
+    "song": "Absolutely Everybody",
+    "artists": [
+      "Vanessa Amorosi"
+    ],
+    "isrc": "AUV401421327",
+    "start_time": "2025-11-01 17:09:34",
+    "radio": "expres",
+    "recorded_at": "01.11.2025 17:10:06",
+    "raw_valid": true,
+    "song_session_id": "948b22b9-c82c-4d32-8116-3b36a7b5e442",
+    "duration_ms": 224600,
+    "genre": []
+  },
+  {
+    "song": "Big In Japan",
+    "artists": [
+      "Alphaville"
+    ],
+    "isrc": "DEA629260037",
+    "start_time": "2025-11-01 17:13:21",
+    "radio": "expres",
+    "recorded_at": "01.11.2025 17:14:06",
+    "raw_valid": true,
+    "song_session_id": "db04610c-655c-484e-9ce9-02a62e5330fd",
+    "duration_ms": 286160,
+    "genre": [
+      "electronic"
+    ]
+  },
+  {
+    "song": "Heaven",
+    "artists": [
+      "Bryan Adams"
+    ],
+    "isrc": "USAM18490004",
+    "start_time": "2025-11-01 17:18:38",
+    "radio": "expres",
+    "recorded_at": "01.11.2025 17:19:09",
+    "raw_valid": true,
+    "song_session_id": "dcec5067-a4c8-47da-9b7e-dffeebef970a",
+    "duration_ms": 244040,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Papa Dont Preach",
+    "artists": [
+      "Madonna"
+    ],
+    "isrc": "USWB19903344",
+    "start_time": "2025-11-01 17:22:36",
+    "radio": "expres",
+    "recorded_at": "01.11.2025 17:23:09",
+    "raw_valid": true,
+    "song_session_id": "7ab9eb9f-ba75-4b45-9459-04afe59971ab",
+    "duration_ms": 268533,
+    "genre": [
+      "electronic"
+    ]
+  },
+  {
+    "song": "Hot N Cold",
+    "artists": [
+      "Katy Perry"
+    ],
+    "isrc": "USCA20802544",
+    "start_time": "2025-11-01 17:27:04",
+    "radio": "expres",
+    "recorded_at": "01.11.2025 17:27:27",
+    "raw_valid": true,
+    "song_session_id": "5937b977-1447-4ab5-bb21-615b38723979",
+    "duration_ms": 220226,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "The Reason",
+    "artists": [
+      "Hoobastank"
+    ],
+    "isrc": "USIR20300704",
+    "start_time": "2025-11-01 17:33:42",
+    "radio": "expres",
+    "recorded_at": "01.11.2025 17:34:07",
+    "raw_valid": true,
+    "song_session_id": "a7095237-cede-4ae7-adbb-c134d23fefe5",
+    "duration_ms": 233200,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Cheri Cheri Lady",
+    "artists": [
+      "Modern Talking"
+    ],
+    "isrc": "DEC738500001",
+    "start_time": "2025-11-01 17:36:25",
+    "radio": "expres",
+    "recorded_at": "01.11.2025 17:36:47",
+    "raw_valid": true,
+    "song_session_id": "f8136f57-a406-4f76-862d-3a162523bd34",
+    "duration_ms": 227880,
+    "genre": [
+      "electronic"
+    ]
+  },
+  {
+    "song": "I Love Your Smile",
+    "artists": [
+      "Shanice"
+    ],
+    "isrc": "USMO19190003",
+    "start_time": "2025-11-01 17:40:13",
+    "radio": "expres",
+    "recorded_at": "01.11.2025 17:40:47",
+    "raw_valid": true,
+    "song_session_id": "c9b0e250-f720-4272-8092-ce76d63f3fbb",
+    "duration_ms": 257973,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Im With You",
+    "artists": [
+      "Avril Lavigne"
+    ],
+    "isrc": "USAR10200224",
+    "start_time": "2025-11-01 17:44:34",
+    "radio": "expres",
+    "recorded_at": "01.11.2025 17:45:10",
+    "raw_valid": true,
+    "song_session_id": "326c0a8c-93af-4d2c-bb56-39cbc7a56327",
+    "duration_ms": 225806,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Come On Eileen",
+    "artists": [
+      "Dexys Midnight Runners"
+    ],
+    "isrc": "GBF088200006",
+    "start_time": "2025-11-01 17:48:23",
+    "radio": "expres",
+    "recorded_at": "01.11.2025 17:48:48",
+    "raw_valid": true,
+    "song_session_id": "2fe34dc7-4abe-4262-80a4-4c1c94c0f738",
+    "duration_ms": 285357,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Only Time (Two Tribes Remix)",
+    "artists": [
+      "Enya"
+    ],
+    "isrc": null,
+    "start_time": "2025-11-01 17:54:52",
+    "radio": "expres",
+    "recorded_at": "01.11.2025 17:55:15",
+    "raw_valid": true,
+    "song_session_id": "2283c125-92a1-4041-82af-64eac81ce8a6"
+  },
+  {
+    "song": "I Wont Let The Sun Go Down On Me",
+    "artists": [
+      "Nik Kershaw"
+    ],
+    "isrc": "GBBBY0300012",
+    "start_time": "2025-11-01 17:58:08",
+    "radio": "expres",
+    "recorded_at": "01.11.2025 17:58:33",
+    "raw_valid": true,
+    "song_session_id": "9a79af54-8234-48b8-9179-53c7e73591dd",
+    "duration_ms": 196066,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Ordinary",
+    "artists": [
+      "Alex Warren"
+    ],
+    "isrc": "USAT22500463",
+    "start_time": "2025-11-01 18:05:48",
+    "radio": "expres",
+    "recorded_at": "01.11.2025 18:06:15",
+    "raw_valid": true,
+    "song_session_id": "d0fe885d-9a38-475d-8665-a687949c17a3",
+    "duration_ms": 186964,
+    "genre": [
+      "folk"
+    ]
+  },
+  {
+    "song": "Fuoco Nel Fuoco",
+    "artists": [
+      "Eros Ramazzotti"
+    ],
+    "isrc": "NLA200000084",
+    "start_time": "2025-11-01 18:08:59",
+    "radio": "expres",
+    "recorded_at": "01.11.2025 18:09:28",
+    "raw_valid": true,
+    "song_session_id": "9a5e97f6-1e0d-4f31-a842-2bd80ab1d7c5",
+    "duration_ms": 242653,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Celestial",
+    "artists": [
+      "Ed Sheeran"
+    ],
+    "isrc": "GBAHS2201129",
+    "start_time": "2025-11-01 18:13:02",
+    "radio": "expres",
+    "recorded_at": "01.11.2025 18:13:50",
+    "raw_valid": true,
+    "song_session_id": "e5e603b0-aec2-402b-9b5b-60cc8f59928a",
+    "duration_ms": 209026,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Comin Home",
+    "artists": [
+      "Diddy-Dirty Money",
+      "Skylar Grey"
+    ],
+    "isrc": "USUM71027542",
+    "start_time": "2025-11-01 18:16:31",
+    "radio": "expres",
+    "recorded_at": "01.11.2025 18:17:10",
+    "raw_valid": true,
+    "song_session_id": "3f873298-8eb5-4313-b6b8-fdbd8c92a4e0",
+    "duration_ms": 238693,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Medzi Nebom A Zenou",
+    "artists": [
+      "Banket",
+      "Richard Muller",
+      "Ema Muller"
+    ],
+    "isrc": "SKC362500009",
+    "start_time": "2025-11-01 18:19:27",
+    "radio": "expres",
+    "recorded_at": "01.11.2025 18:20:09",
+    "raw_valid": true,
+    "song_session_id": "5317ccfb-2c10-4c4a-9ee0-8dda89eb288f",
+    "duration_ms": 228666,
+    "genre": []
+  },
+  {
+    "song": "Save Me",
+    "artists": [
+      "Morandi"
+    ],
+    "isrc": "ROUM70700048",
+    "start_time": "2025-11-01 18:23:37",
+    "radio": "expres",
+    "recorded_at": "01.11.2025 18:24:08",
+    "raw_valid": true,
+    "song_session_id": "8698992c-bdfd-4e86-b285-b9e991549c2a",
+    "duration_ms": 274133,
+    "genre": [
+      "europop"
+    ]
+  },
+  {
+    "song": "Rock N Roll",
+    "artists": [
+      "Leony",
+      "G-Eazy"
+    ],
+    "isrc": "DEN062400703",
+    "start_time": "2025-11-01 18:27:01",
+    "radio": "expres",
+    "recorded_at": "01.11.2025 18:27:29",
+    "raw_valid": true,
+    "song_session_id": "ef676101-8c76-4f21-8f22-474087b40a95",
+    "duration_ms": 158374,
+    "genre": [
+      "offizielle charts"
+    ]
+  },
+  {
+    "song": "Million Good Reasons",
+    "artists": [
+      "Robin Schulz",
+      "Fast Boy"
+    ],
+    "isrc": "DEA622404738",
+    "start_time": "2025-11-01 18:32:27",
+    "radio": "expres",
+    "recorded_at": "01.11.2025 18:32:48",
+    "raw_valid": true,
+    "song_session_id": "7a560234-6720-4913-8d3b-587067f75c05",
+    "duration_ms": 157130,
+    "genre": [
+      "tropical house"
+    ]
+  },
+  {
+    "song": "Love Me Like You Do",
+    "artists": [
+      "Ellie Goulding"
+    ],
+    "isrc": "GBUM71406823",
+    "start_time": "2025-11-01 18:35:09",
+    "radio": "expres",
+    "recorded_at": "01.11.2025 18:35:29",
+    "raw_valid": true,
+    "song_session_id": "f75f9072-c04a-4e64-b1d0-d12c7e5d7c11",
+    "duration_ms": 253279,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "The Way You Make Me Feel",
+    "artists": [
+      "Michael Jackson"
+    ],
+    "isrc": "USSM19909066",
+    "start_time": "2025-11-01 18:38:59",
+    "radio": "expres",
+    "recorded_at": "01.11.2025 18:39:28",
+    "raw_valid": true,
+    "song_session_id": "151ca10b-3c77-4f91-b7fd-50ef6862691e",
+    "duration_ms": 298121,
+    "genre": [
+      "trance"
+    ]
+  },
+  {
+    "song": "Pride",
+    "artists": [
+      "Felix Jaehn",
+      "Jhart"
+    ],
+    "isrc": "DEUM72503423",
+    "start_time": "2025-11-01 18:43:53",
+    "radio": "expres",
+    "recorded_at": "01.11.2025 18:44:13",
+    "raw_valid": true,
+    "song_session_id": "4738b574-41e9-405b-a64f-7f62bdcd1a11",
+    "duration_ms": 158150,
+    "genre": [
+      "tropical house"
+    ]
+  },
+  {
+    "song": "Caba Neblazni",
+    "artists": [
+      "Elan"
+    ],
+    "isrc": "SKA128912902",
+    "start_time": "2025-11-01 18:46:32",
+    "radio": "expres",
+    "recorded_at": "01.11.2025 18:46:51",
+    "raw_valid": true,
+    "song_session_id": "45100c92-a836-425d-9b22-408b2fb30a96",
+    "duration_ms": 279413,
+    "genre": []
+  },
+  {
+    "song": "Beautiful Reason",
+    "artists": [
+      "Michael Schulte"
+    ],
+    "isrc": "DECE72400963",
+    "start_time": "2025-11-01 18:51:18",
+    "radio": "expres",
+    "recorded_at": "01.11.2025 18:51:56",
+    "raw_valid": true,
+    "song_session_id": "cc6253d0-0899-451e-96d6-2ca36bb8ef26",
+    "duration_ms": 183586,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Blink Twice",
+    "artists": [
+      "Shaboozey",
+      "Myles Smith"
+    ],
+    "isrc": "USUYG1717098",
+    "start_time": "2025-11-01 18:54:20",
+    "radio": "expres",
+    "recorded_at": "01.11.2025 18:54:54",
+    "raw_valid": true,
+    "song_session_id": "0d7f96a9-c7c7-4fa7-b019-c937617f0447",
+    "duration_ms": 156721,
+    "genre": []
+  }
+]

@@ -1,0 +1,515 @@
+[
+  {
+    "song": "Pride",
+    "artists": [
+      "Felix Jaehn",
+      "Jhart"
+    ],
+    "isrc": "DEUM72503423",
+    "start_time": "2025-11-24 02:04:01",
+    "radio": "expres",
+    "recorded_at": "2025-11-24T02:04:17.278008+01:00",
+    "raw_valid": true,
+    "song_session_id": "b05a2848-6c19-43e0-9f40-ef295e875446",
+    "duration_ms": 158150,
+    "genre": []
+  },
+  {
+    "song": "Cardas Dvoch Srdc",
+    "artists": [
+      "Adam Durica"
+    ],
+    "isrc": "SKCM72501006",
+    "start_time": "2025-11-24 02:06:46",
+    "radio": "expres",
+    "recorded_at": "2025-11-24T02:07:00.238990+01:00",
+    "raw_valid": true,
+    "song_session_id": "deaeec75-c2b9-445d-8f4b-d572c638fdad",
+    "duration_ms": 219280,
+    "genre": []
+  },
+  {
+    "song": "Beautiful Things",
+    "artists": [
+      "Benson Boone"
+    ],
+    "isrc": "USWB12307016",
+    "start_time": "2025-11-24 02:10:31",
+    "radio": "expres",
+    "recorded_at": "2025-11-24T02:10:43.612564+01:00",
+    "raw_valid": true,
+    "song_session_id": "ed9a70bd-7f85-46af-8aa4-7b92584d5fc5",
+    "duration_ms": 180304,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Do You Love Me",
+    "artists": [
+      "Made 2 Mate"
+    ],
+    "isrc": "SKA122200002",
+    "start_time": "2025-11-24 02:13:42",
+    "radio": "expres",
+    "recorded_at": "2025-11-24T02:14:06.953103+01:00",
+    "raw_valid": true,
+    "song_session_id": "31ed8cc8-2eb8-40f7-837d-2a821bf910e6",
+    "duration_ms": 219026,
+    "genre": []
+  },
+  {
+    "song": "Alone",
+    "artists": [
+      "Heart"
+    ],
+    "isrc": "USCA28700690",
+    "start_time": "2025-11-24 02:17:24",
+    "radio": "expres",
+    "recorded_at": "2025-11-24T02:17:58.754062+01:00",
+    "raw_valid": true,
+    "song_session_id": "1dd7abc9-8aa4-4313-b3bf-727af4b22c62",
+    "duration_ms": 218733,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Prec Prec",
+    "artists": [
+      "Pavol Habera"
+    ],
+    "isrc": "FRX451573110",
+    "start_time": "2025-11-24 02:21:03",
+    "radio": "expres",
+    "recorded_at": "2025-11-24T02:21:19.068549+01:00",
+    "raw_valid": true,
+    "song_session_id": "3a3ecf2d-dfb4-43d0-aee4-816a3b556988",
+    "duration_ms": 224493,
+    "genre": []
+  },
+  {
+    "song": "Man I Need",
+    "artists": [
+      "Olivia Dean"
+    ],
+    "isrc": "GBUM72503089",
+    "start_time": "2025-11-24 02:24:22",
+    "radio": "expres",
+    "recorded_at": "2025-11-24T02:24:42.365625+01:00",
+    "raw_valid": true,
+    "song_session_id": "213fe0d7-91ed-4df5-9a05-b8f83a86857a",
+    "duration_ms": 184000,
+    "genre": [
+      "offizielle charts"
+    ]
+  },
+  {
+    "song": "Kristinka Iba Spi",
+    "artists": [
+      "Peter Nagy"
+    ],
+    "isrc": "SKA128456906",
+    "start_time": "2025-11-24 02:27:43",
+    "radio": "expres",
+    "recorded_at": "2025-11-24T02:28:05.667287+01:00",
+    "raw_valid": true,
+    "song_session_id": "f4c72639-4638-4f37-a814-ab163ec3e3bf",
+    "duration_ms": 293826,
+    "genre": []
+  },
+  {
+    "song": "Belong Together",
+    "artists": [
+      "Mark Ambor"
+    ],
+    "isrc": "QM24S2400638",
+    "start_time": "2025-11-24 02:32:25",
+    "radio": "expres",
+    "recorded_at": "2025-11-24T02:32:49.956878+01:00",
+    "raw_valid": true,
+    "song_session_id": "1b3fa35e-77f5-4b42-a234-c71b6bac18f1",
+    "duration_ms": 148317,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "The Fate Of Ophelia",
+    "artists": [
+      "Taylor Swift"
+    ],
+    "isrc": "USUG12506436",
+    "start_time": "2025-11-24 02:35:29",
+    "radio": "expres",
+    "recorded_at": "2025-11-24T02:35:59.854877+01:00",
+    "raw_valid": true,
+    "song_session_id": "95833565-7879-449c-8ebc-74d00cca825d",
+    "duration_ms": 226073,
+    "genre": [
+      "electronic"
+    ]
+  },
+  {
+    "song": "Niekto Ako Kral",
+    "artists": [
+      "Imt Smile"
+    ],
+    "isrc": "SKA011800007",
+    "start_time": "2025-11-24 02:39:22",
+    "radio": "expres",
+    "recorded_at": "2025-11-24T02:39:38.536559+01:00",
+    "raw_valid": true,
+    "song_session_id": "4b503a6a-8e4d-4f1b-9678-b3dc9bcf7fc5",
+    "duration_ms": 456040,
+    "genre": []
+  },
+  {
+    "song": "What Is Love",
+    "artists": [
+      "Haddaway"
+    ],
+    "isrc": "DEA410500401",
+    "start_time": "2025-11-24 02:42:36",
+    "radio": "expres",
+    "recorded_at": "2025-11-24T02:43:07.575124+01:00",
+    "raw_valid": true,
+    "song_session_id": "8fe4e3d9-4474-4444-abbd-af3c5623b0f4",
+    "duration_ms": 270373,
+    "genre": [
+      "trance"
+    ]
+  },
+  {
+    "song": "Sestricka Z Kramarov",
+    "artists": [
+      "Elan"
+    ],
+    "isrc": "SKA129150302",
+    "start_time": "2025-11-24 02:47:12",
+    "radio": "expres",
+    "recorded_at": "2025-11-24T02:47:33.055893+01:00",
+    "raw_valid": true,
+    "song_session_id": "2df238e7-9c48-4785-b25a-42ebd21c3597",
+    "duration_ms": 238000,
+    "genre": []
+  },
+  {
+    "song": "Save My Love",
+    "artists": [
+      "Marshmello",
+      "Ellie Goulding",
+      "Avaion"
+    ],
+    "isrc": "USUG12504310",
+    "start_time": "2025-11-24 02:51:00",
+    "radio": "expres",
+    "recorded_at": "2025-11-24T02:51:20.283876+01:00",
+    "raw_valid": true,
+    "song_session_id": "b2e06578-a210-4c8f-bd28-a7a098bf6bda",
+    "duration_ms": 215555,
+    "genre": []
+  },
+  {
+    "song": "Liska",
+    "artists": [
+      "Jana Kirschner"
+    ],
+    "isrc": "SKA010003302",
+    "start_time": "2025-11-24 02:54:43",
+    "radio": "expres",
+    "recorded_at": "2025-11-24T02:55:03.993294+01:00",
+    "raw_valid": true,
+    "song_session_id": "a3707ba6-ab0b-4a9d-a555-83fa4d7310c7",
+    "duration_ms": 192520,
+    "genre": []
+  },
+  {
+    "song": "Radioactive",
+    "artists": [
+      "Imagine Dragons"
+    ],
+    "isrc": "USUM71201074",
+    "start_time": "2025-11-24 02:57:55",
+    "radio": "expres",
+    "recorded_at": "2025-11-24T02:58:12.176066+01:00",
+    "raw_valid": true,
+    "song_session_id": "55c15014-454f-44d4-a2c5-d03ec11c346d",
+    "duration_ms": 188000,
+    "genre": [
+      "indie"
+    ]
+  },
+  {
+    "song": "To Okolo Nas",
+    "artists": [
+      "Para"
+    ],
+    "isrc": "SKP662201002",
+    "start_time": "2025-11-24 03:00:59",
+    "radio": "expres",
+    "recorded_at": "2025-11-24T03:01:35.058433+01:00",
+    "raw_valid": true,
+    "song_session_id": "c2cf6550-d142-4e4d-853a-26e19d9c77ae",
+    "duration_ms": 257185,
+    "genre": []
+  },
+  {
+    "song": "Green Green Grass",
+    "artists": [
+      "George Ezra"
+    ],
+    "isrc": "GBARL2200008",
+    "start_time": "2025-11-24 03:04:42",
+    "radio": "expres",
+    "recorded_at": "2025-11-24T03:05:15.833236+01:00",
+    "raw_valid": true,
+    "song_session_id": "3d1a28e3-1a05-4802-9fb2-db4955dff91f",
+    "duration_ms": 167613,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Divoky Dazd",
+    "artists": [
+      "Gladiator"
+    ],
+    "isrc": "CZA210200527",
+    "start_time": "2025-11-24 03:07:28",
+    "radio": "expres",
+    "recorded_at": "2025-11-24T03:07:53.545825+01:00",
+    "raw_valid": true,
+    "song_session_id": "8af529e6-f879-4372-b25d-19d4dc04ae07",
+    "duration_ms": 227760,
+    "genre": []
+  },
+  {
+    "song": "Be Mine",
+    "artists": [
+      "Kamrad"
+    ],
+    "isrc": "DE1NJ2500035",
+    "start_time": "2025-11-24 03:11:20",
+    "radio": "expres",
+    "recorded_at": "2025-11-24T03:11:42.147674+01:00",
+    "raw_valid": true,
+    "song_session_id": "4ccd370a-ebfe-44a9-95ea-8f8ade58df9f",
+    "duration_ms": 156463,
+    "genre": []
+  },
+  {
+    "song": "Povedzme",
+    "artists": [
+      "Robo Grigorov"
+    ],
+    "isrc": "CZA210800043",
+    "start_time": "2025-11-24 03:14:04",
+    "radio": "expres",
+    "recorded_at": "2025-11-24T03:14:30.585022+01:00",
+    "raw_valid": true,
+    "song_session_id": "e0dd75db-dd62-4940-9023-8b45f9359685",
+    "duration_ms": 291973,
+    "genre": []
+  },
+  {
+    "song": "U + Ur Hand",
+    "artists": [
+      "Pink"
+    ],
+    "isrc": "USLF20500242",
+    "start_time": "2025-11-24 03:17:32",
+    "radio": "expres",
+    "recorded_at": "2025-11-24T03:17:53.760889+01:00",
+    "raw_valid": true,
+    "song_session_id": "7c1697b9-106c-4041-a011-1fb4d28debf0",
+    "duration_ms": 214826,
+    "genre": []
+  },
+  {
+    "song": "Mmuoj Boze",
+    "artists": [
+      "Katarina Knechtova"
+    ],
+    "isrc": null,
+    "start_time": "2025-11-24 03:21:16",
+    "radio": "expres",
+    "recorded_at": "2025-11-24T03:21:42.698608+01:00",
+    "raw_valid": true,
+    "song_session_id": "a9df2112-7254-4c26-934a-3979704b0d6a"
+  },
+  {
+    "song": "Glide",
+    "artists": [
+      "Neiked",
+      "Portugal The Man"
+    ],
+    "isrc": "DEE862500421",
+    "start_time": "2025-11-24 03:24:44",
+    "radio": "expres",
+    "recorded_at": "2025-11-24T03:25:06.918828+01:00",
+    "raw_valid": true,
+    "song_session_id": "939258c3-5e25-4f14-83f7-26c98ce5e665",
+    "duration_ms": 184405,
+    "genre": []
+  },
+  {
+    "song": "Slub",
+    "artists": [
+      "Dara Rolins"
+    ],
+    "isrc": "SKB452500101",
+    "start_time": "2025-11-24 03:27:37",
+    "radio": "expres",
+    "recorded_at": "2025-11-24T03:27:49.731000+01:00",
+    "raw_valid": true,
+    "song_session_id": "0b374509-6172-455d-831a-c4ea28476225",
+    "duration_ms": 201270,
+    "genre": []
+  },
+  {
+    "song": "Substitution",
+    "artists": [
+      "Purple Disco Machine",
+      "Kungs"
+    ],
+    "isrc": "DEE862300093",
+    "start_time": "2025-11-24 03:31:02",
+    "radio": "expres",
+    "recorded_at": "2025-11-24T03:31:12.940080+01:00",
+    "raw_valid": true,
+    "song_session_id": "4b1bbc94-b431-4062-bbf0-fa5f5d53c6f3",
+    "duration_ms": 181477,
+    "genre": []
+  },
+  {
+    "song": "Kratke Lasky",
+    "artists": [
+      "Team"
+    ],
+    "isrc": "SKA880000103",
+    "start_time": "2025-11-24 03:34:00",
+    "radio": "expres",
+    "recorded_at": "2025-11-24T03:34:18.520321+01:00",
+    "raw_valid": true,
+    "song_session_id": "4d722e48-be79-4551-95e9-da6238a4b94a",
+    "duration_ms": 172546,
+    "genre": []
+  },
+  {
+    "song": "The One",
+    "artists": [
+      "Michael Patrick Kelly"
+    ],
+    "isrc": "DEE862500476",
+    "start_time": "2025-11-24 03:37:04",
+    "radio": "expres",
+    "recorded_at": "2025-11-24T03:37:21.690203+01:00",
+    "raw_valid": true,
+    "song_session_id": "e3d88fd9-762d-4b4f-8dfb-833d5a4ead61",
+    "duration_ms": 181194,
+    "genre": []
+  },
+  {
+    "song": "Medzi Nami",
+    "artists": [
+      "Adam Durica"
+    ],
+    "isrc": "SKA012100031",
+    "start_time": "2025-11-24 03:40:07",
+    "radio": "expres",
+    "recorded_at": "2025-11-24T03:40:37.562700+01:00",
+    "raw_valid": true,
+    "song_session_id": "bfe90746-c5e4-41a0-9a36-c905a1f1b12e",
+    "duration_ms": 260834,
+    "genre": []
+  },
+  {
+    "song": "Holding Out For A Hero",
+    "artists": [
+      "Bonnie Tyler"
+    ],
+    "isrc": "USSM18300449",
+    "start_time": "2025-11-24 03:43:50",
+    "radio": "expres",
+    "recorded_at": "2025-11-24T03:44:31.758870+01:00",
+    "raw_valid": true,
+    "song_session_id": "f575aadf-5fd0-4b56-bcdd-d5f1fb90e2bf",
+    "duration_ms": 349893,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Kazdy Den Je Nedela",
+    "artists": [
+      "Hex"
+    ],
+    "isrc": "SKC751300419",
+    "start_time": "2025-11-24 03:48:14",
+    "radio": "expres",
+    "recorded_at": "2025-11-24T03:48:40.529709+01:00",
+    "raw_valid": true,
+    "song_session_id": "fa7f9506-3279-438d-b764-6108fb02848b",
+    "duration_ms": 202066,
+    "genre": []
+  },
+  {
+    "song": "Where Is My Husband",
+    "artists": [
+      "Raye"
+    ],
+    "isrc": "QMFME2535037",
+    "start_time": "2025-11-24 03:52:23",
+    "radio": "expres",
+    "recorded_at": "2025-11-24T03:52:44.184285+01:00",
+    "raw_valid": true,
+    "song_session_id": "b9d9accd-a9ff-4722-a3a2-6aaa43159269",
+    "duration_ms": 196795,
+    "genre": [
+      "offizielle charts"
+    ]
+  },
+  {
+    "song": "Rano",
+    "artists": [
+      "Imt Smile"
+    ],
+    "isrc": "SKA019903013",
+    "start_time": "2025-11-24 03:56:02",
+    "radio": "expres",
+    "recorded_at": "2025-11-24T03:56:46.259624+01:00",
+    "raw_valid": true,
+    "song_session_id": "e0b4727a-35fc-48bf-8309-b9ec1bf59b1d",
+    "duration_ms": 196040,
+    "genre": []
+  },
+  {
+    "song": "Save Me",
+    "artists": [
+      "Morandi"
+    ],
+    "isrc": "ROUM70700048",
+    "start_time": "2025-11-24 03:59:04",
+    "radio": "expres",
+    "recorded_at": "2025-11-24T03:59:20.185099+01:00",
+    "raw_valid": true,
+    "song_session_id": "02f18f77-db3c-44bf-8d2b-5d2b4fd557eb",
+    "duration_ms": 274133,
+    "genre": []
+  },
+  {
+    "song": "Regalo",
+    "artists": [
+      "Alvaro Soler"
+    ],
+    "isrc": "DEE862500388",
+    "start_time": "2025-11-24 04:02:27",
+    "radio": "expres",
+    "recorded_at": "2025-11-24T04:02:43.549639+01:00",
+    "raw_valid": true,
+    "song_session_id": "b0a687eb-f24d-487c-9583-608277cf9edf",
+    "duration_ms": 184984,
+    "genre": []
+  }
+]

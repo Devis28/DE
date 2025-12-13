@@ -1,0 +1,367 @@
+[
+  {
+    "song": "Be Mine",
+    "artists": [
+      "Kamrad"
+    ],
+    "isrc": "DE1NJ2500035",
+    "start_time": "2025-11-19 14:07:29",
+    "radio": "expres",
+    "recorded_at": "2025-11-19T14:08:10.957822+01:00",
+    "raw_valid": true,
+    "song_session_id": "92e51442-3614-4d10-95ad-8dc43bf5a847",
+    "duration_ms": 156463,
+    "genre": []
+  },
+  {
+    "song": "Salt",
+    "artists": [
+      "Ava Max"
+    ],
+    "isrc": "USAT21906991",
+    "start_time": "2025-11-19 14:10:13",
+    "radio": "expres",
+    "recorded_at": "2025-11-19T14:10:38.267284+01:00",
+    "raw_valid": true,
+    "song_session_id": "3c0211fe-330a-4d0b-a2c8-93e1f8a34106",
+    "duration_ms": 180283,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Head Above Water",
+    "artists": [
+      "Twocolors",
+      "Safri Duo",
+      "Chris De Sarandy"
+    ],
+    "isrc": "DEUM72503698",
+    "start_time": "2025-11-19 14:13:28",
+    "radio": "expres",
+    "recorded_at": "2025-11-19T14:14:01.614136+01:00",
+    "raw_valid": true,
+    "song_session_id": "2765f6cb-83ed-4085-a5d1-0eab435ad73e",
+    "duration_ms": 174550,
+    "genre": []
+  },
+  {
+    "song": "Good News",
+    "artists": [
+      "Shaboozey"
+    ],
+    "isrc": "USUYG1580113",
+    "start_time": "2025-11-19 14:18:31",
+    "radio": "expres",
+    "recorded_at": "2025-11-19T14:19:06.711818+01:00",
+    "raw_valid": true,
+    "song_session_id": "67f6f076-aaea-42da-b21b-004b0f098468",
+    "duration_ms": 199209,
+    "genre": []
+  },
+  {
+    "song": "How Do You Do",
+    "artists": [
+      "Roxette"
+    ],
+    "isrc": "SEAMA9252010",
+    "start_time": "2025-11-19 14:21:46",
+    "radio": "expres",
+    "recorded_at": "2025-11-19T14:22:29.453591+01:00",
+    "raw_valid": true,
+    "song_session_id": "766db8a2-fff2-41ab-9c44-d73e4001928c",
+    "duration_ms": 189093,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Told You So",
+    "artists": [
+      "Martin Garrix",
+      "Jex"
+    ],
+    "isrc": "NLM5S2402334",
+    "start_time": "2025-11-19 14:24:50",
+    "radio": "expres",
+    "recorded_at": "2025-11-19T14:25:27.257331+01:00",
+    "raw_valid": true,
+    "song_session_id": "87b191d3-bc90-4f29-9a92-4ad281dbff04",
+    "duration_ms": 187031,
+    "genre": []
+  },
+  {
+    "song": "The One",
+    "artists": [
+      "Michael Patrick Kelly"
+    ],
+    "isrc": "DEE862500476",
+    "start_time": "2025-11-19 14:33:43",
+    "radio": "expres",
+    "recorded_at": "2025-11-19T14:34:04.161185+01:00",
+    "raw_valid": true,
+    "song_session_id": "b976bb6d-4244-4760-a7e0-36c5334e1f9d",
+    "duration_ms": 181194,
+    "genre": []
+  },
+  {
+    "song": "The Best",
+    "artists": [
+      "Tina Turner"
+    ],
+    "isrc": "USCA28900109",
+    "start_time": "2025-11-19 14:36:33",
+    "radio": "expres",
+    "recorded_at": "2025-11-19T14:37:10.235221+01:00",
+    "raw_valid": true,
+    "song_session_id": "016d0624-b93e-490b-af5e-1272d7857485",
+    "duration_ms": 333267,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Austin",
+    "artists": [
+      "Dasha"
+    ],
+    "isrc": "QZTB92360479",
+    "start_time": "2025-11-19 14:40:46",
+    "radio": "expres",
+    "recorded_at": "2025-11-19T14:41:12.857242+01:00",
+    "raw_valid": true,
+    "song_session_id": "55d5ee00-6d50-4d26-ae24-a410e602af65",
+    "duration_ms": 171782,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Wrecked",
+    "artists": [
+      "Imagine Dragons"
+    ],
+    "isrc": "USUM72110166",
+    "start_time": "2025-11-19 14:43:40",
+    "radio": "expres",
+    "recorded_at": "2025-11-19T14:44:07.112683+01:00",
+    "raw_valid": true,
+    "song_session_id": "c8366158-e726-4114-ac49-e758a1bb984d",
+    "duration_ms": 244004,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Everytime",
+    "artists": [
+      "Britney Spears"
+    ],
+    "isrc": "USJI10301010",
+    "start_time": "2025-11-19 14:47:48",
+    "radio": "expres",
+    "recorded_at": "2025-11-19T14:48:07.346015+01:00",
+    "raw_valid": true,
+    "song_session_id": "6a5750f1-b37f-46bd-a510-d26a38139bf7",
+    "duration_ms": 230320,
+    "genre": [
+      "electronic"
+    ]
+  },
+  {
+    "song": "Uvazneni V Sebe",
+    "artists": [
+      "Nocaden"
+    ],
+    "isrc": null,
+    "start_time": "2025-11-19 14:52:54",
+    "radio": "expres",
+    "recorded_at": "2025-11-19T14:53:28.152821+01:00",
+    "raw_valid": true,
+    "song_session_id": "405d80dd-2ca8-4502-a376-1a08d21a2393"
+  },
+  {
+    "song": "Airplanes",
+    "artists": [
+      "B.o.b.",
+      "Hayley Williams"
+    ],
+    "isrc": "USAT21000477",
+    "start_time": "2025-11-19 14:56:27",
+    "radio": "expres",
+    "recorded_at": "2025-11-19T14:56:54.369757+01:00",
+    "raw_valid": true,
+    "song_session_id": "88994d87-3341-4a4e-b832-2b6343583d79",
+    "duration_ms": 180480,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Glide",
+    "artists": [
+      "Neiked",
+      "Portugal The Man"
+    ],
+    "isrc": "DEE862500421",
+    "start_time": "2025-11-19 15:08:08",
+    "radio": "expres",
+    "recorded_at": "2025-11-19T15:08:37.596995+01:00",
+    "raw_valid": true,
+    "song_session_id": "17f100d6-eaef-4b33-be36-c41d191d2365",
+    "duration_ms": 184405,
+    "genre": []
+  },
+  {
+    "song": "To The Moon And Back",
+    "artists": [
+      "Savage Garden"
+    ],
+    "isrc": "AURQ09700001",
+    "start_time": "2025-11-19 15:11:03",
+    "radio": "expres",
+    "recorded_at": "2025-11-19T15:11:38.884349+01:00",
+    "raw_valid": true,
+    "song_session_id": "1c23cd1b-aac1-48c3-8157-4c4a9dc86cea",
+    "duration_ms": 339433,
+    "genre": []
+  },
+  {
+    "song": "Gone Gone Gone",
+    "artists": [
+      "David Guetta",
+      "Teddy Swims",
+      "Tones And I"
+    ],
+    "isrc": "UKWLG2500132",
+    "start_time": "2025-11-19 15:15:04",
+    "radio": "expres",
+    "recorded_at": "2025-11-19T15:15:37.937332+01:00",
+    "raw_valid": true,
+    "song_session_id": "73fb7451-672b-47c0-baa1-1b0dca4e726a",
+    "duration_ms": 198004,
+    "genre": [
+      "soul"
+    ]
+  },
+  {
+    "song": "Kiss Me",
+    "artists": [
+      "Dermot Kennedy"
+    ],
+    "isrc": "USUG12201963",
+    "start_time": "2025-11-19 15:22:23",
+    "radio": "expres",
+    "recorded_at": "2025-11-19T15:23:03.758446+01:00",
+    "raw_valid": true,
+    "song_session_id": "e6ef7fad-d91f-4c35-bb81-e23f7ece280b",
+    "duration_ms": 229436,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Ray Of Light",
+    "artists": [
+      "Nico Santos"
+    ],
+    "isrc": "DECE72402394",
+    "start_time": "2025-11-19 15:26:01",
+    "radio": "expres",
+    "recorded_at": "2025-11-19T15:26:37.104254+01:00",
+    "raw_valid": true,
+    "song_session_id": "08d68d67-06d7-46a9-912e-fcf99d201d7b",
+    "duration_ms": 176500,
+    "genre": []
+  },
+  {
+    "song": "Regalo",
+    "artists": [
+      "Alvaro Soler"
+    ],
+    "isrc": "DEE862500388",
+    "start_time": "2025-11-19 15:33:27",
+    "radio": "expres",
+    "recorded_at": "2025-11-19T15:34:05.414993+01:00",
+    "raw_valid": true,
+    "song_session_id": "00bd3108-040f-4942-b05f-260957d7e35c",
+    "duration_ms": 184984,
+    "genre": []
+  },
+  {
+    "song": "Wake Me Up",
+    "artists": [
+      "Avicii",
+      "Aloe Blacc"
+    ],
+    "isrc": "SEUM71301326",
+    "start_time": "2025-11-19 15:36:31",
+    "radio": "expres",
+    "recorded_at": "2025-11-19T15:36:59.527786+01:00",
+    "raw_valid": true,
+    "song_session_id": "586f041b-2c91-4a57-bfc2-9744056addcb",
+    "duration_ms": 247426,
+    "genre": [
+      "electronic"
+    ]
+  },
+  {
+    "song": "Wonderful Life 25",
+    "artists": [
+      "Hurts",
+      "Purple Disco Machine"
+    ],
+    "isrc": "DEE862500677",
+    "start_time": "2025-11-19 15:40:43",
+    "radio": "expres",
+    "recorded_at": "2025-11-19T15:41:18.589141+01:00",
+    "raw_valid": true,
+    "song_session_id": "4c8c624d-2dc7-4ce8-998d-0263902de27e",
+    "duration_ms": 178658,
+    "genre": []
+  },
+  {
+    "song": "Vonavky Dievcat",
+    "artists": [
+      "Vaso Patejdl"
+    ],
+    "isrc": "SKA128784003",
+    "start_time": "2025-11-19 15:47:34",
+    "radio": "expres",
+    "recorded_at": "2025-11-19T15:48:06.932798+01:00",
+    "raw_valid": true,
+    "song_session_id": "084c9bc3-b318-423a-a33f-fecc4a393c55",
+    "duration_ms": 205813,
+    "genre": []
+  },
+  {
+    "song": "Runaway",
+    "artists": [
+      "Onerepublic"
+    ],
+    "isrc": "USUM72304684",
+    "start_time": "2025-11-19 15:50:49",
+    "radio": "expres",
+    "recorded_at": "2025-11-19T15:51:19.878651+01:00",
+    "raw_valid": true,
+    "song_session_id": "31c2cacc-feae-44f8-a97f-0be429afa0c1",
+    "duration_ms": 142693,
+    "genre": []
+  },
+  {
+    "song": "Be My Lover",
+    "artists": [
+      "La Bouche"
+    ],
+    "isrc": "DED169500047",
+    "start_time": "2025-11-19 15:53:13",
+    "radio": "expres",
+    "recorded_at": "2025-11-19T15:53:51.498646+01:00",
+    "raw_valid": true,
+    "song_session_id": "010a7bf7-49a7-40c6-b1df-cf7059883b69",
+    "duration_ms": 240266,
+    "genre": [
+      "electronic"
+    ]
+  }
+]

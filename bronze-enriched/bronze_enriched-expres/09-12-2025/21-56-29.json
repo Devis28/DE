@@ -1,0 +1,503 @@
+[
+  {
+    "song": "Na Vianoce Domov",
+    "artists": [
+      "Alan Murin",
+      "Radio Expres"
+    ],
+    "isrc": "QZYFZ2540500",
+    "start_time": "2025-12-09 20:57:16",
+    "radio": "expres",
+    "recorded_at": "2025-12-09T20:57:48.031991+01:00",
+    "raw_valid": true,
+    "song_session_id": "d1521e47-8567-483e-a92d-67e9235489c7",
+    "duration_ms": 240000,
+    "genre": []
+  },
+  {
+    "song": "Green Green Grass",
+    "artists": [
+      "George Ezra"
+    ],
+    "isrc": "GBARL2200008",
+    "start_time": "2025-12-09 21:05:03",
+    "radio": "expres",
+    "recorded_at": "2025-12-09T21:05:34.009261+01:00",
+    "raw_valid": true,
+    "song_session_id": "5293d77f-794e-4860-a122-6fe9ff24b1f5",
+    "duration_ms": 167613,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Nie Alebo Ano",
+    "artists": [
+      "No Name"
+    ],
+    "isrc": "SKA010110202",
+    "start_time": "2025-12-09 21:08:02",
+    "radio": "expres",
+    "recorded_at": "2025-12-09T21:08:31.636489+01:00",
+    "raw_valid": true,
+    "song_session_id": "7be981de-3485-4d77-a2cf-5e0fc3e16ef8",
+    "duration_ms": 243600,
+    "genre": []
+  },
+  {
+    "song": "Be Mine",
+    "artists": [
+      "Kamrad"
+    ],
+    "isrc": "DE1NJ2500035",
+    "start_time": "2025-12-09 21:12:00",
+    "radio": "expres",
+    "recorded_at": "2025-12-09T21:12:34.946587+01:00",
+    "raw_valid": true,
+    "song_session_id": "50028474-9e69-4488-81f2-2ecdf91a1cdc",
+    "duration_ms": 156463,
+    "genre": []
+  },
+  {
+    "song": "Disturbia",
+    "artists": [
+      "Rihanna"
+    ],
+    "isrc": "USUM70814476",
+    "start_time": "2025-12-09 21:14:37",
+    "radio": "expres",
+    "recorded_at": "2025-12-09T21:14:56.900427+01:00",
+    "raw_valid": true,
+    "song_session_id": "7733fdae-16d1-498f-8928-2a56541452b2",
+    "duration_ms": 240266,
+    "genre": [
+      "soundtrack"
+    ]
+  },
+  {
+    "song": "Home",
+    "artists": [
+      "Glockenbach",
+      "Tom Walker"
+    ],
+    "isrc": "DECE72502186",
+    "start_time": "2025-12-09 21:18:28",
+    "radio": "expres",
+    "recorded_at": "2025-12-09T21:18:55.150411+01:00",
+    "raw_valid": true,
+    "song_session_id": "9230ea54-b479-46e8-b632-8bc4e37e4bf0",
+    "duration_ms": 196985,
+    "genre": []
+  },
+  {
+    "song": "Reklama Na Ticho",
+    "artists": [
+      "Team"
+    ],
+    "isrc": "SKA128804502",
+    "start_time": "2025-12-09 21:22:04",
+    "radio": "expres",
+    "recorded_at": "2025-12-09T21:22:38.242928+01:00",
+    "raw_valid": true,
+    "song_session_id": "c4ca76c1-aa15-44c4-9e21-daa6dc4878c2",
+    "duration_ms": 222426,
+    "genre": []
+  },
+  {
+    "song": "A Bar Song (Tipsy)",
+    "artists": [
+      "Shaboozey"
+    ],
+    "isrc": "USUYG1541249",
+    "start_time": "2025-12-09 21:25:06",
+    "radio": "expres",
+    "recorded_at": "2025-12-09T21:25:40.730788+01:00",
+    "raw_valid": true,
+    "song_session_id": "2556e2be-499d-4b52-bdb8-bf2da573a9d9",
+    "duration_ms": 171291,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Do They Know Its Christmas?",
+    "artists": [
+      "Band Aid"
+    ],
+    "isrc": "GBF088400001",
+    "start_time": "2025-12-09 21:27:57",
+    "radio": "expres",
+    "recorded_at": "2025-12-09T21:28:22.942306+01:00",
+    "raw_valid": true,
+    "song_session_id": "abdef5ce-5ce2-48f0-a996-11c9683f36f3",
+    "duration_ms": 222533,
+    "genre": []
+  },
+  {
+    "song": "Undressed",
+    "artists": [
+      "Sombr"
+    ],
+    "isrc": "USWB12500737",
+    "start_time": "2025-12-09 21:32:12",
+    "radio": "expres",
+    "recorded_at": "2025-12-09T21:32:41.471038+01:00",
+    "raw_valid": true,
+    "song_session_id": "401d4d4b-a64e-449e-944f-8a047f840ca9",
+    "duration_ms": 182088,
+    "genre": [
+      "indie pop"
+    ]
+  },
+  {
+    "song": "Navzdy",
+    "artists": [
+      "Kristina"
+    ],
+    "isrc": "SKG061400301",
+    "start_time": "2025-12-09 21:35:21",
+    "radio": "expres",
+    "recorded_at": "2025-12-09T21:35:43.976568+01:00",
+    "raw_valid": true,
+    "song_session_id": "195c6c90-a7a7-49ce-be93-ecdc1781d275",
+    "duration_ms": 243335,
+    "genre": []
+  },
+  {
+    "song": "Losing My Religion",
+    "artists": [
+      "R.e.m."
+    ],
+    "isrc": "USC4R1605373",
+    "start_time": "2025-12-09 21:39:17",
+    "radio": "expres",
+    "recorded_at": "2025-12-09T21:39:47.373427+01:00",
+    "raw_valid": true,
+    "song_session_id": "6022c36f-f92f-435e-b58f-2bfab94ea7e4",
+    "duration_ms": 268426,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Head Above Water",
+    "artists": [
+      "Twocolors",
+      "Safri Duo",
+      "Chris De Sarandy"
+    ],
+    "isrc": "DEUM72503698",
+    "start_time": "2025-12-09 21:43:52",
+    "radio": "expres",
+    "recorded_at": "2025-12-09T21:44:26.191947+01:00",
+    "raw_valid": true,
+    "song_session_id": "95f4a8bd-d6d3-44cd-807e-264bda8b8282",
+    "duration_ms": 174550,
+    "genre": []
+  },
+  {
+    "song": "Always Remember Us This Way",
+    "artists": [
+      "Lady Gaga"
+    ],
+    "isrc": "USUM71813195",
+    "start_time": "2025-12-09 21:46:50",
+    "radio": "expres",
+    "recorded_at": "2025-12-09T21:47:08.384786+01:00",
+    "raw_valid": true,
+    "song_session_id": "1ad4d6ec-47db-4a3f-b360-ac41d54f9e03",
+    "duration_ms": 210200,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Bad Dreams",
+    "artists": [
+      "Teddy Swims"
+    ],
+    "isrc": "USWB12403749",
+    "start_time": "2025-12-09 21:50:16",
+    "radio": "expres",
+    "recorded_at": "2025-12-09T21:50:51.374910+01:00",
+    "raw_valid": true,
+    "song_session_id": "5bbd76ba-6f2e-4260-b0fb-a8bc609184af",
+    "duration_ms": 184577,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Where Is My Husband",
+    "artists": [
+      "Raye"
+    ],
+    "isrc": "QMFME2535037",
+    "start_time": "2025-12-09 21:53:11",
+    "radio": "expres",
+    "recorded_at": "2025-12-09T21:53:33.658705+01:00",
+    "raw_valid": true,
+    "song_session_id": "15bf886f-d720-4a2f-b36c-23528371c6fd",
+    "duration_ms": 196795,
+    "genre": [
+      "offizielle charts"
+    ]
+  },
+  {
+    "song": "Srdce Nehasnou",
+    "artists": [
+      "Karel Gott",
+      "Charlotte Ella Gottova"
+    ],
+    "isrc": "CZA161900335",
+    "start_time": "2025-12-09 21:56:39",
+    "radio": "expres",
+    "recorded_at": "2025-12-09T21:57:16.657188+01:00",
+    "raw_valid": true,
+    "song_session_id": "ed3a984e-edd4-43f2-b3ac-f829d2e7c7bc",
+    "duration_ms": 228667,
+    "genre": []
+  },
+  {
+    "song": "Pride",
+    "artists": [
+      "Felix Jaehn",
+      "Jhart"
+    ],
+    "isrc": "DEUM72503423",
+    "start_time": "2025-12-09 22:05:25",
+    "radio": "expres",
+    "recorded_at": "2025-12-09T22:05:58.715578+01:00",
+    "raw_valid": true,
+    "song_session_id": "0fb8b87d-2492-4192-82cc-604b7a319d4f",
+    "duration_ms": 158150,
+    "genre": []
+  },
+  {
+    "song": "Lost Without You",
+    "artists": [
+      "Delta Goodrem"
+    ],
+    "isrc": "AUSM00300002",
+    "start_time": "2025-12-09 22:08:01",
+    "radio": "expres",
+    "recorded_at": "2025-12-09T22:08:20.705952+01:00",
+    "raw_valid": true,
+    "song_session_id": "b501b3ef-6498-40ba-91b8-fdc128e3dd5b",
+    "duration_ms": 250226,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "To Okolo Nas",
+    "artists": [
+      "Para"
+    ],
+    "isrc": "SKP662201002",
+    "start_time": "2025-12-09 22:11:57",
+    "radio": "expres",
+    "recorded_at": "2025-12-09T22:12:24.120524+01:00",
+    "raw_valid": true,
+    "song_session_id": "97efcb0a-cb50-4fdc-a483-9f6f7d783e4d",
+    "duration_ms": 257185,
+    "genre": []
+  },
+  {
+    "song": "Viva La Vida",
+    "artists": [
+      "Coldplay"
+    ],
+    "isrc": "GBAYE0800265",
+    "start_time": "2025-12-09 22:15:37",
+    "radio": "expres",
+    "recorded_at": "2025-12-09T22:16:07.179671+01:00",
+    "raw_valid": true,
+    "song_session_id": "e0f93dc2-de77-4ec8-8bba-fa603e8d80fb",
+    "duration_ms": 242373,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Mad",
+    "artists": [
+      "Martin Garrix",
+      "Lauv"
+    ],
+    "isrc": "NLM5S2502535",
+    "start_time": "2025-12-09 22:19:25",
+    "radio": "expres",
+    "recorded_at": "2025-12-09T22:19:45.244823+01:00",
+    "raw_valid": true,
+    "song_session_id": "1bbaeffb-21b6-4344-930c-d8a7136ffc1c",
+    "duration_ms": 199804,
+    "genre": []
+  },
+  {
+    "song": "22 Dni",
+    "artists": [
+      "Miro Zbirka"
+    ],
+    "isrc": "SKA128460801",
+    "start_time": "2025-12-09 22:22:49",
+    "radio": "expres",
+    "recorded_at": "2025-12-09T22:23:07.938967+01:00",
+    "raw_valid": true,
+    "song_session_id": "72f92eef-af9d-44de-b261-e0529818d9b8",
+    "duration_ms": 224093,
+    "genre": []
+  },
+  {
+    "song": "Forbidden Road",
+    "artists": [
+      "Robbie Williams"
+    ],
+    "isrc": "GBPS62400032",
+    "start_time": "2025-12-09 22:26:18",
+    "radio": "expres",
+    "recorded_at": "2025-12-09T22:26:50.930086+01:00",
+    "raw_valid": true,
+    "song_session_id": "de385473-57b9-4858-aeb5-d0a606feef33",
+    "duration_ms": 197419,
+    "genre": []
+  },
+  {
+    "song": "Vianocny Cas",
+    "artists": [
+      "Emma Drobna"
+    ],
+    "isrc": "SKB452300101",
+    "start_time": "2025-12-09 22:29:31",
+    "radio": "expres",
+    "recorded_at": "2025-12-09T22:29:53.378264+01:00",
+    "raw_valid": true,
+    "song_session_id": "a78211a1-d006-4c56-a49c-1f40251f4108",
+    "duration_ms": 173151,
+    "genre": []
+  },
+  {
+    "song": "The Fate Of Ophelia",
+    "artists": [
+      "Taylor Swift"
+    ],
+    "isrc": "USUG12506436",
+    "start_time": "2025-12-09 22:33:26",
+    "radio": "expres",
+    "recorded_at": "2025-12-09T22:33:56.862953+01:00",
+    "raw_valid": true,
+    "song_session_id": "f7b0be94-c897-468b-95b5-b60bbc2cbefe",
+    "duration_ms": 226073,
+    "genre": [
+      "electronic"
+    ]
+  },
+  {
+    "song": "All About Us",
+    "artists": [
+      "Tatu"
+    ],
+    "isrc": "USUM70502372",
+    "start_time": "2025-12-09 22:37:19",
+    "radio": "expres",
+    "recorded_at": "2025-12-09T22:37:55.031221+01:00",
+    "raw_valid": true,
+    "song_session_id": "14f4eb4f-1184-4fae-b275-6df9b3c58243",
+    "duration_ms": 181546,
+    "genre": []
+  },
+  {
+    "song": "All The Right Moves",
+    "artists": [
+      "Onerepublic"
+    ],
+    "isrc": "USUM70984099",
+    "start_time": "2025-12-09 22:40:14",
+    "radio": "expres",
+    "recorded_at": "2025-12-09T22:40:37.289899+01:00",
+    "raw_valid": true,
+    "song_session_id": "3734689e-761f-4f3e-8121-1d85a5d68858",
+    "duration_ms": 239093,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Mystical Magical",
+    "artists": [
+      "Benson Boone"
+    ],
+    "isrc": "USWB12500844",
+    "start_time": "2025-12-09 22:44:08",
+    "radio": "expres",
+    "recorded_at": "2025-12-09T22:44:40.831043+01:00",
+    "raw_valid": true,
+    "song_session_id": "89d00e26-34f2-4a96-9b10-603fdfc7fceb",
+    "duration_ms": 165746,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Lovestory",
+    "artists": [
+      "Jana Kirschner",
+      "Milan Ondrik"
+    ],
+    "isrc": "CZA232200948",
+    "start_time": "2025-12-09 22:46:49",
+    "radio": "expres",
+    "recorded_at": "2025-12-09T22:47:23.134946+01:00",
+    "raw_valid": true,
+    "song_session_id": "16c44b60-be90-4d08-ba57-154d9e18f55d",
+    "duration_ms": 187231,
+    "genre": []
+  },
+  {
+    "song": "My Oh My",
+    "artists": [
+      "Ava Max"
+    ],
+    "isrc": "USAT22401759",
+    "start_time": "2025-12-09 22:50:36",
+    "radio": "expres",
+    "recorded_at": "2025-12-09T22:51:06.260187+01:00",
+    "raw_valid": true,
+    "song_session_id": "c2109ad4-acd4-49db-8489-d752cd9a0e3f",
+    "duration_ms": 156155,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Half Of My Heart",
+    "artists": [
+      "Michael Schulte",
+      "Asdis"
+    ],
+    "isrc": "DEUM72507546",
+    "start_time": "2025-12-09 22:53:05",
+    "radio": "expres",
+    "recorded_at": "2025-12-09T22:53:28.239762+01:00",
+    "raw_valid": true,
+    "song_session_id": "23da9072-1d9f-4018-b8b4-8ec860d93d37",
+    "duration_ms": 158320,
+    "genre": []
+  },
+  {
+    "song": "All I Want For Christmas Is You",
+    "artists": [
+      "Mariah Carey"
+    ],
+    "isrc": "USSM19400325",
+    "start_time": "2025-12-09 22:56:08",
+    "radio": "expres",
+    "recorded_at": "2025-12-09T22:56:25.702109+01:00",
+    "raw_valid": true,
+    "song_session_id": "ebe36430-736a-4aaa-a0f9-aad257963109",
+    "duration_ms": 241853,
+    "genre": [
+      "pop"
+    ]
+  }
+]

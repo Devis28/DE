@@ -1,0 +1,493 @@
+[
+  {
+    "song": "Mystical Magical",
+    "artists": [
+      "Benson Boone"
+    ],
+    "isrc": "USWB12500844",
+    "start_time": "2025-11-18 22:04:57",
+    "radio": "expres",
+    "recorded_at": "2025-11-18T22:05:29.102687+01:00",
+    "raw_valid": true,
+    "song_session_id": "0046e06a-a945-4b15-b853-cd637f237b99",
+    "duration_ms": 165746,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "White Flag",
+    "artists": [
+      "Dido"
+    ],
+    "isrc": "GBBXH0300035",
+    "start_time": "2025-11-18 22:07:49",
+    "radio": "expres",
+    "recorded_at": "2025-11-18T22:08:14.698796+01:00",
+    "raw_valid": true,
+    "song_session_id": "51a501ff-a54b-4998-8a84-14ce10c9a8c2",
+    "duration_ms": 241613,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Houdini",
+    "artists": [
+      "Dua Lipa"
+    ],
+    "isrc": "GBAHT2301246",
+    "start_time": "2025-11-18 22:11:28",
+    "radio": "expres",
+    "recorded_at": "2025-11-18T22:11:48.092119+01:00",
+    "raw_valid": true,
+    "song_session_id": "94f7c73e-23fa-4438-8401-0aaec5305768",
+    "duration_ms": 185917,
+    "genre": [
+      "electronic"
+    ]
+  },
+  {
+    "song": "Sexy Chick",
+    "artists": [
+      "David Guetta",
+      "Akon"
+    ],
+    "isrc": "FRZID0900930",
+    "start_time": "2025-11-18 22:14:29",
+    "radio": "expres",
+    "recorded_at": "2025-11-18T22:15:00.796335+01:00",
+    "raw_valid": true,
+    "song_session_id": "ac2134b2-0cac-45ef-8778-9dddbd3bf289",
+    "duration_ms": 194346,
+    "genre": [
+      "electronic"
+    ]
+  },
+  {
+    "song": "Love Me Not",
+    "artists": [
+      "Ravyn Lenae"
+    ],
+    "isrc": "USAT22401137",
+    "start_time": "2025-11-18 22:17:33",
+    "radio": "expres",
+    "recorded_at": "2025-11-18T22:17:53.659421+01:00",
+    "raw_valid": true,
+    "song_session_id": "8783c98c-a385-472f-8753-b95911d6e228",
+    "duration_ms": 213466,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Dont Stop Me Now",
+    "artists": [
+      "Queen"
+    ],
+    "isrc": "GBUM71029610",
+    "start_time": "2025-11-18 22:21:18",
+    "radio": "expres",
+    "recorded_at": "2025-11-18T22:21:46.915502+01:00",
+    "raw_valid": true,
+    "song_session_id": "5967218e-047e-40fd-a0ce-7c4d0efc4a81",
+    "duration_ms": 210773,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Good News",
+    "artists": [
+      "Shaboozey"
+    ],
+    "isrc": "USUYG1580113",
+    "start_time": "2025-11-18 22:24:40",
+    "radio": "expres",
+    "recorded_at": "2025-11-18T22:25:08.879745+01:00",
+    "raw_valid": true,
+    "song_session_id": "638efab7-77fe-422a-b43d-32d6f8dc4145",
+    "duration_ms": 199209,
+    "genre": []
+  },
+  {
+    "song": "Zuvacka Za Uchom",
+    "artists": [
+      "Robo Grigorov"
+    ],
+    "isrc": null,
+    "start_time": "2025-11-18 22:28:09",
+    "radio": "expres",
+    "recorded_at": "2025-11-18T22:28:42.197773+01:00",
+    "raw_valid": true,
+    "song_session_id": "fbfd32c9-f526-483e-9949-7690b9a38ae1"
+  },
+  {
+    "song": "Undressed",
+    "artists": [
+      "Sombr"
+    ],
+    "isrc": "USWB12500737",
+    "start_time": "2025-11-18 22:32:22",
+    "radio": "expres",
+    "recorded_at": "2025-11-18T22:32:41.323082+01:00",
+    "raw_valid": true,
+    "song_session_id": "b2957df7-8c04-4692-8578-b7c4f94d962d",
+    "duration_ms": 182088,
+    "genre": [
+      "indie pop"
+    ]
+  },
+  {
+    "song": "Try Everything",
+    "artists": [
+      "Shakira"
+    ],
+    "isrc": "USWD11575402",
+    "start_time": "2025-11-18 22:35:29",
+    "radio": "expres",
+    "recorded_at": "2025-11-18T22:36:13.109852+01:00",
+    "raw_valid": true,
+    "song_session_id": "7db2f02d-f33f-41d1-a0e8-afe275694c5a",
+    "duration_ms": 196880,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "(Everything I Do) I Do It For You",
+    "artists": [
+      "Bryan Adams"
+    ],
+    "isrc": "USAM19190012",
+    "start_time": "2025-11-18 22:38:44",
+    "radio": "expres",
+    "recorded_at": "2025-11-18T22:39:18.332831+01:00",
+    "raw_valid": true,
+    "song_session_id": "6e954281-8539-421e-b7d4-7e94f2942b31",
+    "duration_ms": 394733,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Save My Love",
+    "artists": [
+      "Marshmello",
+      "Ellie Goulding",
+      "Avaion"
+    ],
+    "isrc": "USUG12504310",
+    "start_time": "2025-11-18 22:42:57",
+    "radio": "expres",
+    "recorded_at": "2025-11-18T22:43:36.843444+01:00",
+    "raw_valid": true,
+    "song_session_id": "930a5ad7-21df-455d-8d12-372d243d4f60",
+    "duration_ms": 215555,
+    "genre": []
+  },
+  {
+    "song": "Zda Sa Ze To Staci",
+    "artists": [
+      "Zuzana Smatanova"
+    ],
+    "isrc": "CZA210700339",
+    "start_time": "2025-11-18 22:46:31",
+    "radio": "expres",
+    "recorded_at": "2025-11-18T22:46:56.669629+01:00",
+    "raw_valid": true,
+    "song_session_id": "26a61346-0db4-4d40-8428-26fa914891a2",
+    "duration_ms": 240053,
+    "genre": []
+  },
+  {
+    "song": "Te Imaginaba",
+    "artists": [
+      "Alvaro Soler"
+    ],
+    "isrc": "DEE862401045",
+    "start_time": "2025-11-18 22:50:38",
+    "radio": "expres",
+    "recorded_at": "2025-11-18T22:51:20.818752+01:00",
+    "raw_valid": true,
+    "song_session_id": "6172f359-5bbf-4c06-a55d-256e089c39b3",
+    "duration_ms": 158817,
+    "genre": []
+  },
+  {
+    "song": "Where Is My Husband",
+    "artists": [
+      "Raye"
+    ],
+    "isrc": "QMFME2535037",
+    "start_time": "2025-11-18 22:53:11",
+    "radio": "expres",
+    "recorded_at": "2025-11-18T22:53:38.665146+01:00",
+    "raw_valid": true,
+    "song_session_id": "3fc27ed4-39fd-4799-b0c4-2a79dc4bf8e1",
+    "duration_ms": 196795,
+    "genre": [
+      "offizielle charts"
+    ]
+  },
+  {
+    "song": "Nikdy Nebolo Lepsie",
+    "artists": [
+      "Hex"
+    ],
+    "isrc": "SKA010600047",
+    "start_time": "2025-11-18 22:56:35",
+    "radio": "expres",
+    "recorded_at": "2025-11-18T22:56:57.478118+01:00",
+    "raw_valid": true,
+    "song_session_id": "a3ee21d0-8502-4c84-82a6-3abb35a1722e",
+    "duration_ms": 232840,
+    "genre": []
+  },
+  {
+    "song": "Thats So True",
+    "artists": [
+      "Gracie Abrams"
+    ],
+    "isrc": "USUG12406903",
+    "start_time": "2025-11-18 23:05:41",
+    "radio": "expres",
+    "recorded_at": "2025-11-18T23:06:05.371840+01:00",
+    "raw_valid": true,
+    "song_session_id": "5a2e721f-6d85-4b6d-9dda-dcbd0384385f",
+    "duration_ms": 130771,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Hero",
+    "artists": [
+      "Mariah Carey"
+    ],
+    "isrc": "USSM19303171",
+    "start_time": "2025-11-18 23:08:30",
+    "radio": "expres",
+    "recorded_at": "2025-11-18T23:09:08.211963+01:00",
+    "raw_valid": true,
+    "song_session_id": "306aaa48-2309-4a33-9fca-4638d8571ce6",
+    "duration_ms": 257972,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Afterlife",
+    "artists": [
+      "Michael Schulte"
+    ],
+    "isrc": "DECE72500509",
+    "start_time": "2025-11-18 23:12:46",
+    "radio": "expres",
+    "recorded_at": "2025-11-18T23:13:21.683041+01:00",
+    "raw_valid": true,
+    "song_session_id": "6ae01ad5-9f0e-4cad-9ac2-1c899e74f2d0",
+    "duration_ms": 160120,
+    "genre": []
+  },
+  {
+    "song": "Without You",
+    "artists": [
+      "The Kid Laroi"
+    ],
+    "isrc": "USSM12006586",
+    "start_time": "2025-11-18 23:15:26",
+    "radio": "expres",
+    "recorded_at": "2025-11-18T23:15:54.010909+01:00",
+    "raw_valid": true,
+    "song_session_id": "c39049a0-7c0e-4069-a8ca-13ac60363179",
+    "duration_ms": 161384,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Ordinary",
+    "artists": [
+      "Alex Warren"
+    ],
+    "isrc": "USAT22500463",
+    "start_time": "2025-11-18 23:18:03",
+    "radio": "expres",
+    "recorded_at": "2025-11-18T23:18:44.657300+01:00",
+    "raw_valid": true,
+    "song_session_id": "750016d5-e968-418c-911c-a2a20cd3d01b",
+    "duration_ms": 186964,
+    "genre": [
+      "folk"
+    ]
+  },
+  {
+    "song": "Reklama Na Ticho",
+    "artists": [
+      "Team"
+    ],
+    "isrc": "SKA128804502",
+    "start_time": "2025-11-18 23:21:14",
+    "radio": "expres",
+    "recorded_at": "2025-11-18T23:21:44.110075+01:00",
+    "raw_valid": true,
+    "song_session_id": "c0d1c1b6-5d51-481d-94dd-d36adcfd85de",
+    "duration_ms": 222426,
+    "genre": []
+  },
+  {
+    "song": "Feelslikeimfallinginlove",
+    "artists": [
+      "Coldplay"
+    ],
+    "isrc": "GBAYE2400676",
+    "start_time": "2025-11-18 23:24:31",
+    "radio": "expres",
+    "recorded_at": "2025-11-18T23:25:05.107274+01:00",
+    "raw_valid": true,
+    "song_session_id": "828c6f78-729f-42a0-955d-35585879f065",
+    "duration_ms": 237803,
+    "genre": [
+      "alternative rock"
+    ]
+  },
+  {
+    "song": "Perly",
+    "artists": [
+      "Peter Bic Project"
+    ],
+    "isrc": "SKCM72410201",
+    "start_time": "2025-11-18 23:28:12",
+    "radio": "expres",
+    "recorded_at": "2025-11-18T23:28:44.821619+01:00",
+    "raw_valid": true,
+    "song_session_id": "8951fc18-2470-430b-9185-4195f423434a",
+    "duration_ms": 273191,
+    "genre": []
+  },
+  {
+    "song": "Million Good Reasons",
+    "artists": [
+      "Robin Schulz",
+      "Fast Boy"
+    ],
+    "isrc": "DEA622404738",
+    "start_time": "2025-11-18 23:33:19",
+    "radio": "expres",
+    "recorded_at": "2025-11-18T23:33:45.530916+01:00",
+    "raw_valid": true,
+    "song_session_id": "670a9cec-7da2-4ec1-907e-43ecf690f6a0",
+    "duration_ms": 157130,
+    "genre": []
+  },
+  {
+    "song": "Ta Ktorej Niet",
+    "artists": [
+      "Imt Smile"
+    ],
+    "isrc": "SKA011000002",
+    "start_time": "2025-11-18 23:35:57",
+    "radio": "expres",
+    "recorded_at": "2025-11-18T23:36:25.434222+01:00",
+    "raw_valid": true,
+    "song_session_id": "b909a7f0-90d3-4077-836c-d1db91b52176",
+    "duration_ms": 289613,
+    "genre": []
+  },
+  {
+    "song": "Thinking Out Loud",
+    "artists": [
+      "Ed Sheeran"
+    ],
+    "isrc": "GBAHS1400099",
+    "start_time": "2025-11-18 23:40:13",
+    "radio": "expres",
+    "recorded_at": "2025-11-18T23:40:51.821147+01:00",
+    "raw_valid": true,
+    "song_session_id": "652a6606-6fba-4d09-824c-5b94ffa908f9",
+    "duration_ms": 281560,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Golden",
+    "artists": [
+      "Kpop Demon Hunters"
+    ],
+    "isrc": "QZ8BZ2513510",
+    "start_time": "2025-11-18 23:44:56",
+    "radio": "expres",
+    "recorded_at": "2025-11-18T23:45:34.568734+01:00",
+    "raw_valid": true,
+    "song_session_id": "8dd531b8-9105-4013-906c-b967228c7a93",
+    "duration_ms": 194607,
+    "genre": [
+      "korean"
+    ]
+  },
+  {
+    "song": "Whered You Go",
+    "artists": [
+      "Fort Minor",
+      "Holly Brook"
+    ],
+    "isrc": "USWB10504785",
+    "start_time": "2025-11-18 23:47:49",
+    "radio": "expres",
+    "recorded_at": "2025-11-18T23:48:15.088002+01:00",
+    "raw_valid": true,
+    "song_session_id": "40047d1d-5d84-4d2c-bf8d-5eed16d20e3a",
+    "duration_ms": 231866,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Walk With Me",
+    "artists": [
+      "Felix Jaehn",
+      "Shouse"
+    ],
+    "isrc": "DEUM72411810",
+    "start_time": "2025-11-18 23:51:33",
+    "radio": "expres",
+    "recorded_at": "2025-11-18T23:51:53.430716+01:00",
+    "raw_valid": true,
+    "song_session_id": "b6652f9f-d5e6-47d8-b79e-a30dc176a8d8",
+    "duration_ms": 152535,
+    "genre": []
+  },
+  {
+    "song": "Vsetko Bude Dobre",
+    "artists": [
+      "Gladiator"
+    ],
+    "isrc": "SKCM72560001",
+    "start_time": "2025-11-18 23:54:00",
+    "radio": "expres",
+    "recorded_at": "2025-11-18T23:54:23.911730+01:00",
+    "raw_valid": true,
+    "song_session_id": "ae389a4f-3ba6-40f0-8681-e8ed6947f746",
+    "duration_ms": 166588,
+    "genre": []
+  },
+  {
+    "song": "Without You",
+    "artists": [
+      "David Guetta",
+      "Usher"
+    ],
+    "isrc": "GB28K1100030",
+    "start_time": "2025-11-18 23:57:07",
+    "radio": "expres",
+    "recorded_at": "2025-11-18T23:57:43.514953+01:00",
+    "raw_valid": true,
+    "song_session_id": "601a6028-115a-43bc-b84d-51d15d9a7d9d",
+    "duration_ms": 208133,
+    "genre": [
+      "electronic"
+    ]
+  }
+]

@@ -1,0 +1,435 @@
+[
+  {
+    "song": "All About Us",
+    "artists": [
+      "Tatu"
+    ],
+    "isrc": "USUM70502372",
+    "start_time": "2025-11-01 12:57:55",
+    "radio": "expres",
+    "recorded_at": "01.11.2025 12:58:31",
+    "raw_valid": true,
+    "song_session_id": "e0a122a2-4b1c-42a0-8482-f3a1443a2180",
+    "duration_ms": 181546,
+    "genre": []
+  },
+  {
+    "song": "Regalo",
+    "artists": [
+      "Alvaro Soler"
+    ],
+    "isrc": "DEE862500388",
+    "start_time": "2025-11-01 13:05:03",
+    "radio": "expres",
+    "recorded_at": "01.11.2025 13:07:36",
+    "raw_valid": true,
+    "song_session_id": "81261b3d-168f-42b4-8273-e114c35f90c2",
+    "duration_ms": 184984,
+    "genre": []
+  },
+  {
+    "song": "This Is The Life",
+    "artists": [
+      "Amy Macdonald"
+    ],
+    "isrc": "GBUM70607840",
+    "start_time": "2025-11-01 13:08:06",
+    "radio": "expres",
+    "recorded_at": "01.11.2025 13:08:33",
+    "raw_valid": true,
+    "song_session_id": "d1db41d1-c816-430c-9f23-7a8f9de4487b",
+    "duration_ms": 184413,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Otazka Za Milion",
+    "artists": [
+      "Ine Kafe"
+    ],
+    "isrc": "SKA722400001",
+    "start_time": "2025-11-01 13:11:04",
+    "radio": "expres",
+    "recorded_at": "01.11.2025 13:11:36",
+    "raw_valid": true,
+    "song_session_id": "9ea45c93-91f1-4723-8894-51ad2dbb7c51",
+    "duration_ms": 220400,
+    "genre": []
+  },
+  {
+    "song": "Waving Flag",
+    "artists": [
+      "Knaan"
+    ],
+    "isrc": "GBBKS2200009",
+    "start_time": "2025-11-01 13:14:43",
+    "radio": "expres",
+    "recorded_at": "01.11.2025 13:15:15",
+    "raw_valid": true,
+    "song_session_id": "2e1aeb96-ccd1-40b2-8be7-f01780285110",
+    "duration_ms": 227487,
+    "genre": [
+      "art rock"
+    ]
+  },
+  {
+    "song": "No Time To Talk",
+    "artists": [
+      "Jonas Brothers"
+    ],
+    "isrc": "USUG12504831",
+    "start_time": "2025-11-01 13:18:15",
+    "radio": "expres",
+    "recorded_at": "01.11.2025 13:19:03",
+    "raw_valid": true,
+    "song_session_id": "1adcaec2-e764-4c28-a271-81a92f5366e1",
+    "duration_ms": 155053,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "The Final Countdown",
+    "artists": [
+      "Europe"
+    ],
+    "isrc": "USSM18600196",
+    "start_time": "2025-11-01 13:21:05",
+    "radio": "expres",
+    "recorded_at": "01.11.2025 13:21:39",
+    "raw_valid": true,
+    "song_session_id": "76038314-1c24-47fa-99c9-9e358589097b",
+    "duration_ms": 311034,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Manchild",
+    "artists": [
+      "Sabrina Carpenter"
+    ],
+    "isrc": "USUM72504354",
+    "start_time": "2025-11-01 13:25:04",
+    "radio": "expres",
+    "recorded_at": "01.11.2025 13:25:39",
+    "raw_valid": true,
+    "song_session_id": "a6cf6d71-9c78-47e6-a85d-97cf55d51b05",
+    "duration_ms": 213645,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Mystical Magical",
+    "artists": [
+      "Benson Boone"
+    ],
+    "isrc": "USWB12500844",
+    "start_time": "2025-11-01 13:32:22",
+    "radio": "expres",
+    "recorded_at": "01.11.2025 13:33:13",
+    "raw_valid": true,
+    "song_session_id": "1f36b10e-5624-453d-8dca-0cae5fc8af03",
+    "duration_ms": 165746,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Alejandro",
+    "artists": [
+      "Lady Gaga"
+    ],
+    "isrc": "USUM70905526",
+    "start_time": "2025-11-01 13:35:06",
+    "radio": "expres",
+    "recorded_at": "01.11.2025 13:35:39",
+    "raw_valid": true,
+    "song_session_id": "d6c175e7-301b-43cc-82bb-579ab71d9758",
+    "duration_ms": 274213,
+    "genre": [
+      "electronic"
+    ]
+  },
+  {
+    "song": "Angels",
+    "artists": [
+      "Robbie Williams"
+    ],
+    "isrc": "GBAYE9700233",
+    "start_time": "2025-11-01 13:38:49",
+    "radio": "expres",
+    "recorded_at": "01.11.2025 13:39:22",
+    "raw_valid": true,
+    "song_session_id": "0a020b43-bc76-4f69-93a9-164cf88f4d45",
+    "duration_ms": 265733,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Undressed",
+    "artists": [
+      "Sombr"
+    ],
+    "isrc": "USWB12500737",
+    "start_time": "2025-11-01 13:43:16",
+    "radio": "expres",
+    "recorded_at": "01.11.2025 13:43:44",
+    "raw_valid": true,
+    "song_session_id": "df358376-0fa9-4ee0-af44-d515ee634154",
+    "duration_ms": 182088,
+    "genre": [
+      "indie pop"
+    ]
+  },
+  {
+    "song": "Co Boli To Preboli",
+    "artists": [
+      "Miro Zbirka",
+      "Martha"
+    ],
+    "isrc": "SKA010110114",
+    "start_time": "2025-11-01 13:46:24",
+    "radio": "expres",
+    "recorded_at": "01.11.2025 13:47:03",
+    "raw_valid": true,
+    "song_session_id": "cb11565d-d5cc-4ff3-ada6-1848d09116fd",
+    "duration_ms": 203520,
+    "genre": []
+  },
+  {
+    "song": "Told You So",
+    "artists": [
+      "Martin Garrix",
+      "Jex"
+    ],
+    "isrc": "NLM5S2402334",
+    "start_time": "2025-11-01 13:49:43",
+    "radio": "expres",
+    "recorded_at": "01.11.2025 13:50:02",
+    "raw_valid": true,
+    "song_session_id": "489f4d9e-7ece-4250-a634-b510aaa6851b",
+    "duration_ms": 187031,
+    "genre": [
+      "edm"
+    ]
+  },
+  {
+    "song": "Smooth Criminal",
+    "artists": [
+      "Michael Jackson"
+    ],
+    "isrc": "USSM11204989",
+    "start_time": "2025-11-01 13:52:49",
+    "radio": "expres",
+    "recorded_at": "01.11.2025 13:53:22",
+    "raw_valid": true,
+    "song_session_id": "c2795210-ae79-42f9-8b9f-70cd815300b9",
+    "duration_ms": 257766,
+    "genre": []
+  },
+  {
+    "song": "Believer",
+    "artists": [
+      "Imagine Dragons"
+    ],
+    "isrc": "USUM71700626",
+    "start_time": "2025-11-01 13:56:37",
+    "radio": "expres",
+    "recorded_at": "01.11.2025 13:57:15",
+    "raw_valid": true,
+    "song_session_id": "0c78f532-86c9-4747-9e02-004d1db7cfcf",
+    "duration_ms": 204346,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Praying For Time",
+    "artists": [
+      "George Michael"
+    ],
+    "isrc": "GBARL1501372",
+    "start_time": "2025-11-01 14:06:48",
+    "radio": "expres",
+    "recorded_at": "01.11.2025 14:07:08",
+    "raw_valid": true,
+    "song_session_id": "94364131-c5fa-4e20-92c3-cb47d51286e6",
+    "duration_ms": 281042,
+    "genre": [
+      "electronic"
+    ]
+  },
+  {
+    "song": "Lod Do Neznama",
+    "artists": [
+      "Uhercik / Durinda / Griglak / Horvath"
+    ],
+    "isrc": null,
+    "start_time": "2025-11-01 14:11:27",
+    "radio": "expres",
+    "recorded_at": "01.11.2025 14:11:50",
+    "raw_valid": true,
+    "song_session_id": "2373e27c-ac3a-4dc4-95e1-85cccaca6165"
+  },
+  {
+    "song": "Sweat (A La La La Long)",
+    "artists": [
+      "Inner Circle"
+    ],
+    "isrc": "USA2P2347170",
+    "start_time": "2025-11-01 14:15:29",
+    "radio": "expres",
+    "recorded_at": "01.11.2025 14:15:51",
+    "raw_valid": true,
+    "song_session_id": "9f378b4d-9d63-48d2-912f-dd75dc84ed98",
+    "duration_ms": 229000,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Kiss Me",
+    "artists": [
+      "Sixpence None The Richer"
+    ],
+    "isrc": "USEE19900312",
+    "start_time": "2025-11-01 14:19:54",
+    "radio": "expres",
+    "recorded_at": "01.11.2025 14:20:10",
+    "raw_valid": true,
+    "song_session_id": "f6f6a5da-89e6-4274-95b6-1527e7629bee",
+    "duration_ms": 208680,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Crying In The Rain",
+    "artists": [
+      "A-Ha"
+    ],
+    "isrc": "USWB10107606",
+    "start_time": "2025-11-01 14:23:13",
+    "radio": "expres",
+    "recorded_at": "01.11.2025 14:23:35",
+    "raw_valid": true,
+    "song_session_id": "b0d16e0b-bf87-452e-bd7c-b3a0f8cd6f9d",
+    "duration_ms": 260226,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Monday Morning",
+    "artists": [
+      "Melanie Fiona"
+    ],
+    "isrc": "USUM70971057",
+    "start_time": "2025-11-01 14:26:01",
+    "radio": "expres",
+    "recorded_at": "01.11.2025 14:26:32",
+    "raw_valid": true,
+    "song_session_id": "8fa82e83-8565-444e-be7d-93e0a21d7f5f",
+    "duration_ms": 218613,
+    "genre": [
+      "electronic"
+    ]
+  },
+  {
+    "song": "Everytime We Touch",
+    "artists": [
+      "Maggie Reilly"
+    ],
+    "isrc": "GBMUJ1900001",
+    "start_time": "2025-11-01 14:32:57",
+    "radio": "expres",
+    "recorded_at": "01.11.2025 14:33:26",
+    "raw_valid": true,
+    "song_session_id": "8fdc06ee-c857-44b6-88fa-efabb4c8c903",
+    "duration_ms": 244533,
+    "genre": []
+  },
+  {
+    "song": "Something Got Me Started",
+    "artists": [
+      "Simply Red"
+    ],
+    "isrc": "GBAHS0700616",
+    "start_time": "2025-11-01 14:36:48",
+    "radio": "expres",
+    "recorded_at": "01.11.2025 14:37:27",
+    "raw_valid": true,
+    "song_session_id": "c4d47248-1982-492d-b7c7-fb47f4c018bd",
+    "duration_ms": 240706,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "If You Had My Love",
+    "artists": [
+      "Jennifer Lopez"
+    ],
+    "isrc": "USSM19900608",
+    "start_time": "2025-11-01 14:40:47",
+    "radio": "expres",
+    "recorded_at": "01.11.2025 14:41:27",
+    "raw_valid": true,
+    "song_session_id": "ef22e257-b91e-4e3b-9f28-a0d1f0993d78",
+    "duration_ms": 266000,
+    "genre": []
+  },
+  {
+    "song": "Imagine",
+    "artists": [
+      "John Lennon",
+      "Plastic Ono Band"
+    ],
+    "isrc": "GBCBR2510046",
+    "start_time": "2025-11-01 14:45:08",
+    "radio": "expres",
+    "recorded_at": "01.11.2025 14:45:48",
+    "raw_valid": true,
+    "song_session_id": "8b45fd69-8dff-4c3a-9d40-adab64673c55",
+    "duration_ms": 202890,
+    "genre": [
+      "christmas"
+    ]
+  },
+  {
+    "song": "Umbrella",
+    "artists": [
+      "Rihanna"
+    ],
+    "isrc": "USUM70736771",
+    "start_time": "2025-11-01 14:48:14",
+    "radio": "expres",
+    "recorded_at": "01.11.2025 14:48:49",
+    "raw_valid": true,
+    "song_session_id": "405e39f8-68de-4194-8be1-fd8069c44c45",
+    "duration_ms": 276146,
+    "genre": [
+      "electronic"
+    ]
+  },
+  {
+    "song": "Wild Boys",
+    "artists": [
+      "Duran Duran"
+    ],
+    "isrc": "GBAYE8400060",
+    "start_time": "2025-11-01 14:53:03",
+    "radio": "expres",
+    "recorded_at": "01.11.2025 14:53:29",
+    "raw_valid": true,
+    "song_session_id": "51f73ff9-2407-47cc-a9c7-d72249829bde",
+    "duration_ms": 257600,
+    "genre": [
+      "new wave"
+    ]
+  }
+]

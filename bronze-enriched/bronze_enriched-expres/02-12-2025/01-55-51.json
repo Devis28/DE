@@ -1,0 +1,522 @@
+[
+  {
+    "song": "S Laskou",
+    "artists": [
+      "No Name"
+    ],
+    "isrc": "SKI501500202",
+    "start_time": "2025-12-02 00:57:20",
+    "radio": "expres",
+    "recorded_at": "2025-12-02T00:57:37.219764+01:00",
+    "raw_valid": true,
+    "song_session_id": "ae2cad4c-16d9-40eb-bd97-d23c8375d3e5",
+    "duration_ms": 196104,
+    "genre": []
+  },
+  {
+    "song": "Pride",
+    "artists": [
+      "Felix Jaehn",
+      "Jhart"
+    ],
+    "isrc": "DEUM72503423",
+    "start_time": "2025-12-02 01:00:32",
+    "radio": "expres",
+    "recorded_at": "2025-12-02T01:00:41.368427+01:00",
+    "raw_valid": true,
+    "song_session_id": "48c66306-f414-45b0-bb3d-93ecafcfad9c",
+    "duration_ms": 158150,
+    "genre": [
+      "tropical house"
+    ]
+  },
+  {
+    "song": "Medzi Nami",
+    "artists": [
+      "Adam Durica"
+    ],
+    "isrc": "SKA012100031",
+    "start_time": "2025-12-02 01:03:17",
+    "radio": "expres",
+    "recorded_at": "2025-12-02T01:03:24.189134+01:00",
+    "raw_valid": true,
+    "song_session_id": "c8a2ccc5-663b-411e-9294-c72fd1d52479",
+    "duration_ms": 260834,
+    "genre": []
+  },
+  {
+    "song": "Eyes Closed",
+    "artists": [
+      "Imagine Dragons"
+    ],
+    "isrc": "USUM72402448",
+    "start_time": "2025-12-02 01:07:05",
+    "radio": "expres",
+    "recorded_at": "2025-12-02T01:07:33.212681+01:00",
+    "raw_valid": true,
+    "song_session_id": "a78fa249-5fa8-4965-9399-c5debd4071c9",
+    "duration_ms": 200026,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Run Run Run",
+    "artists": [
+      "Celeste Buckingham"
+    ],
+    "isrc": "QMQNX1200004",
+    "start_time": "2025-12-02 01:10:20",
+    "radio": "expres",
+    "recorded_at": "2025-12-02T01:10:41.232363+01:00",
+    "raw_valid": true,
+    "song_session_id": "bff9e347-aba6-43cf-a73d-ab3228d6a285",
+    "duration_ms": 224027,
+    "genre": []
+  },
+  {
+    "song": "Sweet Dreams",
+    "artists": [
+      "Eurythmics"
+    ],
+    "isrc": "GBARL0300589",
+    "start_time": "2025-12-02 01:13:53",
+    "radio": "expres",
+    "recorded_at": "2025-12-02T01:14:14.608893+01:00",
+    "raw_valid": true,
+    "song_session_id": "49af1b1c-fa98-4209-8b1f-3ecbe1600db2",
+    "duration_ms": 216933,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Vsetko Bude Dobre",
+    "artists": [
+      "Gladiator"
+    ],
+    "isrc": "SKCM72560001",
+    "start_time": "2025-12-02 01:17:16",
+    "radio": "expres",
+    "recorded_at": "2025-12-02T01:17:51.327872+01:00",
+    "raw_valid": true,
+    "song_session_id": "4f52b202-257a-4181-b1bf-d5f86172a7ea",
+    "duration_ms": 166588,
+    "genre": []
+  },
+  {
+    "song": "Why Why Why",
+    "artists": [
+      "Shawn Mendes"
+    ],
+    "isrc": "USUM72408543",
+    "start_time": "2025-12-02 01:20:22",
+    "radio": "expres",
+    "recorded_at": "2025-12-02T01:20:44.515687+01:00",
+    "raw_valid": true,
+    "song_session_id": "afcbd034-5937-400b-baae-5585f77e45bf",
+    "duration_ms": 169041,
+    "genre": []
+  },
+  {
+    "song": "My Dvaja",
+    "artists": [
+      "Imt Smile"
+    ],
+    "isrc": "SKA011200006",
+    "start_time": "2025-12-02 01:23:07",
+    "radio": "expres",
+    "recorded_at": "2025-12-02T01:23:27.262044+01:00",
+    "raw_valid": true,
+    "song_session_id": "bbdc0daf-1acc-4621-8b7d-1d91494806dc",
+    "duration_ms": 229706,
+    "genre": []
+  },
+  {
+    "song": "Last Christmas",
+    "artists": [
+      "Wham"
+    ],
+    "isrc": "GBBBM8400019",
+    "start_time": "2025-12-02 01:26:45",
+    "radio": "expres",
+    "recorded_at": "2025-12-02T01:27:23.553383+01:00",
+    "raw_valid": true,
+    "song_session_id": "d9ec44fc-77c1-4979-b002-de0db4e06bab",
+    "duration_ms": 262960,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "The Fate Of Ophelia",
+    "artists": [
+      "Taylor Swift"
+    ],
+    "isrc": "USUG12506436",
+    "start_time": "2025-12-02 01:31:07",
+    "radio": "expres",
+    "recorded_at": "2025-12-02T01:31:23.608361+01:00",
+    "raw_valid": true,
+    "song_session_id": "8455d671-3006-42b6-aacd-c65558b17cdb",
+    "duration_ms": 226073,
+    "genre": [
+      "electronic"
+    ]
+  },
+  {
+    "song": "Sestricka Z Kramarov",
+    "artists": [
+      "Elan"
+    ],
+    "isrc": "SKA129150302",
+    "start_time": "2025-12-02 01:34:55",
+    "radio": "expres",
+    "recorded_at": "2025-12-02T01:35:06.977152+01:00",
+    "raw_valid": true,
+    "song_session_id": "d563ab29-f512-4653-98ab-6b4eba127087",
+    "duration_ms": 238000,
+    "genre": []
+  },
+  {
+    "song": "Angels",
+    "artists": [
+      "Robbie Williams"
+    ],
+    "isrc": "GBAYE9700233",
+    "start_time": "2025-12-02 01:38:39",
+    "radio": "expres",
+    "recorded_at": "2025-12-02T01:38:45.339004+01:00",
+    "raw_valid": true,
+    "song_session_id": "47e918d5-a51d-4a88-85ba-4dd8c9874071",
+    "duration_ms": 265733,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Z Vysky",
+    "artists": [
+      "Peter Bic Project"
+    ],
+    "isrc": "SKA011800016",
+    "start_time": "2025-12-02 01:43:06",
+    "radio": "expres",
+    "recorded_at": "2025-12-02T01:43:34.839248+01:00",
+    "raw_valid": true,
+    "song_session_id": "1fa1888f-4513-474a-9b2a-798d277677e9",
+    "duration_ms": 196290,
+    "genre": []
+  },
+  {
+    "song": "Glide",
+    "artists": [
+      "Neiked",
+      "Portugal The Man"
+    ],
+    "isrc": "DEE862500421",
+    "start_time": "2025-12-02 01:46:19",
+    "radio": "expres",
+    "recorded_at": "2025-12-02T01:46:44.027861+01:00",
+    "raw_valid": true,
+    "song_session_id": "2cb7e091-7145-4d03-8394-55a6eb2d0d5b",
+    "duration_ms": 184405,
+    "genre": []
+  },
+  {
+    "song": "Spravne Dievcata",
+    "artists": [
+      "Marika Gombitova"
+    ],
+    "isrc": null,
+    "start_time": "2025-12-02 01:49:15",
+    "radio": "expres",
+    "recorded_at": "2025-12-02T01:49:37.199542+01:00",
+    "raw_valid": true,
+    "song_session_id": "75d158d4-978c-46b8-8ed9-408e5225d4ae"
+  },
+  {
+    "song": "Save Me",
+    "artists": [
+      "Morandi"
+    ],
+    "isrc": "ROUM70700048",
+    "start_time": "2025-12-02 01:53:30",
+    "radio": "expres",
+    "recorded_at": "2025-12-02T01:53:41.030383+01:00",
+    "raw_valid": true,
+    "song_session_id": "764b4e88-17b2-415f-bd8d-3520c0f0b1a9",
+    "duration_ms": 274133,
+    "genre": [
+      "europop"
+    ]
+  },
+  {
+    "song": "Ked Muz Miluje Zenu",
+    "artists": [
+      "Robo Opatovsky"
+    ],
+    "isrc": "SKC251701406",
+    "start_time": "2025-12-02 01:56:51",
+    "radio": "expres",
+    "recorded_at": "2025-12-02T01:57:13.015762+01:00",
+    "raw_valid": true,
+    "song_session_id": "abdaf354-86d8-4d79-92d4-02bdefc86b7b",
+    "duration_ms": 249880,
+    "genre": []
+  },
+  {
+    "song": "Unhealthy",
+    "artists": [
+      "Anne-Marie",
+      "Shania Twain"
+    ],
+    "isrc": "GBAHS2300345",
+    "start_time": "2025-12-02 02:00:58",
+    "radio": "expres",
+    "recorded_at": "2025-12-02T02:01:13.190618+01:00",
+    "raw_valid": true,
+    "song_session_id": "2f5da202-5e1c-4bff-9243-18d0300e69ae",
+    "duration_ms": 149653,
+    "genre": []
+  },
+  {
+    "song": "Zmiluj Sa",
+    "artists": [
+      "Lukas Adamec"
+    ],
+    "isrc": "CZH682100036",
+    "start_time": "2025-12-02 02:03:24",
+    "radio": "expres",
+    "recorded_at": "2025-12-02T02:03:35.579991+01:00",
+    "raw_valid": true,
+    "song_session_id": "55d776ad-2f92-4320-b1f4-ed2fdf021a7c",
+    "duration_ms": 223080,
+    "genre": []
+  },
+  {
+    "song": "Regalo",
+    "artists": [
+      "Alvaro Soler"
+    ],
+    "isrc": "DEE862500388",
+    "start_time": "2025-12-02 02:07:12",
+    "radio": "expres",
+    "recorded_at": "2025-12-02T02:07:25.211124+01:00",
+    "raw_valid": true,
+    "song_session_id": "cd45315d-e450-4f59-8c0c-62faeb0dbfbe",
+    "duration_ms": 184984,
+    "genre": []
+  },
+  {
+    "song": "Mam Ta V Hlave",
+    "artists": [
+      "Tina",
+      "Tomi Popovic"
+    ],
+    "isrc": "QZN882073891",
+    "start_time": "2025-12-02 02:10:18",
+    "radio": "expres",
+    "recorded_at": "2025-12-02T02:10:45.163666+01:00",
+    "raw_valid": true,
+    "song_session_id": "f4f3521d-224e-4f59-9656-bd6dbc9281c3",
+    "duration_ms": 147133,
+    "genre": []
+  },
+  {
+    "song": "On My Head",
+    "artists": [
+      "Dan Barta"
+    ],
+    "isrc": "CZA140400345",
+    "start_time": "2025-12-02 02:13:56",
+    "radio": "expres",
+    "recorded_at": "2025-12-02T02:14:08.666881+01:00",
+    "raw_valid": true,
+    "song_session_id": "df8bd817-8a11-45f6-bae4-604fbb9e51da",
+    "duration_ms": 163360,
+    "genre": []
+  },
+  {
+    "song": "Kratke Lasky",
+    "artists": [
+      "Team"
+    ],
+    "isrc": "SKA880000103",
+    "start_time": "2025-12-02 02:16:45",
+    "radio": "expres",
+    "recorded_at": "2025-12-02T02:17:13.617218+01:00",
+    "raw_valid": true,
+    "song_session_id": "4eb6e0fb-03ee-4abe-b4de-f2a128b19740",
+    "duration_ms": 172546,
+    "genre": []
+  },
+  {
+    "song": "Love Me Not",
+    "artists": [
+      "Ravyn Lenae"
+    ],
+    "isrc": "USAT22401137",
+    "start_time": "2025-12-02 02:19:35",
+    "radio": "expres",
+    "recorded_at": "2025-12-02T02:20:05.525218+01:00",
+    "raw_valid": true,
+    "song_session_id": "edc017c3-3086-4ac6-9b2b-a124c367ab7c",
+    "duration_ms": 213466,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Edo",
+    "artists": [
+      "Robo Grigorov"
+    ],
+    "isrc": "TCAEJ1930261",
+    "start_time": "2025-12-02 02:22:55",
+    "radio": "expres",
+    "recorded_at": "2025-12-02T02:23:25.452927+01:00",
+    "raw_valid": true,
+    "song_session_id": "9298fce4-58c0-46cc-b379-dea778d24b70",
+    "duration_ms": 212401,
+    "genre": []
+  },
+  {
+    "song": "Walk With Me",
+    "artists": [
+      "Felix Jaehn",
+      "Shouse"
+    ],
+    "isrc": "DEUM72411810",
+    "start_time": "2025-12-02 02:26:26",
+    "radio": "expres",
+    "recorded_at": "2025-12-02T02:26:45.732151+01:00",
+    "raw_valid": true,
+    "song_session_id": "4876d096-ca54-4123-bd3f-d59ae77aa627",
+    "duration_ms": 152535,
+    "genre": [
+      "tropical house"
+    ]
+  },
+  {
+    "song": "Kazdy Den Budu Vraj Vianoce",
+    "artists": [
+      "Lojzo",
+      "Miro Zbirka"
+    ],
+    "isrc": "SKA129075601",
+    "start_time": "2025-12-02 02:29:03",
+    "radio": "expres",
+    "recorded_at": "2025-12-02T02:29:28.477022+01:00",
+    "raw_valid": true,
+    "song_session_id": "8b271d71-46f0-4237-b442-f0fd73859d4b",
+    "duration_ms": 266893,
+    "genre": []
+  },
+  {
+    "song": "Be Mine",
+    "artists": [
+      "Kamrad"
+    ],
+    "isrc": "DE1NJ2500035",
+    "start_time": "2025-12-02 02:34:10",
+    "radio": "expres",
+    "recorded_at": "2025-12-02T02:34:45.674937+01:00",
+    "raw_valid": true,
+    "song_session_id": "5a01cc1e-b450-4472-845a-097463ebaca6",
+    "duration_ms": 156463,
+    "genre": []
+  },
+  {
+    "song": "High",
+    "artists": [
+      "Emma Drobna"
+    ],
+    "isrc": "CZA232500590",
+    "start_time": "2025-12-02 02:36:48",
+    "radio": "expres",
+    "recorded_at": "2025-12-02T02:36:58.074786+01:00",
+    "raw_valid": true,
+    "song_session_id": "5b12e2ef-da7b-49b3-a348-3fbe4f48827e",
+    "duration_ms": 164546,
+    "genre": []
+  },
+  {
+    "song": "Wind Of Change",
+    "artists": [
+      "Scorpions"
+    ],
+    "isrc": "USPG19090037",
+    "start_time": "2025-12-02 02:39:35",
+    "radio": "expres",
+    "recorded_at": "2025-12-02T02:40:05.947211+01:00",
+    "raw_valid": true,
+    "song_session_id": "1a2a3a3f-48d0-454b-a9ce-98f8e47c42ab",
+    "duration_ms": 311240,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Bella Ciao",
+    "artists": [
+      "Skampi Na Zaru"
+    ],
+    "isrc": "ES84S1800619",
+    "start_time": "2025-12-02 02:44:50",
+    "radio": "expres",
+    "recorded_at": "2025-12-02T02:45:14.569675+01:00",
+    "raw_valid": true,
+    "song_session_id": "5dc1384d-7e06-4856-878c-20b456357efc",
+    "duration_ms": 139844,
+    "genre": []
+  },
+  {
+    "song": "Gone Gone Gone",
+    "artists": [
+      "David Guetta",
+      "Teddy Swims",
+      "Tones And I"
+    ],
+    "isrc": "UKWLG2500132",
+    "start_time": "2025-12-02 02:47:36",
+    "radio": "expres",
+    "recorded_at": "2025-12-02T02:47:54.543542+01:00",
+    "raw_valid": true,
+    "song_session_id": "d2e9d276-a0c7-4fcf-a4b8-04efc27a2305",
+    "duration_ms": 198004,
+    "genre": [
+      "soul"
+    ]
+  },
+  {
+    "song": "Slnecna Balada",
+    "artists": [
+      "Peha"
+    ],
+    "isrc": "SKA770305110",
+    "start_time": "2025-12-02 02:51:30",
+    "radio": "expres",
+    "recorded_at": "2025-12-02T02:51:54.956238+01:00",
+    "raw_valid": true,
+    "song_session_id": "aac7fe91-3017-497c-be43-b504f5a40a5f",
+    "duration_ms": 233266,
+    "genre": []
+  },
+  {
+    "song": "Believer",
+    "artists": [
+      "Imagine Dragons"
+    ],
+    "isrc": "USUM71700626",
+    "start_time": "2025-12-02 02:55:22",
+    "radio": "expres",
+    "recorded_at": "2025-12-02T02:55:43.472305+01:00",
+    "raw_valid": true,
+    "song_session_id": "d8373b8e-4ca3-477b-99b6-110dcce14282",
+    "duration_ms": 204346,
+    "genre": [
+      "rock"
+    ]
+  }
+]

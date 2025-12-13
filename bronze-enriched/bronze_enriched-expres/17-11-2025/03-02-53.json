@@ -1,0 +1,520 @@
+[
+  {
+    "song": "Afterlife",
+    "artists": [
+      "Michael Schulte"
+    ],
+    "isrc": "DECE72500509",
+    "start_time": "2025-11-17 02:03:25",
+    "radio": "expres",
+    "recorded_at": "2025-11-17T02:04:14.451352+01:00",
+    "raw_valid": true,
+    "song_session_id": "a15f3f27-e7ac-4f86-9ed3-b78ad262f198",
+    "duration_ms": 160120,
+    "genre": []
+  },
+  {
+    "song": "Sexxxy",
+    "artists": [
+      "Tina",
+      "Ego"
+    ],
+    "isrc": "CZA231204270",
+    "start_time": "2025-11-17 02:06:13",
+    "radio": "expres",
+    "recorded_at": "2025-11-17T02:06:42.823108+01:00",
+    "raw_valid": true,
+    "song_session_id": "5e9e3dd3-952e-4f28-8995-b2326bfdbec5",
+    "duration_ms": 361586,
+    "genre": []
+  },
+  {
+    "song": "Stargazing",
+    "artists": [
+      "Myles Smith"
+    ],
+    "isrc": "GBARL2400510",
+    "start_time": "2025-11-17 02:09:34",
+    "radio": "expres",
+    "recorded_at": "2025-11-17T02:10:15.905121+01:00",
+    "raw_valid": true,
+    "song_session_id": "3cef618e-e4eb-4782-9c2c-f70abe4f666e",
+    "duration_ms": 172533,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Neviem Sa Najst",
+    "artists": [
+      "Nela"
+    ],
+    "isrc": "SKE321200201",
+    "start_time": "2025-11-17 02:12:25",
+    "radio": "expres",
+    "recorded_at": "2025-11-17T02:12:58.682028+01:00",
+    "raw_valid": true,
+    "song_session_id": "0082e8e9-201e-424d-836a-9225b57bf315",
+    "duration_ms": 215691,
+    "genre": []
+  },
+  {
+    "song": "The Look",
+    "artists": [
+      "Roxette"
+    ],
+    "isrc": "SEAME8878010",
+    "start_time": "2025-11-17 02:16:06",
+    "radio": "expres",
+    "recorded_at": "2025-11-17T02:16:37.053594+01:00",
+    "raw_valid": true,
+    "song_session_id": "ce807656-7a83-4ddb-800b-d4c94d67ebd3",
+    "duration_ms": 237320,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Nahy 2",
+    "artists": [
+      "Richard Muller"
+    ],
+    "isrc": "SKA010109110",
+    "start_time": "2025-11-17 02:19:50",
+    "radio": "expres",
+    "recorded_at": "2025-11-17T02:20:15.134985+01:00",
+    "raw_valid": true,
+    "song_session_id": "e590354b-5eb4-4c71-9905-45937c51c433",
+    "duration_ms": 300466,
+    "genre": []
+  },
+  {
+    "song": "Love Me Not",
+    "artists": [
+      "Ravyn Lenae"
+    ],
+    "isrc": "USAT22401137",
+    "start_time": "2025-11-17 02:24:02",
+    "radio": "expres",
+    "recorded_at": "2025-11-17T02:24:18.868573+01:00",
+    "raw_valid": true,
+    "song_session_id": "252b5690-466a-4386-b6d4-03b03afc73fa",
+    "duration_ms": 213466,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Balada O Polnych Vtakoch 2006",
+    "artists": [
+      "Meky Revival"
+    ],
+    "isrc": null,
+    "start_time": "2025-11-17 02:27:43",
+    "radio": "expres",
+    "recorded_at": "2025-11-17T02:28:15.791330+01:00",
+    "raw_valid": true,
+    "song_session_id": "e452539d-f1a3-4068-8fac-5702ff73f68f"
+  },
+  {
+    "song": "Green Green Grass",
+    "artists": [
+      "George Ezra"
+    ],
+    "isrc": "GBARL2200008",
+    "start_time": "2025-11-17 02:31:26",
+    "radio": "expres",
+    "recorded_at": "2025-11-17T02:32:00.074577+01:00",
+    "raw_valid": true,
+    "song_session_id": "cfcbd634-b0ac-4be7-99ed-33db543e3a70",
+    "duration_ms": 167613,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Million Good Reasons",
+    "artists": [
+      "Robin Schulz",
+      "Fast Boy"
+    ],
+    "isrc": "DEA622404738",
+    "start_time": "2025-11-17 02:34:53",
+    "radio": "expres",
+    "recorded_at": "2025-11-17T02:35:35.977314+01:00",
+    "raw_valid": true,
+    "song_session_id": "92825e6b-1fb9-4da5-9ddf-f5e4e8e8b715",
+    "duration_ms": 157130,
+    "genre": []
+  },
+  {
+    "song": "Spievaj So Mnou",
+    "artists": [
+      "Bystrik"
+    ],
+    "isrc": "SKB002008101",
+    "start_time": "2025-11-17 02:37:35",
+    "radio": "expres",
+    "recorded_at": "2025-11-17T02:37:53.314007+01:00",
+    "raw_valid": true,
+    "song_session_id": "07d792bf-6131-42fc-8cf6-4b91853c9558",
+    "duration_ms": 203866,
+    "genre": []
+  },
+  {
+    "song": "Runaway Train",
+    "artists": [
+      "Soul Asylum"
+    ],
+    "isrc": "USSM19200235",
+    "start_time": "2025-11-17 02:40:57",
+    "radio": "expres",
+    "recorded_at": "2025-11-17T02:41:23.673795+01:00",
+    "raw_valid": true,
+    "song_session_id": "524a4d04-281b-4ee2-a735-24f63b7b6952",
+    "duration_ms": 266573,
+    "genre": []
+  },
+  {
+    "song": "Duch Cloveka",
+    "artists": [
+      "Imt Smile"
+    ],
+    "isrc": "SKA010500076",
+    "start_time": "2025-11-17 02:45:24",
+    "radio": "expres",
+    "recorded_at": "2025-11-17T02:45:42.538426+01:00",
+    "raw_valid": true,
+    "song_session_id": "73b6127b-c19f-49da-a9b8-12ef29faa647",
+    "duration_ms": 368986,
+    "genre": []
+  },
+  {
+    "song": "Save My Love",
+    "artists": [
+      "Marshmello",
+      "Ellie Goulding",
+      "Avaion"
+    ],
+    "isrc": "USUG12504310",
+    "start_time": "2025-11-17 02:49:04",
+    "radio": "expres",
+    "recorded_at": "2025-11-17T02:49:26.755975+01:00",
+    "raw_valid": true,
+    "song_session_id": "09d06972-ee62-4668-a540-a4d4f39cd60b",
+    "duration_ms": 215555,
+    "genre": []
+  },
+  {
+    "song": "Daj Ruku Do Mojej Ruky",
+    "artists": [
+      "Zuzana Smatanova"
+    ],
+    "isrc": "CZA210900562",
+    "start_time": "2025-11-17 02:52:58",
+    "radio": "expres",
+    "recorded_at": "2025-11-17T02:53:39.321264+01:00",
+    "raw_valid": true,
+    "song_session_id": "66761751-2694-4a35-8745-54e731084dbd",
+    "duration_ms": 186972,
+    "genre": []
+  },
+  {
+    "song": "Skin",
+    "artists": [
+      "Rag N Bone Man"
+    ],
+    "isrc": "GBARL1601147",
+    "start_time": "2025-11-17 02:56:07",
+    "radio": "expres",
+    "recorded_at": "2025-11-17T02:56:43.832741+01:00",
+    "raw_valid": true,
+    "song_session_id": "5b557cb1-86fe-43b5-b83e-1111f7fc442b",
+    "duration_ms": 237653,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Otazka Za Milion",
+    "artists": [
+      "Ine Kafe"
+    ],
+    "isrc": "SKA722400001",
+    "start_time": "2025-11-17 03:00:02",
+    "radio": "expres",
+    "recorded_at": "2025-11-17T03:00:44.094494+01:00",
+    "raw_valid": true,
+    "song_session_id": "74a78e30-1ee9-4304-80e9-d21a4d3d861e",
+    "duration_ms": 220400,
+    "genre": []
+  },
+  {
+    "song": "Thats So True",
+    "artists": [
+      "Gracie Abrams"
+    ],
+    "isrc": "USUG12406903",
+    "start_time": "2025-11-17 03:03:40",
+    "radio": "expres",
+    "recorded_at": "2025-11-17T03:04:04.963078+01:00",
+    "raw_valid": true,
+    "song_session_id": "d116a53b-45fe-45bc-904f-458f7a1bf1fc",
+    "duration_ms": 130771,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Sedem Noci",
+    "artists": [
+      "Komajota"
+    ],
+    "isrc": "SKA010800079",
+    "start_time": "2025-11-17 03:06:20",
+    "radio": "expres",
+    "recorded_at": "2025-11-17T03:06:49.411369+01:00",
+    "raw_valid": true,
+    "song_session_id": "1b232a71-b5aa-46c2-aaab-f23d5fc6d110",
+    "duration_ms": 257106,
+    "genre": []
+  },
+  {
+    "song": "Be Mine",
+    "artists": [
+      "Kamrad"
+    ],
+    "isrc": "DE1NJ2500035",
+    "start_time": "2025-11-17 03:09:53",
+    "radio": "expres",
+    "recorded_at": "2025-11-17T03:10:27.585076+01:00",
+    "raw_valid": true,
+    "song_session_id": "73197736-4e21-444f-9ad7-e106c88dc467",
+    "duration_ms": 156463,
+    "genre": []
+  },
+  {
+    "song": "Vo Vlnach",
+    "artists": [
+      "Emma Drobna"
+    ],
+    "isrc": "CZA232500001",
+    "start_time": "2025-11-17 03:12:32",
+    "radio": "expres",
+    "recorded_at": "2025-11-17T03:13:00.327666+01:00",
+    "raw_valid": true,
+    "song_session_id": "749e9f98-82a3-4f38-9ac0-7927e975faf9",
+    "duration_ms": 186891,
+    "genre": []
+  },
+  {
+    "song": "What Ive Done",
+    "artists": [
+      "Linkin Park"
+    ],
+    "isrc": "USWB10700721",
+    "start_time": "2025-11-17 03:15:39",
+    "radio": "expres",
+    "recorded_at": "2025-11-17T03:16:19.813244+01:00",
+    "raw_valid": true,
+    "song_session_id": "eac256f5-62b4-445e-95c0-3b9e4cba39af",
+    "duration_ms": 205613,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Thinking About You",
+    "artists": [
+      "Peter Bic Project"
+    ],
+    "isrc": "SKA011200054",
+    "start_time": "2025-11-17 03:19:04",
+    "radio": "expres",
+    "recorded_at": "2025-11-17T03:19:43.083985+01:00",
+    "raw_valid": true,
+    "song_session_id": "e228a6cf-89b6-4712-bd5d-7fb08687fa75",
+    "duration_ms": 234240,
+    "genre": []
+  },
+  {
+    "song": "Golden",
+    "artists": [
+      "Kpop Demon Hunters"
+    ],
+    "isrc": "QZ8BZ2513510",
+    "start_time": "2025-11-17 03:23:04",
+    "radio": "expres",
+    "recorded_at": "2025-11-17T03:23:26.428523+01:00",
+    "raw_valid": true,
+    "song_session_id": "475413a4-cf06-4349-aaf4-2dec96bbfdac",
+    "duration_ms": 194607,
+    "genre": [
+      "korean"
+    ]
+  },
+  {
+    "song": "Zhori Vsetko Co Mam",
+    "artists": [
+      "Desmod"
+    ],
+    "isrc": "CZA210600215",
+    "start_time": "2025-11-17 03:25:49",
+    "radio": "expres",
+    "recorded_at": "2025-11-17T03:26:29.348577+01:00",
+    "raw_valid": true,
+    "song_session_id": "d449b2d3-1672-4920-a011-f2ec28d22bb0",
+    "duration_ms": 289800,
+    "genre": []
+  },
+  {
+    "song": "Houdini",
+    "artists": [
+      "Dua Lipa"
+    ],
+    "isrc": "GBAHT2301246",
+    "start_time": "2025-11-17 03:30:17",
+    "radio": "expres",
+    "recorded_at": "2025-11-17T03:31:00.583589+01:00",
+    "raw_valid": true,
+    "song_session_id": "5beead35-708e-464b-97b4-0993a91bddc1",
+    "duration_ms": 185917,
+    "genre": [
+      "electronic"
+    ]
+  },
+  {
+    "song": "The One",
+    "artists": [
+      "Michael Patrick Kelly"
+    ],
+    "isrc": "DEE862500476",
+    "start_time": "2025-11-17 03:33:33",
+    "radio": "expres",
+    "recorded_at": "2025-11-17T03:34:04.723102+01:00",
+    "raw_valid": true,
+    "song_session_id": "2ae7a548-8c4c-4d60-8906-4854520916d2",
+    "duration_ms": 181194,
+    "genre": []
+  },
+  {
+    "song": "Linda",
+    "artists": [
+      "Para"
+    ],
+    "isrc": "TCACS1685920",
+    "start_time": "2025-11-17 03:36:30",
+    "radio": "expres",
+    "recorded_at": "2025-11-17T03:37:03.304133+01:00",
+    "raw_valid": true,
+    "song_session_id": "c6840de9-cd49-4c49-9606-ce2bcc81a114",
+    "duration_ms": 317628,
+    "genre": []
+  },
+  {
+    "song": "Total Eclipse Of The Heart",
+    "artists": [
+      "Westlife"
+    ],
+    "isrc": "GBARL0601585",
+    "start_time": "2025-11-17 03:39:42",
+    "radio": "expres",
+    "recorded_at": "2025-11-17T03:40:07.835938+01:00",
+    "raw_valid": true,
+    "song_session_id": "3dc89ad1-efd6-4be9-bb10-f3c91fe26e61",
+    "duration_ms": 279466,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Zijeme Len Raz",
+    "artists": [
+      "Ego",
+      "Robert Burian"
+    ],
+    "isrc": "CZA231204265",
+    "start_time": "2025-11-17 03:44:23",
+    "radio": "expres",
+    "recorded_at": "2025-11-17T03:44:51.816190+01:00",
+    "raw_valid": true,
+    "song_session_id": "924de0f2-d7b6-4b5c-b69d-c9e7869fce6f",
+    "duration_ms": 205780,
+    "genre": []
+  },
+  {
+    "song": "Viva La Vida",
+    "artists": [
+      "Coldplay"
+    ],
+    "isrc": "GBAYE0800265",
+    "start_time": "2025-11-17 03:47:53",
+    "radio": "expres",
+    "recorded_at": "2025-11-17T03:48:24.241377+01:00",
+    "raw_valid": true,
+    "song_session_id": "7b47a5c3-764c-4612-8039-db871d27e4b8",
+    "duration_ms": 242373,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Vsetko Bude Dobre",
+    "artists": [
+      "Gladiator"
+    ],
+    "isrc": "SKCM72560001",
+    "start_time": "2025-11-17 03:51:34",
+    "radio": "expres",
+    "recorded_at": "2025-11-17T03:52:09.001861+01:00",
+    "raw_valid": true,
+    "song_session_id": "d8eb8e78-4bdb-4d4f-a0a7-5ead41ad2e09",
+    "duration_ms": 166588,
+    "genre": []
+  },
+  {
+    "song": "My Oh My",
+    "artists": [
+      "Ava Max"
+    ],
+    "isrc": "USAT22401759",
+    "start_time": "2025-11-17 03:54:33",
+    "radio": "expres",
+    "recorded_at": "2025-11-17T03:55:06.887542+01:00",
+    "raw_valid": true,
+    "song_session_id": "48ccba04-895f-478d-9877-d1cc09357459",
+    "duration_ms": 156155,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Kocka",
+    "artists": [
+      "Elan"
+    ],
+    "isrc": "TCAEF1942481",
+    "start_time": "2025-11-17 03:57:10",
+    "radio": "expres",
+    "recorded_at": "2025-11-17T03:57:50.014505+01:00",
+    "raw_valid": true,
+    "song_session_id": "9590d59f-9d19-40c6-8084-1ecad2009119",
+    "duration_ms": 257000,
+    "genre": []
+  },
+  {
+    "song": "Glide",
+    "artists": [
+      "Neiked",
+      "Portugal The Man"
+    ],
+    "isrc": "DEE862500421",
+    "start_time": "2025-11-17 04:01:22",
+    "radio": "expres",
+    "recorded_at": "2025-11-17T04:01:53.945749+01:00",
+    "raw_valid": true,
+    "song_session_id": "1b0a7f0d-8b98-48b1-af79-2a3a104ac127",
+    "duration_ms": 184405,
+    "genre": []
+  }
+]

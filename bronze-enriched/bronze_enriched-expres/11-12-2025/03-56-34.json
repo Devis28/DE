@@ -1,0 +1,496 @@
+[
+  {
+    "song": "Love Me Not",
+    "artists": [
+      "Ravyn Lenae"
+    ],
+    "isrc": "USAT22401137",
+    "start_time": "2025-12-11 03:00:06",
+    "radio": "expres",
+    "recorded_at": "2025-12-11T03:00:39.795093+01:00",
+    "raw_valid": true,
+    "song_session_id": "4e9cbe11-3027-46c9-b990-56a6b1050085",
+    "duration_ms": 213466,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Zmiluj Sa",
+    "artists": [
+      "Lukas Adamec"
+    ],
+    "isrc": "CZH682100036",
+    "start_time": "2025-12-11 03:03:32",
+    "radio": "expres",
+    "recorded_at": "2025-12-11T03:04:02.216815+01:00",
+    "raw_valid": true,
+    "song_session_id": "849c4fb5-e867-4e48-b262-6142e1b25c0f",
+    "duration_ms": 223080,
+    "genre": []
+  },
+  {
+    "song": "Ordinary",
+    "artists": [
+      "Alex Warren"
+    ],
+    "isrc": "USAT22500463",
+    "start_time": "2025-12-11 03:07:15",
+    "radio": "expres",
+    "recorded_at": "2025-12-11T03:07:50.921411+01:00",
+    "raw_valid": true,
+    "song_session_id": "5941f161-1fcd-4123-b392-70f6bd342b6a",
+    "duration_ms": 186964,
+    "genre": [
+      "folk"
+    ]
+  },
+  {
+    "song": "Mam Ta V Hlave",
+    "artists": [
+      "Tina",
+      "Tomi Popovic"
+    ],
+    "isrc": "QZN882073891",
+    "start_time": "2025-12-11 03:10:19",
+    "radio": "expres",
+    "recorded_at": "2025-12-11T03:10:34.343487+01:00",
+    "raw_valid": true,
+    "song_session_id": "80c63653-c6d4-40f8-a0c0-ac97e3822df9",
+    "duration_ms": 147133,
+    "genre": []
+  },
+  {
+    "song": "Nothing Else Matters",
+    "artists": [
+      "Metallica"
+    ],
+    "isrc": "QMKHM1900008",
+    "start_time": "2025-12-11 03:14:04",
+    "radio": "expres",
+    "recorded_at": "2025-12-11T03:14:38.762007+01:00",
+    "raw_valid": true,
+    "song_session_id": "bff6c1d0-9049-484f-a3cd-4e204c71fff3",
+    "duration_ms": 388733,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Fukame",
+    "artists": [
+      "Adam Durica"
+    ],
+    "isrc": "SKA012100253",
+    "start_time": "2025-12-11 03:19:55",
+    "radio": "expres",
+    "recorded_at": "2025-12-11T03:20:24.554344+01:00",
+    "raw_valid": true,
+    "song_session_id": "bc43724b-f8ac-4ab2-a269-0756f193ee46",
+    "duration_ms": 200609,
+    "genre": []
+  },
+  {
+    "song": "Blood Running",
+    "artists": [
+      "Ray Dalton"
+    ],
+    "isrc": "DEUM72507812",
+    "start_time": "2025-12-11 03:23:11",
+    "radio": "expres",
+    "recorded_at": "2025-12-11T03:23:28.170004+01:00",
+    "raw_valid": true,
+    "song_session_id": "3b2ba214-26f4-4438-9ce4-fbecb87f4028",
+    "duration_ms": 173146,
+    "genre": []
+  },
+  {
+    "song": "Told You So",
+    "artists": [
+      "Martin Garrix",
+      "Jex"
+    ],
+    "isrc": "NLM5S2402334",
+    "start_time": "2025-12-11 03:26:19",
+    "radio": "expres",
+    "recorded_at": "2025-12-11T03:26:31.881257+01:00",
+    "raw_valid": true,
+    "song_session_id": "5791d7e4-5516-435c-9bcd-f9c4d20f01b3",
+    "duration_ms": 187031,
+    "genre": []
+  },
+  {
+    "song": "Vianocna Pohoda",
+    "artists": [
+      "Radio Expres",
+      "Sam Sebou",
+      "Kali"
+    ],
+    "isrc": "CZCZ42400089",
+    "start_time": "2025-12-11 03:29:26",
+    "radio": "expres",
+    "recorded_at": "2025-12-11T03:30:00.843256+01:00",
+    "raw_valid": true,
+    "song_session_id": "ba03cfca-f206-4b7a-a0bf-1c248f3bf9ad",
+    "duration_ms": 164833,
+    "genre": []
+  },
+  {
+    "song": "Be Mine",
+    "artists": [
+      "Kamrad"
+    ],
+    "isrc": "DE1NJ2500035",
+    "start_time": "2025-12-11 03:32:58",
+    "radio": "expres",
+    "recorded_at": "2025-12-11T03:33:22.252212+01:00",
+    "raw_valid": true,
+    "song_session_id": "1f11dc57-062c-4b28-b4a1-8dd30250856b",
+    "duration_ms": 156463,
+    "genre": []
+  },
+  {
+    "song": "High",
+    "artists": [
+      "Emma Drobna"
+    ],
+    "isrc": "CZA232500590",
+    "start_time": "2025-12-11 03:35:43",
+    "radio": "expres",
+    "recorded_at": "2025-12-11T03:36:10.699506+01:00",
+    "raw_valid": true,
+    "song_session_id": "0cb29da5-d7fe-4753-8c8d-65e6a198d374",
+    "duration_ms": 164546,
+    "genre": []
+  },
+  {
+    "song": "Love The Way You Lie",
+    "artists": [
+      "Eminem",
+      "Rihanna"
+    ],
+    "isrc": "USUM71015397",
+    "start_time": "2025-12-11 03:38:28",
+    "radio": "expres",
+    "recorded_at": "2025-12-11T03:38:49.099121+01:00",
+    "raw_valid": true,
+    "song_session_id": "47fb2ae3-3578-49a1-be4a-3eb984cfa412",
+    "duration_ms": 263373,
+    "genre": [
+      "rap"
+    ]
+  },
+  {
+    "song": "So Zivotom V Ohrozeni",
+    "artists": [
+      "Jana Kirschner"
+    ],
+    "isrc": "SKA010205102",
+    "start_time": "2025-12-11 03:43:05",
+    "radio": "expres",
+    "recorded_at": "2025-12-11T03:43:39.057029+01:00",
+    "raw_valid": true,
+    "song_session_id": "aca57515-5dac-4537-bb0d-71e66128cf64",
+    "duration_ms": 236426,
+    "genre": []
+  },
+  {
+    "song": "Save My Love",
+    "artists": [
+      "Marshmello",
+      "Ellie Goulding",
+      "Avaion"
+    ],
+    "isrc": "USUG12504310",
+    "start_time": "2025-12-11 03:46:54",
+    "radio": "expres",
+    "recorded_at": "2025-12-11T03:47:23.148484+01:00",
+    "raw_valid": true,
+    "song_session_id": "f3f50df5-4d52-4e6a-9941-f730b58828bc",
+    "duration_ms": 215555,
+    "genre": []
+  },
+  {
+    "song": "Spievaj So Mnou",
+    "artists": [
+      "Bystrik"
+    ],
+    "isrc": "SKB002008101",
+    "start_time": "2025-12-11 03:50:32",
+    "radio": "expres",
+    "recorded_at": "2025-12-11T03:51:05.703968+01:00",
+    "raw_valid": true,
+    "song_session_id": "8e950764-f389-400a-af05-a628469e99ee",
+    "duration_ms": 203866,
+    "genre": []
+  },
+  {
+    "song": "Austin",
+    "artists": [
+      "Dasha"
+    ],
+    "isrc": "QZTB92360479",
+    "start_time": "2025-12-11 03:54:00",
+    "radio": "expres",
+    "recorded_at": "2025-12-11T03:54:29.899217+01:00",
+    "raw_valid": true,
+    "song_session_id": "b37b544d-bb93-4ee4-b9d2-444c50f7ff54",
+    "duration_ms": 171782,
+    "genre": []
+  },
+  {
+    "song": "Wonderful Dream (Holidays Are Coming)",
+    "artists": [
+      "Melanie Thornton"
+    ],
+    "isrc": "DEE860100979",
+    "start_time": "2025-12-11 03:56:56",
+    "radio": "expres",
+    "recorded_at": "2025-12-11T03:57:07.180357+01:00",
+    "raw_valid": true,
+    "song_session_id": "a41b5b5b-6542-4728-b1ac-3777a54f5693",
+    "duration_ms": 230733,
+    "genre": []
+  },
+  {
+    "song": "Te Imaginaba",
+    "artists": [
+      "Alvaro Soler"
+    ],
+    "isrc": "DEE862401045",
+    "start_time": "2025-12-11 04:00:44",
+    "radio": "expres",
+    "recorded_at": "2025-12-11T04:01:11.564224+01:00",
+    "raw_valid": true,
+    "song_session_id": "4a9d76de-1b38-4f80-ba2a-1cf7ae50f48b",
+    "duration_ms": 158817,
+    "genre": []
+  },
+  {
+    "song": "Neviem Sa Najst",
+    "artists": [
+      "Nela"
+    ],
+    "isrc": "SKE321200201",
+    "start_time": "2025-12-11 04:03:19",
+    "radio": "expres",
+    "recorded_at": "2025-12-11T04:03:34.799342+01:00",
+    "raw_valid": true,
+    "song_session_id": "4ecb35c8-7649-4c38-85c4-efe6fe515f6e",
+    "duration_ms": 215691,
+    "genre": []
+  },
+  {
+    "song": "Undressed",
+    "artists": [
+      "Sombr"
+    ],
+    "isrc": "USWB12500737",
+    "start_time": "2025-12-11 04:06:56",
+    "radio": "expres",
+    "recorded_at": "2025-12-11T04:07:18.953938+01:00",
+    "raw_valid": true,
+    "song_session_id": "22ed8c6d-591f-446e-89d5-aa291910f59e",
+    "duration_ms": 182088,
+    "genre": [
+      "indie pop"
+    ]
+  },
+  {
+    "song": "Chcem Znamenie",
+    "artists": [
+      "Dara Rolins"
+    ],
+    "isrc": "USDY41511079",
+    "start_time": "2025-12-11 04:09:56",
+    "radio": "expres",
+    "recorded_at": "2025-12-11T04:10:27.690170+01:00",
+    "raw_valid": true,
+    "song_session_id": "0ae8a752-13e1-4cde-a174-accba4b94f63",
+    "duration_ms": 218005,
+    "genre": []
+  },
+  {
+    "song": "Angels",
+    "artists": [
+      "Robbie Williams"
+    ],
+    "isrc": "GBAYE9700233",
+    "start_time": "2025-12-11 04:13:31",
+    "radio": "expres",
+    "recorded_at": "2025-12-11T04:13:51.529603+01:00",
+    "raw_valid": true,
+    "song_session_id": "1573a52e-2d96-4e38-91d7-d38652ff8860",
+    "duration_ms": 265733,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Nemozem Dychat",
+    "artists": [
+      "Gladiator"
+    ],
+    "isrc": "SKA010400086",
+    "start_time": "2025-12-11 04:17:59",
+    "radio": "expres",
+    "recorded_at": "2025-12-11T04:18:15.242110+01:00",
+    "raw_valid": true,
+    "song_session_id": "14cf2de0-d0c5-4246-bdc6-2c2bda6c12b7",
+    "duration_ms": 217933,
+    "genre": []
+  },
+  {
+    "song": "Head Above Water",
+    "artists": [
+      "Twocolors",
+      "Safri Duo",
+      "Chris De Sarandy"
+    ],
+    "isrc": "DEUM72503698",
+    "start_time": "2025-12-11 04:21:25",
+    "radio": "expres",
+    "recorded_at": "2025-12-11T04:21:54.281545+01:00",
+    "raw_valid": true,
+    "song_session_id": "24a94c4c-32a2-4c8e-862e-8aeb3f43b605",
+    "duration_ms": 174550,
+    "genre": []
+  },
+  {
+    "song": "End Of The World",
+    "artists": [
+      "Miley Cyrus"
+    ],
+    "isrc": "USSM12501019",
+    "start_time": "2025-12-11 04:24:17",
+    "radio": "expres",
+    "recorded_at": "2025-12-11T04:24:41.416407+01:00",
+    "raw_valid": true,
+    "song_session_id": "0d62608c-74f6-4cde-9689-a355bef6bd39",
+    "duration_ms": 250483,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Najkrajsie Vianoce",
+    "artists": [
+      "Imt Smile"
+    ],
+    "isrc": "SKA011000112",
+    "start_time": "2025-12-11 04:28:19",
+    "radio": "expres",
+    "recorded_at": "2025-12-11T04:28:43.529042+01:00",
+    "raw_valid": true,
+    "song_session_id": "35efe894-ee71-427c-b8ef-f76dca860d0c",
+    "duration_ms": 180932,
+    "genre": []
+  },
+  {
+    "song": "Pride",
+    "artists": [
+      "Felix Jaehn",
+      "Jhart"
+    ],
+    "isrc": "DEUM72503423",
+    "start_time": "2025-12-11 04:31:14",
+    "radio": "expres",
+    "recorded_at": "2025-12-11T04:31:37.129121+01:00",
+    "raw_valid": true,
+    "song_session_id": "fe1de23f-3602-4bf8-94a0-e41637bb9c1b",
+    "duration_ms": 158150,
+    "genre": []
+  },
+  {
+    "song": "Bosy A Sam",
+    "artists": [
+      "Robo Grigorov"
+    ],
+    "isrc": "GBBPW2501549",
+    "start_time": "2025-12-11 04:33:59",
+    "radio": "expres",
+    "recorded_at": "2025-12-11T04:34:19.816400+01:00",
+    "raw_valid": true,
+    "song_session_id": "049849d9-ffd3-446a-8bfb-c297944c89ce",
+    "duration_ms": 128000,
+    "genre": []
+  },
+  {
+    "song": "Another Love",
+    "artists": [
+      "Tom Odell"
+    ],
+    "isrc": "GBARL1300107",
+    "start_time": "2025-12-11 04:37:46",
+    "radio": "expres",
+    "recorded_at": "2025-12-11T04:38:09.009804+01:00",
+    "raw_valid": true,
+    "song_session_id": "3bc8e0d2-09f7-48c1-b0d5-c7ecc2c1d1f6",
+    "duration_ms": 246040,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Nahy 2",
+    "artists": [
+      "Richard Muller"
+    ],
+    "isrc": "SKA010109110",
+    "start_time": "2025-12-11 04:42:00",
+    "radio": "expres",
+    "recorded_at": "2025-12-11T04:42:33.578345+01:00",
+    "raw_valid": true,
+    "song_session_id": "387f4b44-f759-4c0e-819a-1481192c06e7",
+    "duration_ms": 300466,
+    "genre": []
+  },
+  {
+    "song": "Gone Gone Gone",
+    "artists": [
+      "David Guetta",
+      "Teddy Swims",
+      "Tones And I"
+    ],
+    "isrc": "UKWLG2500132",
+    "start_time": "2025-12-11 04:46:12",
+    "radio": "expres",
+    "recorded_at": "2025-12-11T04:46:37.930672+01:00",
+    "raw_valid": true,
+    "song_session_id": "37b508db-af53-4213-a743-3f20dc14b360",
+    "duration_ms": 198004,
+    "genre": [
+      "soul"
+    ]
+  },
+  {
+    "song": "Neviem Byt Sam",
+    "artists": [
+      "Elan"
+    ],
+    "isrc": "SKA128561901",
+    "start_time": "2025-12-11 04:49:49",
+    "radio": "expres",
+    "recorded_at": "2025-12-11T04:50:17.192418+01:00",
+    "raw_valid": true,
+    "song_session_id": "756b07c3-80dd-4f22-8461-a8f99dc5e746",
+    "duration_ms": 231066,
+    "genre": []
+  },
+  {
+    "song": "Feelslikeimfallinginlove",
+    "artists": [
+      "Coldplay"
+    ],
+    "isrc": "GBAYE2400676",
+    "start_time": "2025-12-11 04:53:38",
+    "radio": "expres",
+    "recorded_at": "2025-12-11T04:54:01.445675+01:00",
+    "raw_valid": true,
+    "song_session_id": "6832438b-a4fc-4359-847b-f5c9ecd08f1e",
+    "duration_ms": 237803,
+    "genre": [
+      "alternative rock"
+    ]
+  }
+]

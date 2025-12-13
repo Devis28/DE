@@ -1,0 +1,450 @@
+[
+  {
+    "song": "Austin",
+    "artists": [
+      "Dasha"
+    ],
+    "isrc": "QZTB92360479",
+    "start_time": "2025-11-22 12:06:10",
+    "radio": "expres",
+    "recorded_at": "2025-11-22T12:06:40.392910+01:00",
+    "raw_valid": true,
+    "song_session_id": "0ea1f836-a9d1-4e14-8c71-d33092890e1f",
+    "duration_ms": 171782,
+    "genre": []
+  },
+  {
+    "song": "Boli Sme Raz Milovani",
+    "artists": [
+      "Pavol Habera"
+    ],
+    "isrc": "SKA010011302",
+    "start_time": "2025-11-22 12:09:11",
+    "radio": "expres",
+    "recorded_at": "2025-11-22T12:09:49.764363+01:00",
+    "raw_valid": true,
+    "song_session_id": "8bb5b3ed-a2ff-484c-9855-de86da1fbd54",
+    "duration_ms": 227826,
+    "genre": []
+  },
+  {
+    "song": "Million Good Reasons",
+    "artists": [
+      "Robin Schulz",
+      "Fast Boy"
+    ],
+    "isrc": "DEA622404738",
+    "start_time": "2025-11-22 12:12:54",
+    "radio": "expres",
+    "recorded_at": "2025-11-22T12:13:18.086734+01:00",
+    "raw_valid": true,
+    "song_session_id": "0b707ea5-0c46-4156-8205-5549432ccd73",
+    "duration_ms": 157130,
+    "genre": []
+  },
+  {
+    "song": "Cesty Ii. Triedy",
+    "artists": [
+      "Ivan Tasler",
+      "Imt Smile"
+    ],
+    "isrc": "SKA011400080",
+    "start_time": "2025-11-22 12:15:29",
+    "radio": "expres",
+    "recorded_at": "2025-11-22T12:16:00.967919+01:00",
+    "raw_valid": true,
+    "song_session_id": "e8e0d625-644a-4378-81d8-18979c34eb2a",
+    "duration_ms": 234786,
+    "genre": []
+  },
+  {
+    "song": "Ordinary",
+    "artists": [
+      "Alex Warren"
+    ],
+    "isrc": "USAT22500463",
+    "start_time": "2025-11-22 12:19:28",
+    "radio": "expres",
+    "recorded_at": "2025-11-22T12:20:00.784265+01:00",
+    "raw_valid": true,
+    "song_session_id": "24b4af2c-c336-41d1-8138-97710359896d",
+    "duration_ms": 186964,
+    "genre": [
+      "folk"
+    ]
+  },
+  {
+    "song": "The Final Countdown",
+    "artists": [
+      "Europe"
+    ],
+    "isrc": "USSM18600196",
+    "start_time": "2025-11-22 12:22:44",
+    "radio": "expres",
+    "recorded_at": "2025-11-22T12:23:25.492705+01:00",
+    "raw_valid": true,
+    "song_session_id": "6cd73293-b73b-42d7-9318-9baee71523d8",
+    "duration_ms": 311034,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Beautiful Reason",
+    "artists": [
+      "Michael Schulte"
+    ],
+    "isrc": "DECE72400963",
+    "start_time": "2025-11-22 12:26:41",
+    "radio": "expres",
+    "recorded_at": "2025-11-22T12:27:08.286054+01:00",
+    "raw_valid": true,
+    "song_session_id": "dc213b4f-4bd7-4978-8fd2-c08d35753e77",
+    "duration_ms": 183586,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Be Mine",
+    "artists": [
+      "Kamrad"
+    ],
+    "isrc": "DE1NJ2500035",
+    "start_time": "2025-11-22 12:33:59",
+    "radio": "expres",
+    "recorded_at": "2025-11-22T12:34:28.751605+01:00",
+    "raw_valid": true,
+    "song_session_id": "84eeb733-a98a-4c6e-abc9-94466398b2c3",
+    "duration_ms": 156463,
+    "genre": []
+  },
+  {
+    "song": "Ked Odchadzaju Lasky",
+    "artists": [
+      "Richard Muller"
+    ],
+    "isrc": "CZA110111004",
+    "start_time": "2025-11-22 12:36:42",
+    "radio": "expres",
+    "recorded_at": "2025-11-22T12:37:07.949604+01:00",
+    "raw_valid": true,
+    "song_session_id": "08790e56-16b1-4f8f-af89-2dcb29400903",
+    "duration_ms": 297640,
+    "genre": []
+  },
+  {
+    "song": "We Are",
+    "artists": [
+      "Ana Johnsson"
+    ],
+    "isrc": "DEE860400428",
+    "start_time": "2025-11-22 12:40:50",
+    "radio": "expres",
+    "recorded_at": "2025-11-22T12:41:34.947362+01:00",
+    "raw_valid": true,
+    "song_session_id": "c9de1c43-623f-4b92-894a-2fe648034598",
+    "duration_ms": 234573,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "The Fate Of Ophelia",
+    "artists": [
+      "Taylor Swift"
+    ],
+    "isrc": "USUG12506436",
+    "start_time": "2025-11-22 12:44:48",
+    "radio": "expres",
+    "recorded_at": "2025-11-22T12:45:23.955858+01:00",
+    "raw_valid": true,
+    "song_session_id": "6ac2d6ae-4763-4422-acfb-d8e178cfefee",
+    "duration_ms": 226073,
+    "genre": [
+      "electronic"
+    ]
+  },
+  {
+    "song": "Hymn For The Weekend",
+    "artists": [
+      "Coldplay",
+      "Beyonce"
+    ],
+    "isrc": "GBAYE1500979",
+    "start_time": "2025-11-22 12:48:48",
+    "radio": "expres",
+    "recorded_at": "2025-11-22T12:49:15.985880+01:00",
+    "raw_valid": true,
+    "song_session_id": "fc4c061b-14dd-4b7e-99d2-d2613d24ba56",
+    "duration_ms": 258265,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Houdini",
+    "artists": [
+      "Dua Lipa"
+    ],
+    "isrc": "GBAHT2301246",
+    "start_time": "2025-11-22 12:52:33",
+    "radio": "expres",
+    "recorded_at": "2025-11-22T12:53:19.019311+01:00",
+    "raw_valid": true,
+    "song_session_id": "b8c2d118-1849-4a6a-b67d-02b93d843188",
+    "duration_ms": 185917,
+    "genre": [
+      "electronic"
+    ]
+  },
+  {
+    "song": "Vsetko Bude Dobre",
+    "artists": [
+      "Gladiator"
+    ],
+    "isrc": "SKCM72560001",
+    "start_time": "2025-11-22 12:55:33",
+    "radio": "expres",
+    "recorded_at": "2025-11-22T12:56:18.506570+01:00",
+    "raw_valid": true,
+    "song_session_id": "a7f81383-365c-4e0d-8ec5-c590dbff45ac",
+    "duration_ms": 166588,
+    "genre": []
+  },
+  {
+    "song": "Secrets",
+    "artists": [
+      "Onerepublic"
+    ],
+    "isrc": "USUM70985644",
+    "start_time": "2025-11-22 12:58:32",
+    "radio": "expres",
+    "recorded_at": "2025-11-22T12:58:58.559827+01:00",
+    "raw_valid": true,
+    "song_session_id": "f89b601c-d696-4a58-8033-5f47f07f66f0",
+    "duration_ms": 224680,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "The One",
+    "artists": [
+      "Michael Patrick Kelly"
+    ],
+    "isrc": "DEE862500476",
+    "start_time": "2025-11-22 13:06:25",
+    "radio": "expres",
+    "recorded_at": "2025-11-22T13:07:05.009556+01:00",
+    "raw_valid": true,
+    "song_session_id": "896552d8-f344-4e97-a4fb-e4d588dad3bf",
+    "duration_ms": 181194,
+    "genre": []
+  },
+  {
+    "song": "Everybody (Backstreets Back)",
+    "artists": [
+      "Backstreet Boys"
+    ],
+    "isrc": "USJI19710083",
+    "start_time": "2025-11-22 13:09:28",
+    "radio": "expres",
+    "recorded_at": "2025-11-22T13:10:17.632902+01:00",
+    "raw_valid": true,
+    "song_session_id": "a0f26408-fbc1-4970-b4db-0c741950f5a1",
+    "duration_ms": 225346,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "All I Know",
+    "artists": [
+      "Rudimental",
+      "Khalid"
+    ],
+    "isrc": "GBARL2500365",
+    "start_time": "2025-11-22 13:13:16",
+    "radio": "expres",
+    "recorded_at": "2025-11-22T13:14:01.610668+01:00",
+    "raw_valid": true,
+    "song_session_id": "9f82788f-951c-47ca-b19d-4858e529cc93",
+    "duration_ms": 176046,
+    "genre": []
+  },
+  {
+    "song": "Love My Life",
+    "artists": [
+      "Robbie Williams"
+    ],
+    "isrc": "GBPS61600023",
+    "start_time": "2025-11-22 13:16:12",
+    "radio": "expres",
+    "recorded_at": "2025-11-22T13:16:34.259743+01:00",
+    "raw_valid": true,
+    "song_session_id": "bc02e6a3-ec70-4239-b776-c3659cdfc9a5",
+    "duration_ms": 208326,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Gone Gone Gone",
+    "artists": [
+      "David Guetta",
+      "Teddy Swims",
+      "Tones And I"
+    ],
+    "isrc": "UKWLG2500132",
+    "start_time": "2025-11-22 13:19:35",
+    "radio": "expres",
+    "recorded_at": "2025-11-22T13:20:06.559327+01:00",
+    "raw_valid": true,
+    "song_session_id": "a3bbc116-d36f-40bc-94c7-5d6f1e4a7c23",
+    "duration_ms": 198004,
+    "genre": [
+      "soul"
+    ]
+  },
+  {
+    "song": "Everlasting Love",
+    "artists": [
+      "Sandra"
+    ],
+    "isrc": "DEG128700602",
+    "start_time": "2025-11-22 13:23:21",
+    "radio": "expres",
+    "recorded_at": "2025-11-22T13:23:54.946387+01:00",
+    "raw_valid": true,
+    "song_session_id": "1862588c-ab1f-4d45-85f4-c6027f832fc8",
+    "duration_ms": 227160,
+    "genre": [
+      "electronic"
+    ]
+  },
+  {
+    "song": "Glide",
+    "artists": [
+      "Neiked",
+      "Portugal The Man"
+    ],
+    "isrc": "DEE862500421",
+    "start_time": "2025-11-22 13:31:44",
+    "radio": "expres",
+    "recorded_at": "2025-11-22T13:32:22.571905+01:00",
+    "raw_valid": true,
+    "song_session_id": "c74474f6-d459-41bd-a464-2b8ae388cc8e",
+    "duration_ms": 184405,
+    "genre": []
+  },
+  {
+    "song": "Without You",
+    "artists": [
+      "The Kid Laroi"
+    ],
+    "isrc": "USSM12006586",
+    "start_time": "2025-11-22 13:34:47",
+    "radio": "expres",
+    "recorded_at": "2025-11-22T13:35:26.869728+01:00",
+    "raw_valid": true,
+    "song_session_id": "15e57994-aaed-42d1-bbf7-b31eabc37de2",
+    "duration_ms": 161384,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Complicated",
+    "artists": [
+      "Avril Lavigne"
+    ],
+    "isrc": "USAR10200223",
+    "start_time": "2025-11-22 13:37:28",
+    "radio": "expres",
+    "recorded_at": "2025-11-22T13:38:06.751265+01:00",
+    "raw_valid": true,
+    "song_session_id": "3e73c630-b3e1-40d8-a3c8-c35da05f8937",
+    "duration_ms": 245211,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Head Above Water",
+    "artists": [
+      "Twocolors",
+      "Safri Duo",
+      "Chris De Sarandy"
+    ],
+    "isrc": "DEUM72503698",
+    "start_time": "2025-11-22 13:41:38",
+    "radio": "expres",
+    "recorded_at": "2025-11-22T13:42:07.488882+01:00",
+    "raw_valid": true,
+    "song_session_id": "7539be94-271c-49b6-8f70-be97675d1073",
+    "duration_ms": 174550,
+    "genre": []
+  },
+  {
+    "song": "Zazni",
+    "artists": [
+      "Miro Zbirka"
+    ],
+    "isrc": "SKA127744001",
+    "start_time": "2025-11-22 13:44:38",
+    "radio": "expres",
+    "recorded_at": "2025-11-22T13:45:02.979399+01:00",
+    "raw_valid": true,
+    "song_session_id": "e5641329-e846-4d3f-9367-0641e869fb13",
+    "duration_ms": 206199,
+    "genre": []
+  },
+  {
+    "song": "Stargazing",
+    "artists": [
+      "Myles Smith"
+    ],
+    "isrc": "GBARL2400510",
+    "start_time": "2025-11-22 13:47:57",
+    "radio": "expres",
+    "recorded_at": "2025-11-22T13:48:23.895375+01:00",
+    "raw_valid": true,
+    "song_session_id": "be2eeb78-e7f7-4259-a4b5-db083c18b855",
+    "duration_ms": 172533,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Proklinam (Live)",
+    "artists": [
+      "Janek Ledecky"
+    ],
+    "isrc": "CZUM71800068",
+    "start_time": "2025-11-22 13:50:50",
+    "radio": "expres",
+    "recorded_at": "2025-11-22T13:51:26.982063+01:00",
+    "raw_valid": true,
+    "song_session_id": "b57dae40-7581-4d10-8358-2b63d12d6af4",
+    "duration_ms": 243466,
+    "genre": []
+  },
+  {
+    "song": "Just Give Me A Reason",
+    "artists": [
+      "Pink",
+      "Nate Ruess"
+    ],
+    "isrc": "USRC11200786",
+    "start_time": "2025-11-22 13:54:22",
+    "radio": "expres",
+    "recorded_at": "2025-11-22T13:54:46.980546+01:00",
+    "raw_valid": true,
+    "song_session_id": "d27c563d-f62a-4920-8d52-94e0c819edca",
+    "duration_ms": 243880,
+    "genre": [
+      "rock"
+    ]
+  }
+]

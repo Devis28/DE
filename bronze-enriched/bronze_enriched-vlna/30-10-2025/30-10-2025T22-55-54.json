@@ -1,0 +1,332 @@
+[
+  {
+    "song": "Žít Jako Kaskadér",
+    "artist": "Janda Dalibor,Prototyp",
+    "start_time": "2025-10-30T20:56:22",
+    "recorded_at": "30.10.2025 20:56:24",
+    "raw_valid": true,
+    "song_session_id": "57cc2dcd-ce2e-4d18-94a9-290c93e12f67",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "song": "9 To 5 (Morning Train)",
+    "artist": "Sheena Easton",
+    "start_time": "2025-10-30T20:59:22",
+    "recorded_at": "30.10.2025 20:59:24",
+    "raw_valid": true,
+    "song_session_id": "81499c7e-32af-4438-ac6b-104fe2bb1bc5",
+    "duration_ms": 200826,
+    "genre": []
+  },
+  {
+    "song": "Kým Ťa Mám",
+    "artist": "Habera, Pavol",
+    "start_time": "2025-10-30T21:04:22",
+    "recorded_at": "30.10.2025 21:04:26",
+    "raw_valid": true,
+    "song_session_id": "561191dc-ad5c-4559-be1a-b44e90bdf1b4",
+    "duration_ms": 303493,
+    "genre": []
+  },
+  {
+    "song": "Don't Go Breaking My Heart",
+    "artist": "John Elton & Dee Kiki",
+    "start_time": "2025-10-30T21:09:22",
+    "recorded_at": "30.10.2025 21:09:27",
+    "raw_valid": true,
+    "song_session_id": "61a11f1e-7492-4c07-ba19-0921ae50850d",
+    "duration_ms": 275440,
+    "genre": []
+  },
+  {
+    "song": "Girls Just Want To Have Fun",
+    "artist": "Cyndi Lauper",
+    "start_time": "2025-10-30T21:15:22",
+    "recorded_at": "30.10.2025 21:15:29",
+    "raw_valid": true,
+    "song_session_id": "d7828fb4-7787-4489-8fe2-177daef5e8dd",
+    "duration_ms": 238120,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Ako Obrázok",
+    "artist": "Miro Žbirka",
+    "start_time": "2025-10-30T21:18:22",
+    "recorded_at": "30.10.2025 21:18:29",
+    "raw_valid": true,
+    "song_session_id": "bf2e2e7f-6b2d-497a-9395-bc2dc39da8a4",
+    "duration_ms": 197960,
+    "genre": []
+  },
+  {
+    "song": "Money , Money , Money",
+    "artist": "Abba",
+    "start_time": "2025-10-30T21:26:22",
+    "recorded_at": "30.10.2025 21:26:32",
+    "raw_valid": true,
+    "song_session_id": "8affecbd-edff-43c9-8078-84e0d6bd99ec",
+    "duration_ms": 186426,
+    "genre": []
+  },
+  {
+    "song": "Paráda",
+    "artist": "Zich Karel",
+    "start_time": "2025-10-30T21:30:22",
+    "recorded_at": "30.10.2025 21:30:33",
+    "raw_valid": true,
+    "song_session_id": "c3e23699-d68d-40d3-9db9-9259b2db2913",
+    "duration_ms": 205733,
+    "genre": []
+  },
+  {
+    "song": "The Unforgiven",
+    "artist": "Metallica",
+    "start_time": "2025-10-30T21:33:22",
+    "recorded_at": "30.10.2025 21:33:33",
+    "raw_valid": true,
+    "song_session_id": "e046d724-f781-44d3-85e9-afc7f297122b",
+    "duration_ms": 387160,
+    "genre": [
+      "metal"
+    ]
+  },
+  {
+    "song": "Chráň Svoje Bláznovstvá",
+    "artist": "Peter Nagy",
+    "start_time": "2025-10-30T21:37:22",
+    "recorded_at": "30.10.2025 21:37:34",
+    "raw_valid": true,
+    "song_session_id": "7eaafeb9-73fd-49ec-8f76-810efd970c5a",
+    "duration_ms": 169986,
+    "genre": []
+  },
+  {
+    "song": "The Miracle Of Love",
+    "artist": "Eurythmics",
+    "start_time": "2025-10-30T21:40:22",
+    "recorded_at": "30.10.2025 21:40:35",
+    "raw_valid": true,
+    "song_session_id": "23babb16-24e2-46e9-8ce2-0de75ce364fe",
+    "duration_ms": 305866,
+    "genre": [
+      "new wave"
+    ]
+  },
+  {
+    "song": "I've Been Thinking About You",
+    "artist": "Londonbeat",
+    "start_time": "2025-10-30T21:44:22",
+    "recorded_at": "30.10.2025 21:44:36",
+    "raw_valid": true,
+    "song_session_id": "12f0da82-bab5-4ea6-b690-1300ce20f048",
+    "duration_ms": 230066,
+    "genre": [
+      "eurodance"
+    ]
+  },
+  {
+    "song": "To By Nebylo Fer",
+    "artist": "Hana Zagorova",
+    "start_time": "2025-10-30T21:48:22",
+    "recorded_at": "30.10.2025 21:48:37",
+    "raw_valid": true,
+    "song_session_id": "79e8f22e-1e47-4bc8-97cc-af0e92a90c1e",
+    "duration_ms": 221533,
+    "genre": []
+  },
+  {
+    "song": "Bohemian Rhapsody",
+    "artist": "Queen",
+    "start_time": "2025-10-30T21:51:22",
+    "recorded_at": "30.10.2025 21:51:38",
+    "raw_valid": true,
+    "song_session_id": "27c89e72-9e7a-4259-bf30-417211cd1fef",
+    "duration_ms": 354320,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Smútok Krásnych Dievčat",
+    "artist": "Duchoň Karol",
+    "start_time": "2025-10-30T21:57:22",
+    "recorded_at": "30.10.2025 21:57:39",
+    "raw_valid": true,
+    "song_session_id": "84730942-1088-4d78-8517-c7fd9f35180d",
+    "duration_ms": 209862,
+    "genre": []
+  },
+  {
+    "song": "Wannabe",
+    "artist": "Spice Girls",
+    "start_time": "2025-10-30T22:01:22",
+    "recorded_at": "30.10.2025 22:01:40",
+    "raw_valid": true,
+    "song_session_id": "48cbd798-2d27-4ff3-970a-206be5836734",
+    "duration_ms": 173026,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Jasná Zpráva",
+    "artist": "Olympic",
+    "start_time": "2025-10-30T22:03:22",
+    "recorded_at": "30.10.2025 22:03:41",
+    "raw_valid": true,
+    "song_session_id": "93496020-8547-41dc-bd82-619e34e7000e",
+    "duration_ms": 259813,
+    "genre": [
+      "big beat"
+    ]
+  },
+  {
+    "song": "Open Your Heart",
+    "artist": "Madonna",
+    "start_time": "2025-10-30T22:08:22",
+    "recorded_at": "30.10.2025 22:08:42",
+    "raw_valid": true,
+    "song_session_id": "4bc65f49-666b-4682-bdf5-6a257938409f",
+    "duration_ms": 253453,
+    "genre": []
+  },
+  {
+    "song": "Úsmev",
+    "artist": "Modus",
+    "start_time": "2025-10-30T22:12:22",
+    "recorded_at": "30.10.2025 22:12:43",
+    "raw_valid": true,
+    "song_session_id": "d9180851-4798-4155-9d99-91559e339385",
+    "duration_ms": 208853,
+    "genre": []
+  },
+  {
+    "song": "I Want To Know What Love Is",
+    "artist": "Foreigner",
+    "start_time": "2025-10-30T22:15:22",
+    "recorded_at": "30.10.2025 22:15:44",
+    "raw_valid": true,
+    "song_session_id": "7d664b55-e5c7-47af-9d7a-829b8eb5fdb1",
+    "duration_ms": 304786,
+    "genre": [
+      "aor"
+    ]
+  },
+  {
+    "song": "Nothing's Gonna Change My Love For You",
+    "artist": "George Benson",
+    "start_time": "2025-10-30T22:20:22",
+    "recorded_at": "30.10.2025 22:20:45",
+    "raw_valid": true,
+    "song_session_id": "c3f415be-b001-427c-b523-c8553f482829",
+    "duration_ms": 242678,
+    "genre": [
+      "smooth jazz"
+    ]
+  },
+  {
+    "song": "Lay Back In The Arms Of Someone",
+    "artist": "Smokie",
+    "start_time": "2025-10-30T22:24:22",
+    "recorded_at": "30.10.2025 22:24:46",
+    "raw_valid": true,
+    "song_session_id": "5fbfb479-0ba0-4c7a-8e85-45d596f0da35",
+    "duration_ms": 245106,
+    "genre": [
+      "glam rock"
+    ]
+  },
+  {
+    "song": "Come Back And Stay",
+    "artist": "Bad Boys Blue",
+    "start_time": "2025-10-30T22:28:22",
+    "recorded_at": "30.10.2025 22:28:47",
+    "raw_valid": true,
+    "song_session_id": "e62ee695-ebf6-4b5b-8c57-92b9923c5ea6",
+    "duration_ms": 247026,
+    "genre": [
+      "italo disco"
+    ]
+  },
+  {
+    "song": "Most Přes Minulost",
+    "artist": "Bílá Lucie",
+    "start_time": "2025-10-30T22:33:22",
+    "recorded_at": "30.10.2025 22:33:49",
+    "raw_valid": true,
+    "song_session_id": "0bb9b0a5-2973-4e6e-903c-7fe74eac123a",
+    "duration_ms": 163853,
+    "genre": []
+  },
+  {
+    "song": "What's Love Got To Do With It",
+    "artist": "Tina Turner",
+    "start_time": "2025-10-30T22:35:22",
+    "recorded_at": "30.10.2025 22:35:49",
+    "raw_valid": true,
+    "song_session_id": "192ba0b6-9a11-41a0-a454-dc60623feb90",
+    "duration_ms": 208156,
+    "genre": [
+      "tropical house"
+    ]
+  },
+  {
+    "song": "Loď do neznáma",
+    "artist": "Uherčík, Ďurinda, Griglák, Horváth",
+    "start_time": "2025-10-30T22:39:22",
+    "recorded_at": "30.10.2025 22:39:50",
+    "raw_valid": true,
+    "song_session_id": "2d56b0b5-74ba-4ff5-b0e6-d8a210fede41",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "song": "Livin' La Vida Loca",
+    "artist": "Ricky Martin",
+    "start_time": "2025-10-30T22:43:22",
+    "recorded_at": "30.10.2025 22:43:51",
+    "raw_valid": true,
+    "song_session_id": "7ad5512f-1d9e-4714-8696-d9d3c75f0712",
+    "duration_ms": 243160,
+    "genre": [
+      "latin"
+    ]
+  },
+  {
+    "song": "Never Let Me Down Again",
+    "artist": "Depeche Mode",
+    "start_time": "2025-10-30T22:47:22",
+    "recorded_at": "30.10.2025 22:47:22",
+    "raw_valid": true,
+    "song_session_id": "b19f9560-c7ca-4bb1-a7b7-0e6371b6b249",
+    "duration_ms": 288120,
+    "genre": [
+      "electronic"
+    ]
+  },
+  {
+    "song": "Ti Amo",
+    "artist": "Umberto Tozzi",
+    "start_time": "2025-10-30T22:52:22",
+    "recorded_at": "30.10.2025 22:52:23",
+    "raw_valid": true,
+    "song_session_id": "67d784dc-c10c-42eb-91d9-b636580ba838",
+    "duration_ms": 245693,
+    "genre": [
+      "italo dance"
+    ]
+  },
+  {
+    "song": "Netrpezliví",
+    "artist": "Elán",
+    "start_time": "2025-10-30T22:55:22",
+    "recorded_at": "30.10.2025 22:55:24",
+    "raw_valid": true,
+    "song_session_id": "9527a358-4e13-4a30-8f3a-9366b41cdd4c",
+    "duration_ms": 250546,
+    "genre": []
+  }
+]

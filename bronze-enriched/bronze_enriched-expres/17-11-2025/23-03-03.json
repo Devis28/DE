@@ -1,0 +1,491 @@
+[
+  {
+    "song": "Alibi",
+    "artists": [
+      "Sevdaliza",
+      "Pabllo Vittar",
+      "Yseult"
+    ],
+    "isrc": "NL47E2400004",
+    "start_time": "2025-11-17 22:07:04",
+    "radio": "expres",
+    "recorded_at": "2025-11-17T22:07:36.760031+01:00",
+    "raw_valid": true,
+    "song_session_id": "11a3fec7-510c-4cf5-ba62-dd08c45261b4",
+    "duration_ms": 161655,
+    "genre": []
+  },
+  {
+    "song": "Bitter Sweet Symphony",
+    "artists": [
+      "Verve"
+    ],
+    "isrc": "GBUM71601816",
+    "start_time": "2025-11-17 22:09:53",
+    "radio": "expres",
+    "recorded_at": "2025-11-17T22:10:19.241120+01:00",
+    "raw_valid": true,
+    "song_session_id": "31d4121d-7556-442f-9f54-273f60f71f6b",
+    "duration_ms": 357266,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "The One",
+    "artists": [
+      "Michael Patrick Kelly"
+    ],
+    "isrc": "DEE862500476",
+    "start_time": "2025-11-17 22:14:44",
+    "radio": "expres",
+    "recorded_at": "2025-11-17T22:15:15.204738+01:00",
+    "raw_valid": true,
+    "song_session_id": "2c522b79-0f1b-44d9-bf87-e57b16377985",
+    "duration_ms": 181194,
+    "genre": []
+  },
+  {
+    "song": "Thunder",
+    "artists": [
+      "Imagine Dragons"
+    ],
+    "isrc": "USUM71704167",
+    "start_time": "2025-11-17 22:17:53",
+    "radio": "expres",
+    "recorded_at": "2025-11-17T22:18:34.969614+01:00",
+    "raw_valid": true,
+    "song_session_id": "0ae7955e-ea9d-4383-b9d1-e1411e995f03",
+    "duration_ms": 187146,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Blink Twice",
+    "artists": [
+      "Shaboozey",
+      "Myles Smith"
+    ],
+    "isrc": "USUYG1717098",
+    "start_time": "2025-11-17 22:20:22",
+    "radio": "expres",
+    "recorded_at": "2025-11-17T22:20:55.470191+01:00",
+    "raw_valid": true,
+    "song_session_id": "3cbc7217-6aa5-4a2b-be22-12d96f98dcae",
+    "duration_ms": 156721,
+    "genre": []
+  },
+  {
+    "song": "I Was Made For Loving You",
+    "artists": [
+      "Kiss"
+    ],
+    "isrc": "USUM72120195",
+    "start_time": "2025-11-17 22:23:17",
+    "radio": "expres",
+    "recorded_at": "2025-11-17T22:23:38.715086+01:00",
+    "raw_valid": true,
+    "song_session_id": "272c4282-a09d-4a66-b467-919876816062",
+    "duration_ms": 372866,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Broken Sunshine",
+    "artists": [
+      "Michael Schulte"
+    ],
+    "isrc": "DECE72402375",
+    "start_time": "2025-11-17 22:27:31",
+    "radio": "expres",
+    "recorded_at": "2025-11-17T22:27:58.330897+01:00",
+    "raw_valid": true,
+    "song_session_id": "2355c046-3e26-425c-a07c-10a64d212ab2",
+    "duration_ms": 175866,
+    "genre": []
+  },
+  {
+    "song": "V Dobrom Aj V Zlom",
+    "artists": [
+      "Zuzana Smatanova"
+    ],
+    "isrc": "SKI941500601",
+    "start_time": "2025-11-17 22:30:33",
+    "radio": "expres",
+    "recorded_at": "2025-11-17T22:31:01.038776+01:00",
+    "raw_valid": true,
+    "song_session_id": "190d2ebe-a9ed-4e8f-954d-4ccdc7e4c14b",
+    "duration_ms": 175065,
+    "genre": []
+  },
+  {
+    "song": "Glide",
+    "artists": [
+      "Neiked",
+      "Portugal The Man"
+    ],
+    "isrc": "DEE862500421",
+    "start_time": "2025-11-17 22:34:42",
+    "radio": "expres",
+    "recorded_at": "2025-11-17T22:35:04.863068+01:00",
+    "raw_valid": true,
+    "song_session_id": "6987e549-0f38-4bec-83f9-70e86fcf21e5",
+    "duration_ms": 184405,
+    "genre": []
+  },
+  {
+    "song": "Prilis Osobna Znamost",
+    "artists": [
+      "Imt Smile",
+      "Nikol Stibrova"
+    ],
+    "isrc": "SKA011900117",
+    "start_time": "2025-11-17 22:37:52",
+    "radio": "expres",
+    "recorded_at": "2025-11-17T22:38:35.341369+01:00",
+    "raw_valid": true,
+    "song_session_id": "d409e28b-632b-48b7-b3f0-bb11645f9ab4",
+    "duration_ms": 271597,
+    "genre": []
+  },
+  {
+    "song": "Ordinary World",
+    "artists": [
+      "Duran Duran"
+    ],
+    "isrc": "GBAYE9200048",
+    "start_time": "2025-11-17 22:42:03",
+    "radio": "expres",
+    "recorded_at": "2025-11-17T22:42:35.935582+01:00",
+    "raw_valid": true,
+    "song_session_id": "2d2b3286-2074-4613-ace1-6427a0f1198f",
+    "duration_ms": 277760,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Golden",
+    "artists": [
+      "Kpop Demon Hunters"
+    ],
+    "isrc": "QZ8BZ2513510",
+    "start_time": "2025-11-17 22:46:44",
+    "radio": "expres",
+    "recorded_at": "2025-11-17T22:47:19.902776+01:00",
+    "raw_valid": true,
+    "song_session_id": "91406e8b-6439-4319-8e4b-45a41b649d5a",
+    "duration_ms": 194607,
+    "genre": [
+      "korean"
+    ]
+  },
+  {
+    "song": "Poker Face",
+    "artists": [
+      "Lady Gaga"
+    ],
+    "isrc": "USUM70824409",
+    "start_time": "2025-11-17 22:49:25",
+    "radio": "expres",
+    "recorded_at": "2025-11-17T22:50:02.713740+01:00",
+    "raw_valid": true,
+    "song_session_id": "4e428c8c-3db5-425d-b49e-27acf8f0c2c8",
+    "duration_ms": 237213,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "World Gone Wild",
+    "artists": [
+      "Robin Schulz",
+      "Cyril",
+      "Sam Martin"
+    ],
+    "isrc": "DEA622403329",
+    "start_time": "2025-11-17 22:53:13",
+    "radio": "expres",
+    "recorded_at": "2025-11-17T22:53:50.891339+01:00",
+    "raw_valid": true,
+    "song_session_id": "d494dac2-d7b6-4d9a-a0de-10f63057f969",
+    "duration_ms": 146523,
+    "genre": []
+  },
+  {
+    "song": "Eternity",
+    "artists": [
+      "Alex Warren"
+    ],
+    "isrc": "USAT22503779",
+    "start_time": "2025-11-17 22:55:29",
+    "radio": "expres",
+    "recorded_at": "2025-11-17T22:55:56.742114+01:00",
+    "raw_valid": true,
+    "song_session_id": "a523800b-5a44-47dc-8986-37c6e09dea92",
+    "duration_ms": 189553,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Mozno Sa Ti Zda",
+    "artists": [
+      "Miro Zbirka"
+    ],
+    "isrc": "SKA128804807",
+    "start_time": "2025-11-17 22:58:57",
+    "radio": "expres",
+    "recorded_at": "2025-11-17T22:59:36.392651+01:00",
+    "raw_valid": true,
+    "song_session_id": "4cf7c7ab-fcc9-4997-a1f8-cda3906ed803",
+    "duration_ms": 197360,
+    "genre": []
+  },
+  {
+    "song": "Regalo",
+    "artists": [
+      "Alvaro Soler"
+    ],
+    "isrc": "DEE862500388",
+    "start_time": "2025-11-17 23:06:57",
+    "radio": "expres",
+    "recorded_at": "2025-11-17T23:07:22.866921+01:00",
+    "raw_valid": true,
+    "song_session_id": "20485645-1016-4ea7-806d-cc26203e6960",
+    "duration_ms": 184984,
+    "genre": []
+  },
+  {
+    "song": "Leave Out All The Rest",
+    "artists": [
+      "Linkin Park"
+    ],
+    "isrc": "USWB10701212",
+    "start_time": "2025-11-17 23:10:10",
+    "radio": "expres",
+    "recorded_at": "2025-11-17T23:10:47.014939+01:00",
+    "raw_valid": true,
+    "song_session_id": "b37ebd11-df41-4d2c-ba13-e378011a582d",
+    "duration_ms": 209306,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Otazka Za Milion",
+    "artists": [
+      "Ine Kafe"
+    ],
+    "isrc": "SKA722400001",
+    "start_time": "2025-11-17 23:13:31",
+    "radio": "expres",
+    "recorded_at": "2025-11-17T23:14:16.758212+01:00",
+    "raw_valid": true,
+    "song_session_id": "7e32c1cf-97cd-4edb-bb84-f3bcea5f2c9e",
+    "duration_ms": 220400,
+    "genre": []
+  },
+  {
+    "song": "Dance Monkey",
+    "artists": [
+      "Tones And I"
+    ],
+    "isrc": "QZES71982312",
+    "start_time": "2025-11-17 23:17:10",
+    "radio": "expres",
+    "recorded_at": "2025-11-17T23:17:36.676975+01:00",
+    "raw_valid": true,
+    "song_session_id": "686826e2-4aa8-47d5-8fd6-88f1d3d0db7e",
+    "duration_ms": 209438,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Talk To Me",
+    "artists": [
+      "Damiano David",
+      "Tyla",
+      "Nile Rodgers"
+    ],
+    "isrc": "ITB002500942",
+    "start_time": "2025-11-17 23:20:36",
+    "radio": "expres",
+    "recorded_at": "2025-11-17T23:20:57.007562+01:00",
+    "raw_valid": true,
+    "song_session_id": "615139bb-8b60-4fcb-bef9-b196f7db9145",
+    "duration_ms": 193502,
+    "genre": []
+  },
+  {
+    "song": "Hungry Eyes",
+    "artists": [
+      "Eric Carmen"
+    ],
+    "isrc": "USRC19708312",
+    "start_time": "2025-11-17 23:24:13",
+    "radio": "expres",
+    "recorded_at": "2025-11-17T23:24:40.798445+01:00",
+    "raw_valid": true,
+    "song_session_id": "8c627041-e54c-4c06-9f8a-aa32f857bf83",
+    "duration_ms": 232439,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Dive",
+    "artists": [
+      "Lost Frequencies",
+      "Tom Gregory"
+    ],
+    "isrc": "BEHP42300028",
+    "start_time": "2025-11-17 23:26:51",
+    "radio": "expres",
+    "recorded_at": "2025-11-17T23:27:18.578002+01:00",
+    "raw_valid": true,
+    "song_session_id": "931f331d-041d-4680-abae-ead007a1b326",
+    "duration_ms": 161093,
+    "genre": []
+  },
+  {
+    "song": "Den Medzi Nedelou A Pondelkom",
+    "artists": [
+      "Peha"
+    ],
+    "isrc": "CZA110500019",
+    "start_time": "2025-11-17 23:29:43",
+    "radio": "expres",
+    "recorded_at": "2025-11-17T23:30:06.167307+01:00",
+    "raw_valid": true,
+    "song_session_id": "32d4aa84-8015-40f0-a22d-26ede38852b6",
+    "duration_ms": 206160,
+    "genre": []
+  },
+  {
+    "song": "Mystical Magical",
+    "artists": [
+      "Benson Boone"
+    ],
+    "isrc": "USWB12500844",
+    "start_time": "2025-11-17 23:33:36",
+    "radio": "expres",
+    "recorded_at": "2025-11-17T23:34:04.816159+01:00",
+    "raw_valid": true,
+    "song_session_id": "262c82be-e957-48ac-a77d-d30a3cdc3b61",
+    "duration_ms": 165746,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Derniere Danse",
+    "artists": [
+      "Indila"
+    ],
+    "isrc": "FRUM71301049",
+    "start_time": "2025-11-17 23:36:27",
+    "radio": "expres",
+    "recorded_at": "2025-11-17T23:36:57.382967+01:00",
+    "raw_valid": true,
+    "song_session_id": "5c619ebd-c9a1-41da-857b-1a6e7b217f6c",
+    "duration_ms": 213493,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Wake Me Up When September Ends",
+    "artists": [
+      "Green Day"
+    ],
+    "isrc": "USRE10400992",
+    "start_time": "2025-11-17 23:39:59",
+    "radio": "expres",
+    "recorded_at": "2025-11-17T23:40:37.927074+01:00",
+    "raw_valid": true,
+    "song_session_id": "e9dcf522-7019-4bd3-b6b3-8a39b5c808c5",
+    "duration_ms": 285653,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "The Fate Of Ophelia",
+    "artists": [
+      "Taylor Swift"
+    ],
+    "isrc": "USUG12506436",
+    "start_time": "2025-11-17 23:44:28",
+    "radio": "expres",
+    "recorded_at": "2025-11-17T23:44:57.744712+01:00",
+    "raw_valid": true,
+    "song_session_id": "b5af26b6-70ff-4bf6-a144-85a3c614d331",
+    "duration_ms": 226073,
+    "genre": [
+      "electronic"
+    ]
+  },
+  {
+    "song": "Ze Mi Je Luto",
+    "artists": [
+      "Elan",
+      "Lojzo"
+    ],
+    "isrc": "SKA128665701",
+    "start_time": "2025-11-17 23:48:11",
+    "radio": "expres",
+    "recorded_at": "2025-11-17T23:48:41.279106+01:00",
+    "raw_valid": true,
+    "song_session_id": "a347e4e6-2293-47f2-b1f4-e57c583b87c2",
+    "duration_ms": 235173,
+    "genre": []
+  },
+  {
+    "song": "Forbidden Road",
+    "artists": [
+      "Robbie Williams"
+    ],
+    "isrc": "GBPS62400032",
+    "start_time": "2025-11-17 23:50:47",
+    "radio": "expres",
+    "recorded_at": "2025-11-17T23:51:18.066295+01:00",
+    "raw_valid": true,
+    "song_session_id": "477dc885-23aa-45c1-aecc-a1c3cbe38b8c",
+    "duration_ms": 197419,
+    "genre": []
+  },
+  {
+    "song": "Big Big World",
+    "artists": [
+      "Emilia"
+    ],
+    "isrc": "SEBLM9808010",
+    "start_time": "2025-11-17 23:53:53",
+    "radio": "expres",
+    "recorded_at": "2025-11-17T23:54:39.189867+01:00",
+    "raw_valid": true,
+    "song_session_id": "e35ecc16-2ad7-4e60-af91-bafef6e6d897",
+    "duration_ms": 205466,
+    "genre": []
+  },
+  {
+    "song": "Whatever It Takes",
+    "artists": [
+      "Imagine Dragons"
+    ],
+    "isrc": "USUM71703515",
+    "start_time": "2025-11-17 23:57:18",
+    "radio": "expres",
+    "recorded_at": "2025-11-17T23:57:58.589954+01:00",
+    "raw_valid": true,
+    "song_session_id": "1bd412dd-10d0-4e3d-a71f-4ff78f87cc71",
+    "duration_ms": 201053,
+    "genre": [
+      "trance"
+    ]
+  }
+]

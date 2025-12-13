@@ -1,0 +1,555 @@
+[
+  {
+    "song": "Wrecked",
+    "artists": [
+      "Imagine Dragons"
+    ],
+    "isrc": "USUM72110166",
+    "start_time": "2025-11-01 22:58:55",
+    "radio": "expres",
+    "recorded_at": "01.11.2025 22:59:34",
+    "raw_valid": true,
+    "song_session_id": "c4c7b215-d287-4d8b-b8fd-bd9f43014c94",
+    "duration_ms": 244004,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Flowers",
+    "artists": [
+      "Alle Farben",
+      "Graham Candy",
+      "Lahos"
+    ],
+    "isrc": "DEA622500325",
+    "start_time": "2025-11-01 23:02:55",
+    "radio": "expres",
+    "recorded_at": "01.11.2025 23:03:28",
+    "raw_valid": true,
+    "song_session_id": "bb99ce7b-114f-44e7-8fd3-a086c13010aa",
+    "duration_ms": 153103,
+    "genre": []
+  },
+  {
+    "song": "Eternal Flame",
+    "artists": [
+      "Bangles"
+    ],
+    "isrc": "USSM18800153",
+    "start_time": "2025-11-01 23:05:38",
+    "radio": "expres",
+    "recorded_at": "01.11.2025 23:06:11",
+    "raw_valid": true,
+    "song_session_id": "9539a694-5d4d-4e49-9a17-9c2157bfc854",
+    "duration_ms": 235666,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Be Mine",
+    "artists": [
+      "Kamrad"
+    ],
+    "isrc": "DE1NJ2500035",
+    "start_time": "2025-11-01 23:09:18",
+    "radio": "expres",
+    "recorded_at": "01.11.2025 23:10:02",
+    "raw_valid": true,
+    "song_session_id": "b3436e19-b7d4-4951-b3c0-093ab3905075",
+    "duration_ms": 156463,
+    "genre": []
+  },
+  {
+    "song": "El Mismo Sol",
+    "artists": [
+      "Alvaro Soler"
+    ],
+    "isrc": "DEUM71500508",
+    "start_time": "2025-11-01 23:11:55",
+    "radio": "expres",
+    "recorded_at": "01.11.2025 23:12:14",
+    "raw_valid": true,
+    "song_session_id": "c0b72eca-12ad-4b71-89a7-7d6178dce62b",
+    "duration_ms": 179506,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "By Your Side (In My Mind)",
+    "artists": [
+      "Leony"
+    ],
+    "isrc": "DEN062400804",
+    "start_time": "2025-11-01 23:15:02",
+    "radio": "expres",
+    "recorded_at": "01.11.2025 23:15:47",
+    "raw_valid": true,
+    "song_session_id": "af3f1c25-d24e-49c0-bcca-1ea877915c53",
+    "duration_ms": 177148,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Africa",
+    "artists": [
+      "Toto"
+    ],
+    "isrc": "USSM19801941",
+    "start_time": "2025-11-01 23:17:58",
+    "radio": "expres",
+    "recorded_at": "01.11.2025 23:18:32",
+    "raw_valid": true,
+    "song_session_id": "b4e82b37-ebbb-4970-b805-8daee93526d8",
+    "duration_ms": 295720,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Broken Sunshine",
+    "artists": [
+      "Michael Schulte"
+    ],
+    "isrc": "DECE72402375",
+    "start_time": "2025-11-01 23:22:48",
+    "radio": "expres",
+    "recorded_at": "01.11.2025 23:23:32",
+    "raw_valid": true,
+    "song_session_id": "fd3339b5-f4a4-4674-9b4d-e7e631736f6e",
+    "duration_ms": 175866,
+    "genre": []
+  },
+  {
+    "song": "Sam S Nou",
+    "artists": [
+      "Gladiator"
+    ],
+    "isrc": "SKB701403012",
+    "start_time": "2025-11-01 23:25:42",
+    "radio": "expres",
+    "recorded_at": "01.11.2025 23:26:15",
+    "raw_valid": true,
+    "song_session_id": "7ce3bf4e-0fb1-476b-9d0f-e05d82381236",
+    "duration_ms": 254253,
+    "genre": []
+  },
+  {
+    "song": "Ironic",
+    "artists": [
+      "Alanis Morissette"
+    ],
+    "isrc": "USMV21500010",
+    "start_time": "2025-11-01 23:29:04",
+    "radio": "expres",
+    "recorded_at": "01.11.2025 23:29:35",
+    "raw_valid": true,
+    "song_session_id": "4319ea06-f11a-4f88-8eee-d25935998e12",
+    "duration_ms": 230000,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "The One",
+    "artists": [
+      "Michael Patrick Kelly"
+    ],
+    "isrc": "DEE862500476",
+    "start_time": "2025-11-01 23:33:37",
+    "radio": "expres",
+    "recorded_at": "01.11.2025 23:34:04",
+    "raw_valid": true,
+    "song_session_id": "b68d7389-8362-49dd-8fa9-c8f43061c9a8",
+    "duration_ms": 181194,
+    "genre": []
+  },
+  {
+    "song": "Sme Svoji",
+    "artists": [
+      "Peter Nagy"
+    ],
+    "isrc": "SKA128567810",
+    "start_time": "2025-11-01 23:36:40",
+    "radio": "expres",
+    "recorded_at": "01.11.2025 23:37:13",
+    "raw_valid": true,
+    "song_session_id": "081d3e34-4a0a-4646-b352-1f0d7643efa4",
+    "duration_ms": 196826,
+    "genre": []
+  },
+  {
+    "song": "I Follow Rivers (The Magician Remix)",
+    "artists": [
+      "Lykke Li"
+    ],
+    "isrc": "SEVUM1100103",
+    "start_time": "2025-11-01 23:39:47",
+    "radio": "expres",
+    "recorded_at": "01.11.2025 23:40:15",
+    "raw_valid": true,
+    "song_session_id": "27c3d2b1-0931-40e8-b429-e7b58e735fe4",
+    "duration_ms": 279635,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Undressed",
+    "artists": [
+      "Sombr"
+    ],
+    "isrc": "USWB12500737",
+    "start_time": "2025-11-01 23:43:47",
+    "radio": "expres",
+    "recorded_at": "01.11.2025 23:44:15",
+    "raw_valid": true,
+    "song_session_id": "5771b0f2-545b-43f3-b10c-c1165d7f33d6",
+    "duration_ms": 182088,
+    "genre": [
+      "indie pop"
+    ]
+  },
+  {
+    "song": "I Want To Break Free",
+    "artists": [
+      "Queen"
+    ],
+    "isrc": "GBUM71029625",
+    "start_time": "2025-11-01 23:46:57",
+    "radio": "expres",
+    "recorded_at": "01.11.2025 23:47:18",
+    "raw_valid": true,
+    "song_session_id": "3f171d06-6606-43d1-9cb8-50a5f4827946",
+    "duration_ms": 258000,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Never Look Back",
+    "artists": [
+      "Tom Gregory"
+    ],
+    "isrc": "DEE862300498",
+    "start_time": "2025-11-01 23:50:49",
+    "radio": "expres",
+    "recorded_at": "01.11.2025 23:51:22",
+    "raw_valid": true,
+    "song_session_id": "361fa2bc-7f16-4108-98a2-bb69e3d3050e",
+    "duration_ms": 162587,
+    "genre": []
+  },
+  {
+    "song": "No Time To Talk",
+    "artists": [
+      "Jonas Brothers"
+    ],
+    "isrc": "USUG12504831",
+    "start_time": "2025-11-01 23:53:26",
+    "radio": "expres",
+    "recorded_at": "01.11.2025 23:53:59",
+    "raw_valid": true,
+    "song_session_id": "d51c1a0c-9be2-4fe9-8cb8-ff4cd0032109",
+    "duration_ms": 155053,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Afterglow",
+    "artists": [
+      "Ed Sheeran"
+    ],
+    "isrc": "GBAHS2001193",
+    "start_time": "2025-11-01 23:56:08",
+    "radio": "expres",
+    "recorded_at": "01.11.2025 23:56:42",
+    "raw_valid": true,
+    "song_session_id": "d0a8c5f2-d05c-43a3-84bc-74b561a665be",
+    "duration_ms": 185486,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Zienka Domaca",
+    "artists": [
+      "Jana Kirschner"
+    ],
+    "isrc": "SKA010003313",
+    "start_time": "2025-11-01 23:59:13",
+    "radio": "expres",
+    "recorded_at": "01.11.2025 23:59:53",
+    "raw_valid": true,
+    "song_session_id": "c8d375b7-1582-4a26-be42-c86474002607",
+    "duration_ms": 236986,
+    "genre": []
+  },
+  {
+    "song": "Let Me Die",
+    "artists": [
+      "Mark Dann",
+      "Giovanni Ricci"
+    ],
+    "isrc": "US38Y2520370",
+    "start_time": "2025-11-02 00:03:05",
+    "radio": "expres",
+    "recorded_at": "02.11.2025 00:03:35",
+    "raw_valid": true,
+    "song_session_id": "ff9b0110-571c-4a72-8262-9d98f62830e9",
+    "duration_ms": 147010,
+    "genre": [
+      "slap house"
+    ]
+  },
+  {
+    "song": "Nelutujem",
+    "artists": [
+      "Adam Durica"
+    ],
+    "isrc": "SKA011400033",
+    "start_time": "2025-11-02 00:05:34",
+    "radio": "expres",
+    "recorded_at": "02.11.2025 00:05:53",
+    "raw_valid": true,
+    "song_session_id": "6e0faeaa-f2e7-4d7e-aa63-8496e091e1bd",
+    "duration_ms": 210996,
+    "genre": []
+  },
+  {
+    "song": "We Pray",
+    "artists": [
+      "Coldplay",
+      "Little Simz",
+      "Burna Boy",
+      "Elyanna",
+      "Tini"
+    ],
+    "isrc": "GBAYE2400890",
+    "start_time": "2025-11-02 00:09:04",
+    "radio": "expres",
+    "recorded_at": "02.11.2025 00:09:37",
+    "raw_valid": true,
+    "song_session_id": "2125333d-a749-452a-94c6-a93f08e9f45a",
+    "duration_ms": 233406,
+    "genre": [
+      "pop rap"
+    ]
+  },
+  {
+    "song": "Len S Tebou",
+    "artists": [
+      "Peter Juhas"
+    ],
+    "isrc": "SKBZ92400003",
+    "start_time": "2025-11-02 00:12:27",
+    "radio": "expres",
+    "recorded_at": "02.11.2025 00:13:00",
+    "raw_valid": true,
+    "song_session_id": "739c2897-4830-42e5-9730-c7af9e7be9c4",
+    "duration_ms": 172872,
+    "genre": []
+  },
+  {
+    "song": "The Best",
+    "artists": [
+      "Tina Turner"
+    ],
+    "isrc": "USCA28900109",
+    "start_time": "2025-11-02 00:15:26",
+    "radio": "expres",
+    "recorded_at": "02.11.2025 00:16:03",
+    "raw_valid": true,
+    "song_session_id": "62f92713-5503-4e51-a711-e7e01aa83013",
+    "duration_ms": 333267,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Do Neba",
+    "artists": [
+      "Dara Rolins"
+    ],
+    "isrc": "QZYFZ2505251",
+    "start_time": "2025-11-02 00:19:26",
+    "radio": "expres",
+    "recorded_at": "02.11.2025 00:19:53",
+    "raw_valid": true,
+    "song_session_id": "7a7e0d37-aa1b-413b-8f44-7a76edff2831",
+    "duration_ms": 204253,
+    "genre": []
+  },
+  {
+    "song": "Hero",
+    "artists": [
+      "Martin Garrix",
+      "Jvke"
+    ],
+    "isrc": "NLM5S2201815",
+    "start_time": "2025-11-02 00:23:03",
+    "radio": "expres",
+    "recorded_at": "02.11.2025 00:23:35",
+    "raw_valid": true,
+    "song_session_id": "110acdb2-ca1b-4212-a6a1-6266ba595f55",
+    "duration_ms": 160714,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Slovenska",
+    "artists": [
+      "Miro Zbirka"
+    ],
+    "isrc": "CZUM72000500",
+    "start_time": "2025-11-02 00:25:42",
+    "radio": "expres",
+    "recorded_at": "02.11.2025 00:26:18",
+    "raw_valid": true,
+    "song_session_id": "75c5c5e3-97fc-46d4-94e3-9a28e095703c",
+    "duration_ms": 193373,
+    "genre": []
+  },
+  {
+    "song": "Human",
+    "artists": [
+      "Rag N Bone Man"
+    ],
+    "isrc": "GBARL1600665",
+    "start_time": "2025-11-02 00:28:52",
+    "radio": "expres",
+    "recorded_at": "02.11.2025 00:29:16",
+    "raw_valid": true,
+    "song_session_id": "c9098841-dc31-4939-a5ca-cec4b9d1d8c9",
+    "duration_ms": 199413,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Duch Cloveka",
+    "artists": [
+      "Imt Smile"
+    ],
+    "isrc": "SKA010500076",
+    "start_time": "2025-11-02 00:32:14",
+    "radio": "expres",
+    "recorded_at": "02.11.2025 00:32:40",
+    "raw_valid": true,
+    "song_session_id": "ad7ceeaf-74c5-4a76-ac4b-5f1f6f7b2ed6",
+    "duration_ms": 368986,
+    "genre": []
+  },
+  {
+    "song": "Regalo",
+    "artists": [
+      "Alvaro Soler"
+    ],
+    "isrc": "DEE862500388",
+    "start_time": "2025-11-02 00:35:54",
+    "radio": "expres",
+    "recorded_at": "02.11.2025 00:36:25",
+    "raw_valid": true,
+    "song_session_id": "3b438c6b-4fee-4149-859e-daee8916bfc1",
+    "duration_ms": 184984,
+    "genre": []
+  },
+  {
+    "song": "Run Run Run",
+    "artists": [
+      "Celeste Buckingham"
+    ],
+    "isrc": "QMQNX1200004",
+    "start_time": "2025-11-02 00:38:58",
+    "radio": "expres",
+    "recorded_at": "02.11.2025 00:39:36",
+    "raw_valid": true,
+    "song_session_id": "f61a8c14-3fa7-4b1e-af12-365cd97b5111",
+    "duration_ms": 224027,
+    "genre": []
+  },
+  {
+    "song": "White Dove",
+    "artists": [
+      "Scorpions"
+    ],
+    "isrc": "USPR39500251",
+    "start_time": "2025-11-02 00:42:31",
+    "radio": "expres",
+    "recorded_at": "02.11.2025 00:42:56",
+    "raw_valid": true,
+    "song_session_id": "5dbd254e-e624-4274-8fc8-32ad5cd21305",
+    "duration_ms": 260066,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Pohoda",
+    "artists": [
+      "Sam Sebou",
+      "Kali"
+    ],
+    "isrc": "SKE502400602",
+    "start_time": "2025-11-02 00:46:39",
+    "radio": "expres",
+    "recorded_at": "02.11.2025 00:47:15",
+    "raw_valid": true,
+    "song_session_id": "d2a28302-8674-4a94-88a6-82e494055b2d",
+    "duration_ms": 167000,
+    "genre": []
+  },
+  {
+    "song": "Pride",
+    "artists": [
+      "Felix Jaehn",
+      "Jhart"
+    ],
+    "isrc": "DEUM72503423",
+    "start_time": "2025-11-02 00:49:20",
+    "radio": "expres",
+    "recorded_at": "02.11.2025 00:49:37",
+    "raw_valid": true,
+    "song_session_id": "4a25bd89-95c7-43f6-80c5-1b6ae46c237d",
+    "duration_ms": 158150,
+    "genre": [
+      "tropical house"
+    ]
+  },
+  {
+    "song": "Spocitaj Ma",
+    "artists": [
+      "Richard Muller"
+    ],
+    "isrc": "SKA010109102",
+    "start_time": "2025-11-02 00:52:07",
+    "radio": "expres",
+    "recorded_at": "02.11.2025 00:52:40",
+    "raw_valid": true,
+    "song_session_id": "fd47b9d0-f9bb-4607-b907-8f9df380b617",
+    "duration_ms": 275666,
+    "genre": []
+  },
+  {
+    "song": "It Aint Me",
+    "artists": [
+      "Kygo",
+      "Selena Gomez"
+    ],
+    "isrc": "SEBGA1700015",
+    "start_time": "2025-11-02 00:56:43",
+    "radio": "expres",
+    "recorded_at": "02.11.2025 00:57:15",
+    "raw_valid": true,
+    "song_session_id": "337f9a64-5999-40b6-9e52-2fe56faaa435",
+    "duration_ms": 220780,
+    "genre": [
+      "electronic"
+    ]
+  }
+]

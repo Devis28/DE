@@ -1,0 +1,283 @@
+[
+  {
+    "song": "We Pray",
+    "artists": [
+      "Coldplay",
+      "Little Simz",
+      "Burna Boy",
+      "Elyanna",
+      "Tini"
+    ],
+    "isrc": "GBAYE2400890",
+    "start_time": "2025-12-08 06:56:00",
+    "radio": "expres",
+    "recorded_at": "2025-12-08T06:56:32.597099+01:00",
+    "raw_valid": true,
+    "song_session_id": "f267e287-c51f-49af-adfc-5cf477eb7969",
+    "duration_ms": 233406,
+    "genre": [
+      "pop rap"
+    ]
+  },
+  {
+    "song": "Blink Twice",
+    "artists": [
+      "Shaboozey",
+      "Myles Smith"
+    ],
+    "isrc": "USUYG1717098",
+    "start_time": "2025-12-08 07:11:36",
+    "radio": "expres",
+    "recorded_at": "2025-12-08T07:11:55.209152+01:00",
+    "raw_valid": true,
+    "song_session_id": "95413250-fefe-4a69-9cf6-de8b0dd990b8",
+    "duration_ms": 156721,
+    "genre": []
+  },
+  {
+    "song": "Na Vianoce",
+    "artists": [
+      "Adam Durica"
+    ],
+    "isrc": "SKA011700088",
+    "start_time": "2025-12-08 07:16:23",
+    "radio": "expres",
+    "recorded_at": "2025-12-08T07:16:33.296797+01:00",
+    "raw_valid": true,
+    "song_session_id": "b8df277c-fc4c-4062-8344-2764cf33299a",
+    "duration_ms": 223319,
+    "genre": []
+  },
+  {
+    "song": "Head Above Water",
+    "artists": [
+      "Twocolors",
+      "Safri Duo",
+      "Chris De Sarandy"
+    ],
+    "isrc": "DEUM72503698",
+    "start_time": "2025-12-08 07:26:40",
+    "radio": "expres",
+    "recorded_at": "2025-12-08T07:26:57.586838+01:00",
+    "raw_valid": true,
+    "song_session_id": "05d9c1bb-5d6b-4607-a437-af25048a5460",
+    "duration_ms": 174550,
+    "genre": []
+  },
+  {
+    "song": "Christmas Time",
+    "artists": [
+      "Bryan Adams"
+    ],
+    "isrc": "USUMG9900538",
+    "start_time": "2025-12-08 07:30:52",
+    "radio": "expres",
+    "recorded_at": "2025-12-08T07:31:22.352360+01:00",
+    "raw_valid": true,
+    "song_session_id": "13ba8353-89b0-4085-9048-70439a9a6f7a",
+    "duration_ms": 243057,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Afterlife",
+    "artists": [
+      "Michael Schulte"
+    ],
+    "isrc": "DECE72500509",
+    "start_time": "2025-12-08 07:35:03",
+    "radio": "expres",
+    "recorded_at": "2025-12-08T07:35:19.949072+01:00",
+    "raw_valid": true,
+    "song_session_id": "e26d4660-fe9a-47ab-a938-9c5647a29530",
+    "duration_ms": 160120,
+    "genre": []
+  },
+  {
+    "song": "Tubthumping",
+    "artists": [
+      "Chumbawamba"
+    ],
+    "isrc": "DEA349700542",
+    "start_time": "2025-12-08 07:44:11",
+    "radio": "expres",
+    "recorded_at": "2025-12-08T07:44:41.931010+01:00",
+    "raw_valid": true,
+    "song_session_id": "5ff6994e-b95e-4d3f-a113-84e2c93b7fb9",
+    "duration_ms": 234133,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Love Me Not",
+    "artists": [
+      "Ravyn Lenae"
+    ],
+    "isrc": "USAT22401137",
+    "start_time": "2025-12-08 07:50:25",
+    "radio": "expres",
+    "recorded_at": "2025-12-08T07:50:41.610997+01:00",
+    "raw_valid": true,
+    "song_session_id": "c47ba459-aaac-4448-8ee5-b1e88ae677a4",
+    "duration_ms": 213466,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Whatever It Takes",
+    "artists": [
+      "Imagine Dragons"
+    ],
+    "isrc": "USUM71703515",
+    "start_time": "2025-12-08 07:53:47",
+    "radio": "expres",
+    "recorded_at": "2025-12-08T07:54:04.846050+01:00",
+    "raw_valid": true,
+    "song_session_id": "85668b4a-6ee0-420d-8d76-b68fd39be17c",
+    "duration_ms": 201053,
+    "genre": [
+      "trance"
+    ]
+  },
+  {
+    "song": "Be Mine",
+    "artists": [
+      "Kamrad"
+    ],
+    "isrc": "DE1NJ2500035",
+    "start_time": "2025-12-08 08:08:14",
+    "radio": "expres",
+    "recorded_at": "2025-12-08T08:08:45.877369+01:00",
+    "raw_valid": true,
+    "song_session_id": "70b337de-2175-41e9-9dfb-2f11c2a8fb84",
+    "duration_ms": 156463,
+    "genre": []
+  },
+  {
+    "song": "Budapest",
+    "artists": [
+      "George Ezra"
+    ],
+    "isrc": "GBARL1400477",
+    "start_time": "2025-12-08 08:10:51",
+    "radio": "expres",
+    "recorded_at": "2025-12-08T08:11:08.431410+01:00",
+    "raw_valid": true,
+    "song_session_id": "fed8b6f0-42ad-4853-9f66-66614ee907d0",
+    "duration_ms": 200733,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "All I Want For Christmas Is You",
+    "artists": [
+      "Mariah Carey"
+    ],
+    "isrc": "USSM19400325",
+    "start_time": "2025-12-08 08:16:41",
+    "radio": "expres",
+    "recorded_at": "2025-12-08T08:17:07.723945+01:00",
+    "raw_valid": true,
+    "song_session_id": "82b453c6-b473-4f1a-923f-586484af8b8e",
+    "duration_ms": 241853,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Mystical Magical",
+    "artists": [
+      "Benson Boone"
+    ],
+    "isrc": "USWB12500844",
+    "start_time": "2025-12-08 08:28:14",
+    "radio": "expres",
+    "recorded_at": "2025-12-08T08:28:29.581881+01:00",
+    "raw_valid": true,
+    "song_session_id": "4e9a1209-ad61-4a4e-9565-5008245ac781",
+    "duration_ms": 165746,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Stay Another Day",
+    "artists": [
+      "East 17"
+    ],
+    "isrc": "GBANP9400042",
+    "start_time": "2025-12-08 08:34:10",
+    "radio": "expres",
+    "recorded_at": "2025-12-08T08:34:30.728757+01:00",
+    "raw_valid": true,
+    "song_session_id": "1ea75a21-119e-4e91-9acc-9634f45d79e5",
+    "duration_ms": 267133,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "World Gone Wild",
+    "artists": [
+      "Robin Schulz",
+      "Cyril",
+      "Sam Martin"
+    ],
+    "isrc": "DEA622403329",
+    "start_time": "2025-12-08 08:38:44",
+    "radio": "expres",
+    "recorded_at": "2025-12-08T08:39:10.859754+01:00",
+    "raw_valid": true,
+    "song_session_id": "c589551f-512c-4d76-b75d-a64e5665b8b3",
+    "duration_ms": 146523,
+    "genre": []
+  },
+  {
+    "song": "On My Head",
+    "artists": [
+      "Dan Barta"
+    ],
+    "isrc": "CZA140400345",
+    "start_time": "2025-12-08 08:47:20",
+    "radio": "expres",
+    "recorded_at": "2025-12-08T08:47:33.682072+01:00",
+    "raw_valid": true,
+    "song_session_id": "c6227441-0114-48c2-bb5d-981f87a9d59b",
+    "duration_ms": 163360,
+    "genre": []
+  },
+  {
+    "song": "Undressed",
+    "artists": [
+      "Sombr"
+    ],
+    "isrc": "USWB12500737",
+    "start_time": "2025-12-08 08:52:06",
+    "radio": "expres",
+    "recorded_at": "2025-12-08T08:52:32.463357+01:00",
+    "raw_valid": true,
+    "song_session_id": "353ed0c7-9a1b-4e0a-b1b5-efa7a0874e0d",
+    "duration_ms": 182088,
+    "genre": [
+      "indie pop"
+    ]
+  },
+  {
+    "song": "Vonavky Dievcat",
+    "artists": [
+      "Vaso Patejdl"
+    ],
+    "isrc": "SKA128784003",
+    "start_time": "2025-12-08 08:55:12",
+    "radio": "expres",
+    "recorded_at": "2025-12-08T08:55:36.071384+01:00",
+    "raw_valid": true,
+    "song_session_id": "49607c76-7566-4d18-ace8-24b6e814ed2e",
+    "duration_ms": 205813,
+    "genre": []
+  }
+]

@@ -1,0 +1,484 @@
+[
+  {
+    "song": "Afterlife",
+    "artists": [
+      "Michael Schulte"
+    ],
+    "isrc": "DECE72500509",
+    "start_time": "2025-11-29 19:51:23",
+    "radio": "expres",
+    "recorded_at": "2025-11-29T19:51:38.641029+01:00",
+    "raw_valid": true,
+    "song_session_id": "ba5aabaa-a9c5-4875-b79e-d4aa569f736b",
+    "duration_ms": 160120,
+    "genre": []
+  },
+  {
+    "song": "Zoo",
+    "artists": [
+      "Shakira"
+    ],
+    "isrc": "USWD12538420",
+    "start_time": "2025-11-29 19:53:59",
+    "radio": "expres",
+    "recorded_at": "2025-11-29T19:54:16.548750+01:00",
+    "raw_valid": true,
+    "song_session_id": "bf7fe4c2-47f2-432b-8787-c0c9d2709722",
+    "duration_ms": 190822,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Leave A Light On",
+    "artists": [
+      "Belinda Carlisle"
+    ],
+    "isrc": "GBAAA8900043",
+    "start_time": "2025-11-29 19:57:30",
+    "radio": "expres",
+    "recorded_at": "2025-11-29T19:57:39.741280+01:00",
+    "raw_valid": true,
+    "song_session_id": "8d98c204-e1ce-4f58-9cd4-2196cef9daa1",
+    "duration_ms": 278360,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "The Fate Of Ophelia",
+    "artists": [
+      "Taylor Swift"
+    ],
+    "isrc": "USUG12506436",
+    "start_time": "2025-11-29 20:05:17",
+    "radio": "expres",
+    "recorded_at": "2025-11-29T20:05:41.640678+01:00",
+    "raw_valid": true,
+    "song_session_id": "5398104b-0c3c-4731-bc65-462212437515",
+    "duration_ms": 226073,
+    "genre": [
+      "electronic"
+    ]
+  },
+  {
+    "song": "Bozk",
+    "artists": [
+      "Imt Smile"
+    ],
+    "isrc": "SKA011000004",
+    "start_time": "2025-11-29 20:09:09",
+    "radio": "expres",
+    "recorded_at": "2025-11-29T20:09:34.133883+01:00",
+    "raw_valid": true,
+    "song_session_id": "724f3758-c171-497d-8097-110a5e380eae",
+    "duration_ms": 232120,
+    "genre": []
+  },
+  {
+    "song": "Runaway",
+    "artists": [
+      "Onerepublic"
+    ],
+    "isrc": "USUM72304684",
+    "start_time": "2025-11-29 20:12:23",
+    "radio": "expres",
+    "recorded_at": "2025-11-29T20:12:54.303228+01:00",
+    "raw_valid": true,
+    "song_session_id": "3c97cb5a-cdc8-4795-a607-94a15507639f",
+    "duration_ms": 142693,
+    "genre": []
+  },
+  {
+    "song": "Wake Me Up",
+    "artists": [
+      "Avicii",
+      "Aloe Blacc"
+    ],
+    "isrc": "SEUM71301326",
+    "start_time": "2025-11-29 20:14:46",
+    "radio": "expres",
+    "recorded_at": "2025-11-29T20:15:06.932781+01:00",
+    "raw_valid": true,
+    "song_session_id": "9da7b212-4ae2-4e50-8803-b9bd7c0cd08a",
+    "duration_ms": 247426,
+    "genre": [
+      "electronic"
+    ]
+  },
+  {
+    "song": "Eternity",
+    "artists": [
+      "Alex Warren"
+    ],
+    "isrc": "USAT22503779",
+    "start_time": "2025-11-29 20:18:14",
+    "radio": "expres",
+    "recorded_at": "2025-11-29T20:18:30.570926+01:00",
+    "raw_valid": true,
+    "song_session_id": "984184af-e6f8-49ff-9bce-35d5719b1340",
+    "duration_ms": 189553,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Everlasting Love",
+    "artists": [
+      "Sandra"
+    ],
+    "isrc": "DEG128700602",
+    "start_time": "2025-11-29 20:21:48",
+    "radio": "expres",
+    "recorded_at": "2025-11-29T20:22:14.557128+01:00",
+    "raw_valid": true,
+    "song_session_id": "ae0b386b-71d8-4a34-8ac0-ee51b807bf4c",
+    "duration_ms": 227160,
+    "genre": [
+      "electronic"
+    ]
+  },
+  {
+    "song": "Nice To Meet You",
+    "artists": [
+      "Myles Smith"
+    ],
+    "isrc": "GBARL2401376",
+    "start_time": "2025-11-29 20:25:10",
+    "radio": "expres",
+    "recorded_at": "2025-11-29T20:25:36.938583+01:00",
+    "raw_valid": true,
+    "song_session_id": "998fff78-9e35-477e-9abb-f58b3f290f8f",
+    "duration_ms": 176000,
+    "genre": []
+  },
+  {
+    "song": "Po Schodoch",
+    "artists": [
+      "Banket"
+    ],
+    "isrc": "SKA128678606",
+    "start_time": "2025-11-29 20:28:06",
+    "radio": "expres",
+    "recorded_at": "2025-11-29T20:28:29.667302+01:00",
+    "raw_valid": true,
+    "song_session_id": "b5f9359f-a62e-4394-ba27-dab1ade597fc",
+    "duration_ms": 189000,
+    "genre": []
+  },
+  {
+    "song": "Be Mine",
+    "artists": [
+      "Kamrad"
+    ],
+    "isrc": "DE1NJ2500035",
+    "start_time": "2025-11-29 20:31:50",
+    "radio": "expres",
+    "recorded_at": "2025-11-29T20:32:15.150719+01:00",
+    "raw_valid": true,
+    "song_session_id": "5c7bbfde-5791-46f5-ac64-8b79ee55765d",
+    "duration_ms": 156463,
+    "genre": []
+  },
+  {
+    "song": "Afterglow",
+    "artists": [
+      "Ed Sheeran"
+    ],
+    "isrc": "GBAHS2001193",
+    "start_time": "2025-11-29 20:34:38",
+    "radio": "expres",
+    "recorded_at": "2025-11-29T20:34:55.373641+01:00",
+    "raw_valid": true,
+    "song_session_id": "b811f877-7fdf-4e72-aae6-e6a11f0d0cdc",
+    "duration_ms": 185486,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "What Is Love",
+    "artists": [
+      "Haddaway"
+    ],
+    "isrc": "DEA410500401",
+    "start_time": "2025-11-29 20:37:39",
+    "radio": "expres",
+    "recorded_at": "2025-11-29T20:37:58.395305+01:00",
+    "raw_valid": true,
+    "song_session_id": "86175748-61df-425a-86b4-5d45692eff23",
+    "duration_ms": 270373,
+    "genre": [
+      "trance"
+    ]
+  },
+  {
+    "song": "Save My Love",
+    "artists": [
+      "Marshmello",
+      "Ellie Goulding",
+      "Avaion"
+    ],
+    "isrc": "USUG12504310",
+    "start_time": "2025-11-29 20:42:16",
+    "radio": "expres",
+    "recorded_at": "2025-11-29T20:42:37.481305+01:00",
+    "raw_valid": true,
+    "song_session_id": "79c6b8e7-60f7-41e5-ae59-a67b7eeed658",
+    "duration_ms": 215555,
+    "genre": []
+  },
+  {
+    "song": "Kingdom",
+    "artists": [
+      "Dennyiah"
+    ],
+    "isrc": "usl4r1910412",
+    "start_time": "2025-11-29 20:45:53",
+    "radio": "expres",
+    "recorded_at": "2025-11-29T20:46:23.100948+01:00",
+    "raw_valid": true,
+    "song_session_id": "31e43acf-c31f-491f-bf3f-8215c4bec28a",
+    "duration_ms": 248868,
+    "genre": []
+  },
+  {
+    "song": "Dive",
+    "artists": [
+      "Lost Frequencies",
+      "Tom Gregory"
+    ],
+    "isrc": "BEHP42300028",
+    "start_time": "2025-11-29 20:50:06",
+    "radio": "expres",
+    "recorded_at": "2025-11-29T20:50:21.773955+01:00",
+    "raw_valid": true,
+    "song_session_id": "dd2395e6-f261-497d-8fc6-eb97899bab0c",
+    "duration_ms": 161093,
+    "genre": []
+  },
+  {
+    "song": "Ked Odchadza Niekto",
+    "artists": [
+      "Ine Kafe"
+    ],
+    "isrc": "SKA722500002",
+    "start_time": "2025-11-29 20:52:42",
+    "radio": "expres",
+    "recorded_at": "2025-11-29T20:53:04.622929+01:00",
+    "raw_valid": true,
+    "song_session_id": "d55b6601-a607-4c9e-abaf-5b32deabc2a3",
+    "duration_ms": 243720,
+    "genre": []
+  },
+  {
+    "song": "Hero",
+    "artists": [
+      "Chad Kroeger",
+      "Josey Scott"
+    ],
+    "isrc": "NLA320219756",
+    "start_time": "2025-11-29 20:56:47",
+    "radio": "expres",
+    "recorded_at": "2025-11-29T20:57:03.268866+01:00",
+    "raw_valid": true,
+    "song_session_id": "a4943c55-42f4-4388-9a75-941161baaa0e",
+    "duration_ms": 200480,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Len Sa Smej",
+    "artists": [
+      "Peter Bic Project"
+    ],
+    "isrc": "SKA012300333",
+    "start_time": "2025-11-29 21:04:28",
+    "radio": "expres",
+    "recorded_at": "2025-11-29T21:04:55.751270+01:00",
+    "raw_valid": true,
+    "song_session_id": "220b7122-913f-48bd-b04b-8328c2830f1e",
+    "duration_ms": 164741,
+    "genre": []
+  },
+  {
+    "song": "Untitled",
+    "artists": [
+      "Simple Plan"
+    ],
+    "isrc": "USAT20402500",
+    "start_time": "2025-11-29 21:07:18",
+    "radio": "expres",
+    "recorded_at": "2025-11-29T21:07:35.494972+01:00",
+    "raw_valid": true,
+    "song_session_id": "7f273e22-81b7-4cf7-8641-af18cafe9258",
+    "duration_ms": 239813,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "The One",
+    "artists": [
+      "Michael Patrick Kelly"
+    ],
+    "isrc": "DEE862500476",
+    "start_time": "2025-11-29 21:10:39",
+    "radio": "expres",
+    "recorded_at": "2025-11-29T21:10:56.617865+01:00",
+    "raw_valid": true,
+    "song_session_id": "7b7cc39d-7fd4-4180-9fda-10e7ed401ca2",
+    "duration_ms": 181194,
+    "genre": []
+  },
+  {
+    "song": "Angels",
+    "artists": [
+      "Morandi"
+    ],
+    "isrc": "ROUM70700047",
+    "start_time": "2025-11-29 21:13:41",
+    "radio": "expres",
+    "recorded_at": "2025-11-29T21:13:49.428734+01:00",
+    "raw_valid": true,
+    "song_session_id": "74f492c6-0ff4-4852-9136-dd875d71e3f0",
+    "duration_ms": 225120,
+    "genre": []
+  },
+  {
+    "song": "Mad",
+    "artists": [
+      "Martin Garrix",
+      "Lauv"
+    ],
+    "isrc": "NLM5S2502535",
+    "start_time": "2025-11-29 21:16:49",
+    "radio": "expres",
+    "recorded_at": "2025-11-29T21:17:12.855796+01:00",
+    "raw_valid": true,
+    "song_session_id": "35e3fdda-17dc-4592-b33e-c2b55093a8e5",
+    "duration_ms": 199804,
+    "genre": []
+  },
+  {
+    "song": "I Was Made For Loving You",
+    "artists": [
+      "Kiss"
+    ],
+    "isrc": "USUM72120195",
+    "start_time": "2025-11-29 21:20:34",
+    "radio": "expres",
+    "recorded_at": "2025-11-29T21:20:56.250301+01:00",
+    "raw_valid": true,
+    "song_session_id": "8e469f8d-4a80-4fdb-b293-025c559e0380",
+    "duration_ms": 372866,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Alibi",
+    "artists": [
+      "Sevdaliza",
+      "Pabllo Vittar",
+      "Yseult"
+    ],
+    "isrc": "NL47E2400004",
+    "start_time": "2025-11-29 21:24:51",
+    "radio": "expres",
+    "recorded_at": "2025-11-29T21:25:15.284067+01:00",
+    "raw_valid": true,
+    "song_session_id": "8d8fb51d-1bfa-4478-b4c1-79d460463772",
+    "duration_ms": 161655,
+    "genre": []
+  },
+  {
+    "song": "Co To Znamena",
+    "artists": [
+      "Peter Cmorik"
+    ],
+    "isrc": "CZA210700798",
+    "start_time": "2025-11-29 21:27:35",
+    "radio": "expres",
+    "recorded_at": "2025-11-29T21:27:57.984551+01:00",
+    "raw_valid": true,
+    "song_session_id": "e17165e4-e525-426a-8bd8-f655ea981ffd",
+    "duration_ms": 230933,
+    "genre": []
+  },
+  {
+    "song": "Regalo",
+    "artists": [
+      "Alvaro Soler"
+    ],
+    "isrc": "DEE862500388",
+    "start_time": "2025-11-29 21:33:02",
+    "radio": "expres",
+    "recorded_at": "2025-11-29T21:33:36.735575+01:00",
+    "raw_valid": true,
+    "song_session_id": "1cea5a90-d6d4-4074-8779-466c542ffcac",
+    "duration_ms": 184984,
+    "genre": []
+  },
+  {
+    "song": "Fonky Nalada",
+    "artists": [
+      "Made 2 Mate"
+    ],
+    "isrc": "CZA239800877",
+    "start_time": "2025-11-29 21:36:19",
+    "radio": "expres",
+    "recorded_at": "2025-11-29T21:36:44.964098+01:00",
+    "raw_valid": true,
+    "song_session_id": "c9655427-dbbe-4415-be69-fd528d1041fc",
+    "duration_ms": 238906,
+    "genre": []
+  },
+  {
+    "song": "Cose Della Vita / Cant Stop Thinking Of You",
+    "artists": [
+      "Eros Ramazzotti",
+      "Tina Turner"
+    ],
+    "isrc": "ITB009700361",
+    "start_time": "2025-11-29 21:40:26",
+    "radio": "expres",
+    "recorded_at": "2025-11-29T21:40:43.691399+01:00",
+    "raw_valid": true,
+    "song_session_id": "b0bf398c-fde0-43ad-921c-38a657e52d50",
+    "duration_ms": 290093,
+    "genre": []
+  },
+  {
+    "song": "Glide",
+    "artists": [
+      "Neiked",
+      "Portugal The Man"
+    ],
+    "isrc": "DEE862500421",
+    "start_time": "2025-11-29 21:45:17",
+    "radio": "expres",
+    "recorded_at": "2025-11-29T21:45:33.658588+01:00",
+    "raw_valid": true,
+    "song_session_id": "db186331-065c-455b-9d7c-56ca0cbf43a7",
+    "duration_ms": 184405,
+    "genre": []
+  },
+  {
+    "song": "Stressed Out",
+    "artists": [
+      "Twenty One Pilots"
+    ],
+    "isrc": "USAT21500597",
+    "start_time": "2025-11-29 21:48:10",
+    "radio": "expres",
+    "recorded_at": "2025-11-29T21:48:31.767434+01:00",
+    "raw_valid": true,
+    "song_session_id": "ceea0e33-1021-4faf-8d3f-5ba925082fa0",
+    "duration_ms": 202333,
+    "genre": [
+      "rock"
+    ]
+  }
+]

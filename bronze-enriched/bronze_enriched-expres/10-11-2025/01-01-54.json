@@ -1,0 +1,509 @@
+[
+  {
+    "song": "Dobri Priatelia",
+    "artists": [
+      "Tublatanka"
+    ],
+    "isrc": "SKG392300109",
+    "start_time": "2025-11-10 00:03:51",
+    "radio": "expres",
+    "recorded_at": "2025-11-10T00:04:01.991878+01:00",
+    "raw_valid": true,
+    "song_session_id": "8d1cc8e7-74b4-449d-9a13-0427729118ac",
+    "duration_ms": 235480,
+    "genre": []
+  },
+  {
+    "song": "I Like The Way You Kiss Me",
+    "artists": [
+      "Artemas"
+    ],
+    "isrc": "QZJ842400387",
+    "start_time": "2025-11-10 00:07:43",
+    "radio": "expres",
+    "recorded_at": "2025-11-10T00:08:07.496208+01:00",
+    "raw_valid": true,
+    "song_session_id": "be655845-2341-4c68-9a37-de33a5c9ef7e",
+    "duration_ms": 142514,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Za Dverami Mojej Izby",
+    "artists": [
+      "Beata Dubasova"
+    ],
+    "isrc": "SKA129024401",
+    "start_time": "2025-11-10 00:10:05",
+    "radio": "expres",
+    "recorded_at": "2025-11-10T00:10:52.737278+01:00",
+    "raw_valid": true,
+    "song_session_id": "75253916-67c9-4a09-8260-181b2aba0964",
+    "duration_ms": 305880,
+    "genre": []
+  },
+  {
+    "song": "Can You Feel The Love Tonight",
+    "artists": [
+      "Elton John"
+    ],
+    "isrc": "USWD10220758",
+    "start_time": "2025-11-10 00:15:06",
+    "radio": "expres",
+    "recorded_at": "2025-11-10T00:15:36.995975+01:00",
+    "raw_valid": true,
+    "song_session_id": "891c8f47-d587-43b6-8d9e-5224176aaf54",
+    "duration_ms": 241386,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Dievca Neplac",
+    "artists": [
+      "Mirka Brezovska"
+    ],
+    "isrc": "SKB722301302",
+    "start_time": "2025-11-10 00:19:04",
+    "radio": "expres",
+    "recorded_at": "2025-11-10T00:19:20.600951+01:00",
+    "raw_valid": true,
+    "song_session_id": "ca617528-79f1-4a7c-8a47-b60b99dcfd9a",
+    "duration_ms": 161142,
+    "genre": []
+  },
+  {
+    "song": "Talk To Me",
+    "artists": [
+      "Damiano David",
+      "Tyla",
+      "Nile Rodgers"
+    ],
+    "isrc": "ITB002500942",
+    "start_time": "2025-11-10 00:21:57",
+    "radio": "expres",
+    "recorded_at": "2025-11-10T00:22:28.586649+01:00",
+    "raw_valid": true,
+    "song_session_id": "e5105c2a-4306-4892-9855-0558b5978df1",
+    "duration_ms": 193502,
+    "genre": []
+  },
+  {
+    "song": "Gimme Love",
+    "artists": [
+      "Sia"
+    ],
+    "isrc": "USAT22307798",
+    "start_time": "2025-11-10 00:25:25",
+    "radio": "expres",
+    "recorded_at": "2025-11-10T00:25:41.535629+01:00",
+    "raw_valid": true,
+    "song_session_id": "4dd3ed6a-043f-4d87-b477-81621c312db5",
+    "duration_ms": 214074,
+    "genre": []
+  },
+  {
+    "song": "Pod So Mnou",
+    "artists": [
+      "Imt Smile",
+      "Kali"
+    ],
+    "isrc": "SKA011800065",
+    "start_time": "2025-11-10 00:28:25",
+    "radio": "expres",
+    "recorded_at": "2025-11-10T00:28:44.900026+01:00",
+    "raw_valid": true,
+    "song_session_id": "ec2d339a-79df-4a7c-865e-7c4aa10d73fd",
+    "duration_ms": 260854,
+    "genre": []
+  },
+  {
+    "song": "Glide",
+    "artists": [
+      "Neiked",
+      "Portugal The Man"
+    ],
+    "isrc": "DEE862500421",
+    "start_time": "2025-11-10 00:32:17",
+    "radio": "expres",
+    "recorded_at": "2025-11-10T00:32:42.350980+01:00",
+    "raw_valid": true,
+    "song_session_id": "7275673d-136f-4594-8f20-57938cca49a8",
+    "duration_ms": 184405,
+    "genre": []
+  },
+  {
+    "song": "Room Of Ghosts (Dudo Rmx)",
+    "artists": [
+      "Elevenhill"
+    ],
+    "isrc": null,
+    "start_time": "2025-11-10 00:35:15",
+    "radio": "expres",
+    "recorded_at": "2025-11-10T00:35:35.498903+01:00",
+    "raw_valid": true,
+    "song_session_id": "9d4f094b-6330-48e9-be7a-1b4724c8a491"
+  },
+  {
+    "song": "A Thousand Years",
+    "artists": [
+      "Christina Perri"
+    ],
+    "isrc": "USAT21102141",
+    "start_time": "2025-11-10 00:38:18",
+    "radio": "expres",
+    "recorded_at": "2025-11-10T00:38:33.616268+01:00",
+    "raw_valid": true,
+    "song_session_id": "f5093184-c59d-41e9-933c-b0e5e4e93a67",
+    "duration_ms": 285120,
+    "genre": [
+      "soundtrack"
+    ]
+  },
+  {
+    "song": "Modlitba Pre Dva Hlasy",
+    "artists": [
+      "Elan"
+    ],
+    "isrc": "SKA129150311",
+    "start_time": "2025-11-10 00:43:06",
+    "radio": "expres",
+    "recorded_at": "2025-11-10T00:43:29.801109+01:00",
+    "raw_valid": true,
+    "song_session_id": "3323ff46-d767-4c22-a632-6f3b6b5739d3",
+    "duration_ms": 271960,
+    "genre": []
+  },
+  {
+    "song": "Head Above Water",
+    "artists": [
+      "Twocolors",
+      "Safri Duo",
+      "Chris De Sarandy"
+    ],
+    "isrc": "DEUM72503698",
+    "start_time": "2025-11-10 00:47:17",
+    "radio": "expres",
+    "recorded_at": "2025-11-10T00:47:46.121875+01:00",
+    "raw_valid": true,
+    "song_session_id": "05cc2ce1-c8f5-4039-81c9-b47c655b8e2f",
+    "duration_ms": 174550,
+    "genre": []
+  },
+  {
+    "song": "Bez Obav",
+    "artists": [
+      "Maria Cirova"
+    ],
+    "isrc": "SKB001008101",
+    "start_time": "2025-11-10 00:50:16",
+    "radio": "expres",
+    "recorded_at": "2025-11-10T00:50:28.951115+01:00",
+    "raw_valid": true,
+    "song_session_id": "b67936d3-2330-4d78-b7c3-ca413bc61650",
+    "duration_ms": 247706,
+    "genre": []
+  },
+  {
+    "song": "Right Round",
+    "artists": [
+      "Flo Rida",
+      "Kesha"
+    ],
+    "isrc": "USAT20900156",
+    "start_time": "2025-11-10 00:54:21",
+    "radio": "expres",
+    "recorded_at": "2025-11-10T00:54:38.033725+01:00",
+    "raw_valid": true,
+    "song_session_id": "b7146003-504e-4b21-94c4-b96fbc12f90d",
+    "duration_ms": 204640,
+    "genre": [
+      "rap"
+    ]
+  },
+  {
+    "song": "To Okolo Nas",
+    "artists": [
+      "Para"
+    ],
+    "isrc": "SKP662201002",
+    "start_time": "2025-11-10 00:57:35",
+    "radio": "expres",
+    "recorded_at": "2025-11-10T00:57:51.517195+01:00",
+    "raw_valid": true,
+    "song_session_id": "918d1e77-5622-4217-8211-db8043371cb4",
+    "duration_ms": 257185,
+    "genre": []
+  },
+  {
+    "song": "Is It Love",
+    "artists": [
+      "Loreen"
+    ],
+    "isrc": "SEUM72301218",
+    "start_time": "2025-11-10 01:01:19",
+    "radio": "expres",
+    "recorded_at": "2025-11-10T01:01:40.461663+01:00",
+    "raw_valid": true,
+    "song_session_id": "1263d3ca-6523-4331-9308-5755ecc4d135",
+    "duration_ms": 143669,
+    "genre": []
+  },
+  {
+    "song": "Vyznanie",
+    "artists": [
+      "Marika Gombitova",
+      "Modus"
+    ],
+    "isrc": "SKA127985812",
+    "start_time": "2025-11-10 01:03:39",
+    "radio": "expres",
+    "recorded_at": "2025-11-10T01:04:08.090164+01:00",
+    "raw_valid": true,
+    "song_session_id": "dac453b9-74b9-4138-8b1a-cc1f3c4ca7cf",
+    "duration_ms": 285906,
+    "genre": []
+  },
+  {
+    "song": "Regalo",
+    "artists": [
+      "Alvaro Soler"
+    ],
+    "isrc": "DEE862500388",
+    "start_time": "2025-11-10 01:08:28",
+    "radio": "expres",
+    "recorded_at": "2025-11-10T01:08:50.392242+01:00",
+    "raw_valid": true,
+    "song_session_id": "54c89c24-c34c-46d5-a6b3-8c38baed2be6",
+    "duration_ms": 184984,
+    "genre": []
+  },
+  {
+    "song": "Srdce",
+    "artists": [
+      "Hex"
+    ],
+    "isrc": "SKC751700107",
+    "start_time": "2025-11-10 01:11:33",
+    "radio": "expres",
+    "recorded_at": "2025-11-10T01:11:48.168081+01:00",
+    "raw_valid": true,
+    "song_session_id": "5c438a7f-8c72-483c-bc27-2669ddd27dff",
+    "duration_ms": 237266,
+    "genre": []
+  },
+  {
+    "song": "Blinding Lights",
+    "artists": [
+      "The Weeknd"
+    ],
+    "isrc": "USUG11904206",
+    "start_time": "2025-11-10 01:15:17",
+    "radio": "expres",
+    "recorded_at": "2025-11-10T01:15:32.444350+01:00",
+    "raw_valid": true,
+    "song_session_id": "4de98df1-99b2-48a2-bf34-87bb0b935df1",
+    "duration_ms": 200045,
+    "genre": [
+      "trance"
+    ]
+  },
+  {
+    "song": "Za Tebou",
+    "artists": [
+      "Peha"
+    ],
+    "isrc": "CZA110500020",
+    "start_time": "2025-11-10 01:18:34",
+    "radio": "expres",
+    "recorded_at": "2025-11-10T01:18:51.047186+01:00",
+    "raw_valid": true,
+    "song_session_id": "205f688f-96a0-45d7-b692-af4f1b1fba3d",
+    "duration_ms": 236680,
+    "genre": []
+  },
+  {
+    "song": "Wonderful Life 25",
+    "artists": [
+      "Hurts",
+      "Purple Disco Machine"
+    ],
+    "isrc": "DEE862500677",
+    "start_time": "2025-11-10 01:22:14",
+    "radio": "expres",
+    "recorded_at": "2025-11-10T01:22:39.600823+01:00",
+    "raw_valid": true,
+    "song_session_id": "90e7dcdd-27b3-456f-9990-65ad85c925d6",
+    "duration_ms": 178658,
+    "genre": []
+  },
+  {
+    "song": "Spocitaj Ma",
+    "artists": [
+      "Richard Muller"
+    ],
+    "isrc": "SKA010109102",
+    "start_time": "2025-11-10 01:25:18",
+    "radio": "expres",
+    "recorded_at": "2025-11-10T01:25:42.569536+01:00",
+    "raw_valid": true,
+    "song_session_id": "401725b7-f1a6-4836-991d-0baa332227ff",
+    "duration_ms": 275666,
+    "genre": []
+  },
+  {
+    "song": "Espresso",
+    "artists": [
+      "Sabrina Carpenter"
+    ],
+    "isrc": "USUM72403305",
+    "start_time": "2025-11-10 01:29:46",
+    "radio": "expres",
+    "recorded_at": "2025-11-10T01:30:11.566313+01:00",
+    "raw_valid": true,
+    "song_session_id": "3ebfbf1c-b586-40c7-8d42-a48e16a56268",
+    "duration_ms": 175453,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Mystical Magical",
+    "artists": [
+      "Benson Boone"
+    ],
+    "isrc": "USWB12500844",
+    "start_time": "2025-11-10 01:32:46",
+    "radio": "expres",
+    "recorded_at": "2025-11-10T01:33:09.505372+01:00",
+    "raw_valid": true,
+    "song_session_id": "8aeb8bd2-3967-40fa-89af-5a6cc9e673db",
+    "duration_ms": 165746,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Ja Viem",
+    "artists": [
+      "Robo Grigorov"
+    ],
+    "isrc": "CZA210800942",
+    "start_time": "2025-11-10 01:35:38",
+    "radio": "expres",
+    "recorded_at": "2025-11-10T01:35:52.536397+01:00",
+    "raw_valid": true,
+    "song_session_id": "b0bd1c5c-8c58-44d7-8190-9dc1f094e21a",
+    "duration_ms": 209426,
+    "genre": []
+  },
+  {
+    "song": "The Time Of My Life",
+    "artists": [
+      "Bill Medley",
+      "Jennifer Warnes"
+    ],
+    "isrc": "USRC10300895",
+    "start_time": "2025-11-10 01:39:01",
+    "radio": "expres",
+    "recorded_at": "2025-11-10T01:39:14.510474+01:00",
+    "raw_valid": true,
+    "song_session_id": "d7be110b-1303-4773-9cfc-fcb1521f84ca",
+    "duration_ms": 288986,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Vrba",
+    "artists": [
+      "Desmod"
+    ],
+    "isrc": "SKM901700108",
+    "start_time": "2025-11-10 01:43:42",
+    "radio": "expres",
+    "recorded_at": "2025-11-10T01:43:59.124611+01:00",
+    "raw_valid": true,
+    "song_session_id": "e6e79a6a-c59a-4030-aea4-50eaf908fe93",
+    "duration_ms": 255234,
+    "genre": []
+  },
+  {
+    "song": "Love Me Not",
+    "artists": [
+      "Ravyn Lenae"
+    ],
+    "isrc": "USAT22401137",
+    "start_time": "2025-11-10 01:47:48",
+    "radio": "expres",
+    "recorded_at": "2025-11-10T01:48:12.259862+01:00",
+    "raw_valid": true,
+    "song_session_id": "549b84e8-8c14-4e63-8e06-1dfbbdae6f99",
+    "duration_ms": 213466,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Vsetko Alebo Nic",
+    "artists": [
+      "Dara Rolins"
+    ],
+    "isrc": "CZH451600002",
+    "start_time": "2025-11-10 01:51:30",
+    "radio": "expres",
+    "recorded_at": "2025-11-10T01:51:58.858084+01:00",
+    "raw_valid": true,
+    "song_session_id": "a4dd1dd6-b341-41ad-a405-42af4fca4612",
+    "duration_ms": 219692,
+    "genre": []
+  },
+  {
+    "song": "Comin Home",
+    "artists": [
+      "Diddy-Dirty Money",
+      "Skylar Grey"
+    ],
+    "isrc": "USUM71027542",
+    "start_time": "2025-11-10 01:54:09",
+    "radio": "expres",
+    "recorded_at": "2025-11-10T01:54:31.380634+01:00",
+    "raw_valid": true,
+    "song_session_id": "745b9d8f-ff37-4e82-9a4f-96e49513dfa7",
+    "duration_ms": 238693,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Hawaii",
+    "artists": [
+      "Emma Drobna"
+    ],
+    "isrc": "SKB452200101",
+    "start_time": "2025-11-10 01:58:08",
+    "radio": "expres",
+    "recorded_at": "2025-11-10T01:58:20.126075+01:00",
+    "raw_valid": true,
+    "song_session_id": "30b2d1c8-6d92-451a-9f7c-aa18c4f25d45",
+    "duration_ms": 191124,
+    "genre": []
+  },
+  {
+    "song": "Undressed",
+    "artists": [
+      "Sombr"
+    ],
+    "isrc": "USWB12500737",
+    "start_time": "2025-11-10 02:01:18",
+    "radio": "expres",
+    "recorded_at": "2025-11-10T02:01:43.958810+01:00",
+    "raw_valid": true,
+    "song_session_id": "c973e503-576d-48d7-ac59-04668c4ed749",
+    "duration_ms": 182088,
+    "genre": [
+      "indie pop"
+    ]
+  }
+]

@@ -1,0 +1,486 @@
+[
+  {
+    "song": "Coco Jambo",
+    "artists": [
+      "Mr. President"
+    ],
+    "isrc": "DEBS80500020",
+    "start_time": "2025-11-28 21:50:46",
+    "radio": "expres",
+    "recorded_at": "2025-11-28T21:51:05.803158+01:00",
+    "raw_valid": true,
+    "song_session_id": "45e4365a-340e-44ae-9086-1e444454909c",
+    "duration_ms": 218733,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Get Get Down",
+    "artists": [
+      "Paul Johnson"
+    ],
+    "isrc": "QMLA71300087",
+    "start_time": "2025-11-28 21:54:27",
+    "radio": "expres",
+    "recorded_at": "2025-11-28T21:54:49.181171+01:00",
+    "raw_valid": true,
+    "song_session_id": "21be7118-be71-4093-9e9c-19014c5e810b",
+    "duration_ms": 551999,
+    "genre": []
+  },
+  {
+    "song": "Where Do You Go",
+    "artists": [
+      "No Mercy"
+    ],
+    "isrc": "DED169600128",
+    "start_time": "2025-11-28 21:57:46",
+    "radio": "expres",
+    "recorded_at": "2025-11-28T21:58:21.997096+01:00",
+    "raw_valid": true,
+    "song_session_id": "fbab8c6e-c88a-456c-9862-6fce8ba49e7c",
+    "duration_ms": 272200,
+    "genre": [
+      "electronic"
+    ]
+  },
+  {
+    "song": "Forever Young",
+    "artists": [
+      "David Guetta",
+      "Alphaville",
+      "Ava Max"
+    ],
+    "isrc": "UKWLG2400102",
+    "start_time": "2025-11-28 22:05:09",
+    "radio": "expres",
+    "recorded_at": "2025-11-28T22:05:18.075554+01:00",
+    "raw_valid": true,
+    "song_session_id": "46ef3db9-136d-40e3-b92d-8646a9b78604",
+    "duration_ms": 156923,
+    "genre": []
+  },
+  {
+    "song": "Ked Sa Laska Podari",
+    "artists": [
+      "Gladiator"
+    ],
+    "isrc": "SKA010400088",
+    "start_time": "2025-11-28 22:07:56",
+    "radio": "expres",
+    "recorded_at": "2025-11-28T22:08:25.757073+01:00",
+    "raw_valid": true,
+    "song_session_id": "9f383fe0-9923-4674-9b2c-1ad9e3889c7d",
+    "duration_ms": 213626,
+    "genre": []
+  },
+  {
+    "song": "The Fate Of Ophelia",
+    "artists": [
+      "Taylor Swift"
+    ],
+    "isrc": "USUG12506436",
+    "start_time": "2025-11-28 22:10:29",
+    "radio": "expres",
+    "recorded_at": "2025-11-28T22:10:43.690641+01:00",
+    "raw_valid": true,
+    "song_session_id": "36886cc2-7021-4c2b-864c-853b40970bdb",
+    "duration_ms": 226073,
+    "genre": [
+      "electronic"
+    ]
+  },
+  {
+    "song": "Want To Want Me",
+    "artists": [
+      "Jason Derulo"
+    ],
+    "isrc": "USWB11503046",
+    "start_time": "2025-11-28 22:14:15",
+    "radio": "expres",
+    "recorded_at": "2025-11-28T22:14:37.402094+01:00",
+    "raw_valid": true,
+    "song_session_id": "374447db-0e84-4b1a-b037-00ba2937bbb7",
+    "duration_ms": 206280,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Make It Right",
+    "artists": [
+      "Tom Gregory",
+      "Vize"
+    ],
+    "isrc": "DEE862501109",
+    "start_time": "2025-11-28 22:17:38",
+    "radio": "expres",
+    "recorded_at": "2025-11-28T22:17:56.033272+01:00",
+    "raw_valid": true,
+    "song_session_id": "e3461681-482b-48b5-8185-9afc70c1ff32",
+    "duration_ms": 141051,
+    "genre": []
+  },
+  {
+    "song": "Neviem Byt Sam",
+    "artists": [
+      "Elan"
+    ],
+    "isrc": "SKA128561901",
+    "start_time": "2025-11-28 22:20:12",
+    "radio": "expres",
+    "recorded_at": "2025-11-28T22:20:34.291891+01:00",
+    "raw_valid": true,
+    "song_session_id": "ad6d7f14-3f58-4f05-9c52-4c5259cf83fe",
+    "duration_ms": 231066,
+    "genre": []
+  },
+  {
+    "song": "Trustfall",
+    "artists": [
+      "Pink"
+    ],
+    "isrc": "USRC12204190",
+    "start_time": "2025-11-28 22:24:01",
+    "radio": "expres",
+    "recorded_at": "2025-11-28T22:24:18.232379+01:00",
+    "raw_valid": true,
+    "song_session_id": "96a48616-7399-4fdf-be0f-17c29e81508a",
+    "duration_ms": 237192,
+    "genre": []
+  },
+  {
+    "song": "Nemusis Sa Bat",
+    "artists": [
+      "Peter Cmorik"
+    ],
+    "isrc": "CZA210700567",
+    "start_time": "2025-11-28 22:28:02",
+    "radio": "expres",
+    "recorded_at": "2025-11-28T22:28:21.939997+01:00",
+    "raw_valid": true,
+    "song_session_id": "30bac737-00e9-4e1a-b003-52c9b5ea60b1",
+    "duration_ms": 197066,
+    "genre": []
+  },
+  {
+    "song": "Be Mine",
+    "artists": [
+      "Kamrad"
+    ],
+    "isrc": "DE1NJ2500035",
+    "start_time": "2025-11-28 22:33:17",
+    "radio": "expres",
+    "recorded_at": "2025-11-28T22:33:26.698717+01:00",
+    "raw_valid": true,
+    "song_session_id": "2e8a53d2-cd2c-4516-a896-9820c7cca35d",
+    "duration_ms": 156463,
+    "genre": []
+  },
+  {
+    "song": "Say It Loud",
+    "artists": [
+      "Peter Bic Project"
+    ],
+    "isrc": "SKA011200045",
+    "start_time": "2025-11-28 22:36:03",
+    "radio": "expres",
+    "recorded_at": "2025-11-28T22:36:34.428806+01:00",
+    "raw_valid": true,
+    "song_session_id": "b70327c9-3c7e-450a-9ba5-69b294e25619",
+    "duration_ms": 236813,
+    "genre": []
+  },
+  {
+    "song": "I Want To Know What Love Is",
+    "artists": [
+      "Foreigner"
+    ],
+    "isrc": "USAT29900662",
+    "start_time": "2025-11-28 22:39:56",
+    "radio": "expres",
+    "recorded_at": "2025-11-28T22:40:13.151999+01:00",
+    "raw_valid": true,
+    "song_session_id": "6254b750-dc95-445e-846a-8993fa95b40f",
+    "duration_ms": 304786,
+    "genre": []
+  },
+  {
+    "song": "Glide",
+    "artists": [
+      "Neiked",
+      "Portugal The Man"
+    ],
+    "isrc": "DEE862500421",
+    "start_time": "2025-11-28 22:43:59",
+    "radio": "expres",
+    "recorded_at": "2025-11-28T22:44:21.861708+01:00",
+    "raw_valid": true,
+    "song_session_id": "7a319a59-cb5e-4fb0-b963-93754fba5398",
+    "duration_ms": 184405,
+    "genre": []
+  },
+  {
+    "song": "Almost Lover",
+    "artists": [
+      "A Fine Frenzy"
+    ],
+    "isrc": "USVI20700644",
+    "start_time": "2025-11-28 22:47:05",
+    "radio": "expres",
+    "recorded_at": "2025-11-28T22:47:25.206445+01:00",
+    "raw_valid": true,
+    "song_session_id": "e2606cf3-f476-4973-bb0a-bfaab8bd4aa5",
+    "duration_ms": 268800,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "We Pray",
+    "artists": [
+      "Coldplay",
+      "Little Simz",
+      "Burna Boy",
+      "Elyanna",
+      "Tini"
+    ],
+    "isrc": "GBAYE2400890",
+    "start_time": "2025-11-28 22:50:53",
+    "radio": "expres",
+    "recorded_at": "2025-11-28T22:51:16.891343+01:00",
+    "raw_valid": true,
+    "song_session_id": "5976c700-28c7-46fc-b789-20107bebfccc",
+    "duration_ms": 233406,
+    "genre": [
+      "pop rap"
+    ]
+  },
+  {
+    "song": "Man I Need",
+    "artists": [
+      "Olivia Dean"
+    ],
+    "isrc": "GBUM72503089",
+    "start_time": "2025-11-28 22:54:11",
+    "radio": "expres",
+    "recorded_at": "2025-11-28T22:54:35.636195+01:00",
+    "raw_valid": true,
+    "song_session_id": "4acf1323-f28a-4bfd-adb3-5a15fe3eb1f8",
+    "duration_ms": 184000,
+    "genre": [
+      "offizielle charts"
+    ]
+  },
+  {
+    "song": "Pokoj V Dusi",
+    "artists": [
+      "Jana Kirschner"
+    ],
+    "isrc": "SKA880900001",
+    "start_time": "2025-11-28 22:57:29",
+    "radio": "expres",
+    "recorded_at": "2025-11-28T22:57:55.737310+01:00",
+    "raw_valid": true,
+    "song_session_id": "444e1c6f-f1d4-4c74-8b85-5338d6916d4f",
+    "duration_ms": 211626,
+    "genre": []
+  },
+  {
+    "song": "The One",
+    "artists": [
+      "Michael Patrick Kelly"
+    ],
+    "isrc": "DEE862500476",
+    "start_time": "2025-11-28 23:04:51",
+    "radio": "expres",
+    "recorded_at": "2025-11-28T23:05:01.974106+01:00",
+    "raw_valid": true,
+    "song_session_id": "b5c5267a-f0d6-419a-9815-050275ca2861",
+    "duration_ms": 181194,
+    "genre": []
+  },
+  {
+    "song": "All Star",
+    "artists": [
+      "Smash Mouth"
+    ],
+    "isrc": "USIR19902220",
+    "start_time": "2025-11-28 23:07:57",
+    "radio": "expres",
+    "recorded_at": "2025-11-28T23:08:25.343622+01:00",
+    "raw_valid": true,
+    "song_session_id": "52488a8a-3c8e-4a5b-8d66-60190a1a089d",
+    "duration_ms": 200253,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Simple Life",
+    "artists": [
+      "Leony"
+    ],
+    "isrc": "DEN062400058",
+    "start_time": "2025-11-28 23:11:08",
+    "radio": "expres",
+    "recorded_at": "2025-11-28T23:11:28.595176+01:00",
+    "raw_valid": true,
+    "song_session_id": "c5e2fcad-cb2f-43d4-bc84-d0d4b9edf0dc",
+    "duration_ms": 153100,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Save Me",
+    "artists": [
+      "Morandi"
+    ],
+    "isrc": "ROUM70700048",
+    "start_time": "2025-11-28 23:13:43",
+    "radio": "expres",
+    "recorded_at": "2025-11-28T23:14:11.408296+01:00",
+    "raw_valid": true,
+    "song_session_id": "54f5b125-0e32-45b5-a182-25b303d5ec75",
+    "duration_ms": 274133,
+    "genre": []
+  },
+  {
+    "song": "Where Is My Husband",
+    "artists": [
+      "Raye"
+    ],
+    "isrc": "QMFME2535037",
+    "start_time": "2025-11-28 23:17:03",
+    "radio": "expres",
+    "recorded_at": "2025-11-28T23:17:22.272261+01:00",
+    "raw_valid": true,
+    "song_session_id": "450a401d-60dd-49bf-be8a-496916ee15e1",
+    "duration_ms": 196795,
+    "genre": [
+      "offizielle charts"
+    ]
+  },
+  {
+    "song": "Eye Of The Tiger",
+    "artists": [
+      "Survivor"
+    ],
+    "isrc": "USVR19300001",
+    "start_time": "2025-11-28 23:20:38",
+    "radio": "expres",
+    "recorded_at": "2025-11-28T23:20:55.602153+01:00",
+    "raw_valid": true,
+    "song_session_id": "bea8bc1b-9016-49fb-94ed-c7808845f9b1",
+    "duration_ms": 246080,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Ordinary",
+    "artists": [
+      "Alex Warren"
+    ],
+    "isrc": "USAT22500463",
+    "start_time": "2025-11-28 23:24:07",
+    "radio": "expres",
+    "recorded_at": "2025-11-28T23:24:19.025164+01:00",
+    "raw_valid": true,
+    "song_session_id": "1667b122-b7ca-4c32-8a35-cb9d078c18f2",
+    "duration_ms": 186964,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Som On (Snezny Pluh)",
+    "artists": [
+      "Hex"
+    ],
+    "isrc": "SKA129757603",
+    "start_time": "2025-11-28 23:27:16",
+    "radio": "expres",
+    "recorded_at": "2025-11-28T23:27:26.997497+01:00",
+    "raw_valid": true,
+    "song_session_id": "1ae00047-260c-4159-9d41-2284f3539cd3",
+    "duration_ms": 262866,
+    "genre": []
+  },
+  {
+    "song": "Regalo",
+    "artists": [
+      "Alvaro Soler"
+    ],
+    "isrc": "DEE862500388",
+    "start_time": "2025-11-28 23:32:01",
+    "radio": "expres",
+    "recorded_at": "2025-11-28T23:32:18.646018+01:00",
+    "raw_valid": true,
+    "song_session_id": "8306c0b1-21cc-4bbb-879b-c93725c394cc",
+    "duration_ms": 184984,
+    "genre": []
+  },
+  {
+    "song": "(I Just) Died In Your Arms",
+    "artists": [
+      "Komodo"
+    ],
+    "isrc": "PLB381800243",
+    "start_time": "2025-11-28 23:35:21",
+    "radio": "expres",
+    "recorded_at": "2025-11-28T23:35:36.845949+01:00",
+    "raw_valid": true,
+    "song_session_id": "576c688d-4f33-49f8-89b7-bc96edc469fe",
+    "duration_ms": 215109,
+    "genre": []
+  },
+  {
+    "song": "Runaway Train",
+    "artists": [
+      "Soul Asylum"
+    ],
+    "isrc": "USSM19200235",
+    "start_time": "2025-11-28 23:38:52",
+    "radio": "expres",
+    "recorded_at": "2025-11-28T23:39:00.805264+01:00",
+    "raw_valid": true,
+    "song_session_id": "42b45307-c7de-41b5-843c-5436f1967e79",
+    "duration_ms": 266573,
+    "genre": []
+  },
+  {
+    "song": "Love Me Not",
+    "artists": [
+      "Ravyn Lenae"
+    ],
+    "isrc": "USAT22401137",
+    "start_time": "2025-11-28 23:43:14",
+    "radio": "expres",
+    "recorded_at": "2025-11-28T23:43:29.827831+01:00",
+    "raw_valid": true,
+    "song_session_id": "3d332686-1613-4d49-97db-1241b5ec1434",
+    "duration_ms": 213466,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Tri Slova",
+    "artists": [
+      "Marika Gombitova",
+      "Miro Zbirka",
+      "Marie Rottrova"
+    ],
+    "isrc": "SKA112397014",
+    "start_time": "2025-11-28 23:46:28",
+    "radio": "expres",
+    "recorded_at": "2025-11-28T23:46:53.581206+01:00",
+    "raw_valid": true,
+    "song_session_id": "8ce2b146-4c46-4274-a766-a5481d29e876",
+    "duration_ms": 182693,
+    "genre": []
+  }
+]
