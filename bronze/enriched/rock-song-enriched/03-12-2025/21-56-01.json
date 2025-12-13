@@ -1,0 +1,539 @@
+[
+  {
+    "last_update": "2025-12-03 19:56:26",
+    "song": {
+      "musicAuthor": "Marilyn Manson",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485148f31f0d658ebfb9a049769e",
+      "musicTitle": "The Dope Show",
+      "radio": "Rádio ROCK",
+      "startTime": "20:55"
+    },
+    "recorded_at": "2025-12-03T20:56:26.999032+01:00",
+    "raw_valid": true,
+    "song_session_id": "e2a5b0bf-c2b1-46ab-a8a2-9a8d6402e1f3",
+    "duration_ms": 226733,
+    "isrc": "USIR19801982",
+    "genre": [
+      "industrial metal"
+    ]
+  },
+  {
+    "last_update": "2025-12-03 20:00:28",
+    "song": {
+      "musicAuthor": "Lavagance",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851c9d69c46ec835d74bb065d58",
+      "musicTitle": "Gabriel",
+      "radio": "Rádio ROCK",
+      "startTime": "20:59"
+    },
+    "recorded_at": "2025-12-03T21:00:29.178942+01:00",
+    "raw_valid": true,
+    "song_session_id": "3d304de7-f4d2-4851-b92e-88e1cd16dffc",
+    "duration_ms": 232699,
+    "isrc": "SKB681200701",
+    "genre": [
+      "latin alternative"
+    ]
+  },
+  {
+    "last_update": "2025-12-03 20:04:30",
+    "song": {
+      "musicAuthor": "Queen",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485109e2ec500166cf2d5ac21050",
+      "musicTitle": "Killer Queen",
+      "radio": "Rádio ROCK",
+      "startTime": "21:03"
+    },
+    "recorded_at": "2025-12-03T21:04:30.574265+01:00",
+    "raw_valid": true,
+    "song_session_id": "017c330c-563c-4e0a-ba69-c5dddd1a8c93",
+    "duration_ms": 179600,
+    "isrc": "GBUM71029606",
+    "genre": [
+      "classic rock"
+    ]
+  },
+  {
+    "last_update": "2025-12-03 20:07:30",
+    "song": {
+      "musicAuthor": "Metalinda",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851205555d88a07d8fed5d5fe7e",
+      "musicTitle": "Ján Ámos Džínový",
+      "radio": "Rádio ROCK",
+      "startTime": "21:06"
+    },
+    "recorded_at": "2025-12-03T21:07:31.640755+01:00",
+    "raw_valid": true,
+    "song_session_id": "b932c3d3-4c29-4ed9-8527-c292095cd4b6",
+    "duration_ms": 336967,
+    "isrc": "SKA129023811",
+    "genre": []
+  },
+  {
+    "last_update": "2025-12-03 20:13:31",
+    "song": {
+      "musicAuthor": "Le Payaco",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485107a595f71faaf812b9eedaf7",
+      "musicTitle": "Sadni Si Mi Na Kolená",
+      "radio": "Rádio ROCK",
+      "startTime": "21:12"
+    },
+    "recorded_at": "2025-12-03T21:13:32.849986+01:00",
+    "raw_valid": true,
+    "song_session_id": "e92bfc80-9f28-4244-a473-5bb17a059389",
+    "duration_ms": 122666,
+    "isrc": "SKA831307005",
+    "genre": []
+  },
+  {
+    "last_update": "2025-12-03 20:16:33",
+    "song": {
+      "musicAuthor": "Aerosmith",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851587b26d49596162397b29ec8",
+      "musicTitle": "Amazing",
+      "radio": "Rádio ROCK",
+      "startTime": "21:16"
+    },
+    "recorded_at": "2025-12-03T21:16:33.936215+01:00",
+    "raw_valid": true,
+    "song_session_id": "dec52b63-cdb5-4a5d-adc2-1c87f3c03726",
+    "duration_ms": 355915,
+    "isrc": "USIR10000426",
+    "genre": [
+      "classic rock"
+    ]
+  },
+  {
+    "last_update": "2025-12-03 20:22:35",
+    "song": {
+      "musicAuthor": "Money Factor",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851332da4b3819914d720bc9f52",
+      "musicTitle": "Vráť Trochu Lásky Medzi Nás",
+      "radio": "Rádio ROCK",
+      "startTime": "21:21"
+    },
+    "recorded_at": "2025-12-03T21:22:35.653505+01:00",
+    "raw_valid": true,
+    "song_session_id": "09969c79-40a7-4c1a-937d-3a07f3c79a1f",
+    "duration_ms": 245640,
+    "isrc": "FRX201742441",
+    "genre": []
+  },
+  {
+    "last_update": "2025-12-03 20:26:34",
+    "song": {
+      "musicAuthor": "Garbage",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485146d575b95a64bd1f1072e99e",
+      "musicTitle": "Only Happy When It Rains",
+      "radio": "Rádio ROCK",
+      "startTime": "21:25"
+    },
+    "recorded_at": "2025-12-03T21:26:35.933105+01:00",
+    "raw_valid": true,
+    "song_session_id": "667dd767-1a9a-448a-8a5e-37954415098e",
+    "duration_ms": 236533,
+    "isrc": "USGF19500403",
+    "genre": []
+  },
+  {
+    "last_update": "2025-12-03 20:30:36",
+    "song": {
+      "musicAuthor": "Linkin Park",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851e2f039481babe23658fc719a",
+      "musicTitle": "In The End",
+      "radio": "Rádio ROCK",
+      "startTime": "21:29"
+    },
+    "recorded_at": "2025-12-03T21:30:36.256052+01:00",
+    "raw_valid": true,
+    "song_session_id": "4674eb4d-c231-4e0d-85cb-c99e22ae4c4d",
+    "duration_ms": 216880,
+    "isrc": "USWB10002407",
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "last_update": "2025-12-03 20:33:36",
+    "song": {
+      "musicAuthor": "Smola A Hrusky",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851f060e70d20ae7ac9eaf17978",
+      "musicTitle": "Pivo Bez Palenky",
+      "radio": "Rádio ROCK",
+      "startTime": "21:33"
+    },
+    "recorded_at": "2025-12-03T21:33:37.376328+01:00",
+    "raw_valid": true,
+    "song_session_id": "081d1795-f67c-46da-b1df-b67a6257388f",
+    "duration_ms": 238244,
+    "isrc": "SKK962400301",
+    "genre": []
+  },
+  {
+    "last_update": "2025-12-03 20:37:08",
+    "song": {
+      "musicAuthor": "Slobodna Europa",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851f183160ecfd94bfb1d3bbe9f",
+      "musicTitle": "Rock'n'roll",
+      "radio": "Rádio ROCK",
+      "startTime": "21:36"
+    },
+    "recorded_at": "2025-12-03T21:37:08.257227+01:00",
+    "raw_valid": true,
+    "song_session_id": "67802cda-e1e9-464f-821d-54fa637a0e30",
+    "duration_ms": 134440,
+    "isrc": "SKA129135212",
+    "genre": [
+      "punk"
+    ]
+  },
+  {
+    "last_update": "2025-12-03 20:39:07",
+    "song": {
+      "musicAuthor": "Jimi Hendrix",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851c9adfbd773852e286faed040",
+      "musicTitle": "Hey Joe",
+      "radio": "Rádio ROCK",
+      "startTime": "21:38"
+    },
+    "recorded_at": "2025-12-03T21:39:08.369106+01:00",
+    "raw_valid": true,
+    "song_session_id": "650a94f7-f8aa-4bdd-a420-6f9e1df6ee6f",
+    "duration_ms": 210160,
+    "isrc": "USQX90900767",
+    "genre": [
+      "psychedelic rock"
+    ]
+  },
+  {
+    "last_update": "2025-12-03 20:42:08",
+    "song": {
+      "musicAuthor": "Elán",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485179e068185bc4525580d473fc",
+      "musicTitle": "Dresy",
+      "radio": "Rádio ROCK",
+      "startTime": "21:42"
+    },
+    "recorded_at": "2025-12-03T21:42:08.800769+01:00",
+    "raw_valid": true,
+    "song_session_id": "294203c2-087e-461d-b138-d823f63d7ddf",
+    "duration_ms": 280000,
+    "isrc": "SKA129250610",
+    "genre": []
+  },
+  {
+    "last_update": "2025-12-03 20:47:10",
+    "song": {
+      "musicAuthor": "Iné Kafe",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485103c27ca0bab589f21321ec20",
+      "musicTitle": "Ani Minútu",
+      "radio": "Rádio ROCK",
+      "startTime": "21:46"
+    },
+    "recorded_at": "2025-12-03T21:47:11.803194+01:00",
+    "raw_valid": true,
+    "song_session_id": "f2916fdd-0351-4817-a5b6-29c5ede87275",
+    "duration_ms": 174120,
+    "isrc": "SKA011100094",
+    "genre": []
+  },
+  {
+    "last_update": "2025-12-03 20:50:13",
+    "song": {
+      "musicAuthor": "Ac/Dc",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851a254f3777d9d262b432ebc1a",
+      "musicTitle": "Big Gun",
+      "radio": "Rádio ROCK",
+      "startTime": "21:49"
+    },
+    "recorded_at": "2025-12-03T21:50:13.525876+01:00",
+    "raw_valid": true,
+    "song_session_id": "ba65a50b-af7f-455e-8170-b8287107f915",
+    "duration_ms": 263008,
+    "isrc": "USSM10904984",
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "last_update": "2025-12-03 20:54:13",
+    "song": {
+      "musicAuthor": "Fishing Strip",
+      "musicCover": "/layout/covers/default.png",
+      "musicTitle": "Vcera Som Miloval",
+      "radio": "Rádio ROCK",
+      "startTime": "21:54"
+    },
+    "recorded_at": "2025-12-03T21:54:13.814145+01:00",
+    "raw_valid": true,
+    "song_session_id": "95848f24-013e-487c-b7a2-bab118ad0686",
+    "duration_ms": 186414,
+    "isrc": "USMH92345487",
+    "genre": []
+  },
+  {
+    "last_update": "2025-12-03 20:58:13",
+    "song": {
+      "musicAuthor": "Billy Idol",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048519290a5f1a7e0e3e9ddb11073",
+      "musicTitle": "Cradle Of Love",
+      "radio": "Rádio ROCK",
+      "startTime": "21:57"
+    },
+    "recorded_at": "2025-12-03T21:58:14.201825+01:00",
+    "raw_valid": true,
+    "song_session_id": "ef7baa03-b179-4c3e-ab7b-b05ea131243e",
+    "duration_ms": 281466,
+    "isrc": "USCH39000011",
+    "genre": []
+  },
+  {
+    "last_update": "2025-12-03 21:02:19",
+    "song": {
+      "musicAuthor": "Lynyrd Skynyrd",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485117e1907923e91181f38290ac",
+      "musicTitle": "Sweet Home Alabama",
+      "radio": "Rádio ROCK",
+      "startTime": "22:01"
+    },
+    "recorded_at": "2025-12-03T22:02:19.579345+01:00",
+    "raw_valid": true,
+    "song_session_id": "3e3495e1-765f-4a29-a636-f7a474532dd6",
+    "duration_ms": 283800,
+    "isrc": "USMC17446153",
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "last_update": "2025-12-03 21:07:19",
+    "song": {
+      "musicAuthor": "Hex",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048510f84b352c86a11603fb21691",
+      "musicTitle": "Madelaine",
+      "radio": "Rádio ROCK",
+      "startTime": "22:06"
+    },
+    "recorded_at": "2025-12-03T22:07:20.417090+01:00",
+    "raw_valid": true,
+    "song_session_id": "abf1d63b-794a-46b9-b172-3cd1c127cb34",
+    "duration_ms": 168333,
+    "isrc": "CZA231204457",
+    "genre": []
+  },
+  {
+    "last_update": "2025-12-03 21:09:20",
+    "song": {
+      "musicAuthor": "Plus Mínus",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485140792a31bc4f1ec81ed2b0b2",
+      "musicTitle": "40",
+      "radio": "Rádio ROCK",
+      "startTime": "22:08"
+    },
+    "recorded_at": "2025-12-03T22:09:20.963803+01:00",
+    "raw_valid": true,
+    "song_session_id": "37995005-d59c-415c-a593-780d0db2155c",
+    "duration_ms": 219350,
+    "isrc": "TCAGY2326045",
+    "genre": [
+      "skate punk"
+    ]
+  },
+  {
+    "last_update": "2025-12-03 21:13:21",
+    "song": {
+      "musicAuthor": "Maneskin & Tom Morello",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851e5c4776d41fd00198193ae53",
+      "musicTitle": "Gossip",
+      "radio": "Rádio ROCK",
+      "startTime": "22:12"
+    },
+    "recorded_at": "2025-12-03T22:13:21.212824+01:00",
+    "raw_valid": true,
+    "song_session_id": "b1005afb-5d82-4117-9eab-5bb96d81ae20",
+    "duration_ms": 168280,
+    "isrc": "ITB002200841",
+    "genre": []
+  },
+  {
+    "last_update": "2025-12-03 21:16:20",
+    "song": {
+      "musicAuthor": "Elevenhill",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048514892aae28648372d6c2b8191",
+      "musicTitle": "Ride Your Wave",
+      "radio": "Rádio ROCK",
+      "startTime": "22:15"
+    },
+    "recorded_at": "2025-12-03T22:16:21.514393+01:00",
+    "raw_valid": true,
+    "song_session_id": "18599905-23a4-42de-abf8-77b8cb1c5d62",
+    "duration_ms": 296125,
+    "isrc": "SKM771700101",
+    "genre": []
+  },
+  {
+    "last_update": "2025-12-03 21:19:21",
+    "song": {
+      "musicAuthor": "Helenine Oči",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851189241e34abb22e3234f5469",
+      "musicTitle": "Obchádzka",
+      "radio": "Rádio ROCK",
+      "startTime": "22:18"
+    },
+    "recorded_at": "2025-12-03T22:19:21.723446+01:00",
+    "raw_valid": true,
+    "song_session_id": "79a82ff6-3389-4b45-9945-707e97c14cef",
+    "duration_ms": 241306,
+    "isrc": "SKB691700401",
+    "genre": []
+  },
+  {
+    "last_update": "2025-12-03 21:23:21",
+    "song": {
+      "musicAuthor": "Aerosmith",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851587b26d49596162397b29ec8",
+      "musicTitle": "Crazy",
+      "radio": "Rádio ROCK",
+      "startTime": "22:22"
+    },
+    "recorded_at": "2025-12-03T22:23:22.070784+01:00",
+    "raw_valid": true,
+    "song_session_id": "3d7bed02-4909-490c-83c6-7355119ccc1c",
+    "duration_ms": 316826,
+    "isrc": "USIR10000428",
+    "genre": [
+      "classic rock"
+    ]
+  },
+  {
+    "last_update": "2025-12-03 21:28:21",
+    "song": {
+      "musicAuthor": "The Youniverse",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485100ca8a5b04908bea5c2fe5e5",
+      "musicTitle": "Silver",
+      "radio": "Rádio ROCK",
+      "startTime": "22:27"
+    },
+    "recorded_at": "2025-12-03T22:28:22.697536+01:00",
+    "raw_valid": true,
+    "song_session_id": "cfdcc5a9-eec2-4e9b-bc8d-e6ed05d71012",
+    "duration_ms": 227250,
+    "isrc": "SKP431800501",
+    "genre": []
+  },
+  {
+    "last_update": "2025-12-03 21:32:22",
+    "song": {
+      "musicAuthor": "Peha",
+      "musicCover": "https://static.radia.sk/covers/32/23af7415-fcaa-4716-aee4-ad3e0de7314a.jpg",
+      "musicTitle": "Diaľkové Ovládanie",
+      "radio": "Rádio ROCK",
+      "startTime": "22:31"
+    },
+    "recorded_at": "2025-12-03T22:32:23.228282+01:00",
+    "raw_valid": true,
+    "song_session_id": "3a89b1db-bc87-4517-b737-6f6435da74b6",
+    "duration_ms": 221413,
+    "isrc": "SKA129935402",
+    "genre": []
+  },
+  {
+    "last_update": "2025-12-03 21:35:23",
+    "song": {
+      "musicAuthor": "Iggy Pop & Sum 41",
+      "musicCover": "https://static.radia.sk/covers/32/0c7104dd-7fd7-4cd4-be50-d4caed5c17cf.jpg",
+      "musicTitle": "Little Know It All",
+      "radio": "Rádio ROCK",
+      "startTime": "22:35"
+    },
+    "recorded_at": "2025-12-03T22:35:23.890713+01:00",
+    "raw_valid": true,
+    "song_session_id": "b37eb421-4664-4b0a-b45c-641e6483c96a",
+    "duration_ms": 213373,
+    "isrc": "USVI20301004",
+    "genre": [
+      "proto-punk"
+    ]
+  },
+  {
+    "last_update": "2025-12-03 21:39:23",
+    "song": {
+      "musicAuthor": "Walter Schnitzelsson",
+      "musicCover": "https://static.radia.sk/covers/32/c7e3d6b6-28ef-4a64-9c1f-c3e26d0bc8ec.jpg",
+      "musicTitle": "Trap",
+      "radio": "Rádio ROCK",
+      "startTime": "22:38"
+    },
+    "recorded_at": "2025-12-03T22:39:24.902137+01:00",
+    "raw_valid": true,
+    "song_session_id": "e27db97f-495a-4aef-9ca6-441fb912e2aa",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "last_update": "2025-12-03 21:43:25",
+    "song": {
+      "musicAuthor": "No Control",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851e78b00ce2d5f0f7f437e61a0",
+      "musicTitle": "Moje Planety",
+      "radio": "Rádio ROCK",
+      "startTime": "22:42"
+    },
+    "recorded_at": "2025-12-03T22:43:25.268706+01:00",
+    "raw_valid": true,
+    "song_session_id": "c563d322-18fa-468e-87d6-4d5e25e04c66",
+    "duration_ms": 194378,
+    "isrc": "SKC472000702",
+    "genre": []
+  },
+  {
+    "last_update": "2025-12-03 21:46:27",
+    "song": {
+      "musicAuthor": "Ozzy Osbourne",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851962c158ac47845e7051fae4e",
+      "musicTitle": "Dreamer",
+      "radio": "Rádio ROCK",
+      "startTime": "22:46"
+    },
+    "recorded_at": "2025-12-03T22:46:27.110733+01:00",
+    "raw_valid": true,
+    "song_session_id": "c2ff7779-9234-4351-93f2-3bbebd4bf4c5",
+    "duration_ms": 284902,
+    "isrc": "USSM10110213",
+    "genre": [
+      "metal"
+    ]
+  },
+  {
+    "last_update": "2025-12-03 21:50:27",
+    "song": {
+      "musicAuthor": "Tublatanka",
+      "musicCover": "https://static.radia.sk/covers/32/7ee86987-baad-48a6-9afa-0ca560d378f2.jpg",
+      "musicTitle": "Bez Tvojej Lásky",
+      "radio": "Rádio ROCK",
+      "startTime": "22:50"
+    },
+    "recorded_at": "2025-12-03T22:50:28.374192+01:00",
+    "raw_valid": true,
+    "song_session_id": "20f940b1-5d4f-45df-8332-f6ab93d96a29",
+    "duration_ms": 218548,
+    "isrc": "CZA239500136",
+    "genre": []
+  },
+  {
+    "last_update": "2025-12-03 21:54:27",
+    "song": {
+      "musicAuthor": "Idol Billy",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851a20464e6697dc1149d3a5cdc",
+      "musicTitle": "Hot In The City",
+      "radio": "Rádio ROCK",
+      "startTime": "22:53"
+    },
+    "recorded_at": "2025-12-03T22:54:28.611036+01:00",
+    "raw_valid": true,
+    "song_session_id": "3a704dbd-d122-4e00-84f1-563d1929d082",
+    "duration_ms": 219133,
+    "isrc": "USCH38400019",
+    "genre": []
+  }
+]

@@ -1,0 +1,45 @@
+[
+  {
+    "station": "Rádio Melody",
+    "title": "99 Luftballons",
+    "artist": "Nena",
+    "date": "02.11.2025",
+    "time": "20:23",
+    "last_update": "02.11.2025 20:25:08",
+    "recorded_at": "02.11.2025 20:25:08",
+    "raw_valid": true,
+    "song_session_id": "532174af-5ad3-42b8-9b8a-7780c9c7d2fe",
+    "duration_ms": 231466,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Love Message",
+    "artist": "Love Message",
+    "date": "02.11.2025",
+    "time": "20:27",
+    "last_update": "02.11.2025 20:28:16",
+    "recorded_at": "02.11.2025 20:28:16",
+    "raw_valid": true,
+    "song_session_id": "c645b7cb-bcd3-4c93-9c0d-b47d7a6b96a2",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Down Under",
+    "artist": "Men At Work",
+    "date": "02.11.2025",
+    "time": "20:31",
+    "last_update": "02.11.2025 20:32:17",
+    "recorded_at": "02.11.2025 20:32:17",
+    "raw_valid": true,
+    "song_session_id": "784f4156-6562-4be2-ab71-a45f82f24a3a",
+    "duration_ms": 222320,
+    "genre": [
+      "pop"
+    ]
+  }
+]

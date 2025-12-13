@@ -1,0 +1,350 @@
+[
+  {
+    "song": {
+      "play_date": "2025-11-24",
+      "play_time": "08:02",
+      "artist": [
+        "Emmet Cohen"
+      ],
+      "title": "Dardanella"
+    },
+    "recorded_at": "2025-11-24T08:06:57.259415+01:00",
+    "raw_valid": true,
+    "song_session_id": "036e2536-767c-4909-9a6c-6b7c02a28104",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-11-24",
+      "play_time": "08:11",
+      "artist": [
+        "Antonio Carlos Jobim"
+      ],
+      "title": "Wave"
+    },
+    "recorded_at": "2025-11-24T08:11:57.943974+01:00",
+    "raw_valid": true,
+    "song_session_id": "cc167ae3-df58-4d34-9703-4d2e069422aa",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-11-24",
+      "play_time": "08:13",
+      "artist": [
+        "Vince Guaraldi Trio"
+      ],
+      "title": "Cast Your Fate To The Wind"
+    },
+    "recorded_at": "2025-11-24T08:16:58.626418+01:00",
+    "raw_valid": true,
+    "song_session_id": "63c06aa4-daef-4f6c-b871-1aa208fc424d",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-11-24",
+      "play_time": "08:16",
+      "artist": [
+        "3 Plus 1"
+      ],
+      "title": "Kvapka"
+    },
+    "recorded_at": "2025-11-24T08:21:59.341723+01:00",
+    "raw_valid": true,
+    "song_session_id": "28c50c98-fa9f-4b10-bcf6-537cae6a1dfb",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-11-24",
+      "play_time": "08:23",
+      "artist": [
+        "Miles Davis"
+      ],
+      "title": "Cool Jazz"
+    },
+    "recorded_at": "2025-11-24T08:27:00.026625+01:00",
+    "raw_valid": true,
+    "song_session_id": "db0e127f-73b8-46e3-a5d3-a5c7c8a7dca6",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-11-24",
+      "play_time": "08:29",
+      "artist": [
+        "Gil Scott-Heron"
+      ],
+      "title": "Lady Day And John Coltrane"
+    },
+    "recorded_at": "2025-11-24T08:32:00.726879+01:00",
+    "raw_valid": true,
+    "song_session_id": "927e4cd0-3671-4664-9ee0-9dae504483b7",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-11-24",
+      "play_time": "08:35",
+      "artist": [
+        "Chet Baker"
+      ],
+      "title": "The More I See You"
+    },
+    "recorded_at": "2025-11-24T08:37:01.405115+01:00",
+    "raw_valid": true,
+    "song_session_id": "f6fab33f-3d4f-442b-ab0c-87053fe06ca0",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-11-24",
+      "play_time": "08:38",
+      "artist": [
+        "Šebestová Hana"
+      ],
+      "title": "Tancovačka"
+    },
+    "recorded_at": "2025-11-24T08:42:02.242732+01:00",
+    "raw_valid": true,
+    "song_session_id": "5cdfbd33-106c-4e4f-baf0-172854895226",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-11-24",
+      "play_time": "08:42",
+      "artist": [
+        "Spyro Gyra"
+      ],
+      "title": "It Doesn't Matter"
+    },
+    "recorded_at": "2025-11-24T08:47:02.990518+01:00",
+    "raw_valid": true,
+    "song_session_id": "a152d579-8260-4783-93b0-ff4cd3ce50bb",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-11-24",
+      "play_time": "08:50",
+      "artist": [
+        "Jamie Cullum"
+      ],
+      "title": "7 Days To Change Your Life"
+    },
+    "recorded_at": "2025-11-24T08:52:03.673385+01:00",
+    "raw_valid": true,
+    "song_session_id": "771150bb-240f-4893-a52b-95c0b60dfaa5",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-11-24",
+      "play_time": "08:53",
+      "artist": [
+        "Don Byas"
+      ],
+      "title": "Stomp"
+    },
+    "recorded_at": "2025-11-24T08:57:04.362306+01:00",
+    "raw_valid": true,
+    "song_session_id": "a34d4e31-67a8-4b53-9b75-568f4ae51caa",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-11-24",
+      "play_time": "08:59",
+      "artist": [
+        "Jeff Denson Trio"
+      ],
+      "title": "Daily Jubilee Of Dancing Herbie D."
+    },
+    "recorded_at": "2025-11-24T09:02:05.049532+01:00",
+    "raw_valid": true,
+    "song_session_id": "15b0e9b2-f7cb-44fd-b430-2e09ef4837ea",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-11-24",
+      "play_time": "09:06",
+      "artist": [
+        "George Benson",
+        "Al Jarreau"
+      ],
+      "title": "Mornin´"
+    },
+    "recorded_at": "2025-11-24T09:07:05.740908+01:00",
+    "raw_valid": true,
+    "song_session_id": "977af9b6-f376-47ed-be3c-ba81fd8edc91",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-11-24",
+      "play_time": "09:10",
+      "artist": [
+        "Fusion Funk Foundation",
+        "Lo Greco Bros"
+      ],
+      "title": "Feel The Base"
+    },
+    "recorded_at": "2025-11-24T09:12:06.443593+01:00",
+    "raw_valid": true,
+    "song_session_id": "74eedf0a-4f9e-4a0e-aff0-392e6b2f409f",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-11-24",
+      "play_time": "09:14",
+      "artist": [
+        "Madeleine Peyroux"
+      ],
+      "title": "Youre Gonna Make Me Lonesome When You Go"
+    },
+    "recorded_at": "2025-11-24T09:17:07.166265+01:00",
+    "raw_valid": true,
+    "song_session_id": "98ed3c98-ab2e-41ba-8b53-3eb4ad0d8863",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-11-24",
+      "play_time": "09:18",
+      "artist": [
+        "Garage A Trois"
+      ],
+      "title": "Etienne"
+    },
+    "recorded_at": "2025-11-24T09:22:07.846325+01:00",
+    "raw_valid": true,
+    "song_session_id": "0e94d0cc-fc6b-4044-a115-70f87744ad4e",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-11-24",
+      "play_time": "09:23",
+      "artist": [
+        "Oscar Peterson Trio"
+      ],
+      "title": "In The Still Of The Night"
+    },
+    "recorded_at": "2025-11-24T09:27:08.540811+01:00",
+    "raw_valid": true,
+    "song_session_id": "0947e63d-4b3c-4323-83c1-751470af9ee5",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-11-24",
+      "play_time": "09:31",
+      "artist": [
+        "Nicola Conte"
+      ],
+      "title": "The In Between"
+    },
+    "recorded_at": "2025-11-24T09:32:09.227523+01:00",
+    "raw_valid": true,
+    "song_session_id": "678fbafe-2ff1-4a1b-864c-bf6a0884e991",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-11-24",
+      "play_time": "09:34",
+      "artist": [
+        "Simone",
+        "Nina"
+      ],
+      "title": "Feeling Good"
+    },
+    "recorded_at": "2025-11-24T09:37:09.938285+01:00",
+    "raw_valid": true,
+    "song_session_id": "a98a8bb5-c46e-459f-8999-bbe0dd5fe8bf",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-11-24",
+      "play_time": "09:37",
+      "artist": [
+        "Miles Davis"
+      ],
+      "title": "Milestones"
+    },
+    "recorded_at": "2025-11-24T09:42:10.642356+01:00",
+    "raw_valid": true,
+    "song_session_id": "162bcfad-edb9-4f69-a034-39dda2f79b90",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-11-24",
+      "play_time": "09:45",
+      "artist": [
+        "Digby Jones"
+      ],
+      "title": "Pina Colada (Jazz Mix)"
+    },
+    "recorded_at": "2025-11-24T09:47:11.327729+01:00",
+    "raw_valid": true,
+    "song_session_id": "5598567c-ee7a-4849-88a5-4f96a54b9ffd",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-11-24",
+      "play_time": "09:50",
+      "artist": [
+        "Amc Trio"
+      ],
+      "title": "Beauty Of The Coming Sun"
+    },
+    "recorded_at": "2025-11-24T09:52:12.063894+01:00",
+    "raw_valid": true,
+    "song_session_id": "790a97a2-bc50-44fe-860a-ec813eabf7c2",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-11-24",
+      "play_time": "09:57",
+      "artist": [
+        "Soulstance"
+      ],
+      "title": "Antigua"
+    },
+    "recorded_at": "2025-11-24T10:02:13.502428+01:00",
+    "raw_valid": true,
+    "song_session_id": "6faf86cb-4a72-42e9-af37-e40a8140f75f",
+    "duration_ms": null,
+    "genre": []
+  }
+]

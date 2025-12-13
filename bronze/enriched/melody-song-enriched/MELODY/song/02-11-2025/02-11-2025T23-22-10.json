@@ -1,0 +1,58 @@
+[
+  {
+    "station": "Rádio Melody",
+    "title": "Le Freak",
+    "artist": "Chic",
+    "date": "02.11.2025",
+    "time": "23:14",
+    "last_update": "02.11.2025 23:14:55",
+    "recorded_at": "02.11.2025 23:14:55",
+    "raw_valid": true,
+    "song_session_id": "466459aa-3ae1-443e-b130-6160cb209fe3",
+    "duration_ms": 331360,
+    "genre": [
+      "disco"
+    ]
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Waka Waka (This Time For Africa)",
+    "artist": "Shakira & Freshlyground",
+    "date": "02.11.2025",
+    "time": "23:18",
+    "last_update": "02.11.2025 23:18:47",
+    "recorded_at": "02.11.2025 23:18:47",
+    "raw_valid": true,
+    "song_session_id": "d469afdd-d75f-4c73-bac2-90d1ead3b08f",
+    "duration_ms": 202626,
+    "genre": [
+      "latin pop"
+    ]
+  },
+  {
+    "station": null,
+    "title": null,
+    "artist": null,
+    "date": null,
+    "time": null,
+    "last_update": null,
+    "recorded_at": "02.11.2025 23:20:29",
+    "raw_valid": false,
+    "song_session_id": "c1a97fa2-9e48-4db9-b823-555fd06211dc"
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "On The Radio",
+    "artist": "Donna Summer",
+    "date": "02.11.2025",
+    "time": "23:21",
+    "last_update": "02.11.2025 23:21:12",
+    "recorded_at": "02.11.2025 23:21:12",
+    "raw_valid": true,
+    "song_session_id": "240fa205-7cc7-4a19-bef3-3ea44f82ba74",
+    "duration_ms": 241506,
+    "genre": [
+      "disco"
+    ]
+  }
+]

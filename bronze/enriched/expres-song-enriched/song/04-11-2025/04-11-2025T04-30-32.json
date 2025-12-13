@@ -1,0 +1,548 @@
+[
+  {
+    "song": "Overdrive",
+    "artists": [
+      "Ofenbach",
+      "Norma Jean Martine"
+    ],
+    "isrc": "FR9W12347222",
+    "start_time": "2025-11-04 02:29:50",
+    "radio": "expres",
+    "recorded_at": "04.11.2025 02:30:09",
+    "raw_valid": true,
+    "song_session_id": "a99f0b06-534d-4e67-87a6-7cdca5a71f53",
+    "duration_ms": 155905,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Let Me Die",
+    "artists": [
+      "Mark Dann",
+      "Giovanni Ricci"
+    ],
+    "isrc": "US38Y2520370",
+    "start_time": "2025-11-04 02:33:03",
+    "radio": "expres",
+    "recorded_at": "04.11.2025 02:33:37",
+    "raw_valid": true,
+    "song_session_id": "28162564-0792-43db-96ef-9effdbe6bbbe",
+    "duration_ms": 147010,
+    "genre": [
+      "slap house"
+    ]
+  },
+  {
+    "song": "Co O Mne Vies",
+    "artists": [
+      "Darinka Rolincova"
+    ],
+    "isrc": "CZA168800007",
+    "start_time": "2025-11-04 02:35:26",
+    "radio": "expres",
+    "recorded_at": "04.11.2025 02:35:35",
+    "raw_valid": true,
+    "song_session_id": "21604d16-a9c3-4485-8498-6d263e92bd19",
+    "duration_ms": 160786,
+    "genre": [
+      "schlager"
+    ]
+  },
+  {
+    "song": "Breakfast At Tiffanys",
+    "artists": [
+      "Deep Blue Something"
+    ],
+    "isrc": "USIR19500177",
+    "start_time": "2025-11-04 02:38:00",
+    "radio": "expres",
+    "recorded_at": "04.11.2025 02:38:18",
+    "raw_valid": true,
+    "song_session_id": "a75b3bb2-8574-41c0-83bb-fd8f30a683f6",
+    "duration_ms": 270080,
+    "genre": []
+  },
+  {
+    "song": "Van Goghovo Ucho",
+    "artists": [
+      "Elan"
+    ],
+    "isrc": "SKA128912910",
+    "start_time": "2025-11-04 02:42:17",
+    "radio": "expres",
+    "recorded_at": "04.11.2025 02:42:28",
+    "raw_valid": true,
+    "song_session_id": "aeeeaecf-f061-4851-9511-a1095ce7a254",
+    "duration_ms": 355026,
+    "genre": []
+  },
+  {
+    "song": "The Fate Of Ophelia",
+    "artists": [
+      "Taylor Swift"
+    ],
+    "isrc": "USUG12506436",
+    "start_time": "2025-11-04 02:47:17",
+    "radio": "expres",
+    "recorded_at": "04.11.2025 02:47:33",
+    "raw_valid": true,
+    "song_session_id": "5708afcb-5f3e-4bb9-bb95-dd14867e47a4",
+    "duration_ms": 226073,
+    "genre": [
+      "electronic"
+    ]
+  },
+  {
+    "song": "Spravne Dievcata",
+    "artists": [
+      "Marika Gombitova"
+    ],
+    "isrc": null,
+    "start_time": "2025-11-04 02:51:20",
+    "radio": "expres",
+    "recorded_at": "04.11.2025 02:51:42",
+    "raw_valid": true,
+    "song_session_id": "31a41a08-5e20-4f31-a652-082b29df37ec"
+  },
+  {
+    "song": "Stressed Out",
+    "artists": [
+      "Twenty One Pilots"
+    ],
+    "isrc": "USAT21500597",
+    "start_time": "2025-11-04 02:55:27",
+    "radio": "expres",
+    "recorded_at": "04.11.2025 02:55:50",
+    "raw_valid": true,
+    "song_session_id": "24e9bc6a-57e6-4579-bf11-31d66601663d",
+    "duration_ms": 202333,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Stratena",
+    "artists": [
+      "Lina Mayer"
+    ],
+    "isrc": "SKK312100201",
+    "start_time": "2025-11-04 02:58:51",
+    "radio": "expres",
+    "recorded_at": "04.11.2025 02:59:14",
+    "raw_valid": true,
+    "song_session_id": "f6da6741-6e6e-4617-bd65-ed91602d94c6",
+    "duration_ms": 221304,
+    "genre": []
+  },
+  {
+    "song": "Regalo",
+    "artists": [
+      "Alvaro Soler"
+    ],
+    "isrc": "DEE862500388",
+    "start_time": "2025-11-04 03:02:31",
+    "radio": "expres",
+    "recorded_at": "04.11.2025 03:02:58",
+    "raw_valid": true,
+    "song_session_id": "6e8f4a7c-e89d-436f-9aa8-17f41caa6a0f",
+    "duration_ms": 184984,
+    "genre": []
+  },
+  {
+    "song": "Letim Tmou (Za Tebou)",
+    "artists": [
+      "Miro Zbirka"
+    ],
+    "isrc": "CZA100308170",
+    "start_time": "2025-11-04 03:05:45",
+    "radio": "expres",
+    "recorded_at": "04.11.2025 03:06:08",
+    "raw_valid": true,
+    "song_session_id": "c9288098-92b8-43ed-9917-e561b913c81d",
+    "duration_ms": 188466,
+    "genre": []
+  },
+  {
+    "song": "The Sound Of Silence",
+    "artists": [
+      "Disturbed"
+    ],
+    "isrc": "USRE12400063",
+    "start_time": "2025-11-04 03:08:53",
+    "radio": "expres",
+    "recorded_at": "04.11.2025 03:09:05",
+    "raw_valid": true,
+    "song_session_id": "925cfa12-595a-404a-b1bf-0171daa38ca1",
+    "duration_ms": 185238,
+    "genre": [
+      "metal"
+    ]
+  },
+  {
+    "song": "Az Sa Znova Narodim",
+    "artists": [
+      "Peter Nagy"
+    ],
+    "isrc": "SKA128797208",
+    "start_time": "2025-11-04 03:11:57",
+    "radio": "expres",
+    "recorded_at": "04.11.2025 03:12:16",
+    "raw_valid": true,
+    "song_session_id": "5524da4a-6fa9-4f88-a96b-396e78c35607",
+    "duration_ms": 152800,
+    "genre": []
+  },
+  {
+    "song": "Wake Me Up Before You Go Go",
+    "artists": [
+      "Wham"
+    ],
+    "isrc": "GBBBN0009712",
+    "start_time": "2025-11-04 03:14:34",
+    "radio": "expres",
+    "recorded_at": "04.11.2025 03:15:04",
+    "raw_valid": true,
+    "song_session_id": "b502bb38-9acd-451f-ae73-3a46dfb5e580",
+    "duration_ms": 232542,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Indianske Leto",
+    "artists": [
+      "Hex"
+    ],
+    "isrc": "TCABR1336173",
+    "start_time": "2025-11-04 03:18:21",
+    "radio": "expres",
+    "recorded_at": "04.11.2025 03:18:42",
+    "raw_valid": true,
+    "song_session_id": "eb151037-6659-4db8-9b0a-519792aaa030",
+    "duration_ms": 215733,
+    "genre": []
+  },
+  {
+    "song": "Save My Love",
+    "artists": [
+      "Marshmello",
+      "Ellie Goulding",
+      "Avaion"
+    ],
+    "isrc": "USUG12504310",
+    "start_time": "2025-11-04 03:21:45",
+    "radio": "expres",
+    "recorded_at": "04.11.2025 03:22:06",
+    "raw_valid": true,
+    "song_session_id": "4b26d0fd-85e0-437b-9aeb-d2e983a29ed1",
+    "duration_ms": 215555,
+    "genre": [
+      "edm"
+    ]
+  },
+  {
+    "song": "Lietam V Tom Tiez",
+    "artists": [
+      "Team"
+    ],
+    "isrc": "SKA128917006",
+    "start_time": "2025-11-04 03:25:38",
+    "radio": "expres",
+    "recorded_at": "04.11.2025 03:25:54",
+    "raw_valid": true,
+    "song_session_id": "75450dcd-e049-4aed-a64a-1bd9eb8a7b37",
+    "duration_ms": 233253,
+    "genre": []
+  },
+  {
+    "song": "Flowers",
+    "artists": [
+      "Alle Farben",
+      "Graham Candy",
+      "Lahos"
+    ],
+    "isrc": "DEA622500325",
+    "start_time": "2025-11-04 03:29:29",
+    "radio": "expres",
+    "recorded_at": "04.11.2025 03:29:58",
+    "raw_valid": true,
+    "song_session_id": "8be4123b-12e9-43e4-af62-7d2eedb1752b",
+    "duration_ms": 153103,
+    "genre": []
+  },
+  {
+    "song": "Matka",
+    "artists": [
+      "Tublatanka"
+    ],
+    "isrc": "CZA169100617",
+    "start_time": "2025-11-04 03:32:06",
+    "radio": "expres",
+    "recorded_at": "04.11.2025 03:32:26",
+    "raw_valid": true,
+    "song_session_id": "2159fb98-aead-41b9-ba6e-d00160e0c21d",
+    "duration_ms": 291160,
+    "genre": []
+  },
+  {
+    "song": "Mystical Magical",
+    "artists": [
+      "Benson Boone"
+    ],
+    "isrc": "USWB12500844",
+    "start_time": "2025-11-04 03:36:11",
+    "radio": "expres",
+    "recorded_at": "04.11.2025 03:36:26",
+    "raw_valid": true,
+    "song_session_id": "367cab09-c56e-4097-8037-966f5f6eba6a",
+    "duration_ms": 165746,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "High",
+    "artists": [
+      "Emma Drobna"
+    ],
+    "isrc": "CZA232500590",
+    "start_time": "2025-11-04 03:38:58",
+    "radio": "expres",
+    "recorded_at": "04.11.2025 03:39:16",
+    "raw_valid": true,
+    "song_session_id": "13f2a20c-cdb4-4b16-ad72-181b7ee656dd",
+    "duration_ms": 164546,
+    "genre": []
+  },
+  {
+    "song": "All For Love",
+    "artists": [
+      "Bryan Adams",
+      "Rod Stewart",
+      "Sting"
+    ],
+    "isrc": "GBF079441514",
+    "start_time": "2025-11-04 03:41:44",
+    "radio": "expres",
+    "recorded_at": "04.11.2025 03:42:14",
+    "raw_valid": true,
+    "song_session_id": "bfd6f726-1f9c-4c1a-9420-2547b60f76c7",
+    "duration_ms": 324173,
+    "genre": [
+      "opera"
+    ]
+  },
+  {
+    "song": "Lava",
+    "artists": [
+      "Peter Bic Project"
+    ],
+    "isrc": "SKA011900036",
+    "start_time": "2025-11-04 03:46:30",
+    "radio": "expres",
+    "recorded_at": "04.11.2025 03:46:59",
+    "raw_valid": true,
+    "song_session_id": "9951d2ed-6d15-4034-a7de-7b02ec852099",
+    "duration_ms": 271900,
+    "genre": []
+  },
+  {
+    "song": "Pride",
+    "artists": [
+      "Felix Jaehn",
+      "Jhart"
+    ],
+    "isrc": "DEUM72503423",
+    "start_time": "2025-11-04 03:49:51",
+    "radio": "expres",
+    "recorded_at": "04.11.2025 03:50:02",
+    "raw_valid": true,
+    "song_session_id": "55333a37-54cb-4158-8e6f-d417f2444190",
+    "duration_ms": 158150,
+    "genre": [
+      "tropical house"
+    ]
+  },
+  {
+    "song": "Dvaja",
+    "artists": [
+      "Robo Grigorov"
+    ],
+    "isrc": "SKA128676205",
+    "start_time": "2025-11-04 03:52:32",
+    "radio": "expres",
+    "recorded_at": "04.11.2025 03:52:49",
+    "raw_valid": true,
+    "song_session_id": "38ece73c-5d23-4787-9fc6-7541483ed87a",
+    "duration_ms": 288800,
+    "genre": []
+  },
+  {
+    "song": "Follow You",
+    "artists": [
+      "Imagine Dragons"
+    ],
+    "isrc": "USUM72102981",
+    "start_time": "2025-11-04 03:56:55",
+    "radio": "expres",
+    "recorded_at": "04.11.2025 03:57:15",
+    "raw_valid": true,
+    "song_session_id": "12059b87-1d04-4c28-848c-d22f343b2c9e",
+    "duration_ms": 175643,
+    "genre": [
+      "trance"
+    ]
+  },
+  {
+    "song": "Architekti Stastia",
+    "artists": [
+      "Nocaden"
+    ],
+    "isrc": "SKG971900108",
+    "start_time": "2025-11-04 03:59:38",
+    "radio": "expres",
+    "recorded_at": "04.11.2025 04:00:22",
+    "raw_valid": true,
+    "song_session_id": "96f39300-31d8-46ec-b620-754d7d7fe7c8",
+    "duration_ms": 277386,
+    "genre": []
+  },
+  {
+    "song": "Espresso",
+    "artists": [
+      "Sabrina Carpenter"
+    ],
+    "isrc": "USUM72403305",
+    "start_time": "2025-11-04 04:03:37",
+    "radio": "expres",
+    "recorded_at": "04.11.2025 04:04:05",
+    "raw_valid": true,
+    "song_session_id": "ac4eb0e7-2953-4e03-a121-5fda687cf05b",
+    "duration_ms": 175453,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Vietor",
+    "artists": [
+      "Adam Durica"
+    ],
+    "isrc": "SKA012300351",
+    "start_time": "2025-11-04 04:06:34",
+    "radio": "expres",
+    "recorded_at": "04.11.2025 04:06:52",
+    "raw_valid": true,
+    "song_session_id": "14dd3a90-39e3-493d-9acf-04540210c62a",
+    "duration_ms": 215240,
+    "genre": []
+  },
+  {
+    "song": "Ordinary",
+    "artists": [
+      "Alex Warren"
+    ],
+    "isrc": "USAT22500463",
+    "start_time": "2025-11-04 04:10:04",
+    "radio": "expres",
+    "recorded_at": "04.11.2025 04:10:15",
+    "raw_valid": true,
+    "song_session_id": "ba631668-b000-4e38-9319-ef1e50f08d40",
+    "duration_ms": 186964,
+    "genre": [
+      "folk"
+    ]
+  },
+  {
+    "song": "Mozno Si Ma Pomylis",
+    "artists": [
+      "Imt Smile"
+    ],
+    "isrc": "SKA019903017",
+    "start_time": "2025-11-04 04:13:18",
+    "radio": "expres",
+    "recorded_at": "04.11.2025 04:13:44",
+    "raw_valid": true,
+    "song_session_id": "2e4d6d93-3a5f-405f-bbc6-b84ccf27bb1c",
+    "duration_ms": 162466,
+    "genre": []
+  },
+  {
+    "song": "Where Are You Now",
+    "artists": [
+      "Lost Frequencies",
+      "Calum Scott"
+    ],
+    "isrc": "BEHP42100067",
+    "start_time": "2025-11-04 04:16:09",
+    "radio": "expres",
+    "recorded_at": "04.11.2025 04:16:27",
+    "raw_valid": true,
+    "song_session_id": "b389ee2d-f504-4083-a9d6-47e7f5277d67",
+    "duration_ms": 149066,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Skoro Dospela",
+    "artists": [
+      "Miro Zbirka"
+    ],
+    "isrc": "CZUM70700182",
+    "start_time": "2025-11-04 04:18:50",
+    "radio": "expres",
+    "recorded_at": "04.11.2025 04:19:18",
+    "raw_valid": true,
+    "song_session_id": "ee55dd02-7506-49a1-83d3-75e51536bfc9",
+    "duration_ms": 135746,
+    "genre": []
+  },
+  {
+    "song": "The Dead Dance",
+    "artists": [
+      "Lady Gaga"
+    ],
+    "isrc": "USUM72407034",
+    "start_time": "2025-11-04 04:20:54",
+    "radio": "expres",
+    "recorded_at": "04.11.2025 04:21:26",
+    "raw_valid": true,
+    "song_session_id": "29ba1fe6-26c4-4bb2-9b6c-4053392005fd",
+    "duration_ms": 228518,
+    "genre": [
+      "offizielle charts"
+    ]
+  },
+  {
+    "song": "Smej Sa",
+    "artists": [
+      "Sima Martausova"
+    ],
+    "isrc": "SKG081607101",
+    "start_time": "2025-11-04 04:24:37",
+    "radio": "expres",
+    "recorded_at": "04.11.2025 04:24:58",
+    "raw_valid": true,
+    "song_session_id": "1769c78c-e538-46be-99ce-dea911abeb9a",
+    "duration_ms": 200946,
+    "genre": []
+  },
+  {
+    "song": "Stumblin In",
+    "artists": [
+      "Cyril"
+    ],
+    "isrc": "NLZ542301810",
+    "start_time": "2025-11-04 04:28:02",
+    "radio": "expres",
+    "recorded_at": "04.11.2025 04:28:21",
+    "raw_valid": true,
+    "song_session_id": "09f0f68d-7b1f-4182-bb05-e49ed5a5eadb",
+    "duration_ms": 213363,
+    "genre": [
+      "alternative rock"
+    ]
+  }
+]

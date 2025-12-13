@@ -1,0 +1,512 @@
+[
+  {
+    "last_update": "2025-12-10 19:57:37",
+    "song": {
+      "musicAuthor": "Cmorík Peter",
+      "musicCover": "https://static.radia.sk/covers/32/205320a2-1b72-4e5d-bea3-1122e8c91064.jpg",
+      "musicTitle": "Mám Pocit",
+      "radio": "Fun Rádio",
+      "startTime": "20:56"
+    },
+    "recorded_at": "2025-12-10T20:57:37.515579+01:00",
+    "raw_valid": true,
+    "song_session_id": "7eb1894b-835d-41c7-a5e9-05d4413fe058",
+    "duration_ms": 267586,
+    "genre": []
+  },
+  {
+    "last_update": "2025-12-10 20:01:07",
+    "song": {
+      "musicAuthor": "Jana Kirschner Featuring Milan Ondrik",
+      "musicCover": "https://static.radia.sk/covers/32/d1065c3e-56f8-4c25-ba69-20cbd455cf5d.jpg",
+      "musicTitle": "Lovestory",
+      "radio": "Fun Rádio",
+      "startTime": "21:00"
+    },
+    "recorded_at": "2025-12-10T21:01:07.775775+01:00",
+    "raw_valid": true,
+    "song_session_id": "fc323662-8a56-4496-aa52-a45745164234",
+    "duration_ms": 187232,
+    "genre": []
+  },
+  {
+    "last_update": "2025-12-10 20:05:07",
+    "song": {
+      "musicAuthor": "Tina",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485103118050d6753cf76a76f46d",
+      "musicTitle": "Údolie Tieňov",
+      "radio": "Fun Rádio",
+      "startTime": "21:04"
+    },
+    "recorded_at": "2025-12-10T21:05:08.025294+01:00",
+    "raw_valid": true,
+    "song_session_id": "c9a4f6fe-668d-4c7c-b4ec-0e4beebc5b71",
+    "duration_ms": 218536,
+    "genre": []
+  },
+  {
+    "last_update": "2025-12-10 20:08:07",
+    "song": {
+      "musicAuthor": "Buranowski",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851bc165b8d59dcb7dfb248abf7",
+      "musicTitle": "Lúč",
+      "radio": "Fun Rádio",
+      "startTime": "21:07"
+    },
+    "recorded_at": "2025-12-10T21:08:08.208396+01:00",
+    "raw_valid": true,
+    "song_session_id": "b92af12c-da2a-4686-be4a-aaa52de604e6",
+    "duration_ms": 233080,
+    "genre": []
+  },
+  {
+    "last_update": "2025-12-10 20:12:07",
+    "song": {
+      "musicAuthor": "Emma Drobná",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048510c46a5ffd53b69f1abfca6d1",
+      "musicTitle": "Words",
+      "radio": "Fun Rádio",
+      "startTime": "21:11"
+    },
+    "recorded_at": "2025-12-10T21:12:08.489316+01:00",
+    "raw_valid": true,
+    "song_session_id": "7dc34aba-2590-4c24-8364-073c2d952778",
+    "duration_ms": 207584,
+    "genre": []
+  },
+  {
+    "last_update": "2025-12-10 20:15:08",
+    "song": {
+      "musicAuthor": "Imt Smile",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485171bd35f1531115563c38d38c",
+      "musicTitle": "Budeme To Stále My",
+      "radio": "Fun Rádio",
+      "startTime": "21:14"
+    },
+    "recorded_at": "2025-12-10T21:15:08.669996+01:00",
+    "raw_valid": true,
+    "song_session_id": "c4665b66-09be-4198-9249-5e94dc5f3ef9",
+    "duration_ms": 181845,
+    "genre": []
+  },
+  {
+    "last_update": "2025-12-10 20:18:08",
+    "song": {
+      "musicAuthor": "Banket / Richard Muller Ft. Dara Rolins",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485120bb957c99bf715a537d3a66",
+      "musicTitle": "24/7",
+      "radio": "Fun Rádio",
+      "startTime": "21:17"
+    },
+    "recorded_at": "2025-12-10T21:18:08.861926+01:00",
+    "raw_valid": true,
+    "song_session_id": "bfef7216-1873-4a73-b852-bfc0642f075b",
+    "duration_ms": 199080,
+    "genre": []
+  },
+  {
+    "last_update": "2025-12-10 20:21:08",
+    "song": {
+      "musicAuthor": "AMO & Polemic",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048516088d41c5e27c46b19c4bc6c",
+      "musicTitle": "Spolu",
+      "radio": "Fun Rádio",
+      "startTime": "21:21"
+    },
+    "recorded_at": "2025-12-10T21:21:09.049278+01:00",
+    "raw_valid": true,
+    "song_session_id": "2f408768-dd2f-4553-a1b0-ec7f1d57e4de",
+    "duration_ms": 193266,
+    "genre": []
+  },
+  {
+    "last_update": "2025-12-10 20:25:08",
+    "song": {
+      "musicAuthor": "Miro Žbirka",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851e12585b8cecb80f5bf9f5878",
+      "musicTitle": "Vianočná (O Prímerí)",
+      "radio": "Fun Rádio",
+      "startTime": "21:24"
+    },
+    "recorded_at": "2025-12-10T21:25:09.294206+01:00",
+    "raw_valid": true,
+    "song_session_id": "7474672a-2085-45a1-a163-2a683e129b12",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "last_update": "2025-12-10 20:28:08",
+    "song": {
+      "musicAuthor": "Zuzana Smatanová",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851d1d1a340b8cc31084941bf32",
+      "musicTitle": "December",
+      "radio": "Fun Rádio",
+      "startTime": "21:27"
+    },
+    "recorded_at": "2025-12-10T21:28:09.479727+01:00",
+    "raw_valid": true,
+    "song_session_id": "64a9f0fd-07f8-493a-863b-4d1dcde9ab45",
+    "duration_ms": 197124,
+    "genre": []
+  },
+  {
+    "last_update": "2025-12-10 20:31:09",
+    "song": {
+      "musicAuthor": "Adam Ďurica",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048515afdf4a23ac37ca1fa13f8ec",
+      "musicTitle": "Mandolína",
+      "radio": "Fun Rádio",
+      "startTime": "21:30"
+    },
+    "recorded_at": "2025-12-10T21:31:09.672647+01:00",
+    "raw_valid": true,
+    "song_session_id": "78485af4-a215-4fee-b291-0a9ffcd750d9",
+    "duration_ms": 195231,
+    "genre": []
+  },
+  {
+    "last_update": "2025-12-10 20:34:09",
+    "song": {
+      "musicAuthor": "Katarina Knechtova",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851f209a986799ce380a6ea61b8",
+      "musicTitle": "Hladanie",
+      "radio": "Fun Rádio",
+      "startTime": "21:33"
+    },
+    "recorded_at": "2025-12-10T21:34:09.938655+01:00",
+    "raw_valid": true,
+    "song_session_id": "4ea8f13a-a6bd-4264-8aa2-5655257996b1",
+    "duration_ms": 208401,
+    "genre": []
+  },
+  {
+    "last_update": "2025-12-10 20:38:09",
+    "song": {
+      "musicAuthor": "Matej Smutny",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485134f293bc99f3e4f14599d9a7",
+      "musicTitle": "Dance Dance",
+      "radio": "Fun Rádio",
+      "startTime": "21:37"
+    },
+    "recorded_at": "2025-12-10T21:38:10.191986+01:00",
+    "raw_valid": true,
+    "song_session_id": "fca92b5b-570e-42f2-b51f-67a08ef954ba",
+    "duration_ms": 163694,
+    "genre": []
+  },
+  {
+    "last_update": "2025-12-10 20:40:10",
+    "song": {
+      "musicAuthor": "Hex",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048515df0db1126eea99a4e004065",
+      "musicTitle": "Nezaspím",
+      "radio": "Fun Rádio",
+      "startTime": "21:40"
+    },
+    "recorded_at": "2025-12-10T21:40:10.313690+01:00",
+    "raw_valid": true,
+    "song_session_id": "f0c0117b-c21d-4644-99d8-6d1e0f87925b",
+    "duration_ms": 272493,
+    "genre": []
+  },
+  {
+    "last_update": "2025-12-10 20:44:09",
+    "song": {
+      "musicAuthor": "Robert Burian",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485162efa58a172c62e6f9e6cb5c",
+      "musicTitle": "Baby",
+      "radio": "Fun Rádio",
+      "startTime": "21:43"
+    },
+    "recorded_at": "2025-12-10T21:44:10.558639+01:00",
+    "raw_valid": true,
+    "song_session_id": "80f1c7fd-1098-4ad0-827d-793bbb5656f1",
+    "duration_ms": 215214,
+    "genre": []
+  },
+  {
+    "last_update": "2025-12-10 20:48:10",
+    "song": {
+      "musicAuthor": "Desmod",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048519bc8fd337b7db428dfc6f682",
+      "musicTitle": "Vrba",
+      "radio": "Fun Rádio",
+      "startTime": "21:47"
+    },
+    "recorded_at": "2025-12-10T21:48:10.794160+01:00",
+    "raw_valid": true,
+    "song_session_id": "f7ace01d-a0f2-4cec-8289-625d0f9d36ae",
+    "duration_ms": 255234,
+    "genre": []
+  },
+  {
+    "last_update": "2025-12-10 20:52:10",
+    "song": {
+      "musicAuthor": "Adela",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851ec7cd9f0389d915b41e9dec6",
+      "musicTitle": "Machine Girl",
+      "radio": "Fun Rádio",
+      "startTime": "21:51"
+    },
+    "recorded_at": "2025-12-10T21:52:11.075017+01:00",
+    "raw_valid": true,
+    "song_session_id": "f4e10d20-dd6e-453f-8693-d7dd50a8ccce",
+    "duration_ms": 156426,
+    "genre": []
+  },
+  {
+    "last_update": "2025-12-10 20:54:11",
+    "song": {
+      "musicAuthor": "Lukáš Adamec",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485152e47da112f940001006136d",
+      "musicTitle": "Horúca Láska",
+      "radio": "Fun Rádio",
+      "startTime": "21:54"
+    },
+    "recorded_at": "2025-12-10T21:54:11.203778+01:00",
+    "raw_valid": true,
+    "song_session_id": "2b3fa910-2259-43f0-9719-495fe4c0cfff",
+    "duration_ms": 208147,
+    "genre": []
+  },
+  {
+    "last_update": "2025-12-10 20:58:10",
+    "song": {
+      "musicAuthor": "Para",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851ddae98c15583b210d7db7a93",
+      "musicTitle": "Otec",
+      "radio": "Fun Rádio",
+      "startTime": "21:57"
+    },
+    "recorded_at": "2025-12-10T21:58:11.537791+01:00",
+    "raw_valid": true,
+    "song_session_id": "1f9edf17-c44f-4de0-8dfb-d9332076d801",
+    "duration_ms": 235280,
+    "genre": []
+  },
+  {
+    "last_update": "2025-12-10 21:02:11",
+    "song": {
+      "musicAuthor": "Bystrik",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048516693ee7238ef97920ba541df",
+      "musicTitle": "Spievaj So Mnou",
+      "radio": "Fun Rádio",
+      "startTime": "22:01"
+    },
+    "recorded_at": "2025-12-10T22:02:11.876133+01:00",
+    "raw_valid": true,
+    "song_session_id": "4226dc00-48db-43ff-84a1-af90f4aeac3c",
+    "duration_ms": 203866,
+    "genre": []
+  },
+  {
+    "last_update": "2025-12-10 21:05:12",
+    "song": {
+      "musicAuthor": "Alan Murin",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048513b4842e37a0d48808b868b1b",
+      "musicTitle": "Domov",
+      "radio": "Fun Rádio",
+      "startTime": "22:04"
+    },
+    "recorded_at": "2025-12-10T22:05:12.079791+01:00",
+    "raw_valid": true,
+    "song_session_id": "dad51345-91b5-45bb-b40d-4502a5341138",
+    "duration_ms": 240000,
+    "genre": []
+  },
+  {
+    "last_update": "2025-12-10 21:09:11",
+    "song": {
+      "musicAuthor": "Kali",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048518592cb43a471fca984303224",
+      "musicTitle": "Dosnívané",
+      "radio": "Fun Rádio",
+      "startTime": "22:08"
+    },
+    "recorded_at": "2025-12-10T22:09:12.558530+01:00",
+    "raw_valid": true,
+    "song_session_id": "7d2d96c6-0eb2-4205-aedf-3a7fb5615b3e",
+    "duration_ms": 208073,
+    "genre": []
+  },
+  {
+    "last_update": "2025-12-10 21:12:12",
+    "song": {
+      "musicAuthor": "Celeste Buckingham",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048513225527822504dd9a571412c",
+      "musicTitle": "What Do I Do Now",
+      "radio": "Fun Rádio",
+      "startTime": "22:11"
+    },
+    "recorded_at": "2025-12-10T22:12:12.744776+01:00",
+    "raw_valid": true,
+    "song_session_id": "9aa9ed27-f668-433c-8950-1700dcf1cdbc",
+    "duration_ms": 222000,
+    "genre": []
+  },
+  {
+    "last_update": "2025-12-10 21:16:13",
+    "song": {
+      "musicAuthor": "Emma Drobná",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048510c46a5ffd53b69f1abfca6d1",
+      "musicTitle": "Try",
+      "radio": "Fun Rádio",
+      "startTime": "22:15"
+    },
+    "recorded_at": "2025-12-10T22:16:13.076762+01:00",
+    "raw_valid": true,
+    "song_session_id": "304304db-36ad-40dd-8307-9f7331dbaac6",
+    "duration_ms": 260559,
+    "genre": []
+  },
+  {
+    "last_update": "2025-12-10 21:19:13",
+    "song": {
+      "musicAuthor": "Cmorik Peter Band",
+      "musicCover": "https://static.radia.sk/covers/32/f5b9052e-afb8-4e83-9f6a-bfa147673e30.jpg",
+      "musicTitle": "Jedno Si Želám",
+      "radio": "Fun Rádio",
+      "startTime": "22:19"
+    },
+    "recorded_at": "2025-12-10T22:19:13.438506+01:00",
+    "raw_valid": true,
+    "song_session_id": "1072d359-a401-48f8-8b13-51d4001ae764",
+    "duration_ms": 233293,
+    "genre": []
+  },
+  {
+    "last_update": "2025-12-10 21:23:13",
+    "song": {
+      "musicAuthor": "Čírová Mária",
+      "musicCover": "https://static.radia.sk/covers/32/f700baa9-d6b1-47ce-b189-2807e0a9de6f.jpg",
+      "musicTitle": "Búrka",
+      "radio": "Fun Rádio",
+      "startTime": "22:22"
+    },
+    "recorded_at": "2025-12-10T22:23:13.740089+01:00",
+    "raw_valid": true,
+    "song_session_id": "fc6c7ddf-ed70-4a28-9a42-11adceb39376",
+    "duration_ms": 245680,
+    "genre": []
+  },
+  {
+    "last_update": "2025-12-10 21:28:13",
+    "song": {
+      "musicAuthor": "Fun Radio Band",
+      "musicCover": "/layout/covers/default.webp",
+      "musicTitle": "Vianočný Čas",
+      "radio": "Fun Rádio",
+      "startTime": "22:27"
+    },
+    "recorded_at": "2025-12-10T22:28:14.014933+01:00",
+    "raw_valid": true,
+    "song_session_id": "f73b90fb-52d6-40f9-9288-d25304e49ae9",
+    "duration_ms": 244533,
+    "genre": []
+  },
+  {
+    "last_update": "2025-12-10 21:32:14",
+    "song": {
+      "musicAuthor": "Zuzana Smatanova",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851fefe1a1ecc5375ca2590c771",
+      "musicTitle": "Gravitacia",
+      "radio": "Fun Rádio",
+      "startTime": "22:31"
+    },
+    "recorded_at": "2025-12-10T22:32:14.254308+01:00",
+    "raw_valid": true,
+    "song_session_id": "5e4ab279-dddd-42f6-abcc-55871551d21a",
+    "duration_ms": 196217,
+    "genre": []
+  },
+  {
+    "last_update": "2025-12-10 21:35:14",
+    "song": {
+      "musicAuthor": "Richard Müller, Banket, Tina",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048513967d2f4422051622557f1b6",
+      "musicTitle": "Bla Bla Bla",
+      "radio": "Fun Rádio",
+      "startTime": "22:34"
+    },
+    "recorded_at": "2025-12-10T22:35:14.542162+01:00",
+    "raw_valid": true,
+    "song_session_id": "ea90da34-8a3a-4ba8-91a9-054133ec1147",
+    "duration_ms": 198773,
+    "genre": []
+  },
+  {
+    "last_update": "2025-12-10 21:38:13",
+    "song": {
+      "musicAuthor": "Adam Ďurica",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851bacc80464e4d8541178dbabe",
+      "musicTitle": "Jazero",
+      "radio": "Fun Rádio",
+      "startTime": "22:37"
+    },
+    "recorded_at": "2025-12-10T22:38:14.819331+01:00",
+    "raw_valid": true,
+    "song_session_id": "21b97331-ddf6-4f63-8dfa-605316e3c9f7",
+    "duration_ms": 213466,
+    "genre": []
+  },
+  {
+    "last_update": "2025-12-10 21:42:14",
+    "song": {
+      "musicAuthor": "Mark Dann (Ft. Dani Slovak)",
+      "musicCover": "https://e-cdns-images.dzcdn.net/images/artist/4a3af9af68814fe5dfe6e26c46ba062b/64x64-000000-80-0-0.jpg",
+      "musicTitle": "Freedom",
+      "radio": "Fun Rádio",
+      "startTime": "22:41"
+    },
+    "recorded_at": "2025-12-10T22:42:15.059001+01:00",
+    "raw_valid": true,
+    "song_session_id": "3dc25f8a-71db-4147-a245-516a75705d12",
+    "duration_ms": 209400,
+    "genre": []
+  },
+  {
+    "last_update": "2025-12-10 21:45:15",
+    "song": {
+      "musicAuthor": "Katarína Knechtová",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048513b8d7c7f9aaf676baa4844ca",
+      "musicTitle": "Oni",
+      "radio": "Fun Rádio",
+      "startTime": "22:44"
+    },
+    "recorded_at": "2025-12-10T22:45:15.243856+01:00",
+    "raw_valid": true,
+    "song_session_id": "754e7cee-d0e6-44c3-8232-48752f9c2eb2",
+    "duration_ms": 203173,
+    "genre": []
+  },
+  {
+    "last_update": "2025-12-10 21:48:14",
+    "song": {
+      "musicAuthor": "Hex",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485197788f6942989d8959889c9b",
+      "musicTitle": "Pomaranče z Kuby",
+      "radio": "Fun Rádio",
+      "startTime": "22:48"
+    },
+    "recorded_at": "2025-12-10T22:48:15.506005+01:00",
+    "raw_valid": true,
+    "song_session_id": "38fc2a6b-5455-4dc1-9692-fba8ad5ea9a9",
+    "duration_ms": 260316,
+    "genre": []
+  },
+  {
+    "last_update": "2025-12-10 21:53:15",
+    "song": {
+      "musicAuthor": "Gladiator",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485188eed54314a8762fc38c3b73",
+      "musicTitle": "Sám S Ňou",
+      "radio": "Fun Rádio",
+      "startTime": "22:52"
+    },
+    "recorded_at": "2025-12-10T22:53:15.970277+01:00",
+    "raw_valid": true,
+    "song_session_id": "7ee9ab6c-b69c-425d-bc78-3f13d80b6498",
+    "duration_ms": 254253,
+    "genre": []
+  }
+]

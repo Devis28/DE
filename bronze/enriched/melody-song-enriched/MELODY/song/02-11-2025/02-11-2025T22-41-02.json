@@ -1,0 +1,41 @@
+[
+  {
+    "station": "Rádio Melody",
+    "title": "Shut Up (And Sleep With Me)",
+    "artist": "Sin With Sebastian",
+    "date": "02.11.2025",
+    "time": "22:34",
+    "last_update": "02.11.2025 22:35:17",
+    "recorded_at": "02.11.2025 22:35:17",
+    "raw_valid": true,
+    "song_session_id": "4d566981-bdad-4d8a-bc2a-e65d7da67cc5",
+    "duration_ms": 226666,
+    "genre": [
+      "eurodance"
+    ]
+  },
+  {
+    "station": null,
+    "title": null,
+    "artist": null,
+    "date": null,
+    "time": null,
+    "last_update": null,
+    "recorded_at": "02.11.2025 22:38:32",
+    "raw_valid": false,
+    "song_session_id": "65ddb0d6-074d-4e2a-93dd-208edda9b365"
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Já Půjdu Tam A Ty Tam",
+    "artist": "Vondrackova Helena + Korn Jiri",
+    "date": "02.11.2025",
+    "time": "22:37",
+    "last_update": "02.11.2025 22:39:14",
+    "recorded_at": "02.11.2025 22:39:14",
+    "raw_valid": true,
+    "song_session_id": "99c2fd17-825b-4f02-af80-e429673b3e54",
+    "duration_ms": 180733,
+    "genre": []
+  }
+]

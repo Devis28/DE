@@ -1,0 +1,423 @@
+[
+  {
+    "last_update": "2025-11-06 13:03:15",
+    "song": {
+      "musicAuthor": "Shaboozey",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851c97e11e794ddcd2c353ea390",
+      "musicTitle": "Good News",
+      "radio": "Fun Rádio",
+      "startTime": "14:03"
+    },
+    "recorded_at": "2025-11-06T14:03:15.566695+01:00",
+    "raw_valid": true,
+    "song_session_id": "c7f0a2ca-a2ca-47be-b12c-b51fb406dc70",
+    "duration_ms": 199209,
+    "genre": []
+  },
+  {
+    "last_update": "2025-11-06 13:07:15",
+    "song": {
+      "musicAuthor": "Dua Lipa",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851ee2b330471d2bdd56ff22ccd",
+      "musicTitle": "Training Season",
+      "radio": "Fun Rádio",
+      "startTime": "14:06"
+    },
+    "recorded_at": "2025-11-06T14:07:15.839437+01:00",
+    "raw_valid": true,
+    "song_session_id": "e54276eb-aee8-44b0-9370-8ffb494eb098",
+    "duration_ms": 209487,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "last_update": "2025-11-06 13:10:15",
+    "song": {
+      "musicAuthor": "Flo Rida Feat Kesha",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851f9ca1ac1fea0c8c7220e4210",
+      "musicTitle": "Right Round",
+      "radio": "Fun Rádio",
+      "startTime": "14:09"
+    },
+    "recorded_at": "2025-11-06T14:10:16.026015+01:00",
+    "raw_valid": true,
+    "song_session_id": "9d9b78bd-fd7d-4956-8f11-27f21e417701",
+    "duration_ms": 202680,
+    "genre": [
+      "hip hop"
+    ]
+  },
+  {
+    "last_update": "2025-11-06 13:14:15",
+    "song": {
+      "musicAuthor": "Alex Warren",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851be63b155e4b40ff3017f8ac4",
+      "musicTitle": "Ordinary",
+      "radio": "Fun Rádio",
+      "startTime": "14:14"
+    },
+    "recorded_at": "2025-11-06T14:14:16.305298+01:00",
+    "raw_valid": true,
+    "song_session_id": "3b9b1c1a-cb66-4630-b88d-2f820b57b057",
+    "duration_ms": 186964,
+    "genre": [
+      "folk"
+    ]
+  },
+  {
+    "last_update": "2025-11-06 13:19:15",
+    "song": {
+      "musicAuthor": "Lina Mayer",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485115462596c2c3bc7b97c70bc5",
+      "musicTitle": "Personal Sky",
+      "radio": "Fun Rádio",
+      "startTime": "14:19"
+    },
+    "recorded_at": "2025-11-06T14:19:16.629017+01:00",
+    "raw_valid": true,
+    "song_session_id": "17fbcb9b-df1b-4da2-8090-92bee8e0b040",
+    "duration_ms": 200043,
+    "genre": []
+  },
+  {
+    "last_update": "2025-11-06 13:23:16",
+    "song": {
+      "musicAuthor": "Sombr",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851dad39d4906f76b7c176effb1",
+      "musicTitle": "Undressed",
+      "radio": "Fun Rádio",
+      "startTime": "14:22"
+    },
+    "recorded_at": "2025-11-06T14:23:16.869717+01:00",
+    "raw_valid": true,
+    "song_session_id": "78e7ab91-61f3-4845-8d88-36e4baf7c05e",
+    "duration_ms": 182088,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "last_update": "2025-11-06 13:26:16",
+    "song": {
+      "musicAuthor": "Vize Feat. Laniia",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851e5b0167fc365c869728c66d9",
+      "musicTitle": "Stars",
+      "radio": "Fun Rádio",
+      "startTime": "14:25"
+    },
+    "recorded_at": "2025-11-06T14:26:17.064186+01:00",
+    "raw_valid": true,
+    "song_session_id": "7b9211cd-256f-4c02-bf1e-daa2c049058b",
+    "duration_ms": 165469,
+    "genre": []
+  },
+  {
+    "last_update": "2025-11-06 13:33:17",
+    "song": {
+      "musicAuthor": "Thirty Seconds To Mars",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485115b457f55b82d7eef9e8b715",
+      "musicTitle": "Seasons",
+      "radio": "Fun Rádio",
+      "startTime": "14:32"
+    },
+    "recorded_at": "2025-11-06T14:33:17.495881+01:00",
+    "raw_valid": true,
+    "song_session_id": "7235e2a9-d117-46c3-9488-97dbf528aae1",
+    "duration_ms": 166148,
+    "genre": []
+  },
+  {
+    "last_update": "2025-11-06 13:36:17",
+    "song": {
+      "musicAuthor": "Rudimental, Khalid",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851b49c06ad21eb3676299728b6",
+      "musicTitle": "All I Know",
+      "radio": "Fun Rádio",
+      "startTime": "14:35"
+    },
+    "recorded_at": "2025-11-06T14:36:17.733817+01:00",
+    "raw_valid": true,
+    "song_session_id": "6e187c00-5087-4c99-bbf0-73fffa2bf5c1",
+    "duration_ms": 176046,
+    "genre": []
+  },
+  {
+    "last_update": "2025-11-06 13:39:17",
+    "song": {
+      "musicAuthor": "Imagine Dragons",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485125e1a02097987b3480c7a8c5",
+      "musicTitle": "Follow You",
+      "radio": "Fun Rádio",
+      "startTime": "14:38"
+    },
+    "recorded_at": "2025-11-06T14:39:17.997387+01:00",
+    "raw_valid": true,
+    "song_session_id": "0da50d33-ff11-4f36-bdd6-effad3764468",
+    "duration_ms": 175643,
+    "genre": []
+  },
+  {
+    "last_update": "2025-11-06 13:44:17",
+    "song": {
+      "musicAuthor": "Huntrix Featuring Ejae & Audrey Nuna",
+      "musicCover": "https://i.scdn.co/image/ab6742d3000052b717f3963ae4a9f5422763140e",
+      "musicTitle": "Golden",
+      "radio": "Fun Rádio",
+      "startTime": "14:43"
+    },
+    "recorded_at": "2025-11-06T14:44:18.289153+01:00",
+    "raw_valid": true,
+    "song_session_id": "c98144c2-640d-4b1b-9c61-7d6f9bfb6f49",
+    "duration_ms": 194608,
+    "genre": []
+  },
+  {
+    "last_update": "2025-11-06 13:48:17",
+    "song": {
+      "musicAuthor": "Mika",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048513408a925e0bcb7940f864a0e",
+      "musicTitle": "Relax (Take It Easy)",
+      "radio": "Fun Rádio",
+      "startTime": "14:47"
+    },
+    "recorded_at": "2025-11-06T14:48:18.521360+01:00",
+    "raw_valid": true,
+    "song_session_id": "8ba55660-c799-4f70-b483-c498074e8e5a",
+    "duration_ms": 270000,
+    "genre": []
+  },
+  {
+    "last_update": "2025-11-06 13:51:18",
+    "song": {
+      "musicAuthor": "Jonas Brothers",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048517dbf3e9badd50f3f8886d161",
+      "musicTitle": "No Time To Talk",
+      "radio": "Fun Rádio",
+      "startTime": "14:51"
+    },
+    "recorded_at": "2025-11-06T14:51:18.739828+01:00",
+    "raw_valid": true,
+    "song_session_id": "c86873cf-95a5-4c1d-ad25-a38ac2015502",
+    "duration_ms": 155053,
+    "genre": []
+  },
+  {
+    "last_update": "2025-11-06 13:54:17",
+    "song": {
+      "musicAuthor": "Lady Gaga & Bruno Mars",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485182ea2e9e1858aa012c57cd45",
+      "musicTitle": "Die With A Smile",
+      "radio": "Fun Rádio",
+      "startTime": "14:53"
+    },
+    "recorded_at": "2025-11-06T14:54:18.910271+01:00",
+    "raw_valid": true,
+    "song_session_id": "fde05a87-a79a-45f8-bc0c-7656cc12bf46",
+    "duration_ms": 251667,
+    "genre": []
+  },
+  {
+    "last_update": "2025-11-06 14:05:19",
+    "song": {
+      "musicAuthor": "David Guetta, Sia",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048517091ac4e6518b4c612831312",
+      "musicTitle": "Beautiful People",
+      "radio": "Fun Rádio",
+      "startTime": "15:04"
+    },
+    "recorded_at": "2025-11-06T15:05:19.684077+01:00",
+    "raw_valid": true,
+    "song_session_id": "d54708e1-9f49-4f1a-8e4a-3eb17849e46d",
+    "duration_ms": 187086,
+    "genre": []
+  },
+  {
+    "last_update": "2025-11-06 14:08:19",
+    "song": {
+      "musicAuthor": "Ed Sheeran",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048515aac795808fc6b6d229c363b",
+      "musicTitle": "Azizam",
+      "radio": "Fun Rádio",
+      "startTime": "15:07"
+    },
+    "recorded_at": "2025-11-06T15:08:19.866190+01:00",
+    "raw_valid": true,
+    "song_session_id": "f7005803-5110-4f24-8a79-438e1ca04473",
+    "duration_ms": 162029,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "last_update": "2025-11-06 14:11:19",
+    "song": {
+      "musicAuthor": "Tate Mcrae",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851a8c77f8a83844a458d2692e3",
+      "musicTitle": "Tit For Tat",
+      "radio": "Fun Rádio",
+      "startTime": "15:10"
+    },
+    "recorded_at": "2025-11-06T15:11:20.158814+01:00",
+    "raw_valid": true,
+    "song_session_id": "568ac460-dc75-455b-9a99-34a356732611",
+    "duration_ms": 177208,
+    "genre": [
+      "alternative"
+    ]
+  },
+  {
+    "last_update": "2025-11-06 14:14:19",
+    "song": {
+      "musicAuthor": "Michael Patrick Kelly",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048518e343a3bae0daf062bcb5c88",
+      "musicTitle": "The One",
+      "radio": "Fun Rádio",
+      "startTime": "15:13"
+    },
+    "recorded_at": "2025-11-06T15:14:20.347672+01:00",
+    "raw_valid": true,
+    "song_session_id": "fd22bcb5-7b2e-476b-a5ba-312815fff1f6",
+    "duration_ms": 181194,
+    "genre": []
+  },
+  {
+    "last_update": "2025-11-06 14:20:19",
+    "song": {
+      "musicAuthor": "Loreen",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485196663c059e615c7db2ed9bb6",
+      "musicTitle": "Euphoria",
+      "radio": "Fun Rádio",
+      "startTime": "15:19"
+    },
+    "recorded_at": "2025-11-06T15:20:20.691384+01:00",
+    "raw_valid": true,
+    "song_session_id": "2bae92d7-102c-454a-a993-8d7e51622b12",
+    "duration_ms": 214133,
+    "genre": []
+  },
+  {
+    "last_update": "2025-11-06 14:24:20",
+    "song": {
+      "musicAuthor": "Neiked & Portugal. The Man",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851d35db88bdcbf762f317d41da",
+      "musicTitle": "Glide",
+      "radio": "Fun Rádio",
+      "startTime": "15:23"
+    },
+    "recorded_at": "2025-11-06T15:24:20.923415+01:00",
+    "raw_valid": true,
+    "song_session_id": "b3fca5ef-25a3-4fea-af23-72556a7cc336",
+    "duration_ms": 184405,
+    "genre": []
+  },
+  {
+    "last_update": "2025-11-06 14:32:20",
+    "song": {
+      "musicAuthor": "Leony & G-Eazy",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485115565a1966c3bcc6790c2f8d",
+      "musicTitle": "Rock N Roll",
+      "radio": "Fun Rádio",
+      "startTime": "15:31"
+    },
+    "recorded_at": "2025-11-06T15:32:21.429950+01:00",
+    "raw_valid": true,
+    "song_session_id": "f00800ba-1687-4ca5-b975-c664ea6e1c4e",
+    "duration_ms": 158374,
+    "genre": []
+  },
+  {
+    "last_update": "2025-11-06 14:35:21",
+    "song": {
+      "musicAuthor": "Ray Dalton Ft.Alvaro Soler",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851cd1545a36973b635a2178ad3",
+      "musicTitle": "Manila",
+      "radio": "Fun Rádio",
+      "startTime": "15:34"
+    },
+    "recorded_at": "2025-11-06T15:35:21.665670+01:00",
+    "raw_valid": true,
+    "song_session_id": "be7ca7c1-215e-4bdb-a5dd-cd55a5875c9d",
+    "duration_ms": 144621,
+    "genre": []
+  },
+  {
+    "last_update": "2025-11-06 14:37:21",
+    "song": {
+      "musicAuthor": "Ravyn Lenae",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048515511ceaa955a2bfd9ae90c21",
+      "musicTitle": "Love Me Not",
+      "radio": "Fun Rádio",
+      "startTime": "15:36"
+    },
+    "recorded_at": "2025-11-06T15:37:21.804668+01:00",
+    "raw_valid": true,
+    "song_session_id": "8dd9080c-b656-40cd-9d03-653f1d710fb9",
+    "duration_ms": 213466,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "last_update": "2025-11-06 14:42:21",
+    "song": {
+      "musicAuthor": "Nico Santos",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485181d9b007ef32720105876fa5",
+      "musicTitle": "Number 1",
+      "radio": "Fun Rádio",
+      "startTime": "15:41"
+    },
+    "recorded_at": "2025-11-06T15:42:22.137578+01:00",
+    "raw_valid": true,
+    "song_session_id": "ac1581b0-ca70-4afe-ad38-71c40f5db983",
+    "duration_ms": 177209,
+    "genre": []
+  },
+  {
+    "last_update": "2025-11-06 14:45:21",
+    "song": {
+      "musicAuthor": "Martin Garrix & Lauv",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048515c0e5abe73559c2de9d2eee0",
+      "musicTitle": "Mad",
+      "radio": "Fun Rádio",
+      "startTime": "15:44"
+    },
+    "recorded_at": "2025-11-06T15:45:22.318813+01:00",
+    "raw_valid": true,
+    "song_session_id": "bdeaf6b2-e798-4010-940d-fde610e3498d",
+    "duration_ms": 199804,
+    "genre": []
+  },
+  {
+    "last_update": "2025-11-06 14:48:22",
+    "song": {
+      "musicAuthor": "Perry Katy",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851937af329667311f4b2831616",
+      "musicTitle": "Last Friday Night (T.G.I.F.)",
+      "radio": "Fun Rádio",
+      "startTime": "15:47"
+    },
+    "recorded_at": "2025-11-06T15:48:22.495280+01:00",
+    "raw_valid": true,
+    "song_session_id": "6ada1772-7cb6-4bae-9997-c22ebb3ae1bb",
+    "duration_ms": 230733,
+    "genre": []
+  },
+  {
+    "last_update": "2025-11-06 14:54:22",
+    "song": {
+      "musicAuthor": "Linkin Park",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851c0db065619ed208515412917",
+      "musicTitle": "The Emptiness Machine",
+      "radio": "Fun Rádio",
+      "startTime": "15:53"
+    },
+    "recorded_at": "2025-11-06T15:54:22.849147+01:00",
+    "raw_valid": true,
+    "song_session_id": "214ee7cf-aac6-48fe-8bdc-24ab2e7636e0",
+    "duration_ms": 190427,
+    "genre": [
+      "metal"
+    ]
+  }
+]

@@ -1,0 +1,494 @@
+[
+  {
+    "song": "Vianocna Pohoda",
+    "artists": [
+      "Radio Expres",
+      "Sam Sebou",
+      "Kali"
+    ],
+    "isrc": "CZCZ42400089",
+    "start_time": "2025-12-10 20:57:17",
+    "radio": "expres",
+    "recorded_at": "2025-12-10T20:57:41.389558+01:00",
+    "raw_valid": true,
+    "song_session_id": "53578c6f-8b12-4880-8bce-eb614820c753",
+    "duration_ms": 164833,
+    "genre": []
+  },
+  {
+    "song": "The Fate Of Ophelia",
+    "artists": [
+      "Taylor Swift"
+    ],
+    "isrc": "USUG12506436",
+    "start_time": "2025-12-10 21:04:41",
+    "radio": "expres",
+    "recorded_at": "2025-12-10T21:05:08.398763+01:00",
+    "raw_valid": true,
+    "song_session_id": "17197357-b348-4039-99ef-ef85bcedbb12",
+    "duration_ms": 226073,
+    "genre": [
+      "electronic"
+    ]
+  },
+  {
+    "song": "Why Dont You Get A Job?",
+    "artists": [
+      "Offspring"
+    ],
+    "isrc": "USSM19804369",
+    "start_time": "2025-12-10 21:08:32",
+    "radio": "expres",
+    "recorded_at": "2025-12-10T21:08:52.684204+01:00",
+    "raw_valid": true,
+    "song_session_id": "5f3a48ac-e975-48a9-a222-35fb9fd788fd",
+    "duration_ms": 169026,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Stumblin In",
+    "artists": [
+      "Cyril"
+    ],
+    "isrc": "NLZ542301810",
+    "start_time": "2025-12-10 21:11:14",
+    "radio": "expres",
+    "recorded_at": "2025-12-10T21:11:36.105583+01:00",
+    "raw_valid": true,
+    "song_session_id": "46e126cf-dbe0-421c-890e-52cfa4a62641",
+    "duration_ms": 213363,
+    "genre": [
+      "alternative rock"
+    ]
+  },
+  {
+    "song": "Human",
+    "artists": [
+      "Rag N Bone Man"
+    ],
+    "isrc": "GBARL1600665",
+    "start_time": "2025-12-10 21:14:34",
+    "radio": "expres",
+    "recorded_at": "2025-12-10T21:15:00.011083+01:00",
+    "raw_valid": true,
+    "song_session_id": "8ef718a8-31f6-42d5-8aaf-0c2e667866bb",
+    "duration_ms": 199413,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Blood Running",
+    "artists": [
+      "Ray Dalton"
+    ],
+    "isrc": "DEUM72507812",
+    "start_time": "2025-12-10 21:17:47",
+    "radio": "expres",
+    "recorded_at": "2025-12-10T21:18:03.917998+01:00",
+    "raw_valid": true,
+    "song_session_id": "e492aaf8-7ccc-4ecd-9600-67858e3e91d0",
+    "duration_ms": 173146,
+    "genre": []
+  },
+  {
+    "song": "We Are The Champions",
+    "artists": [
+      "Queen"
+    ],
+    "isrc": "GBUM71029619",
+    "start_time": "2025-12-10 21:21:02",
+    "radio": "expres",
+    "recorded_at": "2025-12-10T21:21:28.870988+01:00",
+    "raw_valid": true,
+    "song_session_id": "ba8fe201-969e-4a97-8d93-d8ec2d0712e1",
+    "duration_ms": 179200,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Eyes Closed",
+    "artists": [
+      "Imagine Dragons"
+    ],
+    "isrc": "USUM72402448",
+    "start_time": "2025-12-10 21:24:01",
+    "radio": "expres",
+    "recorded_at": "2025-12-10T21:24:24.653410+01:00",
+    "raw_valid": true,
+    "song_session_id": "cf95d456-f02d-44b3-be5f-3b3381d32b8b",
+    "duration_ms": 200026,
+    "genre": []
+  },
+  {
+    "song": "Driving Home For Christmas",
+    "artists": [
+      "Chris Rea"
+    ],
+    "isrc": "GBAHS9904091",
+    "start_time": "2025-12-10 21:27:22",
+    "radio": "expres",
+    "recorded_at": "2025-12-10T21:27:53.932558+01:00",
+    "raw_valid": true,
+    "song_session_id": "a56fb741-b324-4459-870f-4af3664158c1",
+    "duration_ms": 240213,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "The One",
+    "artists": [
+      "Michael Patrick Kelly"
+    ],
+    "isrc": "DEE862500476",
+    "start_time": "2025-12-10 21:32:01",
+    "radio": "expres",
+    "recorded_at": "2025-12-10T21:32:33.933205+01:00",
+    "raw_valid": true,
+    "song_session_id": "eab46616-0b7a-476c-b5ef-2798047eb3a5",
+    "duration_ms": 181194,
+    "genre": []
+  },
+  {
+    "song": "Nobody To Love",
+    "artists": [
+      "Sigma"
+    ],
+    "isrc": "GBSXS1400074",
+    "start_time": "2025-12-10 21:35:07",
+    "radio": "expres",
+    "recorded_at": "2025-12-10T21:35:37.642597+01:00",
+    "raw_valid": true,
+    "song_session_id": "b7629f3d-ba3b-4a8c-8965-f0b32c4af32a",
+    "duration_ms": 249360,
+    "genre": []
+  },
+  {
+    "song": "November Rain",
+    "artists": [
+      "Guns N' Roses"
+    ],
+    "isrc": "USGF19141510",
+    "start_time": "2025-12-10 21:38:42",
+    "radio": "expres",
+    "recorded_at": "2025-12-10T21:39:01.582847+01:00",
+    "raw_valid": true,
+    "song_session_id": "37a15f3c-b21a-471c-81b9-b5bf8e7e97a9",
+    "duration_ms": 536960,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Save My Love",
+    "artists": [
+      "Marshmello",
+      "Ellie Goulding",
+      "Avaion"
+    ],
+    "isrc": "USUG12504310",
+    "start_time": "2025-12-10 21:44:08",
+    "radio": "expres",
+    "recorded_at": "2025-12-10T21:44:27.083525+01:00",
+    "raw_valid": true,
+    "song_session_id": "1100a2a2-c3f2-4387-8f4a-cabecff40b44",
+    "duration_ms": 215555,
+    "genre": []
+  },
+  {
+    "song": "Vo Vlnach",
+    "artists": [
+      "Emma Drobna"
+    ],
+    "isrc": "CZA232500001",
+    "start_time": "2025-12-10 21:47:42",
+    "radio": "expres",
+    "recorded_at": "2025-12-10T21:48:11.308641+01:00",
+    "raw_valid": true,
+    "song_session_id": "d3a18089-c813-4af7-b505-3a157d783f2e",
+    "duration_ms": 186891,
+    "genre": []
+  },
+  {
+    "song": "Dive",
+    "artists": [
+      "Lost Frequencies",
+      "Tom Gregory"
+    ],
+    "isrc": "BEHP42300028",
+    "start_time": "2025-12-10 21:50:56",
+    "radio": "expres",
+    "recorded_at": "2025-12-10T21:51:14.955960+01:00",
+    "raw_valid": true,
+    "song_session_id": "6e9850e3-6c6b-4987-a73d-adeaf5131067",
+    "duration_ms": 161093,
+    "genre": []
+  },
+  {
+    "song": "Half Of My Heart",
+    "artists": [
+      "Michael Schulte",
+      "Asdis"
+    ],
+    "isrc": "DEUM72507546",
+    "start_time": "2025-12-10 21:53:32",
+    "radio": "expres",
+    "recorded_at": "2025-12-10T21:53:53.300049+01:00",
+    "raw_valid": true,
+    "song_session_id": "97e2ecbb-6b4e-4502-bc4a-08e436f173f7",
+    "duration_ms": 158320,
+    "genre": []
+  },
+  {
+    "song": "Wonderful Dream (Holidays Are Coming)",
+    "artists": [
+      "Melanie Thornton"
+    ],
+    "isrc": "DEE860100979",
+    "start_time": "2025-12-10 21:56:29",
+    "radio": "expres",
+    "recorded_at": "2025-12-10T21:56:55.786366+01:00",
+    "raw_valid": true,
+    "song_session_id": "8a448935-84b1-4a8d-a4c0-ad7cd4957989",
+    "duration_ms": 230733,
+    "genre": []
+  },
+  {
+    "song": "Sorry Im Here For Someone Else",
+    "artists": [
+      "Benson Boone"
+    ],
+    "isrc": "USWB12500464",
+    "start_time": "2025-12-10 22:05:01",
+    "radio": "expres",
+    "recorded_at": "2025-12-10T22:05:23.724028+01:00",
+    "raw_valid": true,
+    "song_session_id": "c1d80237-58e7-49a6-a916-c56b4379ec0c",
+    "duration_ms": 156582,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Where Is The Love?",
+    "artists": [
+      "Black Eyed Peas",
+      "Justin Timberlake"
+    ],
+    "isrc": "USIR10311862",
+    "start_time": "2025-12-10 22:07:42",
+    "radio": "expres",
+    "recorded_at": "2025-12-10T22:08:05.734342+01:00",
+    "raw_valid": true,
+    "song_session_id": "13011344-aca1-484f-b3cc-a5029c3f632e",
+    "duration_ms": 273813,
+    "genre": []
+  },
+  {
+    "song": "Wonderful Life 25",
+    "artists": [
+      "Hurts",
+      "Purple Disco Machine"
+    ],
+    "isrc": "DEE862500677",
+    "start_time": "2025-12-10 22:11:26",
+    "radio": "expres",
+    "recorded_at": "2025-12-10T22:11:50.155868+01:00",
+    "raw_valid": true,
+    "song_session_id": "effa8140-1a8c-4ddc-a4ed-c6f1c75d5e15",
+    "duration_ms": 178658,
+    "genre": []
+  },
+  {
+    "song": "Without You",
+    "artists": [
+      "Avicii",
+      "Sandro Cavazza"
+    ],
+    "isrc": "SE5R71700101",
+    "start_time": "2025-12-10 22:14:21",
+    "radio": "expres",
+    "recorded_at": "2025-12-10T22:14:33.741405+01:00",
+    "raw_valid": true,
+    "song_session_id": "a2de8c1a-63ed-4d6d-8a5c-f14bbea70217",
+    "duration_ms": 181672,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Home",
+    "artists": [
+      "Glockenbach",
+      "Tom Walker"
+    ],
+    "isrc": "DECE72502186",
+    "start_time": "2025-12-10 22:17:13",
+    "radio": "expres",
+    "recorded_at": "2025-12-10T22:17:37.502437+01:00",
+    "raw_valid": true,
+    "song_session_id": "428ec8fc-0d51-4e3f-ba9e-02d3f72a356a",
+    "duration_ms": 196985,
+    "genre": []
+  },
+  {
+    "song": "Another Brick In The Wall (Part 2)",
+    "artists": [
+      "Pink Floyd"
+    ],
+    "isrc": "GBN9Y1100099",
+    "start_time": "2025-12-10 22:20:48",
+    "radio": "expres",
+    "recorded_at": "2025-12-10T22:21:01.639439+01:00",
+    "raw_valid": true,
+    "song_session_id": "ede12f96-4586-497f-b7d6-ae26dda4f290",
+    "duration_ms": 228586,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Abracadabra",
+    "artists": [
+      "Lady Gaga"
+    ],
+    "isrc": "USUM72412581",
+    "start_time": "2025-12-10 22:24:26",
+    "radio": "expres",
+    "recorded_at": "2025-12-10T22:24:46.981371+01:00",
+    "raw_valid": true,
+    "song_session_id": "bfd0eb22-a346-43ec-98ae-ddea4a2f0858",
+    "duration_ms": 223398,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Na Vianoce",
+    "artists": [
+      "Adam Durica"
+    ],
+    "isrc": "SKA011700088",
+    "start_time": "2025-12-10 22:28:13",
+    "radio": "expres",
+    "recorded_at": "2025-12-10T22:28:28.237025+01:00",
+    "raw_valid": true,
+    "song_session_id": "98a0859a-21bc-42c2-8226-b83027383db1",
+    "duration_ms": 223319,
+    "genre": []
+  },
+  {
+    "song": "Blink Twice",
+    "artists": [
+      "Shaboozey",
+      "Myles Smith"
+    ],
+    "isrc": "USUYG1717098",
+    "start_time": "2025-12-10 22:33:08",
+    "radio": "expres",
+    "recorded_at": "2025-12-10T22:33:31.181534+01:00",
+    "raw_valid": true,
+    "song_session_id": "a3902d51-e93a-41ca-962d-dc45256aa31a",
+    "duration_ms": 156721,
+    "genre": []
+  },
+  {
+    "song": "Prutikar",
+    "artists": [
+      "Zuzana Smatanova",
+      "Richard Autner"
+    ],
+    "isrc": "SKI942400801",
+    "start_time": "2025-12-10 22:35:50",
+    "radio": "expres",
+    "recorded_at": "2025-12-10T22:36:18.638828+01:00",
+    "raw_valid": true,
+    "song_session_id": "71ab9d96-62bc-403e-b295-ced06ed43d1c",
+    "duration_ms": 244946,
+    "genre": []
+  },
+  {
+    "song": "One Of Us",
+    "artists": [
+      "Joan Osborne"
+    ],
+    "isrc": "USPR39500200",
+    "start_time": "2025-12-10 22:39:45",
+    "radio": "expres",
+    "recorded_at": "2025-12-10T22:40:01.711082+01:00",
+    "raw_valid": true,
+    "song_session_id": "05b5da9f-381f-42c4-873d-3b944c14ce46",
+    "duration_ms": 320306,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Head Above Water",
+    "artists": [
+      "Twocolors",
+      "Safri Duo",
+      "Chris De Sarandy"
+    ],
+    "isrc": "DEUM72503698",
+    "start_time": "2025-12-10 22:44:07",
+    "radio": "expres",
+    "recorded_at": "2025-12-10T22:44:26.413439+01:00",
+    "raw_valid": true,
+    "song_session_id": "dbba6015-9302-4107-b43c-a8e42ec9fd5e",
+    "duration_ms": 174550,
+    "genre": []
+  },
+  {
+    "song": "Hallelujah",
+    "artists": [
+      "Alexandra Burke"
+    ],
+    "isrc": "GBHMU0800141",
+    "start_time": "2025-12-10 22:47:01",
+    "radio": "expres",
+    "recorded_at": "2025-12-10T22:47:30.092844+01:00",
+    "raw_valid": true,
+    "song_session_id": "486427b3-aaec-4f50-a8fe-fb0b1f5bae74",
+    "duration_ms": 216906,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "The Sound Of Silence",
+    "artists": [
+      "Disturbed"
+    ],
+    "isrc": "USRE12400063",
+    "start_time": "2025-12-10 22:50:37",
+    "radio": "expres",
+    "recorded_at": "2025-12-10T22:50:53.995312+01:00",
+    "raw_valid": true,
+    "song_session_id": "51f6ea60-4f7b-4bfd-9c1d-54a48d0ff191",
+    "duration_ms": 185238,
+    "genre": []
+  },
+  {
+    "song": "Gone Gone Gone",
+    "artists": [
+      "David Guetta",
+      "Teddy Swims",
+      "Tones And I"
+    ],
+    "isrc": "UKWLG2500132",
+    "start_time": "2025-12-10 22:53:33",
+    "radio": "expres",
+    "recorded_at": "2025-12-10T22:53:57.451192+01:00",
+    "raw_valid": true,
+    "song_session_id": "5ec24c5b-a7ca-4f77-9736-9b2e39acea59",
+    "duration_ms": 198004,
+    "genre": [
+      "soul"
+    ]
+  }
+]

@@ -1,0 +1,412 @@
+[
+  {
+    "station": "Rádio Melody",
+    "title": "The Neverending Story",
+    "artist": "Limahl",
+    "date": "07.11.2025",
+    "time": "04:03",
+    "last_update": "07.11.2025 04:05:11",
+    "recorded_at": "2025-11-07T04:05:11.781166+01:00",
+    "raw_valid": true,
+    "song_session_id": "5e585a52-2b51-4389-93cb-c1e857a3eda1",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Black Velvet",
+    "artist": "Myles Alannah",
+    "date": "07.11.2025",
+    "time": "04:07",
+    "last_update": "07.11.2025 04:07:21",
+    "recorded_at": "2025-11-07T04:07:21.380412+01:00",
+    "raw_valid": true,
+    "song_session_id": "c36b534b-196c-4425-91c7-8c74fa98b6d8",
+    "duration_ms": 287440,
+    "genre": []
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Tak Si So Mnou Opakuj",
+    "artist": "Gombitová Marika",
+    "date": "07.11.2025",
+    "time": "04:12",
+    "last_update": "07.11.2025 04:13:30",
+    "recorded_at": "2025-11-07T04:13:30.594257+01:00",
+    "raw_valid": true,
+    "song_session_id": "3acce6a8-8ad8-4c62-9df2-646915c2db9f",
+    "duration_ms": 209800,
+    "genre": []
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Anjelik Môj",
+    "artist": "Darina Rolincová",
+    "date": "07.11.2025",
+    "time": "04:16",
+    "last_update": "07.11.2025 04:16:06",
+    "recorded_at": "2025-11-07T04:16:06.815660+01:00",
+    "raw_valid": true,
+    "song_session_id": "6e97e832-f61d-482f-8e9e-d4a1f77e68aa",
+    "duration_ms": 218600,
+    "genre": [
+      "schlager"
+    ]
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Don't Play Your Rock 'n' Roll To Me",
+    "artist": "Smokie",
+    "date": "07.11.2025",
+    "time": "04:19",
+    "last_update": "07.11.2025 04:20:09",
+    "recorded_at": "2025-11-07T04:20:09.135209+01:00",
+    "raw_valid": true,
+    "song_session_id": "c405ee56-9bea-4b25-a28c-d9e917bcfff2",
+    "duration_ms": 198426,
+    "genre": [
+      "glam rock"
+    ]
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Ako Vánok",
+    "artist": "Müller Richard",
+    "date": "07.11.2025",
+    "time": "04:23",
+    "last_update": "07.11.2025 04:23:10",
+    "recorded_at": "2025-11-07T04:23:10.903421+01:00",
+    "raw_valid": true,
+    "song_session_id": "60deb60a-53ea-4bad-b584-80e6f803ec00",
+    "duration_ms": 189106,
+    "genre": []
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "You Came",
+    "artist": "Wilde Kim",
+    "date": "07.11.2025",
+    "time": "04:25",
+    "last_update": "07.11.2025 04:26:22",
+    "recorded_at": "2025-11-07T04:26:22.934610+01:00",
+    "raw_valid": true,
+    "song_session_id": "9a7ea2ce-b2f2-4240-9b9f-7ae91dc9af91",
+    "duration_ms": 273773,
+    "genre": []
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Horou",
+    "artist": "Zuzana Smatanová",
+    "date": "07.11.2025",
+    "time": "04:29",
+    "last_update": "07.11.2025 04:29:32",
+    "recorded_at": "2025-11-07T04:29:32.915787+01:00",
+    "raw_valid": true,
+    "song_session_id": "4247f131-c87e-4ee4-8253-a98691b9a5b3",
+    "duration_ms": 250578,
+    "genre": []
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Kým Ťa Mám",
+    "artist": "Grigorov Robo",
+    "date": "07.11.2025",
+    "time": "04:33",
+    "last_update": "07.11.2025 04:33:10",
+    "recorded_at": "2025-11-07T04:33:10.156317+01:00",
+    "raw_valid": true,
+    "song_session_id": "5d1cd777-494a-48e6-a50c-8ad7f6cd4058",
+    "duration_ms": 261106,
+    "genre": []
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Karma Chameleon",
+    "artist": "Culture Club",
+    "date": "07.11.2025",
+    "time": "04:37",
+    "last_update": "07.11.2025 04:38:18",
+    "recorded_at": "2025-11-07T04:38:18.780889+01:00",
+    "raw_valid": true,
+    "song_session_id": "24fd7181-5cb4-4495-82fa-a8d7ad9d30b6",
+    "duration_ms": 252773,
+    "genre": []
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Anjel",
+    "artist": "Karmen Pál-Baláž",
+    "date": "07.11.2025",
+    "time": "04:41",
+    "last_update": "07.11.2025 04:42:26",
+    "recorded_at": "2025-11-07T04:42:26.128769+01:00",
+    "raw_valid": true,
+    "song_session_id": "035a0475-69d1-46ff-9473-2aa8de19a456",
+    "duration_ms": 254270,
+    "genre": []
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Always",
+    "artist": "Bon Jovi",
+    "date": "07.11.2025",
+    "time": "04:45",
+    "last_update": "07.11.2025 04:46:34",
+    "recorded_at": "2025-11-07T04:46:34.356502+01:00",
+    "raw_valid": true,
+    "song_session_id": "3a8e1a4f-7c06-4912-a45d-f2ae5d5c78c0",
+    "duration_ms": 353026,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Zažni",
+    "artist": "Miro Žbirka",
+    "date": "07.11.2025",
+    "time": "04:51",
+    "last_update": "07.11.2025 04:52:12",
+    "recorded_at": "2025-11-07T04:52:12.180366+01:00",
+    "raw_valid": true,
+    "song_session_id": "e97bbae8-f199-4982-ad1c-7470772076be",
+    "duration_ms": 209906,
+    "genre": []
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Je To Vo Hviezdach",
+    "artist": "Pavol Habera",
+    "date": "07.11.2025",
+    "time": "04:54",
+    "last_update": "07.11.2025 04:55:51",
+    "recorded_at": "2025-11-07T04:55:51.228087+01:00",
+    "raw_valid": true,
+    "song_session_id": "78b20f97-501e-42a8-ae50-3620d6f3c0bb",
+    "duration_ms": 198533,
+    "genre": []
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Piccolo Amore",
+    "artist": "Ricchi E Poveri",
+    "date": "07.11.2025",
+    "time": "04:58",
+    "last_update": "07.11.2025 04:59:35",
+    "recorded_at": "2025-11-07T04:59:35.180827+01:00",
+    "raw_valid": true,
+    "song_session_id": "b2b293ae-8297-4c54-8878-8bf6ad2eaf45",
+    "duration_ms": 199813,
+    "genre": [
+      "italo dance"
+    ]
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Naoko Spím",
+    "artist": "Peha",
+    "date": "07.11.2025",
+    "time": "05:01",
+    "last_update": "07.11.2025 05:02:11",
+    "recorded_at": "2025-11-07T05:02:11.317887+01:00",
+    "raw_valid": true,
+    "song_session_id": "e94c8d5f-06bd-46e3-840d-03299ae19a68",
+    "duration_ms": 206000,
+    "genre": []
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Korálky Od Natálky",
+    "artist": "Peter Nagy",
+    "date": "07.11.2025",
+    "time": "05:04",
+    "last_update": "07.11.2025 05:05:17",
+    "recorded_at": "2025-11-07T05:05:17.617815+01:00",
+    "raw_valid": true,
+    "song_session_id": "adb40cf8-9cd1-4d0e-8b67-03f5e981f293",
+    "duration_ms": 196626,
+    "genre": []
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Sweat (A La La La Long)",
+    "artist": "Inner Circle",
+    "date": "07.11.2025",
+    "time": "05:08",
+    "last_update": "07.11.2025 05:10:03",
+    "recorded_at": "2025-11-07T05:10:03.142704+01:00",
+    "raw_valid": true,
+    "song_session_id": "9b9b9234-56bc-4d11-b2a3-9e15bc699735",
+    "duration_ms": 229000,
+    "genre": [
+      "reggae"
+    ]
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Snad Jsem To Zavinil Já",
+    "artist": "Olympic",
+    "date": "07.11.2025",
+    "time": "05:12",
+    "last_update": "07.11.2025 05:13:19",
+    "recorded_at": "2025-11-07T05:13:19.717859+01:00",
+    "raw_valid": true,
+    "song_session_id": "e6c9cd35-0946-498c-82ce-2ee18804236b",
+    "duration_ms": 184666,
+    "genre": [
+      "big beat"
+    ]
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "(Everything I Do) I Do It For You",
+    "artist": "Adams Bryan",
+    "date": "07.11.2025",
+    "time": "05:15",
+    "last_update": "07.11.2025 05:16:21",
+    "recorded_at": "2025-11-07T05:16:21.880077+01:00",
+    "raw_valid": true,
+    "song_session_id": "368a3cff-4cab-4eae-a566-22ca2607a2ef",
+    "duration_ms": 393640,
+    "genre": []
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Bílá Královna",
+    "artist": "Stanislav Hlozek & Petr Kotvald",
+    "date": "07.11.2025",
+    "time": "05:19",
+    "last_update": "07.11.2025 05:20:35",
+    "recorded_at": "2025-11-07T05:20:35.939241+01:00",
+    "raw_valid": true,
+    "song_session_id": "0c3d1eb3-1774-42d5-8303-41bbaa43e94f",
+    "duration_ms": 216253,
+    "genre": []
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Duhová Víla",
+    "artist": "Zagorová Hana&Rezek Petr",
+    "date": "07.11.2025",
+    "time": "05:23",
+    "last_update": "07.11.2025 05:24:14",
+    "recorded_at": "2025-11-07T05:24:14.288688+01:00",
+    "raw_valid": true,
+    "song_session_id": "aa899e50-3e0d-44b0-b355-631fc814fc56",
+    "duration_ms": 168293,
+    "genre": []
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Decibely Lásky",
+    "artist": "David Michal Kroky Františka Janečka",
+    "date": "07.11.2025",
+    "time": "05:26",
+    "last_update": "07.11.2025 05:27:20",
+    "recorded_at": "2025-11-07T05:27:20.686885+01:00",
+    "raw_valid": true,
+    "song_session_id": "0ac3fd05-f940-4249-b719-f617987e25cc",
+    "duration_ms": 193239,
+    "genre": []
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "You'll See",
+    "artist": "Madonna",
+    "date": "07.11.2025",
+    "time": "05:29",
+    "last_update": "07.11.2025 05:30:22",
+    "recorded_at": "2025-11-07T05:30:22.854282+01:00",
+    "raw_valid": true,
+    "song_session_id": "ef623a21-3bb4-48ad-b408-1175f21ff34f",
+    "duration_ms": 278135,
+    "genre": []
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Šípková Růženka",
+    "artist": "Jiří Schelinger",
+    "date": "07.11.2025",
+    "time": "05:33",
+    "last_update": "07.11.2025 05:34:33",
+    "recorded_at": "2025-11-07T05:34:33.049859+01:00",
+    "raw_valid": true,
+    "song_session_id": "58b040f6-87ce-44e9-a4a6-c55fdb143b14",
+    "duration_ms": 191474,
+    "genre": [
+      "big beat"
+    ]
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Školská Láska",
+    "artist": "Rolincová Darina",
+    "date": "07.11.2025",
+    "time": "05:37",
+    "last_update": "07.11.2025 05:38:37",
+    "recorded_at": "2025-11-07T05:38:37.543826+01:00",
+    "raw_valid": true,
+    "song_session_id": "d9ba1c1d-26c8-49fd-841e-10fc749282c7",
+    "duration_ms": 241866,
+    "genre": [
+      "schlager"
+    ]
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Enjoy The Silence",
+    "artist": "Depeche Mode",
+    "date": "07.11.2025",
+    "time": "05:40",
+    "last_update": "07.11.2025 05:41:13",
+    "recorded_at": "2025-11-07T05:41:13.658884+01:00",
+    "raw_valid": true,
+    "song_session_id": "32a5ffe5-9299-4367-a899-d7dd3ecf932e",
+    "duration_ms": 257630,
+    "genre": [
+      "electronic"
+    ]
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Gloria",
+    "artist": "Tozzi, Umberto",
+    "date": "07.11.2025",
+    "time": "05:45",
+    "last_update": "07.11.2025 05:46:18",
+    "recorded_at": "2025-11-07T05:46:18.474527+01:00",
+    "raw_valid": true,
+    "song_session_id": "fffe6cf8-4f2d-4c08-9db1-92ec713d9179",
+    "duration_ms": 264674,
+    "genre": [
+      "italo dance"
+    ]
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "The Best",
+    "artist": "Tina Turner",
+    "date": "07.11.2025",
+    "time": "05:49",
+    "last_update": "07.11.2025 05:50:28",
+    "recorded_at": "2025-11-07T05:50:28.437839+01:00",
+    "raw_valid": true,
+    "song_session_id": "0209aa68-305c-4648-be41-c2516b88eb96",
+    "duration_ms": 329800,
+    "genre": []
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Feel",
+    "artist": "Robbie Williams",
+    "date": "07.11.2025",
+    "time": "05:53",
+    "last_update": "07.11.2025 05:54:10",
+    "recorded_at": "2025-11-07T05:54:10.800172+01:00",
+    "raw_valid": true,
+    "song_session_id": "caeaecc9-10f2-4d52-9bee-a2ee1e2dd73d",
+    "duration_ms": 263866,
+    "genre": []
+  }
+]

@@ -1,0 +1,489 @@
+[
+  {
+    "song": "Nic Sa Nemeni",
+    "artists": [
+      "Kali",
+      "Imt Smile"
+    ],
+    "isrc": "QZWDW2382192",
+    "start_time": "2025-11-27 21:51:48",
+    "radio": "expres",
+    "recorded_at": "2025-11-27T21:52:09.727639+01:00",
+    "raw_valid": true,
+    "song_session_id": "91fdf246-08a6-41e5-9d67-fa84230a79d7",
+    "duration_ms": 206780,
+    "genre": []
+  },
+  {
+    "song": "Zoo",
+    "artists": [
+      "Shakira"
+    ],
+    "isrc": "USWD12538420",
+    "start_time": "2025-11-27 21:55:11",
+    "radio": "expres",
+    "recorded_at": "2025-11-27T21:55:37.012509+01:00",
+    "raw_valid": true,
+    "song_session_id": "625cabea-540b-4ca5-925c-d0123f33dcd3",
+    "duration_ms": 190822,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Hungry Eyes",
+    "artists": [
+      "Eric Carmen"
+    ],
+    "isrc": "USRC19708312",
+    "start_time": "2025-11-27 21:58:37",
+    "radio": "expres",
+    "recorded_at": "2025-11-27T21:58:52.748014+01:00",
+    "raw_valid": true,
+    "song_session_id": "a1affef8-c6b9-4af1-b8fd-01f82dc1b95a",
+    "duration_ms": 232439,
+    "genre": [
+      "soft rock"
+    ]
+  },
+  {
+    "song": "Wonderful Life 25",
+    "artists": [
+      "Hurts",
+      "Purple Disco Machine"
+    ],
+    "isrc": "DEE862500677",
+    "start_time": "2025-11-27 22:05:42",
+    "radio": "expres",
+    "recorded_at": "2025-11-27T22:05:55.105559+01:00",
+    "raw_valid": true,
+    "song_session_id": "c670f7c4-4623-412b-b54e-6ec8b190a7a5",
+    "duration_ms": 178658,
+    "genre": []
+  },
+  {
+    "song": "Here Without You",
+    "artists": [
+      "3 Doors Down"
+    ],
+    "isrc": "USUR10200764",
+    "start_time": "2025-11-27 22:08:45",
+    "radio": "expres",
+    "recorded_at": "2025-11-27T22:09:02.473666+01:00",
+    "raw_valid": true,
+    "song_session_id": "e07dd1fd-f4d5-42f4-8ebe-a95f745621c0",
+    "duration_ms": 238560,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Chasing Paradise",
+    "artists": [
+      "Kygo",
+      "Onerepublic"
+    ],
+    "isrc": "SEBGA2500019",
+    "start_time": "2025-11-27 22:12:29",
+    "radio": "expres",
+    "recorded_at": "2025-11-27T22:14:37.702804+01:00",
+    "raw_valid": true,
+    "song_session_id": "cb29a64e-0266-41b7-9a86-ecc57864207d",
+    "duration_ms": 180532,
+    "genre": []
+  },
+  {
+    "song": "Believer",
+    "artists": [
+      "Imagine Dragons"
+    ],
+    "isrc": "USUM71700626",
+    "start_time": "2025-11-27 22:15:33",
+    "radio": "expres",
+    "recorded_at": "2025-11-27T22:15:59.998122+01:00",
+    "raw_valid": true,
+    "song_session_id": "1c700bc7-3eb5-4b46-a67e-286776a77620",
+    "duration_ms": 204346,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Eternity",
+    "artists": [
+      "Alex Warren"
+    ],
+    "isrc": "USAT22503779",
+    "start_time": "2025-11-27 22:17:58",
+    "radio": "expres",
+    "recorded_at": "2025-11-27T22:18:23.669980+01:00",
+    "raw_valid": true,
+    "song_session_id": "da2b3505-483c-4316-88bc-2f177adc75d4",
+    "duration_ms": 189553,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Under Pressure",
+    "artists": [
+      "Queen",
+      "David Bowie"
+    ],
+    "isrc": "GBUM71029622",
+    "start_time": "2025-11-27 22:21:39",
+    "radio": "expres",
+    "recorded_at": "2025-11-27T22:22:02.286328+01:00",
+    "raw_valid": true,
+    "song_session_id": "ed871202-1d8d-4cb3-a6f2-78be587d1fcb",
+    "duration_ms": 236506,
+    "genre": []
+  },
+  {
+    "song": "Forbidden Road",
+    "artists": [
+      "Robbie Williams"
+    ],
+    "isrc": "GBPS62400032",
+    "start_time": "2025-11-27 22:25:21",
+    "radio": "expres",
+    "recorded_at": "2025-11-27T22:25:49.069826+01:00",
+    "raw_valid": true,
+    "song_session_id": "38969c31-32b3-43fd-b987-278059f76918",
+    "duration_ms": 197419,
+    "genre": []
+  },
+  {
+    "song": "Dobry Den To Som Ja",
+    "artists": [
+      "Sima Martausova"
+    ],
+    "isrc": "SKG081300109",
+    "start_time": "2025-11-27 22:28:34",
+    "radio": "expres",
+    "recorded_at": "2025-11-27T22:28:47.155035+01:00",
+    "raw_valid": true,
+    "song_session_id": "66a17f68-29cf-47cc-b4fb-e3083d1983c0",
+    "duration_ms": 232400,
+    "genre": []
+  },
+  {
+    "song": "Pride",
+    "artists": [
+      "Felix Jaehn",
+      "Jhart"
+    ],
+    "isrc": "DEUM72503423",
+    "start_time": "2025-11-27 22:33:51",
+    "radio": "expres",
+    "recorded_at": "2025-11-27T22:34:07.165014+01:00",
+    "raw_valid": true,
+    "song_session_id": "846df5db-82c0-43eb-a373-ad833042ad76",
+    "duration_ms": 158150,
+    "genre": []
+  },
+  {
+    "song": "My Happy Ending",
+    "artists": [
+      "Avril Lavigne"
+    ],
+    "isrc": "USAR10400486",
+    "start_time": "2025-11-27 22:36:38",
+    "radio": "expres",
+    "recorded_at": "2025-11-27T22:37:15.007819+01:00",
+    "raw_valid": true,
+    "song_session_id": "a41e6590-0c71-4465-a141-b2b0df1b2952",
+    "duration_ms": 241706,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Whistle",
+    "artists": [
+      "Flo Rida"
+    ],
+    "isrc": "USAT21201745",
+    "start_time": "2025-11-27 22:40:30",
+    "radio": "expres",
+    "recorded_at": "2025-11-27T22:40:55.027494+01:00",
+    "raw_valid": true,
+    "song_session_id": "5bab4044-ca91-4f33-b75d-40f5b249405c",
+    "duration_ms": 225000,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Head Above Water",
+    "artists": [
+      "Twocolors",
+      "Safri Duo",
+      "Chris De Sarandy"
+    ],
+    "isrc": "DEUM72503698",
+    "start_time": "2025-11-27 22:44:23",
+    "radio": "expres",
+    "recorded_at": "2025-11-27T22:44:39.520559+01:00",
+    "raw_valid": true,
+    "song_session_id": "c99f83a9-873f-49f5-bcc4-4b46c06ac465",
+    "duration_ms": 174550,
+    "genre": []
+  },
+  {
+    "song": "Nie Sme Zli",
+    "artists": [
+      "Elan"
+    ],
+    "isrc": "SKA128229911",
+    "start_time": "2025-11-27 22:47:42",
+    "radio": "expres",
+    "recorded_at": "2025-11-27T22:47:57.813002+01:00",
+    "raw_valid": true,
+    "song_session_id": "bd8a174e-ac74-4a06-9732-daada743cf1e",
+    "duration_ms": 244306,
+    "genre": []
+  },
+  {
+    "song": "Te Imaginaba",
+    "artists": [
+      "Alvaro Soler"
+    ],
+    "isrc": "DEE862401045",
+    "start_time": "2025-11-27 22:51:39",
+    "radio": "expres",
+    "recorded_at": "2025-11-27T22:51:57.190269+01:00",
+    "raw_valid": true,
+    "song_session_id": "378d41b5-95ad-4d77-bf55-46fa8aac9e28",
+    "duration_ms": 158817,
+    "genre": []
+  },
+  {
+    "song": "Mad",
+    "artists": [
+      "Martin Garrix",
+      "Lauv"
+    ],
+    "isrc": "NLM5S2502535",
+    "start_time": "2025-11-27 22:54:12",
+    "radio": "expres",
+    "recorded_at": "2025-11-27T22:54:46.067537+01:00",
+    "raw_valid": true,
+    "song_session_id": "3f359f90-ef06-4a37-986f-7e70b0ef789d",
+    "duration_ms": 199804,
+    "genre": []
+  },
+  {
+    "song": "Opri Sa O Mna",
+    "artists": [
+      "Imt Smile"
+    ],
+    "isrc": "SKA010011206",
+    "start_time": "2025-11-27 22:57:57",
+    "radio": "expres",
+    "recorded_at": "2025-11-27T22:58:19.459182+01:00",
+    "raw_valid": true,
+    "song_session_id": "a208cbe3-e679-4a98-8885-2c13df5320c1",
+    "duration_ms": 164893,
+    "genre": []
+  },
+  {
+    "song": "Ray Of Light",
+    "artists": [
+      "Nico Santos"
+    ],
+    "isrc": "DECE72402394",
+    "start_time": "2025-11-27 23:05:01",
+    "radio": "expres",
+    "recorded_at": "2025-11-27T23:05:38.757574+01:00",
+    "raw_valid": true,
+    "song_session_id": "02c6d527-e083-4f7f-b2d4-acdde41ea359",
+    "duration_ms": 176500,
+    "genre": []
+  },
+  {
+    "song": "Proklinam (Live)",
+    "artists": [
+      "Janek Ledecky"
+    ],
+    "isrc": "CZUM71800068",
+    "start_time": "2025-11-27 23:08:03",
+    "radio": "expres",
+    "recorded_at": "2025-11-27T23:08:27.019984+01:00",
+    "raw_valid": true,
+    "song_session_id": "e3dd7c3d-f84f-4f55-9b73-56f87f44926a",
+    "duration_ms": 243466,
+    "genre": []
+  },
+  {
+    "song": "The Fate Of Ophelia",
+    "artists": [
+      "Taylor Swift"
+    ],
+    "isrc": "USUG12506436",
+    "start_time": "2025-11-27 23:11:31",
+    "radio": "expres",
+    "recorded_at": "2025-11-27T23:11:45.333106+01:00",
+    "raw_valid": true,
+    "song_session_id": "7cd5f0ea-6d87-4f96-8bb6-cc30bef058e7",
+    "duration_ms": 226073,
+    "genre": [
+      "electronic"
+    ]
+  },
+  {
+    "song": "My Universe",
+    "artists": [
+      "Coldplay",
+      "Bts"
+    ],
+    "isrc": "GBAYE2100952",
+    "start_time": "2025-11-27 23:15:17",
+    "radio": "expres",
+    "recorded_at": "2025-11-27T23:15:38.214040+01:00",
+    "raw_valid": true,
+    "song_session_id": "1a414918-2ef0-4465-aba6-91eb9b68fa4d",
+    "duration_ms": 226198,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "I Like The Way You Kiss Me",
+    "artists": [
+      "Artemas"
+    ],
+    "isrc": "QZJ842400387",
+    "start_time": "2025-11-27 23:18:32",
+    "radio": "expres",
+    "recorded_at": "2025-11-27T23:18:57.508649+01:00",
+    "raw_valid": true,
+    "song_session_id": "5f69bc07-7ea3-4d24-9431-f5519f51b32a",
+    "duration_ms": 142514,
+    "genre": [
+      "pop rock"
+    ]
+  },
+  {
+    "song": "You Give Love A Bad Name",
+    "artists": [
+      "Bon Jovi"
+    ],
+    "isrc": "USPR39402224",
+    "start_time": "2025-11-27 23:21:03",
+    "radio": "expres",
+    "recorded_at": "2025-11-27T23:21:14.885431+01:00",
+    "raw_valid": true,
+    "song_session_id": "bf75afa5-9202-405c-a493-3cdbf713cfb6",
+    "duration_ms": 223146,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "A Bar Song (Tipsy)",
+    "artists": [
+      "Shaboozey"
+    ],
+    "isrc": "USUYG1541249",
+    "start_time": "2025-11-27 23:24:43",
+    "radio": "expres",
+    "recorded_at": "2025-11-27T23:25:19.303707+01:00",
+    "raw_valid": true,
+    "song_session_id": "a01b9faa-65a9-4198-a047-d7479f21da7c",
+    "duration_ms": 171291,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Zeny A Kvety Sa Nekradnu",
+    "artists": [
+      "Team"
+    ],
+    "isrc": "SKA129031205",
+    "start_time": "2025-11-27 23:27:36",
+    "radio": "expres",
+    "recorded_at": "2025-11-27T23:28:02.613493+01:00",
+    "raw_valid": true,
+    "song_session_id": "65a964b0-1a0e-42e7-85b0-154d34cf57f5",
+    "duration_ms": 257760,
+    "genre": []
+  },
+  {
+    "song": "Be Mine",
+    "artists": [
+      "Kamrad"
+    ],
+    "isrc": "DE1NJ2500035",
+    "start_time": "2025-11-27 23:32:43",
+    "radio": "expres",
+    "recorded_at": "2025-11-27T23:32:58.524300+01:00",
+    "raw_valid": true,
+    "song_session_id": "72dd1c37-8e5e-4cdd-9ac9-25ebe0171c60",
+    "duration_ms": 156463,
+    "genre": []
+  },
+  {
+    "song": "Zober Ma Domov",
+    "artists": [
+      "Desmod"
+    ],
+    "isrc": "SKA010700118",
+    "start_time": "2025-11-27 23:35:21",
+    "radio": "expres",
+    "recorded_at": "2025-11-27T23:35:36.758793+01:00",
+    "raw_valid": true,
+    "song_session_id": "e8643e8c-e5b0-47e4-958f-f90e64247ce2",
+    "duration_ms": 296520,
+    "genre": []
+  },
+  {
+    "song": "I Gotta Feeling",
+    "artists": [
+      "Black Eyed Peas"
+    ],
+    "isrc": "USUM70965169",
+    "start_time": "2025-11-27 23:40:04",
+    "radio": "expres",
+    "recorded_at": "2025-11-27T23:40:37.480485+01:00",
+    "raw_valid": true,
+    "song_session_id": "a3242e6f-5a08-47bb-bf96-0d1495fca8f6",
+    "duration_ms": 289133,
+    "genre": [
+      "trance"
+    ]
+  },
+  {
+    "song": "Golden",
+    "artists": [
+      "Kpop Demon Hunters"
+    ],
+    "isrc": "QZ8BZ2513510",
+    "start_time": "2025-11-27 23:44:16",
+    "radio": "expres",
+    "recorded_at": "2025-11-27T23:44:42.256761+01:00",
+    "raw_valid": true,
+    "song_session_id": "f6ba5194-af27-4d61-a2f0-70e90fb650d4",
+    "duration_ms": 194607,
+    "genre": [
+      "korean"
+    ]
+  },
+  {
+    "song": "Be My Lover",
+    "artists": [
+      "La Bouche"
+    ],
+    "isrc": "DEE862300656",
+    "start_time": "2025-11-27 23:47:10",
+    "radio": "expres",
+    "recorded_at": "2025-11-27T23:47:26.205926+01:00",
+    "raw_valid": true,
+    "song_session_id": "1c1af70f-e704-4d22-9459-238f2819c5d6",
+    "duration_ms": 169523,
+    "genre": [
+      "dance"
+    ]
+  }
+]

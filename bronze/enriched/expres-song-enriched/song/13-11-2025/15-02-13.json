@@ -1,0 +1,353 @@
+[
+  {
+    "song": "Be Mine",
+    "artists": [
+      "Kamrad"
+    ],
+    "isrc": "DE1NJ2500035",
+    "start_time": "2025-11-13 14:07:32",
+    "radio": "expres",
+    "recorded_at": "2025-11-13T14:08:15.209932+01:00",
+    "raw_valid": true,
+    "song_session_id": "d31a6f73-e6ef-403b-8d3a-c1f62841d67f",
+    "duration_ms": 156463,
+    "genre": []
+  },
+  {
+    "song": "Numb",
+    "artists": [
+      "Linkin Park"
+    ],
+    "isrc": "USWB10300474",
+    "start_time": "2025-11-13 14:10:10",
+    "radio": "expres",
+    "recorded_at": "2025-11-13T14:10:32.521877+01:00",
+    "raw_valid": true,
+    "song_session_id": "b4910405-d2c9-4b6e-b4cf-739ef19fc64e",
+    "duration_ms": 187520,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Medzi Nebom A Zenou",
+    "artists": [
+      "Banket",
+      "Richard Muller",
+      "Ema Muller"
+    ],
+    "isrc": "SKC362500009",
+    "start_time": "2025-11-13 14:13:11",
+    "radio": "expres",
+    "recorded_at": "2025-11-13T14:13:35.438429+01:00",
+    "raw_valid": true,
+    "song_session_id": "1068f754-b1fb-4cd5-98ca-de577ea154aa",
+    "duration_ms": 228666,
+    "genre": []
+  },
+  {
+    "song": "Without You",
+    "artists": [
+      "The Kid Laroi"
+    ],
+    "isrc": "USSM12006586",
+    "start_time": "2025-11-13 14:20:06",
+    "radio": "expres",
+    "recorded_at": "2025-11-13T14:20:38.757286+01:00",
+    "raw_valid": true,
+    "song_session_id": "0b76e1ec-003d-4466-a3a9-a30d07e87d80",
+    "duration_ms": 161384,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Nice To Meet You",
+    "artists": [
+      "Myles Smith"
+    ],
+    "isrc": "GBARL2401376",
+    "start_time": "2025-11-13 14:22:53",
+    "radio": "expres",
+    "recorded_at": "2025-11-13T14:23:35.382146+01:00",
+    "raw_valid": true,
+    "song_session_id": "2e869e17-2c1e-4d75-a37c-2e41a61256c6",
+    "duration_ms": 176000,
+    "genre": []
+  },
+  {
+    "song": "Cant Stop Loving You",
+    "artists": [
+      "Phil Collins"
+    ],
+    "isrc": "USRH11600031",
+    "start_time": "2025-11-13 14:25:48",
+    "radio": "expres",
+    "recorded_at": "2025-11-13T14:26:16.975307+01:00",
+    "raw_valid": true,
+    "song_session_id": "c49ae5d7-08d0-4f27-a175-6a0154f22272",
+    "duration_ms": 256800,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "The One",
+    "artists": [
+      "Michael Patrick Kelly"
+    ],
+    "isrc": "DEE862500476",
+    "start_time": "2025-11-13 14:35:53",
+    "radio": "expres",
+    "recorded_at": "2025-11-13T14:36:19.933200+01:00",
+    "raw_valid": true,
+    "song_session_id": "cdb0b416-e97c-4049-bd91-9c09ee41f2c1",
+    "duration_ms": 181194,
+    "genre": []
+  },
+  {
+    "song": "Wake Me Up",
+    "artists": [
+      "Avicii",
+      "Aloe Blacc"
+    ],
+    "isrc": "SEUM71301326",
+    "start_time": "2025-11-13 14:38:49",
+    "radio": "expres",
+    "recorded_at": "2025-11-13T14:39:18.863210+01:00",
+    "raw_valid": true,
+    "song_session_id": "bbc2f397-a8e9-4184-98f8-ceefaebc4877",
+    "duration_ms": 247426,
+    "genre": [
+      "electronic"
+    ]
+  },
+  {
+    "song": "Head Above Water",
+    "artists": [
+      "Twocolors",
+      "Safri Duo",
+      "Chris De Sarandy"
+    ],
+    "isrc": "DEUM72503698",
+    "start_time": "2025-11-13 14:43:01",
+    "radio": "expres",
+    "recorded_at": "2025-11-13T14:43:22.993096+01:00",
+    "raw_valid": true,
+    "song_session_id": "a202f7e0-fd9e-452e-a890-4588eafdeab5",
+    "duration_ms": 174550,
+    "genre": []
+  },
+  {
+    "song": "Leave A Light On",
+    "artists": [
+      "Belinda Carlisle"
+    ],
+    "isrc": "GBAAA8900043",
+    "start_time": "2025-11-13 14:46:07",
+    "radio": "expres",
+    "recorded_at": "2025-11-13T14:46:46.333991+01:00",
+    "raw_valid": true,
+    "song_session_id": "65183842-521a-4f3f-a89c-d673b91fd54b",
+    "duration_ms": 278360,
+    "genre": []
+  },
+  {
+    "song": "Overdrive",
+    "artists": [
+      "Ofenbach",
+      "Norma Jean Martine"
+    ],
+    "isrc": "FR9W12347222",
+    "start_time": "2025-11-13 14:52:30",
+    "radio": "expres",
+    "recorded_at": "2025-11-13T14:53:06.672716+01:00",
+    "raw_valid": true,
+    "song_session_id": "f786dac0-aaf4-48a7-ba41-38323e96789c",
+    "duration_ms": 155905,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Ked Sa Laska Podari",
+    "artists": [
+      "Gladiator"
+    ],
+    "isrc": "SKA010400088",
+    "start_time": "2025-11-13 14:55:12",
+    "radio": "expres",
+    "recorded_at": "2025-11-13T14:55:59.028819+01:00",
+    "raw_valid": true,
+    "song_session_id": "756ae03a-2607-48c3-8c69-d3fc85a644de",
+    "duration_ms": 213626,
+    "genre": []
+  },
+  {
+    "song": "Glide",
+    "artists": [
+      "Neiked",
+      "Portugal The Man"
+    ],
+    "isrc": "DEE862500421",
+    "start_time": "2025-11-13 15:07:27",
+    "radio": "expres",
+    "recorded_at": "2025-11-13T15:08:00.710761+01:00",
+    "raw_valid": true,
+    "song_session_id": "36d26d27-d4a3-41db-956f-4efca8fa916a",
+    "duration_ms": 184405,
+    "genre": []
+  },
+  {
+    "song": "Without You",
+    "artists": [
+      "David Guetta",
+      "Usher"
+    ],
+    "isrc": "GB28K1100030",
+    "start_time": "2025-11-13 15:10:30",
+    "radio": "expres",
+    "recorded_at": "2025-11-13T15:10:58.472543+01:00",
+    "raw_valid": true,
+    "song_session_id": "e44c2ca3-e421-4a1a-9003-f17a7c2b4299",
+    "duration_ms": 208133,
+    "genre": [
+      "electronic"
+    ]
+  },
+  {
+    "song": "Eternity",
+    "artists": [
+      "Alex Warren"
+    ],
+    "isrc": "USAT22503779",
+    "start_time": "2025-11-13 15:13:53",
+    "radio": "expres",
+    "recorded_at": "2025-11-13T15:14:23.154334+01:00",
+    "raw_valid": true,
+    "song_session_id": "4c5a4fdd-d6aa-4a9a-98bf-0b811b1622ac",
+    "duration_ms": 189553,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Forbidden Road",
+    "artists": [
+      "Robbie Williams"
+    ],
+    "isrc": "GBPS62400032",
+    "start_time": "2025-11-13 15:19:11",
+    "radio": "expres",
+    "recorded_at": "2025-11-13T15:19:48.400649+01:00",
+    "raw_valid": true,
+    "song_session_id": "a49dd812-33c0-4c59-ae2e-3047e49f07c8",
+    "duration_ms": 197419,
+    "genre": []
+  },
+  {
+    "song": "Its My Life",
+    "artists": [
+      "Dr. Alban"
+    ],
+    "isrc": "DEA819200287",
+    "start_time": "2025-11-13 15:22:10",
+    "radio": "expres",
+    "recorded_at": "2025-11-13T15:22:46.080940+01:00",
+    "raw_valid": true,
+    "song_session_id": "48b5c9fc-6d0d-4c76-95c6-037f2e3f6b92",
+    "duration_ms": 243133,
+    "genre": [
+      "trance"
+    ]
+  },
+  {
+    "song": "Regalo",
+    "artists": [
+      "Alvaro Soler"
+    ],
+    "isrc": "DEE862500388",
+    "start_time": "2025-11-13 15:31:45",
+    "radio": "expres",
+    "recorded_at": "2025-11-13T15:32:21.817923+01:00",
+    "raw_valid": true,
+    "song_session_id": "26554399-af5b-4f2e-bdb9-54b7d8752108",
+    "duration_ms": 184984,
+    "genre": []
+  },
+  {
+    "song": "Reklama Na Ticho",
+    "artists": [
+      "Team"
+    ],
+    "isrc": "SKA128804502",
+    "start_time": "2025-11-13 15:38:32",
+    "radio": "expres",
+    "recorded_at": "2025-11-13T15:39:01.648166+01:00",
+    "raw_valid": true,
+    "song_session_id": "257a5f54-fa9f-4a51-805b-4b096d1c7717",
+    "duration_ms": 222426,
+    "genre": []
+  },
+  {
+    "song": "Wonderful Life 25",
+    "artists": [
+      "Hurts",
+      "Purple Disco Machine"
+    ],
+    "isrc": "DEE862500677",
+    "start_time": "2025-11-13 15:41:59",
+    "radio": "expres",
+    "recorded_at": "2025-11-13T15:42:23.849162+01:00",
+    "raw_valid": true,
+    "song_session_id": "9ac23d56-ead7-4456-82d8-0150e3c7fc25",
+    "duration_ms": 178658,
+    "genre": []
+  },
+  {
+    "song": "Thinking Out Loud",
+    "artists": [
+      "Ed Sheeran"
+    ],
+    "isrc": "GBAHS1400099",
+    "start_time": "2025-11-13 15:44:55",
+    "radio": "expres",
+    "recorded_at": "2025-11-13T15:45:25.018795+01:00",
+    "raw_valid": true,
+    "song_session_id": "20fb97d7-dd17-462b-ae5f-c042c1b6d25f",
+    "duration_ms": 281560,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Lamour Toujours",
+    "artists": [
+      "Gigi D'agostino"
+    ],
+    "isrc": "NLS241000174",
+    "start_time": "2025-11-13 15:49:42",
+    "radio": "expres",
+    "recorded_at": "2025-11-13T15:50:05.796434+01:00",
+    "raw_valid": true,
+    "song_session_id": "e54dc9d9-c9dc-4e58-ba81-de0ba8ab940f",
+    "duration_ms": 242053,
+    "genre": [
+      "trance"
+    ]
+  },
+  {
+    "song": "Len Sa Smej",
+    "artists": [
+      "Peter Bic Project"
+    ],
+    "isrc": "SKA012300333",
+    "start_time": "2025-11-13 15:53:46",
+    "radio": "expres",
+    "recorded_at": "2025-11-13T15:54:09.739861+01:00",
+    "raw_valid": true,
+    "song_session_id": "feb699b5-a1d7-4e0a-9049-a71aeb34f2da",
+    "duration_ms": 164741,
+    "genre": []
+  }
+]

@@ -1,0 +1,498 @@
+[
+  {
+    "song": "Chlapci V Pasci",
+    "artists": [
+      "Marika Gombitova"
+    ],
+    "isrc": "SKA128673105",
+    "start_time": "2025-11-24 00:06:12",
+    "radio": "expres",
+    "recorded_at": "2025-11-24T00:06:38.757736+01:00",
+    "raw_valid": true,
+    "song_session_id": "9f6b11f7-9f0f-4356-af2a-5e2a5b0360df",
+    "duration_ms": 210266,
+    "genre": []
+  },
+  {
+    "song": "Forbidden Road",
+    "artists": [
+      "Robbie Williams"
+    ],
+    "isrc": "GBPS62400032",
+    "start_time": "2025-11-24 00:09:38",
+    "radio": "expres",
+    "recorded_at": "2025-11-24T00:10:02.537368+01:00",
+    "raw_valid": true,
+    "song_session_id": "306cf1d3-56e0-4b89-8e0b-cd0ada79476a",
+    "duration_ms": 197419,
+    "genre": []
+  },
+  {
+    "song": "Vsetko Ma Svoj Koniec",
+    "artists": [
+      "Rytmus",
+      "Ego",
+      "Tina"
+    ],
+    "isrc": "QZN882073897",
+    "start_time": "2025-11-24 00:12:48",
+    "radio": "expres",
+    "recorded_at": "2025-11-24T00:13:15.435011+01:00",
+    "raw_valid": true,
+    "song_session_id": "e3d3dacd-d293-4cf6-9581-e8af2fadce53",
+    "duration_ms": 489746,
+    "genre": []
+  },
+  {
+    "song": "Like A Prayer",
+    "artists": [
+      "Madonna"
+    ],
+    "isrc": "USWB10903606",
+    "start_time": "2025-11-24 00:17:53",
+    "radio": "expres",
+    "recorded_at": "2025-11-24T00:18:09.860769+01:00",
+    "raw_valid": true,
+    "song_session_id": "1e3ee085-0843-4a4b-b08c-1bac7957c715",
+    "duration_ms": 342680,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Nemozem Dychat",
+    "artists": [
+      "Gladiator"
+    ],
+    "isrc": "SKA010400086",
+    "start_time": "2025-11-24 00:21:03",
+    "radio": "expres",
+    "recorded_at": "2025-11-24T00:21:33.145234+01:00",
+    "raw_valid": true,
+    "song_session_id": "a3bd9cc4-c946-4c22-973f-59001338241c",
+    "duration_ms": 217933,
+    "genre": []
+  },
+  {
+    "song": "Zoo",
+    "artists": [
+      "Shakira"
+    ],
+    "isrc": "USWD12538420",
+    "start_time": "2025-11-24 00:24:24",
+    "radio": "expres",
+    "recorded_at": "2025-11-24T00:24:36.072293+01:00",
+    "raw_valid": true,
+    "song_session_id": "3c83324b-9926-4d2c-91c8-228b7e0a8512",
+    "duration_ms": 190822,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Pre Vas Hram",
+    "artists": [
+      "Kali",
+      "Karol Duchon",
+      "Peter Pann"
+    ],
+    "isrc": "CZA232500151",
+    "start_time": "2025-11-24 00:27:53",
+    "radio": "expres",
+    "recorded_at": "2025-11-24T00:28:20.014295+01:00",
+    "raw_valid": true,
+    "song_session_id": "75dba529-339c-402c-9579-567532cc6f96",
+    "duration_ms": 149118,
+    "genre": []
+  },
+  {
+    "song": "Beautiful Life",
+    "artists": [
+      "Ace Of Base"
+    ],
+    "isrc": "SEVJH0803501",
+    "start_time": "2025-11-24 00:30:33",
+    "radio": "expres",
+    "recorded_at": "2025-11-24T00:31:02.781570+01:00",
+    "raw_valid": true,
+    "song_session_id": "f447c67c-95fd-4c55-a5c0-45bb515d0d60",
+    "duration_ms": 221186,
+    "genre": [
+      "electronic"
+    ]
+  },
+  {
+    "song": "Mystical Magical",
+    "artists": [
+      "Benson Boone"
+    ],
+    "isrc": "USWB12500844",
+    "start_time": "2025-11-24 00:34:24",
+    "radio": "expres",
+    "recorded_at": "2025-11-24T00:34:46.520713+01:00",
+    "raw_valid": true,
+    "song_session_id": "5bac9123-80a9-4de0-b3e8-c8b4d99f85ee",
+    "duration_ms": 165746,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Dvere",
+    "artists": [
+      "Zuzana Smatanova"
+    ],
+    "isrc": "CZA211100123",
+    "start_time": "2025-11-24 00:37:17",
+    "radio": "expres",
+    "recorded_at": "2025-11-24T00:37:29.224790+01:00",
+    "raw_valid": true,
+    "song_session_id": "ccfba937-c2aa-4f77-b9f3-72e82fd37426",
+    "duration_ms": 192466,
+    "genre": []
+  },
+  {
+    "song": "Something Just Like This",
+    "artists": [
+      "The Chainsmokers",
+      "Coldplay"
+    ],
+    "isrc": "USQX91700278",
+    "start_time": "2025-11-24 00:40:20",
+    "radio": "expres",
+    "recorded_at": "2025-11-24T00:40:36.133256+01:00",
+    "raw_valid": true,
+    "song_session_id": "23515b50-caaa-46b0-ada4-c3dacbe02c6b",
+    "duration_ms": 247280,
+    "genre": [
+      "electronic"
+    ]
+  },
+  {
+    "song": "Neuc Vtaka Lietat",
+    "artists": [
+      "Richard Muller"
+    ],
+    "isrc": "CZA110111007",
+    "start_time": "2025-11-24 00:44:31",
+    "radio": "expres",
+    "recorded_at": "2025-11-24T00:44:55.013736+01:00",
+    "raw_valid": true,
+    "song_session_id": "132fbef1-c70c-460b-8cba-f6f0fa4c5e62",
+    "duration_ms": 226146,
+    "genre": []
+  },
+  {
+    "song": "Head Above Water",
+    "artists": [
+      "Twocolors",
+      "Safri Duo",
+      "Chris De Sarandy"
+    ],
+    "isrc": "DEUM72503698",
+    "start_time": "2025-11-24 00:48:10",
+    "radio": "expres",
+    "recorded_at": "2025-11-24T00:48:23.467886+01:00",
+    "raw_valid": true,
+    "song_session_id": "3b72694c-cbfc-463f-9789-29ca5a07a853",
+    "duration_ms": 174550,
+    "genre": []
+  },
+  {
+    "song": "Svety",
+    "artists": [
+      "Katarina Knechtova"
+    ],
+    "isrc": "SKE431800134",
+    "start_time": "2025-11-24 00:51:05",
+    "radio": "expres",
+    "recorded_at": "2025-11-24T00:51:26.375169+01:00",
+    "raw_valid": true,
+    "song_session_id": "da735c24-20bd-42eb-bb82-090a40df07d4",
+    "duration_ms": 231493,
+    "genre": []
+  },
+  {
+    "song": "Runaway Train",
+    "artists": [
+      "Soul Asylum"
+    ],
+    "isrc": "USSM19200235",
+    "start_time": "2025-11-24 00:54:57",
+    "radio": "expres",
+    "recorded_at": "2025-11-24T00:55:16.282545+01:00",
+    "raw_valid": true,
+    "song_session_id": "a2a53255-b854-4195-9e56-4589e80dc0d8",
+    "duration_ms": 266573,
+    "genre": []
+  },
+  {
+    "song": "Pomarance Z Kuby",
+    "artists": [
+      "Hex"
+    ],
+    "isrc": "SKCA92300105",
+    "start_time": "2025-11-24 00:59:13",
+    "radio": "expres",
+    "recorded_at": "2025-11-24T00:59:35.169167+01:00",
+    "raw_valid": true,
+    "song_session_id": "1f395283-13b6-4b50-954a-4dd7e81bec8d",
+    "duration_ms": 260316,
+    "genre": []
+  },
+  {
+    "song": "Len Sa Smej",
+    "artists": [
+      "Peter Bic Project"
+    ],
+    "isrc": "SKA012300333",
+    "start_time": "2025-11-24 01:03:32",
+    "radio": "expres",
+    "recorded_at": "2025-11-24T01:03:59.211413+01:00",
+    "raw_valid": true,
+    "song_session_id": "9fa4ae7e-4b58-4a82-9ac8-ed677c38c32f",
+    "duration_ms": 164741,
+    "genre": []
+  },
+  {
+    "song": "Undressed",
+    "artists": [
+      "Sombr"
+    ],
+    "isrc": "USWB12500737",
+    "start_time": "2025-11-24 01:06:17",
+    "radio": "expres",
+    "recorded_at": "2025-11-24T01:06:47.919636+01:00",
+    "raw_valid": true,
+    "song_session_id": "9272ef1a-4a19-4348-912c-f050055f8e5b",
+    "duration_ms": 182088,
+    "genre": [
+      "indie pop"
+    ]
+  },
+  {
+    "song": "Edo",
+    "artists": [
+      "Robo Grigorov"
+    ],
+    "isrc": "TCAEJ1930261",
+    "start_time": "2025-11-24 01:09:34",
+    "radio": "expres",
+    "recorded_at": "2025-11-24T01:09:56.684296+01:00",
+    "raw_valid": true,
+    "song_session_id": "b4e4afee-c828-44c0-af52-db9c5a514b90",
+    "duration_ms": 212401,
+    "genre": []
+  },
+  {
+    "song": "Calm Down",
+    "artists": [
+      "Rema",
+      "Selena Gomez"
+    ],
+    "isrc": "NGA3B2214021",
+    "start_time": "2025-11-24 01:12:56",
+    "radio": "expres",
+    "recorded_at": "2025-11-24T01:13:16.816348+01:00",
+    "raw_valid": true,
+    "song_session_id": "d13dfad5-cab4-47a8-b99e-05bed985d668",
+    "duration_ms": 239317,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Zily",
+    "artists": [
+      "No Name"
+    ],
+    "isrc": "SKA010005400",
+    "start_time": "2025-11-24 01:16:59",
+    "radio": "expres",
+    "recorded_at": "2025-11-24T01:17:25.694731+01:00",
+    "raw_valid": true,
+    "song_session_id": "0b8f404c-1bb3-4659-b257-146041eca3d7",
+    "duration_ms": 204173,
+    "genre": []
+  },
+  {
+    "song": "Golden",
+    "artists": [
+      "Kpop Demon Hunters"
+    ],
+    "isrc": "QZ8BZ2513510",
+    "start_time": "2025-11-24 01:20:16",
+    "radio": "expres",
+    "recorded_at": "2025-11-24T01:20:36.807855+01:00",
+    "raw_valid": true,
+    "song_session_id": "4785a767-d468-48a5-a475-488af9c06f5b",
+    "duration_ms": 194607,
+    "genre": [
+      "korean"
+    ]
+  },
+  {
+    "song": "Svet",
+    "artists": [
+      "Imt Smile"
+    ],
+    "isrc": "SKCM72430401",
+    "start_time": "2025-11-24 01:22:58",
+    "radio": "expres",
+    "recorded_at": "2025-11-24T01:23:19.629145+01:00",
+    "raw_valid": true,
+    "song_session_id": "144f0395-091b-42c3-ae84-5e9ec4500d8d",
+    "duration_ms": 200650,
+    "genre": []
+  },
+  {
+    "song": "Forever Young",
+    "artists": [
+      "David Guetta",
+      "Alphaville",
+      "Ava Max"
+    ],
+    "isrc": "UKWLG2400102",
+    "start_time": "2025-11-24 01:26:13",
+    "radio": "expres",
+    "recorded_at": "2025-11-24T01:26:42.881685+01:00",
+    "raw_valid": true,
+    "song_session_id": "4bd45318-3bfb-476c-91bb-58702f3898c6",
+    "duration_ms": 156923,
+    "genre": [
+      "offizielle charts"
+    ]
+  },
+  {
+    "song": "Mam Ta V Hlave",
+    "artists": [
+      "Tina",
+      "Tomi Popovic"
+    ],
+    "isrc": "QZN882073891",
+    "start_time": "2025-11-24 01:28:56",
+    "radio": "expres",
+    "recorded_at": "2025-11-24T01:29:25.663268+01:00",
+    "raw_valid": true,
+    "song_session_id": "9dee4e50-cfec-48cf-9ca5-a0864b63c719",
+    "duration_ms": 147133,
+    "genre": []
+  },
+  {
+    "song": "Wonderful Life 25",
+    "artists": [
+      "Hurts",
+      "Purple Disco Machine"
+    ],
+    "isrc": "DEE862500677",
+    "start_time": "2025-11-24 01:32:34",
+    "radio": "expres",
+    "recorded_at": "2025-11-24T01:32:49.146586+01:00",
+    "raw_valid": true,
+    "song_session_id": "66a15d3f-1dc2-4f9c-8837-2f79f466fa9e",
+    "duration_ms": 178658,
+    "genre": []
+  },
+  {
+    "song": "Stratena",
+    "artists": [
+      "Lina Mayer"
+    ],
+    "isrc": "SKK312100201",
+    "start_time": "2025-11-24 01:35:27",
+    "radio": "expres",
+    "recorded_at": "2025-11-24T01:35:57.296757+01:00",
+    "raw_valid": true,
+    "song_session_id": "3a264bc5-6ce1-45a6-b7ea-c397fd82e4e1",
+    "duration_ms": 221304,
+    "genre": []
+  },
+  {
+    "song": "Listen To Your Heart",
+    "artists": [
+      "Roxette"
+    ],
+    "isrc": "SEAME8878130",
+    "start_time": "2025-11-24 01:39:09",
+    "radio": "expres",
+    "recorded_at": "2025-11-24T01:39:17.496132+01:00",
+    "raw_valid": true,
+    "song_session_id": "c56521ad-2d48-4881-94b3-e0c37f9e6d35",
+    "duration_ms": 328093,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Za Tebou",
+    "artists": [
+      "Desmod"
+    ],
+    "isrc": "SKA011000057",
+    "start_time": "2025-11-24 01:44:16",
+    "radio": "expres",
+    "recorded_at": "2025-11-24T01:44:37.902027+01:00",
+    "raw_valid": true,
+    "song_session_id": "78438560-e32c-47aa-b809-9109282ce048",
+    "duration_ms": 230493,
+    "genre": []
+  },
+  {
+    "song": "Eternity",
+    "artists": [
+      "Alex Warren"
+    ],
+    "isrc": "USAT22503779",
+    "start_time": "2025-11-24 01:47:56",
+    "radio": "expres",
+    "recorded_at": "2025-11-24T01:48:16.249246+01:00",
+    "raw_valid": true,
+    "song_session_id": "1d732b32-6e05-4959-8dc6-725aa5d5282f",
+    "duration_ms": 189553,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Primetime",
+    "artists": [
+      "Majk Spirit"
+    ],
+    "isrc": "SKG401500201",
+    "start_time": "2025-11-24 01:51:36",
+    "radio": "expres",
+    "recorded_at": "2025-11-24T01:51:59.869589+01:00",
+    "raw_valid": true,
+    "song_session_id": "a220a5b0-e774-4462-a5d3-c5261f31bd63",
+    "duration_ms": 260213,
+    "genre": []
+  },
+  {
+    "song": "Zustan Tu Se Mnou (Za Sny)",
+    "artists": [
+      "Krystof"
+    ],
+    "isrc": "CZUM71700170",
+    "start_time": "2025-11-24 01:55:47",
+    "radio": "expres",
+    "recorded_at": "2025-11-24T01:56:03.538967+01:00",
+    "raw_valid": true,
+    "song_session_id": "ee8d72d0-9d85-435c-bfa7-a142ddd507eb",
+    "duration_ms": 376000,
+    "genre": []
+  },
+  {
+    "song": "Letim Tmou (Za Tebou)",
+    "artists": [
+      "Miro Zbirka"
+    ],
+    "isrc": "CZA100308170",
+    "start_time": "2025-11-24 02:00:55",
+    "radio": "expres",
+    "recorded_at": "2025-11-24T02:01:18.593303+01:00",
+    "raw_valid": true,
+    "song_session_id": "b973af7b-02c9-41d5-a067-4bc51af2070e",
+    "duration_ms": 188466,
+    "genre": []
+  }
+]

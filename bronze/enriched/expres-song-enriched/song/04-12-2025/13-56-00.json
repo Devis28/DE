@@ -1,0 +1,394 @@
+[
+  {
+    "song": "The Fate Of Ophelia",
+    "artists": [
+      "Taylor Swift"
+    ],
+    "isrc": "USUG12506436",
+    "start_time": "2025-12-04 12:56:34",
+    "radio": "expres",
+    "recorded_at": "2025-12-04T12:56:49.422238+01:00",
+    "raw_valid": true,
+    "song_session_id": "e1f2e3bc-4363-4dfc-9a61-eeb65bf03ee9",
+    "duration_ms": 226073,
+    "genre": [
+      "electronic"
+    ]
+  },
+  {
+    "song": "Regalo",
+    "artists": [
+      "Alvaro Soler"
+    ],
+    "isrc": "DEE862500388",
+    "start_time": "2025-12-04 13:06:00",
+    "radio": "expres",
+    "recorded_at": "2025-12-04T13:06:12.076656+01:00",
+    "raw_valid": true,
+    "song_session_id": "617fcbf8-7d0d-4038-84fb-29e59c74dbe9",
+    "duration_ms": 184984,
+    "genre": []
+  },
+  {
+    "song": "Shivers",
+    "artists": [
+      "Ed Sheeran"
+    ],
+    "isrc": "GBAHS2100671",
+    "start_time": "2025-12-04 13:09:15",
+    "radio": "expres",
+    "recorded_at": "2025-12-04T13:09:35.196720+01:00",
+    "raw_valid": true,
+    "song_session_id": "8d1549c5-87d3-4e4d-be42-6e0ff57e2a16",
+    "duration_ms": 207853,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Gone Gone Gone",
+    "artists": [
+      "David Guetta",
+      "Teddy Swims",
+      "Tones And I"
+    ],
+    "isrc": "UKWLG2500132",
+    "start_time": "2025-12-04 13:12:38",
+    "radio": "expres",
+    "recorded_at": "2025-12-04T13:12:53.117150+01:00",
+    "raw_valid": true,
+    "song_session_id": "dba017b2-8d4d-4532-91fe-fbb4debf7682",
+    "duration_ms": 198004,
+    "genre": [
+      "soul"
+    ]
+  },
+  {
+    "song": "Stargazing",
+    "artists": [
+      "Myles Smith"
+    ],
+    "isrc": "GBARL2400510",
+    "start_time": "2025-12-04 13:18:09",
+    "radio": "expres",
+    "recorded_at": "2025-12-04T13:18:37.920401+01:00",
+    "raw_valid": true,
+    "song_session_id": "fe731227-4c8f-4b5d-9ffb-45d2df0b120a",
+    "duration_ms": 172533,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Im With You",
+    "artists": [
+      "Avril Lavigne"
+    ],
+    "isrc": "USAR10200224",
+    "start_time": "2025-12-04 13:21:04",
+    "radio": "expres",
+    "recorded_at": "2025-12-04T13:21:15.415678+01:00",
+    "raw_valid": true,
+    "song_session_id": "fbccc463-9d02-4103-a9b1-d26bad4e20aa",
+    "duration_ms": 225806,
+    "genre": []
+  },
+  {
+    "song": "Vianocna Pohoda",
+    "artists": [
+      "Radio Expres",
+      "Sam Sebou",
+      "Kali"
+    ],
+    "isrc": "CZCZ42400089",
+    "start_time": "2025-12-04 13:24:49",
+    "radio": "expres",
+    "recorded_at": "2025-12-04T13:24:58.619313+01:00",
+    "raw_valid": true,
+    "song_session_id": "846fc9db-78ed-4da6-bc4b-a812fb71864a",
+    "duration_ms": 164833,
+    "genre": []
+  },
+  {
+    "song": "Be Mine",
+    "artists": [
+      "Kamrad"
+    ],
+    "isrc": "DE1NJ2500035",
+    "start_time": "2025-12-04 13:33:03",
+    "radio": "expres",
+    "recorded_at": "2025-12-04T13:33:20.604002+01:00",
+    "raw_valid": true,
+    "song_session_id": "d1d13095-a4d7-4a11-a7c5-673be4afb3a7",
+    "duration_ms": 156463,
+    "genre": []
+  },
+  {
+    "song": "Beds Are Burning",
+    "artists": [
+      "Midnight Oil"
+    ],
+    "isrc": "AUBM00700707",
+    "start_time": "2025-12-04 13:35:41",
+    "radio": "expres",
+    "recorded_at": "2025-12-04T13:35:58.064438+01:00",
+    "raw_valid": true,
+    "song_session_id": "36ef15d0-e4e8-4ce8-a317-2f0ce36a4b3e",
+    "duration_ms": 255173,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Head Above Water",
+    "artists": [
+      "Twocolors",
+      "Safri Duo",
+      "Chris De Sarandy"
+    ],
+    "isrc": "DEUM72503698",
+    "start_time": "2025-12-04 13:40:06",
+    "radio": "expres",
+    "recorded_at": "2025-12-04T13:40:21.999886+01:00",
+    "raw_valid": true,
+    "song_session_id": "bff904be-6469-41a8-aca4-d652d0cf589b",
+    "duration_ms": 174550,
+    "genre": []
+  },
+  {
+    "song": "Birds",
+    "artists": [
+      "Imagine Dragons",
+      "Elisa"
+    ],
+    "isrc": "USUM71911107",
+    "start_time": "2025-12-04 13:43:01",
+    "radio": "expres",
+    "recorded_at": "2025-12-04T13:43:20.046119+01:00",
+    "raw_valid": true,
+    "song_session_id": "deae20ad-25d4-45ef-b736-a3c1e8f23039",
+    "duration_ms": 219434,
+    "genre": []
+  },
+  {
+    "song": "Say It Right",
+    "artists": [
+      "Nelly Furtado"
+    ],
+    "isrc": "USUM70603368",
+    "start_time": "2025-12-04 13:46:45",
+    "radio": "expres",
+    "recorded_at": "2025-12-04T13:47:03.182314+01:00",
+    "raw_valid": true,
+    "song_session_id": "9413df5c-20f4-49ba-be45-91a12593969c",
+    "duration_ms": 223080,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Pomarance Z Kuby",
+    "artists": [
+      "Hex"
+    ],
+    "isrc": "SKCA92300105",
+    "start_time": "2025-12-04 13:49:51",
+    "radio": "expres",
+    "recorded_at": "2025-12-04T13:50:00.757967+01:00",
+    "raw_valid": true,
+    "song_session_id": "a7f0d7dd-c6e3-421f-8678-0fcb4e043ca4",
+    "duration_ms": 260316,
+    "genre": []
+  },
+  {
+    "song": "Waving Flag",
+    "artists": [
+      "Knaan"
+    ],
+    "isrc": "GBBKS2200009",
+    "start_time": "2025-12-04 13:54:11",
+    "radio": "expres",
+    "recorded_at": "2025-12-04T13:54:24.956900+01:00",
+    "raw_valid": true,
+    "song_session_id": "5347471a-87c9-47ae-9b0b-a64fa3ddd6fc",
+    "duration_ms": 227487,
+    "genre": [
+      "art rock"
+    ]
+  },
+  {
+    "song": "The One",
+    "artists": [
+      "Michael Patrick Kelly"
+    ],
+    "isrc": "DEE862500476",
+    "start_time": "2025-12-04 14:06:53",
+    "radio": "expres",
+    "recorded_at": "2025-12-04T14:07:05.001965+01:00",
+    "raw_valid": true,
+    "song_session_id": "21442476-337e-4bb1-81ab-f4f43e5ad236",
+    "duration_ms": 181194,
+    "genre": []
+  },
+  {
+    "song": "Neda Sa Ujst",
+    "artists": [
+      "Imt Smile"
+    ],
+    "isrc": "SKA019903018",
+    "start_time": "2025-12-04 14:09:58",
+    "radio": "expres",
+    "recorded_at": "2025-12-04T14:10:07.693835+01:00",
+    "raw_valid": true,
+    "song_session_id": "4693c3cc-895c-4892-96de-ca5775902298",
+    "duration_ms": 194653,
+    "genre": []
+  },
+  {
+    "song": "Man I Need",
+    "artists": [
+      "Olivia Dean"
+    ],
+    "isrc": "GBUM72503089",
+    "start_time": "2025-12-04 14:13:03",
+    "radio": "expres",
+    "recorded_at": "2025-12-04T14:13:25.554345+01:00",
+    "raw_valid": true,
+    "song_session_id": "b1d60362-a5ca-4968-b925-ecd8ef55ec19",
+    "duration_ms": 184000,
+    "genre": [
+      "offizielle charts"
+    ]
+  },
+  {
+    "song": "Last Christmas",
+    "artists": [
+      "Wham"
+    ],
+    "isrc": "GBBBM8400019",
+    "start_time": "2025-12-04 14:20:56",
+    "radio": "expres",
+    "recorded_at": "2025-12-04T14:21:06.836085+01:00",
+    "raw_valid": true,
+    "song_session_id": "57cba9f2-77f6-4085-ba97-32b2ac15b0ed",
+    "duration_ms": 262960,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "We Pray",
+    "artists": [
+      "Coldplay",
+      "Little Simz",
+      "Burna Boy",
+      "Elyanna",
+      "Tini"
+    ],
+    "isrc": "GBAYE2400890",
+    "start_time": "2025-12-04 14:25:18",
+    "radio": "expres",
+    "recorded_at": "2025-12-04T14:25:30.494186+01:00",
+    "raw_valid": true,
+    "song_session_id": "bb310771-4632-453a-87b1-15e8816a5793",
+    "duration_ms": 233406,
+    "genre": [
+      "pop rap"
+    ]
+  },
+  {
+    "song": "Wonderful Life 25",
+    "artists": [
+      "Hurts",
+      "Purple Disco Machine"
+    ],
+    "isrc": "DEE862500677",
+    "start_time": "2025-12-04 14:36:21",
+    "radio": "expres",
+    "recorded_at": "2025-12-04T14:36:34.448730+01:00",
+    "raw_valid": true,
+    "song_session_id": "ef51f938-1448-4e56-bd4a-2f632fe31130",
+    "duration_ms": 178658,
+    "genre": []
+  },
+  {
+    "song": "Bad Romance",
+    "artists": [
+      "Lady Gaga"
+    ],
+    "isrc": "USUM70918596",
+    "start_time": "2025-12-04 14:39:14",
+    "radio": "expres",
+    "recorded_at": "2025-12-04T14:39:32.296823+01:00",
+    "raw_valid": true,
+    "song_session_id": "640fd34f-84fd-4173-aa99-062027292d02",
+    "duration_ms": 294573,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Golden",
+    "artists": [
+      "Kpop Demon Hunters"
+    ],
+    "isrc": "QZ8BZ2513510",
+    "start_time": "2025-12-04 14:43:43",
+    "radio": "expres",
+    "recorded_at": "2025-12-04T14:43:56.163595+01:00",
+    "raw_valid": true,
+    "song_session_id": "a2676fb4-5065-4d1e-8c2e-8738a8af6231",
+    "duration_ms": 194607,
+    "genre": [
+      "korean"
+    ]
+  },
+  {
+    "song": "Im Still Standing",
+    "artists": [
+      "Elton John"
+    ],
+    "isrc": "GBALX8300190",
+    "start_time": "2025-12-04 14:46:34",
+    "radio": "expres",
+    "recorded_at": "2025-12-04T14:46:53.960390+01:00",
+    "raw_valid": true,
+    "song_session_id": "aab22bf5-8d3f-49a1-9c01-2493d2326646",
+    "duration_ms": 182640,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Too Sweet",
+    "artists": [
+      "Hozier"
+    ],
+    "isrc": "IEACJ2300335",
+    "start_time": "2025-12-04 14:49:26",
+    "radio": "expres",
+    "recorded_at": "2025-12-04T14:49:36.669085+01:00",
+    "raw_valid": true,
+    "song_session_id": "07b4c50a-3eba-48c0-9d5b-6909a3a08a1f",
+    "duration_ms": 251424,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "The One And Only",
+    "artists": [
+      "Chesney Hawkes"
+    ],
+    "isrc": "GBAYK9100001",
+    "start_time": "2025-12-04 14:52:20",
+    "radio": "expres",
+    "recorded_at": "2025-12-04T14:52:34.379521+01:00",
+    "raw_valid": true,
+    "song_session_id": "f326c38f-a785-4f7a-b400-4157baea4c6f",
+    "duration_ms": 221440,
+    "genre": [
+      "rock"
+    ]
+  }
+]

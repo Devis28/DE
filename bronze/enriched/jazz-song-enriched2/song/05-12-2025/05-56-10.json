@@ -1,0 +1,354 @@
+[
+  {
+    "song": {
+      "play_date": "2025-12-05",
+      "play_time": "04:55",
+      "artist": [
+        "Soulstance"
+      ],
+      "title": "Cool Plan"
+    },
+    "recorded_at": "2025-12-05T04:59:59.069561+01:00",
+    "raw_valid": true,
+    "song_session_id": "65d9d123-860f-4eed-9789-90f97e958dac",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-12-05",
+      "play_time": "05:04",
+      "artist": [
+        "Vendla"
+      ],
+      "title": "The New Twenties"
+    },
+    "recorded_at": "2025-12-05T05:04:59.757046+01:00",
+    "raw_valid": true,
+    "song_session_id": "4edf1dca-8188-4048-babc-78e1f6ae5e6f",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-12-05",
+      "play_time": "05:06",
+      "artist": [
+        "Jamie Cullum"
+      ],
+      "title": "I Only Have Eyes For You"
+    },
+    "recorded_at": "2025-12-05T05:10:00.430696+01:00",
+    "raw_valid": true,
+    "song_session_id": "da95c058-eac6-4e33-aacc-11eb4851d010",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-12-05",
+      "play_time": "05:11",
+      "artist": [
+        "Sebastian Gahler"
+      ],
+      "title": "Girlfriend With Magical Ears"
+    },
+    "recorded_at": "2025-12-05T05:15:01.112522+01:00",
+    "raw_valid": true,
+    "song_session_id": "02603f3c-3edc-4878-8d30-ffdc0f0df028",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-12-05",
+      "play_time": "05:16",
+      "artist": [
+        "Metropolitan Jazz Affair"
+      ],
+      "title": "Yunowhatthislifeez"
+    },
+    "recorded_at": "2025-12-05T05:20:01.818712+01:00",
+    "raw_valid": true,
+    "song_session_id": "1309b343-d22a-4af0-a9e5-1c3477aee341",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-12-05",
+      "play_time": "05:23",
+      "artist": [
+        "Kovacs"
+      ],
+      "title": "I've Seen That Face Before"
+    },
+    "recorded_at": "2025-12-05T05:25:02.506997+01:00",
+    "raw_valid": true,
+    "song_session_id": "b6c617e4-ea55-41ba-a6ed-becac2c23d53",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-12-05",
+      "play_time": "05:26",
+      "artist": [
+        "Theo Croker",
+        "Dee Dee Bridgewater",
+        "Kassa Overall",
+        "Eric Wheeler",
+        "Michael King",
+        "Irwin Hall"
+      ],
+      "title": "Love From The Sun"
+    },
+    "recorded_at": "2025-12-05T05:30:03.254287+01:00",
+    "raw_valid": true,
+    "song_session_id": "645b2237-fb8c-466b-8e95-de54dee13792",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-12-05",
+      "play_time": "05:30",
+      "artist": [
+        "Nicola Conte"
+      ],
+      "title": "Like Leaves In The Wind"
+    },
+    "recorded_at": "2025-12-05T05:35:03.958922+01:00",
+    "raw_valid": true,
+    "song_session_id": "f04feb61-9789-4afd-be8f-d93657f899e8",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-12-05",
+      "play_time": "05:37",
+      "artist": [
+        "Dave Brubeck"
+      ],
+      "title": "Jeepers Creepers"
+    },
+    "recorded_at": "2025-12-05T05:40:04.635036+01:00",
+    "raw_valid": true,
+    "song_session_id": "2e328adc-ed6a-4b78-9987-f3f524bb19de",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-12-05",
+      "play_time": "05:42",
+      "artist": [
+        "Mel Powell"
+      ],
+      "title": "´s Wonderful"
+    },
+    "recorded_at": "2025-12-05T05:45:05.315902+01:00",
+    "raw_valid": true,
+    "song_session_id": "0d4dae40-ed2a-47ef-b47e-747f01193da3",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-12-05",
+      "play_time": "05:46",
+      "artist": [
+        "Sergeant Jay"
+      ],
+      "title": "The Nu-Jazz Lover"
+    },
+    "recorded_at": "2025-12-05T05:50:06.013979+01:00",
+    "raw_valid": true,
+    "song_session_id": "e467d549-f514-45a4-9ddb-1c059091fe27",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-12-05",
+      "play_time": "05:51",
+      "artist": [
+        "Bob Zopp"
+      ],
+      "title": "Mi Novia"
+    },
+    "recorded_at": "2025-12-05T05:55:06.697497+01:00",
+    "raw_valid": true,
+    "song_session_id": "c57794be-2376-4fb1-a649-799868216b7d",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-12-05",
+      "play_time": "05:58",
+      "artist": [
+        "Jackie Martin"
+      ],
+      "title": "In Central Park"
+    },
+    "recorded_at": "2025-12-05T06:00:07.412041+01:00",
+    "raw_valid": true,
+    "song_session_id": "1e23ce94-7fe6-410f-bfe8-29318eee4652",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-12-05",
+      "play_time": "06:03",
+      "artist": [
+        "Cory Wong",
+        "Metropole Orkest",
+        "Jules Buckley"
+      ],
+      "title": "Chateau"
+    },
+    "recorded_at": "2025-12-05T06:05:08.097201+01:00",
+    "raw_valid": true,
+    "song_session_id": "64e0070f-8134-42d1-9c74-cab5e277f49b",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-12-05",
+      "play_time": "06:06",
+      "artist": [
+        "Makaya Mccraven"
+      ],
+      "title": "So Ubuji"
+    },
+    "recorded_at": "2025-12-05T06:09:38.720705+01:00",
+    "raw_valid": true,
+    "song_session_id": "a3b5a38f-3590-42b2-adb4-a71b0759b4fe",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-12-05",
+      "play_time": "06:09",
+      "artist": [
+        "Soulstance"
+      ],
+      "title": "Jazz 2 More - Bolero"
+    },
+    "recorded_at": "2025-12-05T06:14:39.419004+01:00",
+    "raw_valid": true,
+    "song_session_id": "ffc4371f-e918-4258-b8de-2706fe59220d",
+    "duration_ms": 270466,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-12-05",
+      "play_time": "06:17",
+      "artist": [
+        "Sisa Michalidesová"
+      ],
+      "title": "Frida"
+    },
+    "recorded_at": "2025-12-05T06:19:40.164480+01:00",
+    "raw_valid": true,
+    "song_session_id": "a063122c-f2ad-4914-ba2d-f9666e66f625",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-12-05",
+      "play_time": "06:21",
+      "artist": [
+        "Beegie Adair"
+      ],
+      "title": "Misty"
+    },
+    "recorded_at": "2025-12-05T06:24:40.847112+01:00",
+    "raw_valid": true,
+    "song_session_id": "41aba15f-0327-4559-bd5c-84bb3f1e67b0",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-12-05",
+      "play_time": "06:24",
+      "artist": [
+        "Esbjörn Svensson Trio"
+      ],
+      "title": "A Picture Of Doris Travelling With Boris"
+    },
+    "recorded_at": "2025-12-05T06:29:41.543705+01:00",
+    "raw_valid": true,
+    "song_session_id": "80c9d0b7-3c87-4e9d-aad5-29747ae98f42",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-12-05",
+      "play_time": "06:33",
+      "artist": [
+        "Soulstance"
+      ],
+      "title": "Anonimous"
+    },
+    "recorded_at": "2025-12-05T06:34:42.285761+01:00",
+    "raw_valid": true,
+    "song_session_id": "7080edb3-eaca-41e3-a286-c2df6ac8a500",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-12-05",
+      "play_time": "06:38",
+      "artist": [
+        "Nicola Conte"
+      ],
+      "title": "The In Samba"
+    },
+    "recorded_at": "2025-12-05T06:39:42.993552+01:00",
+    "raw_valid": true,
+    "song_session_id": "2d7f5330-7a79-4ff1-968e-d5bf30f82a95",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-12-05",
+      "play_time": "06:47",
+      "artist": [
+        "Oscar Peterson Trio"
+      ],
+      "title": "In The Still Of The Night"
+    },
+    "recorded_at": "2025-12-05T06:49:44.408534+01:00",
+    "raw_valid": true,
+    "song_session_id": "2d9db88a-78db-42a3-9c28-c9694d1300bd",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-12-05",
+      "play_time": "06:53",
+      "artist": [
+        "Muro Francel"
+      ],
+      "title": "Out Of Nowhere"
+    },
+    "recorded_at": "2025-12-05T06:54:45.091739+01:00",
+    "raw_valid": true,
+    "song_session_id": "30761231-e4bc-4ae8-9b6c-fecd5b537d3f",
+    "duration_ms": null,
+    "genre": []
+  }
+]

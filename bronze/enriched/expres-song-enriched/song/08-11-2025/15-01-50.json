@@ -1,0 +1,389 @@
+[
+  {
+    "song": "Every Breath You Take",
+    "artists": [
+      "Police"
+    ],
+    "isrc": "GBAAM0201110",
+    "start_time": "2025-11-08 14:05:55",
+    "radio": "expres",
+    "recorded_at": "2025-11-08T14:06:11.333026+01:00",
+    "raw_valid": true,
+    "song_session_id": "3baf607f-b232-468f-b25b-a0baaa83ec7f",
+    "duration_ms": 255333,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Carnaval De Paris",
+    "artists": [
+      "Dario G"
+    ],
+    "isrc": "GBAHT9802811",
+    "start_time": "2025-11-08 14:09:46",
+    "radio": "expres",
+    "recorded_at": "2025-11-08T14:10:10.719231+01:00",
+    "raw_valid": true,
+    "song_session_id": "b83dd30e-40e0-46eb-92ff-156419e9fb53",
+    "duration_ms": 232653,
+    "genre": []
+  },
+  {
+    "song": "I Knew You Were Waiting",
+    "artists": [
+      "George Michael",
+      "Aretha Franklin"
+    ],
+    "isrc": "USAR18600111",
+    "start_time": "2025-11-08 14:13:24",
+    "radio": "expres",
+    "recorded_at": "2025-11-08T14:13:34.042724+01:00",
+    "raw_valid": true,
+    "song_session_id": "3788ff48-03b0-43b5-b321-ae359a3d1d3a",
+    "duration_ms": 241339,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Downtown",
+    "artists": [
+      "Emma Bunton"
+    ],
+    "isrc": "GBCTA0600259",
+    "start_time": "2025-11-08 14:18:25",
+    "radio": "expres",
+    "recorded_at": "2025-11-08T14:18:33.356440+01:00",
+    "raw_valid": true,
+    "song_session_id": "2c9ab6e5-f33c-4264-8209-918a2985c180",
+    "duration_ms": 204200,
+    "genre": []
+  },
+  {
+    "song": "Rhythm Is Gonna Get You",
+    "artists": [
+      "Gloria Estefan",
+      "Miami Sound Machine"
+    ],
+    "isrc": "USSM18400001",
+    "start_time": "2025-11-08 14:21:26",
+    "radio": "expres",
+    "recorded_at": "2025-11-08T14:21:42.365122+01:00",
+    "raw_valid": true,
+    "song_session_id": "e6f797a4-6ddb-429c-bb17-a72d2688ff91",
+    "duration_ms": 235426,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "I Want It That Way",
+    "artists": [
+      "Backstreet Boys"
+    ],
+    "isrc": "USJI19910614",
+    "start_time": "2025-11-08 14:25:27",
+    "radio": "expres",
+    "recorded_at": "2025-11-08T14:25:36.441977+01:00",
+    "raw_valid": true,
+    "song_session_id": "6910998a-530e-478c-b2df-688bf584f201",
+    "duration_ms": 213306,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "All The Right Moves",
+    "artists": [
+      "Onerepublic"
+    ],
+    "isrc": "USUM70984099",
+    "start_time": "2025-11-08 14:32:19",
+    "radio": "expres",
+    "recorded_at": "2025-11-08T14:32:37.928093+01:00",
+    "raw_valid": true,
+    "song_session_id": "1ff9e023-bae8-4672-a093-e4e46b912559",
+    "duration_ms": 239093,
+    "genre": []
+  },
+  {
+    "song": "Rush Rush",
+    "artists": [
+      "Paula Abdul"
+    ],
+    "isrc": "USVI29100002",
+    "start_time": "2025-11-08 14:36:10",
+    "radio": "expres",
+    "recorded_at": "2025-11-08T14:36:36.603971+01:00",
+    "raw_valid": true,
+    "song_session_id": "1d16813a-d10b-4a72-9dc3-5d650aa06286",
+    "duration_ms": 292933,
+    "genre": [
+      "electronic"
+    ]
+  },
+  {
+    "song": "Feel",
+    "artists": [
+      "Robbie Williams"
+    ],
+    "isrc": "GBFFG0200002",
+    "start_time": "2025-11-08 14:40:19",
+    "radio": "expres",
+    "recorded_at": "2025-11-08T14:40:40.995681+01:00",
+    "raw_valid": true,
+    "song_session_id": "ad1c8a40-b9d3-4e3e-bf40-5ffa19bb4a95",
+    "duration_ms": 264093,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Dreams (Will Come Alive)",
+    "artists": [
+      "2 Brothers On The 4Th Floor"
+    ],
+    "isrc": "NLA240305443",
+    "start_time": "2025-11-08 14:44:52",
+    "radio": "expres",
+    "recorded_at": "2025-11-08T14:45:07.064088+01:00",
+    "raw_valid": true,
+    "song_session_id": "fa5bec18-9f62-4f03-9a7b-6288e2ca7893",
+    "duration_ms": 264000,
+    "genre": []
+  },
+  {
+    "song": "Easy Lover",
+    "artists": [
+      "Phil Collins",
+      "Philip Bailey"
+    ],
+    "isrc": "USSM18400801",
+    "start_time": "2025-11-08 14:50:12",
+    "radio": "expres",
+    "recorded_at": "2025-11-08T14:50:25.789958+01:00",
+    "raw_valid": true,
+    "song_session_id": "1821cdda-d1ff-43c8-a0c4-4924f0d04517",
+    "duration_ms": 304306,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Chci Zas V Tobe Spat",
+    "artists": [
+      "Lucie"
+    ],
+    "isrc": "CZUM71400331",
+    "start_time": "2025-11-08 14:55:11",
+    "radio": "expres",
+    "recorded_at": "2025-11-08T14:55:25.759850+01:00",
+    "raw_valid": true,
+    "song_session_id": "4ac6039f-d448-4d45-a477-3aa2f5b558de",
+    "duration_ms": 305186,
+    "genre": []
+  },
+  {
+    "song": "Dont Stop Me Now",
+    "artists": [
+      "Queen"
+    ],
+    "isrc": "GBUM71029610",
+    "start_time": "2025-11-08 15:05:50",
+    "radio": "expres",
+    "recorded_at": "2025-11-08T15:06:04.938539+01:00",
+    "raw_valid": true,
+    "song_session_id": "453bda8d-0e76-4d85-86a2-cbe3297a90b2",
+    "duration_ms": 210773,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Aint That Just The Way",
+    "artists": [
+      "Lutricia Mcneal"
+    ],
+    "isrc": "FR2X41514947",
+    "start_time": "2025-11-08 15:09:15",
+    "radio": "expres",
+    "recorded_at": "2025-11-08T15:09:35.306771+01:00",
+    "raw_valid": true,
+    "song_session_id": "61a6bc9c-c5e1-4b9d-a740-fd15a95fa980",
+    "duration_ms": 215600,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "La Bamba",
+    "artists": [
+      "Los Lobos"
+    ],
+    "isrc": "USRH10802794",
+    "start_time": "2025-11-08 15:12:37",
+    "radio": "expres",
+    "recorded_at": "2025-11-08T15:12:52.353654+01:00",
+    "raw_valid": true,
+    "song_session_id": "29c66c44-b02f-4cc9-9a61-ae2ac9ab423d",
+    "duration_ms": 174200,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Bosorka",
+    "artists": [
+      "Elan"
+    ],
+    "isrc": "SKA129150310",
+    "start_time": "2025-11-08 15:18:43",
+    "radio": "expres",
+    "recorded_at": "2025-11-08T15:19:07.834107+01:00",
+    "raw_valid": true,
+    "song_session_id": "65a7d5de-f8f8-4889-9d75-2db4f82790d0",
+    "duration_ms": 235000,
+    "genre": []
+  },
+  {
+    "song": "Dirty Diana",
+    "artists": [
+      "Michael Jackson"
+    ],
+    "isrc": "USSM19909072",
+    "start_time": "2025-11-08 15:22:38",
+    "radio": "expres",
+    "recorded_at": "2025-11-08T15:22:51.222389+01:00",
+    "raw_valid": true,
+    "song_session_id": "44365bd9-7e8e-4774-9745-6125e3296df0",
+    "duration_ms": 282595,
+    "genre": [
+      "trance"
+    ]
+  },
+  {
+    "song": "Whenever Wherever",
+    "artists": [
+      "Shakira"
+    ],
+    "isrc": "NLB630100324",
+    "start_time": "2025-11-08 15:26:21",
+    "radio": "expres",
+    "recorded_at": "2025-11-08T15:26:29.747495+01:00",
+    "raw_valid": true,
+    "song_session_id": "3d234cac-91bf-4430-b246-96dab2567923",
+    "duration_ms": 196013,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Unwritten",
+    "artists": [
+      "Natasha Bedingfield"
+    ],
+    "isrc": "GBARL0400707",
+    "start_time": "2025-11-08 15:32:22",
+    "radio": "expres",
+    "recorded_at": "2025-11-08T15:32:35.023431+01:00",
+    "raw_valid": true,
+    "song_session_id": "1ae011a6-e54f-4646-a3b0-01eb38ccee4c",
+    "duration_ms": 259920,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Enola Gay",
+    "artists": [
+      "Orchestral Manouvres In The Dark"
+    ],
+    "isrc": "GBAAA0300048",
+    "start_time": "2025-11-08 15:36:27",
+    "radio": "expres",
+    "recorded_at": "2025-11-08T15:37:10.196141+01:00",
+    "raw_valid": true,
+    "song_session_id": "bd6ad4b1-f58a-49ee-97a0-eb2741d2d536",
+    "duration_ms": 213693,
+    "genre": []
+  },
+  {
+    "song": "Sleeping Satellite",
+    "artists": [
+      "Tasmin Archer"
+    ],
+    "isrc": "GBAYE9200052",
+    "start_time": "2025-11-08 15:40:00",
+    "radio": "expres",
+    "recorded_at": "2025-11-08T15:40:29.724338+01:00",
+    "raw_valid": true,
+    "song_session_id": "f20c8c6f-a408-4d2a-a898-90c1c6158b3a",
+    "duration_ms": 258933,
+    "genre": [
+      "electronic"
+    ]
+  },
+  {
+    "song": "How You Remind Me",
+    "artists": [
+      "Nickelback"
+    ],
+    "isrc": "NLA320119533",
+    "start_time": "2025-11-08 15:44:17",
+    "radio": "expres",
+    "recorded_at": "2025-11-08T15:44:49.800944+01:00",
+    "raw_valid": true,
+    "song_session_id": "1dfd6248-b8d4-4986-9d93-335ffe87f2cb",
+    "duration_ms": 223746,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Perfect",
+    "artists": [
+      "Fairground Attraction"
+    ],
+    "isrc": "GBARL8800011",
+    "start_time": "2025-11-08 15:47:54",
+    "radio": "expres",
+    "recorded_at": "2025-11-08T15:48:35.861095+01:00",
+    "raw_valid": true,
+    "song_session_id": "b3c6d3c7-aa33-4b63-ad85-e02421418a2f",
+    "duration_ms": 216573,
+    "genre": []
+  },
+  {
+    "song": "Last Train To Trancentral",
+    "artists": [
+      "Klf"
+    ],
+    "isrc": "GBCEL2000616",
+    "start_time": "2025-11-08 15:52:39",
+    "radio": "expres",
+    "recorded_at": "2025-11-08T15:53:22.323206+01:00",
+    "raw_valid": true,
+    "song_session_id": "a05284c5-dfc0-446b-9822-4ad4a8188614",
+    "duration_ms": 231807,
+    "genre": [
+      "electronic"
+    ]
+  },
+  {
+    "song": "How Do You Do",
+    "artists": [
+      "Roxette"
+    ],
+    "isrc": "SEAMA9252010",
+    "start_time": "2025-11-08 15:56:20",
+    "radio": "expres",
+    "recorded_at": "2025-11-08T15:56:40.549202+01:00",
+    "raw_valid": true,
+    "song_session_id": "150fb9f3-64cb-43bc-8768-24dabba32c11",
+    "duration_ms": 189093,
+    "genre": [
+      "rock"
+    ]
+  }
+]

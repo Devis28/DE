@@ -1,0 +1,381 @@
+[
+  {
+    "song": "I Want To Know What Love Is",
+    "artists": [
+      "Foreigner"
+    ],
+    "isrc": "USAT29900662",
+    "start_time": "2025-11-18 10:06:46",
+    "radio": "expres",
+    "recorded_at": "2025-11-18T10:07:09.363713+01:00",
+    "raw_valid": true,
+    "song_session_id": "cdfab763-4140-47bb-b908-a03c8343a6ba",
+    "duration_ms": 304786,
+    "genre": []
+  },
+  {
+    "song": "Enemy",
+    "artists": [
+      "Imagine Dragons",
+      "Jid"
+    ],
+    "isrc": "USUM72119916",
+    "start_time": "2025-11-18 10:10:41",
+    "radio": "expres",
+    "recorded_at": "2025-11-18T10:11:08.314342+01:00",
+    "raw_valid": true,
+    "song_session_id": "0cbcf90c-367c-42b1-a5b7-37dd02501a83",
+    "duration_ms": 173381,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Ill Be Missing You",
+    "artists": [
+      "Puff Daddy",
+      "Faith Evans"
+    ],
+    "isrc": "USBB40581044",
+    "start_time": "2025-11-18 10:13:25",
+    "radio": "expres",
+    "recorded_at": "2025-11-18T10:13:50.953728+01:00",
+    "raw_valid": true,
+    "song_session_id": "e46aa32f-f109-479f-8a55-e536ed1f9038",
+    "duration_ms": 301520,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Golden",
+    "artists": [
+      "Kpop Demon Hunters"
+    ],
+    "isrc": "QZ8BZ2513510",
+    "start_time": "2025-11-18 10:18:26",
+    "radio": "expres",
+    "recorded_at": "2025-11-18T10:18:50.345511+01:00",
+    "raw_valid": true,
+    "song_session_id": "d258552b-4172-4979-aad9-b31041e4c50f",
+    "duration_ms": 194607,
+    "genre": [
+      "korean"
+    ]
+  },
+  {
+    "song": "Ordinary",
+    "artists": [
+      "Alex Warren"
+    ],
+    "isrc": "USAT22500463",
+    "start_time": "2025-11-18 10:21:10",
+    "radio": "expres",
+    "recorded_at": "2025-11-18T10:21:33.390294+01:00",
+    "raw_valid": true,
+    "song_session_id": "806bd308-0df6-47f0-9746-2e5d78caabed",
+    "duration_ms": 186964,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Be Mine",
+    "artists": [
+      "Kamrad"
+    ],
+    "isrc": "DE1NJ2500035",
+    "start_time": "2025-11-18 10:32:58",
+    "radio": "expres",
+    "recorded_at": "2025-11-18T10:33:33.415733+01:00",
+    "raw_valid": true,
+    "song_session_id": "59bdc364-4335-45c8-91b8-1039e4ebcf7e",
+    "duration_ms": 156463,
+    "genre": []
+  },
+  {
+    "song": "Dancing In The Moonlight",
+    "artists": [
+      "Toploader"
+    ],
+    "isrc": "GBBBL9902165",
+    "start_time": "2025-11-18 10:35:40",
+    "radio": "expres",
+    "recorded_at": "2025-11-18T10:36:16.351321+01:00",
+    "raw_valid": true,
+    "song_session_id": "3ee6453f-7ea4-4d0b-b844-76f1eefd18dc",
+    "duration_ms": 230120,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Careless Whisper",
+    "artists": [
+      "George Michael"
+    ],
+    "isrc": "GBARL0601610",
+    "start_time": "2025-11-18 10:39:19",
+    "radio": "expres",
+    "recorded_at": "2025-11-18T10:39:54.740253+01:00",
+    "raw_valid": true,
+    "song_session_id": "cca00794-92db-4462-a926-347320312973",
+    "duration_ms": 303426,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "By Your Side (In My Mind)",
+    "artists": [
+      "Leony"
+    ],
+    "isrc": "DEN062400804",
+    "start_time": "2025-11-18 10:44:20",
+    "radio": "expres",
+    "recorded_at": "2025-11-18T10:45:08.367276+01:00",
+    "raw_valid": true,
+    "song_session_id": "1d9f40c5-6e2c-4961-aec2-9eb984082120",
+    "duration_ms": 177148,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Manila",
+    "artists": [
+      "Ray Dalton",
+      "Alvaro Soler"
+    ],
+    "isrc": "DEE862102002",
+    "start_time": "2025-11-18 10:47:21",
+    "radio": "expres",
+    "recorded_at": "2025-11-18T10:47:56.106353+01:00",
+    "raw_valid": true,
+    "song_session_id": "4251d712-4dbb-4ff4-90a0-9771fec4e9be",
+    "duration_ms": 144621,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Vsetko Bude Dobre",
+    "artists": [
+      "Gladiator"
+    ],
+    "isrc": "SKCM72560001",
+    "start_time": "2025-11-18 10:49:43",
+    "radio": "expres",
+    "recorded_at": "2025-11-18T10:50:28.277951+01:00",
+    "raw_valid": true,
+    "song_session_id": "e31acc96-14c8-434f-b788-749c563f2ee4",
+    "duration_ms": 166588,
+    "genre": []
+  },
+  {
+    "song": "Gangstas Paradise",
+    "artists": [
+      "Coolio",
+      "L.v."
+    ],
+    "isrc": "USTB10400128",
+    "start_time": "2025-11-18 10:52:50",
+    "radio": "expres",
+    "recorded_at": "2025-11-18T10:53:15.903432+01:00",
+    "raw_valid": true,
+    "song_session_id": "20cb96f9-9259-4df5-bb49-f89d94cfae5a",
+    "duration_ms": 240693,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "The One",
+    "artists": [
+      "Michael Patrick Kelly"
+    ],
+    "isrc": "DEE862500476",
+    "start_time": "2025-11-18 11:06:04",
+    "radio": "expres",
+    "recorded_at": "2025-11-18T11:06:48.761915+01:00",
+    "raw_valid": true,
+    "song_session_id": "3bd9f4ee-640e-4900-9509-996c30225d27",
+    "duration_ms": 181194,
+    "genre": []
+  },
+  {
+    "song": "Bad Romance",
+    "artists": [
+      "Lady Gaga"
+    ],
+    "isrc": "USUM70918596",
+    "start_time": "2025-11-18 11:09:00",
+    "radio": "expres",
+    "recorded_at": "2025-11-18T11:09:29.588926+01:00",
+    "raw_valid": true,
+    "song_session_id": "1437fb54-7908-459b-9e8b-43cbaae80973",
+    "duration_ms": 294573,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Pomarance Z Kuby",
+    "artists": [
+      "Hex"
+    ],
+    "isrc": "SKCA92300105",
+    "start_time": "2025-11-18 11:13:28",
+    "radio": "expres",
+    "recorded_at": "2025-11-18T11:14:10.103139+01:00",
+    "raw_valid": true,
+    "song_session_id": "2b30e1c2-8233-434f-aba5-a98f5a2ffd9a",
+    "duration_ms": 260316,
+    "genre": []
+  },
+  {
+    "song": "A Thousand Miles",
+    "artists": [
+      "Vanessa Carlton"
+    ],
+    "isrc": "USIR10210955",
+    "start_time": "2025-11-18 11:17:53",
+    "radio": "expres",
+    "recorded_at": "2025-11-18T11:18:30.877882+01:00",
+    "raw_valid": true,
+    "song_session_id": "d82b2dae-4d09-448f-9c49-34196753edd1",
+    "duration_ms": 237413,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Gone Gone Gone",
+    "artists": [
+      "David Guetta",
+      "Teddy Swims",
+      "Tones And I"
+    ],
+    "isrc": "UKWLG2500132",
+    "start_time": "2025-11-18 11:21:46",
+    "radio": "expres",
+    "recorded_at": "2025-11-18T11:22:10.141843+01:00",
+    "raw_valid": true,
+    "song_session_id": "88fccd80-1fa5-41f8-8f1c-902f9e2cbe92",
+    "duration_ms": 198004,
+    "genre": [
+      "soul"
+    ]
+  },
+  {
+    "song": "Girls Just Wanna Have Fun",
+    "artists": [
+      "Cyndi Lauper"
+    ],
+    "isrc": "USSM18300231",
+    "start_time": "2025-11-18 11:32:50",
+    "radio": "expres",
+    "recorded_at": "2025-11-18T11:33:31.113871+01:00",
+    "raw_valid": true,
+    "song_session_id": "1a03175b-bb28-4add-ad2c-9bd9e35ba3e8",
+    "duration_ms": 224546,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Beautiful Things",
+    "artists": [
+      "Benson Boone"
+    ],
+    "isrc": "USWB12307016",
+    "start_time": "2025-11-18 11:36:34",
+    "radio": "expres",
+    "recorded_at": "2025-11-18T11:37:11.311724+01:00",
+    "raw_valid": true,
+    "song_session_id": "2438a742-1feb-44f8-b51c-90841c52abc7",
+    "duration_ms": 180304,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Hangover",
+    "artists": [
+      "Taio Cruz",
+      "Flo Rida"
+    ],
+    "isrc": "GBUM71108857",
+    "start_time": "2025-11-18 11:39:33",
+    "radio": "expres",
+    "recorded_at": "2025-11-18T11:40:11.465975+01:00",
+    "raw_valid": true,
+    "song_session_id": "f2809bf3-a9af-4cd9-9b65-9394359d671d",
+    "duration_ms": 244906,
+    "genre": []
+  },
+  {
+    "song": "The Fate Of Ophelia",
+    "artists": [
+      "Taylor Swift"
+    ],
+    "isrc": "USUG12506436",
+    "start_time": "2025-11-18 11:43:46",
+    "radio": "expres",
+    "recorded_at": "2025-11-18T11:44:11.274858+01:00",
+    "raw_valid": true,
+    "song_session_id": "9ee454c7-cd55-4df4-8894-fc8565f3ba06",
+    "duration_ms": 226073,
+    "genre": [
+      "electronic"
+    ]
+  },
+  {
+    "song": "This Love",
+    "artists": [
+      "Maroon 5"
+    ],
+    "isrc": "USJAY0300080",
+    "start_time": "2025-11-18 11:47:32",
+    "radio": "expres",
+    "recorded_at": "2025-11-18T11:48:11.890227+01:00",
+    "raw_valid": true,
+    "song_session_id": "82a50f31-fa50-444a-8320-5cfe831b9a9b",
+    "duration_ms": 205746,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Flowers",
+    "artists": [
+      "Miley Cyrus"
+    ],
+    "isrc": "USSM12209777",
+    "start_time": "2025-11-18 11:52:05",
+    "radio": "expres",
+    "recorded_at": "2025-11-18T11:52:39.290920+01:00",
+    "raw_valid": true,
+    "song_session_id": "50be1443-0b72-4319-9787-c24aba856d6e",
+    "duration_ms": 200454,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Complicated",
+    "artists": [
+      "Avril Lavigne"
+    ],
+    "isrc": "USAR10200223",
+    "start_time": "2025-11-18 11:55:16",
+    "radio": "expres",
+    "recorded_at": "2025-11-18T11:55:57.714971+01:00",
+    "raw_valid": true,
+    "song_session_id": "eb9af4ec-8d55-49e6-86e2-4641d82eaaa8",
+    "duration_ms": 245211,
+    "genre": [
+      "pop"
+    ]
+  }
+]

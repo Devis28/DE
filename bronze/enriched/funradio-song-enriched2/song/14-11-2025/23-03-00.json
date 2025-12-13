@@ -1,0 +1,621 @@
+[
+  {
+    "last_update": "2025-11-14 21:04:16",
+    "song": {
+      "musicAuthor": "Topic Featuring Sasha Alex Sloan",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048514f276ec381777578cf8dcf6d",
+      "musicTitle": "Saving Me",
+      "radio": "Fun Rádio",
+      "startTime": "22:03"
+    },
+    "recorded_at": "2025-11-14T22:04:17.271007+01:00",
+    "raw_valid": true,
+    "song_session_id": "2c48c568-3215-4ec9-a179-6dc2695ad99d",
+    "duration_ms": 215238,
+    "genre": []
+  },
+  {
+    "last_update": "2025-11-14 21:08:16",
+    "song": {
+      "musicAuthor": "Daniel Bedingfield X Aktive",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048510f06ba3e85ca9a96fd3df8f8",
+      "musicTitle": "Believer",
+      "radio": "Fun Rádio",
+      "startTime": "22:07"
+    },
+    "recorded_at": "2025-11-14T22:08:17.528695+01:00",
+    "raw_valid": true,
+    "song_session_id": "cec92372-c544-46bb-80a4-3d9ff1ea8bb3",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "last_update": "2025-11-14 21:10:17",
+    "song": {
+      "musicAuthor": "Majestic Featuring Nonô",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485146d9c56e2f422f4f5dac63d1",
+      "musicTitle": "Time To Groove",
+      "radio": "Fun Rádio",
+      "startTime": "22:09"
+    },
+    "recorded_at": "2025-11-14T22:10:17.665791+01:00",
+    "raw_valid": true,
+    "song_session_id": "fd3fc29a-4153-42bf-9174-80b4415e3a24",
+    "duration_ms": 146849,
+    "genre": []
+  },
+  {
+    "last_update": "2025-11-14 21:13:17",
+    "song": {
+      "musicAuthor": "Ofenbach",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851fc5fbcb74fb90fd35d15e545",
+      "musicTitle": "Need You The Most",
+      "radio": "Fun Rádio",
+      "startTime": "22:12"
+    },
+    "recorded_at": "2025-11-14T22:13:17.850134+01:00",
+    "raw_valid": true,
+    "song_session_id": "bdd3a5a5-a5d9-4857-a55e-fb29bea7209b",
+    "duration_ms": 130100,
+    "genre": []
+  },
+  {
+    "last_update": "2025-11-14 21:15:17",
+    "song": {
+      "musicAuthor": "Ed Sheeran & Justin Bieber",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048512a5e9e6d5a236f1eb30fc7e6",
+      "musicTitle": "I Don't Care (Jonas Blue Remix)",
+      "radio": "Fun Rádio",
+      "startTime": "22:14"
+    },
+    "recorded_at": "2025-11-14T22:15:17.966544+01:00",
+    "raw_valid": true,
+    "song_session_id": "f6ebe1a8-c791-4017-bc8d-b027acc8e107",
+    "duration_ms": 192681,
+    "genre": []
+  },
+  {
+    "last_update": "2025-11-14 21:18:17",
+    "song": {
+      "musicAuthor": "Armin Van Buuren & Punctual Feat Evalina",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485109d8a395928fabb5012abec9",
+      "musicTitle": "Angels",
+      "radio": "Fun Rádio",
+      "startTime": "22:17"
+    },
+    "recorded_at": "2025-11-14T22:18:18.174232+01:00",
+    "raw_valid": true,
+    "song_session_id": "631c854d-3327-492a-aebb-9a5ca11b2b6a",
+    "duration_ms": 76173,
+    "genre": []
+  },
+  {
+    "last_update": "2025-11-14 21:20:17",
+    "song": {
+      "musicAuthor": "Calvin Harris, Jessie Reyez",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048510ee5a1867ffc98c90a3775af",
+      "musicTitle": "Ocean",
+      "radio": "Fun Rádio",
+      "startTime": "22:19"
+    },
+    "recorded_at": "2025-11-14T22:20:18.294483+01:00",
+    "raw_valid": true,
+    "song_session_id": "bd57b53f-2bed-44b3-9851-935c8e87fc28",
+    "duration_ms": 219087,
+    "genre": []
+  },
+  {
+    "last_update": "2025-11-14 21:24:18",
+    "song": {
+      "musicAuthor": "Oliver Heldens",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851f31ea6a85b9c05e352db7732",
+      "musicTitle": "Take A Chance",
+      "radio": "Fun Rádio",
+      "startTime": "22:23"
+    },
+    "recorded_at": "2025-11-14T22:24:18.570696+01:00",
+    "raw_valid": true,
+    "song_session_id": "6c928d60-341a-4c3e-b371-e18941159c35",
+    "duration_ms": 220810,
+    "genre": []
+  },
+  {
+    "last_update": "2025-11-14 21:28:18",
+    "song": {
+      "musicAuthor": "Alle Farben",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485151c047e7a6dd5ecfca4b475a",
+      "musicTitle": "The Rhythm",
+      "radio": "Fun Rádio",
+      "startTime": "22:27"
+    },
+    "recorded_at": "2025-11-14T22:28:18.837104+01:00",
+    "raw_valid": true,
+    "song_session_id": "328afa5f-ad85-4af8-b85e-b47aa50f9f7c",
+    "duration_ms": 152954,
+    "genre": []
+  },
+  {
+    "last_update": "2025-11-14 21:30:18",
+    "song": {
+      "musicAuthor": "Ian Asher & Joe Stone",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851745fdd7b7b02d13afd340a8f",
+      "musicTitle": "Never Leave You (Uh Oooh, Uh Oooh)",
+      "radio": "Fun Rádio",
+      "startTime": "22:30"
+    },
+    "recorded_at": "2025-11-14T22:30:18.997880+01:00",
+    "raw_valid": true,
+    "song_session_id": "4e78f1c8-7948-46f7-9e29-b17cb38e5fdd",
+    "duration_ms": 170196,
+    "genre": []
+  },
+  {
+    "last_update": "2025-11-14 21:33:18",
+    "song": {
+      "musicAuthor": "Nervo, B Jones, Eke",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048515af0e4a1b88d2db9bd3d7e50",
+      "musicTitle": "Wherever You Go",
+      "radio": "Fun Rádio",
+      "startTime": "22:32"
+    },
+    "recorded_at": "2025-11-14T22:33:19.166691+01:00",
+    "raw_valid": true,
+    "song_session_id": "852a0c74-c87c-46d8-afb6-ae95faeb61e9",
+    "duration_ms": 197272,
+    "genre": []
+  },
+  {
+    "last_update": "2025-11-14 21:36:19",
+    "song": {
+      "musicAuthor": "Robin Schulz Featuring joel Corry & koppy",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048516c1735132564f830d904d2f9",
+      "musicTitle": "Upside Down",
+      "radio": "Fun Rádio",
+      "startTime": "22:36"
+    },
+    "recorded_at": "2025-11-14T22:36:19.337497+01:00",
+    "raw_valid": true,
+    "song_session_id": "6cd16280-dd64-42c7-b1d6-cc65b1701891",
+    "duration_ms": 148552,
+    "genre": []
+  },
+  {
+    "last_update": "2025-11-14 21:39:19",
+    "song": {
+      "musicAuthor": "Zerb & Wiz Khalifa Ft. Ty Dolla $ign",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485123ed374ad59469543181f7b7",
+      "musicTitle": "Location",
+      "radio": "Fun Rádio",
+      "startTime": "22:38"
+    },
+    "recorded_at": "2025-11-14T22:39:19.521779+01:00",
+    "raw_valid": true,
+    "song_session_id": "b56bee60-bac2-4893-bdba-1f42d40835aa",
+    "duration_ms": 148135,
+    "genre": []
+  },
+  {
+    "last_update": "2025-11-14 21:41:18",
+    "song": {
+      "musicAuthor": "Citadelle & Drove",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485168f00ff57bb98c64ec3c8a18",
+      "musicTitle": "Calling",
+      "radio": "Fun Rádio",
+      "startTime": "22:41"
+    },
+    "recorded_at": "2025-11-14T22:41:19.657021+01:00",
+    "raw_valid": true,
+    "song_session_id": "a185f3e8-a5c6-46fd-87be-22240820b58f",
+    "duration_ms": 173709,
+    "genre": []
+  },
+  {
+    "last_update": "2025-11-14 21:44:18",
+    "song": {
+      "musicAuthor": "Robin Schulz feat. Francesco Yates",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048513c9047f9aa5d0d1e03827039",
+      "musicTitle": "Sugar",
+      "radio": "Fun Rádio",
+      "startTime": "22:43"
+    },
+    "recorded_at": "2025-11-14T22:44:19.827341+01:00",
+    "raw_valid": true,
+    "song_session_id": "c808eb1c-38ea-402c-bd33-c6d6b3138b31",
+    "duration_ms": 219043,
+    "genre": []
+  },
+  {
+    "last_update": "2025-11-14 21:47:19",
+    "song": {
+      "musicAuthor": "Kisch",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048519a183ef9868a813cb4376080",
+      "musicTitle": "Dive Deep",
+      "radio": "Fun Rádio",
+      "startTime": "22:47"
+    },
+    "recorded_at": "2025-11-14T22:47:20.014896+01:00",
+    "raw_valid": true,
+    "song_session_id": "26010537-88ed-47a1-ae36-8a3c6ea8cc33",
+    "duration_ms": 191219,
+    "genre": []
+  },
+  {
+    "last_update": "2025-11-14 21:50:19",
+    "song": {
+      "musicAuthor": "Niiko & Swae Featuring Nick Schilder",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851b8e28740c6db47282e6556f1",
+      "musicTitle": "My Head",
+      "radio": "Fun Rádio",
+      "startTime": "22:50"
+    },
+    "recorded_at": "2025-11-14T22:50:20.187762+01:00",
+    "raw_valid": true,
+    "song_session_id": "bd2465ec-0b3e-41ab-af8a-e2b40ea3749e",
+    "duration_ms": 155625,
+    "genre": []
+  },
+  {
+    "last_update": "2025-11-14 21:53:19",
+    "song": {
+      "musicAuthor": "Keanu Silva & Veldor",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048514366deb8857462a5574cc9d5",
+      "musicTitle": "Brother (Don't Let Me Go)",
+      "radio": "Fun Rádio",
+      "startTime": "22:52"
+    },
+    "recorded_at": "2025-11-14T22:53:20.385420+01:00",
+    "raw_valid": true,
+    "song_session_id": "fb6d0c52-f925-4df4-b972-923a646a45cf",
+    "duration_ms": 136007,
+    "genre": []
+  },
+  {
+    "last_update": "2025-11-14 21:55:20",
+    "song": {
+      "musicAuthor": "Drenchill Featuring Indiiana",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851bf410c534b3d9fc4ecd22ce0",
+      "musicTitle": "Paradise",
+      "radio": "Fun Rádio",
+      "startTime": "22:54"
+    },
+    "recorded_at": "2025-11-14T22:55:20.500642+01:00",
+    "raw_valid": true,
+    "song_session_id": "89b03716-3031-47b1-b384-a3929aff6e85",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "last_update": "2025-11-14 21:58:19",
+    "song": {
+      "musicAuthor": "Lewis Thompson X David Guetta",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048515dd635542e559cd368d6966a",
+      "musicTitle": "Take Me Back",
+      "radio": "Fun Rádio",
+      "startTime": "22:57"
+    },
+    "recorded_at": "2025-11-14T22:58:20.680244+01:00",
+    "raw_valid": true,
+    "song_session_id": "26a0cea8-9e21-4179-a94b-f81d8336ca40",
+    "duration_ms": 129479,
+    "genre": []
+  },
+  {
+    "last_update": "2025-11-14 22:01:20",
+    "song": {
+      "musicAuthor": "Ely Oaks, Joki & Enny-Mae",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851f3f77996d0ca4d71375e28a3",
+      "musicTitle": "Mission",
+      "radio": "Fun Rádio",
+      "startTime": "23:00"
+    },
+    "recorded_at": "2025-11-14T23:01:20.859105+01:00",
+    "raw_valid": true,
+    "song_session_id": "23bfeb35-fc76-43cf-98f8-5c1b2e28bb7a",
+    "duration_ms": 118285,
+    "genre": []
+  },
+  {
+    "last_update": "2025-11-14 22:03:20",
+    "song": {
+      "musicAuthor": "Rat City & Isak Heim",
+      "musicCover": "https://static.radia.sk/covers/32/18039237-2ac2-41e2-a5c7-89a47306cd56.jpg",
+      "musicTitle": "Rather Be",
+      "radio": "Fun Rádio",
+      "startTime": "23:02"
+    },
+    "recorded_at": "2025-11-14T23:03:20.976680+01:00",
+    "raw_valid": true,
+    "song_session_id": "4183cb83-478e-4af9-a8e8-facb3b9eb1ce",
+    "duration_ms": 197478,
+    "genre": []
+  },
+  {
+    "last_update": "2025-11-14 22:06:20",
+    "song": {
+      "musicAuthor": "Topic, Fireboy Dml & Nico Santos",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485179288e0723b54dc1f7a94027",
+      "musicTitle": "Body",
+      "radio": "Fun Rádio",
+      "startTime": "23:05"
+    },
+    "recorded_at": "2025-11-14T23:06:21.225155+01:00",
+    "raw_valid": true,
+    "song_session_id": "0e8b4d5e-cbcb-4bf1-8a8b-aee69b22a728",
+    "duration_ms": 194500,
+    "genre": []
+  },
+  {
+    "last_update": "2025-11-14 22:09:20",
+    "song": {
+      "musicAuthor": "Eelke Kleijn & Lee Cabrera",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485163c765c99b5da113c987c1a9",
+      "musicTitle": "Self Control",
+      "radio": "Fun Rádio",
+      "startTime": "23:08"
+    },
+    "recorded_at": "2025-11-14T23:09:21.407110+01:00",
+    "raw_valid": true,
+    "song_session_id": "93ab7496-6dbe-4537-901c-2aab81f1c772",
+    "duration_ms": 186000,
+    "genre": []
+  },
+  {
+    "last_update": "2025-11-14 22:12:20",
+    "song": {
+      "musicAuthor": "Duke Dumont",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851754b3675dd3a456f0fbf9fba",
+      "musicTitle": "I Need You Now",
+      "radio": "Fun Rádio",
+      "startTime": "23:11"
+    },
+    "recorded_at": "2025-11-14T23:12:21.580956+01:00",
+    "raw_valid": true,
+    "song_session_id": "1fa4ba0b-7dbb-4c7d-a566-a5deb0763885",
+    "duration_ms": 226227,
+    "genre": []
+  },
+  {
+    "last_update": "2025-11-14 22:16:20",
+    "song": {
+      "musicAuthor": "Remady & Manu-L",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851ff88db9fb1d12bc9f44f0fa0",
+      "musicTitle": "Idwk",
+      "radio": "Fun Rádio",
+      "startTime": "23:15"
+    },
+    "recorded_at": "2025-11-14T23:16:21.828756+01:00",
+    "raw_valid": true,
+    "song_session_id": "57e37e17-790e-44b6-a449-c0613f16aabe",
+    "duration_ms": 144421,
+    "genre": []
+  },
+  {
+    "last_update": "2025-11-14 22:18:21",
+    "song": {
+      "musicAuthor": "Jax Jones & Au; Ra",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048519e3ffbc9245852e20a4d0c83",
+      "musicTitle": "I Miss U",
+      "radio": "Fun Rádio",
+      "startTime": "23:17"
+    },
+    "recorded_at": "2025-11-14T23:18:21.946837+01:00",
+    "raw_valid": true,
+    "song_session_id": "9e224120-6a6a-4757-aab3-37f721dab2c3",
+    "duration_ms": 172143,
+    "genre": []
+  },
+  {
+    "last_update": "2025-11-14 22:21:22",
+    "song": {
+      "musicAuthor": "Artemas",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851e67611dbbf69a90d0b6cb738",
+      "musicTitle": "I Like The Way You Kiss Me",
+      "radio": "Fun Rádio",
+      "startTime": "23:20"
+    },
+    "recorded_at": "2025-11-14T23:21:22.133968+01:00",
+    "raw_valid": true,
+    "song_session_id": "40fb7e84-c620-4f7e-b09d-04c085d6a262",
+    "duration_ms": 142514,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "last_update": "2025-11-14 22:23:22",
+    "song": {
+      "musicAuthor": "Robin Schulz Featuring Koppy",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485152e989d44a4cef7d2eb463c9",
+      "musicTitle": "Fugazi",
+      "radio": "Fun Rádio",
+      "startTime": "23:23"
+    },
+    "recorded_at": "2025-11-14T23:23:22.331381+01:00",
+    "raw_valid": true,
+    "song_session_id": "dfb5d2ab-0c6a-4c12-8035-4826102426bc",
+    "duration_ms": 151279,
+    "genre": []
+  },
+  {
+    "last_update": "2025-11-14 22:27:22",
+    "song": {
+      "musicAuthor": "Jack Wins & Ily",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851b9f3597d66bf0d56614784f2",
+      "musicTitle": "Dunno (What To Do)",
+      "radio": "Fun Rádio",
+      "startTime": "23:26"
+    },
+    "recorded_at": "2025-11-14T23:27:22.589568+01:00",
+    "raw_valid": true,
+    "song_session_id": "329f5bc7-a36a-4f69-9698-862996ce1c1a",
+    "duration_ms": 181846,
+    "genre": []
+  },
+  {
+    "last_update": "2025-11-14 22:30:21",
+    "song": {
+      "musicAuthor": "Samantha Loveridge & Treetalk",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851ada16be6f3844db9199bc4bc",
+      "musicTitle": "Losing My Religion",
+      "radio": "Fun Rádio",
+      "startTime": "23:29"
+    },
+    "recorded_at": "2025-11-14T23:30:22.796370+01:00",
+    "raw_valid": true,
+    "song_session_id": "3e7467a4-fe0a-413d-bfdf-ed8a522b2309",
+    "duration_ms": 268032,
+    "genre": []
+  },
+  {
+    "last_update": "2025-11-14 22:34:22",
+    "song": {
+      "musicAuthor": "Dj S.K.T. & King Perry",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048516245d952c7a1398de8b4fd23",
+      "musicTitle": "Move It",
+      "radio": "Fun Rádio",
+      "startTime": "23:33"
+    },
+    "recorded_at": "2025-11-14T23:34:23.033582+01:00",
+    "raw_valid": true,
+    "song_session_id": "3a52107e-2a7f-4cd1-bfe4-b2c025740da8",
+    "duration_ms": 158420,
+    "genre": []
+  },
+  {
+    "last_update": "2025-11-14 22:36:22",
+    "song": {
+      "musicAuthor": "Sono",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851c7712230a1b14af00e579680",
+      "musicTitle": "Keep Control",
+      "radio": "Fun Rádio",
+      "startTime": "23:35"
+    },
+    "recorded_at": "2025-11-14T23:36:23.152025+01:00",
+    "raw_valid": true,
+    "song_session_id": "aeed9f59-cd12-4910-b8d3-5de93b8a42c5",
+    "duration_ms": 208064,
+    "genre": []
+  },
+  {
+    "last_update": "2025-11-14 22:40:22",
+    "song": {
+      "musicAuthor": "Pawsa & Adventures Of Stevie V",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851388a49c048fd9f67e338c3c6",
+      "musicTitle": "Dirty Cash (Money Talks)",
+      "radio": "Fun Rádio",
+      "startTime": "23:39"
+    },
+    "recorded_at": "2025-11-14T23:40:23.421289+01:00",
+    "raw_valid": true,
+    "song_session_id": "cec35b56-b8e3-4bf4-83a6-58394bd3148e",
+    "duration_ms": 221448,
+    "genre": []
+  },
+  {
+    "last_update": "2025-11-14 22:43:23",
+    "song": {
+      "musicAuthor": "Nathan Dawe Featuring Shayan",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485144c9f47d8c81bc6e2ec67620",
+      "musicTitle": "Over You",
+      "radio": "Fun Rádio",
+      "startTime": "23:42"
+    },
+    "recorded_at": "2025-11-14T23:43:23.594808+01:00",
+    "raw_valid": true,
+    "song_session_id": "4f182fd3-e683-4bba-9143-b58075cec53f",
+    "duration_ms": 162652,
+    "genre": []
+  },
+  {
+    "last_update": "2025-11-14 22:46:23",
+    "song": {
+      "musicAuthor": "Sigala, Jaxomy Feat. Ilan Kidron",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485129111cd002b451bee533b4d0",
+      "musicTitle": "Riptide",
+      "radio": "Fun Rádio",
+      "startTime": "23:45"
+    },
+    "recorded_at": "2025-11-14T23:46:23.842350+01:00",
+    "raw_valid": true,
+    "song_session_id": "eb3f1eb3-db26-48ce-9633-1e3d33269282",
+    "duration_ms": 138036,
+    "genre": []
+  },
+  {
+    "last_update": "2025-11-14 22:48:22",
+    "song": {
+      "musicAuthor": "Alok & James Arthur",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851fbdbcef5882f3826b419b7d1",
+      "musicTitle": "Work With My Love",
+      "radio": "Fun Rádio",
+      "startTime": "23:47"
+    },
+    "recorded_at": "2025-11-14T23:48:23.954433+01:00",
+    "raw_valid": true,
+    "song_session_id": "66ee9bab-49c5-42ec-8919-d5b76b459973",
+    "duration_ms": 150483,
+    "genre": []
+  },
+  {
+    "last_update": "2025-11-14 22:51:23",
+    "song": {
+      "musicAuthor": "Purple Disco Machine",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048511442a3c9515d200e10cfd9c5",
+      "musicTitle": "Body Funk",
+      "radio": "Fun Rádio",
+      "startTime": "23:50"
+    },
+    "recorded_at": "2025-11-14T23:51:24.138775+01:00",
+    "raw_valid": true,
+    "song_session_id": "971283c6-ac1f-4413-a621-086761c30d00",
+    "duration_ms": 256733,
+    "genre": []
+  },
+  {
+    "last_update": "2025-11-14 22:54:24",
+    "song": {
+      "musicAuthor": "Phil The Beat & Ilira",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485199f5a93341cabf962b4a6f24",
+      "musicTitle": "Anytime",
+      "radio": "Fun Rádio",
+      "startTime": "23:53"
+    },
+    "recorded_at": "2025-11-14T23:54:24.316010+01:00",
+    "raw_valid": true,
+    "song_session_id": "449b8a49-ceb7-4593-b49d-b2dc69c01376",
+    "duration_ms": 148500,
+    "genre": []
+  },
+  {
+    "last_update": "2025-11-14 22:57:23",
+    "song": {
+      "musicAuthor": "Blackpink",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048516224d1236b0e0a0e1586efbb",
+      "musicTitle": "Jump",
+      "radio": "Fun Rádio",
+      "startTime": "23:56"
+    },
+    "recorded_at": "2025-11-14T23:57:24.543272+01:00",
+    "raw_valid": true,
+    "song_session_id": "0a00934f-08db-4c15-857d-3b55d30fde24",
+    "duration_ms": 164718,
+    "genre": [
+      "electronic"
+    ]
+  },
+  {
+    "last_update": "2025-11-14 22:59:24",
+    "song": {
+      "musicAuthor": "Twocolors",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048513824c67481c2ca262d118c92",
+      "musicTitle": "Bloodstream",
+      "radio": "Fun Rádio",
+      "startTime": "23:59"
+    },
+    "recorded_at": "2025-11-14T23:59:24.655048+01:00",
+    "raw_valid": true,
+    "song_session_id": "88e18d6f-54a7-42cb-b13e-992ceefd5142",
+    "duration_ms": 180619,
+    "genre": []
+  }
+]

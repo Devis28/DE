@@ -1,0 +1,439 @@
+[
+  {
+    "song": "Stargazing",
+    "artists": [
+      "Myles Smith"
+    ],
+    "isrc": "GBARL2400510",
+    "start_time": "2025-11-08 10:07:01",
+    "radio": "expres",
+    "recorded_at": "2025-11-08T10:07:16.548835+01:00",
+    "raw_valid": true,
+    "song_session_id": "5b69e43d-c057-492d-a58d-c875d3a930e4",
+    "duration_ms": 172533,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "I Dont Care",
+    "artists": [
+      "Ed Sheeran",
+      "Justin Bieber"
+    ],
+    "isrc": "GBAHS1900673",
+    "start_time": "2025-11-08 10:09:53",
+    "radio": "expres",
+    "recorded_at": "2025-11-08T10:10:22.176701+01:00",
+    "raw_valid": true,
+    "song_session_id": "0c51465a-5ca0-447e-b1c5-c5dace892521",
+    "duration_ms": 219946,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "What Is Love",
+    "artists": [
+      "Haddaway"
+    ],
+    "isrc": "DEA410500401",
+    "start_time": "2025-11-08 10:13:32",
+    "radio": "expres",
+    "recorded_at": "2025-11-08T10:14:07.737015+01:00",
+    "raw_valid": true,
+    "song_session_id": "a92d5d1b-ad30-4349-9e53-19b397ac7480",
+    "duration_ms": 270373,
+    "genre": [
+      "trance"
+    ]
+  },
+  {
+    "song": "Pride",
+    "artists": [
+      "Felix Jaehn",
+      "Jhart"
+    ],
+    "isrc": "DEUM72503423",
+    "start_time": "2025-11-08 10:18:07",
+    "radio": "expres",
+    "recorded_at": "2025-11-08T10:18:29.275955+01:00",
+    "raw_valid": true,
+    "song_session_id": "294f9fce-2b0e-454d-a881-c53a204cc89e",
+    "duration_ms": 158150,
+    "genre": []
+  },
+  {
+    "song": "Amerika",
+    "artists": [
+      "Lucie"
+    ],
+    "isrc": "CZA110306114",
+    "start_time": "2025-11-08 10:20:48",
+    "radio": "expres",
+    "recorded_at": "2025-11-08T10:21:01.962336+01:00",
+    "raw_valid": true,
+    "song_session_id": "80e14e79-8916-4d11-950a-57bbee3a0315",
+    "duration_ms": 304146,
+    "genre": []
+  },
+  {
+    "song": "Unstoppable",
+    "artists": [
+      "Sia"
+    ],
+    "isrc": "USRC11502934",
+    "start_time": "2025-11-08 10:25:13",
+    "radio": "expres",
+    "recorded_at": "2025-11-08T10:25:28.407159+01:00",
+    "raw_valid": true,
+    "song_session_id": "f5b3d643-38c0-43e7-8938-ca5eea426f1c",
+    "duration_ms": 217746,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Listen To Your Heart",
+    "artists": [
+      "Roxette"
+    ],
+    "isrc": "SEAME8878130",
+    "start_time": "2025-11-08 10:32:46",
+    "radio": "expres",
+    "recorded_at": "2025-11-08T10:33:05.188671+01:00",
+    "raw_valid": true,
+    "song_session_id": "9e1a93a2-96cd-4128-ad1f-dae0d20f7ed3",
+    "duration_ms": 328093,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Ordinary",
+    "artists": [
+      "Alex Warren"
+    ],
+    "isrc": "USAT22500463",
+    "start_time": "2025-11-08 10:37:35",
+    "radio": "expres",
+    "recorded_at": "2025-11-08T10:37:44.191529+01:00",
+    "raw_valid": true,
+    "song_session_id": "16b18b05-ff88-4db0-9185-0b1fdd39022e",
+    "duration_ms": 186964,
+    "genre": [
+      "folk"
+    ]
+  },
+  {
+    "song": "Another Love",
+    "artists": [
+      "Tom Odell"
+    ],
+    "isrc": "GBARL1300107",
+    "start_time": "2025-11-08 10:40:39",
+    "radio": "expres",
+    "recorded_at": "2025-11-08T10:41:07.618009+01:00",
+    "raw_valid": true,
+    "song_session_id": "4a07720e-ecf4-4421-807e-c3eb8542451f",
+    "duration_ms": 246040,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Houdini",
+    "artists": [
+      "Dua Lipa"
+    ],
+    "isrc": "GBAHT2301246",
+    "start_time": "2025-11-08 10:44:49",
+    "radio": "expres",
+    "recorded_at": "2025-11-08T10:45:06.223601+01:00",
+    "raw_valid": true,
+    "song_session_id": "3c2f341c-d213-4c40-aa80-01ca01cade70",
+    "duration_ms": 185917,
+    "genre": [
+      "electronic"
+    ]
+  },
+  {
+    "song": "Zily",
+    "artists": [
+      "No Name"
+    ],
+    "isrc": "SKA010005400",
+    "start_time": "2025-11-08 10:47:58",
+    "radio": "expres",
+    "recorded_at": "2025-11-08T10:48:13.661446+01:00",
+    "raw_valid": true,
+    "song_session_id": "261c6a5f-3b5e-4f6a-83c8-85aad5eba59e",
+    "duration_ms": 204173,
+    "genre": []
+  },
+  {
+    "song": "No Time To Talk",
+    "artists": [
+      "Jonas Brothers"
+    ],
+    "isrc": "USUG12504831",
+    "start_time": "2025-11-08 10:51:00",
+    "radio": "expres",
+    "recorded_at": "2025-11-08T10:51:33.491490+01:00",
+    "raw_valid": true,
+    "song_session_id": "13f56574-6c85-4546-81a7-ca4fc359c3a8",
+    "duration_ms": 155053,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Down Under",
+    "artists": [
+      "Men At Work"
+    ],
+    "isrc": "USSM18100411",
+    "start_time": "2025-11-08 10:53:41",
+    "radio": "expres",
+    "recorded_at": "2025-11-08T10:54:13.848794+01:00",
+    "raw_valid": true,
+    "song_session_id": "d77431b8-9df0-41c9-b5e8-1a869c95982c",
+    "duration_ms": 221440,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Try",
+    "artists": [
+      "Pink"
+    ],
+    "isrc": "USRC11200785",
+    "start_time": "2025-11-08 10:57:18",
+    "radio": "expres",
+    "recorded_at": "2025-11-08T10:57:33.585908+01:00",
+    "raw_valid": true,
+    "song_session_id": "b3bae024-d3ec-4347-9ee1-fb65abeb64c8",
+    "duration_ms": 247720,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Million Good Reasons",
+    "artists": [
+      "Robin Schulz",
+      "Fast Boy"
+    ],
+    "isrc": "DEA622404738",
+    "start_time": "2025-11-08 11:07:07",
+    "radio": "expres",
+    "recorded_at": "2025-11-08T11:07:43.883719+01:00",
+    "raw_valid": true,
+    "song_session_id": "3f0d0edf-a22f-4414-be2c-d5ebac67ac87",
+    "duration_ms": 157130,
+    "genre": []
+  },
+  {
+    "song": "Zustan Tu Se Mnou (Za Sny)",
+    "artists": [
+      "Krystof"
+    ],
+    "isrc": "CZUM71700170",
+    "start_time": "2025-11-08 11:09:49",
+    "radio": "expres",
+    "recorded_at": "2025-11-08T11:10:19.771327+01:00",
+    "raw_valid": true,
+    "song_session_id": "3ca70ed6-6fac-48df-ab55-1fc8bad6d4be",
+    "duration_ms": 376000,
+    "genre": []
+  },
+  {
+    "song": "Im Good (Blue)",
+    "artists": [
+      "David Guetta",
+      "Bebe Rexha"
+    ],
+    "isrc": "UKWLG2200055",
+    "start_time": "2025-11-08 11:15:07",
+    "radio": "expres",
+    "recorded_at": "2025-11-08T11:15:37.602682+01:00",
+    "raw_valid": true,
+    "song_session_id": "73a6dbd3-af7f-4601-8569-d96fa6397876",
+    "duration_ms": 175238,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Ludia Nie Su Zli",
+    "artists": [
+      "Imt Smile"
+    ],
+    "isrc": "SKA019903001",
+    "start_time": "2025-11-08 11:20:26",
+    "radio": "expres",
+    "recorded_at": "2025-11-08T11:20:57.108021+01:00",
+    "raw_valid": true,
+    "song_session_id": "ea451ade-846e-4122-87e1-05614861f8d3",
+    "duration_ms": 179360,
+    "genre": []
+  },
+  {
+    "song": "Someone Else",
+    "artists": [
+      "Clockclock"
+    ],
+    "isrc": "DECE72202297",
+    "start_time": "2025-11-08 11:23:15",
+    "radio": "expres",
+    "recorded_at": "2025-11-08T11:23:40.551032+01:00",
+    "raw_valid": true,
+    "song_session_id": "be490d86-33e4-4c35-9abf-2e91edc5e917",
+    "duration_ms": 173423,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Medzi Nebom A Zenou",
+    "artists": [
+      "Banket",
+      "Richard Muller",
+      "Ema Muller"
+    ],
+    "isrc": "SKC362500009",
+    "start_time": "2025-11-08 11:26:07",
+    "radio": "expres",
+    "recorded_at": "2025-11-08T11:26:35.034662+01:00",
+    "raw_valid": true,
+    "song_session_id": "77120751-3314-4ebf-ba7e-5913f9240842",
+    "duration_ms": 228666,
+    "genre": []
+  },
+  {
+    "song": "Birds",
+    "artists": [
+      "Imagine Dragons",
+      "Elisa"
+    ],
+    "isrc": "USUM71911107",
+    "start_time": "2025-11-08 11:32:37",
+    "radio": "expres",
+    "recorded_at": "2025-11-08T11:33:18.558755+01:00",
+    "raw_valid": true,
+    "song_session_id": "89ce7529-d102-4adc-b066-6e0daa41c4fa",
+    "duration_ms": 219434,
+    "genre": []
+  },
+  {
+    "song": "Rock N Roll",
+    "artists": [
+      "Leony",
+      "G-Eazy"
+    ],
+    "isrc": "DEN062400703",
+    "start_time": "2025-11-08 11:36:21",
+    "radio": "expres",
+    "recorded_at": "2025-11-08T11:36:36.652114+01:00",
+    "raw_valid": true,
+    "song_session_id": "8ef3951c-4355-4a46-9156-a72507ccc5e9",
+    "duration_ms": 158374,
+    "genre": [
+      "offizielle charts"
+    ]
+  },
+  {
+    "song": "Angels",
+    "artists": [
+      "Robbie Williams"
+    ],
+    "isrc": "GBAYE9700233",
+    "start_time": "2025-11-08 11:39:00",
+    "radio": "expres",
+    "recorded_at": "2025-11-08T11:39:19.630017+01:00",
+    "raw_valid": true,
+    "song_session_id": "005f5142-60da-4e8e-a456-1fe5747819f3",
+    "duration_ms": 265733,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "The Dead Dance",
+    "artists": [
+      "Lady Gaga"
+    ],
+    "isrc": "USUM72407034",
+    "start_time": "2025-11-08 11:43:26",
+    "radio": "expres",
+    "recorded_at": "2025-11-08T11:43:48.423856+01:00",
+    "raw_valid": true,
+    "song_session_id": "9d943e02-33e9-4d26-bc75-690569107258",
+    "duration_ms": 228518,
+    "genre": [
+      "offizielle charts"
+    ]
+  },
+  {
+    "song": "Neviem Byt Sam",
+    "artists": [
+      "Elan"
+    ],
+    "isrc": "SKA128561901",
+    "start_time": "2025-11-08 11:47:03",
+    "radio": "expres",
+    "recorded_at": "2025-11-08T11:47:18.787510+01:00",
+    "raw_valid": true,
+    "song_session_id": "6e81a18f-0d50-42b2-9c32-63eb774673c1",
+    "duration_ms": 231066,
+    "genre": []
+  },
+  {
+    "song": "Celestial",
+    "artists": [
+      "Ed Sheeran"
+    ],
+    "isrc": "GBAHS2201129",
+    "start_time": "2025-11-08 11:50:35",
+    "radio": "expres",
+    "recorded_at": "2025-11-08T11:50:57.190449+01:00",
+    "raw_valid": true,
+    "song_session_id": "588e63b0-fc83-476f-9956-2f6f5368ca4c",
+    "duration_ms": 209026,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Jerusalema",
+    "artists": [
+      "Master Kg",
+      "Nomcebo"
+    ],
+    "isrc": "ZA82Y1900130",
+    "start_time": "2025-11-08 11:53:30",
+    "radio": "expres",
+    "recorded_at": "2025-11-08T11:53:45.705389+01:00",
+    "raw_valid": true,
+    "song_session_id": "030e2d15-0b83-48e0-85fc-f322845ef513",
+    "duration_ms": 342662,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Proklinam (Live)",
+    "artists": [
+      "Janek Ledecky"
+    ],
+    "isrc": "CZUM71800068",
+    "start_time": "2025-11-08 11:56:25",
+    "radio": "expres",
+    "recorded_at": "2025-11-08T11:56:39.332409+01:00",
+    "raw_valid": true,
+    "song_session_id": "8f3e0b23-196d-4864-96a8-00f0ed04304a",
+    "duration_ms": 243466,
+    "genre": []
+  }
+]

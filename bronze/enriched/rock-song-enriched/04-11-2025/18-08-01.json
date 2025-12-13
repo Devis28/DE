@@ -1,0 +1,72 @@
+[
+  {
+    "last_update": "2025-11-04 17:58:01",
+    "song": {
+      "musicAuthor": "Bon Jovi",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048517a231174875d7930de9dad58",
+      "musicTitle": "It's My Life",
+      "radio": "Rádio ROCK",
+      "startTime": "18:54"
+    },
+    "recorded_at": "2025-11-04T18:58:01.883298+01:00",
+    "raw_valid": true,
+    "song_session_id": "5bfd9e2b-3755-4dde-b430-7cd039497b13",
+    "duration_ms": 224493,
+    "isrc": "USIR20000145",
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "last_update": "2025-11-04 17:58:30",
+    "song": {
+      "musicAuthor": "The Cranberries",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851b81b7c1663be64a39433eb35",
+      "musicTitle": "Promises",
+      "radio": "Rádio ROCK",
+      "startTime": "18:57"
+    },
+    "recorded_at": "2025-11-04T18:58:31.938637+01:00",
+    "raw_valid": true,
+    "song_session_id": "ca766cf8-eae3-43fc-bc14-6c94117ceb30",
+    "duration_ms": 327573,
+    "isrc": "USIR29900003",
+    "genre": []
+  },
+  {
+    "last_update": "2025-11-04 18:04:32",
+    "song": {
+      "musicAuthor": "Linkin Park",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851e2f039481babe23658fc719a",
+      "musicTitle": "Crawling",
+      "radio": "Rádio ROCK",
+      "startTime": "19:03"
+    },
+    "recorded_at": "2025-11-04T19:04:33.203610+01:00",
+    "raw_valid": true,
+    "song_session_id": "58d36e1c-f5d7-4964-a537-70619363f9d9",
+    "duration_ms": 208960,
+    "isrc": "USWB10002405",
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "last_update": "2025-11-04 18:07:32",
+    "song": {
+      "musicAuthor": "Green Day",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851db89b08034de626ebee6823d",
+      "musicTitle": "When I Come Around",
+      "radio": "Rádio ROCK",
+      "startTime": "19:07"
+    },
+    "recorded_at": "2025-11-04T19:07:33.484577+01:00",
+    "raw_valid": true,
+    "song_session_id": "d597a019-faa3-4054-af4d-70eddbe767df",
+    "duration_ms": 178000,
+    "isrc": "USRE19900154",
+    "genre": [
+      "punk"
+    ]
+  }
+]

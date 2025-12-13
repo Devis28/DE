@@ -1,0 +1,56 @@
+[
+  {
+    "last_update": "2025-11-04 19:48:12",
+    "song": {
+      "musicAuthor": "Offspring The",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851cbd2ee7dff77bfb2b5f0af52",
+      "musicTitle": "Why Don't You Get A Job",
+      "radio": "Rádio ROCK",
+      "startTime": "20:48"
+    },
+    "recorded_at": "2025-11-04T20:48:13.237263+01:00",
+    "raw_valid": true,
+    "song_session_id": "912a7ccb-9f99-4f08-a73d-566768413eec",
+    "duration_ms": 172466,
+    "isrc": "USSM19804369",
+    "genre": [
+      "punk"
+    ]
+  },
+  {
+    "last_update": "2025-11-04 19:51:13",
+    "song": {
+      "musicAuthor": "The Beatmen",
+      "musicCover": "https://static.radia.sk/covers/32/eaa96938-6d43-4b42-ac2f-e244293e2a88.jpg",
+      "musicTitle": "Let's Make A Summer",
+      "radio": "Rádio ROCK",
+      "startTime": "20:50"
+    },
+    "recorded_at": "2025-11-04T20:51:14.178051+01:00",
+    "raw_valid": true,
+    "song_session_id": "cbbd730f-0b36-4b2c-8d79-0e02de89c8fb",
+    "duration_ms": 184333,
+    "isrc": "SKA126584201",
+    "genre": [
+      "big beat"
+    ]
+  },
+  {
+    "last_update": "2025-11-04 19:54:14",
+    "song": {
+      "musicAuthor": "Bon Jovi",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048518cadefc62ac1c0b7c4ab882a",
+      "musicTitle": "These Days",
+      "radio": "Rádio ROCK",
+      "startTime": "20:54"
+    },
+    "recorded_at": "2025-11-04T20:54:14.944955+01:00",
+    "raw_valid": true,
+    "song_session_id": "c8b0ef03-7da8-4af4-88a1-c67378e66d5d",
+    "duration_ms": 387826,
+    "isrc": "USPR39505119",
+    "genre": [
+      "glam metal"
+    ]
+  }
+]

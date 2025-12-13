@@ -1,0 +1,460 @@
+[
+  {
+    "song": "Walk With Me",
+    "artists": [
+      "Felix Jaehn",
+      "Shouse"
+    ],
+    "isrc": "DEUM72411810",
+    "start_time": "2025-11-23 18:06:50",
+    "radio": "expres",
+    "recorded_at": "2025-11-23T18:07:09.115524+01:00",
+    "raw_valid": true,
+    "song_session_id": "62f5652e-e87c-46a5-a118-6309a90ca938",
+    "duration_ms": 152535,
+    "genre": []
+  },
+  {
+    "song": "Sick And Tired",
+    "artists": [
+      "Anastacia"
+    ],
+    "isrc": "USSM10401046",
+    "start_time": "2025-11-23 18:09:31",
+    "radio": "expres",
+    "recorded_at": "2025-11-23T18:09:41.633259+01:00",
+    "raw_valid": true,
+    "song_session_id": "080ad7f6-0df6-44f1-8e3d-c917d5d52681",
+    "duration_ms": 212266,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Glide",
+    "artists": [
+      "Neiked",
+      "Portugal The Man"
+    ],
+    "isrc": "DEE862500421",
+    "start_time": "2025-11-23 18:13:04",
+    "radio": "expres",
+    "recorded_at": "2025-11-23T18:13:25.207487+01:00",
+    "raw_valid": true,
+    "song_session_id": "56a780fa-81ca-4585-874c-8894424994c0",
+    "duration_ms": 184405,
+    "genre": []
+  },
+  {
+    "song": "Alejandro",
+    "artists": [
+      "Lady Gaga"
+    ],
+    "isrc": "USUM70905526",
+    "start_time": "2025-11-23 18:16:00",
+    "radio": "expres",
+    "recorded_at": "2025-11-23T18:16:07.918879+01:00",
+    "raw_valid": true,
+    "song_session_id": "8e5a2955-0da9-4b3e-bfd2-677121c8f1a9",
+    "duration_ms": 274213,
+    "genre": [
+      "electronic"
+    ]
+  },
+  {
+    "song": "Blink Twice",
+    "artists": [
+      "Shaboozey",
+      "Myles Smith"
+    ],
+    "isrc": "USUYG1717098",
+    "start_time": "2025-11-23 18:19:38",
+    "radio": "expres",
+    "recorded_at": "2025-11-23T18:19:54.203621+01:00",
+    "raw_valid": true,
+    "song_session_id": "5a73af56-8068-4665-8edf-62affa2d9517",
+    "duration_ms": 156721,
+    "genre": []
+  },
+  {
+    "song": "Hungry Eyes",
+    "artists": [
+      "Eric Carmen"
+    ],
+    "isrc": "USRC19708312",
+    "start_time": "2025-11-23 18:22:34",
+    "radio": "expres",
+    "recorded_at": "2025-11-23T18:22:57.101960+01:00",
+    "raw_valid": true,
+    "song_session_id": "fd28e774-09d3-4791-bf51-ea5fd3483dd8",
+    "duration_ms": 232439,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Why Why Why",
+    "artists": [
+      "Shawn Mendes"
+    ],
+    "isrc": "USUM72408543",
+    "start_time": "2025-11-23 18:26:20",
+    "radio": "expres",
+    "recorded_at": "2025-11-23T18:26:37.319132+01:00",
+    "raw_valid": true,
+    "song_session_id": "80858037-b4fa-432e-b9da-09e04f2b1156",
+    "duration_ms": 169041,
+    "genre": []
+  },
+  {
+    "song": "Regalo",
+    "artists": [
+      "Alvaro Soler"
+    ],
+    "isrc": "DEE862500388",
+    "start_time": "2025-11-23 18:33:05",
+    "radio": "expres",
+    "recorded_at": "2025-11-23T18:33:23.157633+01:00",
+    "raw_valid": true,
+    "song_session_id": "09347bbc-165c-4bb8-849d-a74017ab3ab6",
+    "duration_ms": 184984,
+    "genre": []
+  },
+  {
+    "song": "Horehronie",
+    "artists": [
+      "Kristina"
+    ],
+    "isrc": "SKA011000098",
+    "start_time": "2025-11-23 18:36:18",
+    "radio": "expres",
+    "recorded_at": "2025-11-23T18:36:46.737115+01:00",
+    "raw_valid": true,
+    "song_session_id": "ca0ad97e-252a-4eae-b13a-af380f3eda92",
+    "duration_ms": 183146,
+    "genre": [
+      "remark/catchy"
+    ]
+  },
+  {
+    "song": "Someone Like You",
+    "artists": [
+      "Adele"
+    ],
+    "isrc": "GBBKS1000351",
+    "start_time": "2025-11-23 18:39:20",
+    "radio": "expres",
+    "recorded_at": "2025-11-23T18:39:49.831246+01:00",
+    "raw_valid": true,
+    "song_session_id": "1166f533-f0bd-4372-8d8f-8ceb5f0785e5",
+    "duration_ms": 282000,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Head Above Water",
+    "artists": [
+      "Twocolors",
+      "Safri Duo",
+      "Chris De Sarandy"
+    ],
+    "isrc": "DEUM72503698",
+    "start_time": "2025-11-23 18:44:09",
+    "radio": "expres",
+    "recorded_at": "2025-11-23T18:44:33.952893+01:00",
+    "raw_valid": true,
+    "song_session_id": "032e2913-cd70-4e16-9a1a-aea5fc5bfdad",
+    "duration_ms": 174550,
+    "genre": []
+  },
+  {
+    "song": "Wild World",
+    "artists": [
+      "Mr Big"
+    ],
+    "isrc": "USAT20901235",
+    "start_time": "2025-11-23 18:47:01",
+    "radio": "expres",
+    "recorded_at": "2025-11-23T18:47:19.592603+01:00",
+    "raw_valid": true,
+    "song_session_id": "04f38f22-cef5-4ca7-ba28-007470a133a3",
+    "duration_ms": 208560,
+    "genre": []
+  },
+  {
+    "song": "Beautiful People",
+    "artists": [
+      "David Guetta",
+      "Sia"
+    ],
+    "isrc": "UKWLG2500016",
+    "start_time": "2025-11-23 18:50:34",
+    "radio": "expres",
+    "recorded_at": "2025-11-23T18:50:59.308655+01:00",
+    "raw_valid": true,
+    "song_session_id": "f9e3350a-4c75-4dbb-9bd7-9a5e76b66ffa",
+    "duration_ms": 187086,
+    "genre": []
+  },
+  {
+    "song": "Eternity",
+    "artists": [
+      "Alex Warren"
+    ],
+    "isrc": "USAT22503779",
+    "start_time": "2025-11-23 18:53:36",
+    "radio": "expres",
+    "recorded_at": "2025-11-23T18:54:02.543190+01:00",
+    "raw_valid": true,
+    "song_session_id": "725b7b02-2ea4-4d6b-86d2-7a61b67e6277",
+    "duration_ms": 189553,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Eye Of The Tiger",
+    "artists": [
+      "Survivor"
+    ],
+    "isrc": "USVR19300001",
+    "start_time": "2025-11-23 18:57:02",
+    "radio": "expres",
+    "recorded_at": "2025-11-23T18:57:32.648204+01:00",
+    "raw_valid": true,
+    "song_session_id": "9bb3bedb-824c-45cd-9cb3-3a0bd20d4324",
+    "duration_ms": 246080,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Mystical Magical",
+    "artists": [
+      "Benson Boone"
+    ],
+    "isrc": "USWB12500844",
+    "start_time": "2025-11-23 19:06:28",
+    "radio": "expres",
+    "recorded_at": "2025-11-23T19:06:54.893838+01:00",
+    "raw_valid": true,
+    "song_session_id": "30d74743-fdf9-48e1-aa48-7c4991c4fb91",
+    "duration_ms": 165746,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Quit Playing Games With My Heart",
+    "artists": [
+      "Backstreet Boys"
+    ],
+    "isrc": "USJI19710152",
+    "start_time": "2025-11-23 19:09:20",
+    "radio": "expres",
+    "recorded_at": "2025-11-23T19:09:35.342695+01:00",
+    "raw_valid": true,
+    "song_session_id": "ac5c02d8-3f8d-4d89-8d31-52bcbf7b51ff",
+    "duration_ms": 232466,
+    "genre": [
+      "electronic"
+    ]
+  },
+  {
+    "song": "Let Me Die",
+    "artists": [
+      "Mark Dann",
+      "Giovanni Ricci"
+    ],
+    "isrc": "US38Y2520370",
+    "start_time": "2025-11-23 19:11:56",
+    "radio": "expres",
+    "recorded_at": "2025-11-23T19:12:18.289159+01:00",
+    "raw_valid": true,
+    "song_session_id": "de32e174-3ec3-4836-97b9-4aeb6d6df22b",
+    "duration_ms": 147010,
+    "genre": []
+  },
+  {
+    "song": "La Bicicleta",
+    "artists": [
+      "Carlos Vives",
+      "Shakira"
+    ],
+    "isrc": "USSD11600112",
+    "start_time": "2025-11-23 19:14:33",
+    "radio": "expres",
+    "recorded_at": "2025-11-23T19:14:56.184558+01:00",
+    "raw_valid": true,
+    "song_session_id": "639be4fa-0c59-4193-bf03-46308bf0c950",
+    "duration_ms": 226480,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Talk To Me",
+    "artists": [
+      "Damiano David",
+      "Tyla",
+      "Nile Rodgers"
+    ],
+    "isrc": "ITB002500942",
+    "start_time": "2025-11-23 19:18:16",
+    "radio": "expres",
+    "recorded_at": "2025-11-23T19:19:01.126865+01:00",
+    "raw_valid": true,
+    "song_session_id": "9cbad354-c615-447b-9082-cf75ba568f78",
+    "duration_ms": 193502,
+    "genre": []
+  },
+  {
+    "song": "O Blaznech",
+    "artists": [
+      "Michal Penk"
+    ],
+    "isrc": "CZA549200308",
+    "start_time": "2025-11-23 19:21:51",
+    "radio": "expres",
+    "recorded_at": "2025-11-23T19:22:15.665529+01:00",
+    "raw_valid": true,
+    "song_session_id": "e79e5766-0cd6-45f9-bd3c-cc314640ce7e",
+    "duration_ms": 278000,
+    "genre": []
+  },
+  {
+    "song": "Trustfall",
+    "artists": [
+      "Pink"
+    ],
+    "isrc": "USRC12204190",
+    "start_time": "2025-11-23 19:26:27",
+    "radio": "expres",
+    "recorded_at": "2025-11-23T19:26:49.879802+01:00",
+    "raw_valid": true,
+    "song_session_id": "027fcc21-1cd7-4a22-b836-cbb09289c7e2",
+    "duration_ms": 237192,
+    "genre": []
+  },
+  {
+    "song": "Undressed",
+    "artists": [
+      "Sombr"
+    ],
+    "isrc": "USWB12500737",
+    "start_time": "2025-11-23 19:32:25",
+    "radio": "expres",
+    "recorded_at": "2025-11-23T19:32:55.322855+01:00",
+    "raw_valid": true,
+    "song_session_id": "34722e2b-7d9a-4f4a-8a38-011a54b3ad18",
+    "duration_ms": 182088,
+    "genre": [
+      "indie pop"
+    ]
+  },
+  {
+    "song": "Obchodnik S Destem",
+    "artists": [
+      "Krystof"
+    ],
+    "isrc": "CZA230200203",
+    "start_time": "2025-11-23 19:35:40",
+    "radio": "expres",
+    "recorded_at": "2025-11-23T19:35:53.132329+01:00",
+    "raw_valid": true,
+    "song_session_id": "a7029805-901d-488e-9326-83dc40816184",
+    "duration_ms": 214400,
+    "genre": []
+  },
+  {
+    "song": "Dont Stop The Music",
+    "artists": [
+      "Rihanna"
+    ],
+    "isrc": "USUM70734700",
+    "start_time": "2025-11-23 19:39:01",
+    "radio": "expres",
+    "recorded_at": "2025-11-23T19:39:16.513181+01:00",
+    "raw_valid": true,
+    "song_session_id": "08cca29a-8aff-40e0-acf7-f79d34df4956",
+    "duration_ms": 269400,
+    "genre": [
+      "electronic"
+    ]
+  },
+  {
+    "song": "Wonderful Life 25",
+    "artists": [
+      "Hurts",
+      "Purple Disco Machine"
+    ],
+    "isrc": "DEE862500677",
+    "start_time": "2025-11-23 19:43:34",
+    "radio": "expres",
+    "recorded_at": "2025-11-23T19:44:00.637805+01:00",
+    "raw_valid": true,
+    "song_session_id": "4e00f7e4-25d1-4f26-b36f-043077908580",
+    "duration_ms": 178658,
+    "genre": []
+  },
+  {
+    "song": "Tanecnice Z Lucnice",
+    "artists": [
+      "Elan"
+    ],
+    "isrc": "SKA128678701",
+    "start_time": "2025-11-23 19:46:27",
+    "radio": "expres",
+    "recorded_at": "2025-11-23T19:46:43.405530+01:00",
+    "raw_valid": true,
+    "song_session_id": "25516923-d70d-49b9-88ba-d1fe8da0b50a",
+    "duration_ms": 170800,
+    "genre": []
+  },
+  {
+    "song": "Wonders",
+    "artists": [
+      "Michael Patrick Kelly",
+      "Rakim"
+    ],
+    "isrc": "DEE862201500",
+    "start_time": "2025-11-23 19:49:18",
+    "radio": "expres",
+    "recorded_at": "2025-11-23T19:49:26.108672+01:00",
+    "raw_valid": true,
+    "song_session_id": "f956823e-7d53-4f34-9859-316b78aa83ca",
+    "duration_ms": 209186,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Blood Running",
+    "artists": [
+      "Ray Dalton"
+    ],
+    "isrc": "DEUM72507812",
+    "start_time": "2025-11-23 19:52:41",
+    "radio": "expres",
+    "recorded_at": "2025-11-23T19:53:09.694330+01:00",
+    "raw_valid": true,
+    "song_session_id": "99d17c47-b58e-4443-ba65-cd3e18c4d12d",
+    "duration_ms": 173146,
+    "genre": []
+  },
+  {
+    "song": "Srdce Jako Knize Rohan",
+    "artists": [
+      "Richard Muller"
+    ],
+    "isrc": "CZA110003022",
+    "start_time": "2025-11-23 19:55:59",
+    "radio": "expres",
+    "recorded_at": "2025-11-23T19:56:22.676891+01:00",
+    "raw_valid": true,
+    "song_session_id": "b9f0bb2e-6c6d-4cc0-97a8-a3c8d2c9d517",
+    "duration_ms": 245160,
+    "genre": []
+  }
+]

@@ -1,0 +1,337 @@
+[
+  {
+    "song": {
+      "play_date": "2025-11-06",
+      "play_time": "21:58",
+      "artist": [
+        "Ondrej Juraši"
+      ],
+      "title": "Triwaltz"
+    },
+    "recorded_at": "2025-11-06T22:02:40.170863+01:00",
+    "raw_valid": true,
+    "song_session_id": "36a03136-c3b0-4a05-8c7a-35b849fe56f7",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-11-06",
+      "play_time": "22:05",
+      "artist": [
+        "Riso B"
+      ],
+      "title": "Vo Svelte Reflektorov"
+    },
+    "recorded_at": "2025-11-06T22:07:40.900005+01:00",
+    "raw_valid": true,
+    "song_session_id": "6e90ee39-e365-4367-b838-0f68bb7531a2",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-11-06",
+      "play_time": "22:09",
+      "artist": [
+        "Dominyka Mauliūtė"
+      ],
+      "title": "Joe Pass - Paco De Lucia"
+    },
+    "recorded_at": "2025-11-06T22:12:41.579075+01:00",
+    "raw_valid": true,
+    "song_session_id": "27339241-42e2-4bb2-bfbf-f11f11524e8d",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-11-06",
+      "play_time": "22:15",
+      "artist": [
+        "A",
+        "ertee"
+      ],
+      "title": "Will The Circle Be Unbroken"
+    },
+    "recorded_at": "2025-11-06T22:17:42.262256+01:00",
+    "raw_valid": true,
+    "song_session_id": "5ec5925f-da79-4f13-806c-47223f72f080",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-11-06",
+      "play_time": "22:23",
+      "artist": [
+        "Eddie Harris",
+        "Les Mccann"
+      ],
+      "title": "Compared To What"
+    },
+    "recorded_at": "2025-11-06T22:27:43.621625+01:00",
+    "raw_valid": true,
+    "song_session_id": "3b769fd3-90bc-4e48-a295-bc5ea1ce0471",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-11-06",
+      "play_time": "22:31",
+      "artist": [
+        "Petras Projekt"
+      ],
+      "title": "Kopa Cura Vinograd"
+    },
+    "recorded_at": "2025-11-06T22:32:44.303632+01:00",
+    "raw_valid": true,
+    "song_session_id": "38ccd675-84f9-4f5c-b5c9-7a7d2947daa6",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-11-06",
+      "play_time": "22:34",
+      "artist": [
+        "Etta James"
+      ],
+      "title": "At Last"
+    },
+    "recorded_at": "2025-11-06T22:37:44.994441+01:00",
+    "raw_valid": true,
+    "song_session_id": "f8ca5073-8025-43f4-a28c-fc51c7ae2ce1",
+    "duration_ms": null,
+    "genre": [
+      "soul"
+    ]
+  },
+  {
+    "song": {
+      "play_date": "2025-11-06",
+      "play_time": "22:37",
+      "artist": [
+        "Sisa Michalidesová"
+      ],
+      "title": "Dance Floor For Me"
+    },
+    "recorded_at": "2025-11-06T22:42:45.810793+01:00",
+    "raw_valid": true,
+    "song_session_id": "46941d6a-2cbe-4541-a46c-8c979a169ba9",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-11-06",
+      "play_time": "22:43",
+      "artist": [
+        "Kyoto Jazz Massive"
+      ],
+      "title": "Silent Messenger"
+    },
+    "recorded_at": "2025-11-06T22:47:46.499766+01:00",
+    "raw_valid": true,
+    "song_session_id": "56000f50-13c0-4ed2-83f4-2039ff608be6",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-11-06",
+      "play_time": "22:49",
+      "artist": [
+        "Peter Palaj"
+      ],
+      "title": "Harsh Bossa"
+    },
+    "recorded_at": "2025-11-06T22:52:47.169023+01:00",
+    "raw_valid": true,
+    "song_session_id": "0ff53470-1424-44e6-9c25-e8ff3d8294ac",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-11-06",
+      "play_time": "22:56",
+      "artist": [
+        "Herlin Riley"
+      ],
+      "title": "Harlem Shuffle"
+    },
+    "recorded_at": "2025-11-06T22:57:47.848916+01:00",
+    "raw_valid": true,
+    "song_session_id": "48ee400e-535b-4078-bbb8-ba4b165494dd",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-11-06",
+      "play_time": "23:04",
+      "artist": [
+        "Down To The Bone"
+      ],
+      "title": "Dig It"
+    },
+    "recorded_at": "2025-11-06T23:07:49.263021+01:00",
+    "raw_valid": true,
+    "song_session_id": "955028a1-8423-4fab-9321-30eae43b3b75",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-11-06",
+      "play_time": "23:11",
+      "artist": [
+        "Branislav Dugovič"
+      ],
+      "title": "Troška Sa Preberiem"
+    },
+    "recorded_at": "2025-11-06T23:12:49.941241+01:00",
+    "raw_valid": true,
+    "song_session_id": "723b72e0-e691-4c7f-afd7-1d0d474bae5a",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-11-06",
+      "play_time": "23:13",
+      "artist": [
+        "Lilly Ilieva",
+        "Minimum Quartet"
+      ],
+      "title": "5 Sparrows"
+    },
+    "recorded_at": "2025-11-06T23:17:50.624726+01:00",
+    "raw_valid": true,
+    "song_session_id": "b3621a81-d04c-4aed-a81a-339747c0e048",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-11-06",
+      "play_time": "23:20",
+      "artist": [
+        "Lukas Oravec Orchestra"
+      ],
+      "title": "Gurun"
+    },
+    "recorded_at": "2025-11-06T23:22:51.294494+01:00",
+    "raw_valid": true,
+    "song_session_id": "55016794-ebc8-421f-b21c-e8e55f5c7575",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-11-06",
+      "play_time": "23:27",
+      "artist": [
+        "Nina Simone"
+      ],
+      "title": "This Year's Kisses"
+    },
+    "recorded_at": "2025-11-06T23:27:51.969398+01:00",
+    "raw_valid": true,
+    "song_session_id": "08472587-c709-444c-a1d0-4a5a59f2a7ab",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-11-06",
+      "play_time": "23:29",
+      "artist": [
+        "Impaco Trio"
+      ],
+      "title": "Human"
+    },
+    "recorded_at": "2025-11-06T23:32:52.642949+01:00",
+    "raw_valid": true,
+    "song_session_id": "1f0f8148-94e2-4314-9c30-5e2ca9c9b854",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-11-06",
+      "play_time": "23:35",
+      "artist": [
+        "Libertatem Ensemble"
+      ],
+      "title": "Maheoo"
+    },
+    "recorded_at": "2025-11-06T23:37:53.333053+01:00",
+    "raw_valid": true,
+    "song_session_id": "2472c459-bb77-40b3-b60b-cc54f3477c6c",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-11-06",
+      "play_time": "23:39",
+      "artist": [
+        "Stryjo"
+      ],
+      "title": "Ze"
+    },
+    "recorded_at": "2025-11-06T23:42:54.020927+01:00",
+    "raw_valid": true,
+    "song_session_id": "86289ef4-c9a0-4405-ac42-a37689adfa99",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-11-06",
+      "play_time": "23:43",
+      "artist": [
+        "Sisa Michalidesová"
+      ],
+      "title": "Twighlight"
+    },
+    "recorded_at": "2025-11-06T23:47:54.696112+01:00",
+    "raw_valid": true,
+    "song_session_id": "5d84ca6a-a3a3-4746-93da-130e087df4cd",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-11-06",
+      "play_time": "23:51",
+      "artist": [
+        "Duke Ellington"
+      ],
+      "title": "Caravan"
+    },
+    "recorded_at": "2025-11-06T23:52:55.373093+01:00",
+    "raw_valid": true,
+    "song_session_id": "eb2f61b7-bddf-4a23-85ca-2311523032ef",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-11-06",
+      "play_time": "23:54",
+      "artist": [
+        "Groove Brothers"
+      ],
+      "title": "Seven"
+    },
+    "recorded_at": "2025-11-06T23:57:56.049837+01:00",
+    "raw_valid": true,
+    "song_session_id": "8e2e9ff4-17de-4195-8f7a-e468bea2b3f1",
+    "duration_ms": null,
+    "genre": []
+  }
+]

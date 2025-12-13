@@ -1,0 +1,422 @@
+[
+  {
+    "station": "Rádio Melody",
+    "title": "Nothing Else Matters",
+    "artist": "Metallica",
+    "date": "17.11.2025",
+    "time": "00:05",
+    "last_update": "17.11.2025 00:06:21",
+    "recorded_at": "2025-11-17T00:06:21.080312+01:00",
+    "raw_valid": true,
+    "song_session_id": "772f68c3-f3a0-4a0c-af66-277dd9e59330",
+    "duration_ms": 388733,
+    "genre": [
+      "metal"
+    ]
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Už Je Tu Láska",
+    "artist": "Peter Nagy",
+    "date": "17.11.2025",
+    "time": "00:11",
+    "last_update": "17.11.2025 00:12:35",
+    "recorded_at": "2025-11-17T00:12:35.858650+01:00",
+    "raw_valid": true,
+    "song_session_id": "aaa0b101-e1d4-4309-bb13-092f5027da74",
+    "duration_ms": 177026,
+    "genre": []
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Forever Young",
+    "artist": "Alphaville",
+    "date": "17.11.2025",
+    "time": "00:14",
+    "last_update": "17.11.2025 00:15:13",
+    "recorded_at": "2025-11-17T00:15:13.713499+01:00",
+    "raw_valid": true,
+    "song_session_id": "09cbb624-7438-4cc3-8543-1ed861eb01fc",
+    "duration_ms": 226706,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Yesterday",
+    "artist": "The Beatles",
+    "date": "17.11.2025",
+    "time": "00:18",
+    "last_update": "17.11.2025 00:19:28",
+    "recorded_at": "2025-11-17T00:19:28.106829+01:00",
+    "raw_valid": true,
+    "song_session_id": "e7b9e07a-802b-4ba7-b220-2deae7de097d",
+    "duration_ms": 125666,
+    "genre": [
+      "classic rock"
+    ]
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "V nás",
+    "artist": "Nocadeň",
+    "date": "17.11.2025",
+    "time": "00:20",
+    "last_update": "17.11.2025 00:21:31",
+    "recorded_at": "2025-11-17T00:21:31.925548+01:00",
+    "raw_valid": true,
+    "song_session_id": "f56ab9ca-bb70-4865-87f2-3aae570311a2",
+    "duration_ms": 220106,
+    "genre": []
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Listen To Your Heart",
+    "artist": "Roxette",
+    "date": "17.11.2025",
+    "time": "00:23",
+    "last_update": "17.11.2025 00:24:33",
+    "recorded_at": "2025-11-17T00:24:33.798207+01:00",
+    "raw_valid": true,
+    "song_session_id": "83ecad55-140f-49de-b535-ba7bff27f0df",
+    "duration_ms": 328093,
+    "genre": [
+      "swedish pop"
+    ]
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Hej, Sokoly!",
+    "artist": "I.M.T. Smile & Ondrej Kandráč",
+    "date": "17.11.2025",
+    "time": "00:28",
+    "last_update": "17.11.2025 00:29:43",
+    "recorded_at": "2025-11-17T00:29:43.751137+01:00",
+    "raw_valid": true,
+    "song_session_id": "ea732248-d8cb-4429-b72e-1d0a65841340",
+    "duration_ms": 174250,
+    "genre": []
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Angels",
+    "artist": "Robbie Williams",
+    "date": "17.11.2025",
+    "time": "00:31",
+    "last_update": "17.11.2025 00:32:59",
+    "recorded_at": "2025-11-17T00:32:59.629657+01:00",
+    "raw_valid": true,
+    "song_session_id": "fdf405ba-b8e7-4de2-9ccc-2b9d34f0c24e",
+    "duration_ms": 265000,
+    "genre": []
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Dream On",
+    "artist": "Nazareth",
+    "date": "17.11.2025",
+    "time": "00:36",
+    "last_update": "17.11.2025 00:37:14",
+    "recorded_at": "2025-11-17T00:37:14.603187+01:00",
+    "raw_valid": true,
+    "song_session_id": "fd799273-449d-4b72-92f6-61def7d069fa",
+    "duration_ms": 204826,
+    "genre": [
+      "hard rock"
+    ]
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Ja Som To Vedel",
+    "artist": "Polemic",
+    "date": "17.11.2025",
+    "time": "00:39",
+    "last_update": "17.11.2025 00:40:19",
+    "recorded_at": "2025-11-17T00:40:19.272731+01:00",
+    "raw_valid": true,
+    "song_session_id": "4a17eed0-bfa0-48b9-afa7-8fe785599168",
+    "duration_ms": 149880,
+    "genre": [
+      "ska"
+    ]
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Piú Bella Cosa",
+    "artist": "Eros Ramazzotti",
+    "date": "17.11.2025",
+    "time": "00:42",
+    "last_update": "17.11.2025 00:43:23",
+    "recorded_at": "2025-11-17T00:43:23.455328+01:00",
+    "raw_valid": true,
+    "song_session_id": "7c0ead83-5edb-48ab-9a26-795cd3bd7ed2",
+    "duration_ms": 267813,
+    "genre": [
+      "italo dance"
+    ]
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Super Trouper",
+    "artist": "Abba",
+    "date": "17.11.2025",
+    "time": "00:46",
+    "last_update": "17.11.2025 00:47:28",
+    "recorded_at": "2025-11-17T00:47:28.481268+01:00",
+    "raw_valid": true,
+    "song_session_id": "a35457a9-39d7-4f41-921a-707b11cebe29",
+    "duration_ms": 252853,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Just Another Day",
+    "artist": "Jon Secada",
+    "date": "17.11.2025",
+    "time": "00:50",
+    "last_update": "17.11.2025 00:51:09",
+    "recorded_at": "2025-11-17T00:51:09.791635+01:00",
+    "raw_valid": true,
+    "song_session_id": "9088d18c-ddba-4281-ad5c-ae52487d7120",
+    "duration_ms": 327426,
+    "genre": []
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "La Isla Bonita",
+    "artist": "Madonna",
+    "date": "17.11.2025",
+    "time": "00:56",
+    "last_update": "17.11.2025 00:57:15",
+    "recorded_at": "2025-11-17T00:57:15.923528+01:00",
+    "raw_valid": true,
+    "song_session_id": "c97cd4e2-e722-49ba-b744-5b25100396e4",
+    "duration_ms": 242733,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Čím To Je",
+    "artist": "No Name",
+    "date": "17.11.2025",
+    "time": "00:59",
+    "last_update": "17.11.2025 01:01:02",
+    "recorded_at": "2025-11-17T01:01:02.047569+01:00",
+    "raw_valid": true,
+    "song_session_id": "02156bf8-fd66-4bea-b292-ef290ada75ce",
+    "duration_ms": 199733,
+    "genre": []
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "It's A Heartache",
+    "artist": "Bonnie Tyler",
+    "date": "17.11.2025",
+    "time": "01:03",
+    "last_update": "17.11.2025 01:04:37",
+    "recorded_at": "2025-11-17T01:04:37.133784+01:00",
+    "raw_valid": true,
+    "song_session_id": "74d909f6-6419-41c4-afa1-3c98533a33d3",
+    "duration_ms": 215160,
+    "genre": []
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Africa",
+    "artist": "Toto",
+    "date": "17.11.2025",
+    "time": "01:06",
+    "last_update": "17.11.2025 01:07:09",
+    "recorded_at": "2025-11-17T01:07:09.644041+01:00",
+    "raw_valid": true,
+    "song_session_id": "06112c2a-2634-4aa7-9371-7a5a334196ad",
+    "duration_ms": 295282,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Streets Of Philadelphia",
+    "artist": "Springsteen Bruce",
+    "date": "17.11.2025",
+    "time": "01:11",
+    "last_update": "17.11.2025 01:12:17",
+    "recorded_at": "2025-11-17T01:12:17.492111+01:00",
+    "raw_valid": true,
+    "song_session_id": "b2e237d8-a503-4ee1-8fab-bbd662cb3d6b",
+    "duration_ms": 196813,
+    "genre": []
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Horúca Láska",
+    "artist": "Lukáš Adamec",
+    "date": "17.11.2025",
+    "time": "01:15",
+    "last_update": "17.11.2025 01:16:25",
+    "recorded_at": "2025-11-17T01:16:25.647814+01:00",
+    "raw_valid": true,
+    "song_session_id": "5d9b8f7a-035c-4bfc-a1ae-7932ff07d794",
+    "duration_ms": 208147,
+    "genre": []
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Always",
+    "artist": "Bon Jovi",
+    "date": "17.11.2025",
+    "time": "01:19",
+    "last_update": "17.11.2025 01:20:28",
+    "recorded_at": "2025-11-17T01:20:28.162665+01:00",
+    "raw_valid": true,
+    "song_session_id": "755a2681-4222-4d76-b031-d79570f625c1",
+    "duration_ms": 353026,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Uličník Bozk",
+    "artist": "Gombitová Marika & Patejdl Vašo",
+    "date": "17.11.2025",
+    "time": "01:25",
+    "last_update": "17.11.2025 01:25:36",
+    "recorded_at": "2025-11-17T01:25:36.805032+01:00",
+    "raw_valid": true,
+    "song_session_id": "2cee664e-2f0d-4962-98e6-a991a0e2f34b",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Another Brick In The Wall Part 2",
+    "artist": "Pink Floyd",
+    "date": "17.11.2025",
+    "time": "01:28",
+    "last_update": "17.11.2025 01:29:08",
+    "recorded_at": "2025-11-17T01:29:08.986850+01:00",
+    "raw_valid": true,
+    "song_session_id": "5c38877f-6642-4287-b0dc-532f7f58c7d2",
+    "duration_ms": 238946,
+    "genre": [
+      "progressive rock"
+    ]
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Po Víne",
+    "artist": "Robo Grigorov",
+    "date": "17.11.2025",
+    "time": "01:32",
+    "last_update": "17.11.2025 01:32:11",
+    "recorded_at": "2025-11-17T01:32:11.083737+01:00",
+    "raw_valid": true,
+    "song_session_id": "d889dd32-f170-4d51-8d3d-c81d5df7db13",
+    "duration_ms": 258560,
+    "genre": []
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Len S Ňou",
+    "artist": "Žbirka Miroslav",
+    "date": "17.11.2025",
+    "time": "01:36",
+    "last_update": "17.11.2025 01:36:13",
+    "recorded_at": "2025-11-17T01:36:13.439177+01:00",
+    "raw_valid": true,
+    "song_session_id": "93ec552d-3f5b-457c-b7bd-431e3d072895",
+    "duration_ms": 187106,
+    "genre": []
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "I'll Be Missing You",
+    "artist": "Daddy, Puff & Evans, Faith",
+    "date": "17.11.2025",
+    "time": "01:39",
+    "last_update": "17.11.2025 01:39:15",
+    "recorded_at": "2025-11-17T01:39:15.034270+01:00",
+    "raw_valid": true,
+    "song_session_id": "5dd3ed40-96fe-4c85-ade3-efe93d123ded",
+    "duration_ms": 301520,
+    "genre": [
+      "hip hop"
+    ]
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "She's Like The Wind",
+    "artist": "Patrick Swayze",
+    "date": "17.11.2025",
+    "time": "01:44",
+    "last_update": "17.11.2025 01:45:19",
+    "recorded_at": "2025-11-17T01:45:19.374218+01:00",
+    "raw_valid": true,
+    "song_session_id": "284e1faa-6445-4823-8364-420cf19e03cb",
+    "duration_ms": 232906,
+    "genre": [
+      "yacht rock"
+    ]
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "(Everything I Do) I Do It For You",
+    "artist": "Adams Bryan",
+    "date": "17.11.2025",
+    "time": "01:48",
+    "last_update": "17.11.2025 01:48:21",
+    "recorded_at": "2025-11-17T01:48:21.124632+01:00",
+    "raw_valid": true,
+    "song_session_id": "32830984-0dd4-4ca9-8543-d51f7d82291f",
+    "duration_ms": 393640,
+    "genre": []
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Anjel",
+    "artist": "Karmen Pál-Baláž",
+    "date": "17.11.2025",
+    "time": "01:52",
+    "last_update": "17.11.2025 01:52:24",
+    "recorded_at": "2025-11-17T01:52:24.908613+01:00",
+    "raw_valid": true,
+    "song_session_id": "c0616f2d-5a83-4e25-88bb-59acf3765648",
+    "duration_ms": 254270,
+    "genre": []
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "El Condor Pasa",
+    "artist": "Simon Paul & Garfunkel Art",
+    "date": "17.11.2025",
+    "time": "01:56",
+    "last_update": "17.11.2025 01:57:28",
+    "recorded_at": "2025-11-17T01:57:28.442262+01:00",
+    "raw_valid": true,
+    "song_session_id": "dc40b09c-68bc-4ed4-93f0-92ee7c08709d",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Fields Of Gold",
+    "artist": "Sting",
+    "date": "17.11.2025",
+    "time": "01:59",
+    "last_update": "17.11.2025 02:00:30",
+    "recorded_at": "2025-11-17T02:00:30.431597+01:00",
+    "raw_valid": true,
+    "song_session_id": "60bcb399-225b-4754-baef-cc92e2fe52d6",
+    "duration_ms": 222120,
+    "genre": [
+      "soft rock"
+    ]
+  }
+]

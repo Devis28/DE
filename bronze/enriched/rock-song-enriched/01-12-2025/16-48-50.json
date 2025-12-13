@@ -1,0 +1,426 @@
+[
+  {
+    "last_update": "2025-12-01 14:52:12",
+    "song": {
+      "musicAuthor": "Horkýže Slíže",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851d908a63a01282b0e2ac770ab",
+      "musicTitle": "Nazdar",
+      "radio": "Rádio ROCK",
+      "startTime": "15:51"
+    },
+    "recorded_at": "2025-12-01T15:52:13.394661+01:00",
+    "raw_valid": true,
+    "song_session_id": "4ea44903-540c-4049-b185-89e4eeca5c54",
+    "duration_ms": 171480,
+    "isrc": "SKB991201209",
+    "genre": []
+  },
+  {
+    "last_update": "2025-12-01 14:59:13",
+    "song": {
+      "musicAuthor": "Bryan Adams",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851cf1fee2a55e98e22bf358512",
+      "musicTitle": "Summer Of '69",
+      "radio": "Rádio ROCK",
+      "startTime": "15:59"
+    },
+    "recorded_at": "2025-12-01T15:59:13.951292+01:00",
+    "raw_valid": true,
+    "song_session_id": "a08de23b-bcc8-47cd-aa42-5cb22c70d128",
+    "duration_ms": 216053,
+    "isrc": "USAM18490006",
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "last_update": "2025-12-01 15:04:16",
+    "song": {
+      "musicAuthor": "Jimi Hendrix",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851c9adfbd773852e286faed040",
+      "musicTitle": "Hey Joe",
+      "radio": "Rádio ROCK",
+      "startTime": "16:04"
+    },
+    "recorded_at": "2025-12-01T16:04:16.779327+01:00",
+    "raw_valid": true,
+    "song_session_id": "da2e8aea-b459-4108-a35d-6f18e24f8a1b",
+    "duration_ms": 210160,
+    "isrc": "USQX90900767",
+    "genre": [
+      "psychedelic rock"
+    ]
+  },
+  {
+    "last_update": "2025-12-01 15:08:16",
+    "song": {
+      "musicAuthor": "Iggy Pop",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048514aa5f679427e35409a06f225",
+      "musicTitle": "The Passenger",
+      "radio": "Rádio ROCK",
+      "startTime": "16:07"
+    },
+    "recorded_at": "2025-12-01T16:08:17.074843+01:00",
+    "raw_valid": true,
+    "song_session_id": "034eb25c-0a8a-4aa8-b088-5ba93788c2bf",
+    "duration_ms": 283360,
+    "isrc": "USVI20700278",
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "last_update": "2025-12-01 15:13:17",
+    "song": {
+      "musicAuthor": "Imagine Dragons",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048515675e83f707f1d7271e5cf8a",
+      "musicTitle": "Believer",
+      "radio": "Rádio ROCK",
+      "startTime": "16:12"
+    },
+    "recorded_at": "2025-12-01T16:13:17.930513+01:00",
+    "raw_valid": true,
+    "song_session_id": "a1baa07e-d423-4c9a-a0bc-2ddad25f53d8",
+    "duration_ms": 204346,
+    "isrc": "USUM71700626",
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "last_update": "2025-12-01 15:17:20",
+    "song": {
+      "musicAuthor": "Eagle-Eye Cherry",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485195127975447a26eb7e31668b",
+      "musicTitle": "Save Tonight",
+      "radio": "Rádio ROCK",
+      "startTime": "16:16"
+    },
+    "recorded_at": "2025-12-01T16:17:20.632100+01:00",
+    "raw_valid": true,
+    "song_session_id": "73162d4e-6382-4a16-aac9-bbf72d3943e1",
+    "duration_ms": 242733,
+    "isrc": "GBAKW9800044",
+    "genre": []
+  },
+  {
+    "last_update": "2025-12-01 15:21:20",
+    "song": {
+      "musicAuthor": "Foo Fighters",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048514cf13503a5fafa24d8c63059",
+      "musicTitle": "Todays Song",
+      "radio": "Rádio ROCK",
+      "startTime": "16:20"
+    },
+    "recorded_at": "2025-12-01T16:21:21.352869+01:00",
+    "raw_valid": true,
+    "song_session_id": "84df85db-fa7a-491e-8ab9-32a49cec9d5b",
+    "duration_ms": 194819,
+    "isrc": "USRW32500001",
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "last_update": "2025-12-01 15:26:22",
+    "song": {
+      "musicAuthor": "Eagles The",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048514637341b9f507521afa9a778",
+      "musicTitle": "Hotel California",
+      "radio": "Rádio ROCK",
+      "startTime": "16:25"
+    },
+    "recorded_at": "2025-12-01T16:26:22.296267+01:00",
+    "raw_valid": true,
+    "song_session_id": "c692875c-f9f6-45f6-b0a2-c9935c286a6c",
+    "duration_ms": 391376,
+    "isrc": "USEE11300353",
+    "genre": [
+      "classic rock"
+    ]
+  },
+  {
+    "last_update": "2025-12-01 15:31:22",
+    "song": {
+      "musicAuthor": "Weezer",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048511e0dc5baaabda304b0ad1815",
+      "musicTitle": "Island In The Sun",
+      "radio": "Rádio ROCK",
+      "startTime": "16:31"
+    },
+    "recorded_at": "2025-12-01T16:31:23.885162+01:00",
+    "raw_valid": true,
+    "song_session_id": "5cfb5c31-02e6-4c48-8e7f-3ae3c38d3f5f",
+    "duration_ms": 200306,
+    "isrc": "USIR10110358",
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "last_update": "2025-12-01 15:38:25",
+    "song": {
+      "musicAuthor": "Jet",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851d06bd6d3b1f258ba2bca597a",
+      "musicTitle": "Are You Gonna Be My Girl",
+      "radio": "Rádio ROCK",
+      "startTime": "16:37"
+    },
+    "recorded_at": "2025-12-01T16:38:26.150349+01:00",
+    "raw_valid": true,
+    "song_session_id": "9050724c-ad70-453f-ba6c-57f10f74895e",
+    "duration_ms": 213800,
+    "isrc": "USEE10340526",
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "last_update": "2025-12-01 15:42:26",
+    "song": {
+      "musicAuthor": "De Burgh Chris",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851221400c5d5c0c66f6d638af8",
+      "musicTitle": "High On Emotion",
+      "radio": "Rádio ROCK",
+      "startTime": "16:41"
+    },
+    "recorded_at": "2025-12-01T16:42:27.151754+01:00",
+    "raw_valid": true,
+    "song_session_id": "b8645c07-5267-4e07-9230-eb789244eb38",
+    "duration_ms": 265533,
+    "isrc": "GBAAM8400013",
+    "genre": [
+      "soft rock"
+    ]
+  },
+  {
+    "last_update": "2025-12-01 15:49:33",
+    "song": {
+      "musicAuthor": "Bon Jovi",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048517a231174875d7930de9dad58",
+      "musicTitle": "It's My Life",
+      "radio": "Rádio ROCK",
+      "startTime": "16:49"
+    },
+    "recorded_at": "2025-12-01T16:49:33.706761+01:00",
+    "raw_valid": true,
+    "song_session_id": "fd42edc4-19e5-4052-a2ea-229d23cc98f6",
+    "duration_ms": 224493,
+    "isrc": "USIR20000145",
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "last_update": "2025-12-01 15:54:33",
+    "song": {
+      "musicAuthor": "Queen",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485167bc29c251c777361b17a190",
+      "musicTitle": "Somebody To Love",
+      "radio": "Rádio ROCK",
+      "startTime": "16:54"
+    },
+    "recorded_at": "2025-12-01T16:54:34.727027+01:00",
+    "raw_valid": true,
+    "song_session_id": "bcad840c-133a-4b21-a624-09a9cbc5dad8",
+    "duration_ms": 296480,
+    "isrc": "GBUM71029613",
+    "genre": [
+      "classic rock"
+    ]
+  },
+  {
+    "last_update": "2025-12-01 15:59:35",
+    "song": {
+      "musicAuthor": "Paramore",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485169966efa45b125ed6711b43c",
+      "musicTitle": "Misery Business",
+      "radio": "Rádio ROCK",
+      "startTime": "16:59"
+    },
+    "recorded_at": "2025-12-01T16:59:36.262854+01:00",
+    "raw_valid": true,
+    "song_session_id": "b8db73f7-04ad-40e9-a4a0-999e15bf2586",
+    "duration_ms": 211520,
+    "isrc": "USAT20702617",
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "last_update": "2025-12-01 16:03:35",
+    "song": {
+      "musicAuthor": "U2",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851b7bea3d01f04e6d0408d2afe",
+      "musicTitle": "I Still Haven't Found What I'm Looking For",
+      "radio": "Rádio ROCK",
+      "startTime": "17:02"
+    },
+    "recorded_at": "2025-12-01T17:03:36.524949+01:00",
+    "raw_valid": true,
+    "song_session_id": "a27bef6d-6b4c-4f6f-a4c0-b33992e3535f",
+    "duration_ms": 277476,
+    "isrc": "GBUM70709783",
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "last_update": "2025-12-01 16:07:08",
+    "song": {
+      "musicAuthor": "Fall Out Boy",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485171565eda831124be86c603d5",
+      "musicTitle": "Dance, Dance",
+      "radio": "Rádio ROCK",
+      "startTime": "17:06"
+    },
+    "recorded_at": "2025-12-01T17:07:08.819365+01:00",
+    "raw_valid": true,
+    "song_session_id": "e59b4b74-4b4a-4601-9ff5-fbe6ad065a7e",
+    "duration_ms": 180266,
+    "isrc": "USDJ20500174",
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "last_update": "2025-12-01 16:13:09",
+    "song": {
+      "musicAuthor": "Guns N' Roses",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485192d21aef6c0d288cc4c05973",
+      "musicTitle": "Knockin' On Heaven's Door",
+      "radio": "Rádio ROCK",
+      "startTime": "17:12"
+    },
+    "recorded_at": "2025-12-01T17:13:09.962595+01:00",
+    "raw_valid": true,
+    "song_session_id": "131b55f8-04e5-4da2-ba9f-5b8694376c86",
+    "duration_ms": 336000,
+    "isrc": "USGF19142004",
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "last_update": "2025-12-01 16:19:11",
+    "song": {
+      "musicAuthor": "Foreigner",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485159b0b3bb6cbc0b5a32e1b417",
+      "musicTitle": "Say You Will",
+      "radio": "Rádio ROCK",
+      "startTime": "17:18"
+    },
+    "recorded_at": "2025-12-01T17:19:11.882111+01:00",
+    "raw_valid": true,
+    "song_session_id": "305d7bf8-5e90-44f7-8995-72f9f088303e",
+    "duration_ms": 255266,
+    "isrc": "USAT29900663",
+    "genre": [
+      "aor"
+    ]
+  },
+  {
+    "last_update": "2025-12-01 16:23:13",
+    "song": {
+      "musicAuthor": "Green Day",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485175116506a1f1140e2178197c",
+      "musicTitle": "Dilemma",
+      "radio": "Rádio ROCK",
+      "startTime": "17:22"
+    },
+    "recorded_at": "2025-12-01T17:23:13.201626+01:00",
+    "raw_valid": true,
+    "song_session_id": "d4d266de-5d91-4746-b4e4-23a8a83c1e83",
+    "duration_ms": 198324,
+    "isrc": "USRE12201093",
+    "genre": [
+      "punk"
+    ]
+  },
+  {
+    "last_update": "2025-12-01 16:26:12",
+    "song": {
+      "musicAuthor": "Horkýže Slíže",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485160348235029c408a3e558ab7",
+      "musicTitle": "Emanuel Bacigala",
+      "radio": "Rádio ROCK",
+      "startTime": "17:25"
+    },
+    "recorded_at": "2025-12-01T17:26:13.601438+01:00",
+    "raw_valid": true,
+    "song_session_id": "5d4f9149-995e-4e20-b45c-938a0f464633",
+    "duration_ms": 149683,
+    "isrc": "CZA230700048",
+    "genre": []
+  },
+  {
+    "last_update": "2025-12-01 16:29:13",
+    "song": {
+      "musicAuthor": "Rage Against The Machine",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048517676c7bf4e667590e496c2a3",
+      "musicTitle": "Killing In The Name",
+      "radio": "Rádio ROCK",
+      "startTime": "17:28"
+    },
+    "recorded_at": "2025-12-01T17:29:14.032051+01:00",
+    "raw_valid": true,
+    "song_session_id": "354c03d4-d38a-409a-b096-2da4800f4b33",
+    "duration_ms": 313573,
+    "isrc": "USSM11205433",
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "last_update": "2025-12-01 16:38:16",
+    "song": {
+      "musicAuthor": "Imagine Dragons",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048515675e83f707f1d7271e5cf8a",
+      "musicTitle": "Thunder",
+      "radio": "Rádio ROCK",
+      "startTime": "17:37"
+    },
+    "recorded_at": "2025-12-01T17:38:17.409051+01:00",
+    "raw_valid": true,
+    "song_session_id": "0a698db0-52f6-4c5a-a27a-49229e6947e1",
+    "duration_ms": 187146,
+    "isrc": "USUM71704167",
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "last_update": "2025-12-01 16:41:18",
+    "song": {
+      "musicAuthor": "Manson Marylin",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485154585a427218bf9bddbd6a3f",
+      "musicTitle": "Sweet Dreams ( Are Made Of This )",
+      "radio": "Rádio ROCK",
+      "startTime": "17:40"
+    },
+    "recorded_at": "2025-12-01T17:41:18.069738+01:00",
+    "raw_valid": true,
+    "song_session_id": "237db64a-7143-425e-b79b-d3080659772e",
+    "duration_ms": 293293,
+    "isrc": "USIR19500314",
+    "genre": [
+      "industrial metal"
+    ]
+  },
+  {
+    "last_update": "2025-12-01 16:46:18",
+    "song": {
+      "musicAuthor": "Bryan Adams",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851cf1fee2a55e98e22bf358512",
+      "musicTitle": "Somebody",
+      "radio": "Rádio ROCK",
+      "startTime": "17:45"
+    },
+    "recorded_at": "2025-12-01T17:46:18.455143+01:00",
+    "raw_valid": true,
+    "song_session_id": "7fb31108-35cd-4c2a-b873-6d6a97b17c42",
+    "duration_ms": 283386,
+    "isrc": "USAM18490005",
+    "genre": []
+  }
+]

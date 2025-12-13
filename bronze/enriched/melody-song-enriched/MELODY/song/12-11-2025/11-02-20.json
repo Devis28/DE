@@ -1,0 +1,422 @@
+[
+  {
+    "station": "Rádio Melody",
+    "title": "San Francisco",
+    "artist": "Mckenzie Scott",
+    "date": "12.11.2025",
+    "time": "10:01",
+    "last_update": "12.11.2025 10:02:37",
+    "recorded_at": "2025-11-12T10:02:37.240174+01:00",
+    "raw_valid": true,
+    "song_session_id": "2b7fc2e7-42b2-42c8-95e4-a4372b8f3e49",
+    "duration_ms": 178506,
+    "genre": []
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Stay Another Day",
+    "artist": "East 17",
+    "date": "12.11.2025",
+    "time": "10:03",
+    "last_update": "12.11.2025 10:04:08",
+    "recorded_at": "2025-11-12T10:04:08.020039+01:00",
+    "raw_valid": true,
+    "song_session_id": "0cb4cfdb-054b-4116-9c2f-b9554ea15c67",
+    "duration_ms": 267133,
+    "genre": [
+      "christmas"
+    ]
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Aj Keď Bez Peňazí",
+    "artist": "Elán",
+    "date": "12.11.2025",
+    "time": "10:08",
+    "last_update": "12.11.2025 10:09:10",
+    "recorded_at": "2025-11-12T10:09:10.529745+01:00",
+    "raw_valid": true,
+    "song_session_id": "d5f6a5aa-e0af-4b75-8858-fc12335c85db",
+    "duration_ms": 227560,
+    "genre": []
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Here Comes The Sun",
+    "artist": "The Beatles",
+    "date": "12.11.2025",
+    "time": "10:13",
+    "last_update": "12.11.2025 10:14:13",
+    "recorded_at": "2025-11-12T10:14:13.393626+01:00",
+    "raw_valid": true,
+    "song_session_id": "d17fcfa3-43ee-4ac1-9427-33d5a3993a6e",
+    "duration_ms": 185733,
+    "genre": [
+      "classic rock"
+    ]
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Slnko Nevychádzaj",
+    "artist": "Metalinda",
+    "date": "12.11.2025",
+    "time": "10:16",
+    "last_update": "12.11.2025 10:17:16",
+    "recorded_at": "2025-11-12T10:17:16.059625+01:00",
+    "raw_valid": true,
+    "song_session_id": "43c616aa-39a4-409b-b887-94b521df89b5",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "I Want To Know What Love Is",
+    "artist": "Foreigner",
+    "date": "12.11.2025",
+    "time": "10:21",
+    "last_update": "12.11.2025 10:22:19",
+    "recorded_at": "2025-11-12T10:22:19.812592+01:00",
+    "raw_valid": true,
+    "song_session_id": "c0983f61-7946-4b07-9ee5-19cc30d5bf1b",
+    "duration_ms": 304786,
+    "genre": [
+      "aor"
+    ]
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Sun Of The Jamaica",
+    "artist": "The Goombay Dance Band",
+    "date": "12.11.2025",
+    "time": "10:25",
+    "last_update": "12.11.2025 10:26:21",
+    "recorded_at": "2025-11-12T10:26:21.736920+01:00",
+    "raw_valid": true,
+    "song_session_id": "40bced27-13d2-4cbe-ad60-296b36ec7f80",
+    "duration_ms": 268116,
+    "genre": []
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Prvá",
+    "artist": "No Name",
+    "date": "12.11.2025",
+    "time": "10:29",
+    "last_update": "12.11.2025 10:30:23",
+    "recorded_at": "2025-11-12T10:30:23.803754+01:00",
+    "raw_valid": true,
+    "song_session_id": "c989a67f-0377-4018-a5f7-238e4a5a8a6c",
+    "duration_ms": 193546,
+    "genre": []
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Sladké Mámení",
+    "artist": "Vondráčková Helena",
+    "date": "12.11.2025",
+    "time": "10:32",
+    "last_update": "12.11.2025 10:33:25",
+    "recorded_at": "2025-11-12T10:33:25.509726+01:00",
+    "raw_valid": true,
+    "song_session_id": "6f22419d-585d-4c16-a22d-f25184ebeb44",
+    "duration_ms": 246226,
+    "genre": []
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Don't Play Your Rock 'n' Roll To Me",
+    "artist": "Smokie",
+    "date": "12.11.2025",
+    "time": "10:35",
+    "last_update": "12.11.2025 10:36:28",
+    "recorded_at": "2025-11-12T10:36:28.357595+01:00",
+    "raw_valid": true,
+    "song_session_id": "9c958cbb-7cb1-4dd3-af9a-4f5e39147f76",
+    "duration_ms": 198426,
+    "genre": [
+      "glam rock"
+    ]
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "It's Raining Men",
+    "artist": "Geri Halliwell",
+    "date": "12.11.2025",
+    "time": "10:38",
+    "last_update": "12.11.2025 10:39:33",
+    "recorded_at": "2025-11-12T10:39:33.297526+01:00",
+    "raw_valid": true,
+    "song_session_id": "6372e944-041b-48ef-ad50-c3ed17fcd146",
+    "duration_ms": 254640,
+    "genre": []
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Miestna Jednička",
+    "artist": "Patejdl Vašo",
+    "date": "12.11.2025",
+    "time": "10:42",
+    "last_update": "12.11.2025 10:43:35",
+    "recorded_at": "2025-11-12T10:43:35.583449+01:00",
+    "raw_valid": true,
+    "song_session_id": "5fe97676-f39d-43c7-a927-8a54c322d7c2",
+    "duration_ms": 203866,
+    "genre": []
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Lay All Your Love On Me",
+    "artist": "Abba",
+    "date": "12.11.2025",
+    "time": "10:45",
+    "last_update": "12.11.2025 10:46:07",
+    "recorded_at": "2025-11-12T10:46:07.731983+01:00",
+    "raw_valid": true,
+    "song_session_id": "ce9cf4fa-bddd-4468-b713-a77865067388",
+    "duration_ms": 274466,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Oheň, Voda, Vítr",
+    "artist": "Janda Dalibor",
+    "date": "12.11.2025",
+    "time": "10:50",
+    "last_update": "12.11.2025 10:51:11",
+    "recorded_at": "2025-11-12T10:51:11.056852+01:00",
+    "raw_valid": true,
+    "song_session_id": "2aed8605-9995-4803-9286-0f20d01c0f89",
+    "duration_ms": 172706,
+    "genre": []
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Spending My Time",
+    "artist": "Roxette",
+    "date": "12.11.2025",
+    "time": "10:52",
+    "last_update": "12.11.2025 10:53:12",
+    "recorded_at": "2025-11-12T10:53:12.034151+01:00",
+    "raw_valid": true,
+    "song_session_id": "04f5c029-373b-4709-a526-060d641d4b36",
+    "duration_ms": 275666,
+    "genre": [
+      "swedish pop"
+    ]
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Obchodník S Deštěm",
+    "artist": "Kryštof",
+    "date": "12.11.2025",
+    "time": "11:00",
+    "last_update": "12.11.2025 11:01:17",
+    "recorded_at": "2025-11-12T11:01:17.620752+01:00",
+    "raw_valid": true,
+    "song_session_id": "21344827-a882-4a7d-85a4-af503ba17a13",
+    "duration_ms": 214400,
+    "genre": []
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "California Dreamin'",
+    "artist": "Mamas & The Papas",
+    "date": "12.11.2025",
+    "time": "11:04",
+    "last_update": "12.11.2025 11:05:19",
+    "recorded_at": "2025-11-12T11:05:19.615536+01:00",
+    "raw_valid": true,
+    "song_session_id": "4ba5d8ce-30eb-4552-8425-cb4cfc9ff01d",
+    "duration_ms": 162373,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Hráč",
+    "artist": "Turbo",
+    "date": "12.11.2025",
+    "time": "11:06",
+    "last_update": "12.11.2025 11:07:20",
+    "recorded_at": "2025-11-12T11:07:20.550853+01:00",
+    "raw_valid": true,
+    "song_session_id": "edf841e7-84c4-4156-8d92-1379511cf875",
+    "duration_ms": 285266,
+    "genre": [
+      "big beat"
+    ]
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "My Heart Will Go On",
+    "artist": "Céline Dion",
+    "date": "12.11.2025",
+    "time": "11:13",
+    "last_update": "12.11.2025 11:14:24",
+    "recorded_at": "2025-11-12T11:14:24.271986+01:00",
+    "raw_valid": true,
+    "song_session_id": "99ff53a2-09b7-4f32-90e7-7b838c5aa655",
+    "duration_ms": 280000,
+    "genre": [
+      "variété française"
+    ]
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "One Way Ticket",
+    "artist": "Eruption",
+    "date": "12.11.2025",
+    "time": "11:18",
+    "last_update": "12.11.2025 11:19:27",
+    "recorded_at": "2025-11-12T11:19:27.546293+01:00",
+    "raw_valid": true,
+    "song_session_id": "d04b091a-acfd-4611-9fa5-dcde27ce01df",
+    "duration_ms": 213200,
+    "genre": [
+      "disco"
+    ]
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Maturitné Tablo",
+    "artist": "Hečková Júlia",
+    "date": "12.11.2025",
+    "time": "11:21",
+    "last_update": "12.11.2025 11:22:30",
+    "recorded_at": "2025-11-12T11:22:30.093364+01:00",
+    "raw_valid": true,
+    "song_session_id": "604f9964-ee29-4bc3-b2b3-76030f80b89c",
+    "duration_ms": 244316,
+    "genre": []
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Matka",
+    "artist": "Tublatanka",
+    "date": "12.11.2025",
+    "time": "11:25",
+    "last_update": "12.11.2025 11:26:32",
+    "recorded_at": "2025-11-12T11:26:32.063637+01:00",
+    "raw_valid": true,
+    "song_session_id": "4f80c8c0-9db4-4a1c-ac1a-ab1ca14427e5",
+    "duration_ms": 292000,
+    "genre": []
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "I'd Love You To Want Me",
+    "artist": "Lobo",
+    "date": "12.11.2025",
+    "time": "11:29",
+    "last_update": "12.11.2025 11:30:36",
+    "recorded_at": "2025-11-12T11:30:37.001781+01:00",
+    "raw_valid": true,
+    "song_session_id": "47f1e44a-4460-4b7a-ade9-ade9b3f8e7a5",
+    "duration_ms": 247640,
+    "genre": []
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "I Just Called To Say I Love You",
+    "artist": "Wonder Stevie",
+    "date": "12.11.2025",
+    "time": "11:33",
+    "last_update": "12.11.2025 11:34:09",
+    "recorded_at": "2025-11-12T11:34:09.751972+01:00",
+    "raw_valid": true,
+    "song_session_id": "599aca82-80e2-441a-9d8e-813ceb4bbc39",
+    "duration_ms": 262240,
+    "genre": [
+      "motown"
+    ]
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Crazy",
+    "artist": "Aerosmith",
+    "date": "12.11.2025",
+    "time": "11:38",
+    "last_update": "12.11.2025 11:38:12",
+    "recorded_at": "2025-11-12T11:38:12.803292+01:00",
+    "raw_valid": true,
+    "song_session_id": "6716df9d-2066-4d53-b6a5-ec711a01826d",
+    "duration_ms": 316826,
+    "genre": [
+      "classic rock"
+    ]
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Primášovo Srdce",
+    "artist": "Karol Duchoň",
+    "date": "12.11.2025",
+    "time": "11:42",
+    "last_update": "12.11.2025 11:43:16",
+    "recorded_at": "2025-11-12T11:43:16.206892+01:00",
+    "raw_valid": true,
+    "song_session_id": "c8f91ffa-d831-4454-964e-fb29d9f5558e",
+    "duration_ms": 209426,
+    "genre": []
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "A Kind Of Magic",
+    "artist": "Queen",
+    "date": "12.11.2025",
+    "time": "11:46",
+    "last_update": "12.11.2025 11:46:17",
+    "recorded_at": "2025-11-12T11:46:17.672587+01:00",
+    "raw_valid": true,
+    "song_session_id": "53296796-f6f1-4edb-ba55-d557c7569a38",
+    "duration_ms": 264253,
+    "genre": [
+      "classic rock"
+    ]
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "I Wanna B with U",
+    "artist": "Fun Factory",
+    "date": "12.11.2025",
+    "time": "11:50",
+    "last_update": "12.11.2025 11:50:22",
+    "recorded_at": "2025-11-12T11:50:22.189964+01:00",
+    "raw_valid": true,
+    "song_session_id": "4a74267b-247c-4c40-94dd-951d184ac0d7",
+    "duration_ms": 213600,
+    "genre": [
+      "eurodance"
+    ]
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Sailing",
+    "artist": "Rod Stewart",
+    "date": "12.11.2025",
+    "time": "11:54",
+    "last_update": "12.11.2025 11:54:26",
+    "recorded_at": "2025-11-12T11:54:26.041724+01:00",
+    "raw_valid": true,
+    "song_session_id": "3ef503f4-6070-49a1-b395-07331402e585",
+    "duration_ms": 277960,
+    "genre": [
+      "soft rock"
+    ]
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Není Všechno Paráda",
+    "artist": "Karel Zich",
+    "date": "12.11.2025",
+    "time": "12:00",
+    "last_update": "12.11.2025 12:01:29",
+    "recorded_at": "2025-11-12T12:01:29.673208+01:00",
+    "raw_valid": true,
+    "song_session_id": "894a4f82-cdd9-4e17-b544-204071e6955c",
+    "duration_ms": 147493,
+    "genre": []
+  }
+]

@@ -1,0 +1,505 @@
+[
+  {
+    "song": "Eternal Flame",
+    "artists": [
+      "Bangles"
+    ],
+    "isrc": "USSM18800153",
+    "start_time": "2025-12-03 20:57:22",
+    "radio": "expres",
+    "recorded_at": "2025-12-03T20:57:38.730577+01:00",
+    "raw_valid": true,
+    "song_session_id": "71382cc4-72b0-4068-a7f8-8e4bcfefc13c",
+    "duration_ms": 235666,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Mystical Magical",
+    "artists": [
+      "Benson Boone"
+    ],
+    "isrc": "USWB12500844",
+    "start_time": "2025-12-03 21:04:47",
+    "radio": "expres",
+    "recorded_at": "2025-12-03T21:05:00.287571+01:00",
+    "raw_valid": true,
+    "song_session_id": "a893f310-96c7-4839-8370-f4cd4c5265b0",
+    "duration_ms": 165746,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "White Flag",
+    "artists": [
+      "Dido"
+    ],
+    "isrc": "GBBXH0300035",
+    "start_time": "2025-12-03 21:07:38",
+    "radio": "expres",
+    "recorded_at": "2025-12-03T21:08:03.131253+01:00",
+    "raw_valid": true,
+    "song_session_id": "35815e15-ca72-44d4-b55a-dfe7e391fc17",
+    "duration_ms": 241613,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "By Your Side (In My Mind)",
+    "artists": [
+      "Leony"
+    ],
+    "isrc": "DEN062400804",
+    "start_time": "2025-12-03 21:11:19",
+    "radio": "expres",
+    "recorded_at": "2025-12-03T21:11:46.363955+01:00",
+    "raw_valid": true,
+    "song_session_id": "f1105399-f245-4a98-93c5-1307af7bb093",
+    "duration_ms": 177148,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Shallow",
+    "artists": [
+      "Lady Gaga",
+      "Bradley Cooper"
+    ],
+    "isrc": "USUM71813192",
+    "start_time": "2025-12-03 21:14:19",
+    "radio": "expres",
+    "recorded_at": "2025-12-03T21:14:44.076242+01:00",
+    "raw_valid": true,
+    "song_session_id": "45ffb34a-fb2e-4bc3-b4da-7087ce43c569",
+    "duration_ms": 215733,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Gone Gone Gone",
+    "artists": [
+      "David Guetta",
+      "Teddy Swims",
+      "Tones And I"
+    ],
+    "isrc": "UKWLG2500132",
+    "start_time": "2025-12-03 21:17:45",
+    "radio": "expres",
+    "recorded_at": "2025-12-03T21:18:07.113777+01:00",
+    "raw_valid": true,
+    "song_session_id": "39d39f7c-aa73-4eef-88aa-5084042cf486",
+    "duration_ms": 198004,
+    "genre": [
+      "soul"
+    ]
+  },
+  {
+    "song": "Atlantida",
+    "artists": [
+      "Miro Zbirka"
+    ],
+    "isrc": "CZUM71100296",
+    "start_time": "2025-12-03 21:21:31",
+    "radio": "expres",
+    "recorded_at": "2025-12-03T21:21:50.453729+01:00",
+    "raw_valid": true,
+    "song_session_id": "abd4d234-8cb8-4b0b-a0b7-860e6c5429bd",
+    "duration_ms": 246853,
+    "genre": []
+  },
+  {
+    "song": "Afterlife",
+    "artists": [
+      "Michael Schulte"
+    ],
+    "isrc": "DECE72500509",
+    "start_time": "2025-12-03 21:25:04",
+    "radio": "expres",
+    "recorded_at": "2025-12-03T21:25:28.793398+01:00",
+    "raw_valid": true,
+    "song_session_id": "a65a9856-e5e6-4284-b924-4a19f25b0998",
+    "duration_ms": 160120,
+    "genre": []
+  },
+  {
+    "song": "Do They Know Its Christmas?",
+    "artists": [
+      "Band Aid"
+    ],
+    "isrc": "GBF088400001",
+    "start_time": "2025-12-03 21:27:48",
+    "radio": "expres",
+    "recorded_at": "2025-12-03T21:28:11.372186+01:00",
+    "raw_valid": true,
+    "song_session_id": "80800249-316d-4766-a24b-16f39c4ccc0d",
+    "duration_ms": 222533,
+    "genre": [
+      "christmas"
+    ]
+  },
+  {
+    "song": "Undressed",
+    "artists": [
+      "Sombr"
+    ],
+    "isrc": "USWB12500737",
+    "start_time": "2025-12-03 21:32:11",
+    "radio": "expres",
+    "recorded_at": "2025-12-03T21:32:35.210316+01:00",
+    "raw_valid": true,
+    "song_session_id": "08818bf9-49ba-47c3-961e-41edbaec55e3",
+    "duration_ms": 182088,
+    "genre": [
+      "indie pop"
+    ]
+  },
+  {
+    "song": "Ritual",
+    "artists": [
+      "Tiesto",
+      "Jonas Blue",
+      "Rita Ora"
+    ],
+    "isrc": "CYA111900146",
+    "start_time": "2025-12-03 21:35:20",
+    "radio": "expres",
+    "recorded_at": "2025-12-03T21:35:32.931338+01:00",
+    "raw_valid": true,
+    "song_session_id": "df3e684b-fb25-4ecd-86a0-ff80d2a1aa54",
+    "duration_ms": 198995,
+    "genre": [
+      "edm"
+    ]
+  },
+  {
+    "song": "We Are",
+    "artists": [
+      "Ana Johnsson"
+    ],
+    "isrc": "DEE860400428",
+    "start_time": "2025-12-03 21:38:41",
+    "radio": "expres",
+    "recorded_at": "2025-12-03T21:38:56.011538+01:00",
+    "raw_valid": true,
+    "song_session_id": "3b8b16ae-56dd-4816-afc6-985e0dfd2dc1",
+    "duration_ms": 234573,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Glide",
+    "artists": [
+      "Neiked",
+      "Portugal The Man"
+    ],
+    "isrc": "DEE862500421",
+    "start_time": "2025-12-03 21:42:42",
+    "radio": "expres",
+    "recorded_at": "2025-12-03T21:42:59.653070+01:00",
+    "raw_valid": true,
+    "song_session_id": "09d701d1-9545-4b09-ab08-bad3f5495213",
+    "duration_ms": 184405,
+    "genre": []
+  },
+  {
+    "song": "Nahy 2",
+    "artists": [
+      "Richard Muller"
+    ],
+    "isrc": "SKA010109110",
+    "start_time": "2025-12-03 21:45:43",
+    "radio": "expres",
+    "recorded_at": "2025-12-03T21:46:02.476970+01:00",
+    "raw_valid": true,
+    "song_session_id": "419b6405-701b-4065-976f-74a716f32e04",
+    "duration_ms": 300466,
+    "genre": []
+  },
+  {
+    "song": "Dive",
+    "artists": [
+      "Lost Frequencies",
+      "Tom Gregory"
+    ],
+    "isrc": "BEHP42300028",
+    "start_time": "2025-12-03 21:50:04",
+    "radio": "expres",
+    "recorded_at": "2025-12-03T21:50:26.259008+01:00",
+    "raw_valid": true,
+    "song_session_id": "2cd9646a-2a16-451a-b959-4116997ba671",
+    "duration_ms": 161093,
+    "genre": [
+      "tropical house"
+    ]
+  },
+  {
+    "song": "Ked Odchadza Niekto",
+    "artists": [
+      "Ine Kafe"
+    ],
+    "isrc": "SKA722500002",
+    "start_time": "2025-12-03 21:52:40",
+    "radio": "expres",
+    "recorded_at": "2025-12-03T21:53:03.682199+01:00",
+    "raw_valid": true,
+    "song_session_id": "542ffab6-4771-4fb6-9ee6-e84ec63cde2f",
+    "duration_ms": 243720,
+    "genre": []
+  },
+  {
+    "song": "U Make Me Wanna",
+    "artists": [
+      "Blue"
+    ],
+    "isrc": "GBAAA0300043",
+    "start_time": "2025-12-03 21:56:47",
+    "radio": "expres",
+    "recorded_at": "2025-12-03T21:57:07.293487+01:00",
+    "raw_valid": true,
+    "song_session_id": "e6181297-cdd7-4fe1-95b5-11edd4ff38dd",
+    "duration_ms": 220733,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Len Sa Smej",
+    "artists": [
+      "Peter Bic Project"
+    ],
+    "isrc": "SKA012300333",
+    "start_time": "2025-12-03 22:05:30",
+    "radio": "expres",
+    "recorded_at": "2025-12-03T22:05:54.667942+01:00",
+    "raw_valid": true,
+    "song_session_id": "8bfcaceb-f390-482a-97d6-e0b7b8cb7be7",
+    "duration_ms": 164741,
+    "genre": []
+  },
+  {
+    "song": "Ill Be Missing You",
+    "artists": [
+      "Puff Daddy",
+      "Faith Evans"
+    ],
+    "isrc": "USBB40581044",
+    "start_time": "2025-12-03 22:08:20",
+    "radio": "expres",
+    "recorded_at": "2025-12-03T22:08:32.163122+01:00",
+    "raw_valid": true,
+    "song_session_id": "01e8b641-d017-4240-be48-0f0ede32011d",
+    "duration_ms": 301520,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Pride",
+    "artists": [
+      "Felix Jaehn",
+      "Jhart"
+    ],
+    "isrc": "DEUM72503423",
+    "start_time": "2025-12-03 22:13:20",
+    "radio": "expres",
+    "recorded_at": "2025-12-03T22:13:36.660915+01:00",
+    "raw_valid": true,
+    "song_session_id": "300b138f-405a-46cf-8ad9-ade32681494a",
+    "duration_ms": 158150,
+    "genre": [
+      "tropical house"
+    ]
+  },
+  {
+    "song": "Zatancuj Si So Mnou",
+    "artists": [
+      "Adam Durica"
+    ],
+    "isrc": "SKA011800050",
+    "start_time": "2025-12-03 22:15:58",
+    "radio": "expres",
+    "recorded_at": "2025-12-03T22:16:19.210662+01:00",
+    "raw_valid": true,
+    "song_session_id": "42879194-87e9-4840-bcbe-35420c54ff9b",
+    "duration_ms": 198444,
+    "genre": []
+  },
+  {
+    "song": "Blood Running",
+    "artists": [
+      "Ray Dalton"
+    ],
+    "isrc": "DEUM72507812",
+    "start_time": "2025-12-03 22:19:01",
+    "radio": "expres",
+    "recorded_at": "2025-12-03T22:19:22.055934+01:00",
+    "raw_valid": true,
+    "song_session_id": "3706a6c7-0486-4f29-b785-57a14f3698e3",
+    "duration_ms": 173146,
+    "genre": []
+  },
+  {
+    "song": "Radio Ga Ga",
+    "artists": [
+      "Queen"
+    ],
+    "isrc": "GBUM71029623",
+    "start_time": "2025-12-03 22:22:14",
+    "radio": "expres",
+    "recorded_at": "2025-12-03T22:22:25.002128+01:00",
+    "raw_valid": true,
+    "song_session_id": "2dd2467c-ba54-4acb-ae61-c12f02e001f8",
+    "duration_ms": 348226,
+    "genre": [
+      "classic rock"
+    ]
+  },
+  {
+    "song": "Houdini",
+    "artists": [
+      "Dua Lipa"
+    ],
+    "isrc": "GBAHT2301246",
+    "start_time": "2025-12-03 22:25:56",
+    "radio": "expres",
+    "recorded_at": "2025-12-03T22:26:08.379964+01:00",
+    "raw_valid": true,
+    "song_session_id": "b9a5fc68-6ecf-474f-9b0a-6fbfaf788883",
+    "duration_ms": 185917,
+    "genre": [
+      "electronic"
+    ]
+  },
+  {
+    "song": "Vianocna Pohoda",
+    "artists": [
+      "Radio Expres",
+      "Sam Sebou",
+      "Kali"
+    ],
+    "isrc": "CZCZ42400089",
+    "start_time": "2025-12-03 22:29:04",
+    "radio": "expres",
+    "recorded_at": "2025-12-03T22:29:31.436884+01:00",
+    "raw_valid": true,
+    "song_session_id": "06f805ff-ea81-4549-8f68-1ec0da387ae3",
+    "duration_ms": 164833,
+    "genre": []
+  },
+  {
+    "song": "The Fate Of Ophelia",
+    "artists": [
+      "Taylor Swift"
+    ],
+    "isrc": "USUG12506436",
+    "start_time": "2025-12-03 22:32:52",
+    "radio": "expres",
+    "recorded_at": "2025-12-03T22:33:14.705059+01:00",
+    "raw_valid": true,
+    "song_session_id": "cfb9888c-485b-41db-a2d7-e9a361591f09",
+    "duration_ms": 226073,
+    "genre": [
+      "electronic"
+    ]
+  },
+  {
+    "song": "Havran",
+    "artists": [
+      "Nocaden"
+    ],
+    "isrc": "CZA231500030",
+    "start_time": "2025-12-03 22:36:45",
+    "radio": "expres",
+    "recorded_at": "2025-12-03T22:36:52.813644+01:00",
+    "raw_valid": true,
+    "song_session_id": "2686f028-60f7-499b-bb75-31deb9f87ab2",
+    "duration_ms": 238320,
+    "genre": []
+  },
+  {
+    "song": "Shape Of You",
+    "artists": [
+      "Ed Sheeran"
+    ],
+    "isrc": "GBAHS1600463",
+    "start_time": "2025-12-03 22:39:50",
+    "radio": "expres",
+    "recorded_at": "2025-12-03T22:40:15.750377+01:00",
+    "raw_valid": true,
+    "song_session_id": "e9fe7ae2-ad7b-40fc-8ec2-ac6ac6139195",
+    "duration_ms": 233712,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Love Me Not",
+    "artists": [
+      "Ravyn Lenae"
+    ],
+    "isrc": "USAT22401137",
+    "start_time": "2025-12-03 22:43:53",
+    "radio": "expres",
+    "recorded_at": "2025-12-03T22:44:19.234648+01:00",
+    "raw_valid": true,
+    "song_session_id": "f861c02b-7a7f-4a6a-8e1f-a6a22a8ccfc5",
+    "duration_ms": 213466,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Fairytale Gone Bad",
+    "artists": [
+      "Sunrise Avenue"
+    ],
+    "isrc": "FIB3A0600009",
+    "start_time": "2025-12-03 22:47:08",
+    "radio": "expres",
+    "recorded_at": "2025-12-03T22:47:21.952488+01:00",
+    "raw_valid": true,
+    "song_session_id": "3bd645ab-822d-484e-a419-8a40025a7f5c",
+    "duration_ms": 213213,
+    "genre": [
+      "finnish pop"
+    ]
+  },
+  {
+    "song": "Beautiful Things",
+    "artists": [
+      "Benson Boone"
+    ],
+    "isrc": "USWB12307016",
+    "start_time": "2025-12-03 22:50:25",
+    "radio": "expres",
+    "recorded_at": "2025-12-03T22:50:45.010885+01:00",
+    "raw_valid": true,
+    "song_session_id": "69bf2a9a-e238-4d06-883c-4b9842f8442d",
+    "duration_ms": 180304,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Man I Need",
+    "artists": [
+      "Olivia Dean"
+    ],
+    "isrc": "GBUM72503089",
+    "start_time": "2025-12-03 22:53:20",
+    "radio": "expres",
+    "recorded_at": "2025-12-03T22:53:47.784702+01:00",
+    "raw_valid": true,
+    "song_session_id": "d175af51-f1d0-40a9-8f43-829515aaa3ee",
+    "duration_ms": 184000,
+    "genre": [
+      "offizielle charts"
+    ]
+  }
+]

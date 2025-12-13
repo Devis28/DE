@@ -1,0 +1,35 @@
+[
+  {
+    "last_update": "2025-11-04 20:17:11",
+    "song": {
+      "musicAuthor": "Tublatanka & Citron",
+      "musicCover": "/layout/covers/default.png",
+      "musicTitle": "Silní A Nezlomní",
+      "radio": "Rádio ROCK",
+      "startTime": "21:16"
+    },
+    "recorded_at": "2025-11-04T21:17:12.008846+01:00",
+    "raw_valid": true,
+    "song_session_id": "09f0400a-5657-4aa3-a812-e5f84001b699",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "last_update": "2025-11-04 20:22:12",
+    "song": {
+      "musicAuthor": "Clapton Eric",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048516f093a6ae88a5ca8ed53b9f7",
+      "musicTitle": "Wonderful Tonight",
+      "radio": "Rádio ROCK",
+      "startTime": "21:21"
+    },
+    "recorded_at": "2025-11-04T21:22:13.685980+01:00",
+    "raw_valid": true,
+    "song_session_id": "ae304b91-4d7c-4d41-8747-05624a294bcd",
+    "duration_ms": 225026,
+    "isrc": "NLF057790025",
+    "genre": [
+      "blues"
+    ]
+  }
+]

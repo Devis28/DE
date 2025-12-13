@@ -1,0 +1,480 @@
+[
+  {
+    "song": "Million Good Reasons",
+    "artists": [
+      "Robin Schulz",
+      "Fast Boy"
+    ],
+    "isrc": "DEA622404738",
+    "start_time": "2025-11-09 08:05:28",
+    "radio": "expres",
+    "recorded_at": "2025-11-09T08:05:56.060940+01:00",
+    "raw_valid": true,
+    "song_session_id": "8facdbe5-7a16-4cad-9a7d-d5c9e9aa3db6",
+    "duration_ms": 157130,
+    "genre": []
+  },
+  {
+    "song": "Because Of You",
+    "artists": [
+      "Kelly Clarkson"
+    ],
+    "isrc": "GBCTA0400265",
+    "start_time": "2025-11-09 08:08:09",
+    "radio": "expres",
+    "recorded_at": "2025-11-09T08:08:38.808250+01:00",
+    "raw_valid": true,
+    "song_session_id": "38713f2c-41e7-4dfb-ac62-89d791b6d841",
+    "duration_ms": 220373,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Is It Love",
+    "artists": [
+      "Loreen"
+    ],
+    "isrc": "SEUM72301218",
+    "start_time": "2025-11-09 08:11:52",
+    "radio": "expres",
+    "recorded_at": "2025-11-09T08:12:27.145074+01:00",
+    "raw_valid": true,
+    "song_session_id": "2f2632bc-b1d8-4f29-9312-7f5d6e4e635c",
+    "duration_ms": 143669,
+    "genre": []
+  },
+  {
+    "song": "Blinding Lights",
+    "artists": [
+      "The Weeknd"
+    ],
+    "isrc": "USUG11904206",
+    "start_time": "2025-11-09 08:14:12",
+    "radio": "expres",
+    "recorded_at": "2025-11-09T08:14:39.741748+01:00",
+    "raw_valid": true,
+    "song_session_id": "68b4f876-f1cf-4fd5-b7db-238b8a92e281",
+    "duration_ms": 200045,
+    "genre": [
+      "trance"
+    ]
+  },
+  {
+    "song": "Undressed",
+    "artists": [
+      "Sombr"
+    ],
+    "isrc": "USWB12500737",
+    "start_time": "2025-11-09 08:17:19",
+    "radio": "expres",
+    "recorded_at": "2025-11-09T08:17:37.625366+01:00",
+    "raw_valid": true,
+    "song_session_id": "7a9cc2d4-bf14-4e85-af5e-1c4d91275313",
+    "duration_ms": 182088,
+    "genre": [
+      "indie pop"
+    ]
+  },
+  {
+    "song": "Forever Young",
+    "artists": [
+      "Alphaville"
+    ],
+    "isrc": "DEA629260150",
+    "start_time": "2025-11-09 08:20:28",
+    "radio": "expres",
+    "recorded_at": "2025-11-09T08:20:40.651123+01:00",
+    "raw_valid": true,
+    "song_session_id": "dee6a929-6bdd-4849-b5a9-308eb01dac6b",
+    "duration_ms": 226706,
+    "genre": [
+      "electronic"
+    ]
+  },
+  {
+    "song": "Hawaii",
+    "artists": [
+      "Emma Drobna"
+    ],
+    "isrc": "SKB452200101",
+    "start_time": "2025-11-09 08:23:58",
+    "radio": "expres",
+    "recorded_at": "2025-11-09T08:24:24.124313+01:00",
+    "raw_valid": true,
+    "song_session_id": "afd4575d-ee10-465c-a9f1-3c02d5c24c35",
+    "duration_ms": 191124,
+    "genre": []
+  },
+  {
+    "song": "Told You So",
+    "artists": [
+      "Martin Garrix",
+      "Jex"
+    ],
+    "isrc": "NLM5S2402334",
+    "start_time": "2025-11-09 08:30:43",
+    "radio": "expres",
+    "recorded_at": "2025-11-09T08:31:06.766139+01:00",
+    "raw_valid": true,
+    "song_session_id": "69c82d0a-9a6b-4983-909c-70ebed261008",
+    "duration_ms": 187031,
+    "genre": []
+  },
+  {
+    "song": "Cheap Thrills",
+    "artists": [
+      "Sia",
+      "Sean Paul"
+    ],
+    "isrc": "USRC11600201",
+    "start_time": "2025-11-09 08:33:50",
+    "radio": "expres",
+    "recorded_at": "2025-11-09T08:34:04.609430+01:00",
+    "raw_valid": true,
+    "song_session_id": "e0782187-7fb2-475f-93ed-d02f4891e780",
+    "duration_ms": 224493,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Shes The One",
+    "artists": [
+      "Robbie Williams"
+    ],
+    "isrc": "GBAYK9800020",
+    "start_time": "2025-11-09 08:37:26",
+    "radio": "expres",
+    "recorded_at": "2025-11-09T08:37:48.084904+01:00",
+    "raw_valid": true,
+    "song_session_id": "8f446f07-4d48-4bfc-9890-376a7042e3ee",
+    "duration_ms": 260893,
+    "genre": []
+  },
+  {
+    "song": "Espresso",
+    "artists": [
+      "Sabrina Carpenter"
+    ],
+    "isrc": "USUM72403305",
+    "start_time": "2025-11-09 08:41:47",
+    "radio": "expres",
+    "recorded_at": "2025-11-09T08:42:12.411899+01:00",
+    "raw_valid": true,
+    "song_session_id": "8d9bfe9d-9798-4a63-98cb-899be751f34f",
+    "duration_ms": 175453,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Medzi Nebom A Zenou",
+    "artists": [
+      "Banket",
+      "Richard Muller",
+      "Ema Muller"
+    ],
+    "isrc": "SKC362500009",
+    "start_time": "2025-11-09 08:44:38",
+    "radio": "expres",
+    "recorded_at": "2025-11-09T08:44:50.049380+01:00",
+    "raw_valid": true,
+    "song_session_id": "3404346a-f29e-455b-814b-05daab6afd5b",
+    "duration_ms": 228666,
+    "genre": []
+  },
+  {
+    "song": "Call Me Maybe",
+    "artists": [
+      "Carly Rae Jepsen"
+    ],
+    "isrc": "CAB391100615",
+    "start_time": "2025-11-09 08:48:48",
+    "radio": "expres",
+    "recorded_at": "2025-11-09T08:49:09.136175+01:00",
+    "raw_valid": true,
+    "song_session_id": "48b75979-b923-47f5-af34-3e8ce57ca6ab",
+    "duration_ms": 193146,
+    "genre": [
+      "electronic"
+    ]
+  },
+  {
+    "song": "Stumblin In",
+    "artists": [
+      "Cyril"
+    ],
+    "isrc": "NLZ542301810",
+    "start_time": "2025-11-09 08:51:52",
+    "radio": "expres",
+    "recorded_at": "2025-11-09T08:52:12.180794+01:00",
+    "raw_valid": true,
+    "song_session_id": "ad695802-9fbf-4a9b-b1bb-f95d411bc16e",
+    "duration_ms": 213363,
+    "genre": [
+      "alternative rock"
+    ]
+  },
+  {
+    "song": "Left Outside Alone",
+    "artists": [
+      "Anastacia"
+    ],
+    "isrc": "USSM10400150",
+    "start_time": "2025-11-09 08:55:15",
+    "radio": "expres",
+    "recorded_at": "2025-11-09T08:55:31.603795+01:00",
+    "raw_valid": true,
+    "song_session_id": "dfa4b008-85be-42e0-a381-76d79e0813f1",
+    "duration_ms": 256946,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "By Your Side (In My Mind)",
+    "artists": [
+      "Leony"
+    ],
+    "isrc": "DEN062400804",
+    "start_time": "2025-11-09 09:06:02",
+    "radio": "expres",
+    "recorded_at": "2025-11-09T09:06:15.269500+01:00",
+    "raw_valid": true,
+    "song_session_id": "5b85ccc3-4010-4b9a-b058-71d84984a82d",
+    "duration_ms": 177148,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Manila",
+    "artists": [
+      "Ray Dalton",
+      "Alvaro Soler"
+    ],
+    "isrc": "DEE862102002",
+    "start_time": "2025-11-09 09:09:05",
+    "radio": "expres",
+    "recorded_at": "2025-11-09T09:09:34.175200+01:00",
+    "raw_valid": true,
+    "song_session_id": "04f58d95-df3a-4927-9e62-25c1be1c267d",
+    "duration_ms": 144621,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "O Blaznech",
+    "artists": [
+      "Michal Penk"
+    ],
+    "isrc": "CZA549200308",
+    "start_time": "2025-11-09 09:11:29",
+    "radio": "expres",
+    "recorded_at": "2025-11-09T09:12:06.578374+01:00",
+    "raw_valid": true,
+    "song_session_id": "24568a87-af35-48d9-be4e-3ff7af351728",
+    "duration_ms": 278000,
+    "genre": []
+  },
+  {
+    "song": "Pride",
+    "artists": [
+      "Felix Jaehn",
+      "Jhart"
+    ],
+    "isrc": "DEUM72503423",
+    "start_time": "2025-11-09 09:16:10",
+    "radio": "expres",
+    "recorded_at": "2025-11-09T09:16:35.438991+01:00",
+    "raw_valid": true,
+    "song_session_id": "310736bc-7d86-4bab-ae65-68836063af13",
+    "duration_ms": 158150,
+    "genre": []
+  },
+  {
+    "song": "Nekracaj Predo Mnou",
+    "artists": [
+      "Zuzana Smatanova"
+    ],
+    "isrc": "CZA210500632",
+    "start_time": "2025-11-09 09:18:52",
+    "radio": "expres",
+    "recorded_at": "2025-11-09T09:19:28.144008+01:00",
+    "raw_valid": true,
+    "song_session_id": "2925b507-a139-4128-bb92-c9d86a63ebe2",
+    "duration_ms": 205379,
+    "genre": []
+  },
+  {
+    "song": "My Universe",
+    "artists": [
+      "Coldplay",
+      "Bts"
+    ],
+    "isrc": "GBAYE2100952",
+    "start_time": "2025-11-09 09:22:14",
+    "radio": "expres",
+    "recorded_at": "2025-11-09T09:22:48.093579+01:00",
+    "raw_valid": true,
+    "song_session_id": "b57af4ac-4b2b-455d-8962-6749c55c775d",
+    "duration_ms": 226198,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Me And My Guitar",
+    "artists": [
+      "Jax Jones",
+      "Fireboy Dml"
+    ],
+    "isrc": "GBUM72304638",
+    "start_time": "2025-11-09 09:25:27",
+    "radio": "expres",
+    "recorded_at": "2025-11-09T09:25:44.030060+01:00",
+    "raw_valid": true,
+    "song_session_id": "25f4a3f0-efd0-4c9c-bfbe-36d580fa1308",
+    "duration_ms": 134310,
+    "genre": []
+  },
+  {
+    "song": "Reklama Na Ticho",
+    "artists": [
+      "Team"
+    ],
+    "isrc": "SKA128804502",
+    "start_time": "2025-11-09 09:30:53",
+    "radio": "expres",
+    "recorded_at": "2025-11-09T09:31:14.258253+01:00",
+    "raw_valid": true,
+    "song_session_id": "8f6bc225-aa3b-421e-8791-6783e8620857",
+    "duration_ms": 222426,
+    "genre": []
+  },
+  {
+    "song": "Be Mine",
+    "artists": [
+      "Kamrad"
+    ],
+    "isrc": "DE1NJ2500035",
+    "start_time": "2025-11-09 09:34:05",
+    "radio": "expres",
+    "recorded_at": "2025-11-09T09:34:32.260566+01:00",
+    "raw_valid": true,
+    "song_session_id": "1d9405c7-ed35-4074-81f1-2bc62287af63",
+    "duration_ms": 156463,
+    "genre": []
+  },
+  {
+    "song": "Hangover",
+    "artists": [
+      "Taio Cruz",
+      "Flo Rida"
+    ],
+    "isrc": "GBUM71108857",
+    "start_time": "2025-11-09 09:36:44",
+    "radio": "expres",
+    "recorded_at": "2025-11-09T09:36:56.665893+01:00",
+    "raw_valid": true,
+    "song_session_id": "782b8f9c-5ecc-4544-ac10-0fd1df24d84e",
+    "duration_ms": 244906,
+    "genre": []
+  },
+  {
+    "song": "Fading Like A Flower",
+    "artists": [
+      "Roxette",
+      "Galantis"
+    ],
+    "isrc": "SEAMA2200001",
+    "start_time": "2025-11-09 09:40:56",
+    "radio": "expres",
+    "recorded_at": "2025-11-09T09:41:19.680313+01:00",
+    "raw_valid": true,
+    "song_session_id": "57851921-f64a-4240-a1af-2837747d8f1a",
+    "duration_ms": 145807,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Say It Right",
+    "artists": [
+      "Nelly Furtado"
+    ],
+    "isrc": "USUM70603368",
+    "start_time": "2025-11-09 09:43:18",
+    "radio": "expres",
+    "recorded_at": "2025-11-09T09:43:32.351567+01:00",
+    "raw_valid": true,
+    "song_session_id": "853270d5-7b17-41f0-806a-c837d79b80ae",
+    "duration_ms": 223080,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Do Neba",
+    "artists": [
+      "Dara Rolins"
+    ],
+    "isrc": "QZYFZ2505251",
+    "start_time": "2025-11-09 09:46:48",
+    "radio": "expres",
+    "recorded_at": "2025-11-09T09:47:15.697353+01:00",
+    "raw_valid": true,
+    "song_session_id": "13a7b0d1-1fee-4926-a608-8131cd9659c6",
+    "duration_ms": 204253,
+    "genre": []
+  },
+  {
+    "song": "Alone",
+    "artists": [
+      "Heart"
+    ],
+    "isrc": "USCA28700690",
+    "start_time": "2025-11-09 09:50:29",
+    "radio": "expres",
+    "recorded_at": "2025-11-09T09:51:02.645032+01:00",
+    "raw_valid": true,
+    "song_session_id": "722da079-d02e-4c9c-b2da-b3aef46e0d0f",
+    "duration_ms": 218733,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Overdrive",
+    "artists": [
+      "Ofenbach",
+      "Norma Jean Martine"
+    ],
+    "isrc": "FR9W12347222",
+    "start_time": "2025-11-09 09:53:16",
+    "radio": "expres",
+    "recorded_at": "2025-11-09T09:53:35.143260+01:00",
+    "raw_valid": true,
+    "song_session_id": "7cd83052-6396-4e42-84fc-09635fe2e532",
+    "duration_ms": 155905,
+    "genre": []
+  },
+  {
+    "song": "I See Fire",
+    "artists": [
+      "Ed Sheeran"
+    ],
+    "isrc": "GBAHS1400104",
+    "start_time": "2025-11-09 09:55:51",
+    "radio": "expres",
+    "recorded_at": "2025-11-09T09:56:29.410018+01:00",
+    "raw_valid": true,
+    "song_session_id": "59ecf06d-3737-4789-9604-c97607d85af2",
+    "duration_ms": 299146,
+    "genre": [
+      "soundtrack"
+    ]
+  }
+]

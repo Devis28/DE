@@ -1,0 +1,353 @@
+[
+  {
+    "song": "Glide",
+    "artists": [
+      "Neiked",
+      "Portugal The Man"
+    ],
+    "isrc": "DEE862500421",
+    "start_time": "2025-11-20 16:07:34",
+    "radio": "expres",
+    "recorded_at": "2025-11-20T16:08:18.371149+01:00",
+    "raw_valid": true,
+    "song_session_id": "00ffaf41-fb77-45f6-8835-cd8caf2c4aae",
+    "duration_ms": 184405,
+    "genre": []
+  },
+  {
+    "song": "Try",
+    "artists": [
+      "Pink"
+    ],
+    "isrc": "USRC11200785",
+    "start_time": "2025-11-20 16:10:32",
+    "radio": "expres",
+    "recorded_at": "2025-11-20T16:11:16.227234+01:00",
+    "raw_valid": true,
+    "song_session_id": "0c539e16-9530-4d31-9842-42e6976bc466",
+    "duration_ms": 247720,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Wonderful Life 25",
+    "artists": [
+      "Hurts",
+      "Purple Disco Machine"
+    ],
+    "isrc": "DEE862500677",
+    "start_time": "2025-11-20 16:14:37",
+    "radio": "expres",
+    "recorded_at": "2025-11-20T16:15:16.594806+01:00",
+    "raw_valid": true,
+    "song_session_id": "a5554613-9a87-4320-a9e7-07499d3880b8",
+    "duration_ms": 178658,
+    "genre": []
+  },
+  {
+    "song": "Bitter Sweet Symphony",
+    "artists": [
+      "Verve"
+    ],
+    "isrc": "GBUM71601816",
+    "start_time": "2025-11-20 16:19:52",
+    "radio": "expres",
+    "recorded_at": "2025-11-20T16:20:19.284840+01:00",
+    "raw_valid": true,
+    "song_session_id": "ab397941-062e-4f7d-baa0-0017ade777ae",
+    "duration_ms": 357266,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Len Sa Smej",
+    "artists": [
+      "Peter Bic Project"
+    ],
+    "isrc": "SKA012300333",
+    "start_time": "2025-11-20 16:24:50",
+    "radio": "expres",
+    "recorded_at": "2025-11-20T16:25:16.579357+01:00",
+    "raw_valid": true,
+    "song_session_id": "8c6d48b8-3118-4ab7-a61c-475835bfc566",
+    "duration_ms": 164741,
+    "genre": []
+  },
+  {
+    "song": "I Like The Way You Kiss Me",
+    "artists": [
+      "Artemas"
+    ],
+    "isrc": "QZJ842400387",
+    "start_time": "2025-11-20 16:34:33",
+    "radio": "expres",
+    "recorded_at": "2025-11-20T16:35:02.539757+01:00",
+    "raw_valid": true,
+    "song_session_id": "68761028-833e-482b-9337-f8f992125423",
+    "duration_ms": 142514,
+    "genre": [
+      "pop rock"
+    ]
+  },
+  {
+    "song": "Spending My Time",
+    "artists": [
+      "Roxette"
+    ],
+    "isrc": "SEAMA9079050",
+    "start_time": "2025-11-20 16:36:58",
+    "radio": "expres",
+    "recorded_at": "2025-11-20T16:37:41.595300+01:00",
+    "raw_valid": true,
+    "song_session_id": "b3c29326-54c5-4d7f-b264-6ad93751101d",
+    "duration_ms": 275666,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Rock N Roll",
+    "artists": [
+      "Leony",
+      "G-Eazy"
+    ],
+    "isrc": "DEN062400703",
+    "start_time": "2025-11-20 16:41:29",
+    "radio": "expres",
+    "recorded_at": "2025-11-20T16:41:57.583560+01:00",
+    "raw_valid": true,
+    "song_session_id": "69d866ce-f3f9-4d39-8548-81aef33ecbef",
+    "duration_ms": 158374,
+    "genre": [
+      "offizielle charts"
+    ]
+  },
+  {
+    "song": "Talk To Me",
+    "artists": [
+      "Damiano David",
+      "Tyla",
+      "Nile Rodgers"
+    ],
+    "isrc": "ITB002500942",
+    "start_time": "2025-11-20 16:44:05",
+    "radio": "expres",
+    "recorded_at": "2025-11-20T16:44:37.684206+01:00",
+    "raw_valid": true,
+    "song_session_id": "29382de5-faae-4351-934d-57cc6e7d8de0",
+    "duration_ms": 193502,
+    "genre": []
+  },
+  {
+    "song": "With Or Without You",
+    "artists": [
+      "U2"
+    ],
+    "isrc": "GBUM70709792",
+    "start_time": "2025-11-20 16:48:25",
+    "radio": "expres",
+    "recorded_at": "2025-11-20T16:49:01.899534+01:00",
+    "raw_valid": true,
+    "song_session_id": "f0668ad2-9874-4a99-bc25-1190cd3da606",
+    "duration_ms": 295520,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Just A Dream",
+    "artists": [
+      "Nelly"
+    ],
+    "isrc": "USUM71020948",
+    "start_time": "2025-11-20 16:52:16",
+    "radio": "expres",
+    "recorded_at": "2025-11-20T16:52:40.241768+01:00",
+    "raw_valid": true,
+    "song_session_id": "0ca00aeb-a83c-4856-a66a-e0d0be0a4f28",
+    "duration_ms": 237866,
+    "genre": [
+      "hip hop"
+    ]
+  },
+  {
+    "song": "Regalo",
+    "artists": [
+      "Alvaro Soler"
+    ],
+    "isrc": "DEE862500388",
+    "start_time": "2025-11-20 17:12:12",
+    "radio": "expres",
+    "recorded_at": "2025-11-20T17:12:46.065308+01:00",
+    "raw_valid": true,
+    "song_session_id": "548a560d-2b97-4fc1-97a6-d05a1aae2842",
+    "duration_ms": 184984,
+    "genre": []
+  },
+  {
+    "song": "Vrat Trochu Lasky Medzi Nas",
+    "artists": [
+      "G8"
+    ],
+    "isrc": "TCAEQ2005817",
+    "start_time": "2025-11-20 17:15:17",
+    "radio": "expres",
+    "recorded_at": "2025-11-20T17:15:44.082393+01:00",
+    "raw_valid": true,
+    "song_session_id": "883c20ee-99b4-4d32-83ba-0ac7409b2bcb",
+    "duration_ms": 251211,
+    "genre": []
+  },
+  {
+    "song": "Love Me Not",
+    "artists": [
+      "Ravyn Lenae"
+    ],
+    "isrc": "USAT22401137",
+    "start_time": "2025-11-20 17:19:22",
+    "radio": "expres",
+    "recorded_at": "2025-11-20T17:19:48.355610+01:00",
+    "raw_valid": true,
+    "song_session_id": "0c8bd324-2403-46f4-a5fe-4a5ae426e0c8",
+    "duration_ms": 213466,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Ocean Drive",
+    "artists": [
+      "Duke Dumont"
+    ],
+    "isrc": "GBUM71504503",
+    "start_time": "2025-11-20 17:22:53",
+    "radio": "expres",
+    "recorded_at": "2025-11-20T17:23:26.760151+01:00",
+    "raw_valid": true,
+    "song_session_id": "d32add5d-21ce-4f88-af10-1f332239a5e2",
+    "duration_ms": 206320,
+    "genre": [
+      "electronic"
+    ]
+  },
+  {
+    "song": "Ray Of Light",
+    "artists": [
+      "Nico Santos"
+    ],
+    "isrc": "DECE72402394",
+    "start_time": "2025-11-20 17:26:16",
+    "radio": "expres",
+    "recorded_at": "2025-11-20T17:26:45.367651+01:00",
+    "raw_valid": true,
+    "song_session_id": "86984251-8286-441d-b766-6732d1fe26a9",
+    "duration_ms": 176500,
+    "genre": []
+  },
+  {
+    "song": "Mystical Magical",
+    "artists": [
+      "Benson Boone"
+    ],
+    "isrc": "USWB12500844",
+    "start_time": "2025-11-20 17:33:39",
+    "radio": "expres",
+    "recorded_at": "2025-11-20T17:34:01.575107+01:00",
+    "raw_valid": true,
+    "song_session_id": "b00daa95-e8c5-4648-8114-6aa3d7ef945c",
+    "duration_ms": 165746,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Shape Of You",
+    "artists": [
+      "Ed Sheeran"
+    ],
+    "isrc": "GBAHS1600463",
+    "start_time": "2025-11-20 17:36:23",
+    "radio": "expres",
+    "recorded_at": "2025-11-20T17:36:44.141375+01:00",
+    "raw_valid": true,
+    "song_session_id": "4fbd2f7c-378c-4046-b969-2cc3d6b7a455",
+    "duration_ms": 233712,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Pride",
+    "artists": [
+      "Felix Jaehn",
+      "Jhart"
+    ],
+    "isrc": "DEUM72503423",
+    "start_time": "2025-11-20 17:40:26",
+    "radio": "expres",
+    "recorded_at": "2025-11-20T17:41:03.275718+01:00",
+    "raw_valid": true,
+    "song_session_id": "9945295c-3b74-4e6d-a993-7a25efc424b6",
+    "duration_ms": 158150,
+    "genre": []
+  },
+  {
+    "song": "Ak Nie Si Moja",
+    "artists": [
+      "Vaso Patejdl"
+    ],
+    "isrc": "SKA128676213",
+    "start_time": "2025-11-20 17:43:14",
+    "radio": "expres",
+    "recorded_at": "2025-11-20T17:43:45.753140+01:00",
+    "raw_valid": true,
+    "song_session_id": "ac5650ee-7930-4765-9b5e-982383f2ba8c",
+    "duration_ms": 252013,
+    "genre": []
+  },
+  {
+    "song": "Dive",
+    "artists": [
+      "Lost Frequencies",
+      "Tom Gregory"
+    ],
+    "isrc": "BEHP42300028",
+    "start_time": "2025-11-20 17:47:17",
+    "radio": "expres",
+    "recorded_at": "2025-11-20T17:47:44.570117+01:00",
+    "raw_valid": true,
+    "song_session_id": "33de9276-22e9-451f-b1d3-05cace1f14db",
+    "duration_ms": 161093,
+    "genre": []
+  },
+  {
+    "song": "Anjel",
+    "artists": [
+      "Desmod"
+    ],
+    "isrc": "SKE491500202",
+    "start_time": "2025-11-20 17:50:48",
+    "radio": "expres",
+    "recorded_at": "2025-11-20T17:51:07.545382+01:00",
+    "raw_valid": true,
+    "song_session_id": "932f93cc-dc48-43b2-bf55-c15f63126f8c",
+    "duration_ms": 185893,
+    "genre": []
+  },
+  {
+    "song": "Angels",
+    "artists": [
+      "Morandi"
+    ],
+    "isrc": "ROUM70700047",
+    "start_time": "2025-11-20 17:53:55",
+    "radio": "expres",
+    "recorded_at": "2025-11-20T17:54:30.741581+01:00",
+    "raw_valid": true,
+    "song_session_id": "40fca33e-650b-4ccd-924a-25d98484473e",
+    "duration_ms": 225120,
+    "genre": []
+  }
+]

@@ -1,0 +1,427 @@
+[
+  {
+    "station": "Rádio Melody",
+    "title": "Smútok Krásnych Dievčat",
+    "artist": "Duchoň Karol",
+    "date": "08.11.2025",
+    "time": "04:03",
+    "last_update": "08.11.2025 04:03:20",
+    "recorded_at": "2025-11-08T04:03:20.349048+01:00",
+    "raw_valid": true,
+    "song_session_id": "ffe14ab1-0a9b-417d-a390-cd6967a83bb0",
+    "duration_ms": 209862,
+    "genre": []
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Nepriznaná",
+    "artist": "Vašo Patejdl",
+    "date": "08.11.2025",
+    "time": "04:06",
+    "last_update": "08.11.2025 04:07:37",
+    "recorded_at": "2025-11-08T04:07:37.239345+01:00",
+    "raw_valid": true,
+    "song_session_id": "dbfb2c36-9bcb-4ae0-8cf2-13a10c1ef952",
+    "duration_ms": 273160,
+    "genre": []
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Will You Be There",
+    "artist": "Michael Jackson",
+    "date": "08.11.2025",
+    "time": "04:11",
+    "last_update": "08.11.2025 04:12:58",
+    "recorded_at": "2025-11-08T04:12:58.598110+01:00",
+    "raw_valid": true,
+    "song_session_id": "801cf653-756c-4253-917b-d93358223317",
+    "duration_ms": 224015,
+    "genre": []
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Horúca Láska",
+    "artist": "Lukáš Adamec",
+    "date": "08.11.2025",
+    "time": "04:15",
+    "last_update": "08.11.2025 04:16:18",
+    "recorded_at": "2025-11-08T04:16:18.765261+01:00",
+    "raw_valid": true,
+    "song_session_id": "d12670e0-86b7-4908-9603-a56723d96c02",
+    "duration_ms": 208147,
+    "genre": []
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Angels",
+    "artist": "Robbie Williams",
+    "date": "08.11.2025",
+    "time": "04:19",
+    "last_update": "08.11.2025 04:20:29",
+    "recorded_at": "2025-11-08T04:20:29.981193+01:00",
+    "raw_valid": true,
+    "song_session_id": "5e90816a-61a2-4b15-bea1-7aa006268754",
+    "duration_ms": 265000,
+    "genre": []
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Unikát",
+    "artist": "Mária Čírová",
+    "date": "08.11.2025",
+    "time": "04:23",
+    "last_update": "08.11.2025 04:24:43",
+    "recorded_at": "2025-11-08T04:24:43.543267+01:00",
+    "raw_valid": true,
+    "song_session_id": "73c9ce6c-01f5-450a-974d-44ff9a2fc9ff",
+    "duration_ms": 206360,
+    "genre": []
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Some People",
+    "artist": "Richard Cliff",
+    "date": "08.11.2025",
+    "time": "04:26",
+    "last_update": "08.11.2025 04:27:15",
+    "recorded_at": "2025-11-08T04:27:15.596099+01:00",
+    "raw_valid": true,
+    "song_session_id": "392cd2bc-68c0-4f49-8242-2918e363f430",
+    "duration_ms": 231560,
+    "genre": [
+      "christmas"
+    ]
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Katka",
+    "artist": "Miro Žbirka",
+    "date": "08.11.2025",
+    "time": "04:30",
+    "last_update": "08.11.2025 04:31:24",
+    "recorded_at": "2025-11-08T04:31:24.918521+01:00",
+    "raw_valid": true,
+    "song_session_id": "76523960-2b66-4bb4-beba-24de7944886f",
+    "duration_ms": 202106,
+    "genre": []
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "I Want To Break Free",
+    "artist": "Queen",
+    "date": "08.11.2025",
+    "time": "04:33",
+    "last_update": "08.11.2025 04:34:10",
+    "recorded_at": "2025-11-08T04:34:10.525264+01:00",
+    "raw_valid": true,
+    "song_session_id": "cf30f1d9-3e05-40dd-97af-c2aa67ae9030",
+    "duration_ms": 223080,
+    "genre": [
+      "classic rock"
+    ]
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Hallelujah",
+    "artist": "Alexandra Burke",
+    "date": "08.11.2025",
+    "time": "04:37",
+    "last_update": "08.11.2025 04:38:27",
+    "recorded_at": "2025-11-08T04:38:27.555701+01:00",
+    "raw_valid": true,
+    "song_session_id": "0d82774e-06de-4f46-84b6-e9ad1988a9ae",
+    "duration_ms": 217826,
+    "genre": []
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Sunshine Reggae",
+    "artist": "Laid Back",
+    "date": "08.11.2025",
+    "time": "04:41",
+    "last_update": "08.11.2025 04:42:43",
+    "recorded_at": "2025-11-08T04:42:43.199779+01:00",
+    "raw_valid": true,
+    "song_session_id": "fb8850c4-4214-465f-9cd7-98f0234044f9",
+    "duration_ms": 257666,
+    "genre": []
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Sacrifice",
+    "artist": "Elton John",
+    "date": "08.11.2025",
+    "time": "04:45",
+    "last_update": "08.11.2025 04:47:05",
+    "recorded_at": "2025-11-08T04:47:05.009042+01:00",
+    "raw_valid": true,
+    "song_session_id": "08a9bfa7-1d0f-4d97-ab01-17dfb1d37592",
+    "duration_ms": 304133,
+    "genre": []
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Stačí Si Priať",
+    "artist": "Smatanová Zuzana",
+    "date": "08.11.2025",
+    "time": "04:50",
+    "last_update": "08.11.2025 04:51:47",
+    "recorded_at": "2025-11-08T04:51:47.607116+01:00",
+    "raw_valid": true,
+    "song_session_id": "2aadd9e1-3548-4298-b608-d80bc6bb1347",
+    "duration_ms": 215506,
+    "genre": []
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Lásko Voníš Deštem",
+    "artist": "Marie Rottrová",
+    "date": "08.11.2025",
+    "time": "04:54",
+    "last_update": "08.11.2025 04:55:24",
+    "recorded_at": "2025-11-08T04:55:24.496447+01:00",
+    "raw_valid": true,
+    "song_session_id": "b88f9cbc-dc43-4203-b266-ee2040336a7d",
+    "duration_ms": 292400,
+    "genre": []
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Šrouby Do Hlavy",
+    "artist": "Lucie",
+    "date": "08.11.2025",
+    "time": "04:59",
+    "last_update": "08.11.2025 05:01:13",
+    "recorded_at": "2025-11-08T05:01:13.815091+01:00",
+    "raw_valid": true,
+    "song_session_id": "a69ca1d3-ccb4-432a-9063-46959eaccc7d",
+    "duration_ms": 248600,
+    "genre": []
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Take On Me",
+    "artist": "A-Ha",
+    "date": "08.11.2025",
+    "time": "05:03",
+    "last_update": "08.11.2025 05:04:23",
+    "recorded_at": "2025-11-08T05:04:23.612391+01:00",
+    "raw_valid": true,
+    "song_session_id": "b60ace5c-84d3-4187-a439-e01683a8859b",
+    "duration_ms": 225280,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "7 Seconds",
+    "artist": "N'dour Youssou & Cherry Neneh",
+    "date": "08.11.2025",
+    "time": "05:07",
+    "last_update": "08.11.2025 05:09:02",
+    "recorded_at": "2025-11-08T05:09:03.000184+01:00",
+    "raw_valid": true,
+    "song_session_id": "023ef300-5b3e-485b-b7bc-2301115f390e",
+    "duration_ms": 305773,
+    "genre": [
+      "afropop"
+    ]
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Stoj",
+    "artist": "Peter Bič Project",
+    "date": "08.11.2025",
+    "time": "05:11",
+    "last_update": "08.11.2025 05:12:17",
+    "recorded_at": "2025-11-08T05:12:17.108306+01:00",
+    "raw_valid": true,
+    "song_session_id": "ba5b8d16-3aa1-4246-94c4-f4a16371e1e8",
+    "duration_ms": 309779,
+    "genre": []
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "To Je Naše Věc",
+    "artist": "David Michal Bartošová Iveta",
+    "date": "08.11.2025",
+    "time": "05:16",
+    "last_update": "08.11.2025 05:17:38",
+    "recorded_at": "2025-11-08T05:17:38.275785+01:00",
+    "raw_valid": true,
+    "song_session_id": "1c1ac80e-46c5-48d5-a104-511813776a57",
+    "duration_ms": 230846,
+    "genre": []
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Hey Jude",
+    "artist": "Beatles, The",
+    "date": "08.11.2025",
+    "time": "05:20",
+    "last_update": "08.11.2025 05:21:18",
+    "recorded_at": "2025-11-08T05:21:18.394868+01:00",
+    "raw_valid": true,
+    "song_session_id": "59941cb3-462f-416b-9c19-f8a8b34897ca",
+    "duration_ms": 431453,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Dievča Z Reklamy",
+    "artist": "Dubasová Beáta",
+    "date": "08.11.2025",
+    "time": "05:24",
+    "last_update": "08.11.2025 05:25:07",
+    "recorded_at": "2025-11-08T05:25:07.131572+01:00",
+    "raw_valid": true,
+    "song_session_id": "5f9f9ccc-e6c2-45fc-99fc-4cf6f7e7417e",
+    "duration_ms": 214413,
+    "genre": []
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Blue Savannah",
+    "artist": "Erasure",
+    "date": "08.11.2025",
+    "time": "05:28",
+    "last_update": "08.11.2025 05:29:19",
+    "recorded_at": "2025-11-08T05:29:19.409661+01:00",
+    "raw_valid": true,
+    "song_session_id": "6337db0d-aa71-4955-8901-f4058c3253d2",
+    "duration_ms": 267260,
+    "genre": [
+      "synthpop"
+    ]
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Niekto Ti To Povie Skôr Než Ja",
+    "artist": "Desmod",
+    "date": "08.11.2025",
+    "time": "05:32",
+    "last_update": "08.11.2025 05:33:10",
+    "recorded_at": "2025-11-08T05:33:10.328386+01:00",
+    "raw_valid": true,
+    "song_session_id": "0d277256-3353-47b7-b00a-2c0734f6d1c8",
+    "duration_ms": 273640,
+    "genre": []
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Do Čista",
+    "artist": "Müller Richard",
+    "date": "08.11.2025",
+    "time": "05:36",
+    "last_update": "08.11.2025 05:37:22",
+    "recorded_at": "2025-11-08T05:37:22.685346+01:00",
+    "raw_valid": true,
+    "song_session_id": "8d9b8ff4-ca35-49a2-a691-312dbd7a7eea",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Too Many Broken Hearts",
+    "artist": "Donovan Jason",
+    "date": "08.11.2025",
+    "time": "05:40",
+    "last_update": "08.11.2025 05:41:29",
+    "recorded_at": "2025-11-08T05:41:29.595348+01:00",
+    "raw_valid": true,
+    "song_session_id": "2c5302e1-de31-4eba-9906-c75007730766",
+    "duration_ms": 208666,
+    "genre": [
+      "musicals"
+    ]
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Hľadám",
+    "artist": "No Name",
+    "date": "08.11.2025",
+    "time": "05:44",
+    "last_update": "08.11.2025 05:45:08",
+    "recorded_at": "2025-11-08T05:45:08.194679+01:00",
+    "raw_valid": true,
+    "song_session_id": "2a0a4d6f-c4e9-4c26-a6b4-18038d23b2c5",
+    "duration_ms": 211506,
+    "genre": []
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "One & One",
+    "artist": "Robert Miles/Maria Nayler",
+    "date": "08.11.2025",
+    "time": "05:47",
+    "last_update": "08.11.2025 05:48:44",
+    "recorded_at": "2025-11-08T05:48:44.854558+01:00",
+    "raw_valid": true,
+    "song_session_id": "17dd8b23-2963-43b6-bd99-d2e6205fd347",
+    "duration_ms": 239626,
+    "genre": [
+      "trance"
+    ]
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Chytila Jsem Na Pasece Motýlka",
+    "artist": "Vondráčková Helena",
+    "date": "08.11.2025",
+    "time": "05:51",
+    "last_update": "08.11.2025 05:52:27",
+    "recorded_at": "2025-11-08T05:52:27.953079+01:00",
+    "raw_valid": true,
+    "song_session_id": "aa650384-c54a-4f03-8f16-73675c3d1b65",
+    "duration_ms": 154200,
+    "genre": []
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "The River Of Dreams",
+    "artist": "Joel Billy",
+    "date": "08.11.2025",
+    "time": "05:54",
+    "last_update": "08.11.2025 05:55:39",
+    "recorded_at": "2025-11-08T05:55:39.125658+01:00",
+    "raw_valid": true,
+    "song_session_id": "32b5bcd5-a2fe-4ec1-8c21-594dd7ddc714",
+    "duration_ms": 245893,
+    "genre": [
+      "soft rock"
+    ]
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Made In Italy",
+    "artist": "Ricchi E Poveri",
+    "date": "08.11.2025",
+    "time": "05:58",
+    "last_update": "08.11.2025 05:58:46",
+    "recorded_at": "2025-11-08T05:58:46.213786+01:00",
+    "raw_valid": true,
+    "song_session_id": "4e1dc221-fafc-41f5-9612-c5d6353d004f",
+    "duration_ms": 201253,
+    "genre": [
+      "italo dance"
+    ]
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Dnes Už Viem",
+    "artist": "Pavol Hammel",
+    "date": "08.11.2025",
+    "time": "06:01",
+    "last_update": "08.11.2025 06:01:17",
+    "recorded_at": "2025-11-08T06:01:17.539326+01:00",
+    "raw_valid": true,
+    "song_session_id": "a89055f0-7c06-4293-8e3d-90926f720cda",
+    "duration_ms": 219266,
+    "genre": [
+      "big beat"
+    ]
+  }
+]

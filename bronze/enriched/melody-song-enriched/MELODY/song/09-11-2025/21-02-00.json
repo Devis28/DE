@@ -1,0 +1,462 @@
+[
+  {
+    "station": "Rádio Melody",
+    "title": "Everlasting Love",
+    "artist": "Sandra",
+    "date": "09.11.2025",
+    "time": "20:02",
+    "last_update": "09.11.2025 20:03:18",
+    "recorded_at": "2025-11-09T20:03:18.596895+01:00",
+    "raw_valid": true,
+    "song_session_id": "c1c2cfcc-413b-4439-8965-109e360de6ad",
+    "duration_ms": 227160,
+    "genre": [
+      "italo disco"
+    ]
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "It's A Fine Day",
+    "artist": "Opus Iii",
+    "date": "09.11.2025",
+    "time": "20:05",
+    "last_update": "09.11.2025 20:06:20",
+    "recorded_at": "2025-11-09T20:06:20.944222+01:00",
+    "raw_valid": true,
+    "song_session_id": "a831444e-2330-406a-a46b-2a38615e4dd7",
+    "duration_ms": 330533,
+    "genre": []
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Touch Me (I Want Your Body)",
+    "artist": "Fox Samantha",
+    "date": "09.11.2025",
+    "time": "20:09",
+    "last_update": "09.11.2025 20:10:23",
+    "recorded_at": "2025-11-09T20:10:23.034131+01:00",
+    "raw_valid": true,
+    "song_session_id": "81156fa8-00c3-48bf-9423-4d921e256959",
+    "duration_ms": 225986,
+    "genre": [
+      "hi-nrg"
+    ]
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Oh Carol",
+    "artist": "Smokie",
+    "date": "09.11.2025",
+    "time": "20:12",
+    "last_update": "09.11.2025 20:13:24",
+    "recorded_at": "2025-11-09T20:13:24.642134+01:00",
+    "raw_valid": true,
+    "song_session_id": "d199dd1d-2661-4539-8571-62e072538877",
+    "duration_ms": 219293,
+    "genre": [
+      "glam rock"
+    ]
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Fading Like A Flower",
+    "artist": "Roxette",
+    "date": "09.11.2025",
+    "time": "20:16",
+    "last_update": "09.11.2025 20:17:27",
+    "recorded_at": "2025-11-09T20:17:27.998178+01:00",
+    "raw_valid": true,
+    "song_session_id": "c2aea38a-5ae3-413e-954d-016679583236",
+    "duration_ms": 230680,
+    "genre": [
+      "swedish pop"
+    ]
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Two Hearts",
+    "artist": "Phil Collins",
+    "date": "09.11.2025",
+    "time": "20:20",
+    "last_update": "09.11.2025 20:21:30",
+    "recorded_at": "2025-11-09T20:21:30.117396+01:00",
+    "raw_valid": true,
+    "song_session_id": "1d8e22d3-4e00-4402-9dc3-bd9e0b113f76",
+    "duration_ms": 204386,
+    "genre": [
+      "soft rock"
+    ]
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Land Of Dreaming",
+    "artist": "Masterboy",
+    "date": "09.11.2025",
+    "time": "20:23",
+    "last_update": "09.11.2025 20:24:32",
+    "recorded_at": "2025-11-09T20:24:32.460696+01:00",
+    "raw_valid": true,
+    "song_session_id": "70d7b3db-c613-4ea2-b2ad-09f1b89379fa",
+    "duration_ms": 243000,
+    "genre": [
+      "eurodance"
+    ]
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Juliet",
+    "artist": "Robin Gibb",
+    "date": "09.11.2025",
+    "time": "20:27",
+    "last_update": "09.11.2025 20:28:13",
+    "recorded_at": "2025-11-09T20:28:13.930744+01:00",
+    "raw_valid": true,
+    "song_session_id": "7c9a9d62-e466-4dd4-bdb8-36c0b53ead2b",
+    "duration_ms": 228000,
+    "genre": [
+      "new wave"
+    ]
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "When Do I Get To Sing My Way",
+    "artist": "Sparks",
+    "date": "09.11.2025",
+    "time": "20:30",
+    "last_update": "09.11.2025 20:31:21",
+    "recorded_at": "2025-11-09T20:31:21.396328+01:00",
+    "raw_valid": true,
+    "song_session_id": "a7e50627-7068-4f1c-9c92-01640dbd06e2",
+    "duration_ms": 277119,
+    "genre": [
+      "glam rock"
+    ]
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Lay All Your Love On Me",
+    "artist": "Abba",
+    "date": "09.11.2025",
+    "time": "20:34",
+    "last_update": "09.11.2025 20:35:27",
+    "recorded_at": "2025-11-09T20:35:27.145438+01:00",
+    "raw_valid": true,
+    "song_session_id": "f7f691c9-0bab-4bf3-a7ce-de67cf2e22ba",
+    "duration_ms": 274466,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Americanos",
+    "artist": "Holly Johnson",
+    "date": "09.11.2025",
+    "time": "20:39",
+    "last_update": "09.11.2025 20:40:11",
+    "recorded_at": "2025-11-09T20:40:11.638075+01:00",
+    "raw_valid": true,
+    "song_session_id": "c758bd25-8168-4ca1-901e-a0168cd12453",
+    "duration_ms": 215973,
+    "genre": []
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Beautiful Life",
+    "artist": "Ace Of Base",
+    "date": "09.11.2025",
+    "time": "20:42",
+    "last_update": "09.11.2025 20:44:00",
+    "recorded_at": "2025-11-09T20:44:00.479242+01:00",
+    "raw_valid": true,
+    "song_session_id": "3f8f9e81-f463-4efa-b194-59aa7bfee658",
+    "duration_ms": 221186,
+    "genre": [
+      "eurodance"
+    ]
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "When Will I Be Famous",
+    "artist": "Bros",
+    "date": "09.11.2025",
+    "time": "20:46",
+    "last_update": "09.11.2025 20:47:16",
+    "recorded_at": "2025-11-09T20:47:16.324023+01:00",
+    "raw_valid": true,
+    "song_session_id": "a4036f57-ffff-429a-8c98-7d76749fb2f0",
+    "duration_ms": 241986,
+    "genre": []
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Don't Go Breaking My Heart",
+    "artist": "John Elton & Dee Kiki",
+    "date": "09.11.2025",
+    "time": "20:51",
+    "last_update": "09.11.2025 20:52:26",
+    "recorded_at": "2025-11-09T20:52:26.575407+01:00",
+    "raw_valid": true,
+    "song_session_id": "775123c1-7051-4896-9c7c-7aa28ec06d5a",
+    "duration_ms": 275440,
+    "genre": []
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Piccolo Amore",
+    "artist": "Ricchi E Poveri",
+    "date": "09.11.2025",
+    "time": "20:55",
+    "last_update": "09.11.2025 20:56:36",
+    "recorded_at": "2025-11-09T20:56:36.585944+01:00",
+    "raw_valid": true,
+    "song_session_id": "1732c445-c4db-41e8-835a-157a42865cb7",
+    "duration_ms": 199813,
+    "genre": [
+      "italo dance"
+    ]
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Jambo, Jambo, Jambo",
+    "artist": "Ragga 2 Sunshine",
+    "date": "09.11.2025",
+    "time": "20:58",
+    "last_update": "09.11.2025 20:59:45",
+    "recorded_at": "2025-11-09T20:59:45.535359+01:00",
+    "raw_valid": true,
+    "song_session_id": "a4eda03a-3094-4274-ae38-d7d2dc9291e1",
+    "duration_ms": 221843,
+    "genre": [
+      "eurodance"
+    ]
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Together Forever",
+    "artist": "Astley Rick",
+    "date": "09.11.2025",
+    "time": "21:02",
+    "last_update": "09.11.2025 21:03:18",
+    "recorded_at": "2025-11-09T21:03:18.143194+01:00",
+    "raw_valid": true,
+    "song_session_id": "485401dc-adb0-450e-a95f-355fadca1acb",
+    "duration_ms": 205533,
+    "genre": []
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "People Have The Power",
+    "artist": "Bliss Team",
+    "date": "09.11.2025",
+    "time": "21:05",
+    "last_update": "09.11.2025 21:08:45",
+    "recorded_at": "2025-11-09T21:08:45.157370+01:00",
+    "raw_valid": true,
+    "song_session_id": "55b2a749-68c5-42e6-bb8f-7a6f43180015",
+    "duration_ms": 317080,
+    "genre": [
+      "eurodance"
+    ]
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Dolce Vita",
+    "artist": "Paris Ryan",
+    "date": "09.11.2025",
+    "time": "21:11",
+    "last_update": "09.11.2025 21:12:18",
+    "recorded_at": "2025-11-09T21:12:18.779195+01:00",
+    "raw_valid": true,
+    "song_session_id": "17eb8d2f-2351-4558-a513-c6022e159fbc",
+    "duration_ms": 451426,
+    "genre": [
+      "italo disco"
+    ]
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Funkytown",
+    "artist": "Lipps Inc",
+    "date": "09.11.2025",
+    "time": "21:14",
+    "last_update": "09.11.2025 21:15:25",
+    "recorded_at": "2025-11-09T21:15:25.429706+01:00",
+    "raw_valid": true,
+    "song_session_id": "a164e6df-7cd2-4fab-ba6c-c6ab401d1270",
+    "duration_ms": 239826,
+    "genre": [
+      "disco"
+    ]
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Love To Hate You",
+    "artist": "Erasure",
+    "date": "09.11.2025",
+    "time": "21:18",
+    "last_update": "09.11.2025 21:19:08",
+    "recorded_at": "2025-11-09T21:19:08.504639+01:00",
+    "raw_valid": true,
+    "song_session_id": "2d1d615c-38ed-49d8-98de-bb1ccaa85aac",
+    "duration_ms": 236640,
+    "genre": [
+      "synthpop"
+    ]
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Sit And Wait",
+    "artist": "Youngblood Sydney",
+    "date": "09.11.2025",
+    "time": "21:22",
+    "last_update": "09.11.2025 21:22:12",
+    "recorded_at": "2025-11-09T21:22:12.041364+01:00",
+    "raw_valid": true,
+    "song_session_id": "0546c8f2-a55f-4fe4-9a44-64c2a2d98c80",
+    "duration_ms": 240493,
+    "genre": []
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Strong Enough",
+    "artist": "Cher",
+    "date": "09.11.2025",
+    "time": "21:26",
+    "last_update": "09.11.2025 21:26:22",
+    "recorded_at": "2025-11-09T21:26:22.999864+01:00",
+    "raw_valid": true,
+    "song_session_id": "3892c0c8-cc65-4977-b7e8-84561f24821c",
+    "duration_ms": 224000,
+    "genre": []
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Zaľúbil Sa Chlapec",
+    "artist": "Elán",
+    "date": "09.11.2025",
+    "time": "21:29",
+    "last_update": "09.11.2025 21:30:25",
+    "recorded_at": "2025-11-09T21:30:25.839667+01:00",
+    "raw_valid": true,
+    "song_session_id": "b3200372-40c4-486b-817b-06f027e9903a",
+    "duration_ms": 195706,
+    "genre": []
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Shine",
+    "artist": "Aswad",
+    "date": "09.11.2025",
+    "time": "21:33",
+    "last_update": "09.11.2025 21:33:30",
+    "recorded_at": "2025-11-09T21:33:30.857508+01:00",
+    "raw_valid": true,
+    "song_session_id": "ecb63d7c-b8ac-4df1-bfa4-6d8186ebf02c",
+    "duration_ms": 226466,
+    "genre": [
+      "reggae"
+    ]
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Daddy Cool",
+    "artist": "Boney M",
+    "date": "09.11.2025",
+    "time": "21:36",
+    "last_update": "09.11.2025 21:37:08",
+    "recorded_at": "2025-11-09T21:37:08.559431+01:00",
+    "raw_valid": true,
+    "song_session_id": "bfe8005d-cca2-45b7-96af-b436efe69c36",
+    "duration_ms": 208600,
+    "genre": [
+      "disco"
+    ]
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "The Land Of Make Believe",
+    "artist": "Bucks Fizz",
+    "date": "09.11.2025",
+    "time": "21:40",
+    "last_update": "09.11.2025 21:40:12",
+    "recorded_at": "2025-11-09T21:40:12.614379+01:00",
+    "raw_valid": true,
+    "song_session_id": "4405cd38-b54c-4ca1-a133-e9f9a25a946d",
+    "duration_ms": 228440,
+    "genre": []
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Everybody",
+    "artist": "Dj Bobo",
+    "date": "09.11.2025",
+    "time": "21:44",
+    "last_update": "09.11.2025 21:44:14",
+    "recorded_at": "2025-11-09T21:44:14.772654+01:00",
+    "raw_valid": true,
+    "song_session_id": "6f0963af-38bd-46d1-97c4-e6e32075ded1",
+    "duration_ms": 229893,
+    "genre": [
+      "eurodance"
+    ]
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Here Comes The Rain Again",
+    "artist": "Eurythmics",
+    "date": "09.11.2025",
+    "time": "21:47",
+    "last_update": "09.11.2025 21:48:18",
+    "recorded_at": "2025-11-09T21:48:18.528830+01:00",
+    "raw_valid": true,
+    "song_session_id": "d4da5e8f-f6ef-4c10-8c5b-65150376f393",
+    "duration_ms": 294586,
+    "genre": [
+      "new wave"
+    ]
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "We Will Rock You",
+    "artist": "Queen",
+    "date": "09.11.2025",
+    "time": "21:52",
+    "last_update": "09.11.2025 21:53:26",
+    "recorded_at": "2025-11-09T21:53:26.016504+01:00",
+    "raw_valid": true,
+    "song_session_id": "15238e4a-81a8-49e7-973e-05a8516285a2",
+    "duration_ms": 122066,
+    "genre": [
+      "classic rock"
+    ]
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "The Neverending Story",
+    "artist": "Limahl",
+    "date": "09.11.2025",
+    "time": "21:55",
+    "last_update": "09.11.2025 21:56:41",
+    "recorded_at": "2025-11-09T21:56:41.958633+01:00",
+    "raw_valid": true,
+    "song_session_id": "4a074265-a7f8-43cb-aa98-406e876c415f",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Mr Vain",
+    "artist": "Culture Beat",
+    "date": "09.11.2025",
+    "time": "21:58",
+    "last_update": "09.11.2025 21:58:18",
+    "recorded_at": "2025-11-09T21:58:18.288845+01:00",
+    "raw_valid": true,
+    "song_session_id": "13f35fc1-4257-4076-863e-9bfae91188aa",
+    "duration_ms": 257466,
+    "genre": [
+      "eurodance"
+    ]
+  }
+]

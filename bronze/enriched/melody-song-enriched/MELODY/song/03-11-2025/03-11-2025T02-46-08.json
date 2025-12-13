@@ -1,0 +1,727 @@
+[
+  {
+    "station": null,
+    "title": null,
+    "artist": null,
+    "date": null,
+    "time": null,
+    "last_update": null,
+    "recorded_at": "03.11.2025 00:45:34",
+    "raw_valid": false,
+    "song_session_id": "6dda9643-2f9d-4e60-a3a5-4d2bdf2146b3"
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Len Sa Smej",
+    "artist": "Peter Bič Project",
+    "date": "03.11.2025",
+    "time": "00:44",
+    "last_update": "03.11.2025 00:46:23",
+    "recorded_at": "03.11.2025 00:46:23",
+    "raw_valid": true,
+    "song_session_id": "c7c58a23-57b0-44c8-9a8e-0d89089afe42",
+    "duration_ms": 164896,
+    "genre": []
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Angels",
+    "artist": "Robbie Williams",
+    "date": "03.11.2025",
+    "time": "00:47",
+    "last_update": "03.11.2025 00:47:24",
+    "recorded_at": "03.11.2025 00:47:24",
+    "raw_valid": true,
+    "song_session_id": "4c129b54-b6d5-4d57-91e8-3c36c874a2e2",
+    "duration_ms": 265000,
+    "genre": []
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Tri Slová",
+    "artist": "Gombitova Marika & Rottrova Marie & Zbirka Miro",
+    "date": "03.11.2025",
+    "time": "00:51",
+    "last_update": "03.11.2025 00:51:40",
+    "recorded_at": "03.11.2025 00:51:40",
+    "raw_valid": true,
+    "song_session_id": "6697bf28-d0ec-4657-8b2c-c63e070f5a0c",
+    "duration_ms": 182693,
+    "genre": [
+      "big beat"
+    ]
+  },
+  {
+    "station": null,
+    "title": null,
+    "artist": null,
+    "date": null,
+    "time": null,
+    "last_update": null,
+    "recorded_at": "03.11.2025 00:53:41",
+    "raw_valid": false,
+    "song_session_id": "3918414a-1ee1-4d6e-884f-f6e77fd6c7ec"
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Free",
+    "artist": "Lighthouse Family",
+    "date": "03.11.2025",
+    "time": "00:54",
+    "last_update": "03.11.2025 00:55:51",
+    "recorded_at": "03.11.2025 00:55:51",
+    "raw_valid": true,
+    "song_session_id": "1c2ae3c1-a19c-4c6b-ac86-68fe7a1bdaec",
+    "duration_ms": 316360,
+    "genre": []
+  },
+  {
+    "station": null,
+    "title": null,
+    "artist": null,
+    "date": null,
+    "time": null,
+    "last_update": null,
+    "recorded_at": "03.11.2025 00:56:46",
+    "raw_valid": false,
+    "song_session_id": "6a71b447-fd05-4138-90fa-44fa487b608e"
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Ulica",
+    "artist": "Elán",
+    "date": "03.11.2025",
+    "time": "00:58",
+    "last_update": "03.11.2025 00:58:20",
+    "recorded_at": "03.11.2025 00:58:20",
+    "raw_valid": true,
+    "song_session_id": "fecb46fe-079d-4d79-8b8e-a8e810c4a47b",
+    "duration_ms": 184880,
+    "genre": []
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Som V Tom",
+    "artist": "Team",
+    "date": "03.11.2025",
+    "time": "01:01",
+    "last_update": "03.11.2025 01:01:25",
+    "recorded_at": "03.11.2025 01:01:25",
+    "raw_valid": true,
+    "song_session_id": "5fd12172-5a3d-45f7-9c9c-038eb78ffd64",
+    "duration_ms": 221933,
+    "genre": []
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Sailing",
+    "artist": "Rod Stewart",
+    "date": "03.11.2025",
+    "time": "01:04",
+    "last_update": "03.11.2025 01:06:39",
+    "recorded_at": "03.11.2025 01:06:39",
+    "raw_valid": true,
+    "song_session_id": "6b46b315-0435-4119-a956-556fc202cb2a",
+    "duration_ms": 277960,
+    "genre": [
+      "soft rock"
+    ]
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Careless Whisper",
+    "artist": "Michael, George",
+    "date": "03.11.2025",
+    "time": "01:09",
+    "last_update": "03.11.2025 01:09:52",
+    "recorded_at": "03.11.2025 01:09:52",
+    "raw_valid": true,
+    "song_session_id": "e18ec474-8ecf-4d80-8879-4b59953529b9",
+    "duration_ms": 303494,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "station": null,
+    "title": null,
+    "artist": null,
+    "date": null,
+    "time": null,
+    "last_update": null,
+    "recorded_at": "03.11.2025 01:15:34",
+    "raw_valid": false,
+    "song_session_id": "db92bd08-7b73-453e-ab5d-dbd5872be175"
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Runaway Train",
+    "artist": "Soul Asylum",
+    "date": "03.11.2025",
+    "time": "01:14",
+    "last_update": "03.11.2025 01:16:16",
+    "recorded_at": "03.11.2025 01:16:16",
+    "raw_valid": true,
+    "song_session_id": "0e2e25cd-4d9b-45bd-826c-4fc9cdda9b1a",
+    "duration_ms": 266573,
+    "genre": [
+      "alternative rock"
+    ]
+  },
+  {
+    "station": null,
+    "title": null,
+    "artist": null,
+    "date": null,
+    "time": null,
+    "last_update": null,
+    "recorded_at": "03.11.2025 01:19:31",
+    "raw_valid": false,
+    "song_session_id": "e949e8ab-f0d4-4b71-b33b-f72a5cc3ad2b"
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Líška",
+    "artist": "Jana Kirschner",
+    "date": "03.11.2025",
+    "time": "01:19",
+    "last_update": "03.11.2025 01:20:22",
+    "recorded_at": "03.11.2025 01:20:22",
+    "raw_valid": true,
+    "song_session_id": "e0a7b145-8665-4f2a-91b8-c12ca40c4c0b",
+    "duration_ms": 194560,
+    "genre": []
+  },
+  {
+    "station": null,
+    "title": null,
+    "artist": null,
+    "date": null,
+    "time": null,
+    "last_update": null,
+    "recorded_at": "03.11.2025 01:22:08",
+    "raw_valid": false,
+    "song_session_id": "4bd8b8e4-f87e-44de-a062-840b6b6fb423"
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Can You Feel The Love Tonight",
+    "artist": "John, Elton",
+    "date": "03.11.2025",
+    "time": "01:22",
+    "last_update": "03.11.2025 01:23:41",
+    "recorded_at": "03.11.2025 01:23:41",
+    "raw_valid": true,
+    "song_session_id": "8916a903-a12c-449e-bcf4-949b9816be4f",
+    "duration_ms": 241893,
+    "genre": []
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "V Dobrom Aj Zlom",
+    "artist": "Zuzana Smatanová",
+    "date": "03.11.2025",
+    "time": "01:26",
+    "last_update": "03.11.2025 01:26:41",
+    "recorded_at": "03.11.2025 01:26:41",
+    "raw_valid": true,
+    "song_session_id": "23374556-f460-4863-836c-eaadf87028ff",
+    "duration_ms": 176127,
+    "genre": []
+  },
+  {
+    "station": null,
+    "title": null,
+    "artist": null,
+    "date": null,
+    "time": null,
+    "last_update": null,
+    "recorded_at": "03.11.2025 01:29:16",
+    "raw_valid": false,
+    "song_session_id": "7a6f5bb3-9bc9-4f25-9829-898a37f4f199"
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "We Are The World",
+    "artist": "Usa For Africa & Jackson Michael",
+    "date": "03.11.2025",
+    "time": "01:29",
+    "last_update": "03.11.2025 01:30:05",
+    "recorded_at": "03.11.2025 01:30:05",
+    "raw_valid": true,
+    "song_session_id": "f28b5090-607d-4519-880c-0cb0097fdc42",
+    "duration_ms": 427333,
+    "genre": []
+  },
+  {
+    "station": null,
+    "title": null,
+    "artist": null,
+    "date": null,
+    "time": null,
+    "last_update": null,
+    "recorded_at": "03.11.2025 01:32:35",
+    "raw_valid": false,
+    "song_session_id": "90d49496-4715-4ea4-aa91-bc36bb654656"
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "We Are The World",
+    "artist": "Usa For Africa & Jackson Michael",
+    "date": "03.11.2025",
+    "time": "01:29",
+    "last_update": "03.11.2025 01:33:21",
+    "recorded_at": "03.11.2025 01:33:21",
+    "raw_valid": true,
+    "song_session_id": "f9ea7604-06f1-45a9-a657-76a0d836df7c",
+    "duration_ms": 427333,
+    "genre": []
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Čo Ak",
+    "artist": "I.M.T. Smile",
+    "date": "03.11.2025",
+    "time": "01:34",
+    "last_update": "03.11.2025 01:34:11",
+    "recorded_at": "03.11.2025 01:34:11",
+    "raw_valid": true,
+    "song_session_id": "80268475-ca9d-4dc2-bc12-6830afedc0b0",
+    "duration_ms": 194346,
+    "genre": []
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "The Locomotion",
+    "artist": "Kylie Minogue",
+    "date": "03.11.2025",
+    "time": "01:37",
+    "last_update": "03.11.2025 01:37:19",
+    "recorded_at": "03.11.2025 01:37:19",
+    "raw_valid": true,
+    "song_session_id": "1e4300b2-5583-4c84-8c93-fc3e722a4726",
+    "duration_ms": 296542,
+    "genre": [
+      "dance pop"
+    ]
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "(Everything I Do) I Do It For You",
+    "artist": "Adams Bryan",
+    "date": "03.11.2025",
+    "time": "01:40",
+    "last_update": "03.11.2025 01:41:47",
+    "recorded_at": "03.11.2025 01:41:47",
+    "raw_valid": true,
+    "song_session_id": "62b8626c-9ae7-4bcd-b4df-7ac88ae84979",
+    "duration_ms": 393640,
+    "genre": []
+  },
+  {
+    "station": null,
+    "title": null,
+    "artist": null,
+    "date": null,
+    "time": null,
+    "last_update": null,
+    "recorded_at": "03.11.2025 01:44:10",
+    "raw_valid": false,
+    "song_session_id": "7b24de47-17c7-4e81-9193-e867729b6390"
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "(Everything I Do) I Do It For You",
+    "artist": "Adams Bryan",
+    "date": "03.11.2025",
+    "time": "01:40",
+    "last_update": "03.11.2025 01:44:52",
+    "recorded_at": "03.11.2025 01:44:52",
+    "raw_valid": true,
+    "song_session_id": "57ad6a17-dd95-41da-ba29-2421963257ac",
+    "duration_ms": 393640,
+    "genre": []
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Hiroshima",
+    "artist": "Sandra",
+    "date": "03.11.2025",
+    "time": "01:44",
+    "last_update": "03.11.2025 01:45:34",
+    "recorded_at": "03.11.2025 01:45:34",
+    "raw_valid": true,
+    "song_session_id": "c353fd9f-f442-445d-b4db-a6609c8e3722",
+    "duration_ms": 253933,
+    "genre": [
+      "italo disco"
+    ]
+  },
+  {
+    "station": null,
+    "title": null,
+    "artist": null,
+    "date": null,
+    "time": null,
+    "last_update": null,
+    "recorded_at": "03.11.2025 01:47:19",
+    "raw_valid": false,
+    "song_session_id": "5c6b229f-2274-43c1-a46a-a69b99382359"
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Hiroshima",
+    "artist": "Sandra",
+    "date": "03.11.2025",
+    "time": "01:44",
+    "last_update": "03.11.2025 01:48:07",
+    "recorded_at": "03.11.2025 01:48:07",
+    "raw_valid": true,
+    "song_session_id": "d555d251-616e-47b5-8ad4-22ca8d56ee0e",
+    "duration_ms": 253933,
+    "genre": [
+      "italo disco"
+    ]
+  },
+  {
+    "station": null,
+    "title": null,
+    "artist": null,
+    "date": null,
+    "time": null,
+    "last_update": null,
+    "recorded_at": "03.11.2025 01:48:59",
+    "raw_valid": false,
+    "song_session_id": "54c529dd-f82c-42a6-84c4-f79584b4e72a"
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "I'll Be Missing You",
+    "artist": "Daddy, Puff & Evans, Faith",
+    "date": "03.11.2025",
+    "time": "01:48",
+    "last_update": "03.11.2025 01:49:41",
+    "recorded_at": "03.11.2025 01:49:41",
+    "raw_valid": true,
+    "song_session_id": "94367e36-21c5-483d-a3d5-17e499e7e211",
+    "duration_ms": 301520,
+    "genre": [
+      "hip hop"
+    ]
+  },
+  {
+    "station": null,
+    "title": null,
+    "artist": null,
+    "date": null,
+    "time": null,
+    "last_update": null,
+    "recorded_at": "03.11.2025 01:52:56",
+    "raw_valid": false,
+    "song_session_id": "688ff007-967e-40f6-8b5b-85be7a4e4cd6"
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "I'll Be Missing You",
+    "artist": "Daddy, Puff & Evans, Faith",
+    "date": "03.11.2025",
+    "time": "01:48",
+    "last_update": "03.11.2025 01:53:38",
+    "recorded_at": "03.11.2025 01:53:38",
+    "raw_valid": true,
+    "song_session_id": "8449f75a-c16a-431e-8ab0-949c43506b4c",
+    "duration_ms": 301520,
+    "genre": [
+      "hip hop"
+    ]
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "V tichu",
+    "artist": "Katarína Knechtová",
+    "date": "03.11.2025",
+    "time": "01:53",
+    "last_update": "03.11.2025 01:54:20",
+    "recorded_at": "03.11.2025 01:54:20",
+    "raw_valid": true,
+    "song_session_id": "d0b5c0a6-bfe5-48eb-995f-609280b74770",
+    "duration_ms": 209360,
+    "genre": []
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Woman In Love",
+    "artist": "Streisand Barbra",
+    "date": "03.11.2025",
+    "time": "01:57",
+    "last_update": "03.11.2025 01:58:29",
+    "recorded_at": "03.11.2025 01:58:29",
+    "raw_valid": true,
+    "song_session_id": "b6bef0be-7f57-4f27-8876-53dc4a2a8e46",
+    "duration_ms": 233400,
+    "genre": [
+      "adult standards"
+    ]
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Crying In Rain",
+    "artist": "A-Ha",
+    "date": "03.11.2025",
+    "time": "02:01",
+    "last_update": "03.11.2025 02:02:32",
+    "recorded_at": "03.11.2025 02:02:32",
+    "raw_valid": true,
+    "song_session_id": "b05deb34-5372-4f39-bcac-f81070d92101",
+    "duration_ms": 260226,
+    "genre": [
+      "new wave"
+    ]
+  },
+  {
+    "station": null,
+    "title": null,
+    "artist": null,
+    "date": null,
+    "time": null,
+    "last_update": null,
+    "recorded_at": "03.11.2025 02:04:15",
+    "raw_valid": false,
+    "song_session_id": "c3f73df3-6c98-4b60-916f-9bf7ace1d9ca"
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Crying In Rain",
+    "artist": "A-Ha",
+    "date": "03.11.2025",
+    "time": "02:01",
+    "last_update": "03.11.2025 02:05:52",
+    "recorded_at": "03.11.2025 02:05:52",
+    "raw_valid": true,
+    "song_session_id": "738adba4-0c51-44ff-8920-6ded1a2c62a9",
+    "duration_ms": 260226,
+    "genre": [
+      "new wave"
+    ]
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Žít Jako Kaskadér",
+    "artist": "Janda Dalibor",
+    "date": "03.11.2025",
+    "time": "02:05",
+    "last_update": "03.11.2025 02:06:54",
+    "recorded_at": "03.11.2025 02:06:54",
+    "raw_valid": true,
+    "song_session_id": "33a4dca4-d399-47f9-a3b1-fed880b744ec",
+    "duration_ms": 196866,
+    "genre": []
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Stay Another Day",
+    "artist": "East 17",
+    "date": "03.11.2025",
+    "time": "02:08",
+    "last_update": "03.11.2025 02:09:08",
+    "recorded_at": "03.11.2025 02:09:08",
+    "raw_valid": true,
+    "song_session_id": "18046488-b05c-451c-abad-fede85820bf2",
+    "duration_ms": 267133,
+    "genre": [
+      "christmas"
+    ]
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Už Je Tu Láska",
+    "artist": "Peter Nagy",
+    "date": "03.11.2025",
+    "time": "02:12",
+    "last_update": "03.11.2025 02:13:43",
+    "recorded_at": "03.11.2025 02:13:43",
+    "raw_valid": true,
+    "song_session_id": "e9eab1a3-afd4-4fe3-9933-28fdde99e9b4",
+    "duration_ms": 177026,
+    "genre": []
+  },
+  {
+    "station": null,
+    "title": null,
+    "artist": null,
+    "date": null,
+    "time": null,
+    "last_update": null,
+    "recorded_at": "03.11.2025 02:16:18",
+    "raw_valid": false,
+    "song_session_id": "9d7c3755-c1c0-428c-84f3-8d2ba62c6505"
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Love Is The Shield",
+    "artist": "Camouflage",
+    "date": "03.11.2025",
+    "time": "02:15",
+    "last_update": "03.11.2025 02:17:03",
+    "recorded_at": "03.11.2025 02:17:03",
+    "raw_valid": true,
+    "song_session_id": "1bfe690f-e650-4051-982e-6db07259c318",
+    "duration_ms": 236000,
+    "genre": [
+      "synthpop"
+    ]
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "When I Need You",
+    "artist": "Leo Sayer",
+    "date": "03.11.2025",
+    "time": "02:19",
+    "last_update": "03.11.2025 02:20:18",
+    "recorded_at": "03.11.2025 02:20:18",
+    "raw_valid": true,
+    "song_session_id": "d9de62df-190f-4b85-817f-7057c725908a",
+    "duration_ms": 255040,
+    "genre": [
+      "soft rock"
+    ]
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Ona Je Taká",
+    "artist": "Polemic",
+    "date": "03.11.2025",
+    "time": "02:23",
+    "last_update": "03.11.2025 02:24:40",
+    "recorded_at": "03.11.2025 02:24:40",
+    "raw_valid": true,
+    "song_session_id": "5704ec37-0e97-46a6-9aa5-0b8cc88cbd7b",
+    "duration_ms": 140120,
+    "genre": [
+      "ska"
+    ]
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "My, Oh My",
+    "artist": "Slade",
+    "date": "03.11.2025",
+    "time": "02:26",
+    "last_update": "03.11.2025 02:27:47",
+    "recorded_at": "03.11.2025 02:27:47",
+    "raw_valid": true,
+    "song_session_id": "bea5c0e9-a06f-4796-bed8-6ccdb96d8521",
+    "duration_ms": 252160,
+    "genre": [
+      "glam rock"
+    ]
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Mama Preco Nie Som Pekna",
+    "artist": "Madam",
+    "date": "03.11.2025",
+    "time": "02:30",
+    "last_update": "03.11.2025 02:31:43",
+    "recorded_at": "03.11.2025 02:31:43",
+    "raw_valid": true,
+    "song_session_id": "8a2922ed-143e-4c66-8ca1-2c030da894a5",
+    "duration_ms": 269880,
+    "genre": [
+      "malay"
+    ]
+  },
+  {
+    "station": null,
+    "title": null,
+    "artist": null,
+    "date": null,
+    "time": null,
+    "last_update": null,
+    "recorded_at": "03.11.2025 02:33:28",
+    "raw_valid": false,
+    "song_session_id": "a19991a1-fc7c-4992-b94d-3712f3961705"
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Mama Preco Nie Som Pekna",
+    "artist": "Madam",
+    "date": "03.11.2025",
+    "time": "02:30",
+    "last_update": "03.11.2025 02:35:06",
+    "recorded_at": "03.11.2025 02:35:06",
+    "raw_valid": true,
+    "song_session_id": "5db2bcd3-31e7-4fb9-81d9-fc67667cb009",
+    "duration_ms": 269880,
+    "genre": [
+      "malay"
+    ]
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Don't Speak",
+    "artist": "No Doubt",
+    "date": "03.11.2025",
+    "time": "02:35",
+    "last_update": "03.11.2025 02:36:38",
+    "recorded_at": "03.11.2025 02:36:38",
+    "raw_valid": true,
+    "song_session_id": "ce4db457-1799-4f78-8a2a-174b657db3aa",
+    "duration_ms": 263560,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "station": null,
+    "title": null,
+    "artist": null,
+    "date": null,
+    "time": null,
+    "last_update": null,
+    "recorded_at": "03.11.2025 02:38:17",
+    "raw_valid": false,
+    "song_session_id": "0521ee16-171e-47da-adfe-9c9d15f1e391"
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Don't Speak",
+    "artist": "No Doubt",
+    "date": "03.11.2025",
+    "time": "02:35",
+    "last_update": "03.11.2025 02:39:01",
+    "recorded_at": "03.11.2025 02:39:01",
+    "raw_valid": true,
+    "song_session_id": "71d857c7-f1f0-4616-a36d-4d19efeb3fa1",
+    "duration_ms": 263560,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Nikita",
+    "artist": "Elton John",
+    "date": "03.11.2025",
+    "time": "02:39",
+    "last_update": "03.11.2025 02:40:33",
+    "recorded_at": "03.11.2025 02:40:33",
+    "raw_valid": true,
+    "song_session_id": "f5c6d7ab-9da6-4d3d-a62a-bf291e336a24",
+    "duration_ms": 343240,
+    "genre": []
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Ty A Tvoja Sestra",
+    "artist": "No Name",
+    "date": "03.11.2025",
+    "time": "02:43",
+    "last_update": "03.11.2025 02:44:31",
+    "recorded_at": "03.11.2025 02:44:31",
+    "raw_valid": true,
+    "song_session_id": "c21e8489-e7b9-4ba8-8920-8ba6c3f04127",
+    "duration_ms": 202080,
+    "genre": []
+  }
+]

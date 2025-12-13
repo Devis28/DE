@@ -1,0 +1,262 @@
+[
+  {
+    "song": {
+      "play_date": "2025-11-25",
+      "play_time": "00:06",
+      "artist": [
+        "Ondrej Juraši"
+      ],
+      "title": "Triwaltz"
+    },
+    "recorded_at": "2025-11-25T00:07:46.781774+01:00",
+    "raw_valid": true,
+    "song_session_id": "e6c1be63-1e62-47f1-b09b-d5959ec2d612",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-11-25",
+      "play_time": "00:10",
+      "artist": [
+        "Legato"
+      ],
+      "title": "Mosquito"
+    },
+    "recorded_at": "2025-11-25T00:12:47.531689+01:00",
+    "raw_valid": true,
+    "song_session_id": "764297d5-8e21-4d0f-8882-f639bb2744b1",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-11-25",
+      "play_time": "00:16",
+      "artist": [
+        "Petras Projekt"
+      ],
+      "title": "Kopa Cura Vinograd"
+    },
+    "recorded_at": "2025-11-25T00:17:48.258648+01:00",
+    "raw_valid": true,
+    "song_session_id": "2922f3cd-f275-4a08-8ae0-59cd90dfbc9d",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-11-25",
+      "play_time": "00:19",
+      "artist": [
+        "John Coltrane"
+      ],
+      "title": "Blue Train (Remastered )"
+    },
+    "recorded_at": "2025-11-25T00:22:49.002942+01:00",
+    "raw_valid": true,
+    "song_session_id": "1826dd43-fe4e-432f-b9db-ddf2f3b23f25",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-11-25",
+      "play_time": "00:30",
+      "artist": [
+        "Juraj Griglak",
+        "Bobby Sparks",
+        "Poogie Bell",
+        "Chris Hemingway"
+      ],
+      "title": "Trilobit"
+    },
+    "recorded_at": "2025-11-25T00:32:50.450249+01:00",
+    "raw_valid": true,
+    "song_session_id": "6583ca18-e507-41e6-8342-3a6818acae26",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-11-25",
+      "play_time": "00:42",
+      "artist": [
+        "Eugen Botos",
+        "Mimie"
+      ],
+      "title": "Manhattan"
+    },
+    "recorded_at": "2025-11-25T00:42:51.899287+01:00",
+    "raw_valid": true,
+    "song_session_id": "40b5b081-438a-4e0b-ab2c-96b36cd584c8",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-11-25",
+      "play_time": "00:46",
+      "artist": [
+        "Sadao Watanabe"
+      ],
+      "title": "Dim Blue"
+    },
+    "recorded_at": "2025-11-25T00:47:52.851124+01:00",
+    "raw_valid": true,
+    "song_session_id": "026f5109-6f88-4596-94b8-0b09707d9771",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-11-25",
+      "play_time": "00:52",
+      "artist": [
+        "Sisa Michalidesová"
+      ],
+      "title": "La Llorona"
+    },
+    "recorded_at": "2025-11-25T00:57:54.201148+01:00",
+    "raw_valid": true,
+    "song_session_id": "d0347c0e-fd43-4c5f-9155-03d277f42a05",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-11-25",
+      "play_time": "01:03",
+      "artist": [
+        "Gazzarra"
+      ],
+      "title": "42nd Street"
+    },
+    "recorded_at": "2025-11-25T01:07:55.577785+01:00",
+    "raw_valid": true,
+    "song_session_id": "dbc40695-024a-4c65-ad2f-1def02e06702",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-11-25",
+      "play_time": "01:07",
+      "artist": [
+        "Lukas Oravec Orchestra"
+      ],
+      "title": "Gurun"
+    },
+    "recorded_at": "2025-11-25T01:12:56.254032+01:00",
+    "raw_valid": true,
+    "song_session_id": "0d1e202e-942c-4615-85e1-684a468bf589",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-11-25",
+      "play_time": "01:13",
+      "artist": [
+        "Quasimode"
+      ],
+      "title": "One Possibility"
+    },
+    "recorded_at": "2025-11-25T01:17:56.946400+01:00",
+    "raw_valid": true,
+    "song_session_id": "b8ffaed4-3431-4878-957b-b78d4c157bbc",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-11-25",
+      "play_time": "01:20",
+      "artist": [
+        "Peter Palaj"
+      ],
+      "title": "Harsh Bossa"
+    },
+    "recorded_at": "2025-11-25T01:22:57.649663+01:00",
+    "raw_valid": true,
+    "song_session_id": "a9f9a96e-c9d1-42be-acce-b6d9e7a3ba9e",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-11-25",
+      "play_time": "01:30",
+      "artist": [
+        "A",
+        "ertee"
+      ],
+      "title": "Will The Circle Be Unbroken"
+    },
+    "recorded_at": "2025-11-25T01:32:59.001736+01:00",
+    "raw_valid": true,
+    "song_session_id": "3075ba83-474c-44a7-a089-fa01f1d62e5b",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-11-25",
+      "play_time": "01:38",
+      "artist": [
+        "Miles Davis"
+      ],
+      "title": "If I Were A Bell"
+    },
+    "recorded_at": "2025-11-25T01:43:00.372741+01:00",
+    "raw_valid": true,
+    "song_session_id": "e575686f-4df5-4a38-b1b2-c4c0b660766f",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-11-25",
+      "play_time": "01:46",
+      "artist": [
+        "Denis Gerhardt"
+      ],
+      "title": "Fifth Play"
+    },
+    "recorded_at": "2025-11-25T01:48:01.048208+01:00",
+    "raw_valid": true,
+    "song_session_id": "6dabe202-92b9-44c8-bb4e-0ae6313128e2",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-11-25",
+      "play_time": "01:49",
+      "artist": [
+        "Marcus Miller"
+      ],
+      "title": "Rush Over"
+    },
+    "recorded_at": "2025-11-25T01:53:01.744814+01:00",
+    "raw_valid": true,
+    "song_session_id": "1b0c86dc-fa83-494b-8a5e-d825d1ec8279",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-11-25",
+      "play_time": "01:54",
+      "artist": [
+        "Samuel Sramek"
+      ],
+      "title": "Summer Samba"
+    },
+    "recorded_at": "2025-11-25T01:58:02.423146+01:00",
+    "raw_valid": true,
+    "song_session_id": "b9eb6f03-5c37-4b80-adf5-7f3fbe1824ee",
+    "duration_ms": null,
+    "genre": []
+  }
+]

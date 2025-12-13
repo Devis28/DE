@@ -1,0 +1,494 @@
+[
+  {
+    "song": "Training Season",
+    "artists": [
+      "Dua Lipa"
+    ],
+    "isrc": "GBAHT2301078",
+    "start_time": "2025-11-17 20:06:23",
+    "radio": "expres",
+    "recorded_at": "2025-11-17T20:06:46.968804+01:00",
+    "raw_valid": true,
+    "song_session_id": "c8c26266-085d-45c6-92c3-0b4e904c5772",
+    "duration_ms": 209487,
+    "genre": [
+      "electronic"
+    ]
+  },
+  {
+    "song": "Ludia Nie Su Zli",
+    "artists": [
+      "Imt Smile"
+    ],
+    "isrc": "SKA019903001",
+    "start_time": "2025-11-17 20:10:03",
+    "radio": "expres",
+    "recorded_at": "2025-11-17T20:10:31.029057+01:00",
+    "raw_valid": true,
+    "song_session_id": "897aea13-e033-46a4-84db-6e4a2109e32e",
+    "duration_ms": 179360,
+    "genre": []
+  },
+  {
+    "song": "Undressed",
+    "artists": [
+      "Sombr"
+    ],
+    "isrc": "USWB12500737",
+    "start_time": "2025-11-17 20:12:51",
+    "radio": "expres",
+    "recorded_at": "2025-11-17T20:13:28.988650+01:00",
+    "raw_valid": true,
+    "song_session_id": "e521ece6-96a2-4bcd-ac7a-56126e25839e",
+    "duration_ms": 182088,
+    "genre": [
+      "indie pop"
+    ]
+  },
+  {
+    "song": "Diamonds",
+    "artists": [
+      "Rihanna"
+    ],
+    "isrc": "USUM71211793",
+    "start_time": "2025-11-17 20:15:59",
+    "radio": "expres",
+    "recorded_at": "2025-11-17T20:16:31.800431+01:00",
+    "raw_valid": true,
+    "song_session_id": "301c14d1-b0d4-4feb-afc0-b28a0a5d1ff5",
+    "duration_ms": 225200,
+    "genre": [
+      "electronic"
+    ]
+  },
+  {
+    "song": "Blood Running",
+    "artists": [
+      "Ray Dalton"
+    ],
+    "isrc": "DEUM72507812",
+    "start_time": "2025-11-17 20:19:38",
+    "radio": "expres",
+    "recorded_at": "2025-11-17T20:20:15.279948+01:00",
+    "raw_valid": true,
+    "song_session_id": "994ffaba-e95d-4a3d-8bc0-69006a5d0815",
+    "duration_ms": 173146,
+    "genre": []
+  },
+  {
+    "song": "Vymyslena",
+    "artists": [
+      "Elan"
+    ],
+    "isrc": "SKA128229908",
+    "start_time": "2025-11-17 20:22:51",
+    "radio": "expres",
+    "recorded_at": "2025-11-17T20:23:27.887482+01:00",
+    "raw_valid": true,
+    "song_session_id": "5c064e77-e3a0-42f9-98aa-ef94d076a88f",
+    "duration_ms": 138120,
+    "genre": []
+  },
+  {
+    "song": "Stars Will Align",
+    "artists": [
+      "Kygo",
+      "Imagine Dragons"
+    ],
+    "isrc": "SEBGA2401211",
+    "start_time": "2025-11-17 20:25:00",
+    "radio": "expres",
+    "recorded_at": "2025-11-17T20:25:36.378961+01:00",
+    "raw_valid": true,
+    "song_session_id": "54b4ced7-0d4f-488e-b751-52e71930d291",
+    "duration_ms": 234366,
+    "genre": []
+  },
+  {
+    "song": "Lietam V Tom Tiez",
+    "artists": [
+      "Team"
+    ],
+    "isrc": "SKA128917006",
+    "start_time": "2025-11-17 20:28:48",
+    "radio": "expres",
+    "recorded_at": "2025-11-17T20:29:28.387852+01:00",
+    "raw_valid": true,
+    "song_session_id": "0ae1aba8-181b-47d9-a240-3dacc29f26ef",
+    "duration_ms": 233253,
+    "genre": []
+  },
+  {
+    "song": "Afterlife",
+    "artists": [
+      "Michael Schulte"
+    ],
+    "isrc": "DECE72500509",
+    "start_time": "2025-11-17 20:34:47",
+    "radio": "expres",
+    "recorded_at": "2025-11-17T20:35:11.983868+01:00",
+    "raw_valid": true,
+    "song_session_id": "6badde1b-d398-4355-b7c4-c366fb7cc336",
+    "duration_ms": 160120,
+    "genre": []
+  },
+  {
+    "song": "Modlitba Lasky",
+    "artists": [
+      "Robo Grigorov"
+    ],
+    "isrc": "TCAEZ2066091",
+    "start_time": "2025-11-17 20:37:39",
+    "radio": "expres",
+    "recorded_at": "2025-11-17T20:38:14.847293+01:00",
+    "raw_valid": true,
+    "song_session_id": "4d6259c7-8f38-480a-bc64-ad831119762a",
+    "duration_ms": 273293,
+    "genre": []
+  },
+  {
+    "song": "Shes So High",
+    "artists": [
+      "Kurt Nilsen"
+    ],
+    "isrc": "NOAJR0300051",
+    "start_time": "2025-11-17 20:42:03",
+    "radio": "expres",
+    "recorded_at": "2025-11-17T20:42:34.014434+01:00",
+    "raw_valid": true,
+    "song_session_id": "372dd81c-645a-4fb9-a79d-d58fcea5e88b",
+    "duration_ms": 248600,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Pride",
+    "artists": [
+      "Felix Jaehn",
+      "Jhart"
+    ],
+    "isrc": "DEUM72503423",
+    "start_time": "2025-11-17 20:46:17",
+    "radio": "expres",
+    "recorded_at": "2025-11-17T20:46:37.613287+01:00",
+    "raw_valid": true,
+    "song_session_id": "bf94a02a-9a9d-46db-a082-421b75c9c635",
+    "duration_ms": 158150,
+    "genre": []
+  },
+  {
+    "song": "Nevrav Mi Aky Som",
+    "artists": [
+      "Desmod"
+    ],
+    "isrc": "SKM901700103",
+    "start_time": "2025-11-17 20:48:52",
+    "radio": "expres",
+    "recorded_at": "2025-11-17T20:49:20.317665+01:00",
+    "raw_valid": true,
+    "song_session_id": "80e7053f-7787-4aa1-8e06-7392d5a93686",
+    "duration_ms": 207978,
+    "genre": []
+  },
+  {
+    "song": "I Like The Way You Kiss Me",
+    "artists": [
+      "Artemas"
+    ],
+    "isrc": "QZJ842400387",
+    "start_time": "2025-11-17 20:52:22",
+    "radio": "expres",
+    "recorded_at": "2025-11-17T20:52:51.131758+01:00",
+    "raw_valid": true,
+    "song_session_id": "5cf4d238-c713-4e92-8b41-6b89f3b580e6",
+    "duration_ms": 142514,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Gone Gone Gone",
+    "artists": [
+      "David Guetta",
+      "Teddy Swims",
+      "Tones And I"
+    ],
+    "isrc": "UKWLG2500132",
+    "start_time": "2025-11-17 20:54:41",
+    "radio": "expres",
+    "recorded_at": "2025-11-17T20:55:14.079884+01:00",
+    "raw_valid": true,
+    "song_session_id": "1bbeb0a4-cc51-4ab3-8bd6-a9db345e6fc2",
+    "duration_ms": 198004,
+    "genre": [
+      "soul"
+    ]
+  },
+  {
+    "song": "Im So Excited",
+    "artists": [
+      "Pointer Sisters"
+    ],
+    "isrc": "USRC18203285",
+    "start_time": "2025-11-17 20:58:17",
+    "radio": "expres",
+    "recorded_at": "2025-11-17T20:58:52.325015+01:00",
+    "raw_valid": true,
+    "song_session_id": "e0435a8c-58a7-41dd-b64e-f26b95597e04",
+    "duration_ms": 233400,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Million Good Reasons",
+    "artists": [
+      "Robin Schulz",
+      "Fast Boy"
+    ],
+    "isrc": "DEA622404738",
+    "start_time": "2025-11-17 21:06:27",
+    "radio": "expres",
+    "recorded_at": "2025-11-17T21:06:59.112615+01:00",
+    "raw_valid": true,
+    "song_session_id": "5acfcc49-43c1-4058-ad5b-35f32a9e1460",
+    "duration_ms": 157130,
+    "genre": []
+  },
+  {
+    "song": "The Reason",
+    "artists": [
+      "Hoobastank"
+    ],
+    "isrc": "USIR20300704",
+    "start_time": "2025-11-17 21:09:09",
+    "radio": "expres",
+    "recorded_at": "2025-11-17T21:09:41.683844+01:00",
+    "raw_valid": true,
+    "song_session_id": "daba7069-afbf-414e-b1e3-ab6bf885e0a4",
+    "duration_ms": 233200,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Unhealthy",
+    "artists": [
+      "Anne-Marie",
+      "Shania Twain"
+    ],
+    "isrc": "GBAHS2300345",
+    "start_time": "2025-11-17 21:11:46",
+    "radio": "expres",
+    "recorded_at": "2025-11-17T21:12:34.535783+01:00",
+    "raw_valid": true,
+    "song_session_id": "69f3f727-b0ce-47c7-87b8-d036e2679d8c",
+    "duration_ms": 149653,
+    "genre": []
+  },
+  {
+    "song": "El Mismo Sol",
+    "artists": [
+      "Alvaro Soler"
+    ],
+    "isrc": "DEUM71500508",
+    "start_time": "2025-11-17 21:14:13",
+    "radio": "expres",
+    "recorded_at": "2025-11-17T21:14:52.008328+01:00",
+    "raw_valid": true,
+    "song_session_id": "4d513e38-fb12-436c-b158-d53a82f20df2",
+    "duration_ms": 179506,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Medzi Nebom A Zenou",
+    "artists": [
+      "Banket",
+      "Richard Muller",
+      "Ema Muller"
+    ],
+    "isrc": "SKC362500009",
+    "start_time": "2025-11-17 21:17:08",
+    "radio": "expres",
+    "recorded_at": "2025-11-17T21:17:31.848336+01:00",
+    "raw_valid": true,
+    "song_session_id": "8ca546e9-15f2-46a6-948b-af54ad021de9",
+    "duration_ms": 228666,
+    "genre": []
+  },
+  {
+    "song": "Wake Me Up Before You Go Go",
+    "artists": [
+      "Wham"
+    ],
+    "isrc": "GBBBN0009712",
+    "start_time": "2025-11-17 21:21:18",
+    "radio": "expres",
+    "recorded_at": "2025-11-17T21:21:54.396139+01:00",
+    "raw_valid": true,
+    "song_session_id": "ebaf6b62-7bb1-4c1f-8151-e9e769d7f7e9",
+    "duration_ms": 232542,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Ordinary",
+    "artists": [
+      "Alex Warren"
+    ],
+    "isrc": "USAT22500463",
+    "start_time": "2025-11-17 21:25:17",
+    "radio": "expres",
+    "recorded_at": "2025-11-17T21:25:54.785437+01:00",
+    "raw_valid": true,
+    "song_session_id": "7a8511ba-f6ac-4a53-a258-0d644433711f",
+    "duration_ms": 186964,
+    "genre": [
+      "folk"
+    ]
+  },
+  {
+    "song": "So Zivotom V Ohrozeni",
+    "artists": [
+      "Jana Kirschner"
+    ],
+    "isrc": "SKA010205102",
+    "start_time": "2025-11-17 21:28:24",
+    "radio": "expres",
+    "recorded_at": "2025-11-17T21:28:57.728407+01:00",
+    "raw_valid": true,
+    "song_session_id": "5da0d9da-49c8-47cd-977f-f4e42f55618e",
+    "duration_ms": 236426,
+    "genre": []
+  },
+  {
+    "song": "Be Mine",
+    "artists": [
+      "Kamrad"
+    ],
+    "isrc": "DE1NJ2500035",
+    "start_time": "2025-11-17 21:33:47",
+    "radio": "expres",
+    "recorded_at": "2025-11-17T21:34:22.371962+01:00",
+    "raw_valid": true,
+    "song_session_id": "e96bb6c6-7656-42d8-8534-c335881df301",
+    "duration_ms": 156463,
+    "genre": []
+  },
+  {
+    "song": "La La La",
+    "artists": [
+      "Naughty Boy",
+      "Sam Smith"
+    ],
+    "isrc": "GBAAA1300148",
+    "start_time": "2025-11-17 21:36:32",
+    "radio": "expres",
+    "recorded_at": "2025-11-17T21:37:14.362577+01:00",
+    "raw_valid": true,
+    "song_session_id": "9779802e-fe88-46ce-b166-ea6ed927c330",
+    "duration_ms": 220152,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "What Is Love",
+    "artists": [
+      "Haddaway"
+    ],
+    "isrc": "DEA410500401",
+    "start_time": "2025-11-17 21:40:09",
+    "radio": "expres",
+    "recorded_at": "2025-11-17T21:40:35.091673+01:00",
+    "raw_valid": true,
+    "song_session_id": "76c54309-d9d0-455c-99c0-4fb1c43e3d9e",
+    "duration_ms": 270373,
+    "genre": [
+      "trance"
+    ]
+  },
+  {
+    "song": "Save My Love",
+    "artists": [
+      "Marshmello",
+      "Ellie Goulding",
+      "Avaion"
+    ],
+    "isrc": "USUG12504310",
+    "start_time": "2025-11-17 21:44:46",
+    "radio": "expres",
+    "recorded_at": "2025-11-17T21:45:14.597764+01:00",
+    "raw_valid": true,
+    "song_session_id": "09ce3817-df58-48c1-9a98-9887a3071b3d",
+    "duration_ms": 215555,
+    "genre": []
+  },
+  {
+    "song": "Kupim Si Pekny Den",
+    "artists": [
+      "Gladiator"
+    ],
+    "isrc": "CZA210000408",
+    "start_time": "2025-11-17 21:48:25",
+    "radio": "expres",
+    "recorded_at": "2025-11-17T21:48:58.293675+01:00",
+    "raw_valid": true,
+    "song_session_id": "379c74b2-031a-4a87-818f-c29c83317142",
+    "duration_ms": 251226,
+    "genre": []
+  },
+  {
+    "song": "My Oh My",
+    "artists": [
+      "Ava Max"
+    ],
+    "isrc": "USAT22401759",
+    "start_time": "2025-11-17 21:52:45",
+    "radio": "expres",
+    "recorded_at": "2025-11-17T21:53:22.181444+01:00",
+    "raw_valid": true,
+    "song_session_id": "c3b4f9a1-e679-4383-a14e-ed0bcde3a061",
+    "duration_ms": 156155,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Man I Need",
+    "artists": [
+      "Olivia Dean"
+    ],
+    "isrc": "GBUM72503089",
+    "start_time": "2025-11-17 21:55:14",
+    "radio": "expres",
+    "recorded_at": "2025-11-17T21:55:44.550312+01:00",
+    "raw_valid": true,
+    "song_session_id": "03884388-4316-4741-90e7-62560bde86c8",
+    "duration_ms": 184000,
+    "genre": [
+      "offizielle charts"
+    ]
+  },
+  {
+    "song": "Every Single Day",
+    "artists": [
+      "Benassi Bros",
+      "Dhany"
+    ],
+    "isrc": "ITOOD0501603",
+    "start_time": "2025-11-17 21:58:31",
+    "radio": "expres",
+    "recorded_at": "2025-11-17T21:59:14.677519+01:00",
+    "raw_valid": true,
+    "song_session_id": "ea2beafc-e2d0-4009-a733-8bf8eb18f471",
+    "duration_ms": 212320,
+    "genre": [
+      "house"
+    ]
+  }
+]

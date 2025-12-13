@@ -1,0 +1,394 @@
+[
+  {
+    "song": "Rock N Roll",
+    "artists": [
+      "Leony",
+      "G-Eazy"
+    ],
+    "isrc": "DEN062400703",
+    "start_time": "2025-11-03 16:31:54",
+    "radio": "expres",
+    "recorded_at": "03.11.2025 16:32:14",
+    "raw_valid": true,
+    "song_session_id": "4036e0ed-fecc-4bbd-97e0-1c8e054665f2",
+    "duration_ms": 158374,
+    "genre": [
+      "offizielle charts"
+    ]
+  },
+  {
+    "song": "Nothing Else Matters",
+    "artists": [
+      "Metallica"
+    ],
+    "isrc": "QMKHM1900008",
+    "start_time": "2025-11-03 16:34:34",
+    "radio": "expres",
+    "recorded_at": "03.11.2025 16:34:53",
+    "raw_valid": true,
+    "song_session_id": "9248d76c-87ef-4478-a8eb-a69b425dc3d1",
+    "duration_ms": 388733,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Hero",
+    "artists": [
+      "Martin Garrix",
+      "Jvke"
+    ],
+    "isrc": "NLM5S2201815",
+    "start_time": "2025-11-03 16:40:28",
+    "radio": "expres",
+    "recorded_at": "03.11.2025 16:40:54",
+    "raw_valid": true,
+    "song_session_id": "0f51d86c-2ca0-4b59-be1b-c188302749f2",
+    "duration_ms": 160714,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Nase Hriechy",
+    "artists": [
+      "Adam Durica",
+      "Emma Drobna"
+    ],
+    "isrc": "SKA012100194",
+    "start_time": "2025-11-03 16:43:17",
+    "radio": "expres",
+    "recorded_at": "03.11.2025 16:44:02",
+    "raw_valid": true,
+    "song_session_id": "fe6b851a-4992-4e94-9b58-3b76c464f6ab",
+    "duration_ms": 233068,
+    "genre": []
+  },
+  {
+    "song": "The Dead Dance",
+    "artists": [
+      "Lady Gaga"
+    ],
+    "isrc": "USUM72407034",
+    "start_time": "2025-11-03 16:47:06",
+    "radio": "expres",
+    "recorded_at": "03.11.2025 16:47:21",
+    "raw_valid": true,
+    "song_session_id": "db931a92-51cc-444c-8b91-4db1f3e1c0fd",
+    "duration_ms": 228518,
+    "genre": [
+      "offizielle charts"
+    ]
+  },
+  {
+    "song": "Lovesong",
+    "artists": [
+      "Pavol Habera"
+    ],
+    "isrc": "FRX201717073",
+    "start_time": "2025-11-03 16:51:32",
+    "radio": "expres",
+    "recorded_at": "03.11.2025 16:51:44",
+    "raw_valid": true,
+    "song_session_id": "780f036c-58f3-4e7e-8c9b-3e17d8042aab",
+    "duration_ms": 241000,
+    "genre": []
+  },
+  {
+    "song": "Me And My Guitar",
+    "artists": [
+      "Jax Jones",
+      "Fireboy Dml"
+    ],
+    "isrc": "GBUM72304638",
+    "start_time": "2025-11-03 16:55:27",
+    "radio": "expres",
+    "recorded_at": "03.11.2025 16:55:53",
+    "raw_valid": true,
+    "song_session_id": "437d6cab-cf20-476b-a405-e3c67681f50a",
+    "duration_ms": 134310,
+    "genre": []
+  },
+  {
+    "song": "Be Mine",
+    "artists": [
+      "Kamrad"
+    ],
+    "isrc": "DE1NJ2500035",
+    "start_time": "2025-11-03 17:11:42",
+    "radio": "expres",
+    "recorded_at": "03.11.2025 17:12:06",
+    "raw_valid": true,
+    "song_session_id": "47a459c7-f6b5-426f-bc4f-092a5bb8ca4d",
+    "duration_ms": 156463,
+    "genre": []
+  },
+  {
+    "song": "Cesta",
+    "artists": [
+      "Krystof",
+      "Tomas Klus"
+    ],
+    "isrc": "CZUM71200138",
+    "start_time": "2025-11-03 17:14:27",
+    "radio": "expres",
+    "recorded_at": "03.11.2025 17:14:44",
+    "raw_valid": true,
+    "song_session_id": "25f32fca-8d69-4258-a4af-70630c129cc3",
+    "duration_ms": 349500,
+    "genre": []
+  },
+  {
+    "song": "No Time To Talk",
+    "artists": [
+      "Jonas Brothers"
+    ],
+    "isrc": "USUG12504831",
+    "start_time": "2025-11-03 17:18:41",
+    "radio": "expres",
+    "recorded_at": "03.11.2025 17:19:03",
+    "raw_valid": true,
+    "song_session_id": "bdd6d64a-b5ff-4a17-a261-72c3d65892f3",
+    "duration_ms": 155053,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Nice To Meet You",
+    "artists": [
+      "Myles Smith"
+    ],
+    "isrc": "GBARL2401376",
+    "start_time": "2025-11-03 17:21:29",
+    "radio": "expres",
+    "recorded_at": "03.11.2025 17:21:46",
+    "raw_valid": true,
+    "song_session_id": "6f7aad70-209e-42cf-b47b-ba1eccc2009f",
+    "duration_ms": 176000,
+    "genre": [
+      "electro"
+    ]
+  },
+  {
+    "song": "Here Without You",
+    "artists": [
+      "3 Doors Down"
+    ],
+    "isrc": "USUR10200764",
+    "start_time": "2025-11-03 17:24:23",
+    "radio": "expres",
+    "recorded_at": "03.11.2025 17:24:50",
+    "raw_valid": true,
+    "song_session_id": "d9837da5-c5da-455a-a2bb-5edbf967ba4d",
+    "duration_ms": 238560,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "The One",
+    "artists": [
+      "Michael Patrick Kelly"
+    ],
+    "isrc": "DEE862500476",
+    "start_time": "2025-11-03 17:33:33",
+    "radio": "expres",
+    "recorded_at": "03.11.2025 17:33:53",
+    "raw_valid": true,
+    "song_session_id": "cbc06d11-8a8a-42e6-a353-e9a32649080e",
+    "duration_ms": 181194,
+    "genre": []
+  },
+  {
+    "song": "Turn Off The Light",
+    "artists": [
+      "Nelly Furtado"
+    ],
+    "isrc": "USDW10021999",
+    "start_time": "2025-11-03 17:36:28",
+    "radio": "expres",
+    "recorded_at": "03.11.2025 17:36:36",
+    "raw_valid": true,
+    "song_session_id": "c705b29a-2568-48b4-a539-c162abfb5b01",
+    "duration_ms": 276106,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Afterlife",
+    "artists": [
+      "Michael Schulte"
+    ],
+    "isrc": "DECE72500509",
+    "start_time": "2025-11-03 17:40:57",
+    "radio": "expres",
+    "recorded_at": "03.11.2025 17:41:20",
+    "raw_valid": true,
+    "song_session_id": "079a7511-ce19-4fa5-afdc-e2b54888a1c7",
+    "duration_ms": 160120,
+    "genre": []
+  },
+  {
+    "song": "Airplanes",
+    "artists": [
+      "B.o.b.",
+      "Hayley Williams"
+    ],
+    "isrc": "USAT21000477",
+    "start_time": "2025-11-03 17:43:44",
+    "radio": "expres",
+    "recorded_at": "03.11.2025 17:44:03",
+    "raw_valid": true,
+    "song_session_id": "c2aba431-7171-4c45-b1bb-4f9f973cec95",
+    "duration_ms": 180480,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Leave Out All The Rest",
+    "artists": [
+      "Linkin Park"
+    ],
+    "isrc": "USWB10701212",
+    "start_time": "2025-11-03 17:46:43",
+    "radio": "expres",
+    "recorded_at": "03.11.2025 17:47:06",
+    "raw_valid": true,
+    "song_session_id": "4d93dd0d-f52b-472a-879a-2635e148a669",
+    "duration_ms": 209306,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Stars Will Align",
+    "artists": [
+      "Kygo",
+      "Imagine Dragons"
+    ],
+    "isrc": "SEBGA2401211",
+    "start_time": "2025-11-03 17:51:42",
+    "radio": "expres",
+    "recorded_at": "03.11.2025 17:52:16",
+    "raw_valid": true,
+    "song_session_id": "8503b6b2-2a39-420c-af01-9669c81d34d7",
+    "duration_ms": 234366,
+    "genre": [
+      "tropical house"
+    ]
+  },
+  {
+    "song": "Shape Of You",
+    "artists": [
+      "Ed Sheeran"
+    ],
+    "isrc": "GBAHS1600463",
+    "start_time": "2025-11-03 17:55:37",
+    "radio": "expres",
+    "recorded_at": "03.11.2025 17:55:49",
+    "raw_valid": true,
+    "song_session_id": "0e5298a8-ef7f-448d-984b-892a8f34052f",
+    "duration_ms": 233712,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Glide",
+    "artists": [
+      "Neiked",
+      "Portugal The Man"
+    ],
+    "isrc": "DEE862500421",
+    "start_time": "2025-11-03 18:06:18",
+    "radio": "expres",
+    "recorded_at": "03.11.2025 18:06:38",
+    "raw_valid": true,
+    "song_session_id": "8b1723c2-7656-45ad-b273-a5993ad76388",
+    "duration_ms": 184405,
+    "genre": []
+  },
+  {
+    "song": "Budapest",
+    "artists": [
+      "George Ezra"
+    ],
+    "isrc": "GBARL1400477",
+    "start_time": "2025-11-03 18:09:24",
+    "radio": "expres",
+    "recorded_at": "03.11.2025 18:09:46",
+    "raw_valid": true,
+    "song_session_id": "8c2d371e-f470-4c69-8e18-ca4d6fb18f06",
+    "duration_ms": 200733,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Medzi Nebom A Zenou",
+    "artists": [
+      "Banket",
+      "Richard Muller",
+      "Ema Muller"
+    ],
+    "isrc": "SKC362500009",
+    "start_time": "2025-11-03 18:12:43",
+    "radio": "expres",
+    "recorded_at": "03.11.2025 18:13:06",
+    "raw_valid": true,
+    "song_session_id": "f7a77439-1455-469a-ada9-264d55462b5f",
+    "duration_ms": 228666,
+    "genre": []
+  },
+  {
+    "song": "Feelslikeimfallinginlove",
+    "artists": [
+      "Coldplay"
+    ],
+    "isrc": "GBAYE2400676",
+    "start_time": "2025-11-03 18:16:46",
+    "radio": "expres",
+    "recorded_at": "03.11.2025 18:17:11",
+    "raw_valid": true,
+    "song_session_id": "d9447392-c42e-452b-abd8-e9e90420d534",
+    "duration_ms": 237803,
+    "genre": [
+      "alternative rock"
+    ]
+  },
+  {
+    "song": "Hallelujah",
+    "artists": [
+      "Alexandra Burke"
+    ],
+    "isrc": "GBHMU0800141",
+    "start_time": "2025-11-03 18:21:35",
+    "radio": "expres",
+    "recorded_at": "03.11.2025 18:21:54",
+    "raw_valid": true,
+    "song_session_id": "e461a39c-741b-4443-b299-31f221da2a60",
+    "duration_ms": 216906,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Over The Rainbow",
+    "artists": [
+      "Israel"
+    ],
+    "isrc": "USMAC0100119",
+    "start_time": "2025-11-03 18:25:04",
+    "radio": "expres",
+    "recorded_at": "03.11.2025 18:25:12",
+    "raw_valid": true,
+    "song_session_id": "8b871c30-a29c-44c4-9a37-bcd018546f39",
+    "duration_ms": 211933,
+    "genre": [
+      "rock"
+    ]
+  }
+]

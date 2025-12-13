@@ -1,0 +1,397 @@
+[
+  {
+    "song": "Vianocny Cas",
+    "artists": [
+      "Emma Drobna"
+    ],
+    "isrc": "SKB452300101",
+    "start_time": "2025-12-05 16:56:52",
+    "radio": "expres",
+    "recorded_at": "2025-12-05T16:57:03.289353+01:00",
+    "raw_valid": true,
+    "song_session_id": "af2ac2a9-0891-4532-9d11-10699dde9e70",
+    "duration_ms": 173151,
+    "genre": []
+  },
+  {
+    "song": "The One",
+    "artists": [
+      "Michael Patrick Kelly"
+    ],
+    "isrc": "DEE862500476",
+    "start_time": "2025-12-05 17:13:46",
+    "radio": "expres",
+    "recorded_at": "2025-12-05T17:14:06.418083+01:00",
+    "raw_valid": true,
+    "song_session_id": "d57c6715-cbe2-4ac2-85cb-a0b95ca628b4",
+    "duration_ms": 181194,
+    "genre": []
+  },
+  {
+    "song": "Secrets",
+    "artists": [
+      "Onerepublic"
+    ],
+    "isrc": "USUM70985644",
+    "start_time": "2025-12-05 17:16:34",
+    "radio": "expres",
+    "recorded_at": "2025-12-05T17:16:49.127322+01:00",
+    "raw_valid": true,
+    "song_session_id": "900f74e5-3d52-4ccb-9a56-2ae2781df67c",
+    "duration_ms": 224680,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Man I Need",
+    "artists": [
+      "Olivia Dean"
+    ],
+    "isrc": "GBUM72503089",
+    "start_time": "2025-12-05 17:19:11",
+    "radio": "expres",
+    "recorded_at": "2025-12-05T17:19:26.424578+01:00",
+    "raw_valid": true,
+    "song_session_id": "349e23fa-d852-4e45-ba5f-6576f041c581",
+    "duration_ms": 184000,
+    "genre": [
+      "offizielle charts"
+    ]
+  },
+  {
+    "song": "World Gone Wild",
+    "artists": [
+      "Robin Schulz",
+      "Cyril",
+      "Sam Martin"
+    ],
+    "isrc": "DEA622403329",
+    "start_time": "2025-12-05 17:22:22",
+    "radio": "expres",
+    "recorded_at": "2025-12-05T17:22:49.500745+01:00",
+    "raw_valid": true,
+    "song_session_id": "e8e7300c-ceab-43ad-87ce-0de8076f1a05",
+    "duration_ms": 146523,
+    "genre": [
+      "tropical house"
+    ]
+  },
+  {
+    "song": "I Can See Clearly Now",
+    "artists": [
+      "Jimmy Cliff"
+    ],
+    "isrc": "USSM19303258",
+    "start_time": "2025-12-05 17:24:50",
+    "radio": "expres",
+    "recorded_at": "2025-12-05T17:25:11.693532+01:00",
+    "raw_valid": true,
+    "song_session_id": "8b760d97-187c-4bb6-b01f-a5cf1b3ea91f",
+    "duration_ms": 195160,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Wonderful Life 25",
+    "artists": [
+      "Hurts",
+      "Purple Disco Machine"
+    ],
+    "isrc": "DEE862500677",
+    "start_time": "2025-12-05 17:34:21",
+    "radio": "expres",
+    "recorded_at": "2025-12-05T17:34:29.702400+01:00",
+    "raw_valid": true,
+    "song_session_id": "6de52541-0f27-489a-a194-4625377288a3",
+    "duration_ms": 178658,
+    "genre": []
+  },
+  {
+    "song": "I Was Made For Loving You",
+    "artists": [
+      "Kiss"
+    ],
+    "isrc": "USUM72120195",
+    "start_time": "2025-12-05 17:37:17",
+    "radio": "expres",
+    "recorded_at": "2025-12-05T17:37:32.348542+01:00",
+    "raw_valid": true,
+    "song_session_id": "66165019-4d70-4303-a1f8-67f546c35e7a",
+    "duration_ms": 372866,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Glide",
+    "artists": [
+      "Neiked",
+      "Portugal The Man"
+    ],
+    "isrc": "DEE862500421",
+    "start_time": "2025-12-05 17:41:41",
+    "radio": "expres",
+    "recorded_at": "2025-12-05T17:41:55.972058+01:00",
+    "raw_valid": true,
+    "song_session_id": "59d0f6a2-8583-4c74-95ec-42d3457688df",
+    "duration_ms": 184405,
+    "genre": []
+  },
+  {
+    "song": "Million Reasons",
+    "artists": [
+      "Lady Gaga"
+    ],
+    "isrc": "USUM71609736",
+    "start_time": "2025-12-05 17:44:42",
+    "radio": "expres",
+    "recorded_at": "2025-12-05T17:44:53.562687+01:00",
+    "raw_valid": true,
+    "song_session_id": "38ec525f-5f87-4716-9ee3-6a4320931f92",
+    "duration_ms": 205280,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Numb",
+    "artists": [
+      "Linkin Park"
+    ],
+    "isrc": "USWB10300474",
+    "start_time": "2025-12-05 17:47:59",
+    "radio": "expres",
+    "recorded_at": "2025-12-05T17:48:16.611780+01:00",
+    "raw_valid": true,
+    "song_session_id": "233b1677-69e7-4987-a6ae-ec0abd4716d5",
+    "duration_ms": 187520,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Na Vianoce Domov",
+    "artists": [
+      "Alan Murin",
+      "Radio Expres"
+    ],
+    "isrc": "QZYFZ2540500",
+    "start_time": "2025-12-05 17:51:39",
+    "radio": "expres",
+    "recorded_at": "2025-12-05T17:51:59.896432+01:00",
+    "raw_valid": true,
+    "song_session_id": "a40b27d3-87c6-445f-9f29-14a39edeba1f",
+    "duration_ms": 240000,
+    "genre": []
+  },
+  {
+    "song": "Kings & Queens",
+    "artists": [
+      "Ava Max"
+    ],
+    "isrc": "USAT21906943",
+    "start_time": "2025-12-05 17:55:48",
+    "radio": "expres",
+    "recorded_at": "2025-12-05T17:55:58.232055+01:00",
+    "raw_valid": true,
+    "song_session_id": "4df54116-b10f-404f-822a-a85d284df37d",
+    "duration_ms": 162398,
+    "genre": [
+      "electronic"
+    ]
+  },
+  {
+    "song": "Mystical Magical",
+    "artists": [
+      "Benson Boone"
+    ],
+    "isrc": "USWB12500844",
+    "start_time": "2025-12-05 18:07:49",
+    "radio": "expres",
+    "recorded_at": "2025-12-05T18:08:02.788222+01:00",
+    "raw_valid": true,
+    "song_session_id": "0b9c8af6-e234-4bdf-9454-1a3b982ccf65",
+    "duration_ms": 165746,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Disturbia",
+    "artists": [
+      "Rihanna"
+    ],
+    "isrc": "USUM70814476",
+    "start_time": "2025-12-05 18:10:41",
+    "radio": "expres",
+    "recorded_at": "2025-12-05T18:11:05.400500+01:00",
+    "raw_valid": true,
+    "song_session_id": "56255ce9-e4db-4ff2-a1f8-eeaa24dcc0bd",
+    "duration_ms": 240266,
+    "genre": [
+      "soundtrack"
+    ]
+  },
+  {
+    "song": "Zoo",
+    "artists": [
+      "Shakira"
+    ],
+    "isrc": "USWD12538420",
+    "start_time": "2025-12-05 18:14:32",
+    "radio": "expres",
+    "recorded_at": "2025-12-05T18:14:43.539229+01:00",
+    "raw_valid": true,
+    "song_session_id": "d0f042dc-f687-462e-80c7-56fd2d3af68b",
+    "duration_ms": 190822,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Freed From Desire",
+    "artists": [
+      "Gala"
+    ],
+    "isrc": "ITA179700143",
+    "start_time": "2025-12-05 18:18:58",
+    "radio": "expres",
+    "recorded_at": "2025-12-05T18:19:27.549143+01:00",
+    "raw_valid": true,
+    "song_session_id": "9159cc65-9f64-47b6-b4d2-f33a7f906751",
+    "duration_ms": 213394,
+    "genre": [
+      "electronic"
+    ]
+  },
+  {
+    "song": "Ordinary",
+    "artists": [
+      "Alex Warren"
+    ],
+    "isrc": "USAT22500463",
+    "start_time": "2025-12-05 18:22:25",
+    "radio": "expres",
+    "recorded_at": "2025-12-05T18:22:45.437884+01:00",
+    "raw_valid": true,
+    "song_session_id": "4c98295f-ea39-4fd4-8e2c-dfac7c733457",
+    "duration_ms": 186964,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Undressed",
+    "artists": [
+      "Sombr"
+    ],
+    "isrc": "USWB12500737",
+    "start_time": "2025-12-05 18:32:20",
+    "radio": "expres",
+    "recorded_at": "2025-12-05T18:32:28.174162+01:00",
+    "raw_valid": true,
+    "song_session_id": "36c0e2cf-84a7-4814-9f88-39d93e4a77a2",
+    "duration_ms": 182088,
+    "genre": [
+      "indie pop"
+    ]
+  },
+  {
+    "song": "Listen To Your Heart",
+    "artists": [
+      "Roxette"
+    ],
+    "isrc": "SEAME8878130",
+    "start_time": "2025-12-05 18:35:24",
+    "radio": "expres",
+    "recorded_at": "2025-12-05T18:35:51.083526+01:00",
+    "raw_valid": true,
+    "song_session_id": "e39b566d-b727-488e-835d-f7ca10c911ad",
+    "duration_ms": 328093,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Love Me Not",
+    "artists": [
+      "Ravyn Lenae"
+    ],
+    "isrc": "USAT22401137",
+    "start_time": "2025-12-05 18:40:25",
+    "radio": "expres",
+    "recorded_at": "2025-12-05T18:40:50.224692+01:00",
+    "raw_valid": true,
+    "song_session_id": "c4838bb5-c045-439d-85e9-62cd8b2a15b6",
+    "duration_ms": 213466,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Sexy Chick",
+    "artists": [
+      "David Guetta",
+      "Akon"
+    ],
+    "isrc": "FRZID0900930",
+    "start_time": "2025-12-05 18:43:43",
+    "radio": "expres",
+    "recorded_at": "2025-12-05T18:43:52.932955+01:00",
+    "raw_valid": true,
+    "song_session_id": "2775c038-b8ac-42b7-9833-dfcc27f067da",
+    "duration_ms": 194346,
+    "genre": [
+      "edm"
+    ]
+  },
+  {
+    "song": "Make It Right",
+    "artists": [
+      "Tom Gregory",
+      "Vize"
+    ],
+    "isrc": "DEE862501109",
+    "start_time": "2025-12-05 18:46:54",
+    "radio": "expres",
+    "recorded_at": "2025-12-05T18:47:15.780354+01:00",
+    "raw_valid": true,
+    "song_session_id": "6183d9f7-dd32-4f26-b922-d7d44b4f938d",
+    "duration_ms": 141051,
+    "genre": []
+  },
+  {
+    "song": "Last Christmas",
+    "artists": [
+      "Wham"
+    ],
+    "isrc": "GBBBM8400019",
+    "start_time": "2025-12-05 18:51:18",
+    "radio": "expres",
+    "recorded_at": "2025-12-05T18:51:34.574916+01:00",
+    "raw_valid": true,
+    "song_session_id": "940b2076-b675-4d6a-aade-197e07993f63",
+    "duration_ms": 262960,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Simple Life",
+    "artists": [
+      "Leony"
+    ],
+    "isrc": "DEN062400058",
+    "start_time": "2025-12-05 18:55:42",
+    "radio": "expres",
+    "recorded_at": "2025-12-05T18:55:58.169656+01:00",
+    "raw_valid": true,
+    "song_session_id": "a3a29b9a-10f0-480f-8bec-ecba19661645",
+    "duration_ms": 153100,
+    "genre": [
+      "pop"
+    ]
+  }
+]

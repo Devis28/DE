@@ -1,0 +1,47 @@
+[
+  {
+    "last_update": "2025-11-04 18:35:30",
+    "song": {
+      "musicAuthor": "Daecolm",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485117a7af7eecb5b1586e2ba2df",
+      "musicTitle": "Special",
+      "radio": "Fun Rádio",
+      "startTime": "19:35"
+    },
+    "recorded_at": "2025-11-04T19:35:31.040679+01:00",
+    "raw_valid": true,
+    "song_session_id": "1f971fd0-ea65-4fe7-8daf-d8f0b1167bdd",
+    "duration_ms": 164000,
+    "genre": []
+  },
+  {
+    "last_update": "2025-11-04 18:38:31",
+    "song": {
+      "musicAuthor": "Michael Schulte",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851275772c5d586aa23e2a4691a",
+      "musicTitle": "Afterlife",
+      "radio": "Fun Rádio",
+      "startTime": "19:38"
+    },
+    "recorded_at": "2025-11-04T19:38:31.308754+01:00",
+    "raw_valid": true,
+    "song_session_id": "563c53ed-9c95-4faa-9f48-9a03abcbbd68",
+    "duration_ms": 160120,
+    "genre": []
+  },
+  {
+    "last_update": "2025-11-04 18:42:31",
+    "song": {
+      "musicAuthor": "Martin Garrix & Jex",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485174ed367a3007b962487f89bb",
+      "musicTitle": "Told You So",
+      "radio": "Fun Rádio",
+      "startTime": "19:41"
+    },
+    "recorded_at": "2025-11-04T19:42:31.618863+01:00",
+    "raw_valid": true,
+    "song_session_id": "d74dd734-bab9-44f4-a0d8-4cb6e52d9ce6",
+    "duration_ms": 187031,
+    "genre": []
+  }
+]

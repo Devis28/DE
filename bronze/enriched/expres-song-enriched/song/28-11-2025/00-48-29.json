@@ -1,0 +1,514 @@
+[
+  {
+    "song": "Stars Will Align",
+    "artists": [
+      "Kygo",
+      "Imagine Dragons"
+    ],
+    "isrc": "SEBGA2401211",
+    "start_time": "2025-11-27 23:49:49",
+    "radio": "expres",
+    "recorded_at": "2025-11-27T23:50:04.207135+01:00",
+    "raw_valid": true,
+    "song_session_id": "162bfb7f-b533-4fd3-8c28-08f7cfc5948b",
+    "duration_ms": 234366,
+    "genre": []
+  },
+  {
+    "song": "Man I Need",
+    "artists": [
+      "Olivia Dean"
+    ],
+    "isrc": "GBUM72503089",
+    "start_time": "2025-11-27 23:53:34",
+    "radio": "expres",
+    "recorded_at": "2025-11-27T23:53:54.199985+01:00",
+    "raw_valid": true,
+    "song_session_id": "9ddb6e23-ad44-4b31-9583-15c1cbd739f2",
+    "duration_ms": 184000,
+    "genre": [
+      "offizielle charts"
+    ]
+  },
+  {
+    "song": "V Blbym Veku",
+    "artists": [
+      "Xindl X"
+    ],
+    "isrc": "CZUM71400233",
+    "start_time": "2025-11-27 23:56:55",
+    "radio": "expres",
+    "recorded_at": "2025-11-27T23:57:39.646901+01:00",
+    "raw_valid": true,
+    "song_session_id": "7eda2503-9129-4b6a-8cba-38f3188c97d2",
+    "duration_ms": 226250,
+    "genre": []
+  },
+  {
+    "song": "Undressed",
+    "artists": [
+      "Sombr"
+    ],
+    "isrc": "USWB12500737",
+    "start_time": "2025-11-28 00:05:45",
+    "radio": "expres",
+    "recorded_at": "2025-11-28T00:05:58.351343+01:00",
+    "raw_valid": true,
+    "song_session_id": "be720f52-4555-4526-98e5-c82b1179e09c",
+    "duration_ms": 182088,
+    "genre": [
+      "indie pop"
+    ]
+  },
+  {
+    "song": "Daj Ruku Do Mojej Ruky",
+    "artists": [
+      "Zuzana Smatanova"
+    ],
+    "isrc": "CZA210900562",
+    "start_time": "2025-11-28 00:08:57",
+    "radio": "expres",
+    "recorded_at": "2025-11-28T00:09:46.121882+01:00",
+    "raw_valid": true,
+    "song_session_id": "b0b2f3a5-363e-48f2-8efd-2d532ba396fe",
+    "duration_ms": 186972,
+    "genre": []
+  },
+  {
+    "song": "Nice To Meet You",
+    "artists": [
+      "Myles Smith"
+    ],
+    "isrc": "GBARL2401376",
+    "start_time": "2025-11-28 00:11:53",
+    "radio": "expres",
+    "recorded_at": "2025-11-28T00:12:03.646116+01:00",
+    "raw_valid": true,
+    "song_session_id": "995ed830-d26a-4dab-b8d1-50ab42133e78",
+    "duration_ms": 176000,
+    "genre": []
+  },
+  {
+    "song": "Nase Hriechy",
+    "artists": [
+      "Adam Durica",
+      "Emma Drobna"
+    ],
+    "isrc": "SKA012100194",
+    "start_time": "2025-11-28 00:14:46",
+    "radio": "expres",
+    "recorded_at": "2025-11-28T00:15:06.880407+01:00",
+    "raw_valid": true,
+    "song_session_id": "c510bfda-8291-42ba-a19b-09b0591e768c",
+    "duration_ms": 233068,
+    "genre": []
+  },
+  {
+    "song": "Sick And Tired",
+    "artists": [
+      "Anastacia"
+    ],
+    "isrc": "USSM10401046",
+    "start_time": "2025-11-28 00:18:51",
+    "radio": "expres",
+    "recorded_at": "2025-11-28T00:19:10.721048+01:00",
+    "raw_valid": true,
+    "song_session_id": "6ff208d8-cfd1-4c5f-bbcd-d8e815972e93",
+    "duration_ms": 212266,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Vsetko Bude Dobre",
+    "artists": [
+      "Gladiator"
+    ],
+    "isrc": "SKCM72560001",
+    "start_time": "2025-11-28 00:22:17",
+    "radio": "expres",
+    "recorded_at": "2025-11-28T00:22:35.455838+01:00",
+    "raw_valid": true,
+    "song_session_id": "d7b7cce3-fa88-4724-9862-87de5a571184",
+    "duration_ms": 166588,
+    "genre": []
+  },
+  {
+    "song": "Abracadabra",
+    "artists": [
+      "Lady Gaga"
+    ],
+    "isrc": "USUM72412581",
+    "start_time": "2025-11-28 00:25:27",
+    "radio": "expres",
+    "recorded_at": "2025-11-28T00:25:44.152909+01:00",
+    "raw_valid": true,
+    "song_session_id": "7682dd2f-3ed7-48c6-b26a-8006496cbc5b",
+    "duration_ms": 223398,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Oteckovia",
+    "artists": [
+      "Hex"
+    ],
+    "isrc": "SKC751700201",
+    "start_time": "2025-11-28 00:29:08",
+    "radio": "expres",
+    "recorded_at": "2025-11-28T00:29:28.647698+01:00",
+    "raw_valid": true,
+    "song_session_id": "3303d125-95ac-40fa-a5df-c2c0ef72389f",
+    "duration_ms": 208120,
+    "genre": []
+  },
+  {
+    "song": "Wonderful Life 25",
+    "artists": [
+      "Hurts",
+      "Purple Disco Machine"
+    ],
+    "isrc": "DEE862500677",
+    "start_time": "2025-11-28 00:33:21",
+    "radio": "expres",
+    "recorded_at": "2025-11-28T00:33:42.546765+01:00",
+    "raw_valid": true,
+    "song_session_id": "3ca56430-2e59-4ea0-9507-22da7e192ed1",
+    "duration_ms": 178658,
+    "genre": []
+  },
+  {
+    "song": "Exotica",
+    "artists": [
+      "Imt Smile"
+    ],
+    "isrc": "SKA010400073",
+    "start_time": "2025-11-28 00:36:28",
+    "radio": "expres",
+    "recorded_at": "2025-11-28T00:36:47.048611+01:00",
+    "raw_valid": true,
+    "song_session_id": "efa735fd-b935-4901-b576-fe34eaee6dab",
+    "duration_ms": 340133,
+    "genre": []
+  },
+  {
+    "song": "Total Eclipse Of The Heart",
+    "artists": [
+      "Westlife"
+    ],
+    "isrc": "GBARL0601585",
+    "start_time": "2025-11-28 00:39:50",
+    "radio": "expres",
+    "recorded_at": "2025-11-28T00:40:05.361357+01:00",
+    "raw_valid": true,
+    "song_session_id": "4a00d689-3420-4f33-a0dc-50286e8aa873",
+    "duration_ms": 279466,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Ked To Nejde",
+    "artists": [
+      "Zdenka Predna"
+    ],
+    "isrc": "CZA210700071",
+    "start_time": "2025-11-28 00:44:35",
+    "radio": "expres",
+    "recorded_at": "2025-11-28T00:44:51.122845+01:00",
+    "raw_valid": true,
+    "song_session_id": "40314263-2733-460f-a484-7176d0876fdc",
+    "duration_ms": 192666,
+    "genre": []
+  },
+  {
+    "song": "Save My Love",
+    "artists": [
+      "Marshmello",
+      "Ellie Goulding",
+      "Avaion"
+    ],
+    "isrc": "USUG12504310",
+    "start_time": "2025-11-28 00:47:44",
+    "radio": "expres",
+    "recorded_at": "2025-11-28T00:48:10.310111+01:00",
+    "raw_valid": true,
+    "song_session_id": "93b34f9c-eb9b-48b2-aadc-4a458ac339fa",
+    "duration_ms": 215555,
+    "genre": []
+  },
+  {
+    "song": "Hvezdari",
+    "artists": [
+      "Krystof",
+      "Sima Martausova"
+    ],
+    "isrc": "CZUM71900470",
+    "start_time": "2025-11-28 00:51:22",
+    "radio": "expres",
+    "recorded_at": "2025-11-28T00:51:41.055090+01:00",
+    "raw_valid": true,
+    "song_session_id": "e7187005-bc69-476d-b968-486250050a7e",
+    "duration_ms": 242553,
+    "genre": []
+  },
+  {
+    "song": "Beautiful Reason",
+    "artists": [
+      "Michael Schulte"
+    ],
+    "isrc": "DECE72400963",
+    "start_time": "2025-11-28 00:55:28",
+    "radio": "expres",
+    "recorded_at": "2025-11-28T00:56:03.045081+01:00",
+    "raw_valid": true,
+    "song_session_id": "e817f69e-7df9-41d0-8c61-aac4c99d4064",
+    "duration_ms": 183586,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Este Vaham",
+    "artists": [
+      "Kristina"
+    ],
+    "isrc": "SKK642000301",
+    "start_time": "2025-11-28 00:58:34",
+    "radio": "expres",
+    "recorded_at": "2025-11-28T00:58:58.466842+01:00",
+    "raw_valid": true,
+    "song_session_id": "bd761f5e-aa04-4d50-9ff4-ed3fd22ddf6d",
+    "duration_ms": 231291,
+    "genre": []
+  },
+  {
+    "song": "Stumblin In",
+    "artists": [
+      "Cyril"
+    ],
+    "isrc": "NLZ542301810",
+    "start_time": "2025-11-28 01:02:13",
+    "radio": "expres",
+    "recorded_at": "2025-11-28T01:02:43.181599+01:00",
+    "raw_valid": true,
+    "song_session_id": "87f89b4f-1794-477c-a5dd-fde3255d3f3c",
+    "duration_ms": 213363,
+    "genre": [
+      "alternative rock"
+    ]
+  },
+  {
+    "song": "Ulica",
+    "artists": [
+      "Elan"
+    ],
+    "isrc": "SKA128229902",
+    "start_time": "2025-11-28 01:05:30",
+    "radio": "expres",
+    "recorded_at": "2025-11-28T01:06:06.080961+01:00",
+    "raw_valid": true,
+    "song_session_id": "cc7187d7-cccc-4649-a922-8c43a0d22a16",
+    "duration_ms": 184880,
+    "genre": []
+  },
+  {
+    "song": "Pride",
+    "artists": [
+      "Felix Jaehn",
+      "Jhart"
+    ],
+    "isrc": "DEUM72503423",
+    "start_time": "2025-11-28 01:08:29",
+    "radio": "expres",
+    "recorded_at": "2025-11-28T01:09:13.403893+01:00",
+    "raw_valid": true,
+    "song_session_id": "f6537d25-cf26-42f3-a41a-bebdbf9de193",
+    "duration_ms": 158150,
+    "genre": []
+  },
+  {
+    "song": "Nechajte Si Ju",
+    "artists": [
+      "Vidiek"
+    ],
+    "isrc": "SKA128810401",
+    "start_time": "2025-11-28 01:11:14",
+    "radio": "expres",
+    "recorded_at": "2025-11-28T01:11:41.091120+01:00",
+    "raw_valid": true,
+    "song_session_id": "f82e4022-ea6f-48bf-864b-0eaccd2d12a0",
+    "duration_ms": 171293,
+    "genre": []
+  },
+  {
+    "song": "Girls Just Wanna Have Fun",
+    "artists": [
+      "Cyndi Lauper"
+    ],
+    "isrc": "USSM18300231",
+    "start_time": "2025-11-28 01:13:56",
+    "radio": "expres",
+    "recorded_at": "2025-11-28T01:14:22.205759+01:00",
+    "raw_valid": true,
+    "song_session_id": "0f659515-6340-49f1-9978-633865a432da",
+    "duration_ms": 224546,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Sadni Si Mi Na Kolena",
+    "artists": [
+      "Le Payaco"
+    ],
+    "isrc": "SKA831307005",
+    "start_time": "2025-11-28 01:17:44",
+    "radio": "expres",
+    "recorded_at": "2025-11-28T01:18:12.603216+01:00",
+    "raw_valid": true,
+    "song_session_id": "93317116-f142-41f5-964d-fe1830a6c573",
+    "duration_ms": 122666,
+    "genre": []
+  },
+  {
+    "song": "Glide",
+    "artists": [
+      "Neiked",
+      "Portugal The Man"
+    ],
+    "isrc": "DEE862500421",
+    "start_time": "2025-11-28 01:19:57",
+    "radio": "expres",
+    "recorded_at": "2025-11-28T01:20:17.075251+01:00",
+    "raw_valid": true,
+    "song_session_id": "ce0c3d5b-156d-4c29-9a93-1cfad56b9183",
+    "duration_ms": 184405,
+    "genre": []
+  },
+  {
+    "song": "Vietor",
+    "artists": [
+      "Adam Durica"
+    ],
+    "isrc": "SKA012300351",
+    "start_time": "2025-11-28 01:22:50",
+    "radio": "expres",
+    "recorded_at": "2025-11-28T01:23:24.431173+01:00",
+    "raw_valid": true,
+    "song_session_id": "74fe395c-b753-4b03-892e-566b992cf55b",
+    "duration_ms": 215240,
+    "genre": []
+  },
+  {
+    "song": "Simple Life",
+    "artists": [
+      "Leony"
+    ],
+    "isrc": "DEN062400058",
+    "start_time": "2025-11-28 01:26:29",
+    "radio": "expres",
+    "recorded_at": "2025-11-28T01:26:37.604288+01:00",
+    "raw_valid": true,
+    "song_session_id": "dc9fdf9d-c9b9-47ff-b2c3-0b6d588da187",
+    "duration_ms": 153100,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Motyl Hlavolam",
+    "artists": [
+      "Katarina Knechtova"
+    ],
+    "isrc": "SKE431500128",
+    "start_time": "2025-11-28 01:29:05",
+    "radio": "expres",
+    "recorded_at": "2025-11-28T01:29:20.362796+01:00",
+    "raw_valid": true,
+    "song_session_id": "26bdea34-8245-423c-a70a-fb3a9ae15e94",
+    "duration_ms": 274786,
+    "genre": []
+  },
+  {
+    "song": "The Fate Of Ophelia",
+    "artists": [
+      "Taylor Swift"
+    ],
+    "isrc": "USUG12506436",
+    "start_time": "2025-11-28 01:32:41",
+    "radio": "expres",
+    "recorded_at": "2025-11-28T01:33:04.251994+01:00",
+    "raw_valid": true,
+    "song_session_id": "33fbaa7d-de27-4662-a7b9-2ec08bdc1765",
+    "duration_ms": 226073,
+    "genre": [
+      "electronic"
+    ]
+  },
+  {
+    "song": "Ulicnik Bozk",
+    "artists": [
+      "Marika Gombitova",
+      "Vaso Patejdl"
+    ],
+    "isrc": "SKA128673102",
+    "start_time": "2025-11-28 01:36:24",
+    "radio": "expres",
+    "recorded_at": "2025-11-28T01:36:58.340871+01:00",
+    "raw_valid": true,
+    "song_session_id": "5e002439-586b-4bb2-b4d6-ea2dba1a18e8",
+    "duration_ms": 199360,
+    "genre": []
+  },
+  {
+    "song": "Gangstas Paradise",
+    "artists": [
+      "Coolio",
+      "L.v."
+    ],
+    "isrc": "USTB10400128",
+    "start_time": "2025-11-28 01:39:42",
+    "radio": "expres",
+    "recorded_at": "2025-11-28T01:40:09.247797+01:00",
+    "raw_valid": true,
+    "song_session_id": "7a81266a-3c64-438e-8110-8fd73333d29f",
+    "duration_ms": 240693,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Domino",
+    "artists": [
+      "Nocaden"
+    ],
+    "isrc": "SKG971900106",
+    "start_time": "2025-11-28 01:43:54",
+    "radio": "expres",
+    "recorded_at": "2025-11-28T01:44:29.785789+01:00",
+    "raw_valid": true,
+    "song_session_id": "a7baeb3c-a23c-40fc-bf1c-92c99a62e0eb",
+    "duration_ms": 247280,
+    "genre": []
+  },
+  {
+    "song": "Gone Gone Gone",
+    "artists": [
+      "David Guetta",
+      "Teddy Swims",
+      "Tones And I"
+    ],
+    "isrc": "UKWLG2500132",
+    "start_time": "2025-11-28 01:47:38",
+    "radio": "expres",
+    "recorded_at": "2025-11-28T01:48:03.443966+01:00",
+    "raw_valid": true,
+    "song_session_id": "c30cc5a1-a71b-4156-adde-020ce5ed8029",
+    "duration_ms": 198004,
+    "genre": [
+      "soul"
+    ]
+  }
+]

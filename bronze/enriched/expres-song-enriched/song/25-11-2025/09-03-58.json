@@ -1,0 +1,328 @@
+[
+  {
+    "song": "Wonderful Life 25",
+    "artists": [
+      "Hurts",
+      "Purple Disco Machine"
+    ],
+    "isrc": "DEE862500677",
+    "start_time": "2025-11-25 08:08:20",
+    "radio": "expres",
+    "recorded_at": "2025-11-25T08:08:48.390585+01:00",
+    "raw_valid": true,
+    "song_session_id": "ad49d603-5dd9-4839-98e6-9416d2ac3130",
+    "duration_ms": 178658,
+    "genre": []
+  },
+  {
+    "song": "Neviem Byt Sam",
+    "artists": [
+      "Elan"
+    ],
+    "isrc": "SKA128561901",
+    "start_time": "2025-11-25 08:11:17",
+    "radio": "expres",
+    "recorded_at": "2025-11-25T08:11:46.125148+01:00",
+    "raw_valid": true,
+    "song_session_id": "7448d435-3813-4a82-9985-d03a506be6b7",
+    "duration_ms": 231066,
+    "genre": []
+  },
+  {
+    "song": "Trustfall",
+    "artists": [
+      "Pink"
+    ],
+    "isrc": "USRC12204190",
+    "start_time": "2025-11-25 08:16:47",
+    "radio": "expres",
+    "recorded_at": "2025-11-25T08:17:13.009031+01:00",
+    "raw_valid": true,
+    "song_session_id": "bcfb99e3-e912-4a41-b964-53c723a22c75",
+    "duration_ms": 237192,
+    "genre": []
+  },
+  {
+    "song": "Golden",
+    "artists": [
+      "Kpop Demon Hunters"
+    ],
+    "isrc": "QZ8BZ2513510",
+    "start_time": "2025-11-25 08:27:14",
+    "radio": "expres",
+    "recorded_at": "2025-11-25T08:27:28.761700+01:00",
+    "raw_valid": true,
+    "song_session_id": "e2468071-1f7f-4b63-809c-2880e0f92c38",
+    "duration_ms": 194607,
+    "genre": [
+      "korean"
+    ]
+  },
+  {
+    "song": "(Everything I Do) I Do It For You",
+    "artists": [
+      "Bryan Adams"
+    ],
+    "isrc": "USAM19190012",
+    "start_time": "2025-11-25 08:32:26",
+    "radio": "expres",
+    "recorded_at": "2025-11-25T08:32:48.832018+01:00",
+    "raw_valid": true,
+    "song_session_id": "49858065-376b-4f56-8c52-9e94c242eaa7",
+    "duration_ms": 394733,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Beautiful People",
+    "artists": [
+      "David Guetta",
+      "Sia"
+    ],
+    "isrc": "UKWLG2500016",
+    "start_time": "2025-11-25 08:36:38",
+    "radio": "expres",
+    "recorded_at": "2025-11-25T08:36:48.779124+01:00",
+    "raw_valid": true,
+    "song_session_id": "30a56386-f1c3-4af0-87a0-437322fc91b3",
+    "duration_ms": 187086,
+    "genre": []
+  },
+  {
+    "song": "Say It Right",
+    "artists": [
+      "Nelly Furtado"
+    ],
+    "isrc": "USUM70603368",
+    "start_time": "2025-11-25 08:46:34",
+    "radio": "expres",
+    "recorded_at": "2025-11-25T08:47:00.259259+01:00",
+    "raw_valid": true,
+    "song_session_id": "669806e4-d63a-434c-a05e-d8b0d091acae",
+    "duration_ms": 223080,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Pride",
+    "artists": [
+      "Felix Jaehn",
+      "Jhart"
+    ],
+    "isrc": "DEUM72503423",
+    "start_time": "2025-11-25 08:52:56",
+    "radio": "expres",
+    "recorded_at": "2025-11-25T08:53:12.958364+01:00",
+    "raw_valid": true,
+    "song_session_id": "dcc015b7-0dec-40fb-99fc-998695bd75f4",
+    "duration_ms": 158150,
+    "genre": []
+  },
+  {
+    "song": "The Show Must Go On",
+    "artists": [
+      "Queen"
+    ],
+    "isrc": "GBUM71106221",
+    "start_time": "2025-11-25 08:55:40",
+    "radio": "expres",
+    "recorded_at": "2025-11-25T08:55:57.411494+01:00",
+    "raw_valid": true,
+    "song_session_id": "33c0e132-b163-43cd-89bb-b46314dd1671",
+    "duration_ms": 277826,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "How You Remind Me",
+    "artists": [
+      "Nickelback"
+    ],
+    "isrc": "NLA320119533",
+    "start_time": "2025-11-25 09:07:23",
+    "radio": "expres",
+    "recorded_at": "2025-11-25T09:07:41.919364+01:00",
+    "raw_valid": true,
+    "song_session_id": "604ec314-25a0-49fc-92eb-0267d78528cb",
+    "duration_ms": 223746,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Too Sweet",
+    "artists": [
+      "Hozier"
+    ],
+    "isrc": "IEACJ2300335",
+    "start_time": "2025-11-25 09:11:07",
+    "radio": "expres",
+    "recorded_at": "2025-11-25T09:11:15.537080+01:00",
+    "raw_valid": true,
+    "song_session_id": "865cfa80-038e-4783-bd2f-bd0497578ce2",
+    "duration_ms": 251424,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Afterglow",
+    "artists": [
+      "Ed Sheeran"
+    ],
+    "isrc": "GBAHS2001193",
+    "start_time": "2025-11-25 09:15:21",
+    "radio": "expres",
+    "recorded_at": "2025-11-25T09:15:42.303239+01:00",
+    "raw_valid": true,
+    "song_session_id": "77fe2c7d-f760-43da-9f18-4dba45a32b89",
+    "duration_ms": 185486,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Save My Love",
+    "artists": [
+      "Marshmello",
+      "Ellie Goulding",
+      "Avaion"
+    ],
+    "isrc": "USUG12504310",
+    "start_time": "2025-11-25 09:18:28",
+    "radio": "expres",
+    "recorded_at": "2025-11-25T09:18:36.258847+01:00",
+    "raw_valid": true,
+    "song_session_id": "78c3a293-55e1-4447-9559-89b77526b64c",
+    "duration_ms": 215555,
+    "genre": []
+  },
+  {
+    "song": "Whered You Go",
+    "artists": [
+      "Fort Minor",
+      "Holly Brook"
+    ],
+    "isrc": "USWB10504785",
+    "start_time": "2025-11-25 09:22:05",
+    "radio": "expres",
+    "recorded_at": "2025-11-25T09:22:35.604741+01:00",
+    "raw_valid": true,
+    "song_session_id": "be98bd21-a661-40f9-addf-f5f5d6bf52fe",
+    "duration_ms": 231866,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Reklama Na Ticho",
+    "artists": [
+      "Team"
+    ],
+    "isrc": "SKA128804502",
+    "start_time": "2025-11-25 09:35:12",
+    "radio": "expres",
+    "recorded_at": "2025-11-25T09:35:36.053396+01:00",
+    "raw_valid": true,
+    "song_session_id": "a57c0053-626c-414c-9ba0-4412fc826b75",
+    "duration_ms": 222426,
+    "genre": []
+  },
+  {
+    "song": "The Fate Of Ophelia",
+    "artists": [
+      "Taylor Swift"
+    ],
+    "isrc": "USUG12506436",
+    "start_time": "2025-11-25 09:38:16",
+    "radio": "expres",
+    "recorded_at": "2025-11-25T09:38:38.164185+01:00",
+    "raw_valid": true,
+    "song_session_id": "153e36cb-5b8d-42b6-8c98-141b60ef9dca",
+    "duration_ms": 226073,
+    "genre": [
+      "electronic"
+    ]
+  },
+  {
+    "song": "Clocks",
+    "artists": [
+      "Coldplay"
+    ],
+    "isrc": "GBAYE0200771",
+    "start_time": "2025-11-25 09:42:02",
+    "radio": "expres",
+    "recorded_at": "2025-11-25T09:42:16.656393+01:00",
+    "raw_valid": true,
+    "song_session_id": "8a7c3e55-479e-4eaf-ae9b-731c440fc646",
+    "duration_ms": 307879,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Nice To Meet You",
+    "artists": [
+      "Myles Smith"
+    ],
+    "isrc": "GBARL2401376",
+    "start_time": "2025-11-25 09:46:16",
+    "radio": "expres",
+    "recorded_at": "2025-11-25T09:46:40.656996+01:00",
+    "raw_valid": true,
+    "song_session_id": "b855e4da-370c-46ef-a3cc-9d2caf40be68",
+    "duration_ms": 176000,
+    "genre": [
+      "electro"
+    ]
+  },
+  {
+    "song": "Some Say",
+    "artists": [
+      "Nea"
+    ],
+    "isrc": "SEBGA1902742",
+    "start_time": "2025-11-25 09:49:07",
+    "radio": "expres",
+    "recorded_at": "2025-11-25T09:49:19.045750+01:00",
+    "raw_valid": true,
+    "song_session_id": "b01b5c03-ef21-43f6-a422-4b5a85a6f5e9",
+    "duration_ms": 186878,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Man I Need",
+    "artists": [
+      "Olivia Dean"
+    ],
+    "isrc": "GBUM72503089",
+    "start_time": "2025-11-25 09:52:01",
+    "radio": "expres",
+    "recorded_at": "2025-11-25T09:52:17.462908+01:00",
+    "raw_valid": true,
+    "song_session_id": "41d71b7e-6784-40d9-be5e-eb2afedc1659",
+    "duration_ms": 184000,
+    "genre": [
+      "offizielle charts"
+    ]
+  },
+  {
+    "song": "Ray Of Light",
+    "artists": [
+      "Nico Santos"
+    ],
+    "isrc": "DECE72402394",
+    "start_time": "2025-11-25 09:55:20",
+    "radio": "expres",
+    "recorded_at": "2025-11-25T09:55:36.051949+01:00",
+    "raw_valid": true,
+    "song_session_id": "2686ee8d-2c0b-48b7-8967-9245c92d9597",
+    "duration_ms": 176500,
+    "genre": []
+  }
+]

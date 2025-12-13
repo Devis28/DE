@@ -1,0 +1,507 @@
+[
+  {
+    "song": "Okolo Nas",
+    "artists": [
+      "Jana Kirschner"
+    ],
+    "isrc": "SKP662201002",
+    "start_time": "2025-11-16 04:04:22",
+    "radio": "expres",
+    "recorded_at": "2025-11-16T04:04:54.637864+01:00",
+    "raw_valid": true,
+    "song_session_id": "c515de9b-ef20-4c2f-a488-b10aa79178b3",
+    "duration_ms": 257185,
+    "genre": []
+  },
+  {
+    "song": "Nice To Meet You",
+    "artists": [
+      "Myles Smith"
+    ],
+    "isrc": "GBARL2401376",
+    "start_time": "2025-11-16 04:09:03",
+    "radio": "expres",
+    "recorded_at": "2025-11-16T04:09:40.403957+01:00",
+    "raw_valid": true,
+    "song_session_id": "f8b21a52-d1a2-4b01-9dce-fb16a4b3c627",
+    "duration_ms": 176000,
+    "genre": []
+  },
+  {
+    "song": "Holubicka",
+    "artists": [
+      "Adam Durica"
+    ],
+    "isrc": "SKA011800048",
+    "start_time": "2025-11-16 04:11:57",
+    "radio": "expres",
+    "recorded_at": "2025-11-16T04:12:22.940355+01:00",
+    "raw_valid": true,
+    "song_session_id": "4d97132d-cd90-4ee3-a0c4-cb1904d30ec5",
+    "duration_ms": 271000,
+    "genre": []
+  },
+  {
+    "song": "Dont Stop Me Now",
+    "artists": [
+      "Queen"
+    ],
+    "isrc": "GBUM71029610",
+    "start_time": "2025-11-16 04:16:33",
+    "radio": "expres",
+    "recorded_at": "2025-11-16T04:17:07.024285+01:00",
+    "raw_valid": true,
+    "song_session_id": "1c809bfd-cf16-4871-8672-2ae47bc6b8a7",
+    "duration_ms": 210773,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Medzi Nebom A Zenou",
+    "artists": [
+      "Banket",
+      "Richard Muller",
+      "Ema Muller"
+    ],
+    "isrc": "SKC362500009",
+    "start_time": "2025-11-16 04:19:46",
+    "radio": "expres",
+    "recorded_at": "2025-11-16T04:20:18.251219+01:00",
+    "raw_valid": true,
+    "song_session_id": "a0b660bf-bfb3-406e-8487-a8f1bdf3d03a",
+    "duration_ms": 228666,
+    "genre": []
+  },
+  {
+    "song": "Afterglow",
+    "artists": [
+      "Ed Sheeran"
+    ],
+    "isrc": "GBAHS2001193",
+    "start_time": "2025-11-16 04:23:50",
+    "radio": "expres",
+    "recorded_at": "2025-11-16T04:24:21.986363+01:00",
+    "raw_valid": true,
+    "song_session_id": "a56e1e93-b0cc-4cd2-9dcd-e48b445a4d74",
+    "duration_ms": 185486,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Pohoda",
+    "artists": [
+      "Sam Sebou",
+      "Kali"
+    ],
+    "isrc": "SKE502400602",
+    "start_time": "2025-11-16 04:26:51",
+    "radio": "expres",
+    "recorded_at": "2025-11-16T04:27:24.279392+01:00",
+    "raw_valid": true,
+    "song_session_id": "6857ff73-5e6f-42e0-98fe-6c0650db40a8",
+    "duration_ms": 167000,
+    "genre": []
+  },
+  {
+    "song": "Daylight In Your Eyes",
+    "artists": [
+      "No Angels"
+    ],
+    "isrc": "DEN120003772",
+    "start_time": "2025-11-16 04:29:50",
+    "radio": "expres",
+    "recorded_at": "2025-11-16T04:30:25.363154+01:00",
+    "raw_valid": true,
+    "song_session_id": "4f0f7825-ce03-42e1-9056-fbcb5c49edab",
+    "duration_ms": 211600,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Regalo",
+    "artists": [
+      "Alvaro Soler"
+    ],
+    "isrc": "DEE862500388",
+    "start_time": "2025-11-16 04:32:30",
+    "radio": "expres",
+    "recorded_at": "2025-11-16T04:33:07.854035+01:00",
+    "raw_valid": true,
+    "song_session_id": "12739afa-cf94-426e-9108-18e3baa1edd3",
+    "duration_ms": 184984,
+    "genre": []
+  },
+  {
+    "song": "Kazdy Den Je Nedela",
+    "artists": [
+      "Hex"
+    ],
+    "isrc": "SKC751300419",
+    "start_time": "2025-11-16 04:35:40",
+    "radio": "expres",
+    "recorded_at": "2025-11-16T04:36:13.096167+01:00",
+    "raw_valid": true,
+    "song_session_id": "021c921d-8e6d-408f-b703-519bf60d7805",
+    "duration_ms": 202066,
+    "genre": []
+  },
+  {
+    "song": "Let Her Go",
+    "artists": [
+      "Passenger"
+    ],
+    "isrc": "GBMQN1100004",
+    "start_time": "2025-11-16 04:39:54",
+    "radio": "expres",
+    "recorded_at": "2025-11-16T04:40:25.437052+01:00",
+    "raw_valid": true,
+    "song_session_id": "1efc0048-9b5a-4eba-b6b4-df001160251e",
+    "duration_ms": 252733,
+    "genre": [
+      "folk"
+    ]
+  },
+  {
+    "song": "Vesela Pesnicka",
+    "artists": [
+      "Imt Smile"
+    ],
+    "isrc": "SKA019903012",
+    "start_time": "2025-11-16 04:43:58",
+    "radio": "expres",
+    "recorded_at": "2025-11-16T04:44:28.720649+01:00",
+    "raw_valid": true,
+    "song_session_id": "4710bb0f-0e1e-4bab-bdad-54aa1eb66d40",
+    "duration_ms": 178386,
+    "genre": []
+  },
+  {
+    "song": "Head Above Water",
+    "artists": [
+      "Twocolors",
+      "Safri Duo",
+      "Chris De Sarandy"
+    ],
+    "isrc": "DEUM72503698",
+    "start_time": "2025-11-16 04:46:52",
+    "radio": "expres",
+    "recorded_at": "2025-11-16T04:47:31.948984+01:00",
+    "raw_valid": true,
+    "song_session_id": "1c36304f-e239-4278-a508-629795bad7c3",
+    "duration_ms": 174550,
+    "genre": []
+  },
+  {
+    "song": "Par Dni",
+    "artists": [
+      "Desmod",
+      "Zuzana Smatanova"
+    ],
+    "isrc": "CZA210400241",
+    "start_time": "2025-11-16 04:49:48",
+    "radio": "expres",
+    "recorded_at": "2025-11-16T04:50:14.760740+01:00",
+    "raw_valid": true,
+    "song_session_id": "9261d9ed-2b11-4703-bd0c-7fe081869083",
+    "duration_ms": 212293,
+    "genre": []
+  },
+  {
+    "song": "Angel",
+    "artists": [
+      "Shaggy"
+    ],
+    "isrc": "USMC19989405",
+    "start_time": "2025-11-16 04:53:23",
+    "radio": "expres",
+    "recorded_at": "2025-11-16T04:54:08.806346+01:00",
+    "raw_valid": true,
+    "song_session_id": "05a779da-6514-477d-bf73-a98e6f569aad",
+    "duration_ms": 235146,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Stratena",
+    "artists": [
+      "Lina Mayer"
+    ],
+    "isrc": "SKK312100201",
+    "start_time": "2025-11-16 04:57:18",
+    "radio": "expres",
+    "recorded_at": "2025-11-16T04:57:51.672082+01:00",
+    "raw_valid": true,
+    "song_session_id": "a0da2bdf-199a-49d2-a1a5-ef25a67604d3",
+    "duration_ms": 221304,
+    "genre": []
+  },
+  {
+    "song": "Flowers",
+    "artists": [
+      "Alle Farben",
+      "Graham Candy",
+      "Lahos"
+    ],
+    "isrc": "DEA622500325",
+    "start_time": "2025-11-16 05:00:58",
+    "radio": "expres",
+    "recorded_at": "2025-11-16T05:01:30.534939+01:00",
+    "raw_valid": true,
+    "song_session_id": "6925e7be-2e18-4468-be7b-b5673619a614",
+    "duration_ms": 153103,
+    "genre": []
+  },
+  {
+    "song": "Prec Prec",
+    "artists": [
+      "Pavol Habera"
+    ],
+    "isrc": "FRX451573110",
+    "start_time": "2025-11-16 05:03:38",
+    "radio": "expres",
+    "recorded_at": "2025-11-16T05:04:13.005855+01:00",
+    "raw_valid": true,
+    "song_session_id": "df1ab732-e944-48bb-bdb3-67000febf561",
+    "duration_ms": 224493,
+    "genre": []
+  },
+  {
+    "song": "Mystical Magical",
+    "artists": [
+      "Benson Boone"
+    ],
+    "isrc": "USWB12500844",
+    "start_time": "2025-11-16 05:07:11",
+    "radio": "expres",
+    "recorded_at": "2025-11-16T05:07:41.280267+01:00",
+    "raw_valid": true,
+    "song_session_id": "ffda9a8b-5d27-4465-9f32-5ca9fc8ae5d7",
+    "duration_ms": 165746,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Povedzme",
+    "artists": [
+      "Robo Grigorov"
+    ],
+    "isrc": "CZA210800043",
+    "start_time": "2025-11-16 05:09:59",
+    "radio": "expres",
+    "recorded_at": "2025-11-16T05:10:24.460687+01:00",
+    "raw_valid": true,
+    "song_session_id": "b9100721-fadc-4b78-9b59-530b94511a49",
+    "duration_ms": 291973,
+    "genre": []
+  },
+  {
+    "song": "Californication",
+    "artists": [
+      "Red Hot Chili Peppers"
+    ],
+    "isrc": "USWB19900690",
+    "start_time": "2025-11-16 05:13:32",
+    "radio": "expres",
+    "recorded_at": "2025-11-16T05:14:15.086146+01:00",
+    "raw_valid": true,
+    "song_session_id": "d679062e-bbef-4fcc-be2a-4c0d23241fa6",
+    "duration_ms": 329733,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Vecnost",
+    "artists": [
+      "No Name"
+    ],
+    "isrc": "SKA010110203",
+    "start_time": "2025-11-16 05:17:02",
+    "radio": "expres",
+    "recorded_at": "2025-11-16T05:17:27.926742+01:00",
+    "raw_valid": true,
+    "song_session_id": "aba04139-b20d-4050-b2e2-453154e98a62",
+    "duration_ms": 197706,
+    "genre": []
+  },
+  {
+    "song": "Wonderful Life 25",
+    "artists": [
+      "Hurts",
+      "Purple Disco Machine"
+    ],
+    "isrc": "DEE862500677",
+    "start_time": "2025-11-16 05:20:14",
+    "radio": "expres",
+    "recorded_at": "2025-11-16T05:20:37.901112+01:00",
+    "raw_valid": true,
+    "song_session_id": "a39a27fd-a88c-44ed-9825-512af2d259e2",
+    "duration_ms": 178658,
+    "genre": []
+  },
+  {
+    "song": "Dovtedy",
+    "artists": [
+      "Adam Durica"
+    ],
+    "isrc": "SKA011600030",
+    "start_time": "2025-11-16 05:23:15",
+    "radio": "expres",
+    "recorded_at": "2025-11-16T05:23:35.550992+01:00",
+    "raw_valid": true,
+    "song_session_id": "f0373794-caa7-42a6-92f2-5f06d5edb46d",
+    "duration_ms": 147750,
+    "genre": []
+  },
+  {
+    "song": "Runaway",
+    "artists": [
+      "Onerepublic"
+    ],
+    "isrc": "USUM72304684",
+    "start_time": "2025-11-16 05:25:37",
+    "radio": "expres",
+    "recorded_at": "2025-11-16T05:26:04.575186+01:00",
+    "raw_valid": true,
+    "song_session_id": "69b5dc07-786f-4599-91cf-f00e1ffeb93c",
+    "duration_ms": 142693,
+    "genre": []
+  },
+  {
+    "song": "Pri Oltari",
+    "artists": [
+      "Kristina"
+    ],
+    "isrc": "SKA011000102",
+    "start_time": "2025-11-16 05:28:00",
+    "radio": "expres",
+    "recorded_at": "2025-11-16T05:28:27.046492+01:00",
+    "raw_valid": true,
+    "song_session_id": "985346e8-2044-4559-af0e-2f7b1064254a",
+    "duration_ms": 226680,
+    "genre": []
+  },
+  {
+    "song": "Undressed",
+    "artists": [
+      "Sombr"
+    ],
+    "isrc": "USWB12500737",
+    "start_time": "2025-11-16 05:32:21",
+    "radio": "expres",
+    "recorded_at": "2025-11-16T05:32:47.407917+01:00",
+    "raw_valid": true,
+    "song_session_id": "1625df14-9339-43dc-9e0d-2f907f5a3ab2",
+    "duration_ms": 182088,
+    "genre": [
+      "indie pop"
+    ]
+  },
+  {
+    "song": "Z Vysky",
+    "artists": [
+      "Peter Bic Project"
+    ],
+    "isrc": "SKA011800016",
+    "start_time": "2025-11-16 05:35:23",
+    "radio": "expres",
+    "recorded_at": "2025-11-16T05:35:56.255833+01:00",
+    "raw_valid": true,
+    "song_session_id": "9151dcbd-dae3-439b-93c0-da5a8e66de17",
+    "duration_ms": 196290,
+    "genre": []
+  },
+  {
+    "song": "Beds Are Burning",
+    "artists": [
+      "Midnight Oil"
+    ],
+    "isrc": "AUBM00700707",
+    "start_time": "2025-11-16 05:38:35",
+    "radio": "expres",
+    "recorded_at": "2025-11-16T05:38:54.174106+01:00",
+    "raw_valid": true,
+    "song_session_id": "7d7f55e1-9356-442f-bbaf-6f99c6412a40",
+    "duration_ms": 255173,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Za Dverami Mojej Izby",
+    "artists": [
+      "Beata Dubasova"
+    ],
+    "isrc": "SKA129024401",
+    "start_time": "2025-11-16 05:43:00",
+    "radio": "expres",
+    "recorded_at": "2025-11-16T05:43:28.281514+01:00",
+    "raw_valid": true,
+    "song_session_id": "7ec8b52e-b4a9-4a64-979d-f2af082a7a1c",
+    "duration_ms": 305880,
+    "genre": []
+  },
+  {
+    "song": "Eternity",
+    "artists": [
+      "Alex Warren"
+    ],
+    "isrc": "USAT22503779",
+    "start_time": "2025-11-16 05:47:48",
+    "radio": "expres",
+    "recorded_at": "2025-11-16T05:48:29.211927+01:00",
+    "raw_valid": true,
+    "song_session_id": "4e2b07de-bfeb-499e-be3e-82163151332c",
+    "duration_ms": 189553,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Stuzkova",
+    "artists": [
+      "Elan"
+    ],
+    "isrc": "SKA128562209",
+    "start_time": "2025-11-16 05:51:22",
+    "radio": "expres",
+    "recorded_at": "2025-11-16T05:51:52.481946+01:00",
+    "raw_valid": true,
+    "song_session_id": "dd4b94ae-23e9-4e29-a296-07dd43981958",
+    "duration_ms": 181826,
+    "genre": []
+  },
+  {
+    "song": "Ma Cherie",
+    "artists": [
+      "Dj Antoine"
+    ],
+    "isrc": "CH4881000515",
+    "start_time": "2025-11-16 05:54:18",
+    "radio": "expres",
+    "recorded_at": "2025-11-16T05:54:56.498434+01:00",
+    "raw_valid": true,
+    "song_session_id": "8f67a4f6-b4ba-46ff-a277-dd97ce80c935",
+    "duration_ms": 191090,
+    "genre": [
+      "dance"
+    ]
+  },
+  {
+    "song": "Mmuoj Boze",
+    "artists": [
+      "Katarina Knechtova"
+    ],
+    "isrc": null,
+    "start_time": "2025-11-16 05:57:30",
+    "radio": "expres",
+    "recorded_at": "2025-11-16T05:57:54.599144+01:00",
+    "raw_valid": true,
+    "song_session_id": "5d41f031-45a9-4b7c-b38c-e6078745bc72"
+  }
+]

@@ -1,0 +1,513 @@
+[
+  {
+    "song": "Stars Will Align",
+    "artists": [
+      "Kygo",
+      "Imagine Dragons"
+    ],
+    "isrc": "SEBGA2401211",
+    "start_time": "2025-11-30 21:50:10",
+    "radio": "expres",
+    "recorded_at": "2025-11-30T21:50:56.128131+01:00",
+    "raw_valid": true,
+    "song_session_id": "88a9695a-c6a7-448b-b9bc-1551cb08e615",
+    "duration_ms": 234366,
+    "genre": []
+  },
+  {
+    "song": "Home",
+    "artists": [
+      "Glockenbach",
+      "Tom Walker"
+    ],
+    "isrc": "DECE72502186",
+    "start_time": "2025-11-30 21:53:55",
+    "radio": "expres",
+    "recorded_at": "2025-11-30T21:54:38.308137+01:00",
+    "raw_valid": true,
+    "song_session_id": "c7024a63-5290-4371-8379-516a9fa0c1a6",
+    "duration_ms": 196985,
+    "genre": []
+  },
+  {
+    "song": "Leave Out All The Rest",
+    "artists": [
+      "Linkin Park"
+    ],
+    "isrc": "USWB10701212",
+    "start_time": "2025-11-30 21:57:20",
+    "radio": "expres",
+    "recorded_at": "2025-11-30T21:58:12.406266+01:00",
+    "raw_valid": true,
+    "song_session_id": "3f356aae-21ad-4479-baf4-f470343af405",
+    "duration_ms": 209306,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Abracadabra",
+    "artists": [
+      "Lady Gaga"
+    ],
+    "isrc": "USUM72412581",
+    "start_time": "2025-11-30 22:04:10",
+    "radio": "expres",
+    "recorded_at": "2025-11-30T22:04:52.628057+01:00",
+    "raw_valid": true,
+    "song_session_id": "bb16218b-3839-4394-a228-c4f84774851a",
+    "duration_ms": 223398,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Left Outside Alone",
+    "artists": [
+      "Anastacia"
+    ],
+    "isrc": "USSM10400150",
+    "start_time": "2025-11-30 22:08:01",
+    "radio": "expres",
+    "recorded_at": "2025-11-30T22:08:52.901996+01:00",
+    "raw_valid": true,
+    "song_session_id": "347783ec-72a0-42be-9ad0-1c03a6c228af",
+    "duration_ms": 256946,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Regalo",
+    "artists": [
+      "Alvaro Soler"
+    ],
+    "isrc": "DEE862500388",
+    "start_time": "2025-11-30 22:11:36",
+    "radio": "expres",
+    "recorded_at": "2025-11-30T22:12:14.863362+01:00",
+    "raw_valid": true,
+    "song_session_id": "b0d01072-6ea2-4113-8a76-9e4b22a8fe64",
+    "duration_ms": 184984,
+    "genre": []
+  },
+  {
+    "song": "I Took A Pill In Ibiza (Seeb Remix)",
+    "artists": [
+      "Mike Posner"
+    ],
+    "isrc": "USUM71509342",
+    "start_time": "2025-11-30 22:14:42",
+    "radio": "expres",
+    "recorded_at": "2025-11-30T22:15:16.316725+01:00",
+    "raw_valid": true,
+    "song_session_id": "9ea9e08e-f2e0-4d35-9951-75a5c1d91f6a",
+    "duration_ms": 197933,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Make It Right",
+    "artists": [
+      "Tom Gregory",
+      "Vize"
+    ],
+    "isrc": "DEE862501109",
+    "start_time": "2025-11-30 22:17:51",
+    "radio": "expres",
+    "recorded_at": "2025-11-30T22:18:38.321633+01:00",
+    "raw_valid": true,
+    "song_session_id": "743a0935-d37d-4720-850b-36ecbab70ba0",
+    "duration_ms": 141051,
+    "genre": []
+  },
+  {
+    "song": "Listen To Your Heart",
+    "artists": [
+      "Roxette"
+    ],
+    "isrc": "SEAME8878130",
+    "start_time": "2025-11-30 22:20:28",
+    "radio": "expres",
+    "recorded_at": "2025-11-30T22:21:19.711833+01:00",
+    "raw_valid": true,
+    "song_session_id": "a13ac3cd-ffe8-48f0-ba60-b9218ab5e378",
+    "duration_ms": 328093,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "All I Know",
+    "artists": [
+      "Rudimental",
+      "Khalid"
+    ],
+    "isrc": "GBARL2500365",
+    "start_time": "2025-11-30 22:25:23",
+    "radio": "expres",
+    "recorded_at": "2025-11-30T22:26:02.719938+01:00",
+    "raw_valid": true,
+    "song_session_id": "5e132bf8-f8a0-4d12-a4d9-c8fd6a2585b4",
+    "duration_ms": 176046,
+    "genre": []
+  },
+  {
+    "song": "I Was Wrong",
+    "artists": [
+      "Majk Spirit",
+      "Celeste Buckingham"
+    ],
+    "isrc": "QMQNX1300013",
+    "start_time": "2025-11-30 22:28:18",
+    "radio": "expres",
+    "recorded_at": "2025-11-30T22:29:04.122532+01:00",
+    "raw_valid": true,
+    "song_session_id": "c805eb6f-5f8a-4c7e-8878-5c125812b03e",
+    "duration_ms": 239240,
+    "genre": []
+  },
+  {
+    "song": "Mystical Magical",
+    "artists": [
+      "Benson Boone"
+    ],
+    "isrc": "USWB12500844",
+    "start_time": "2025-11-30 22:32:32",
+    "radio": "expres",
+    "recorded_at": "2025-11-30T22:33:06.607436+01:00",
+    "raw_valid": true,
+    "song_session_id": "6381d4a5-7ca4-4632-9307-e7c2aaa82578",
+    "duration_ms": 165746,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Ten Pribeh Je Prec",
+    "artists": [
+      "Beata Dubasova"
+    ],
+    "isrc": "CZA239300061",
+    "start_time": "2025-11-30 22:35:33",
+    "radio": "expres",
+    "recorded_at": "2025-11-30T22:36:13.438094+01:00",
+    "raw_valid": true,
+    "song_session_id": "d022c975-cc24-4119-8657-150e3d86e125",
+    "duration_ms": 270080,
+    "genre": []
+  },
+  {
+    "song": "A Sky Full Of Stars",
+    "artists": [
+      "Coldplay"
+    ],
+    "isrc": "GBAYE1400217",
+    "start_time": "2025-11-30 22:39:40",
+    "radio": "expres",
+    "recorded_at": "2025-11-30T22:40:31.198755+01:00",
+    "raw_valid": true,
+    "song_session_id": "78633984-5541-403d-b070-cdbcb765e09f",
+    "duration_ms": 267866,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Glide",
+    "artists": [
+      "Neiked",
+      "Portugal The Man"
+    ],
+    "isrc": "DEE862500421",
+    "start_time": "2025-11-30 22:43:43",
+    "radio": "expres",
+    "recorded_at": "2025-11-30T22:44:33.424780+01:00",
+    "raw_valid": true,
+    "song_session_id": "9c7d2cde-974e-492f-9b91-108b7827f3d6",
+    "duration_ms": 184405,
+    "genre": []
+  },
+  {
+    "song": "That Dont Impress Me Much",
+    "artists": [
+      "Shania Twain"
+    ],
+    "isrc": "USUM71609116",
+    "start_time": "2025-11-30 22:46:36",
+    "radio": "expres",
+    "recorded_at": "2025-11-30T22:47:14.800191+01:00",
+    "raw_valid": true,
+    "song_session_id": "56c3e355-d554-4da8-b9cf-f3eec746ccaf",
+    "duration_ms": 238641,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Million Good Reasons",
+    "artists": [
+      "Robin Schulz",
+      "Fast Boy"
+    ],
+    "isrc": "DEA622404738",
+    "start_time": "2025-11-30 22:50:35",
+    "radio": "expres",
+    "recorded_at": "2025-11-30T22:51:17.059977+01:00",
+    "raw_valid": true,
+    "song_session_id": "84b23e62-0760-462c-a2a4-8b518d3079ce",
+    "duration_ms": 157130,
+    "genre": []
+  },
+  {
+    "song": "Vsetko Bude Dobre",
+    "artists": [
+      "Gladiator"
+    ],
+    "isrc": "SKCM72560001",
+    "start_time": "2025-11-30 22:53:06",
+    "radio": "expres",
+    "recorded_at": "2025-11-30T22:53:43.361530+01:00",
+    "raw_valid": true,
+    "song_session_id": "c39ec8b3-4eb5-477a-8bcd-4ecd9386f359",
+    "duration_ms": 166588,
+    "genre": []
+  },
+  {
+    "song": "Moonlight Shadow",
+    "artists": [
+      "Mike Oldfield",
+      "Maggie Reilly"
+    ],
+    "isrc": "GBAAA8300001",
+    "start_time": "2025-11-30 22:56:03",
+    "radio": "expres",
+    "recorded_at": "2025-11-30T22:56:53.765164+01:00",
+    "raw_valid": true,
+    "song_session_id": "4f4f4b5f-2365-408d-9880-85204438a08b",
+    "duration_ms": 218226,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Undressed",
+    "artists": [
+      "Sombr"
+    ],
+    "isrc": "USWB12500737",
+    "start_time": "2025-11-30 23:00:25",
+    "radio": "expres",
+    "recorded_at": "2025-11-30T23:01:06.243391+01:00",
+    "raw_valid": true,
+    "song_session_id": "8ae87027-97d9-420e-ace5-f30e50c03681",
+    "duration_ms": 182088,
+    "genre": [
+      "indie pop"
+    ]
+  },
+  {
+    "song": "Prva",
+    "artists": [
+      "No Name"
+    ],
+    "isrc": "SKA010309202",
+    "start_time": "2025-11-30 23:03:36",
+    "radio": "expres",
+    "recorded_at": "2025-11-30T23:04:14.001889+01:00",
+    "raw_valid": true,
+    "song_session_id": "905a1054-09a0-480a-b1f4-31ba1e106082",
+    "duration_ms": 199146,
+    "genre": []
+  },
+  {
+    "song": "Told You So",
+    "artists": [
+      "Martin Garrix",
+      "Jex"
+    ],
+    "isrc": "NLM5S2402334",
+    "start_time": "2025-11-30 23:06:48",
+    "radio": "expres",
+    "recorded_at": "2025-11-30T23:07:34.293821+01:00",
+    "raw_valid": true,
+    "song_session_id": "3beadd94-fed1-48a1-9026-0841ead568fb",
+    "duration_ms": 187031,
+    "genre": []
+  },
+  {
+    "song": "Ma Cherie",
+    "artists": [
+      "Dj Antoine"
+    ],
+    "isrc": "CH4881000515",
+    "start_time": "2025-11-30 23:09:54",
+    "radio": "expres",
+    "recorded_at": "2025-11-30T23:10:35.777523+01:00",
+    "raw_valid": true,
+    "song_session_id": "821c660f-b2ad-4f8f-b389-cc7e6c68ebf8",
+    "duration_ms": 191090,
+    "genre": [
+      "dance"
+    ]
+  },
+  {
+    "song": "Gone Gone Gone",
+    "artists": [
+      "David Guetta",
+      "Teddy Swims",
+      "Tones And I"
+    ],
+    "isrc": "UKWLG2500132",
+    "start_time": "2025-11-30 23:12:59",
+    "radio": "expres",
+    "recorded_at": "2025-11-30T23:13:37.468109+01:00",
+    "raw_valid": true,
+    "song_session_id": "58682c1c-e700-4d16-a95a-eb0e0949410f",
+    "duration_ms": 198004,
+    "genre": [
+      "soul"
+    ]
+  },
+  {
+    "song": "Baroko",
+    "artists": [
+      "Richard Muller",
+      "Anna K.",
+      "Ivan Tasler"
+    ],
+    "isrc": "CZA110003026",
+    "start_time": "2025-11-30 23:16:45",
+    "radio": "expres",
+    "recorded_at": "2025-11-30T23:17:19.502675+01:00",
+    "raw_valid": true,
+    "song_session_id": "acfed66b-4d57-4924-a1c2-26c9333d9201",
+    "duration_ms": 379120,
+    "genre": []
+  },
+  {
+    "song": "Stumblin In",
+    "artists": [
+      "Cyril"
+    ],
+    "isrc": "NLZ542301810",
+    "start_time": "2025-11-30 23:21:26",
+    "radio": "expres",
+    "recorded_at": "2025-11-30T23:22:02.331724+01:00",
+    "raw_valid": true,
+    "song_session_id": "56451661-e46f-4682-95f7-80254038492d",
+    "duration_ms": 213363,
+    "genre": [
+      "alternative rock"
+    ]
+  },
+  {
+    "song": "Naveky",
+    "artists": [
+      "Katarina Knechtova"
+    ],
+    "isrc": "QZMER2590765",
+    "start_time": "2025-11-30 23:24:53",
+    "radio": "expres",
+    "recorded_at": "2025-11-30T23:25:24.456976+01:00",
+    "raw_valid": true,
+    "song_session_id": "5d2d0942-8358-47a0-8e50-31864990d850",
+    "duration_ms": 271000,
+    "genre": []
+  },
+  {
+    "song": "Fuoco Nel Fuoco",
+    "artists": [
+      "Eros Ramazzotti"
+    ],
+    "isrc": "NLA200000084",
+    "start_time": "2025-11-30 23:28:15",
+    "radio": "expres",
+    "recorded_at": "2025-11-30T23:28:55.049936+01:00",
+    "raw_valid": true,
+    "song_session_id": "3b637386-9cfc-46f2-870e-c0cea965b31c",
+    "duration_ms": 242653,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Wonderful Life 25",
+    "artists": [
+      "Hurts",
+      "Purple Disco Machine"
+    ],
+    "isrc": "DEE862500677",
+    "start_time": "2025-11-30 23:32:15",
+    "radio": "expres",
+    "recorded_at": "2025-11-30T23:32:57.465673+01:00",
+    "raw_valid": true,
+    "song_session_id": "f8c4e7bc-bb86-41be-97c8-aaa4346446b7",
+    "duration_ms": 178658,
+    "genre": []
+  },
+  {
+    "song": "Call It Love",
+    "artists": [
+      "Felix Jaehn",
+      "Ray Dalton"
+    ],
+    "isrc": "DEUM72204750",
+    "start_time": "2025-11-30 23:35:26",
+    "radio": "expres",
+    "recorded_at": "2025-11-30T23:35:59.116139+01:00",
+    "raw_valid": true,
+    "song_session_id": "a8103fd5-65ae-4925-b068-5b7e156d93b4",
+    "duration_ms": 154560,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Careless Whisper",
+    "artists": [
+      "George Michael"
+    ],
+    "isrc": "GBARL0601610",
+    "start_time": "2025-11-30 23:38:03",
+    "radio": "expres",
+    "recorded_at": "2025-11-30T23:38:55.203185+01:00",
+    "raw_valid": true,
+    "song_session_id": "a83efafe-a8d3-41df-89ff-f606024abd0f",
+    "duration_ms": 303426,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Love Me Not",
+    "artists": [
+      "Ravyn Lenae"
+    ],
+    "isrc": "USAT22401137",
+    "start_time": "2025-11-30 23:43:04",
+    "radio": "expres",
+    "recorded_at": "2025-11-30T23:43:48.215293+01:00",
+    "raw_valid": true,
+    "song_session_id": "268ace9f-6122-4294-9e7b-2021b6c51c48",
+    "duration_ms": 213466,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Co S Tym",
+    "artists": [
+      "Team"
+    ],
+    "isrc": "FRX201742867",
+    "start_time": "2025-11-30 23:46:25",
+    "radio": "expres",
+    "recorded_at": "2025-11-30T23:47:09.945683+01:00",
+    "raw_valid": true,
+    "song_session_id": "c6161ebe-d962-4118-a6ba-aa5bc1ff9923",
+    "duration_ms": 313400,
+    "genre": []
+  }
+]

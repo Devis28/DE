@@ -1,0 +1,507 @@
+[
+  {
+    "song": "I Believe",
+    "artists": [
+      "Kamrad"
+    ],
+    "isrc": "QMDA62184030",
+    "start_time": "2025-11-08 04:03:40",
+    "radio": "expres",
+    "recorded_at": "2025-11-08T04:04:02.601088+01:00",
+    "raw_valid": true,
+    "song_session_id": "95f9f0e9-8156-460f-aa61-2ef1b9cd3ee6",
+    "duration_ms": 147007,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Rande",
+    "artists": [
+      "Emma Drobna",
+      "Ego"
+    ],
+    "isrc": "SKB452400101",
+    "start_time": "2025-11-08 04:06:16",
+    "radio": "expres",
+    "recorded_at": "2025-11-08T04:06:39.745229+01:00",
+    "raw_valid": true,
+    "song_session_id": "bfd1264c-e328-47c3-9ad9-2a25a625a36a",
+    "duration_ms": 171250,
+    "genre": []
+  },
+  {
+    "song": "Ordinary",
+    "artists": [
+      "Alex Warren"
+    ],
+    "isrc": "USAT22500463",
+    "start_time": "2025-11-08 04:09:02",
+    "radio": "expres",
+    "recorded_at": "2025-11-08T04:09:34.201502+01:00",
+    "raw_valid": true,
+    "song_session_id": "7040b8c7-7128-4e69-8b11-7bd3206035a1",
+    "duration_ms": 186964,
+    "genre": [
+      "folk"
+    ]
+  },
+  {
+    "song": "Co To Znamena",
+    "artists": [
+      "Peter Cmorik"
+    ],
+    "isrc": "CZA210700798",
+    "start_time": "2025-11-08 04:12:06",
+    "radio": "expres",
+    "recorded_at": "2025-11-08T04:12:42.615663+01:00",
+    "raw_valid": true,
+    "song_session_id": "89d19b15-7878-4983-b3fb-590291dae15f",
+    "duration_ms": 230933,
+    "genre": []
+  },
+  {
+    "song": "Desert Rose",
+    "artists": [
+      "Sting"
+    ],
+    "isrc": "USIR19902517",
+    "start_time": "2025-11-08 04:15:54",
+    "radio": "expres",
+    "recorded_at": "2025-11-08T04:16:16.420189+01:00",
+    "raw_valid": true,
+    "song_session_id": "0360f5dc-1d71-468f-ad44-d67c86f94529",
+    "duration_ms": 290626,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Divoky Dazd",
+    "artists": [
+      "Gladiator"
+    ],
+    "isrc": "CZA210200527",
+    "start_time": "2025-11-08 04:19:48",
+    "radio": "expres",
+    "recorded_at": "2025-11-08T04:20:04.968285+01:00",
+    "raw_valid": true,
+    "song_session_id": "0cd2007c-0578-4ea5-ad19-acf41114476b",
+    "duration_ms": 227760,
+    "genre": []
+  },
+  {
+    "song": "The Dead Dance",
+    "artists": [
+      "Lady Gaga"
+    ],
+    "isrc": "USUM72407034",
+    "start_time": "2025-11-08 04:23:30",
+    "radio": "expres",
+    "recorded_at": "2025-11-08T04:23:48.381532+01:00",
+    "raw_valid": true,
+    "song_session_id": "16436ef5-377f-405b-b79f-6f69590a2aca",
+    "duration_ms": 228518,
+    "genre": [
+      "offizielle charts"
+    ]
+  },
+  {
+    "song": "Modra",
+    "artists": [
+      "Jana Kirschner"
+    ],
+    "isrc": "SKA010003304",
+    "start_time": "2025-11-08 04:27:11",
+    "radio": "expres",
+    "recorded_at": "2025-11-08T04:27:36.724156+01:00",
+    "raw_valid": true,
+    "song_session_id": "5a393e5c-0aa0-4226-a864-8edf5154f926",
+    "duration_ms": 252906,
+    "genre": []
+  },
+  {
+    "song": "Te Imaginaba",
+    "artists": [
+      "Alvaro Soler"
+    ],
+    "isrc": "DEE862401045",
+    "start_time": "2025-11-08 04:31:22",
+    "radio": "expres",
+    "recorded_at": "2025-11-08T04:31:43.280440+01:00",
+    "raw_valid": true,
+    "song_session_id": "2bec7c37-d947-4499-9590-eb82fa17b585",
+    "duration_ms": 158817,
+    "genre": []
+  },
+  {
+    "song": "Million Good Reasons",
+    "artists": [
+      "Robin Schulz",
+      "Fast Boy"
+    ],
+    "isrc": "DEA622404738",
+    "start_time": "2025-11-08 04:34:44",
+    "radio": "expres",
+    "recorded_at": "2025-11-08T04:35:01.643141+01:00",
+    "raw_valid": true,
+    "song_session_id": "4d28ba4b-6aec-4e90-9374-2b3f9d4ae5b8",
+    "duration_ms": 157130,
+    "genre": []
+  },
+  {
+    "song": "V Modlitbach",
+    "artists": [
+      "Katarina Knechtova"
+    ],
+    "isrc": "SKE431900135",
+    "start_time": "2025-11-08 04:37:19",
+    "radio": "expres",
+    "recorded_at": "2025-11-08T04:37:55.757210+01:00",
+    "raw_valid": true,
+    "song_session_id": "95254c5f-c5bf-4676-9048-8e5a7ea93cda",
+    "duration_ms": 235693,
+    "genre": []
+  },
+  {
+    "song": "Somebody That I Used To Know",
+    "artists": [
+      "Gotye",
+      "Kimbra"
+    ],
+    "isrc": "AUZS21100040",
+    "start_time": "2025-11-08 04:41:11",
+    "radio": "expres",
+    "recorded_at": "2025-11-08T04:41:29.592071+01:00",
+    "raw_valid": true,
+    "song_session_id": "f2e20e32-bae4-41a2-80a0-619cc79b898a",
+    "duration_ms": 245755,
+    "genre": [
+      "trip-hop"
+    ]
+  },
+  {
+    "song": "Co Vsetko Sa Moze Stat",
+    "artists": [
+      "Imt Smile"
+    ],
+    "isrc": "SKA011800060",
+    "start_time": "2025-11-08 04:45:25",
+    "radio": "expres",
+    "recorded_at": "2025-11-08T04:45:53.485276+01:00",
+    "raw_valid": true,
+    "song_session_id": "c33dde9f-ceb0-4459-904b-c89955c49e94",
+    "duration_ms": 189043,
+    "genre": []
+  },
+  {
+    "song": "Save Your Tears",
+    "artists": [
+      "The Weeknd"
+    ],
+    "isrc": "USUG12000658",
+    "start_time": "2025-11-08 04:48:37",
+    "radio": "expres",
+    "recorded_at": "2025-11-08T04:48:57.988218+01:00",
+    "raw_valid": true,
+    "song_session_id": "c28c27e1-845c-4666-84e4-5aa7c9ba0d28",
+    "duration_ms": 215627,
+    "genre": [
+      "trance"
+    ]
+  },
+  {
+    "song": "Medzi Nebom A Zenou",
+    "artists": [
+      "Banket",
+      "Richard Muller",
+      "Ema Muller"
+    ],
+    "isrc": "SKC362500009",
+    "start_time": "2025-11-08 04:52:08",
+    "radio": "expres",
+    "recorded_at": "2025-11-08T04:52:28.701944+01:00",
+    "raw_valid": true,
+    "song_session_id": "64f521a8-dc20-4beb-a437-062975e9ef07",
+    "duration_ms": 228666,
+    "genre": []
+  },
+  {
+    "song": "Co S Tym",
+    "artists": [
+      "Team"
+    ],
+    "isrc": "FRX201742867",
+    "start_time": "2025-11-08 04:56:11",
+    "radio": "expres",
+    "recorded_at": "2025-11-08T04:56:28.273597+01:00",
+    "raw_valid": true,
+    "song_session_id": "f5eab8ee-60e4-427c-873c-779737777e2d",
+    "duration_ms": 313400,
+    "genre": []
+  },
+  {
+    "song": "Be Mine",
+    "artists": [
+      "Kamrad"
+    ],
+    "isrc": "DE1NJ2500035",
+    "start_time": "2025-11-08 05:01:03",
+    "radio": "expres",
+    "recorded_at": "2025-11-08T05:01:27.941045+01:00",
+    "raw_valid": true,
+    "song_session_id": "2de36ca5-0703-49ae-a849-ed8af1194b99",
+    "duration_ms": 156463,
+    "genre": []
+  },
+  {
+    "song": "V Sieti Ta Mam",
+    "artists": [
+      "Kristina"
+    ],
+    "isrc": "SKA011000100",
+    "start_time": "2025-11-08 05:03:52",
+    "radio": "expres",
+    "recorded_at": "2025-11-08T05:04:20.433805+01:00",
+    "raw_valid": true,
+    "song_session_id": "a4dd4cc5-a077-4913-82b4-a1ce0d557909",
+    "duration_ms": 221000,
+    "genre": []
+  },
+  {
+    "song": "By Your Side (In My Mind)",
+    "artists": [
+      "Leony"
+    ],
+    "isrc": "DEN062400804",
+    "start_time": "2025-11-08 05:07:25",
+    "radio": "expres",
+    "recorded_at": "2025-11-08T05:07:48.217227+01:00",
+    "raw_valid": true,
+    "song_session_id": "92db4660-de0a-4645-b95b-219671484c32",
+    "duration_ms": 177148,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Psi Sa Brania Utokom",
+    "artists": [
+      "Peter Nagy",
+      "Jozef Raz"
+    ],
+    "isrc": "SKA128797207",
+    "start_time": "2025-11-08 05:10:26",
+    "radio": "expres",
+    "recorded_at": "2025-11-08T05:10:36.779222+01:00",
+    "raw_valid": true,
+    "song_session_id": "d02c9acf-4bbb-457a-b409-166a8caf7b56",
+    "duration_ms": 208413,
+    "genre": []
+  },
+  {
+    "song": "Narcotic",
+    "artists": [
+      "Liquido"
+    ],
+    "isrc": "DEG129800581",
+    "start_time": "2025-11-08 05:14:00",
+    "radio": "expres",
+    "recorded_at": "2025-11-08T05:14:29.142868+01:00",
+    "raw_valid": true,
+    "song_session_id": "974b59c8-6921-4e50-a086-82542a76d435",
+    "duration_ms": 236150,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Do Neba",
+    "artists": [
+      "Dara Rolins"
+    ],
+    "isrc": "QZYFZ2505251",
+    "start_time": "2025-11-08 05:17:37",
+    "radio": "expres",
+    "recorded_at": "2025-11-08T05:17:53.538755+01:00",
+    "raw_valid": true,
+    "song_session_id": "25c2041c-79ad-4ee6-8297-49014191f496",
+    "duration_ms": 204253,
+    "genre": []
+  },
+  {
+    "song": "All I Know",
+    "artists": [
+      "Rudimental",
+      "Khalid"
+    ],
+    "isrc": "GBARL2500365",
+    "start_time": "2025-11-08 05:21:15",
+    "radio": "expres",
+    "recorded_at": "2025-11-08T05:21:32.211614+01:00",
+    "raw_valid": true,
+    "song_session_id": "f3de62df-f8c2-474d-b11e-a096d07f42f8",
+    "duration_ms": 176046,
+    "genre": []
+  },
+  {
+    "song": "Horuca Laska",
+    "artists": [
+      "Lukas Adamec"
+    ],
+    "isrc": "SKI601700009",
+    "start_time": "2025-11-08 05:24:11",
+    "radio": "expres",
+    "recorded_at": "2025-11-08T05:24:35.714048+01:00",
+    "raw_valid": true,
+    "song_session_id": "f655c6a8-92ed-4753-96cf-f157bc49749d",
+    "duration_ms": 208147,
+    "genre": []
+  },
+  {
+    "song": "Leave Before You Love Me",
+    "artists": [
+      "Marshmello",
+      "Jonas Brothers"
+    ],
+    "isrc": "USUG12102313",
+    "start_time": "2025-11-08 05:27:44",
+    "radio": "expres",
+    "recorded_at": "2025-11-08T05:28:01.248068+01:00",
+    "raw_valid": true,
+    "song_session_id": "0d6c0f57-7d0b-4b82-8936-ee11c53b03ce",
+    "duration_ms": 154983,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Stale Ta Ma Niekto Rad",
+    "artists": [
+      "Peter Bic Project"
+    ],
+    "isrc": "SKCM72511004",
+    "start_time": "2025-11-08 05:30:21",
+    "radio": "expres",
+    "recorded_at": "2025-11-08T05:30:39.062081+01:00",
+    "raw_valid": true,
+    "song_session_id": "8a4b77be-4765-478e-8c5b-d303b6f8420e",
+    "duration_ms": 240845,
+    "genre": []
+  },
+  {
+    "song": "The One",
+    "artists": [
+      "Michael Patrick Kelly"
+    ],
+    "isrc": "DEE862500476",
+    "start_time": "2025-11-08 05:34:08",
+    "radio": "expres",
+    "recorded_at": "2025-11-08T05:34:36.308243+01:00",
+    "raw_valid": true,
+    "song_session_id": "0518cc36-6630-468e-a78c-06782babca40",
+    "duration_ms": 181194,
+    "genre": []
+  },
+  {
+    "song": "Pridaj Sa K Nam (Ked Sme S Vami)",
+    "artists": [
+      "Hex"
+    ],
+    "isrc": "SKC751900101",
+    "start_time": "2025-11-08 05:37:03",
+    "radio": "expres",
+    "recorded_at": "2025-11-08T05:37:29.204011+01:00",
+    "raw_valid": true,
+    "song_session_id": "9482b85b-44d2-42c6-9a3a-2ba1075e17bf",
+    "duration_ms": 212706,
+    "genre": []
+  },
+  {
+    "song": "Hero",
+    "artists": [
+      "Mariah Carey"
+    ],
+    "isrc": "USSM19303171",
+    "start_time": "2025-11-08 05:40:30",
+    "radio": "expres",
+    "recorded_at": "2025-11-08T05:40:55.103991+01:00",
+    "raw_valid": true,
+    "song_session_id": "5d0a992c-dad1-4a72-aebe-a8f3f1dbf944",
+    "duration_ms": 257972,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Skusky Z Lasky",
+    "artists": [
+      "Gravis"
+    ],
+    "isrc": "SKA128912006",
+    "start_time": "2025-11-08 05:44:55",
+    "radio": "expres",
+    "recorded_at": "2025-11-08T05:45:27.727652+01:00",
+    "raw_valid": true,
+    "song_session_id": "f8fbb9a5-93fb-450d-87d1-638300ac79a1",
+    "duration_ms": 245179,
+    "genre": []
+  },
+  {
+    "song": "Afterlife",
+    "artists": [
+      "Michael Schulte"
+    ],
+    "isrc": "DECE72500509",
+    "start_time": "2025-11-08 05:48:37",
+    "radio": "expres",
+    "recorded_at": "2025-11-08T05:49:02.422579+01:00",
+    "raw_valid": true,
+    "song_session_id": "be24a7df-3291-456b-b387-7fdc2e9acf93",
+    "duration_ms": 160120,
+    "genre": []
+  },
+  {
+    "song": "Mam Ta V Hlave",
+    "artists": [
+      "Tina",
+      "Tomi Popovic"
+    ],
+    "isrc": "QZN882073891",
+    "start_time": "2025-11-08 05:51:18",
+    "radio": "expres",
+    "recorded_at": "2025-11-08T05:51:42.732767+01:00",
+    "raw_valid": true,
+    "song_session_id": "4ee11d38-1320-4676-a40a-6da467280396",
+    "duration_ms": 147133,
+    "genre": []
+  },
+  {
+    "song": "Runaway",
+    "artists": [
+      "Onerepublic"
+    ],
+    "isrc": "USUM72304684",
+    "start_time": "2025-11-08 05:55:01",
+    "radio": "expres",
+    "recorded_at": "2025-11-08T05:55:22.431615+01:00",
+    "raw_valid": true,
+    "song_session_id": "c787c61c-e8e5-4eec-a0a4-80f4cbdbd374",
+    "duration_ms": 142693,
+    "genre": []
+  },
+  {
+    "song": "Otec",
+    "artists": [
+      "Para"
+    ],
+    "isrc": "CZA250100830",
+    "start_time": "2025-11-08 05:57:38",
+    "radio": "expres",
+    "recorded_at": "2025-11-08T05:58:05.015897+01:00",
+    "raw_valid": true,
+    "song_session_id": "16ecb229-d6b8-4a5c-abcd-762a9137e687",
+    "duration_ms": 235280,
+    "genre": []
+  }
+]

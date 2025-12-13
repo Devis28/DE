@@ -1,0 +1,407 @@
+[
+  {
+    "station": "Rádio Melody",
+    "title": "Daddy Cool",
+    "artist": "Boney M",
+    "date": "05.11.2025",
+    "time": "12:01",
+    "last_update": "05.11.2025 12:02:34",
+    "recorded_at": "2025-11-05T12:02:34.270631+01:00",
+    "raw_valid": true,
+    "song_session_id": "00b67488-85a3-4ec0-85a8-4c470b5ee37c",
+    "duration_ms": 208600,
+    "genre": [
+      "disco"
+    ]
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Angel",
+    "artist": "Shaggy",
+    "date": "05.11.2025",
+    "time": "12:05",
+    "last_update": "05.11.2025 12:05:18",
+    "recorded_at": "2025-11-05T12:05:18.941191+01:00",
+    "raw_valid": true,
+    "song_session_id": "a4ccf0e5-7ed6-420f-a147-0b27d7be5207",
+    "duration_ms": 235133,
+    "genre": [
+      "reggae"
+    ]
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Loď do neznáma",
+    "artist": "Uherčík, Ďurinda, Griglák, Horváth",
+    "date": "05.11.2025",
+    "time": "12:09",
+    "last_update": "05.11.2025 12:09:21",
+    "recorded_at": "2025-11-05T12:09:21.663173+01:00",
+    "raw_valid": true,
+    "song_session_id": "e0bb3f0c-35f1-47b8-bddc-7735f299bbce",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Sugar Baby Love",
+    "artist": "Rubettes, The",
+    "date": "05.11.2025",
+    "time": "12:14",
+    "last_update": "05.11.2025 12:15:49",
+    "recorded_at": "2025-11-05T12:15:49.875913+01:00",
+    "raw_valid": true,
+    "song_session_id": "a66c7635-9083-4d32-84c1-5089523decda",
+    "duration_ms": 211413,
+    "genre": [
+      "glam rock"
+    ]
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Veselá Pesnička",
+    "artist": "I.M.T. Smile",
+    "date": "05.11.2025",
+    "time": "12:18",
+    "last_update": "05.11.2025 12:18:26",
+    "recorded_at": "2025-11-05T12:18:26.403444+01:00",
+    "raw_valid": true,
+    "song_session_id": "dedb5fd7-9b07-4a3c-9e71-20e21bbf73a4",
+    "duration_ms": 175240,
+    "genre": []
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "I'm So Excited",
+    "artist": "Pointer Sisters, The",
+    "date": "05.11.2025",
+    "time": "12:21",
+    "last_update": "05.11.2025 12:21:43",
+    "recorded_at": "2025-11-05T12:21:43.960867+01:00",
+    "raw_valid": true,
+    "song_session_id": "a73247d7-cbfc-458d-9059-ba85deb086bc",
+    "duration_ms": 230640,
+    "genre": [
+      "disco"
+    ]
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Šiel, Šiel",
+    "artist": "Duchoň Karol",
+    "date": "05.11.2025",
+    "time": "12:25",
+    "last_update": "05.11.2025 12:26:02",
+    "recorded_at": "2025-11-05T12:26:02.419503+01:00",
+    "raw_valid": true,
+    "song_session_id": "ef4ad4e3-cbf9-41e4-95d9-bed51801bcfa",
+    "duration_ms": 208160,
+    "genre": []
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "I've Been Thinking About You",
+    "artist": "Londonbeat",
+    "date": "05.11.2025",
+    "time": "12:28",
+    "last_update": "05.11.2025 12:28:08",
+    "recorded_at": "2025-11-05T12:28:08.911650+01:00",
+    "raw_valid": true,
+    "song_session_id": "2951c20d-1944-4553-a2c9-f22a5b2980ca",
+    "duration_ms": 230066,
+    "genre": [
+      "eurodance"
+    ]
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "V Období Dažďa",
+    "artist": "Gombitová Marika",
+    "date": "05.11.2025",
+    "time": "12:32",
+    "last_update": "05.11.2025 12:32:20",
+    "recorded_at": "2025-11-05T12:32:20.823148+01:00",
+    "raw_valid": true,
+    "song_session_id": "13c269cb-c2ad-4c06-b3d9-427eb63135e9",
+    "duration_ms": 237586,
+    "genre": []
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Hands Up",
+    "artist": "Ottawan",
+    "date": "05.11.2025",
+    "time": "12:36",
+    "last_update": "05.11.2025 12:36:27",
+    "recorded_at": "2025-11-05T12:36:27.749002+01:00",
+    "raw_valid": true,
+    "song_session_id": "1d832c6e-46e2-47ce-91d1-0fceec7c1372",
+    "duration_ms": 208573,
+    "genre": [
+      "disco"
+    ]
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "I'll Stand By You",
+    "artist": "Pretenders, The",
+    "date": "05.11.2025",
+    "time": "12:39",
+    "last_update": "05.11.2025 12:39:37",
+    "recorded_at": "2025-11-05T12:39:37.319031+01:00",
+    "raw_valid": true,
+    "song_session_id": "37a7f336-c651-4ee2-9c6a-37f08350e464",
+    "duration_ms": 240760,
+    "genre": []
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Xanadu",
+    "artist": "Olivia Newton-John And Electric Light Orchestra",
+    "date": "05.11.2025",
+    "time": "12:43",
+    "last_update": "05.11.2025 12:43:18",
+    "recorded_at": "2025-11-05T12:43:18.960764+01:00",
+    "raw_valid": true,
+    "song_session_id": "3af844e9-d594-40e0-8c85-b8e11af75ccf",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "A Ty Se Ptáš Co Já",
+    "artist": "Helena Vondracková",
+    "date": "05.11.2025",
+    "time": "12:46",
+    "last_update": "05.11.2025 12:48:33",
+    "recorded_at": "2025-11-05T12:48:33.489580+01:00",
+    "raw_valid": true,
+    "song_session_id": "61ee193a-c544-495b-acab-1e05e5fd58dd",
+    "duration_ms": 267066,
+    "genre": []
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Láska Je Tu S Nami",
+    "artist": "Peter Nagy",
+    "date": "05.11.2025",
+    "time": "12:50",
+    "last_update": "05.11.2025 12:50:43",
+    "recorded_at": "2025-11-05T12:50:43.482573+01:00",
+    "raw_valid": true,
+    "song_session_id": "10e719c9-1a30-4e31-9aee-62cfc8fe35c5",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Dreams",
+    "artist": "The Cranberries",
+    "date": "05.11.2025",
+    "time": "12:54",
+    "last_update": "05.11.2025 12:55:22",
+    "recorded_at": "2025-11-05T12:55:22.365295+01:00",
+    "raw_valid": true,
+    "song_session_id": "aedf674d-c6df-48d9-9c30-633de46cb96c",
+    "duration_ms": 271560,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Désenchantee",
+    "artist": "Farmer Mylene",
+    "date": "05.11.2025",
+    "time": "13:01",
+    "last_update": "05.11.2025 13:02:10",
+    "recorded_at": "2025-11-05T13:02:10.121940+01:00",
+    "raw_valid": true,
+    "song_session_id": "e2fb52fe-3b21-4291-b1d2-fd80901e841d",
+    "duration_ms": 322760,
+    "genre": [
+      "variété française"
+    ]
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Tornero",
+    "artist": "I Santo California",
+    "date": "05.11.2025",
+    "time": "13:06",
+    "last_update": "05.11.2025 13:07:21",
+    "recorded_at": "2025-11-05T13:07:21.079658+01:00",
+    "raw_valid": true,
+    "song_session_id": "d8323c49-b8b0-453d-95aa-d9aebcde94ba",
+    "duration_ms": 241395,
+    "genre": [
+      "italo dance"
+    ]
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Dievča Neplač",
+    "artist": "Brezovská Mirka",
+    "date": "05.11.2025",
+    "time": "13:09",
+    "last_update": "05.11.2025 13:10:25",
+    "recorded_at": "2025-11-05T13:10:25.515519+01:00",
+    "raw_valid": true,
+    "song_session_id": "498a6989-e2bf-4dd1-bb75-dd76bb4ff025",
+    "duration_ms": 161142,
+    "genre": []
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Povedzme",
+    "artist": "Grigorov Robo",
+    "date": "05.11.2025",
+    "time": "13:14",
+    "last_update": "05.11.2025 13:15:38",
+    "recorded_at": "2025-11-05T13:15:38.192687+01:00",
+    "raw_valid": true,
+    "song_session_id": "7ac16a84-b039-48e1-8f26-e13079b65c86",
+    "duration_ms": 294013,
+    "genre": []
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "It's A Heartache",
+    "artist": "Bonnie Tyler",
+    "date": "05.11.2025",
+    "time": "13:17",
+    "last_update": "05.11.2025 13:18:13",
+    "recorded_at": "2025-11-05T13:18:13.445917+01:00",
+    "raw_valid": true,
+    "song_session_id": "bed80ae3-5eac-4917-9c42-957f707461a0",
+    "duration_ms": 215160,
+    "genre": []
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Taliansky Muzikál",
+    "artist": "Júlia a Peter Hečkovci",
+    "date": "05.11.2025",
+    "time": "13:21",
+    "last_update": "05.11.2025 13:22:27",
+    "recorded_at": "2025-11-05T13:22:27.787917+01:00",
+    "raw_valid": true,
+    "song_session_id": "25993d0e-7751-4b10-9054-5969cf4ba228",
+    "duration_ms": 164771,
+    "genre": []
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Bed Of Roses",
+    "artist": "Bon Jovi",
+    "date": "05.11.2025",
+    "time": "13:24",
+    "last_update": "05.11.2025 13:25:47",
+    "recorded_at": "2025-11-05T13:25:47.880965+01:00",
+    "raw_valid": true,
+    "song_session_id": "2a2c3284-8c1f-4608-8473-9a325f0b32a4",
+    "duration_ms": 394400,
+    "genre": [
+      "glam metal"
+    ]
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Sun Of The Jamaica",
+    "artist": "The Goombay Dance Band",
+    "date": "05.11.2025",
+    "time": "13:30",
+    "last_update": "05.11.2025 13:31:31",
+    "recorded_at": "2025-11-05T13:31:31.758488+01:00",
+    "raw_valid": true,
+    "song_session_id": "80d11171-1db5-43c8-bcd4-fe15e02cf160",
+    "duration_ms": 268116,
+    "genre": []
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "The Look",
+    "artist": "Roxette",
+    "date": "05.11.2025",
+    "time": "13:34",
+    "last_update": "05.11.2025 13:35:40",
+    "recorded_at": "2025-11-05T13:35:40.994348+01:00",
+    "raw_valid": true,
+    "song_session_id": "567f74fe-a98a-4028-9b0e-95fdc39635e5",
+    "duration_ms": 237320,
+    "genre": [
+      "swedish pop"
+    ]
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Anjel",
+    "artist": "Maduar",
+    "date": "05.11.2025",
+    "time": "13:38",
+    "last_update": "05.11.2025 13:39:20",
+    "recorded_at": "2025-11-05T13:39:20.437420+01:00",
+    "raw_valid": true,
+    "song_session_id": "4f01b979-d3e9-4f1b-b2a3-4c33c6bbbd2e",
+    "duration_ms": 336770,
+    "genre": [
+      "eurodance"
+    ]
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Lady Carneval",
+    "artist": "Gott Karel",
+    "date": "05.11.2025",
+    "time": "13:43",
+    "last_update": "05.11.2025 13:44:28",
+    "recorded_at": "2025-11-05T13:44:28.815799+01:00",
+    "raw_valid": true,
+    "song_session_id": "87fd20ba-d5f7-4a6b-9b61-1cb251df29db",
+    "duration_ms": 180306,
+    "genre": [
+      "schlager"
+    ]
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "The Tide Is High",
+    "artist": "Blondie",
+    "date": "05.11.2025",
+    "time": "13:47",
+    "last_update": "05.11.2025 13:48:36",
+    "recorded_at": "2025-11-05T13:48:36.363866+01:00",
+    "raw_valid": true,
+    "song_session_id": "5b707c8d-960f-47d4-a4de-6fa34d94eb24",
+    "duration_ms": 233893,
+    "genre": []
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Co Bolí To Přebolí",
+    "artist": "Zbirka Miro & Martha",
+    "date": "05.11.2025",
+    "time": "13:51",
+    "last_update": "05.11.2025 13:52:14",
+    "recorded_at": "2025-11-05T13:52:14.191098+01:00",
+    "raw_valid": true,
+    "song_session_id": "317b2f86-9596-4836-bcd9-7a2c7f3bb401",
+    "duration_ms": 203680,
+    "genre": []
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Maniac",
+    "artist": "Michael Sembello",
+    "date": "05.11.2025",
+    "time": "13:54",
+    "last_update": "05.11.2025 13:55:21",
+    "recorded_at": "2025-11-05T13:55:21.438063+01:00",
+    "raw_valid": true,
+    "song_session_id": "a5a54078-a14d-46ab-87b4-aa929f5682d2",
+    "duration_ms": 246000,
+    "genre": [
+      "pop"
+    ]
+  }
+]

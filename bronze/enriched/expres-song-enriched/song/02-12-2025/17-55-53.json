@@ -1,0 +1,393 @@
+[
+  {
+    "song": "Be Mine",
+    "artists": [
+      "Kamrad"
+    ],
+    "isrc": "DE1NJ2500035",
+    "start_time": "2025-12-02 17:12:25",
+    "radio": "expres",
+    "recorded_at": "2025-12-02T17:12:35.129109+01:00",
+    "raw_valid": true,
+    "song_session_id": "3c6ff03b-decc-442f-806f-9453c8275988",
+    "duration_ms": 156463,
+    "genre": []
+  },
+  {
+    "song": "Hero",
+    "artists": [
+      "Chad Kroeger",
+      "Josey Scott"
+    ],
+    "isrc": "NLA320219756",
+    "start_time": "2025-12-02 17:15:03",
+    "radio": "expres",
+    "recorded_at": "2025-12-02T17:15:17.590341+01:00",
+    "raw_valid": true,
+    "song_session_id": "cf6255c2-18cf-4a8b-933b-639a03f2f596",
+    "duration_ms": 200480,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Vsetko Bude Dobre",
+    "artists": [
+      "Gladiator"
+    ],
+    "isrc": "SKCM72560001",
+    "start_time": "2025-12-02 17:18:09",
+    "radio": "expres",
+    "recorded_at": "2025-12-02T17:18:20.535717+01:00",
+    "raw_valid": true,
+    "song_session_id": "ad25da0f-9a8f-4904-a63e-9e8418ba7459",
+    "duration_ms": 166588,
+    "genre": []
+  },
+  {
+    "song": "Without You",
+    "artists": [
+      "David Guetta",
+      "Usher"
+    ],
+    "isrc": "GB28K1100030",
+    "start_time": "2025-12-02 17:21:20",
+    "radio": "expres",
+    "recorded_at": "2025-12-02T17:21:38.332290+01:00",
+    "raw_valid": true,
+    "song_session_id": "78bd2daa-6855-4b40-a265-e18464096b8c",
+    "duration_ms": 208133,
+    "genre": [
+      "electronic"
+    ]
+  },
+  {
+    "song": "Bad Dreams",
+    "artists": [
+      "Teddy Swims"
+    ],
+    "isrc": "USWB12403749",
+    "start_time": "2025-12-02 17:24:48",
+    "radio": "expres",
+    "recorded_at": "2025-12-02T17:25:01.286257+01:00",
+    "raw_valid": true,
+    "song_session_id": "332539da-9703-4d4a-9847-b6aefda0e3ba",
+    "duration_ms": 184577,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "The One",
+    "artists": [
+      "Michael Patrick Kelly"
+    ],
+    "isrc": "DEE862500476",
+    "start_time": "2025-12-02 17:32:13",
+    "radio": "expres",
+    "recorded_at": "2025-12-02T17:32:32.229074+01:00",
+    "raw_valid": true,
+    "song_session_id": "1e6133f7-3dd0-4c3b-afc4-be431b7a155a",
+    "duration_ms": 181194,
+    "genre": []
+  },
+  {
+    "song": "Losing My Religion",
+    "artists": [
+      "R.e.m."
+    ],
+    "isrc": "USC4R1605373",
+    "start_time": "2025-12-02 17:35:09",
+    "radio": "expres",
+    "recorded_at": "2025-12-02T17:35:29.898419+01:00",
+    "raw_valid": true,
+    "song_session_id": "e280e405-594a-4404-92c2-8a8a10872d94",
+    "duration_ms": 268426,
+    "genre": [
+      "alternative rock"
+    ]
+  },
+  {
+    "song": "Head Above Water",
+    "artists": [
+      "Twocolors",
+      "Safri Duo",
+      "Chris De Sarandy"
+    ],
+    "isrc": "DEUM72503698",
+    "start_time": "2025-12-02 17:39:44",
+    "radio": "expres",
+    "recorded_at": "2025-12-02T17:39:53.817550+01:00",
+    "raw_valid": true,
+    "song_session_id": "d6dc20a4-d4c0-4d30-b108-599cd13a7f40",
+    "duration_ms": 174550,
+    "genre": []
+  },
+  {
+    "song": "Bad Habits",
+    "artists": [
+      "Ed Sheeran"
+    ],
+    "isrc": "GBAHS2100318",
+    "start_time": "2025-12-02 17:42:36",
+    "radio": "expres",
+    "recorded_at": "2025-12-02T17:42:56.445936+01:00",
+    "raw_valid": true,
+    "song_session_id": "961e44e0-0372-4366-b2e6-8b12682fd972",
+    "duration_ms": 230746,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Eye Of The Tiger",
+    "artists": [
+      "Survivor"
+    ],
+    "isrc": "USVR19300001",
+    "start_time": "2025-12-02 17:46:27",
+    "radio": "expres",
+    "recorded_at": "2025-12-02T17:46:34.622295+01:00",
+    "raw_valid": true,
+    "song_session_id": "591b64be-2b40-41d2-bfa9-a78c44a8fae4",
+    "duration_ms": 246080,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Na Vianoce Domov",
+    "artists": [
+      "Alan Murin",
+      "Radio Expres"
+    ],
+    "isrc": "QZYFZ2540500",
+    "start_time": "2025-12-02 17:51:08",
+    "radio": "expres",
+    "recorded_at": "2025-12-02T17:51:18.597985+01:00",
+    "raw_valid": true,
+    "song_session_id": "eeec7440-0cb3-4c69-a27e-94cace4b5460",
+    "duration_ms": 240000,
+    "genre": []
+  },
+  {
+    "song": "Hymn For The Weekend",
+    "artists": [
+      "Coldplay",
+      "Beyonce"
+    ],
+    "isrc": "GBAYE1500979",
+    "start_time": "2025-12-02 17:55:03",
+    "radio": "expres",
+    "recorded_at": "2025-12-02T17:55:17.438249+01:00",
+    "raw_valid": true,
+    "song_session_id": "53341671-a5cc-4dfb-9c0b-1dd149370c1b",
+    "duration_ms": 258265,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Wonderful Life 25",
+    "artists": [
+      "Hurts",
+      "Purple Disco Machine"
+    ],
+    "isrc": "DEE862500677",
+    "start_time": "2025-12-02 18:07:12",
+    "radio": "expres",
+    "recorded_at": "2025-12-02T18:07:21.790163+01:00",
+    "raw_valid": true,
+    "song_session_id": "34276b45-e079-49b0-ac9c-e1db915bd706",
+    "duration_ms": 178658,
+    "genre": []
+  },
+  {
+    "song": "The Unforgiven",
+    "artists": [
+      "Metallica"
+    ],
+    "isrc": "QMKHM1900004",
+    "start_time": "2025-12-02 18:10:13",
+    "radio": "expres",
+    "recorded_at": "2025-12-02T18:10:19.538839+01:00",
+    "raw_valid": true,
+    "song_session_id": "5aceef14-7df6-472c-93a2-e2b57e9e8dc6",
+    "duration_ms": 382880,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Golden",
+    "artists": [
+      "Kpop Demon Hunters"
+    ],
+    "isrc": "QZ8BZ2513510",
+    "start_time": "2025-12-02 18:13:33",
+    "radio": "expres",
+    "recorded_at": "2025-12-02T18:13:42.488598+01:00",
+    "raw_valid": true,
+    "song_session_id": "9ab4f7c1-cfed-4a49-91c1-02fa79cfc556",
+    "duration_ms": 194607,
+    "genre": [
+      "korean"
+    ]
+  },
+  {
+    "song": "Stressed Out",
+    "artists": [
+      "Twenty One Pilots"
+    ],
+    "isrc": "USAT21500597",
+    "start_time": "2025-12-02 18:16:16",
+    "radio": "expres",
+    "recorded_at": "2025-12-02T18:16:40.090787+01:00",
+    "raw_valid": true,
+    "song_session_id": "b9b100ce-080b-4b21-990b-7a44060371bd",
+    "duration_ms": 202333,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Mam V Pazi Na Lehatku",
+    "artists": [
+      "Horkyze Slize"
+    ],
+    "isrc": null,
+    "start_time": "2025-12-02 18:19:34",
+    "radio": "expres",
+    "recorded_at": "2025-12-02T18:19:43.077760+01:00",
+    "raw_valid": true,
+    "song_session_id": "da58daec-ffcc-4603-852f-62a75243ffa8"
+  },
+  {
+    "song": "Espresso",
+    "artists": [
+      "Sabrina Carpenter"
+    ],
+    "isrc": "USUM72403305",
+    "start_time": "2025-12-02 18:21:26",
+    "radio": "expres",
+    "recorded_at": "2025-12-02T18:21:45.102740+01:00",
+    "raw_valid": true,
+    "song_session_id": "71c238b6-874d-4532-8320-453d78b685fb",
+    "duration_ms": 175453,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Blood Running",
+    "artists": [
+      "Ray Dalton"
+    ],
+    "isrc": "DEUM72507812",
+    "start_time": "2025-12-02 18:24:17",
+    "radio": "expres",
+    "recorded_at": "2025-12-02T18:24:27.582414+01:00",
+    "raw_valid": true,
+    "song_session_id": "2870e1d3-8213-4f93-8e15-f7722a49baf6",
+    "duration_ms": 173146,
+    "genre": []
+  },
+  {
+    "song": "Mystical Magical",
+    "artists": [
+      "Benson Boone"
+    ],
+    "isrc": "USWB12500844",
+    "start_time": "2025-12-02 18:34:09",
+    "radio": "expres",
+    "recorded_at": "2025-12-02T18:34:25.587044+01:00",
+    "raw_valid": true,
+    "song_session_id": "ec80d930-00c4-4da7-bf7a-bd8b17ab597f",
+    "duration_ms": 165746,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Spending My Time",
+    "artists": [
+      "Roxette"
+    ],
+    "isrc": "SEAMA9079050",
+    "start_time": "2025-12-02 18:36:49",
+    "radio": "expres",
+    "recorded_at": "2025-12-02T18:37:07.978898+01:00",
+    "raw_valid": true,
+    "song_session_id": "813b202c-3d9f-4321-b862-f377f1c388cb",
+    "duration_ms": 275666,
+    "genre": [
+      "swedish pop"
+    ]
+  },
+  {
+    "song": "Runaway",
+    "artists": [
+      "Onerepublic"
+    ],
+    "isrc": "USUM72304684",
+    "start_time": "2025-12-02 18:41:21",
+    "radio": "expres",
+    "recorded_at": "2025-12-02T18:41:31.732713+01:00",
+    "raw_valid": true,
+    "song_session_id": "93fe2235-ea1f-4c4e-a76c-cd8b0a00a6ad",
+    "duration_ms": 142693,
+    "genre": [
+      "soft pop"
+    ]
+  },
+  {
+    "song": "Gone Gone Gone",
+    "artists": [
+      "David Guetta",
+      "Teddy Swims",
+      "Tones And I"
+    ],
+    "isrc": "UKWLG2500132",
+    "start_time": "2025-12-02 18:43:41",
+    "radio": "expres",
+    "recorded_at": "2025-12-02T18:43:48.818443+01:00",
+    "raw_valid": true,
+    "song_session_id": "d06c875a-7ef2-4957-92ef-2d963dd9c0a1",
+    "duration_ms": 198004,
+    "genre": [
+      "soul"
+    ]
+  },
+  {
+    "song": "I Want To Break Free",
+    "artists": [
+      "Queen"
+    ],
+    "isrc": "GBUM71805978",
+    "start_time": "2025-12-02 18:47:24",
+    "radio": "expres",
+    "recorded_at": "2025-12-02T18:47:52.314944+01:00",
+    "raw_valid": true,
+    "song_session_id": "07b3b59b-efca-414e-987a-9d332f1c4036",
+    "duration_ms": 223080,
+    "genre": [
+      "arena rock"
+    ]
+  },
+  {
+    "song": "The Sound Of Silence",
+    "artists": [
+      "Disturbed"
+    ],
+    "isrc": "USRE12400063",
+    "start_time": "2025-12-02 18:52:43",
+    "radio": "expres",
+    "recorded_at": "2025-12-02T18:52:51.765637+01:00",
+    "raw_valid": true,
+    "song_session_id": "3acf84a0-ae77-4de7-974a-5228d966c7c2",
+    "duration_ms": 185238,
+    "genre": [
+      "metal"
+    ]
+  }
+]

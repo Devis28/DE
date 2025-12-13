@@ -1,0 +1,416 @@
+[
+  {
+    "last_update": "2025-12-10 14:04:11",
+    "song": {
+      "musicAuthor": "Tate Mcrae",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485196e4cfdd4c3aa8088685b262",
+      "musicTitle": "Just Keep Watching",
+      "radio": "Fun Rádio",
+      "startTime": "15:03"
+    },
+    "recorded_at": "2025-12-10T15:04:11.568517+01:00",
+    "raw_valid": true,
+    "song_session_id": "a9155885-1c1a-4348-9b0c-9424f50704f7",
+    "duration_ms": 142550,
+    "genre": []
+  },
+  {
+    "last_update": "2025-12-10 14:06:10",
+    "song": {
+      "musicAuthor": "Gracie Abrams",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048511dac3694b3289cd903cb3acf",
+      "musicTitle": "That's So True",
+      "radio": "Fun Rádio",
+      "startTime": "15:05"
+    },
+    "recorded_at": "2025-12-10T15:06:11.702779+01:00",
+    "raw_valid": true,
+    "song_session_id": "a77ef66f-25ef-473c-b81b-9303e066cdc7",
+    "duration_ms": 166300,
+    "genre": []
+  },
+  {
+    "last_update": "2025-12-10 14:09:11",
+    "song": {
+      "musicAuthor": "Khaled",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851c31b0a8edee86af79c6c71e0",
+      "musicTitle": "C'est La Vie",
+      "radio": "Fun Rádio",
+      "startTime": "15:08"
+    },
+    "recorded_at": "2025-12-10T15:09:11.877369+01:00",
+    "raw_valid": true,
+    "song_session_id": "8da832b7-3969-4295-b289-dff6a2213752",
+    "duration_ms": 225751,
+    "genre": []
+  },
+  {
+    "last_update": "2025-12-10 14:15:11",
+    "song": {
+      "musicAuthor": "Ravyn Lenae",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048515511ceaa955a2bfd9ae90c21",
+      "musicTitle": "Love Me Not",
+      "radio": "Fun Rádio",
+      "startTime": "15:14"
+    },
+    "recorded_at": "2025-12-10T15:15:12.243326+01:00",
+    "raw_valid": true,
+    "song_session_id": "11bbffc6-2e90-4790-9378-bcb86e7e0067",
+    "duration_ms": 213466,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "last_update": "2025-12-10 14:22:11",
+    "song": {
+      "musicAuthor": "Michael Bublé",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851119e4094f07a8123b471ac1d",
+      "musicTitle": "Holly Jolly Christmas",
+      "radio": "Fun Rádio",
+      "startTime": "15:21"
+    },
+    "recorded_at": "2025-12-10T15:22:12.725167+01:00",
+    "raw_valid": true,
+    "song_session_id": "dcfe1d2e-14ac-4b7d-90a2-d49670358c92",
+    "duration_ms": 121526,
+    "genre": []
+  },
+  {
+    "last_update": "2025-12-10 14:24:12",
+    "song": {
+      "musicAuthor": "Felix Jaehn & Jhart",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851ffac2a8ae059b046b4bfd4c2",
+      "musicTitle": "Pride",
+      "radio": "Fun Rádio",
+      "startTime": "15:24"
+    },
+    "recorded_at": "2025-12-10T15:24:12.839478+01:00",
+    "raw_valid": true,
+    "song_session_id": "fa3ec463-65e6-485a-9628-cb457822fc2d",
+    "duration_ms": 158150,
+    "genre": []
+  },
+  {
+    "last_update": "2025-12-10 14:32:13",
+    "song": {
+      "musicAuthor": "Lady Gaga",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485125304f6dc9dea023ce4b985c",
+      "musicTitle": "Abracadabra",
+      "radio": "Fun Rádio",
+      "startTime": "15:31"
+    },
+    "recorded_at": "2025-12-10T15:32:13.330093+01:00",
+    "raw_valid": true,
+    "song_session_id": "db1ae175-9bd7-4251-b6ff-61febe2cb71b",
+    "duration_ms": 223398,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "last_update": "2025-12-10 14:35:12",
+    "song": {
+      "musicAuthor": "Michael Patrick Kelly",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048518e343a3bae0daf062bcb5c88",
+      "musicTitle": "The One",
+      "radio": "Fun Rádio",
+      "startTime": "15:34"
+    },
+    "recorded_at": "2025-12-10T15:35:13.518844+01:00",
+    "raw_valid": true,
+    "song_session_id": "e0005a98-9c44-46d2-97ca-9e32c999b3cb",
+    "duration_ms": 181194,
+    "genre": []
+  },
+  {
+    "last_update": "2025-12-10 14:38:13",
+    "song": {
+      "musicAuthor": "Katseye",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048511f50fc82d780d1d935bbddd7",
+      "musicTitle": "Gabriela",
+      "radio": "Fun Rádio",
+      "startTime": "15:37"
+    },
+    "recorded_at": "2025-12-10T15:38:13.702868+01:00",
+    "raw_valid": true,
+    "song_session_id": "17b9ce33-6954-43b7-ad4f-f2f8d38caa71",
+    "duration_ms": 197226,
+    "genre": [
+      "latin"
+    ]
+  },
+  {
+    "last_update": "2025-12-10 14:43:13",
+    "song": {
+      "musicAuthor": "Marshmello, Ellie Goulding, Avaion",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851f53c405da586d53a5592624d",
+      "musicTitle": "Save My Love",
+      "radio": "Fun Rádio",
+      "startTime": "15:42"
+    },
+    "recorded_at": "2025-12-10T15:43:13.998925+01:00",
+    "raw_valid": true,
+    "song_session_id": "a1bf2981-42e5-48f5-8c11-75c60b2832fd",
+    "duration_ms": 215555,
+    "genre": []
+  },
+  {
+    "last_update": "2025-12-10 14:49:13",
+    "song": {
+      "musicAuthor": "Linkin Park",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851e2f039481babe23658fc719a",
+      "musicTitle": "In The End",
+      "radio": "Fun Rádio",
+      "startTime": "15:48"
+    },
+    "recorded_at": "2025-12-10T15:49:14.447260+01:00",
+    "raw_valid": true,
+    "song_session_id": "72145c99-c5b9-4a9d-a56e-c2197559e749",
+    "duration_ms": 216880,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "last_update": "2025-12-10 14:53:14",
+    "song": {
+      "musicAuthor": "Disco Lines & Tinashe",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485169aa159daad3e671c749f4c5",
+      "musicTitle": "No Broke Boys",
+      "radio": "Fun Rádio",
+      "startTime": "15:52"
+    },
+    "recorded_at": "2025-12-10T15:53:14.764777+01:00",
+    "raw_valid": true,
+    "song_session_id": "964df01b-12e5-4c9c-b2e3-63c9b812c8e2",
+    "duration_ms": 163994,
+    "genre": []
+  },
+  {
+    "last_update": "2025-12-10 15:03:14",
+    "song": {
+      "musicAuthor": "Benson Boone",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485155bf59fe2cd3437613d031c7",
+      "musicTitle": "Sorry I'm Here For Someone Else",
+      "radio": "Fun Rádio",
+      "startTime": "16:02"
+    },
+    "recorded_at": "2025-12-10T16:03:15.452124+01:00",
+    "raw_valid": true,
+    "song_session_id": "8da94b34-d64e-4f73-8af9-a7200bf01a55",
+    "duration_ms": 156582,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "last_update": "2025-12-10 15:05:15",
+    "song": {
+      "musicAuthor": "Ed Sheeran",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048516fbb60d6a7e03ccb940a518e",
+      "musicTitle": "Sapphire",
+      "radio": "Fun Rádio",
+      "startTime": "16:04"
+    },
+    "recorded_at": "2025-12-10T16:05:15.589734+01:00",
+    "raw_valid": true,
+    "song_session_id": "08b264d9-1ca2-48f4-9d71-bbe1831266da",
+    "duration_ms": 179082,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "last_update": "2025-12-10 15:08:14",
+    "song": {
+      "musicAuthor": "Swedish House Mafia",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851dce44c98c297401176d580b3",
+      "musicTitle": "Wait So Long",
+      "radio": "Fun Rádio",
+      "startTime": "16:07"
+    },
+    "recorded_at": "2025-12-10T16:08:15.774891+01:00",
+    "raw_valid": true,
+    "song_session_id": "298fe184-bc3d-41f1-b0d0-a9c85470a147",
+    "duration_ms": 199479,
+    "genre": []
+  },
+  {
+    "last_update": "2025-12-10 15:13:15",
+    "song": {
+      "musicAuthor": "Dj Snake & Bipolar Sunshine",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048511c78b099b9129b2d48146653",
+      "musicTitle": "Paradise",
+      "radio": "Fun Rádio",
+      "startTime": "16:12"
+    },
+    "recorded_at": "2025-12-10T16:13:16.094426+01:00",
+    "raw_valid": true,
+    "song_session_id": "063758b9-641d-4ca3-8f80-c2e184242a24",
+    "duration_ms": 200000,
+    "genre": []
+  },
+  {
+    "last_update": "2025-12-10 15:17:15",
+    "song": {
+      "musicAuthor": "Chris Rea",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048519c8d257b1af6187595e7c087",
+      "musicTitle": "Driving Home For Christmas",
+      "radio": "Fun Rádio",
+      "startTime": "16:16"
+    },
+    "recorded_at": "2025-12-10T16:17:16.372366+01:00",
+    "raw_valid": true,
+    "song_session_id": "dfebd956-d337-4d96-887e-45490fbe0bd3",
+    "duration_ms": 240213,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "last_update": "2025-12-10 15:21:16",
+    "song": {
+      "musicAuthor": "Mal & Call Dominika",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851128fb71f5399e0491f95d45b",
+      "musicTitle": "Fire In Your Eyes",
+      "radio": "Fun Rádio",
+      "startTime": "16:21"
+    },
+    "recorded_at": "2025-12-10T16:21:16.707783+01:00",
+    "raw_valid": true,
+    "song_session_id": "164bef31-1242-4c44-82ae-2bdae5ecac5f",
+    "duration_ms": 106600,
+    "genre": []
+  },
+  {
+    "last_update": "2025-12-10 15:23:16",
+    "song": {
+      "musicAuthor": "Imagine Dragons & JID",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851aa597e50829169e6994eb403",
+      "musicTitle": "Enemy",
+      "radio": "Fun Rádio",
+      "startTime": "16:22"
+    },
+    "recorded_at": "2025-12-10T16:23:16.845503+01:00",
+    "raw_valid": true,
+    "song_session_id": "813575c8-312d-40ec-919b-5618c439e6eb",
+    "duration_ms": 173381,
+    "genre": []
+  },
+  {
+    "last_update": "2025-12-10 15:31:17",
+    "song": {
+      "musicAuthor": "Martin Garrix & Lauv",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048515c0e5abe73559c2de9d2eee0",
+      "musicTitle": "Mad",
+      "radio": "Fun Rádio",
+      "startTime": "16:30"
+    },
+    "recorded_at": "2025-12-10T16:31:17.454324+01:00",
+    "raw_valid": true,
+    "song_session_id": "0b992f06-ec94-4511-8d14-aadf45e7a318",
+    "duration_ms": 199804,
+    "genre": []
+  },
+  {
+    "last_update": "2025-12-10 15:35:16",
+    "song": {
+      "musicAuthor": "Panic! At The Disco",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851c5148520a59be191eea16989",
+      "musicTitle": "High Hopes",
+      "radio": "Fun Rádio",
+      "startTime": "16:34"
+    },
+    "recorded_at": "2025-12-10T16:35:17.788003+01:00",
+    "raw_valid": true,
+    "song_session_id": "25186340-2198-4de5-9caa-ac3bf12414dc",
+    "duration_ms": 190946,
+    "genre": [
+      "alternative"
+    ]
+  },
+  {
+    "last_update": "2025-12-10 15:38:17",
+    "song": {
+      "musicAuthor": "Taylor Swift",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851d7812467811a7da6e6a44902",
+      "musicTitle": "The Fate Of Ophelia",
+      "radio": "Fun Rádio",
+      "startTime": "16:37"
+    },
+    "recorded_at": "2025-12-10T16:38:18.025788+01:00",
+    "raw_valid": true,
+    "song_session_id": "18150283-8fa6-4125-8d9c-3dc6eb46a3c6",
+    "duration_ms": 226073,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "last_update": "2025-12-10 15:44:17",
+    "song": {
+      "musicAuthor": "Lost Frequencies",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048518d7a7f1855b04104ba59c18b",
+      "musicTitle": "The Feeling",
+      "radio": "Fun Rádio",
+      "startTime": "16:43"
+    },
+    "recorded_at": "2025-12-10T16:44:18.654354+01:00",
+    "raw_valid": true,
+    "song_session_id": "792bb989-2355-4c9e-8fe6-4d8bdc40ab82",
+    "duration_ms": 154386,
+    "genre": []
+  },
+  {
+    "last_update": "2025-12-10 15:47:18",
+    "song": {
+      "musicAuthor": "Miley Cyrus",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851309dc809182edea19bcf268d",
+      "musicTitle": "Easy Lover",
+      "radio": "Fun Rádio",
+      "startTime": "16:46"
+    },
+    "recorded_at": "2025-12-10T16:47:18.857766+01:00",
+    "raw_valid": true,
+    "song_session_id": "ea06e63b-2b98-4e4d-a902-ebfa9f2058a0",
+    "duration_ms": 186639,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "last_update": "2025-12-10 15:51:18",
+    "song": {
+      "musicAuthor": "Pitbull & Ne-Yo",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048511e340d1480e7bb29a45e3bd7",
+      "musicTitle": "Time Of Our Lives",
+      "radio": "Fun Rádio",
+      "startTime": "16:50"
+    },
+    "recorded_at": "2025-12-10T16:51:19.167981+01:00",
+    "raw_valid": true,
+    "song_session_id": "bf80c76a-acbd-4e2c-bcc8-8861dd350a08",
+    "duration_ms": 229358,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "last_update": "2025-12-10 15:54:19",
+    "song": {
+      "musicAuthor": "Dua Lipa",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851ee2b330471d2bdd56ff22ccd",
+      "musicTitle": "Training Season",
+      "radio": "Fun Rádio",
+      "startTime": "16:54"
+    },
+    "recorded_at": "2025-12-10T16:54:19.356514+01:00",
+    "raw_valid": true,
+    "song_session_id": "120c3409-ca59-4040-b421-7511c70eb3e6",
+    "duration_ms": 209487,
+    "genre": [
+      "pop"
+    ]
+  }
+]

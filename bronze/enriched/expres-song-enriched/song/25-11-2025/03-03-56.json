@@ -1,0 +1,524 @@
+[
+  {
+    "song": "Ja Viem",
+    "artists": [
+      "Robo Grigorov"
+    ],
+    "isrc": "CZA210800942",
+    "start_time": "2025-11-25 02:05:34",
+    "radio": "expres",
+    "recorded_at": "2025-11-25T02:06:06.696207+01:00",
+    "raw_valid": true,
+    "song_session_id": "a0a6cb02-375d-4861-a5fe-bf978ecdfc11",
+    "duration_ms": 209426,
+    "genre": []
+  },
+  {
+    "song": "The One",
+    "artists": [
+      "Michael Patrick Kelly"
+    ],
+    "isrc": "DEE862500476",
+    "start_time": "2025-11-25 02:09:01",
+    "radio": "expres",
+    "recorded_at": "2025-11-25T02:09:41.185491+01:00",
+    "raw_valid": true,
+    "song_session_id": "7d8e5441-e4cf-40de-9542-76318b561539",
+    "duration_ms": 181194,
+    "genre": []
+  },
+  {
+    "song": "V Tichu",
+    "artists": [
+      "Katarina Knechtova"
+    ],
+    "isrc": "CZUM70800919",
+    "start_time": "2025-11-25 02:12:03",
+    "radio": "expres",
+    "recorded_at": "2025-11-25T02:12:22.439435+01:00",
+    "raw_valid": true,
+    "song_session_id": "d629ca7c-2719-4ddc-ac62-ebbf1564f75f",
+    "duration_ms": 212306,
+    "genre": []
+  },
+  {
+    "song": "Ka Ching",
+    "artists": [
+      "Shania Twain"
+    ],
+    "isrc": "USMR10200404",
+    "start_time": "2025-11-25 02:15:22",
+    "radio": "expres",
+    "recorded_at": "2025-11-25T02:15:40.728305+01:00",
+    "raw_valid": true,
+    "song_session_id": "e3d0d101-b67b-41d6-a244-9dc96a1212ab",
+    "duration_ms": 200466,
+    "genre": [
+      "country"
+    ]
+  },
+  {
+    "song": "Stramak",
+    "artists": [
+      "Polemic",
+      "Matej Ruppert"
+    ],
+    "isrc": "SKB812300421",
+    "start_time": "2025-11-25 02:18:45",
+    "radio": "expres",
+    "recorded_at": "2025-11-25T02:19:08.432985+01:00",
+    "raw_valid": true,
+    "song_session_id": "5c263381-3c67-40fb-bdf9-73a9dcb95d2c",
+    "duration_ms": 201960,
+    "genre": []
+  },
+  {
+    "song": "Golden",
+    "artists": [
+      "Kpop Demon Hunters"
+    ],
+    "isrc": "QZ8BZ2513510",
+    "start_time": "2025-11-25 02:22:06",
+    "radio": "expres",
+    "recorded_at": "2025-11-25T02:22:26.726984+01:00",
+    "raw_valid": true,
+    "song_session_id": "88a78a1f-1c62-48d9-9591-1a22eab5d306",
+    "duration_ms": 194607,
+    "genre": [
+      "korean"
+    ]
+  },
+  {
+    "song": "Vo Vlnach",
+    "artists": [
+      "Emma Drobna"
+    ],
+    "isrc": "CZA232500001",
+    "start_time": "2025-11-25 02:24:47",
+    "radio": "expres",
+    "recorded_at": "2025-11-25T02:25:22.197240+01:00",
+    "raw_valid": true,
+    "song_session_id": "8677b089-b226-4214-810b-e5d0903f55fa",
+    "duration_ms": 186891,
+    "genre": []
+  },
+  {
+    "song": "Dive",
+    "artists": [
+      "Lost Frequencies",
+      "Tom Gregory"
+    ],
+    "isrc": "BEHP42300028",
+    "start_time": "2025-11-25 02:28:00",
+    "radio": "expres",
+    "recorded_at": "2025-11-25T02:28:24.186194+01:00",
+    "raw_valid": true,
+    "song_session_id": "fc347fd3-241d-4202-bc92-b8654ab0e285",
+    "duration_ms": 161093,
+    "genre": []
+  },
+  {
+    "song": "Chcem Znamenie",
+    "artists": [
+      "Dara Rolins"
+    ],
+    "isrc": "USDY41511079",
+    "start_time": "2025-11-25 02:30:40",
+    "radio": "expres",
+    "recorded_at": "2025-11-25T02:31:01.806009+01:00",
+    "raw_valid": true,
+    "song_session_id": "d3120240-2f94-4d4e-9bdd-823f00587e8d",
+    "duration_ms": 218005,
+    "genre": []
+  },
+  {
+    "song": "Regalo",
+    "artists": [
+      "Alvaro Soler"
+    ],
+    "isrc": "DEE862500388",
+    "start_time": "2025-11-25 02:35:03",
+    "radio": "expres",
+    "recorded_at": "2025-11-25T02:35:31.167009+01:00",
+    "raw_valid": true,
+    "song_session_id": "0a7fbdf8-324e-4f93-8a48-39dba1a898a9",
+    "duration_ms": 184984,
+    "genre": []
+  },
+  {
+    "song": "Personal Sky",
+    "artists": [
+      "Lina Mayer"
+    ],
+    "isrc": "SKG181500102",
+    "start_time": "2025-11-25 02:38:15",
+    "radio": "expres",
+    "recorded_at": "2025-11-25T02:38:34.083734+01:00",
+    "raw_valid": true,
+    "song_session_id": "57e74d51-af37-45b7-bf3b-6f27d1f22425",
+    "duration_ms": 200043,
+    "genre": []
+  },
+  {
+    "song": "Try",
+    "artists": [
+      "Pink"
+    ],
+    "isrc": "USRC11200785",
+    "start_time": "2025-11-25 02:41:28",
+    "radio": "expres",
+    "recorded_at": "2025-11-25T02:41:57.418935+01:00",
+    "raw_valid": true,
+    "song_session_id": "44186db7-da2e-4c49-8569-83f0776dc15c",
+    "duration_ms": 247720,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Kym Ta Mam",
+    "artists": [
+      "Pavol Habera"
+    ],
+    "isrc": "FRX451573106",
+    "start_time": "2025-11-25 02:45:29",
+    "radio": "expres",
+    "recorded_at": "2025-11-25T02:45:40.954860+01:00",
+    "raw_valid": true,
+    "song_session_id": "28bc77eb-4bd5-4de7-acd5-0c12d7599b6c",
+    "duration_ms": 303493,
+    "genre": []
+  },
+  {
+    "song": "We Are The Champions",
+    "artists": [
+      "Queen"
+    ],
+    "isrc": "GBUM71029619",
+    "start_time": "2025-11-25 02:50:24",
+    "radio": "expres",
+    "recorded_at": "2025-11-25T02:51:01.458567+01:00",
+    "raw_valid": true,
+    "song_session_id": "7b808985-becf-4060-b955-3553e2adaadb",
+    "duration_ms": 179200,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Vsetko Bude Dobre",
+    "artists": [
+      "Gladiator"
+    ],
+    "isrc": "SKCM72560001",
+    "start_time": "2025-11-25 02:53:17",
+    "radio": "expres",
+    "recorded_at": "2025-11-25T02:53:38.391317+01:00",
+    "raw_valid": true,
+    "song_session_id": "f83753ab-34b1-4495-990a-19e26e4aeab7",
+    "duration_ms": 166588,
+    "genre": []
+  },
+  {
+    "song": "All I Know",
+    "artists": [
+      "Rudimental",
+      "Khalid"
+    ],
+    "isrc": "GBARL2500365",
+    "start_time": "2025-11-25 02:56:27",
+    "radio": "expres",
+    "recorded_at": "2025-11-25T02:56:41.509973+01:00",
+    "raw_valid": true,
+    "song_session_id": "4600129b-3018-451e-9bdc-39bbcdac3c10",
+    "duration_ms": 176046,
+    "genre": []
+  },
+  {
+    "song": "Prva Laska",
+    "artists": [
+      "Jozo Raz"
+    ],
+    "isrc": "SKA128676201",
+    "start_time": "2025-11-25 02:59:20",
+    "radio": "expres",
+    "recorded_at": "2025-11-25T02:59:44.723127+01:00",
+    "raw_valid": true,
+    "song_session_id": "c20410e0-3b9a-42e2-a72d-3acdc7794bf1",
+    "duration_ms": 245093,
+    "genre": []
+  },
+  {
+    "song": "Mystical Magical",
+    "artists": [
+      "Benson Boone"
+    ],
+    "isrc": "USWB12500844",
+    "start_time": "2025-11-25 03:03:13",
+    "radio": "expres",
+    "recorded_at": "2025-11-25T03:03:38.291382+01:00",
+    "raw_valid": true,
+    "song_session_id": "61cef425-8fe3-4ff0-af1b-73515b81849c",
+    "duration_ms": 165746,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Navzajom",
+    "artists": [
+      "Adam Durica"
+    ],
+    "isrc": "SKA011600035",
+    "start_time": "2025-11-25 03:06:09",
+    "radio": "expres",
+    "recorded_at": "2025-11-25T03:06:48.672020+01:00",
+    "raw_valid": true,
+    "song_session_id": "b37f8191-cdf8-4402-9a42-4fd19fe918b1",
+    "duration_ms": 208366,
+    "genre": []
+  },
+  {
+    "song": "I Like The Way You Kiss Me",
+    "artists": [
+      "Artemas"
+    ],
+    "isrc": "QZJ842400387",
+    "start_time": "2025-11-25 03:09:36",
+    "radio": "expres",
+    "recorded_at": "2025-11-25T03:09:56.889875+01:00",
+    "raw_valid": true,
+    "song_session_id": "c6d705d2-0a80-4dc3-80fb-722a4e9ebffd",
+    "duration_ms": 142514,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Chvilu Ano Chvilu Nie",
+    "artists": [
+      "Hex"
+    ],
+    "isrc": "SKA010211105",
+    "start_time": "2025-11-25 03:12:03",
+    "radio": "expres",
+    "recorded_at": "2025-11-25T03:12:14.951594+01:00",
+    "raw_valid": true,
+    "song_session_id": "1c025139-09cf-41aa-b2af-ebeff19551e9",
+    "duration_ms": 222760,
+    "genre": []
+  },
+  {
+    "song": "Africa",
+    "artists": [
+      "Toto"
+    ],
+    "isrc": "USSM19801941",
+    "start_time": "2025-11-25 03:15:43",
+    "radio": "expres",
+    "recorded_at": "2025-11-25T03:16:06.782888+01:00",
+    "raw_valid": true,
+    "song_session_id": "ae5707a2-30a0-4b73-8c76-81e44aa43030",
+    "duration_ms": 296200,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Balada O Polnych Vtakoch 2006",
+    "artists": [
+      "Meky Revival"
+    ],
+    "isrc": null,
+    "start_time": "2025-11-25 03:19:36",
+    "radio": "expres",
+    "recorded_at": "2025-11-25T03:19:58.350130+01:00",
+    "raw_valid": true,
+    "song_session_id": "57dd8cce-6992-40ac-b23f-913e67a91273"
+  },
+  {
+    "song": "Gone Gone Gone",
+    "artists": [
+      "David Guetta",
+      "Teddy Swims",
+      "Tones And I"
+    ],
+    "isrc": "UKWLG2500132",
+    "start_time": "2025-11-25 03:23:09",
+    "radio": "expres",
+    "recorded_at": "2025-11-25T03:23:31.881783+01:00",
+    "raw_valid": true,
+    "song_session_id": "3f401e5b-61ce-45f7-bce4-0cadd3bd41b6",
+    "duration_ms": 198004,
+    "genre": [
+      "soul"
+    ]
+  },
+  {
+    "song": "Stoj",
+    "artists": [
+      "Peter Bic Project"
+    ],
+    "isrc": "SKA011900107",
+    "start_time": "2025-11-25 03:26:53",
+    "radio": "expres",
+    "recorded_at": "2025-11-25T03:27:20.373203+01:00",
+    "raw_valid": true,
+    "song_session_id": "ac95c0ba-c21d-4c25-846d-789d55f913de",
+    "duration_ms": 310720,
+    "genre": []
+  },
+  {
+    "song": "Overdrive",
+    "artists": [
+      "Ofenbach",
+      "Norma Jean Martine"
+    ],
+    "isrc": "FR9W12347222",
+    "start_time": "2025-11-25 03:32:02",
+    "radio": "expres",
+    "recorded_at": "2025-11-25T03:32:20.150742+01:00",
+    "raw_valid": true,
+    "song_session_id": "9e386553-deef-4ddc-beda-a7ee9d30fc39",
+    "duration_ms": 155905,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Undressed",
+    "artists": [
+      "Sombr"
+    ],
+    "isrc": "USWB12500737",
+    "start_time": "2025-11-25 03:34:37",
+    "radio": "expres",
+    "recorded_at": "2025-11-25T03:35:02.830755+01:00",
+    "raw_valid": true,
+    "song_session_id": "4d734de7-073a-4ae5-9c60-f4572af38c81",
+    "duration_ms": 182088,
+    "genre": [
+      "indie pop"
+    ]
+  },
+  {
+    "song": "Sexxxy",
+    "artists": [
+      "Tina",
+      "Ego"
+    ],
+    "isrc": "CZA231204270",
+    "start_time": "2025-11-25 03:37:38",
+    "radio": "expres",
+    "recorded_at": "2025-11-25T03:37:45.695675+01:00",
+    "raw_valid": true,
+    "song_session_id": "85521066-fbc7-4b4b-9411-22336b1b8305",
+    "duration_ms": 361586,
+    "genre": []
+  },
+  {
+    "song": "Bad Habits",
+    "artists": [
+      "Ed Sheeran"
+    ],
+    "isrc": "GBAHS2100318",
+    "start_time": "2025-11-25 03:40:57",
+    "radio": "expres",
+    "recorded_at": "2025-11-25T03:41:18.530827+01:00",
+    "raw_valid": true,
+    "song_session_id": "c5e0d8b0-06fb-4fcd-979f-1fa3e868adcd",
+    "duration_ms": 230746,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Hej Sokoly!",
+    "artists": [
+      "Imt Smile",
+      "Ondrej Kandrac"
+    ],
+    "isrc": "SKA011700036",
+    "start_time": "2025-11-25 03:44:54",
+    "radio": "expres",
+    "recorded_at": "2025-11-25T03:45:18.773770+01:00",
+    "raw_valid": true,
+    "song_session_id": "2b23856b-9469-481f-a369-320f391d0b78",
+    "duration_ms": 174250,
+    "genre": []
+  },
+  {
+    "song": "Save My Love",
+    "artists": [
+      "Marshmello",
+      "Ellie Goulding",
+      "Avaion"
+    ],
+    "isrc": "USUG12504310",
+    "start_time": "2025-11-25 03:48:03",
+    "radio": "expres",
+    "recorded_at": "2025-11-25T03:48:16.574669+01:00",
+    "raw_valid": true,
+    "song_session_id": "6e740927-e369-4859-ad77-809cbb3b9fbf",
+    "duration_ms": 215555,
+    "genre": []
+  },
+  {
+    "song": "Kto Je On",
+    "artists": [
+      "Dominika Mirgova",
+      "Robert Burian"
+    ],
+    "isrc": "SKE271200003",
+    "start_time": "2025-11-25 03:51:41",
+    "radio": "expres",
+    "recorded_at": "2025-11-25T03:52:05.287762+01:00",
+    "raw_valid": true,
+    "song_session_id": "e1f7b3f6-5667-4b38-b3b4-f076de92a4bb",
+    "duration_ms": 206033,
+    "genre": []
+  },
+  {
+    "song": "Where Is The Love?",
+    "artists": [
+      "Black Eyed Peas",
+      "Justin Timberlake"
+    ],
+    "isrc": "USIR10311862",
+    "start_time": "2025-11-25 03:55:15",
+    "radio": "expres",
+    "recorded_at": "2025-11-25T03:55:28.637617+01:00",
+    "raw_valid": true,
+    "song_session_id": "1c0958b7-bf9c-4637-8af1-352ac1e7c265",
+    "duration_ms": 273813,
+    "genre": []
+  },
+  {
+    "song": "Domov",
+    "artists": [
+      "Alan Murin"
+    ],
+    "isrc": "QZWDW2424416",
+    "start_time": "2025-11-25 03:59:03",
+    "radio": "expres",
+    "recorded_at": "2025-11-25T03:59:27.577773+01:00",
+    "raw_valid": true,
+    "song_session_id": "3e686cda-d972-433b-947d-f33dafbaa196",
+    "duration_ms": 240000,
+    "genre": []
+  },
+  {
+    "song": "Runaway",
+    "artists": [
+      "Onerepublic"
+    ],
+    "isrc": "USUM72304684",
+    "start_time": "2025-11-25 04:03:00",
+    "radio": "expres",
+    "recorded_at": "2025-11-25T04:03:19.341621+01:00",
+    "raw_valid": true,
+    "song_session_id": "60a61a7e-a31f-49d5-946e-0790534896f7",
+    "duration_ms": 142693,
+    "genre": []
+  }
+]

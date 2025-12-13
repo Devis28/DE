@@ -1,0 +1,353 @@
+[
+  {
+    "song": {
+      "play_date": "2025-12-01",
+      "play_time": "01:49",
+      "artist": [
+        "Oskar Torok"
+      ],
+      "title": "Oheň, Vzduch I"
+    },
+    "recorded_at": "2025-12-01T01:50:08.058262+01:00",
+    "raw_valid": true,
+    "song_session_id": "03ec415f-7d90-43fd-87f9-7404b940f4ad",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-12-01",
+      "play_time": "01:52",
+      "artist": [
+        "Daniel García Trio",
+        "Gerardo Núnez"
+      ],
+      "title": "Calle Compania"
+    },
+    "recorded_at": "2025-12-01T01:55:08.744645+01:00",
+    "raw_valid": true,
+    "song_session_id": "596287f6-ce83-410b-bcd9-708368c9f980",
+    "duration_ms": 299560,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-12-01",
+      "play_time": "01:57",
+      "artist": [
+        "Lukas Oravec Quartet",
+        "Jerry Bergonzi",
+        "Matheus Jardim"
+      ],
+      "title": "Hope"
+    },
+    "recorded_at": "2025-12-01T02:00:09.436240+01:00",
+    "raw_valid": true,
+    "song_session_id": "b61478fb-d1e1-4f47-9364-9264b1256e89",
+    "duration_ms": 466826,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-12-01",
+      "play_time": "02:09",
+      "artist": [
+        "Harry Connick",
+        "Jr."
+      ],
+      "title": "Blue Skies"
+    },
+    "recorded_at": "2025-12-01T02:10:10.856786+01:00",
+    "raw_valid": true,
+    "song_session_id": "416389b6-158c-430c-98ed-b2b704e88f12",
+    "duration_ms": 224240,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-12-01",
+      "play_time": "02:12",
+      "artist": [
+        "Miles Davis"
+      ],
+      "title": "Tutu (Remastered)"
+    },
+    "recorded_at": "2025-12-01T02:15:11.534672+01:00",
+    "raw_valid": true,
+    "song_session_id": "61f0a8b1-3c8f-45f0-b9bd-ef44dd253bbf",
+    "duration_ms": 317213,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-12-01",
+      "play_time": "02:17",
+      "artist": [
+        "Ennio Máno"
+      ],
+      "title": "Winds"
+    },
+    "recorded_at": "2025-12-01T02:20:12.218197+01:00",
+    "raw_valid": true,
+    "song_session_id": "f4f52844-80af-4ba4-b432-d977d90315c9",
+    "duration_ms": 257575,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-12-01",
+      "play_time": "02:22",
+      "artist": [
+        "Ella Fitzgerald"
+      ],
+      "title": "It's Only A Paper Moon"
+    },
+    "recorded_at": "2025-12-01T02:25:12.945698+01:00",
+    "raw_valid": true,
+    "song_session_id": "39705ce8-b978-457f-b3d6-75b414cf359d",
+    "duration_ms": 160133,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-12-01",
+      "play_time": "02:25",
+      "artist": [
+        "Kenny Burrell"
+      ],
+      "title": "Autumn In New York"
+    },
+    "recorded_at": "2025-12-01T02:30:13.626274+01:00",
+    "raw_valid": true,
+    "song_session_id": "80f66ef3-3e94-449c-993a-35eab634c7e7",
+    "duration_ms": 344933,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-12-01",
+      "play_time": "02:31",
+      "artist": [
+        "Dave Brubeck"
+      ],
+      "title": "Pennies From Heaven"
+    },
+    "recorded_at": "2025-12-01T02:35:14.312422+01:00",
+    "raw_valid": true,
+    "song_session_id": "724ab64f-7b4d-4a9f-9575-1372c22952cb",
+    "duration_ms": 289853,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-12-01",
+      "play_time": "02:37",
+      "artist": [
+        "Wes Montgomery"
+      ],
+      "title": "D-Natural Blues"
+    },
+    "recorded_at": "2025-12-01T02:40:14.976120+01:00",
+    "raw_valid": true,
+    "song_session_id": "9f4e9900-73ec-4295-8b1f-0c6c9374b637",
+    "duration_ms": 325753,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-12-01",
+      "play_time": "02:42",
+      "artist": [
+        "Dj Cam Quartet"
+      ],
+      "title": "New York New York"
+    },
+    "recorded_at": "2025-12-01T02:45:15.661848+01:00",
+    "raw_valid": true,
+    "song_session_id": "f13adab2-8e9f-45cd-b6f8-db4659635085",
+    "duration_ms": 258413,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-12-01",
+      "play_time": "02:47",
+      "artist": [
+        "Courtney Pine",
+        "Omar"
+      ],
+      "title": "Rules"
+    },
+    "recorded_at": "2025-12-01T02:50:16.345921+01:00",
+    "raw_valid": true,
+    "song_session_id": "ee7abb24-95a9-4ba4-a694-00259e174387",
+    "duration_ms": 192173,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-12-01",
+      "play_time": "02:52",
+      "artist": [
+        "Duke Ellington"
+      ],
+      "title": "Pyramid - Remastered"
+    },
+    "recorded_at": "2025-12-01T02:55:17.020137+01:00",
+    "raw_valid": true,
+    "song_session_id": "466d2ad3-c124-467c-ba6e-5ba8ae344d98",
+    "duration_ms": 185106,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-12-01",
+      "play_time": "02:55",
+      "artist": [
+        "Matt Bianco"
+      ],
+      "title": "Whose Side Are You On?"
+    },
+    "recorded_at": "2025-12-01T03:00:17.732861+01:00",
+    "raw_valid": true,
+    "song_session_id": "8f4b4722-ea0c-4eee-86e9-2675d44fdfa3",
+    "duration_ms": 224973,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-12-01",
+      "play_time": "03:03",
+      "artist": [
+        "Gregg Karukas"
+      ],
+      "title": "First Flight Home"
+    },
+    "recorded_at": "2025-12-01T03:05:18.423395+01:00",
+    "raw_valid": true,
+    "song_session_id": "7c420824-eb22-4732-9022-d774487d71b5",
+    "duration_ms": 281973,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-12-01",
+      "play_time": "03:08",
+      "artist": [
+        "Eddie Harris"
+      ],
+      "title": "The Shadow Of Your Smile"
+    },
+    "recorded_at": "2025-12-01T03:10:19.441325+01:00",
+    "raw_valid": true,
+    "song_session_id": "ab99bbd8-3129-448f-80b5-c84dbedd9516",
+    "duration_ms": 332026,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-12-01",
+      "play_time": "03:13",
+      "artist": [
+        "Nicola Conte"
+      ],
+      "title": "Arabesque"
+    },
+    "recorded_at": "2025-12-01T03:15:20.122434+01:00",
+    "raw_valid": true,
+    "song_session_id": "f9f9ae60-e56f-43e8-8dd3-2b24a8cfe906",
+    "duration_ms": 367621,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-12-01",
+      "play_time": "03:17",
+      "artist": [
+        "Alan Hartwell Big B",
+        "uring Cozy Cole"
+      ],
+      "title": "Let There Be Drums"
+    },
+    "recorded_at": "2025-12-01T03:20:20.803545+01:00",
+    "raw_valid": true,
+    "song_session_id": "958c91c6-e8c6-463f-80ab-cf2b960ecb58",
+    "duration_ms": 130373,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-12-01",
+      "play_time": "03:22",
+      "artist": [
+        "The Budos B"
+      ],
+      "title": "Black Venom"
+    },
+    "recorded_at": "2025-12-01T03:25:21.478068+01:00",
+    "raw_valid": true,
+    "song_session_id": "12c6d4a6-38a7-46a9-bb93-1902fda0c738",
+    "duration_ms": 212146,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-12-01",
+      "play_time": "03:26",
+      "artist": [
+        "Soulstance"
+      ],
+      "title": "Cool Plan"
+    },
+    "recorded_at": "2025-12-01T03:30:22.148815+01:00",
+    "raw_valid": true,
+    "song_session_id": "b8418ba6-ec6f-4120-a230-21d310d78692",
+    "duration_ms": 251853,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-12-01",
+      "play_time": "03:30",
+      "artist": [
+        "Four 80 East"
+      ],
+      "title": "Roll On"
+    },
+    "recorded_at": "2025-12-01T03:35:22.858893+01:00",
+    "raw_valid": true,
+    "song_session_id": "f2e093cd-70f5-49fa-b236-e010a00722dd",
+    "duration_ms": 274973,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-12-01",
+      "play_time": "03:38",
+      "artist": [
+        "Charlie Parker"
+      ],
+      "title": "Barbados"
+    },
+    "recorded_at": "2025-12-01T03:40:23.549805+01:00",
+    "raw_valid": true,
+    "song_session_id": "f3bedf0c-3a64-457f-a2d9-5a59a7f9710d",
+    "duration_ms": 148866,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-12-01",
+      "play_time": "03:44",
+      "artist": [
+        "Steve Turre"
+      ],
+      "title": "Smoke Gets In Your Eyes"
+    },
+    "recorded_at": "2025-12-01T03:45:24.231691+01:00",
+    "raw_valid": true,
+    "song_session_id": "49d070e1-2a5c-48c7-8ed5-dbec6ff275f9",
+    "duration_ms": 294826,
+    "genre": []
+  }
+]

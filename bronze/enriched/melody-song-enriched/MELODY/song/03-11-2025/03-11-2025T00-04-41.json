@@ -1,0 +1,47 @@
+[
+  {
+    "station": "Rádio Melody",
+    "title": "Domino Dancing",
+    "artist": "Pet Shop Boys",
+    "date": "02.11.2025",
+    "time": "23:54",
+    "last_update": "02.11.2025 23:55:10",
+    "recorded_at": "02.11.2025 23:55:10",
+    "raw_valid": true,
+    "song_session_id": "0aef821a-3cbb-46cc-9e18-53867d9ced44",
+    "duration_ms": 258333,
+    "genre": [
+      "synthpop"
+    ]
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Fuoco Nel Fuoco",
+    "artist": "Ramazzotti Eros",
+    "date": "02.11.2025",
+    "time": "23:58",
+    "last_update": "02.11.2025 23:59:16",
+    "recorded_at": "02.11.2025 23:59:16",
+    "raw_valid": true,
+    "song_session_id": "b850caff-7d2a-48f2-8537-763e251ebcc3",
+    "duration_ms": 242653,
+    "genre": [
+      "italo dance"
+    ]
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Say You, Say Me",
+    "artist": "Lionel Richie",
+    "date": "03.11.2025",
+    "time": "00:03",
+    "last_update": "03.11.2025 00:04:32",
+    "recorded_at": "03.11.2025 00:04:32",
+    "raw_valid": true,
+    "song_session_id": "1473110e-ea1b-4f65-8933-0966e3ed0f99",
+    "duration_ms": 241066,
+    "genre": [
+      "motown"
+    ]
+  }
+]

@@ -1,0 +1,493 @@
+[
+  {
+    "song": "Fonky Nalada",
+    "artists": [
+      "Made 2 Mate"
+    ],
+    "isrc": "CZA239800877",
+    "start_time": "2025-11-22 04:06:02",
+    "radio": "expres",
+    "recorded_at": "2025-11-22T04:06:28.237564+01:00",
+    "raw_valid": true,
+    "song_session_id": "2df94329-f296-4202-8abc-d835763cf1ef",
+    "duration_ms": 238906,
+    "genre": []
+  },
+  {
+    "song": "Undressed",
+    "artists": [
+      "Sombr"
+    ],
+    "isrc": "USWB12500737",
+    "start_time": "2025-11-22 04:09:22",
+    "radio": "expres",
+    "recorded_at": "2025-11-22T04:09:55.574097+01:00",
+    "raw_valid": true,
+    "song_session_id": "b8ab08bb-8a1c-459d-a2d1-76a0d32f0c90",
+    "duration_ms": 182088,
+    "genre": [
+      "indie pop"
+    ]
+  },
+  {
+    "song": "Kingdom",
+    "artists": [
+      "Dennyiah"
+    ],
+    "isrc": "usl4r1910412",
+    "start_time": "2025-11-22 04:12:22",
+    "radio": "expres",
+    "recorded_at": "2025-11-22T04:13:07.420295+01:00",
+    "raw_valid": true,
+    "song_session_id": "e96cb8c9-3ca8-427e-8d1c-b05899c26e7d",
+    "duration_ms": 248868,
+    "genre": []
+  },
+  {
+    "song": "Tubthumping",
+    "artists": [
+      "Chumbawamba"
+    ],
+    "isrc": "DEA349700542",
+    "start_time": "2025-11-22 04:15:27",
+    "radio": "expres",
+    "recorded_at": "2025-11-22T04:15:59.234509+01:00",
+    "raw_valid": true,
+    "song_session_id": "b275be12-1c04-4c89-9ee0-1ee2380b6f9a",
+    "duration_ms": 234133,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Mesto Stratilo Dych",
+    "artists": [
+      "Hex",
+      "Tamara"
+    ],
+    "isrc": "SKC752000101",
+    "start_time": "2025-11-22 04:18:43",
+    "radio": "expres",
+    "recorded_at": "2025-11-22T04:19:18.265818+01:00",
+    "raw_valid": true,
+    "song_session_id": "2081a37c-29ca-4e38-a80b-b59cac14dfe5",
+    "duration_ms": 225720,
+    "genre": []
+  },
+  {
+    "song": "Golden",
+    "artists": [
+      "Kpop Demon Hunters"
+    ],
+    "isrc": "QZ8BZ2513510",
+    "start_time": "2025-11-22 04:22:36",
+    "radio": "expres",
+    "recorded_at": "2025-11-22T04:23:02.110391+01:00",
+    "raw_valid": true,
+    "song_session_id": "2dc690a1-3865-46ff-ad40-284975d23b40",
+    "duration_ms": 194607,
+    "genre": [
+      "korean"
+    ]
+  },
+  {
+    "song": "V Sieti Ta Mam",
+    "artists": [
+      "Kristina"
+    ],
+    "isrc": "SKA011000100",
+    "start_time": "2025-11-22 04:25:22",
+    "radio": "expres",
+    "recorded_at": "2025-11-22T04:25:45.317411+01:00",
+    "raw_valid": true,
+    "song_session_id": "35bfd38e-ea15-42d1-a905-9b027c5e7821",
+    "duration_ms": 221000,
+    "genre": []
+  },
+  {
+    "song": "Overdrive",
+    "artists": [
+      "Ofenbach",
+      "Norma Jean Martine"
+    ],
+    "isrc": "FR9W12347222",
+    "start_time": "2025-11-22 04:29:06",
+    "radio": "expres",
+    "recorded_at": "2025-11-22T04:29:32.582688+01:00",
+    "raw_valid": true,
+    "song_session_id": "e43ee575-5f47-42a7-beb5-d88cbbf860e0",
+    "duration_ms": 155905,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Afterlife",
+    "artists": [
+      "Michael Schulte"
+    ],
+    "isrc": "DECE72500509",
+    "start_time": "2025-11-22 04:32:20",
+    "radio": "expres",
+    "recorded_at": "2025-11-22T04:32:45.598902+01:00",
+    "raw_valid": true,
+    "song_session_id": "9cdf66b6-3091-4467-9da4-c1bbda937d14",
+    "duration_ms": 160120,
+    "genre": []
+  },
+  {
+    "song": "Dievca Z Reklamy",
+    "artists": [
+      "Beata Dubasova"
+    ],
+    "isrc": "SKA128784711",
+    "start_time": "2025-11-22 04:35:02",
+    "radio": "expres",
+    "recorded_at": "2025-11-22T04:35:27.985623+01:00",
+    "raw_valid": true,
+    "song_session_id": "4bbc64bc-cc23-4877-bbb3-1fa5d33188a9",
+    "duration_ms": 214480,
+    "genre": []
+  },
+  {
+    "song": "Beds Are Burning",
+    "artists": [
+      "Midnight Oil"
+    ],
+    "isrc": "AUBM00700707",
+    "start_time": "2025-11-22 04:38:32",
+    "radio": "expres",
+    "recorded_at": "2025-11-22T04:39:11.369335+01:00",
+    "raw_valid": true,
+    "song_session_id": "7eef0dbc-a5a5-490b-992a-5de0546727a3",
+    "duration_ms": 255173,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Na Dosah",
+    "artists": [
+      "Maria Cirova"
+    ],
+    "isrc": "SKB001109101",
+    "start_time": "2025-11-22 04:42:58",
+    "radio": "expres",
+    "recorded_at": "2025-11-22T04:43:30.163084+01:00",
+    "raw_valid": true,
+    "song_session_id": "054822ff-cc99-4512-9600-44902f4c12d4",
+    "duration_ms": 219626,
+    "genre": []
+  },
+  {
+    "song": "Love Me Not",
+    "artists": [
+      "Ravyn Lenae"
+    ],
+    "isrc": "USAT22401137",
+    "start_time": "2025-11-22 04:46:24",
+    "radio": "expres",
+    "recorded_at": "2025-11-22T04:46:53.266409+01:00",
+    "raw_valid": true,
+    "song_session_id": "be124e7b-6794-4869-8069-c194ec3371fd",
+    "duration_ms": 213466,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Ako Obrazok",
+    "artists": [
+      "Miro Zbirka"
+    ],
+    "isrc": "SKA128000008",
+    "start_time": "2025-11-22 04:50:08",
+    "radio": "expres",
+    "recorded_at": "2025-11-22T04:50:38.248011+01:00",
+    "raw_valid": true,
+    "song_session_id": "7330ca3b-14bf-463b-9153-5ff934854949",
+    "duration_ms": 201040,
+    "genre": []
+  },
+  {
+    "song": "Whatever It Takes",
+    "artists": [
+      "Imagine Dragons"
+    ],
+    "isrc": "USUM71703515",
+    "start_time": "2025-11-22 04:53:20",
+    "radio": "expres",
+    "recorded_at": "2025-11-22T04:53:45.179628+01:00",
+    "raw_valid": true,
+    "song_session_id": "913ba698-b701-4a00-b7c5-8b4990dc8f75",
+    "duration_ms": 201053,
+    "genre": [
+      "trance"
+    ]
+  },
+  {
+    "song": "Domov",
+    "artists": [
+      "Alan Murin"
+    ],
+    "isrc": "QZWDW2424416",
+    "start_time": "2025-11-22 04:56:36",
+    "radio": "expres",
+    "recorded_at": "2025-11-22T04:57:12.536476+01:00",
+    "raw_valid": true,
+    "song_session_id": "97c3297f-7659-475b-b60d-a6d4e029167d",
+    "duration_ms": 240000,
+    "genre": []
+  },
+  {
+    "song": "Million Good Reasons",
+    "artists": [
+      "Robin Schulz",
+      "Fast Boy"
+    ],
+    "isrc": "DEA622404738",
+    "start_time": "2025-11-22 05:00:34",
+    "radio": "expres",
+    "recorded_at": "2025-11-22T05:01:16.980711+01:00",
+    "raw_valid": true,
+    "song_session_id": "70f9b2e4-e2f1-4bf8-8d9c-b7ead18bc3ed",
+    "duration_ms": 157130,
+    "genre": []
+  },
+  {
+    "song": "L.a.s.k.a.",
+    "artists": [
+      "Dominika Mirgova",
+      "Rakby"
+    ],
+    "isrc": "SKE271300030",
+    "start_time": "2025-11-22 05:03:16",
+    "radio": "expres",
+    "recorded_at": "2025-11-22T05:03:51.956068+01:00",
+    "raw_valid": true,
+    "song_session_id": "02b15b94-1957-4e2f-ad19-0f7dbdb4dcbf",
+    "duration_ms": 259945,
+    "genre": []
+  },
+  {
+    "song": "Stargazing",
+    "artists": [
+      "Myles Smith"
+    ],
+    "isrc": "GBARL2400510",
+    "start_time": "2025-11-22 05:07:04",
+    "radio": "expres",
+    "recorded_at": "2025-11-22T05:07:37.743141+01:00",
+    "raw_valid": true,
+    "song_session_id": "28a7c1f6-dda7-43bc-ad9c-3366cabc2209",
+    "duration_ms": 172533,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Svetla Mesta",
+    "artists": [
+      "Polemic"
+    ],
+    "isrc": "SKB811000111",
+    "start_time": "2025-11-22 05:10:04",
+    "radio": "expres",
+    "recorded_at": "2025-11-22T05:10:40.492656+01:00",
+    "raw_valid": true,
+    "song_session_id": "5cc06743-cd8d-461f-946b-320ca6ae5bee",
+    "duration_ms": 264093,
+    "genre": []
+  },
+  {
+    "song": "I Wanna Dance With Somebody",
+    "artists": [
+      "Whitney Houston"
+    ],
+    "isrc": "USAR18700121",
+    "start_time": "2025-11-22 05:14:36",
+    "radio": "expres",
+    "recorded_at": "2025-11-22T05:15:09.844785+01:00",
+    "raw_valid": true,
+    "song_session_id": "82afc2f8-5a37-4cf3-909b-4fbc16ac5bc2",
+    "duration_ms": 290440,
+    "genre": []
+  },
+  {
+    "song": "Vsetko Bude Dobre",
+    "artists": [
+      "Gladiator"
+    ],
+    "isrc": "SKCM72560001",
+    "start_time": "2025-11-22 05:19:15",
+    "radio": "expres",
+    "recorded_at": "2025-11-22T05:19:53.798922+01:00",
+    "raw_valid": true,
+    "song_session_id": "4c764c86-3aad-4e83-99ae-859ead7eaec2",
+    "duration_ms": 166588,
+    "genre": []
+  },
+  {
+    "song": "Myslim Ze Moze Byt",
+    "artists": [
+      "Imt Smile",
+      "Marian Cekovsky"
+    ],
+    "isrc": "SKA010400075",
+    "start_time": "2025-11-22 05:22:18",
+    "radio": "expres",
+    "recorded_at": "2025-11-22T05:22:57.861556+01:00",
+    "raw_valid": true,
+    "song_session_id": "d8fd3a07-72a9-4800-a65d-9316d818092a",
+    "duration_ms": 292253,
+    "genre": []
+  },
+  {
+    "song": "Broken Sunshine",
+    "artists": [
+      "Michael Schulte"
+    ],
+    "isrc": "DECE72402375",
+    "start_time": "2025-11-22 05:26:38",
+    "radio": "expres",
+    "recorded_at": "2025-11-22T05:26:58.018135+01:00",
+    "raw_valid": true,
+    "song_session_id": "27cb0d40-ea88-48d8-a13e-7275486c9ded",
+    "duration_ms": 175866,
+    "genre": []
+  },
+  {
+    "song": "Papierove Kone",
+    "artists": [
+      "Nocaden"
+    ],
+    "isrc": "CZA231500038",
+    "start_time": "2025-11-22 05:29:36",
+    "radio": "expres",
+    "recorded_at": "2025-11-22T05:30:05.949666+01:00",
+    "raw_valid": true,
+    "song_session_id": "cd6b0cf9-88fb-42e9-8048-e9021693333e",
+    "duration_ms": 303093,
+    "genre": []
+  },
+  {
+    "song": "Be Mine",
+    "artists": [
+      "Kamrad"
+    ],
+    "isrc": "DE1NJ2500035",
+    "start_time": "2025-11-22 05:33:52",
+    "radio": "expres",
+    "recorded_at": "2025-11-22T05:34:27.336968+01:00",
+    "raw_valid": true,
+    "song_session_id": "e7528473-0a27-4c89-a7ca-c4c0ac50d59f",
+    "duration_ms": 156463,
+    "genre": []
+  },
+  {
+    "song": "Lekna",
+    "artists": [
+      "No Name"
+    ],
+    "isrc": "SKA010305329",
+    "start_time": "2025-11-22 05:36:29",
+    "radio": "expres",
+    "recorded_at": "2025-11-22T05:37:06.678512+01:00",
+    "raw_valid": true,
+    "song_session_id": "a6f40f6f-4ffb-467c-aff8-0b6c2a3dc722",
+    "duration_ms": 210306,
+    "genre": []
+  },
+  {
+    "song": "My Happy Ending",
+    "artists": [
+      "Avril Lavigne"
+    ],
+    "isrc": "USAR10400486",
+    "start_time": "2025-11-22 05:39:53",
+    "radio": "expres",
+    "recorded_at": "2025-11-22T05:40:26.786863+01:00",
+    "raw_valid": true,
+    "song_session_id": "19d7de00-79a3-4c6f-bbab-5cf9195283d2",
+    "duration_ms": 241706,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Femme Fatale",
+    "artists": [
+      "Amo",
+      "Juraj Benetin"
+    ],
+    "isrc": "SKG201300111",
+    "start_time": "2025-11-22 05:43:54",
+    "radio": "expres",
+    "recorded_at": "2025-11-22T05:44:27.459015+01:00",
+    "raw_valid": true,
+    "song_session_id": "4cc2df9f-36a7-4a7d-8a87-981976992d01",
+    "duration_ms": 230200,
+    "genre": []
+  },
+  {
+    "song": "The Fate Of Ophelia",
+    "artists": [
+      "Taylor Swift"
+    ],
+    "isrc": "USUG12506436",
+    "start_time": "2025-11-22 05:47:41",
+    "radio": "expres",
+    "recorded_at": "2025-11-22T05:48:20.032842+01:00",
+    "raw_valid": true,
+    "song_session_id": "42452569-0e4b-4ff1-b878-b1e4cb6d9a87",
+    "duration_ms": 226073,
+    "genre": [
+      "electronic"
+    ]
+  },
+  {
+    "song": "Zivotne Cesty",
+    "artists": [
+      "Peter Cmorik"
+    ],
+    "isrc": "QZHN72579459",
+    "start_time": "2025-11-22 05:51:27",
+    "radio": "expres",
+    "recorded_at": "2025-11-22T05:51:56.977578+01:00",
+    "raw_valid": true,
+    "song_session_id": "40d68ff6-25d5-4f20-ba7f-f9194b475d6b",
+    "duration_ms": 141479,
+    "genre": []
+  },
+  {
+    "song": "Paparazzi",
+    "artists": [
+      "Lady Gaga"
+    ],
+    "isrc": "USUM70824408",
+    "start_time": "2025-11-22 05:54:43",
+    "radio": "expres",
+    "recorded_at": "2025-11-22T05:55:17.046003+01:00",
+    "raw_valid": true,
+    "song_session_id": "948ed7f0-c5b0-4440-9955-d07fa7a8743e",
+    "duration_ms": 208306,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Pohoda",
+    "artists": [
+      "Sam Sebou",
+      "Kali"
+    ],
+    "isrc": "SKE502400602",
+    "start_time": "2025-11-22 05:58:09",
+    "radio": "expres",
+    "recorded_at": "2025-11-22T05:58:37.519973+01:00",
+    "raw_valid": true,
+    "song_session_id": "516a400a-e432-42b0-96ef-c8e5092c3314",
+    "duration_ms": 167000,
+    "genre": []
+  }
+]

@@ -1,0 +1,452 @@
+[
+  {
+    "song": "Srdce Nehasnou",
+    "artists": [
+      "Karel Gott",
+      "Charlotte Ella Gottova"
+    ],
+    "isrc": "CZA161900335",
+    "start_time": "2025-12-12 04:59:12",
+    "radio": "expres",
+    "recorded_at": "2025-12-12T04:59:50.350901+01:00",
+    "raw_valid": true,
+    "song_session_id": "3c5a6c46-70be-45a3-b9c2-2960ed895456",
+    "duration_ms": 228667,
+    "genre": []
+  },
+  {
+    "song": "Green Green Grass",
+    "artists": [
+      "George Ezra"
+    ],
+    "isrc": "GBARL2200008",
+    "start_time": "2025-12-12 05:03:00",
+    "radio": "expres",
+    "recorded_at": "2025-12-12T05:03:33.252309+01:00",
+    "raw_valid": true,
+    "song_session_id": "b860f721-0bf8-44f3-9502-c76fb54c80fb",
+    "duration_ms": 167613,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Spravne Dievcata",
+    "artists": [
+      "Marika Gombitova"
+    ],
+    "isrc": null,
+    "start_time": "2025-12-12 05:05:46",
+    "radio": "expres",
+    "recorded_at": "2025-12-12T05:06:10.594563+01:00",
+    "raw_valid": true,
+    "song_session_id": "9e95f43f-e3da-4120-9ea2-851c2946c6eb"
+  },
+  {
+    "song": "Blink Twice",
+    "artists": [
+      "Shaboozey",
+      "Myles Smith"
+    ],
+    "isrc": "USUYG1717098",
+    "start_time": "2025-12-12 05:10:01",
+    "radio": "expres",
+    "recorded_at": "2025-12-12T05:10:34.867096+01:00",
+    "raw_valid": true,
+    "song_session_id": "b67f9ad3-6f8d-4979-a739-000163543d20",
+    "duration_ms": 156721,
+    "genre": []
+  },
+  {
+    "song": "Tancuj Mi",
+    "artists": [
+      "Lukas Adamec"
+    ],
+    "isrc": "SKI601900001",
+    "start_time": "2025-12-12 05:12:36",
+    "radio": "expres",
+    "recorded_at": "2025-12-12T05:12:56.935759+01:00",
+    "raw_valid": true,
+    "song_session_id": "1eb24dcd-3466-4097-b36c-17a537287168",
+    "duration_ms": 156773,
+    "genre": []
+  },
+  {
+    "song": "Bed Of Roses",
+    "artists": [
+      "Bon Jovi"
+    ],
+    "isrc": "USPG19290093",
+    "start_time": "2025-12-12 05:15:15",
+    "radio": "expres",
+    "recorded_at": "2025-12-12T05:15:39.177952+01:00",
+    "raw_valid": true,
+    "song_session_id": "7d410489-b3c3-4723-8445-e50c37924142",
+    "duration_ms": 395520,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Za Zivot V Hore",
+    "artists": [
+      "Sima Martausova"
+    ],
+    "isrc": "SKU021900601",
+    "start_time": "2025-12-12 05:19:40",
+    "radio": "expres",
+    "recorded_at": "2025-12-12T05:20:02.691905+01:00",
+    "raw_valid": true,
+    "song_session_id": "5df3c5fa-8946-47c7-9894-4740f167cb9a",
+    "duration_ms": 197409,
+    "genre": []
+  },
+  {
+    "song": "Head Above Water",
+    "artists": [
+      "Twocolors",
+      "Safri Duo",
+      "Chris De Sarandy"
+    ],
+    "isrc": "DEUM72503698",
+    "start_time": "2025-12-12 05:22:53",
+    "radio": "expres",
+    "recorded_at": "2025-12-12T05:23:20.366605+01:00",
+    "raw_valid": true,
+    "song_session_id": "8a610239-9ad0-4a30-aac6-25a6943d5c0a",
+    "duration_ms": 174550,
+    "genre": []
+  },
+  {
+    "song": "Havran",
+    "artists": [
+      "Nocaden"
+    ],
+    "isrc": "CZA231500030",
+    "start_time": "2025-12-12 05:25:45",
+    "radio": "expres",
+    "recorded_at": "2025-12-12T05:26:02.560936+01:00",
+    "raw_valid": true,
+    "song_session_id": "5a96e75c-d4e8-4e0b-85ac-4a14e619e4e7",
+    "duration_ms": 238320,
+    "genre": []
+  },
+  {
+    "song": "Santa Claus Is Comin To Town",
+    "artists": [
+      "Mariah Carey"
+    ],
+    "isrc": "USSM10109136",
+    "start_time": "2025-12-12 05:28:55",
+    "radio": "expres",
+    "recorded_at": "2025-12-12T05:29:25.363041+01:00",
+    "raw_valid": true,
+    "song_session_id": "444a0d46-4a0a-4b70-82d7-ddbaa8671e67",
+    "duration_ms": 204553,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Love Me Not",
+    "artists": [
+      "Ravyn Lenae"
+    ],
+    "isrc": "USAT22401137",
+    "start_time": "2025-12-12 05:31:56",
+    "radio": "expres",
+    "recorded_at": "2025-12-12T05:32:28.004822+01:00",
+    "raw_valid": true,
+    "song_session_id": "aa148117-e161-4f1e-b69d-36d8d825d241",
+    "duration_ms": 213466,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Kym Ty Spis",
+    "artists": [
+      "Tina"
+    ],
+    "isrc": "CZA230600522",
+    "start_time": "2025-12-12 05:35:15",
+    "radio": "expres",
+    "recorded_at": "2025-12-12T05:35:50.830985+01:00",
+    "raw_valid": true,
+    "song_session_id": "925108ed-38d3-4ba9-a090-b2dcf67ab1ea",
+    "duration_ms": 183480,
+    "genre": []
+  },
+  {
+    "song": "The Look",
+    "artists": [
+      "Roxette"
+    ],
+    "isrc": "SEAME8878010",
+    "start_time": "2025-12-12 05:38:16",
+    "radio": "expres",
+    "recorded_at": "2025-12-12T05:38:48.296432+01:00",
+    "raw_valid": true,
+    "song_session_id": "be9f3948-c213-4262-b930-2093ae019f41",
+    "duration_ms": 237320,
+    "genre": []
+  },
+  {
+    "song": "Dokola",
+    "artists": [
+      "Alan Murin"
+    ],
+    "isrc": "QZZ662451350",
+    "start_time": "2025-12-12 05:42:07",
+    "radio": "expres",
+    "recorded_at": "2025-12-12T05:42:31.247144+01:00",
+    "raw_valid": true,
+    "song_session_id": "a575d2d7-71e4-4162-9af1-9be63b1d6a9b",
+    "duration_ms": 155076,
+    "genre": []
+  },
+  {
+    "song": "Shape Of You",
+    "artists": [
+      "Ed Sheeran"
+    ],
+    "isrc": "GBAHS1600463",
+    "start_time": "2025-12-12 05:44:49",
+    "radio": "expres",
+    "recorded_at": "2025-12-12T05:45:13.697790+01:00",
+    "raw_valid": true,
+    "song_session_id": "8d067335-38ae-449d-84de-de5bc3c4ce2e",
+    "duration_ms": 233712,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Prepojeni",
+    "artists": [
+      "Para"
+    ],
+    "isrc": "SKCF92500001",
+    "start_time": "2025-12-12 05:47:59",
+    "radio": "expres",
+    "recorded_at": "2025-12-12T05:48:36.673961+01:00",
+    "raw_valid": true,
+    "song_session_id": "ca81c9cc-2451-4953-bbe1-e9fac1b4c1ae",
+    "duration_ms": 185411,
+    "genre": []
+  },
+  {
+    "song": "Espresso",
+    "artists": [
+      "Sabrina Carpenter"
+    ],
+    "isrc": "USUM72403305",
+    "start_time": "2025-12-12 05:51:30",
+    "radio": "expres",
+    "recorded_at": "2025-12-12T05:51:54.286390+01:00",
+    "raw_valid": true,
+    "song_session_id": "53ded47e-2ddc-45bd-ae51-c916ab2bd614",
+    "duration_ms": 175453,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Dvere",
+    "artists": [
+      "Zuzana Smatanova"
+    ],
+    "isrc": "CZA211100123",
+    "start_time": "2025-12-12 05:54:25",
+    "radio": "expres",
+    "recorded_at": "2025-12-12T05:54:56.807754+01:00",
+    "raw_valid": true,
+    "song_session_id": "0e6d8c3a-6869-4d05-921c-24b1378b3d4e",
+    "duration_ms": 192466,
+    "genre": []
+  },
+  {
+    "song": "Merry Christmas Everyone",
+    "artists": [
+      "Shakin Stevens"
+    ],
+    "isrc": "GBARL0801716",
+    "start_time": "2025-12-12 05:57:07",
+    "radio": "expres",
+    "recorded_at": "2025-12-12T05:57:39.047507+01:00",
+    "raw_valid": true,
+    "song_session_id": "0185274c-cd03-4820-8b77-c161ddcaea43",
+    "duration_ms": 219666,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Be Mine",
+    "artists": [
+      "Kamrad"
+    ],
+    "isrc": "DE1NJ2500035",
+    "start_time": "2025-12-12 06:07:00",
+    "radio": "expres",
+    "recorded_at": "2025-12-12T06:07:21.349289+01:00",
+    "raw_valid": true,
+    "song_session_id": "e5c74996-c7ff-4559-b5e8-1ce4128f5a92",
+    "duration_ms": 156463,
+    "genre": []
+  },
+  {
+    "song": "Vianocna Pohoda",
+    "artists": [
+      "Radio Expres",
+      "Sam Sebou",
+      "Kali"
+    ],
+    "isrc": "CZCZ42400089",
+    "start_time": "2025-12-12 06:09:39",
+    "radio": "expres",
+    "recorded_at": "2025-12-12T06:10:03.582363+01:00",
+    "raw_valid": true,
+    "song_session_id": "1a3489df-22b0-4f12-90e7-a6cdb63130d2",
+    "duration_ms": 164833,
+    "genre": []
+  },
+  {
+    "song": "Ray Of Light",
+    "artists": [
+      "Nico Santos"
+    ],
+    "isrc": "DECE72402394",
+    "start_time": "2025-12-12 06:14:05",
+    "radio": "expres",
+    "recorded_at": "2025-12-12T06:14:22.006118+01:00",
+    "raw_valid": true,
+    "song_session_id": "02222272-fcb6-4120-ae83-b6d5ee40566f",
+    "duration_ms": 176500,
+    "genre": []
+  },
+  {
+    "song": "Poker Face",
+    "artists": [
+      "Lady Gaga"
+    ],
+    "isrc": "USUM70824409",
+    "start_time": "2025-12-12 06:17:02",
+    "radio": "expres",
+    "recorded_at": "2025-12-12T06:17:24.486161+01:00",
+    "raw_valid": true,
+    "song_session_id": "8b6a21b2-5ec3-444a-bb09-40eba720136d",
+    "duration_ms": 237213,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Wannabe",
+    "artists": [
+      "Spice Girls"
+    ],
+    "isrc": "GBAAA9600008",
+    "start_time": "2025-12-12 06:24:53",
+    "radio": "expres",
+    "recorded_at": "2025-12-12T06:25:25.489237+01:00",
+    "raw_valid": true,
+    "song_session_id": "7daef1b5-0269-4f3e-8d1d-26b6c00cb9b9",
+    "duration_ms": 174160,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Mystical Magical",
+    "artists": [
+      "Benson Boone"
+    ],
+    "isrc": "USWB12500844",
+    "start_time": "2025-12-12 06:27:40",
+    "radio": "expres",
+    "recorded_at": "2025-12-12T06:28:07.728150+01:00",
+    "raw_valid": true,
+    "song_session_id": "0e2b8d33-7772-40d8-b3ec-001e87c55134",
+    "duration_ms": 165746,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Holding Out For A Hero",
+    "artists": [
+      "Bonnie Tyler"
+    ],
+    "isrc": "USSM18300449",
+    "start_time": "2025-12-12 06:32:12",
+    "radio": "expres",
+    "recorded_at": "2025-12-12T06:32:46.562232+01:00",
+    "raw_valid": true,
+    "song_session_id": "a79416d3-1c72-479a-8a61-96fea9839e97",
+    "duration_ms": 349893,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "The Sound Of Silence",
+    "artists": [
+      "Disturbed"
+    ],
+    "isrc": "USRE12400063",
+    "start_time": "2025-12-12 06:36:31",
+    "radio": "expres",
+    "recorded_at": "2025-12-12T06:36:49.774867+01:00",
+    "raw_valid": true,
+    "song_session_id": "1aecb142-e4fe-405d-a3ae-5935efd936dd",
+    "duration_ms": 185238,
+    "genre": []
+  },
+  {
+    "song": "Hlavu Maj Hore",
+    "artists": [
+      "Gladiator"
+    ],
+    "isrc": "CZA210901083",
+    "start_time": "2025-12-12 06:44:25",
+    "radio": "expres",
+    "recorded_at": "2025-12-12T06:44:50.882619+01:00",
+    "raw_valid": true,
+    "song_session_id": "b5fe97a2-f74e-4679-a905-3aef00d3db6b",
+    "duration_ms": 205946,
+    "genre": []
+  },
+  {
+    "song": "Undressed",
+    "artists": [
+      "Sombr"
+    ],
+    "isrc": "USWB12500737",
+    "start_time": "2025-12-12 06:47:39",
+    "radio": "expres",
+    "recorded_at": "2025-12-12T06:48:13.612327+01:00",
+    "raw_valid": true,
+    "song_session_id": "cadf1679-a030-4a26-8fde-31b1d26f4cd3",
+    "duration_ms": 182088,
+    "genre": [
+      "indie pop"
+    ]
+  },
+  {
+    "song": "Driving Home For Christmas",
+    "artists": [
+      "Chris Rea"
+    ],
+    "isrc": "GBAHS9904091",
+    "start_time": "2025-12-12 06:52:50",
+    "radio": "expres",
+    "recorded_at": "2025-12-12T06:53:12.446496+01:00",
+    "raw_valid": true,
+    "song_session_id": "6f8026a6-5437-4885-a4a6-0651c7429a42",
+    "duration_ms": 240213,
+    "genre": [
+      "rock"
+    ]
+  }
+]

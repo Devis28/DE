@@ -1,0 +1,276 @@
+[
+  {
+    "song": {
+      "play_date": "2025-11-25",
+      "play_time": "20:03",
+      "artist": [
+        "Jon Hendricks"
+      ],
+      "title": "Jive Samba"
+    },
+    "recorded_at": "2025-11-25T20:03:34.728229+01:00",
+    "raw_valid": true,
+    "song_session_id": "fc35872e-e6d2-4c19-a779-1a0a1b6f1249",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-11-25",
+      "play_time": "20:05",
+      "artist": [
+        "Trilobeat"
+      ],
+      "title": "Čiara"
+    },
+    "recorded_at": "2025-11-25T20:08:35.394028+01:00",
+    "raw_valid": true,
+    "song_session_id": "d192dcb6-7509-44c8-9931-e2e3307d7b4d",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-11-25",
+      "play_time": "20:09",
+      "artist": [
+        "Chick Corea"
+      ],
+      "title": "Dear Alice"
+    },
+    "recorded_at": "2025-11-25T20:13:36.084341+01:00",
+    "raw_valid": true,
+    "song_session_id": "29508b93-f0eb-44c3-9693-22b59837dabd",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-11-25",
+      "play_time": "20:22",
+      "artist": [
+        "Lukas Oravec Quartet",
+        "Jerry Bergonzi"
+      ],
+      "title": "Temptation"
+    },
+    "recorded_at": "2025-11-25T20:23:37.458859+01:00",
+    "raw_valid": true,
+    "song_session_id": "bdff2a16-dc56-4f50-9f6b-693118c4fa5f",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-11-25",
+      "play_time": "20:29",
+      "artist": [
+        "The Banger Factory"
+      ],
+      "title": "Warriors Pt. 2"
+    },
+    "recorded_at": "2025-11-25T20:33:38.841803+01:00",
+    "raw_valid": true,
+    "song_session_id": "f896d344-cd93-467f-802f-4a006ca3f6c5",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-11-25",
+      "play_time": "20:37",
+      "artist": [
+        "Petraš Projekt"
+      ],
+      "title": "More Sokol Pie"
+    },
+    "recorded_at": "2025-11-25T20:38:39.545431+01:00",
+    "raw_valid": true,
+    "song_session_id": "a4db1f70-0379-44ed-9487-b84bc41fc991",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-11-25",
+      "play_time": "20:42",
+      "artist": [
+        "Bud Shank",
+        "Clare Fischer"
+      ],
+      "title": "Pensative"
+    },
+    "recorded_at": "2025-11-25T20:43:40.241485+01:00",
+    "raw_valid": true,
+    "song_session_id": "9ee05cbc-b1a3-438c-9980-4fc6173cf687",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-11-25",
+      "play_time": "20:45",
+      "artist": [
+        "Peter Lipa"
+      ],
+      "title": "Dala Mi (Hrudnym Kosom)"
+    },
+    "recorded_at": "2025-11-25T20:48:40.923064+01:00",
+    "raw_valid": true,
+    "song_session_id": "7dcdf412-e318-4334-9255-7ed89fc40c5f",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-11-25",
+      "play_time": "20:48",
+      "artist": [
+        "Esbjörn Svensson Trio"
+      ],
+      "title": "Did They Ever Tell Cousteau?"
+    },
+    "recorded_at": "2025-11-25T20:53:41.620671+01:00",
+    "raw_valid": true,
+    "song_session_id": "00041dbb-7bb9-4b1e-be12-d2e5d9f4b577",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-11-25",
+      "play_time": "20:56",
+      "artist": [
+        "Meute"
+      ],
+      "title": "Loss Of Hope (Innellea Rework)"
+    },
+    "recorded_at": "2025-11-25T20:58:42.305647+01:00",
+    "raw_valid": true,
+    "song_session_id": "f11c61fb-8b0c-423d-8543-246d6bf07f6b",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-11-25",
+      "play_time": "21:04",
+      "artist": [
+        "Emmet Cohen",
+        "Mar Vilaseca"
+      ],
+      "title": "Chega De Saudade (No More Blues)"
+    },
+    "recorded_at": "2025-11-25T21:08:43.778718+01:00",
+    "raw_valid": true,
+    "song_session_id": "56503671-5d86-4247-92f3-93940118fc48",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-11-25",
+      "play_time": "21:11",
+      "artist": [
+        "Nikolaj Nikitin",
+        "Lubos Sramek Altar Quartets"
+      ],
+      "title": "Lux E Tenebris"
+    },
+    "recorded_at": "2025-11-25T21:13:44.472617+01:00",
+    "raw_valid": true,
+    "song_session_id": "12724f67-932e-42dc-bc34-6840679ac038",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-11-25",
+      "play_time": "21:16",
+      "artist": [
+        "1705"
+      ],
+      "title": "Between Spaces"
+    },
+    "recorded_at": "2025-11-25T21:18:45.162650+01:00",
+    "raw_valid": true,
+    "song_session_id": "d8404a77-3b20-4202-b34a-86043d099577",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-11-25",
+      "play_time": "21:22",
+      "artist": [
+        "Jazzinfection Trio"
+      ],
+      "title": "Dark Heritage"
+    },
+    "recorded_at": "2025-11-25T21:23:45.845729+01:00",
+    "raw_valid": true,
+    "song_session_id": "ef895008-ace4-49b5-bc97-b0c617c50561",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-11-25",
+      "play_time": "21:30",
+      "artist": [
+        "Juraj Griglak"
+      ],
+      "title": "Dreaming"
+    },
+    "recorded_at": "2025-11-25T21:33:47.239184+01:00",
+    "raw_valid": true,
+    "song_session_id": "6042da90-e2b5-47ae-b7e9-a9deda83469f",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-11-25",
+      "play_time": "21:36",
+      "artist": [
+        "Grant Green"
+      ],
+      "title": "Idle Moments"
+    },
+    "recorded_at": "2025-11-25T21:38:47.944815+01:00",
+    "raw_valid": true,
+    "song_session_id": "dc216510-8dab-4224-a796-8ffbd81dbbdc",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-11-25",
+      "play_time": "21:51",
+      "artist": [
+        "Sisa Michalidesová"
+      ],
+      "title": "Feritto"
+    },
+    "recorded_at": "2025-11-25T21:53:50.095656+01:00",
+    "raw_valid": true,
+    "song_session_id": "97a62af7-703d-4db0-8d9a-17e5f1a663a2",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-11-25",
+      "play_time": "21:55",
+      "artist": [
+        "Bill Evans"
+      ],
+      "title": "Like Someone In Love"
+    },
+    "recorded_at": "2025-11-25T21:58:50.786195+01:00",
+    "raw_valid": true,
+    "song_session_id": "25e0ac29-346e-4e26-aaf4-598644b4206c",
+    "duration_ms": null,
+    "genre": []
+  }
+]

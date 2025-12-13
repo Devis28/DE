@@ -1,0 +1,47 @@
+[
+  {
+    "last_update": "2025-11-04 20:04:09",
+    "song": {
+      "musicAuthor": "Komajota",
+      "musicCover": "https://static.radia.sk/covers/32/553b382e-3ba6-49a1-b951-2a3dbbb197bd.jpg",
+      "musicTitle": "Ráno V Novinách",
+      "radio": "Fun Rádio",
+      "startTime": "21:03"
+    },
+    "recorded_at": "2025-11-04T21:04:10.210371+01:00",
+    "raw_valid": true,
+    "song_session_id": "5fb74f33-2214-4b17-ae82-2115e908f878",
+    "duration_ms": 230213,
+    "genre": []
+  },
+  {
+    "last_update": "2025-11-04 20:08:10",
+    "song": {
+      "musicAuthor": "AMO & Polemic",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048516088d41c5e27c46b19c4bc6c",
+      "musicTitle": "Spolu",
+      "radio": "Fun Rádio",
+      "startTime": "21:07"
+    },
+    "recorded_at": "2025-11-04T21:08:10.449538+01:00",
+    "raw_valid": true,
+    "song_session_id": "d691022a-58d1-4f25-8b8f-1cd65fb5f752",
+    "duration_ms": 193266,
+    "genre": []
+  },
+  {
+    "last_update": "2025-11-04 20:11:10",
+    "song": {
+      "musicAuthor": "Tina & Dara Rolins",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851e6c9f573b7b5e4c401ff0d1e",
+      "musicTitle": "Nový Príbeh",
+      "radio": "Fun Rádio",
+      "startTime": "21:10"
+    },
+    "recorded_at": "2025-11-04T21:11:10.644305+01:00",
+    "raw_valid": true,
+    "song_session_id": "4d02d2a8-68d5-45b0-b28a-bcea768bdeae",
+    "duration_ms": 195555,
+    "genre": []
+  }
+]

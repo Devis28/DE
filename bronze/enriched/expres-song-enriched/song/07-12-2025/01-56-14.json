@@ -1,0 +1,525 @@
+[
+  {
+    "song": "Vianocny Cas",
+    "artists": [
+      "Emma Drobna"
+    ],
+    "isrc": "SKB452300101",
+    "start_time": "2025-12-07 00:59:32",
+    "radio": "expres",
+    "recorded_at": "2025-12-07T01:00:04.387659+01:00",
+    "raw_valid": true,
+    "song_session_id": "ff4a1c26-e758-4a01-93c0-5384c0723cb9",
+    "duration_ms": 173151,
+    "genre": []
+  },
+  {
+    "song": "Chasing Paradise",
+    "artists": [
+      "Kygo",
+      "Onerepublic"
+    ],
+    "isrc": "SEBGA2500019",
+    "start_time": "2025-12-07 01:02:27",
+    "radio": "expres",
+    "recorded_at": "2025-12-07T01:03:06.973625+01:00",
+    "raw_valid": true,
+    "song_session_id": "9a0b5641-2be2-4c10-ad07-35f795f7d76e",
+    "duration_ms": 180532,
+    "genre": [
+      "tropical house"
+    ]
+  },
+  {
+    "song": "Vietor",
+    "artists": [
+      "Zdenka Predna"
+    ],
+    "isrc": "USDY42023020",
+    "start_time": "2025-12-07 01:05:26",
+    "radio": "expres",
+    "recorded_at": "2025-12-07T01:05:49.658521+01:00",
+    "raw_valid": true,
+    "song_session_id": "974b842b-8477-4e03-bdaf-66737a0c22b1",
+    "duration_ms": 164000,
+    "genre": []
+  },
+  {
+    "song": "Regalo",
+    "artists": [
+      "Alvaro Soler"
+    ],
+    "isrc": "DEE862500388",
+    "start_time": "2025-12-07 01:09:24",
+    "radio": "expres",
+    "recorded_at": "2025-12-07T01:09:47.925285+01:00",
+    "raw_valid": true,
+    "song_session_id": "99774811-7ccb-4d8b-afc6-e1c5b0d88507",
+    "duration_ms": 184984,
+    "genre": []
+  },
+  {
+    "song": "Room Of Ghosts (Dudo Rmx)",
+    "artists": [
+      "Elevenhill"
+    ],
+    "isrc": null,
+    "start_time": "2025-12-07 01:12:29",
+    "radio": "expres",
+    "recorded_at": "2025-12-07T01:12:50.756536+01:00",
+    "raw_valid": true,
+    "song_session_id": "0f1882e1-ac84-4899-9783-f0691300a673"
+  },
+  {
+    "song": "You Give Love A Bad Name",
+    "artists": [
+      "Bon Jovi"
+    ],
+    "isrc": "USPR39402224",
+    "start_time": "2025-12-07 01:15:36",
+    "radio": "expres",
+    "recorded_at": "2025-12-07T01:15:53.359597+01:00",
+    "raw_valid": true,
+    "song_session_id": "c006883a-ba5e-432e-8c61-07971b0df8ce",
+    "duration_ms": 223146,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Vrat Mi Tie Hviezdy '08",
+    "artists": [
+      "Kristina"
+    ],
+    "isrc": null,
+    "start_time": "2025-12-07 01:19:21",
+    "radio": "expres",
+    "recorded_at": "2025-12-07T01:19:56.961326+01:00",
+    "raw_valid": true,
+    "song_session_id": "269eb4e7-a88c-4cc7-8f6d-b411c94aefa4"
+  },
+  {
+    "song": "Love Me Not",
+    "artists": [
+      "Ravyn Lenae"
+    ],
+    "isrc": "USAT22401137",
+    "start_time": "2025-12-07 01:22:32",
+    "radio": "expres",
+    "recorded_at": "2025-12-07T01:22:59.523497+01:00",
+    "raw_valid": true,
+    "song_session_id": "b2725b29-86e3-430a-bee6-c4160817ad26",
+    "duration_ms": 213466,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Dievca Neplac",
+    "artists": [
+      "Mirka Brezovska"
+    ],
+    "isrc": "SKB722301302",
+    "start_time": "2025-12-07 01:25:51",
+    "radio": "expres",
+    "recorded_at": "2025-12-07T01:26:22.280054+01:00",
+    "raw_valid": true,
+    "song_session_id": "8ce54218-22a8-40ba-9be0-cbd2e72e900a",
+    "duration_ms": 161142,
+    "genre": []
+  },
+  {
+    "song": "Beautiful Reason",
+    "artists": [
+      "Michael Schulte"
+    ],
+    "isrc": "DECE72400963",
+    "start_time": "2025-12-07 01:28:53",
+    "radio": "expres",
+    "recorded_at": "2025-12-07T01:29:29.900307+01:00",
+    "raw_valid": true,
+    "song_session_id": "26c8f93d-3d50-4312-a4ec-2b3840c7485a",
+    "duration_ms": 183586,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Do They Know Its Christmas?",
+    "artists": [
+      "Band Aid"
+    ],
+    "isrc": "GBF088400001",
+    "start_time": "2025-12-07 01:32:03",
+    "radio": "expres",
+    "recorded_at": "2025-12-07T01:32:32.418528+01:00",
+    "raw_valid": true,
+    "song_session_id": "cdb22de3-7265-4cda-8ae3-347e6a0c41e4",
+    "duration_ms": 222533,
+    "genre": [
+      "christmas"
+    ]
+  },
+  {
+    "song": "Be Mine",
+    "artists": [
+      "Kamrad"
+    ],
+    "isrc": "DE1NJ2500035",
+    "start_time": "2025-12-07 01:35:43",
+    "radio": "expres",
+    "recorded_at": "2025-12-07T01:36:10.339721+01:00",
+    "raw_valid": true,
+    "song_session_id": "dc0c65ed-881d-48dc-b62f-243b05da4acd",
+    "duration_ms": 156463,
+    "genre": []
+  },
+  {
+    "song": "Tri Slova",
+    "artists": [
+      "Marika Gombitova",
+      "Miro Zbirka",
+      "Marie Rottrova"
+    ],
+    "isrc": "SKA112397014",
+    "start_time": "2025-12-07 01:38:18",
+    "radio": "expres",
+    "recorded_at": "2025-12-07T01:38:52.634779+01:00",
+    "raw_valid": true,
+    "song_session_id": "30577b72-7641-4fa7-bf88-b633f229bd87",
+    "duration_ms": 182693,
+    "genre": [
+      "big beat"
+    ]
+  },
+  {
+    "song": "Lamour Toujours",
+    "artists": [
+      "Gigi D'agostino"
+    ],
+    "isrc": "NLS241000174",
+    "start_time": "2025-12-07 01:41:25",
+    "radio": "expres",
+    "recorded_at": "2025-12-07T01:42:00.174892+01:00",
+    "raw_valid": true,
+    "song_session_id": "d539a4c9-423c-41dd-8836-a400d165502a",
+    "duration_ms": 242053,
+    "genre": [
+      "trance"
+    ]
+  },
+  {
+    "song": "Usmev A Caj",
+    "artists": [
+      "Imt Smile",
+      "Zuzana Smatanova"
+    ],
+    "isrc": "SKA010400081",
+    "start_time": "2025-12-07 01:45:29",
+    "radio": "expres",
+    "recorded_at": "2025-12-07T01:45:58.638730+01:00",
+    "raw_valid": true,
+    "song_session_id": "8c57b8dc-1f4d-4e1d-be71-c268008c2508",
+    "duration_ms": 295920,
+    "genre": []
+  },
+  {
+    "song": "Eternity",
+    "artists": [
+      "Alex Warren"
+    ],
+    "isrc": "USAT22503779",
+    "start_time": "2025-12-07 01:48:59",
+    "radio": "expres",
+    "recorded_at": "2025-12-07T01:49:26.488452+01:00",
+    "raw_valid": true,
+    "song_session_id": "9bdc0f93-1401-440c-9b74-a93ff50df7aa",
+    "duration_ms": 189553,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Bol Raz Jeden Ziak",
+    "artists": [
+      "Robo Grigorov"
+    ],
+    "isrc": "TCAEJ1930274",
+    "start_time": "2025-12-07 01:52:40",
+    "radio": "expres",
+    "recorded_at": "2025-12-07T01:53:04.419699+01:00",
+    "raw_valid": true,
+    "song_session_id": "2fc1be01-4d7d-4fa6-b952-04f444ca9f57",
+    "duration_ms": 191373,
+    "genre": []
+  },
+  {
+    "song": "Human",
+    "artists": [
+      "Rag N Bone Man"
+    ],
+    "isrc": "GBARL1600665",
+    "start_time": "2025-12-07 01:55:41",
+    "radio": "expres",
+    "recorded_at": "2025-12-07T01:56:06.938109+01:00",
+    "raw_valid": true,
+    "song_session_id": "f3554746-71c6-4cb7-8dcc-fc192b042dc2",
+    "duration_ms": 199413,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Santas Coming For Us",
+    "artists": [
+      "Sia"
+    ],
+    "isrc": "USAT21704210",
+    "start_time": "2025-12-07 01:59:01",
+    "radio": "expres",
+    "recorded_at": "2025-12-07T01:59:34.865091+01:00",
+    "raw_valid": true,
+    "song_session_id": "009a7f00-e739-4483-93e6-3d1543f87873",
+    "duration_ms": 205266,
+    "genre": []
+  },
+  {
+    "song": "The One",
+    "artists": [
+      "Michael Patrick Kelly"
+    ],
+    "isrc": "DEE862500476",
+    "start_time": "2025-12-07 02:02:17",
+    "radio": "expres",
+    "recorded_at": "2025-12-07T02:02:52.593636+01:00",
+    "raw_valid": true,
+    "song_session_id": "17d763f8-0da4-4d1c-b8b2-1475ecdccd53",
+    "duration_ms": 181194,
+    "genre": []
+  },
+  {
+    "song": "Vidiecan",
+    "artists": [
+      "Vidiek"
+    ],
+    "isrc": "SKA128810408",
+    "start_time": "2025-12-07 02:05:17",
+    "radio": "expres",
+    "recorded_at": "2025-12-07T02:05:39.967945+01:00",
+    "raw_valid": true,
+    "song_session_id": "520b938c-e16b-4ae6-8270-aaf928b8dc71",
+    "duration_ms": 221040,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "I Like The Way You Kiss Me",
+    "artists": [
+      "Artemas"
+    ],
+    "isrc": "QZJ842400387",
+    "start_time": "2025-12-07 02:08:32",
+    "radio": "expres",
+    "recorded_at": "2025-12-07T02:09:02.701925+01:00",
+    "raw_valid": true,
+    "song_session_id": "d1d9e3f3-50e6-4e78-abbc-09896ecba14b",
+    "duration_ms": 142514,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Uz Asi Nie Si",
+    "artists": [
+      "Richard Muller"
+    ],
+    "isrc": "SKA010109101",
+    "start_time": "2025-12-07 02:10:58",
+    "radio": "expres",
+    "recorded_at": "2025-12-07T02:11:29.760607+01:00",
+    "raw_valid": true,
+    "song_session_id": "25293047-ebfe-46ef-817f-5929ecbf0e65",
+    "duration_ms": 230813,
+    "genre": []
+  },
+  {
+    "song": "Try",
+    "artists": [
+      "Pink"
+    ],
+    "isrc": "USRC11200785",
+    "start_time": "2025-12-07 02:14:47",
+    "radio": "expres",
+    "recorded_at": "2025-12-07T02:15:07.708809+01:00",
+    "raw_valid": true,
+    "song_session_id": "d40693f7-b822-465a-8282-2d588b425f28",
+    "duration_ms": 247720,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Nejsom Ten Pravy",
+    "artists": [
+      "Kali"
+    ],
+    "isrc": "SKE531800001",
+    "start_time": "2025-12-07 02:18:34",
+    "radio": "expres",
+    "recorded_at": "2025-12-07T02:18:50.705584+01:00",
+    "raw_valid": true,
+    "song_session_id": "5b7751b0-a4cc-45aa-b09d-428506764fe1",
+    "duration_ms": 216711,
+    "genre": []
+  },
+  {
+    "song": "Ray Of Light",
+    "artists": [
+      "Nico Santos"
+    ],
+    "isrc": "DECE72402394",
+    "start_time": "2025-12-07 02:22:18",
+    "radio": "expres",
+    "recorded_at": "2025-12-07T02:22:38.801075+01:00",
+    "raw_valid": true,
+    "song_session_id": "7962399b-046c-4eac-a715-fe159b80885c",
+    "duration_ms": 176500,
+    "genre": []
+  },
+  {
+    "song": "Vsetko Bude Dobre",
+    "artists": [
+      "Gladiator"
+    ],
+    "isrc": "SKCM72560001",
+    "start_time": "2025-12-07 02:25:11",
+    "radio": "expres",
+    "recorded_at": "2025-12-07T02:25:41.389041+01:00",
+    "raw_valid": true,
+    "song_session_id": "d34c128c-5959-46a6-9a4c-c06f18e115b1",
+    "duration_ms": 166588,
+    "genre": []
+  },
+  {
+    "song": "Wannabe",
+    "artists": [
+      "Spice Girls"
+    ],
+    "isrc": "GBAAA9600008",
+    "start_time": "2025-12-07 02:28:18",
+    "radio": "expres",
+    "recorded_at": "2025-12-07T02:28:38.922540+01:00",
+    "raw_valid": true,
+    "song_session_id": "dec4c5c5-dd4b-4a15-9774-0e36c66981a6",
+    "duration_ms": 174160,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Na Vianoce Domov",
+    "artists": [
+      "Alan Murin",
+      "Radio Expres"
+    ],
+    "isrc": "QZYFZ2540500",
+    "start_time": "2025-12-07 02:31:09",
+    "radio": "expres",
+    "recorded_at": "2025-12-07T02:31:46.523279+01:00",
+    "raw_valid": true,
+    "song_session_id": "a672d5c7-9c48-451b-bc62-ae2f220ab17d",
+    "duration_ms": 240000,
+    "genre": []
+  },
+  {
+    "song": "Wonderful Life 25",
+    "artists": [
+      "Hurts",
+      "Purple Disco Machine"
+    ],
+    "isrc": "DEE862500677",
+    "start_time": "2025-12-07 02:35:07",
+    "radio": "expres",
+    "recorded_at": "2025-12-07T02:35:34.639923+01:00",
+    "raw_valid": true,
+    "song_session_id": "a0d68c2f-64b2-4149-ae3a-b79936ae1255",
+    "duration_ms": 178658,
+    "genre": []
+  },
+  {
+    "song": "Rezonancia",
+    "artists": [
+      "Katarina Knechtova"
+    ],
+    "isrc": "SKE432100146",
+    "start_time": "2025-12-07 02:38:00",
+    "radio": "expres",
+    "recorded_at": "2025-12-07T02:38:21.974186+01:00",
+    "raw_valid": true,
+    "song_session_id": "c6749ee2-9594-4ff1-a428-f772f42b86d5",
+    "duration_ms": 194812,
+    "genre": []
+  },
+  {
+    "song": "Wind Of Change",
+    "artists": [
+      "Scorpions"
+    ],
+    "isrc": "USPG19090037",
+    "start_time": "2025-12-07 02:41:13",
+    "radio": "expres",
+    "recorded_at": "2025-12-07T02:41:44.769477+01:00",
+    "raw_valid": true,
+    "song_session_id": "4ca1685e-0793-4bcf-9ae7-3582f60a8134",
+    "duration_ms": 311240,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Slub",
+    "artists": [
+      "Dara Rolins"
+    ],
+    "isrc": "SKB452500101",
+    "start_time": "2025-12-07 02:46:29",
+    "radio": "expres",
+    "recorded_at": "2025-12-07T02:47:09.007617+01:00",
+    "raw_valid": true,
+    "song_session_id": "10557a91-07a4-41db-b588-4398b7150250",
+    "duration_ms": 201270,
+    "genre": []
+  },
+  {
+    "song": "Blink Twice",
+    "artists": [
+      "Shaboozey",
+      "Myles Smith"
+    ],
+    "isrc": "USUYG1717098",
+    "start_time": "2025-12-07 02:49:54",
+    "radio": "expres",
+    "recorded_at": "2025-12-07T02:50:31.779115+01:00",
+    "raw_valid": true,
+    "song_session_id": "4b288d8b-28a1-46a1-bf48-938f816bcfc7",
+    "duration_ms": 156721,
+    "genre": []
+  },
+  {
+    "song": "Last Christmas",
+    "artists": [
+      "Wham"
+    ],
+    "isrc": "GBBBM8400019",
+    "start_time": "2025-12-07 02:52:36",
+    "radio": "expres",
+    "recorded_at": "2025-12-07T02:52:53.805303+01:00",
+    "raw_valid": true,
+    "song_session_id": "896e4237-7c76-4880-b894-af6002a0b624",
+    "duration_ms": 262960,
+    "genre": [
+      "pop"
+    ]
+  }
+]

@@ -1,0 +1,459 @@
+[
+  {
+    "song": "Spolu",
+    "artists": [
+      "Amo",
+      "Polemic"
+    ],
+    "isrc": "SKA271102502",
+    "start_time": "2025-10-31 04:58:01",
+    "radio": "expres",
+    "recorded_at": "31.10.2025 04:58:29",
+    "raw_valid": true,
+    "song_session_id": "c13895be-8607-449a-b17f-552a5b71bad0",
+    "duration_ms": 193266,
+    "genre": []
+  },
+  {
+    "song": "Green Green Grass",
+    "artists": [
+      "George Ezra"
+    ],
+    "isrc": "GBARL2200008",
+    "start_time": "2025-10-31 05:01:01",
+    "radio": "expres",
+    "recorded_at": "31.10.2025 05:01:26",
+    "raw_valid": true,
+    "song_session_id": "04b424a5-90a1-46d2-b01c-1e7dd0dde4f9",
+    "duration_ms": 167613,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Vilma",
+    "artists": [
+      "Para"
+    ],
+    "isrc": "SKCF92401002",
+    "start_time": "2025-10-31 05:03:51",
+    "radio": "expres",
+    "recorded_at": "31.10.2025 05:04:10",
+    "raw_valid": true,
+    "song_session_id": "f0aadf41-909d-4bad-820e-8768a8c05b9e",
+    "duration_ms": 234044,
+    "genre": []
+  },
+  {
+    "song": "The One",
+    "artists": [
+      "Michael Patrick Kelly"
+    ],
+    "isrc": "DEE862500476",
+    "start_time": "2025-10-31 05:07:50",
+    "radio": "expres",
+    "recorded_at": "31.10.2025 05:08:15",
+    "raw_valid": true,
+    "song_session_id": "d2d2f6da-7384-4b0f-81a2-bf8fc067f14b",
+    "duration_ms": 181194,
+    "genre": []
+  },
+  {
+    "song": "Natalia",
+    "artists": [
+      "Robo Opatovsky"
+    ],
+    "isrc": "SKC251000513",
+    "start_time": "2025-10-31 05:10:47",
+    "radio": "expres",
+    "recorded_at": "31.10.2025 05:11:24",
+    "raw_valid": true,
+    "song_session_id": "4904969b-6495-4ba9-9603-5b5810ff75b3",
+    "duration_ms": 209226,
+    "genre": []
+  },
+  {
+    "song": "Ritual",
+    "artists": [
+      "Tiesto",
+      "Jonas Blue",
+      "Rita Ora"
+    ],
+    "isrc": "CYA111900146",
+    "start_time": "2025-10-31 05:13:58",
+    "radio": "expres",
+    "recorded_at": "31.10.2025 05:14:16",
+    "raw_valid": true,
+    "song_session_id": "427444f5-ee71-4fcd-b8e7-425ad68df499",
+    "duration_ms": 198995,
+    "genre": []
+  },
+  {
+    "song": "Skusame Sa Najst",
+    "artists": [
+      "Peter Bic Project"
+    ],
+    "isrc": "SKA011700065",
+    "start_time": "2025-10-31 05:17:23",
+    "radio": "expres",
+    "recorded_at": "31.10.2025 05:17:40",
+    "raw_valid": true,
+    "song_session_id": "008321c7-691e-4ff6-aa67-b073f4b71e8b",
+    "duration_ms": 191165,
+    "genre": []
+  },
+  {
+    "song": "Wonderful Life 25",
+    "artists": [
+      "Hurts",
+      "Purple Disco Machine"
+    ],
+    "isrc": "DEE862500677",
+    "start_time": "2025-10-31 05:20:09",
+    "radio": "expres",
+    "recorded_at": "31.10.2025 05:20:50",
+    "raw_valid": true,
+    "song_session_id": "ad616d9e-8d1d-4106-be73-3c67567582bd",
+    "duration_ms": 178658,
+    "genre": []
+  },
+  {
+    "song": "Denisa",
+    "artists": [
+      "Miro Zbirka"
+    ],
+    "isrc": "SKA120208205",
+    "start_time": "2025-10-31 05:23:15",
+    "radio": "expres",
+    "recorded_at": "31.10.2025 05:23:44",
+    "raw_valid": true,
+    "song_session_id": "d4720706-5242-4737-bd39-b0ced7abaef4",
+    "duration_ms": 179906,
+    "genre": []
+  },
+  {
+    "song": "My Oh My",
+    "artists": [
+      "Ava Max"
+    ],
+    "isrc": "USAT22401759",
+    "start_time": "2025-10-31 05:26:12",
+    "radio": "expres",
+    "recorded_at": "31.10.2025 05:26:43",
+    "raw_valid": true,
+    "song_session_id": "413c2040-b715-478f-9f00-7ed10eaccd33",
+    "duration_ms": 156155,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Between Us",
+    "artists": [
+      "Emma Drobna"
+    ],
+    "isrc": "CZA232000529",
+    "start_time": "2025-10-31 05:28:45",
+    "radio": "expres",
+    "recorded_at": "31.10.2025 05:29:07",
+    "raw_valid": true,
+    "song_session_id": "c02e656e-a5a8-46cb-949e-331385799666",
+    "duration_ms": 173866,
+    "genre": []
+  },
+  {
+    "song": "Glide",
+    "artists": [
+      "Neiked",
+      "Portugal The Man"
+    ],
+    "isrc": "DEE862500421",
+    "start_time": "2025-10-31 05:32:07",
+    "radio": "expres",
+    "recorded_at": "31.10.2025 05:32:26",
+    "raw_valid": true,
+    "song_session_id": "c81a32d6-34f7-4d73-aca8-3ec28c45ec92",
+    "duration_ms": 184405,
+    "genre": []
+  },
+  {
+    "song": "Hej Sokoly!",
+    "artists": [
+      "Imt Smile",
+      "Ondrej Kandrac"
+    ],
+    "isrc": "SKA011700036",
+    "start_time": "2025-10-31 05:35:09",
+    "radio": "expres",
+    "recorded_at": "31.10.2025 05:35:28",
+    "raw_valid": true,
+    "song_session_id": "87273ae5-1692-4d93-980c-f2c0d97af4a8",
+    "duration_ms": 174250,
+    "genre": []
+  },
+  {
+    "song": "Englishman In New York",
+    "artists": [
+      "Sting"
+    ],
+    "isrc": "USAM18700040",
+    "start_time": "2025-10-31 05:38:03",
+    "radio": "expres",
+    "recorded_at": "31.10.2025 05:38:42",
+    "raw_valid": true,
+    "song_session_id": "3b587354-e3fe-403c-a540-5ac45772aee9",
+    "duration_ms": 267266,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Laska Neumiera",
+    "artists": [
+      "Jana Kirschner",
+      "Stefan Stec"
+    ],
+    "isrc": "SKAP22100001",
+    "start_time": "2025-10-31 05:42:16",
+    "radio": "expres",
+    "recorded_at": "31.10.2025 05:42:32",
+    "raw_valid": true,
+    "song_session_id": "18fc589a-6a47-4912-bde3-506ca8a8e6ce",
+    "duration_ms": 202025,
+    "genre": []
+  },
+  {
+    "song": "Save My Love",
+    "artists": [
+      "Marshmello",
+      "Ellie Goulding",
+      "Avaion"
+    ],
+    "isrc": "USUG12504310",
+    "start_time": "2025-10-31 05:45:25",
+    "radio": "expres",
+    "recorded_at": "31.10.2025 05:46:06",
+    "raw_valid": true,
+    "song_session_id": "adbcbd70-ffcf-4370-bbae-7705faf09f63",
+    "duration_ms": 215555,
+    "genre": []
+  },
+  {
+    "song": "Neuc Vtaka Lietat",
+    "artists": [
+      "Richard Muller"
+    ],
+    "isrc": "CZA110111007",
+    "start_time": "2025-10-31 05:49:30",
+    "radio": "expres",
+    "recorded_at": "31.10.2025 05:50:05",
+    "raw_valid": true,
+    "song_session_id": "42c5a23d-e175-4535-ba5b-107fe9fce24c",
+    "duration_ms": 226146,
+    "genre": []
+  },
+  {
+    "song": "Shut Up And Dance",
+    "artists": [
+      "Walk The Moon"
+    ],
+    "isrc": "USRC11401949",
+    "start_time": "2025-10-31 05:53:12",
+    "radio": "expres",
+    "recorded_at": "31.10.2025 05:53:41",
+    "raw_valid": true,
+    "song_session_id": "d0285b38-b73f-4a82-a4a5-7d7d3aaaa836",
+    "duration_ms": 197720,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "S Tebou Bez Teba",
+    "artists": [
+      "Pavol Habera"
+    ],
+    "isrc": "TCADJ1714985",
+    "start_time": "2025-10-31 05:56:35",
+    "radio": "expres",
+    "recorded_at": "31.10.2025 05:57:00",
+    "raw_valid": true,
+    "song_session_id": "173b39a6-932d-4fec-8556-d7d223707a7b",
+    "duration_ms": 213781,
+    "genre": []
+  },
+  {
+    "song": "The Dead Dance",
+    "artists": [
+      "Lady Gaga"
+    ],
+    "isrc": "USUM72407034",
+    "start_time": "2025-10-31 06:06:57",
+    "radio": "expres",
+    "recorded_at": "31.10.2025 06:07:34",
+    "raw_valid": true,
+    "song_session_id": "d79199b6-a120-44ca-b52c-046b70ff766a",
+    "duration_ms": 228518,
+    "genre": [
+      "offizielle charts"
+    ]
+  },
+  {
+    "song": "Numb",
+    "artists": [
+      "Linkin Park"
+    ],
+    "isrc": "USWB10300474",
+    "start_time": "2025-10-31 06:10:32",
+    "radio": "expres",
+    "recorded_at": "31.10.2025 06:10:48",
+    "raw_valid": true,
+    "song_session_id": "b09fb8de-a73d-407e-b6b9-f2003a852ae5",
+    "duration_ms": 187520,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Strangers",
+    "artists": [
+      "Kenya Grace"
+    ],
+    "isrc": "USWB12305048",
+    "start_time": "2025-10-31 06:14:38",
+    "radio": "expres",
+    "recorded_at": "31.10.2025 06:15:08",
+    "raw_valid": true,
+    "song_session_id": "862e955c-5e74-4f9f-a411-7f879ae4bd2e",
+    "duration_ms": 172964,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "My Universe",
+    "artists": [
+      "Coldplay",
+      "Bts"
+    ],
+    "isrc": "GBAYE2100952",
+    "start_time": "2025-10-31 06:17:36",
+    "radio": "expres",
+    "recorded_at": "31.10.2025 06:18:07",
+    "raw_valid": true,
+    "song_session_id": "4c67bc5a-2bdf-4431-800b-321e2a4a7e2c",
+    "duration_ms": 226198,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "I Dont Wanna Wait",
+    "artists": [
+      "David Guetta",
+      "Onerepublic"
+    ],
+    "isrc": "UKWLG2400013",
+    "start_time": "2025-10-31 06:25:21",
+    "radio": "expres",
+    "recorded_at": "31.10.2025 06:25:51",
+    "raw_valid": true,
+    "song_session_id": "1e5ca7de-31bc-4e5e-80a0-992a33b7c1a9",
+    "duration_ms": 149667,
+    "genre": [
+      "electronic"
+    ]
+  },
+  {
+    "song": "Let Me Die",
+    "artists": [
+      "Mark Dann",
+      "Giovanni Ricci"
+    ],
+    "isrc": "US38Y2520370",
+    "start_time": "2025-10-31 06:27:55",
+    "radio": "expres",
+    "recorded_at": "31.10.2025 06:28:08",
+    "raw_valid": true,
+    "song_session_id": "ca5fb0c4-3b87-4f6d-b7a9-69966f3b6706",
+    "duration_ms": 147010,
+    "genre": []
+  },
+  {
+    "song": "Listen To Your Heart",
+    "artists": [
+      "Roxette"
+    ],
+    "isrc": "SEAME8878130",
+    "start_time": "2025-10-31 06:32:29",
+    "radio": "expres",
+    "recorded_at": "31.10.2025 06:32:52",
+    "raw_valid": true,
+    "song_session_id": "3b7678de-7ff6-430c-ab5a-8f39af8c3994",
+    "duration_ms": 328093,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Told You So",
+    "artists": [
+      "Martin Garrix",
+      "Jex"
+    ],
+    "isrc": "NLM5S2402334",
+    "start_time": "2025-10-31 06:37:29",
+    "radio": "expres",
+    "recorded_at": "31.10.2025 06:37:50",
+    "raw_valid": true,
+    "song_session_id": "ae3b83c8-b856-49eb-b598-5545b7ce5170",
+    "duration_ms": 187031,
+    "genre": []
+  },
+  {
+    "song": "Blank Space",
+    "artists": [
+      "Taylor Swift"
+    ],
+    "isrc": "USCJY1431309",
+    "start_time": "2025-10-31 06:44:57",
+    "radio": "expres",
+    "recorded_at": "31.10.2025 06:45:28",
+    "raw_valid": true,
+    "song_session_id": "59365e1b-033a-4a18-9206-b813788af845",
+    "duration_ms": 231826,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Regalo",
+    "artists": [
+      "Alvaro Soler"
+    ],
+    "isrc": "DEE862500388",
+    "start_time": "2025-10-31 06:48:53",
+    "radio": "expres",
+    "recorded_at": "31.10.2025 06:49:27",
+    "raw_valid": true,
+    "song_session_id": "6d28e8d6-d86d-48b8-84e1-50afab6b3c01",
+    "duration_ms": 184984,
+    "genre": []
+  },
+  {
+    "song": "How You Remind Me",
+    "artists": [
+      "Nickelback"
+    ],
+    "isrc": "NLA320119533",
+    "start_time": "2025-10-31 06:54:02",
+    "radio": "expres",
+    "recorded_at": "31.10.2025 06:54:18",
+    "raw_valid": true,
+    "song_session_id": "f6e999c3-0301-4045-8a08-bc234dd4ba31",
+    "duration_ms": 223746,
+    "genre": [
+      "rock"
+    ]
+  }
+]

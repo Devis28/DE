@@ -1,0 +1,423 @@
+[
+  {
+    "song": "Vianocny Cas",
+    "artists": [
+      "Emma Drobna"
+    ],
+    "isrc": "SKB452300101",
+    "start_time": "2025-12-07 14:57:34",
+    "radio": "expres",
+    "recorded_at": "2025-12-07T14:58:03.066776+01:00",
+    "raw_valid": true,
+    "song_session_id": "3c60ccc6-0081-458a-982b-3b366e0db05e",
+    "duration_ms": 173151,
+    "genre": []
+  },
+  {
+    "song": "Symphony",
+    "artists": [
+      "Clean Bandit",
+      "Zara Larsson"
+    ],
+    "isrc": "GBAHS1700199",
+    "start_time": "2025-12-07 15:06:25",
+    "radio": "expres",
+    "recorded_at": "2025-12-07T15:06:44.814150+01:00",
+    "raw_valid": true,
+    "song_session_id": "7411ee8c-375a-4820-88a9-a31f2fae831b",
+    "duration_ms": 212733,
+    "genre": []
+  },
+  {
+    "song": "Proklinam (Live)",
+    "artists": [
+      "Janek Ledecky"
+    ],
+    "isrc": "CZUM71800068",
+    "start_time": "2025-12-07 15:09:56",
+    "radio": "expres",
+    "recorded_at": "2025-12-07T15:10:27.962527+01:00",
+    "raw_valid": true,
+    "song_session_id": "59e9e4be-ea9f-4b8e-a10e-b1add750bf13",
+    "duration_ms": 243466,
+    "genre": []
+  },
+  {
+    "song": "Blink Twice",
+    "artists": [
+      "Shaboozey",
+      "Myles Smith"
+    ],
+    "isrc": "USUYG1717098",
+    "start_time": "2025-12-07 15:13:35",
+    "radio": "expres",
+    "recorded_at": "2025-12-07T15:14:05.972053+01:00",
+    "raw_valid": true,
+    "song_session_id": "d47126db-d9c4-4974-9831-74eebf54d14d",
+    "duration_ms": 156721,
+    "genre": []
+  },
+  {
+    "song": "22 Dni",
+    "artists": [
+      "Miro Zbirka"
+    ],
+    "isrc": "SKA128460801",
+    "start_time": "2025-12-07 15:16:20",
+    "radio": "expres",
+    "recorded_at": "2025-12-07T15:16:48.260409+01:00",
+    "raw_valid": true,
+    "song_session_id": "292f666d-542c-446a-9af7-ed518e22149f",
+    "duration_ms": 224093,
+    "genre": []
+  },
+  {
+    "song": "Undressed",
+    "artists": [
+      "Sombr"
+    ],
+    "isrc": "USWB12500737",
+    "start_time": "2025-12-07 15:19:37",
+    "radio": "expres",
+    "recorded_at": "2025-12-07T15:20:11.104272+01:00",
+    "raw_valid": true,
+    "song_session_id": "46659753-db4a-4a9f-b436-889fc47ee7e9",
+    "duration_ms": 182088,
+    "genre": [
+      "indie pop"
+    ]
+  },
+  {
+    "song": "Vianocna Pohoda",
+    "artists": [
+      "Radio Expres",
+      "Sam Sebou",
+      "Kali"
+    ],
+    "isrc": "CZCZ42400089",
+    "start_time": "2025-12-07 15:22:40",
+    "radio": "expres",
+    "recorded_at": "2025-12-07T15:23:08.753943+01:00",
+    "raw_valid": true,
+    "song_session_id": "a87660ec-50ad-4172-9817-5e69a3db8af1",
+    "duration_ms": 164833,
+    "genre": []
+  },
+  {
+    "song": "I Like The Way You Kiss Me",
+    "artists": [
+      "Artemas"
+    ],
+    "isrc": "QZJ842400387",
+    "start_time": "2025-12-07 15:31:47",
+    "radio": "expres",
+    "recorded_at": "2025-12-07T15:32:15.992304+01:00",
+    "raw_valid": true,
+    "song_session_id": "2650cad7-6e58-4d0e-bc63-f994727578ae",
+    "duration_ms": 142514,
+    "genre": [
+      "pop rock"
+    ]
+  },
+  {
+    "song": "Radioactive",
+    "artists": [
+      "Imagine Dragons"
+    ],
+    "isrc": "USUM71201074",
+    "start_time": "2025-12-07 15:34:09",
+    "radio": "expres",
+    "recorded_at": "2025-12-07T15:34:33.036563+01:00",
+    "raw_valid": true,
+    "song_session_id": "192f9ae9-3e2e-4856-a936-0938a406c754",
+    "duration_ms": 188000,
+    "genre": [
+      "indie"
+    ]
+  },
+  {
+    "song": "Truly Madly Deeply",
+    "artists": [
+      "Savage Garden"
+    ],
+    "isrc": "AURQ09700005",
+    "start_time": "2025-12-07 15:37:16",
+    "radio": "expres",
+    "recorded_at": "2025-12-07T15:37:40.633352+01:00",
+    "raw_valid": true,
+    "song_session_id": "29024aec-3022-4d3c-bdd1-63b8d8a139d7",
+    "duration_ms": 248000,
+    "genre": []
+  },
+  {
+    "song": "Thats So True",
+    "artists": [
+      "Gracie Abrams"
+    ],
+    "isrc": "USUG12406903",
+    "start_time": "2025-12-07 15:41:49",
+    "radio": "expres",
+    "recorded_at": "2025-12-07T15:42:19.398361+01:00",
+    "raw_valid": true,
+    "song_session_id": "ce9a0e96-b3ff-48d6-b2f9-c772fe3c19e2",
+    "duration_ms": 130771,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Vsetko Bude Dobre",
+    "artists": [
+      "Gladiator"
+    ],
+    "isrc": "SKCM72560001",
+    "start_time": "2025-12-07 15:44:28",
+    "radio": "expres",
+    "recorded_at": "2025-12-07T15:44:56.591236+01:00",
+    "raw_valid": true,
+    "song_session_id": "da7165b3-140b-4c60-9939-a33411cd6257",
+    "duration_ms": 166588,
+    "genre": []
+  },
+  {
+    "song": "Everybody (Backstreets Back)",
+    "artists": [
+      "Backstreet Boys"
+    ],
+    "isrc": "USJI19710083",
+    "start_time": "2025-12-07 15:47:28",
+    "radio": "expres",
+    "recorded_at": "2025-12-07T15:47:59.291818+01:00",
+    "raw_valid": true,
+    "song_session_id": "08f3b54f-6608-4ba8-a45f-beb773244122",
+    "duration_ms": 225346,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "So What",
+    "artists": [
+      "Pink"
+    ],
+    "isrc": "USLF20800067",
+    "start_time": "2025-12-07 15:51:11",
+    "radio": "expres",
+    "recorded_at": "2025-12-07T15:51:42.361730+01:00",
+    "raw_valid": true,
+    "song_session_id": "079f9d17-1106-4e6e-90b5-1dc8799bf257",
+    "duration_ms": 214506,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Last Christmas",
+    "artists": [
+      "Wham"
+    ],
+    "isrc": "GBBBM8400019",
+    "start_time": "2025-12-07 15:54:50",
+    "radio": "expres",
+    "recorded_at": "2025-12-07T15:55:20.332857+01:00",
+    "raw_valid": true,
+    "song_session_id": "c02c6f63-bff7-45f0-892a-e335dabbb84e",
+    "duration_ms": 262960,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Tisic A Jedenkrat",
+    "artists": [
+      "Elan"
+    ],
+    "isrc": "TCAEF1942480",
+    "start_time": "2025-12-07 16:07:55",
+    "radio": "expres",
+    "recorded_at": "2025-12-07T16:08:25.505368+01:00",
+    "raw_valid": true,
+    "song_session_id": "453ccfef-7ef3-4e9d-aad5-bd047b83972e",
+    "duration_ms": 279000,
+    "genre": []
+  },
+  {
+    "song": "Pride",
+    "artists": [
+      "Felix Jaehn",
+      "Jhart"
+    ],
+    "isrc": "DEUM72503423",
+    "start_time": "2025-12-07 16:12:42",
+    "radio": "expres",
+    "recorded_at": "2025-12-07T16:13:04.208864+01:00",
+    "raw_valid": true,
+    "song_session_id": "b8372c0b-e039-48f3-8786-fd5d28d1614f",
+    "duration_ms": 158150,
+    "genre": [
+      "tropical house"
+    ]
+  },
+  {
+    "song": "Manila",
+    "artists": [
+      "Ray Dalton",
+      "Alvaro Soler"
+    ],
+    "isrc": "DEE862102002",
+    "start_time": "2025-12-07 16:15:20",
+    "radio": "expres",
+    "recorded_at": "2025-12-07T16:15:46.388714+01:00",
+    "raw_valid": true,
+    "song_session_id": "487ffad8-5751-404c-b8ca-f0ee4d00aa3f",
+    "duration_ms": 144621,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Wonderful Dream (Holidays Are Coming)",
+    "artists": [
+      "Melanie Thornton"
+    ],
+    "isrc": "DEE860100979",
+    "start_time": "2025-12-07 16:20:04",
+    "radio": "expres",
+    "recorded_at": "2025-12-07T16:20:30.228297+01:00",
+    "raw_valid": true,
+    "song_session_id": "7e95c678-863f-4d49-af1d-547edf86c90b",
+    "duration_ms": 230733,
+    "genre": [
+      "christmas"
+    ]
+  },
+  {
+    "song": "Gone Gone Gone",
+    "artists": [
+      "David Guetta",
+      "Teddy Swims",
+      "Tones And I"
+    ],
+    "isrc": "UKWLG2500132",
+    "start_time": "2025-12-07 16:23:49",
+    "radio": "expres",
+    "recorded_at": "2025-12-07T16:24:08.233011+01:00",
+    "raw_valid": true,
+    "song_session_id": "e0509ab6-33a5-4e7c-96c7-56d21e80a1b8",
+    "duration_ms": 198004,
+    "genre": [
+      "soul"
+    ]
+  },
+  {
+    "song": "World Gone Wild",
+    "artists": [
+      "Robin Schulz",
+      "Cyril",
+      "Sam Martin"
+    ],
+    "isrc": "DEA622403329",
+    "start_time": "2025-12-07 16:32:24",
+    "radio": "expres",
+    "recorded_at": "2025-12-07T16:32:50.202262+01:00",
+    "raw_valid": true,
+    "song_session_id": "dceb605d-3e86-4e5e-8cd9-30c05cca669b",
+    "duration_ms": 146523,
+    "genre": [
+      "tropical house"
+    ]
+  },
+  {
+    "song": "Stressed Out",
+    "artists": [
+      "Twenty One Pilots"
+    ],
+    "isrc": "USAT21500597",
+    "start_time": "2025-12-07 16:34:43",
+    "radio": "expres",
+    "recorded_at": "2025-12-07T16:35:12.230954+01:00",
+    "raw_valid": true,
+    "song_session_id": "807a8d36-2684-489e-a084-0125316e3431",
+    "duration_ms": 202333,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Hero",
+    "artists": [
+      "Mariah Carey"
+    ],
+    "isrc": "USSM19303171",
+    "start_time": "2025-12-07 16:38:05",
+    "radio": "expres",
+    "recorded_at": "2025-12-07T16:38:35.030976+01:00",
+    "raw_valid": true,
+    "song_session_id": "7ecbb202-db3d-4703-9458-43d7c967d60e",
+    "duration_ms": 257972,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Head Above Water",
+    "artists": [
+      "Twocolors",
+      "Safri Duo",
+      "Chris De Sarandy"
+    ],
+    "isrc": "DEUM72503698",
+    "start_time": "2025-12-07 16:42:28",
+    "radio": "expres",
+    "recorded_at": "2025-12-07T16:42:53.457663+01:00",
+    "raw_valid": true,
+    "song_session_id": "b6c4dcec-ad75-436b-919d-984c96dd4181",
+    "duration_ms": 174550,
+    "genre": []
+  },
+  {
+    "song": "O Blaznech",
+    "artists": [
+      "Michal Penk"
+    ],
+    "isrc": "CZA549200308",
+    "start_time": "2025-12-07 16:45:31",
+    "radio": "expres",
+    "recorded_at": "2025-12-07T16:45:56.015381+01:00",
+    "raw_valid": true,
+    "song_session_id": "361b0f7c-179e-4346-9667-cbf1b50be483",
+    "duration_ms": 278000,
+    "genre": []
+  },
+  {
+    "song": "Sorry Im Here For Someone Else",
+    "artists": [
+      "Benson Boone"
+    ],
+    "isrc": "USWB12500464",
+    "start_time": "2025-12-07 16:49:56",
+    "radio": "expres",
+    "recorded_at": "2025-12-07T16:50:19.562641+01:00",
+    "raw_valid": true,
+    "song_session_id": "b2465067-cc59-49cd-ba18-088cf486079e",
+    "duration_ms": 156582,
+    "genre": []
+  },
+  {
+    "song": "Dilemma",
+    "artists": [
+      "Nelly",
+      "Kelly Rowland"
+    ],
+    "isrc": "USUR10200370",
+    "start_time": "2025-12-07 16:52:30",
+    "radio": "expres",
+    "recorded_at": "2025-12-07T16:52:56.996666+01:00",
+    "raw_valid": true,
+    "song_session_id": "dd2ea923-d922-4382-8222-8fffde4ff660",
+    "duration_ms": 289160,
+    "genre": [
+      "rap"
+    ]
+  }
+]

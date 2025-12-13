@@ -1,0 +1,438 @@
+[
+  {
+    "station": "Rádio Melody",
+    "title": "Mandy",
+    "artist": "Manilow Barry",
+    "date": "15.11.2025",
+    "time": "00:04",
+    "last_update": "15.11.2025 00:05:25",
+    "recorded_at": "2025-11-15T00:05:25.998706+01:00",
+    "raw_valid": true,
+    "song_session_id": "c93d9fe6-61ce-4699-9022-6f0a776a8684",
+    "duration_ms": 213333,
+    "genre": [
+      "yacht rock"
+    ]
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Moonlight Shadow",
+    "artist": "Oldfield Mike & Reilly Maggie",
+    "date": "15.11.2025",
+    "time": "00:07",
+    "last_update": "15.11.2025 00:08:29",
+    "recorded_at": "2025-11-15T00:08:29.959087+01:00",
+    "raw_valid": true,
+    "song_session_id": "a1acb508-3a32-48a6-8b3d-7a67f4b95e90",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Nebude To Ľahké",
+    "artist": "Müller Richard",
+    "date": "15.11.2025",
+    "time": "00:10",
+    "last_update": "15.11.2025 00:11:36",
+    "recorded_at": "2025-11-15T00:11:36.188694+01:00",
+    "raw_valid": true,
+    "song_session_id": "b2cfbcb8-421d-4f92-b044-d0bc817a3bac",
+    "duration_ms": 233573,
+    "genre": []
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "V Dolinách",
+    "artist": "Desmod",
+    "date": "15.11.2025",
+    "time": "00:14",
+    "last_update": "15.11.2025 00:15:17",
+    "recorded_at": "2025-11-15T00:15:17.483649+01:00",
+    "raw_valid": true,
+    "song_session_id": "dc6ce060-2031-49a9-82d3-25ec399219bd",
+    "duration_ms": 206546,
+    "genre": []
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "It's My Life",
+    "artist": "Dr. Alban",
+    "date": "15.11.2025",
+    "time": "00:17",
+    "last_update": "15.11.2025 00:18:26",
+    "recorded_at": "2025-11-15T00:18:26.994353+01:00",
+    "raw_valid": true,
+    "song_session_id": "2dbb173a-b7f0-4ad2-8fad-f158da5b6e54",
+    "duration_ms": 239933,
+    "genre": [
+      "eurodance"
+    ]
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Pomaranče z Kuby",
+    "artist": "Hex",
+    "date": "15.11.2025",
+    "time": "00:22",
+    "last_update": "15.11.2025 00:23:10",
+    "recorded_at": "2025-11-15T00:23:10.686352+01:00",
+    "raw_valid": true,
+    "song_session_id": "8af5eacb-f83e-41aa-84f0-8c0836e8eaf5",
+    "duration_ms": 260316,
+    "genre": []
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Lady Lady Lady",
+    "artist": "Esposito Joe",
+    "date": "15.11.2025",
+    "time": "00:26",
+    "last_update": "15.11.2025 00:27:17",
+    "recorded_at": "2025-11-15T00:27:17.563025+01:00",
+    "raw_valid": true,
+    "song_session_id": "9a33b18e-1121-4963-a22c-38f4a6a23b36",
+    "duration_ms": 249640,
+    "genre": []
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Kaskadér",
+    "artist": "Elán",
+    "date": "15.11.2025",
+    "time": "00:30",
+    "last_update": "15.11.2025 00:31:25",
+    "recorded_at": "2025-11-15T00:31:25.959268+01:00",
+    "raw_valid": true,
+    "song_session_id": "f59be705-c70e-449a-8b6c-d04fc4b0a806",
+    "duration_ms": 240000,
+    "genre": []
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Věnování",
+    "artist": "Filipová Lenka",
+    "date": "15.11.2025",
+    "time": "00:34",
+    "last_update": "15.11.2025 00:35:36",
+    "recorded_at": "2025-11-15T00:35:36.921235+01:00",
+    "raw_valid": true,
+    "song_session_id": "ab0705ab-e392-4d79-959c-1383fcfbf590",
+    "duration_ms": 245226,
+    "genre": []
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Láska",
+    "artist": "Gladiátor",
+    "date": "15.11.2025",
+    "time": "00:38",
+    "last_update": "15.11.2025 00:39:11",
+    "recorded_at": "2025-11-15T00:39:11.800223+01:00",
+    "raw_valid": true,
+    "song_session_id": "64a9df4e-5282-4fc5-a1fd-e0562ab1421d",
+    "duration_ms": 236506,
+    "genre": []
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Only You",
+    "artist": "Yazoo",
+    "date": "15.11.2025",
+    "time": "00:42",
+    "last_update": "15.11.2025 00:43:25",
+    "recorded_at": "2025-11-15T00:43:25.581127+01:00",
+    "raw_valid": true,
+    "song_session_id": "0c865d36-7e54-4803-97bf-9e2442ed9750",
+    "duration_ms": 194173,
+    "genre": [
+      "synthpop"
+    ]
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Pokoj V Duši",
+    "artist": "Jana Kirschner",
+    "date": "15.11.2025",
+    "time": "00:45",
+    "last_update": "15.11.2025 00:46:32",
+    "recorded_at": "2025-11-15T00:46:32.922270+01:00",
+    "raw_valid": true,
+    "song_session_id": "2396133b-923c-4e59-b87e-4576fab07112",
+    "duration_ms": 211626,
+    "genre": []
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "When I Need You",
+    "artist": "Leo Sayer",
+    "date": "15.11.2025",
+    "time": "00:48",
+    "last_update": "15.11.2025 00:49:11",
+    "recorded_at": "2025-11-15T00:49:11.720079+01:00",
+    "raw_valid": true,
+    "song_session_id": "cbbcf17a-e239-4103-bca7-a54cf68fd47f",
+    "duration_ms": 255040,
+    "genre": [
+      "soft rock"
+    ]
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Keď Sa Raz Oči Dohodnú",
+    "artist": "Modus",
+    "date": "15.11.2025",
+    "time": "00:53",
+    "last_update": "15.11.2025 00:54:16",
+    "recorded_at": "2025-11-15T00:54:16.972747+01:00",
+    "raw_valid": true,
+    "song_session_id": "533ac892-7973-4a0e-bf61-6fcfe5d0696f",
+    "duration_ms": 276653,
+    "genre": []
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "There's A Party",
+    "artist": "Dj Bobo",
+    "date": "15.11.2025",
+    "time": "00:56",
+    "last_update": "15.11.2025 00:57:19",
+    "recorded_at": "2025-11-15T00:57:19.145545+01:00",
+    "raw_valid": true,
+    "song_session_id": "2e9c2104-d820-49cb-96cf-1f538630c24e",
+    "duration_ms": 323893,
+    "genre": [
+      "eurodance"
+    ]
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Stačí Si Priať",
+    "artist": "Smatanová Zuzana",
+    "date": "15.11.2025",
+    "time": "01:01",
+    "last_update": "15.11.2025 01:02:32",
+    "recorded_at": "2025-11-15T01:02:32.196873+01:00",
+    "raw_valid": true,
+    "song_session_id": "5b38e672-c600-4e2b-966e-cbe9caba37fd",
+    "duration_ms": 215506,
+    "genre": []
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Eye Of The Tiger",
+    "artist": "Survivor",
+    "date": "15.11.2025",
+    "time": "01:04",
+    "last_update": "15.11.2025 01:06:38",
+    "recorded_at": "2025-11-15T01:06:38.277648+01:00",
+    "raw_valid": true,
+    "song_session_id": "79942e95-6270-4a44-8de5-f3ab5977db35",
+    "duration_ms": 243773,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Show Me Heaven",
+    "artist": "Mckee Maria",
+    "date": "15.11.2025",
+    "time": "01:09",
+    "last_update": "15.11.2025 01:09:13",
+    "recorded_at": "2025-11-15T01:09:13.603157+01:00",
+    "raw_valid": true,
+    "song_session_id": "3dc47e44-8cd5-4735-8d93-a7d2f024558c",
+    "duration_ms": 223466,
+    "genre": []
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Keď Muž Miluje Ženu",
+    "artist": "Robo Opatovský",
+    "date": "15.11.2025",
+    "time": "01:13",
+    "last_update": "15.11.2025 01:13:16",
+    "recorded_at": "2025-11-15T01:13:16.766990+01:00",
+    "raw_valid": true,
+    "song_session_id": "32846ac3-4d0a-47e8-b994-e4443858feb7",
+    "duration_ms": 249240,
+    "genre": []
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Víš Lásko",
+    "artist": "Bartošová Iveta",
+    "date": "15.11.2025",
+    "time": "01:17",
+    "last_update": "15.11.2025 01:17:26",
+    "recorded_at": "2025-11-15T01:17:26.998404+01:00",
+    "raw_valid": true,
+    "song_session_id": "1e027baa-287c-4d74-94d9-66d4e3778fba",
+    "duration_ms": 221205,
+    "genre": []
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Love Is In The Air",
+    "artist": "John Paul Young",
+    "date": "15.11.2025",
+    "time": "01:20",
+    "last_update": "15.11.2025 01:21:32",
+    "recorded_at": "2025-11-15T01:21:32.676509+01:00",
+    "raw_valid": true,
+    "song_session_id": "9dace66a-ca2e-4a48-ab94-5a8c62b1810a",
+    "duration_ms": 208866,
+    "genre": []
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Príliš Osobná Známosť",
+    "artist": "I.M.T. Smile & Nikol Štíbrová",
+    "date": "15.11.2025",
+    "time": "01:24",
+    "last_update": "15.11.2025 01:24:37",
+    "recorded_at": "2025-11-15T01:24:37.159418+01:00",
+    "raw_valid": true,
+    "song_session_id": "60e2779b-23f3-4ac0-adfc-5d1ac939e41f",
+    "duration_ms": 271597,
+    "genre": []
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Something's Gotten Hold Of My Heart",
+    "artist": "Gene Pitney/Marc Almond",
+    "date": "15.11.2025",
+    "time": "01:28",
+    "last_update": "15.11.2025 01:29:14",
+    "recorded_at": "2025-11-15T01:29:14.544807+01:00",
+    "raw_valid": true,
+    "song_session_id": "f105ba28-4285-4563-ba5d-3c23e27ed23a",
+    "duration_ms": 280488,
+    "genre": [
+      "synthpop"
+    ]
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Ešte Váham",
+    "artist": "Kristína",
+    "date": "15.11.2025",
+    "time": "01:33",
+    "last_update": "15.11.2025 01:33:18",
+    "recorded_at": "2025-11-15T01:33:18.832756+01:00",
+    "raw_valid": true,
+    "song_session_id": "71b88d7b-5cd3-4af6-a9e6-8b993aefa33f",
+    "duration_ms": 231291,
+    "genre": []
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Obchodník S Deštěm",
+    "artist": "Kryštof",
+    "date": "15.11.2025",
+    "time": "01:37",
+    "last_update": "15.11.2025 01:37:25",
+    "recorded_at": "2025-11-15T01:37:25.499397+01:00",
+    "raw_valid": true,
+    "song_session_id": "09e99624-3bed-4a4b-9796-ad32d794d3de",
+    "duration_ms": 214400,
+    "genre": []
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Tell It To My Heart",
+    "artist": "Taylor Dayne",
+    "date": "15.11.2025",
+    "time": "01:40",
+    "last_update": "15.11.2025 01:41:38",
+    "recorded_at": "2025-11-15T01:41:38.685959+01:00",
+    "raw_valid": true,
+    "song_session_id": "04aa6bbd-7042-4f69-97ea-c40ccf690cd8",
+    "duration_ms": 220880,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Myslis Na To Na Co Myslim Ja?",
+    "artist": "Peter Nagy",
+    "date": "15.11.2025",
+    "time": "01:44",
+    "last_update": "15.11.2025 01:44:14",
+    "recorded_at": "2025-11-15T01:44:14.841104+01:00",
+    "raw_valid": true,
+    "song_session_id": "2b2d7243-c561-4350-94c7-57eff6e3f260",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Balada O Polných Vtákoch",
+    "artist": "Žbirka Miro",
+    "date": "15.11.2025",
+    "time": "01:47",
+    "last_update": "15.11.2025 01:47:21",
+    "recorded_at": "2025-11-15T01:47:21.470357+01:00",
+    "raw_valid": true,
+    "song_session_id": "9cf8112c-82a9-48fe-b993-b6bcc9168eed",
+    "duration_ms": 190586,
+    "genre": []
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Piú Bella Cosa",
+    "artist": "Eros Ramazzotti",
+    "date": "15.11.2025",
+    "time": "01:50",
+    "last_update": "15.11.2025 01:50:26",
+    "recorded_at": "2025-11-15T01:50:26.040321+01:00",
+    "raw_valid": true,
+    "song_session_id": "c1a63a4e-162e-44c5-9387-30a1c30d8b22",
+    "duration_ms": 267813,
+    "genre": [
+      "italo dance"
+    ]
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Kde Jsi ?",
+    "artist": "Janda Dalibor",
+    "date": "15.11.2025",
+    "time": "01:54",
+    "last_update": "15.11.2025 01:55:35",
+    "recorded_at": "2025-11-15T01:55:35.719182+01:00",
+    "raw_valid": true,
+    "song_session_id": "58784515-635a-4245-a005-8dcb9dbec3a4",
+    "duration_ms": 232026,
+    "genre": []
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "As Long As You Love Me",
+    "artist": "Backstreet Boys",
+    "date": "15.11.2025",
+    "time": "01:58",
+    "last_update": "15.11.2025 01:59:14",
+    "recorded_at": "2025-11-15T01:59:14.322632+01:00",
+    "raw_valid": true,
+    "song_session_id": "d3033aa9-4c9a-4585-bd4e-9fdb25863a8a",
+    "duration_ms": 221106,
+    "genre": []
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Je Jaká Je",
+    "artist": "Karel Gott",
+    "date": "15.11.2025",
+    "time": "02:02",
+    "last_update": "15.11.2025 02:02:22",
+    "recorded_at": "2025-11-15T02:02:22.104440+01:00",
+    "raw_valid": true,
+    "song_session_id": "1fb2f846-ed01-4f19-8ab2-f11e2812b791",
+    "duration_ms": 230240,
+    "genre": [
+      "schlager"
+    ]
+  }
+]

@@ -1,0 +1,390 @@
+[
+  {
+    "song": "Glide",
+    "artists": [
+      "Neiked",
+      "Portugal The Man"
+    ],
+    "isrc": "DEE862500421",
+    "start_time": "2025-11-12 10:06:49",
+    "radio": "expres",
+    "recorded_at": "2025-11-12T10:07:37.108004+01:00",
+    "raw_valid": true,
+    "song_session_id": "7e6d6f68-58fc-4235-b0d4-949c1f57b22d",
+    "duration_ms": 184405,
+    "genre": []
+  },
+  {
+    "song": "Euphoria",
+    "artists": [
+      "Loreen"
+    ],
+    "isrc": "SEPQA1201986",
+    "start_time": "2025-11-12 10:09:45",
+    "radio": "expres",
+    "recorded_at": "2025-11-12T10:10:19.663270+01:00",
+    "raw_valid": true,
+    "song_session_id": "8950e783-a74e-4809-893a-e54bc0f9b535",
+    "duration_ms": 212640,
+    "genre": [
+      "electronic"
+    ]
+  },
+  {
+    "song": "Everybody",
+    "artists": [
+      "Dj Bobo"
+    ],
+    "isrc": "DEMI60600006",
+    "start_time": "2025-11-12 10:12:47",
+    "radio": "expres",
+    "recorded_at": "2025-11-12T10:13:07.578851+01:00",
+    "raw_valid": true,
+    "song_session_id": "04c5b200-a283-4a6c-9623-715e7046215a",
+    "duration_ms": 229893,
+    "genre": [
+      "electronic"
+    ]
+  },
+  {
+    "song": "Domov",
+    "artists": [
+      "Alan Murin"
+    ],
+    "isrc": "QZWDW2424416",
+    "start_time": "2025-11-12 10:20:35",
+    "radio": "expres",
+    "recorded_at": "2025-11-12T10:20:57.837404+01:00",
+    "raw_valid": true,
+    "song_session_id": "2c4e3fc0-44db-4d76-aa80-0980413fde2c",
+    "duration_ms": 240000,
+    "genre": []
+  },
+  {
+    "song": "Talk To Me",
+    "artists": [
+      "Damiano David",
+      "Tyla",
+      "Nile Rodgers"
+    ],
+    "isrc": "ITB002500942",
+    "start_time": "2025-11-12 10:24:30",
+    "radio": "expres",
+    "recorded_at": "2025-11-12T10:24:58.115432+01:00",
+    "raw_valid": true,
+    "song_session_id": "bf865149-d5ac-486c-86b4-50b4e44b2656",
+    "duration_ms": 193502,
+    "genre": []
+  },
+  {
+    "song": "Some Say",
+    "artists": [
+      "Nea"
+    ],
+    "isrc": "SEBGA1902742",
+    "start_time": "2025-11-12 10:33:47",
+    "radio": "expres",
+    "recorded_at": "2025-11-12T10:34:21.007660+01:00",
+    "raw_valid": true,
+    "song_session_id": "abf74503-6ed7-4cc0-ab84-661e4d82d8af",
+    "duration_ms": 186878,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Feelslikeimfallinginlove",
+    "artists": [
+      "Coldplay"
+    ],
+    "isrc": "GBAYE2400676",
+    "start_time": "2025-11-12 10:36:59",
+    "radio": "expres",
+    "recorded_at": "2025-11-12T10:37:24.092793+01:00",
+    "raw_valid": true,
+    "song_session_id": "bf0fca79-d4cf-4833-93f7-fb6ec4e580bb",
+    "duration_ms": 237803,
+    "genre": [
+      "alternative rock"
+    ]
+  },
+  {
+    "song": "Enjoy The Silence",
+    "artists": [
+      "Depeche Mode"
+    ],
+    "isrc": "GBAJH0400045",
+    "start_time": "2025-11-12 10:40:39",
+    "radio": "expres",
+    "recorded_at": "2025-11-12T10:41:07.872486+01:00",
+    "raw_valid": true,
+    "song_session_id": "4870151b-b936-4bfa-90e9-5d7290a34469",
+    "duration_ms": 255666,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Pride",
+    "artists": [
+      "Felix Jaehn",
+      "Jhart"
+    ],
+    "isrc": "DEUM72503423",
+    "start_time": "2025-11-12 10:45:01",
+    "radio": "expres",
+    "recorded_at": "2025-11-12T10:45:38.947604+01:00",
+    "raw_valid": true,
+    "song_session_id": "d4a586e6-5486-4ab8-8d43-bc30dfc2ff2a",
+    "duration_ms": 158150,
+    "genre": []
+  },
+  {
+    "song": "Genie In A Bottle",
+    "artists": [
+      "Christina Aguilera"
+    ],
+    "isrc": "USRC19900032",
+    "start_time": "2025-11-12 10:47:49",
+    "radio": "expres",
+    "recorded_at": "2025-11-12T10:48:19.153679+01:00",
+    "raw_valid": true,
+    "song_session_id": "5319f498-e66d-4ca1-9b75-591b68fba326",
+    "duration_ms": 217573,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Chasing Paradise",
+    "artists": [
+      "Kygo",
+      "Onerepublic"
+    ],
+    "isrc": "SEBGA2500019",
+    "start_time": "2025-11-12 10:51:38",
+    "radio": "expres",
+    "recorded_at": "2025-11-12T10:52:21.062135+01:00",
+    "raw_valid": true,
+    "song_session_id": "9b55de11-9c60-4ffc-ad82-64d84b5e434a",
+    "duration_ms": 180532,
+    "genre": []
+  },
+  {
+    "song": "Waving Flag",
+    "artists": [
+      "Knaan"
+    ],
+    "isrc": "GBBKS2200009",
+    "start_time": "2025-11-12 10:54:35",
+    "radio": "expres",
+    "recorded_at": "2025-11-12T10:54:59.801766+01:00",
+    "raw_valid": true,
+    "song_session_id": "f7ddce11-d3e0-4860-ad5e-1cc9d5596bcd",
+    "duration_ms": 227487,
+    "genre": []
+  },
+  {
+    "song": "Regalo",
+    "artists": [
+      "Alvaro Soler"
+    ],
+    "isrc": "DEE862500388",
+    "start_time": "2025-11-12 11:07:12",
+    "radio": "expres",
+    "recorded_at": "2025-11-12T11:07:45.264007+01:00",
+    "raw_valid": true,
+    "song_session_id": "ab50986e-f3d2-4ab0-bb57-45905ac4914f",
+    "duration_ms": 184984,
+    "genre": []
+  },
+  {
+    "song": "The One And Only",
+    "artists": [
+      "Chesney Hawkes"
+    ],
+    "isrc": "GBAYK9100001",
+    "start_time": "2025-11-12 11:10:26",
+    "radio": "expres",
+    "recorded_at": "2025-11-12T11:10:48.160639+01:00",
+    "raw_valid": true,
+    "song_session_id": "3869205e-239c-4604-8b8e-956f3edc0d9d",
+    "duration_ms": 221440,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Feel Alive",
+    "artists": [
+      "Kamrad"
+    ],
+    "isrc": "DEE862202500",
+    "start_time": "2025-11-12 11:13:55",
+    "radio": "expres",
+    "recorded_at": "2025-11-12T11:14:40.649439+01:00",
+    "raw_valid": true,
+    "song_session_id": "f0908b37-81bd-4842-b8a1-b11193d9323f",
+    "duration_ms": 148116,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Senorita",
+    "artists": [
+      "Shawn Mendes",
+      "Camila Cabello"
+    ],
+    "isrc": "USUM71911283",
+    "start_time": "2025-11-12 11:16:26",
+    "radio": "expres",
+    "recorded_at": "2025-11-12T11:17:03.451798+01:00",
+    "raw_valid": true,
+    "song_session_id": "d91afcbb-f74d-4352-93c0-e4d3230ab72e",
+    "duration_ms": 190960,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Save My Love",
+    "artists": [
+      "Marshmello",
+      "Ellie Goulding",
+      "Avaion"
+    ],
+    "isrc": "USUG12504310",
+    "start_time": "2025-11-12 11:19:52",
+    "radio": "expres",
+    "recorded_at": "2025-11-12T11:20:11.703827+01:00",
+    "raw_valid": true,
+    "song_session_id": "6ed47d64-1c8b-4ba0-a096-52bca6637dc0",
+    "duration_ms": 215555,
+    "genre": []
+  },
+  {
+    "song": "Slobodna",
+    "artists": [
+      "Elan"
+    ],
+    "isrc": "SKA128343910",
+    "start_time": "2025-11-12 11:23:37",
+    "radio": "expres",
+    "recorded_at": "2025-11-12T11:24:01.236487+01:00",
+    "raw_valid": true,
+    "song_session_id": "367a1fa7-6de1-4c79-b166-d56e361552cf",
+    "duration_ms": 215066,
+    "genre": []
+  },
+  {
+    "song": "Nice To Meet You",
+    "artists": [
+      "Myles Smith"
+    ],
+    "isrc": "GBARL2401376",
+    "start_time": "2025-11-12 11:34:26",
+    "radio": "expres",
+    "recorded_at": "2025-11-12T11:35:03.271440+01:00",
+    "raw_valid": true,
+    "song_session_id": "fa17990f-0630-49c2-bf66-075e7b8a651e",
+    "duration_ms": 176000,
+    "genre": []
+  },
+  {
+    "song": "Follow You",
+    "artists": [
+      "Imagine Dragons"
+    ],
+    "isrc": "USUM72102981",
+    "start_time": "2025-11-12 11:37:25",
+    "radio": "expres",
+    "recorded_at": "2025-11-12T11:37:45.878557+01:00",
+    "raw_valid": true,
+    "song_session_id": "1cc6ed51-d287-45dd-8d21-3266fe95e20b",
+    "duration_ms": 175643,
+    "genre": [
+      "trance"
+    ]
+  },
+  {
+    "song": "Billie Jean",
+    "artists": [
+      "Michael Jackson"
+    ],
+    "isrc": "USSM19902991",
+    "start_time": "2025-11-12 11:40:11",
+    "radio": "expres",
+    "recorded_at": "2025-11-12T11:40:48.950944+01:00",
+    "raw_valid": true,
+    "song_session_id": "7f38eff4-82d7-434b-b9d0-fe4535d5a3bc",
+    "duration_ms": 294601,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Simple Life",
+    "artists": [
+      "Leony"
+    ],
+    "isrc": "DEN062400058",
+    "start_time": "2025-11-12 11:45:06",
+    "radio": "expres",
+    "recorded_at": "2025-11-12T11:45:27.992936+01:00",
+    "raw_valid": true,
+    "song_session_id": "780ae159-f040-4157-bef6-4c8c066e5cf2",
+    "duration_ms": 153100,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Love Me Not",
+    "artists": [
+      "Ravyn Lenae"
+    ],
+    "isrc": "USAT22401137",
+    "start_time": "2025-11-12 11:47:38",
+    "radio": "expres",
+    "recorded_at": "2025-11-12T11:48:10.894584+01:00",
+    "raw_valid": true,
+    "song_session_id": "be7f0892-c459-460d-a68e-f211d974d354",
+    "duration_ms": 213466,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Shut Up And Dance",
+    "artists": [
+      "Walk The Moon"
+    ],
+    "isrc": "USRC11401949",
+    "start_time": "2025-11-12 11:52:00",
+    "radio": "expres",
+    "recorded_at": "2025-11-12T11:52:41.386045+01:00",
+    "raw_valid": true,
+    "song_session_id": "ba1c1889-a633-4cb0-900b-797ae5c4075a",
+    "duration_ms": 197720,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "White Flag",
+    "artists": [
+      "Dido"
+    ],
+    "isrc": "GBBXH0300035",
+    "start_time": "2025-11-12 11:55:26",
+    "radio": "expres",
+    "recorded_at": "2025-11-12T11:56:01.587601+01:00",
+    "raw_valid": true,
+    "song_session_id": "8cf7696b-a9a9-441a-b13d-91ecf4081eff",
+    "duration_ms": 241613,
+    "genre": [
+      "rock"
+    ]
+  }
+]

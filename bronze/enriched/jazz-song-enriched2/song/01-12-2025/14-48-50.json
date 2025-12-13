@@ -1,0 +1,351 @@
+[
+  {
+    "song": {
+      "play_date": "2025-12-01",
+      "play_time": "13:47",
+      "artist": [
+        "111 East"
+      ],
+      "title": "111 East Stomp"
+    },
+    "recorded_at": "2025-12-01T13:50:51.256787+01:00",
+    "raw_valid": true,
+    "song_session_id": "380e2702-7142-429b-9358-53b01fb1aca3",
+    "duration_ms": 250600,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-12-01",
+      "play_time": "13:54",
+      "artist": [
+        "Sisa Feher",
+        "Fehero Rocher"
+      ],
+      "title": "Tiptoe"
+    },
+    "recorded_at": "2025-12-01T13:55:52.021008+01:00",
+    "raw_valid": true,
+    "song_session_id": "15f4d251-21a2-47a6-919b-9d011e4743ee",
+    "duration_ms": 259426,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-12-01",
+      "play_time": "13:58",
+      "artist": [
+        "Wes Montgomery"
+      ],
+      "title": "The Trick Bag (Take 2 & 5)"
+    },
+    "recorded_at": "2025-12-01T14:00:52.842652+01:00",
+    "raw_valid": true,
+    "song_session_id": "257f32d2-0640-4aad-a0bc-72d4d0ae6f4e",
+    "duration_ms": 267487,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-12-01",
+      "play_time": "14:03",
+      "artist": [
+        "George Fenton"
+      ],
+      "title": "The Duke Theme (From The Duke)"
+    },
+    "recorded_at": "2025-12-01T14:05:53.576631+01:00",
+    "raw_valid": true,
+    "song_session_id": "b55107bd-7c7f-4fe7-b1ac-e6cbdf50d69e",
+    "duration_ms": 179788,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-12-01",
+      "play_time": "14:06",
+      "artist": [
+        "Belladonna"
+      ],
+      "title": "Melodies"
+    },
+    "recorded_at": "2025-12-01T14:10:54.590358+01:00",
+    "raw_valid": true,
+    "song_session_id": "f4150569-ebc2-4996-b1e7-1f474e59bcd3",
+    "duration_ms": 450000,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-12-01",
+      "play_time": "14:13",
+      "artist": [
+        "Soulstance"
+      ],
+      "title": "Jazz 2 More - Sabormambo"
+    },
+    "recorded_at": "2025-12-01T14:15:25.209796+01:00",
+    "raw_valid": true,
+    "song_session_id": "6460b998-25b9-4376-9501-5b774ffdbfdc",
+    "duration_ms": 333021,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-12-01",
+      "play_time": "14:19",
+      "artist": [
+        "Ben Curtis"
+      ],
+      "title": "Grooving In La"
+    },
+    "recorded_at": "2025-12-01T14:20:25.883556+01:00",
+    "raw_valid": true,
+    "song_session_id": "c3711a6f-1d95-4fbc-ae8b-fabf96531748",
+    "duration_ms": 191473,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-12-01",
+      "play_time": "14:21",
+      "artist": [
+        "Samuel Hosek"
+      ],
+      "title": "The Night We Called It A Day"
+    },
+    "recorded_at": "2025-12-01T14:25:26.551911+01:00",
+    "raw_valid": true,
+    "song_session_id": "b27c370d-ffe0-48ed-8039-1168cd5a99d9",
+    "duration_ms": 77940,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-12-01",
+      "play_time": "14:26",
+      "artist": [
+        "The Dave Brubeck Quartet"
+      ],
+      "title": "Kathy's Waltz"
+    },
+    "recorded_at": "2025-12-01T14:30:27.469334+01:00",
+    "raw_valid": true,
+    "song_session_id": "912555fe-11ca-4ac3-b72b-2a419ca3347d",
+    "duration_ms": 291223,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-12-01",
+      "play_time": "14:31",
+      "artist": [
+        "Elements Of Life",
+        "Josh Milan",
+        "Lisa Fisher"
+      ],
+      "title": "Berimbau"
+    },
+    "recorded_at": "2025-12-01T14:35:28.133483+01:00",
+    "raw_valid": true,
+    "song_session_id": "195a8b07-7304-4ba2-aac2-d0c78926b5cf",
+    "duration_ms": 365210,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-12-01",
+      "play_time": "14:39",
+      "artist": [
+        "Al Foster"
+      ],
+      "title": "Pent Up House"
+    },
+    "recorded_at": "2025-12-01T14:40:28.936745+01:00",
+    "raw_valid": true,
+    "song_session_id": "0db465a1-4238-4915-a064-836e544fe72f",
+    "duration_ms": 577986,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-12-01",
+      "play_time": "14:44",
+      "artist": [
+        "Rodney Whitaker"
+      ],
+      "title": "When You Played With Roy"
+    },
+    "recorded_at": "2025-12-01T14:45:29.609719+01:00",
+    "raw_valid": true,
+    "song_session_id": "8f3aa7a6-eb6c-4dce-ac5b-ba89194efca9",
+    "duration_ms": 364253,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-12-01",
+      "play_time": "14:53",
+      "artist": [
+        "Al Jarreau"
+      ],
+      "title": "We're In This Love Together"
+    },
+    "recorded_at": "2025-12-01T14:55:30.988784+01:00",
+    "raw_valid": true,
+    "song_session_id": "ff5580a2-13ba-4906-94ed-0433e1b24547",
+    "duration_ms": 226066,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-12-01",
+      "play_time": "14:57",
+      "artist": [
+        "Oakwood Station"
+      ],
+      "title": "Glancing At The Moon"
+    },
+    "recorded_at": "2025-12-01T15:00:31.682214+01:00",
+    "raw_valid": true,
+    "song_session_id": "154646b8-8d4c-4ab9-b021-f7957bfa89ce",
+    "duration_ms": 227288,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-12-01",
+      "play_time": "15:05",
+      "artist": [
+        "Vendla"
+      ],
+      "title": "Dig This"
+    },
+    "recorded_at": "2025-12-01T15:05:32.374116+01:00",
+    "raw_valid": true,
+    "song_session_id": "3efc2fef-5fc8-472f-aa2e-e32c29b55a7b",
+    "duration_ms": 221152,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-12-01",
+      "play_time": "15:08",
+      "artist": [
+        "Bario Jazz Gang"
+      ],
+      "title": "Footsteps In The Green"
+    },
+    "recorded_at": "2025-12-01T15:10:33.059012+01:00",
+    "raw_valid": true,
+    "song_session_id": "f18fabce-8ba0-4a0c-8274-71f21b601175",
+    "duration_ms": 367226,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-12-01",
+      "play_time": "15:14",
+      "artist": [
+        "Darryl Yokley's Sound Reformation"
+      ],
+      "title": "Stories From The Village Elder"
+    },
+    "recorded_at": "2025-12-01T15:15:33.883789+01:00",
+    "raw_valid": true,
+    "song_session_id": "bb5f9245-6477-4e9a-9409-8abbf9ad3235",
+    "duration_ms": 313146,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-12-01",
+      "play_time": "15:19",
+      "artist": [
+        "Cannonball Adderley"
+      ],
+      "title": "Dancing In The Dark"
+    },
+    "recorded_at": "2025-12-01T15:20:34.581934+01:00",
+    "raw_valid": true,
+    "song_session_id": "9a0d6b99-933e-472b-8385-cea206580d3e",
+    "duration_ms": 247200,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-12-01",
+      "play_time": "15:23",
+      "artist": [
+        "Samuel Sramek"
+      ],
+      "title": "Taylor_s Wheel"
+    },
+    "recorded_at": "2025-12-01T15:25:35.258669+01:00",
+    "raw_valid": true,
+    "song_session_id": "91ca2649-7deb-4b67-9862-a30f340438db",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-12-01",
+      "play_time": "15:30",
+      "artist": [
+        "Nat King Cole"
+      ],
+      "title": "Let There Be Love"
+    },
+    "recorded_at": "2025-12-01T15:30:37.096387+01:00",
+    "raw_valid": true,
+    "song_session_id": "d2296a55-106a-43d2-8262-71eccc7a6d43",
+    "duration_ms": 165973,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-12-01",
+      "play_time": "15:32",
+      "artist": [
+        "Wes Montgomery"
+      ],
+      "title": "Besame Mucho"
+    },
+    "recorded_at": "2025-12-01T15:35:37.793890+01:00",
+    "raw_valid": true,
+    "song_session_id": "8b32cf8c-476a-4f11-99b9-6ff84a949aca",
+    "duration_ms": 391971,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-12-01",
+      "play_time": "15:39",
+      "artist": [
+        "Bobby Hughes Combination",
+        "Karin Krogh"
+      ],
+      "title": "Karins Kerma"
+    },
+    "recorded_at": "2025-12-01T15:40:38.475670+01:00",
+    "raw_valid": true,
+    "song_session_id": "2983ab33-8d37-441e-8869-10d6969347a2",
+    "duration_ms": 316120,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-12-01",
+      "play_time": "15:42",
+      "artist": [
+        "Chet Baker"
+      ],
+      "title": "Tenderly"
+    },
+    "recorded_at": "2025-12-01T15:45:39.344582+01:00",
+    "raw_valid": true,
+    "song_session_id": "481e9db9-947e-459b-bd29-7f58d4dab3d0",
+    "duration_ms": 397666,
+    "genre": []
+  }
+]

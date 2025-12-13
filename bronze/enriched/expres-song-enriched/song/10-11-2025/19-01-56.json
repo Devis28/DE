@@ -1,0 +1,419 @@
+[
+  {
+    "song": "Be Mine",
+    "artists": [
+      "Kamrad"
+    ],
+    "isrc": "DE1NJ2500035",
+    "start_time": "2025-11-10 18:06:55",
+    "radio": "expres",
+    "recorded_at": "2025-11-10T18:07:26.863089+01:00",
+    "raw_valid": true,
+    "song_session_id": "debe46ca-b5d6-4d81-bd2b-c2823ad36c25",
+    "duration_ms": 156463,
+    "genre": []
+  },
+  {
+    "song": "La La La",
+    "artists": [
+      "Naughty Boy",
+      "Sam Smith"
+    ],
+    "isrc": "GBAAA1300148",
+    "start_time": "2025-11-10 18:09:30",
+    "radio": "expres",
+    "recorded_at": "2025-11-10T18:09:50.523409+01:00",
+    "raw_valid": true,
+    "song_session_id": "6f12e3b0-ee80-4dba-b51d-eb666c02ad3f",
+    "duration_ms": 220152,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Gone Gone Gone",
+    "artists": [
+      "David Guetta",
+      "Teddy Swims",
+      "Tones And I"
+    ],
+    "isrc": "UKWLG2500132",
+    "start_time": "2025-11-10 18:12:57",
+    "radio": "expres",
+    "recorded_at": "2025-11-10T18:13:29.522832+01:00",
+    "raw_valid": true,
+    "song_session_id": "406a948a-757a-4ff9-9043-64addfccb3c1",
+    "duration_ms": 198004,
+    "genre": [
+      "soul"
+    ]
+  },
+  {
+    "song": "A Bar Song (Tipsy)",
+    "artists": [
+      "Shaboozey"
+    ],
+    "isrc": "USUYG1541249",
+    "start_time": "2025-11-10 18:16:41",
+    "radio": "expres",
+    "recorded_at": "2025-11-10T18:17:09.319884+01:00",
+    "raw_valid": true,
+    "song_session_id": "8df67805-7756-49be-b594-36e70a43b6d9",
+    "duration_ms": 171291,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Bozk",
+    "artists": [
+      "Imt Smile"
+    ],
+    "isrc": "SKA011000004",
+    "start_time": "2025-11-10 18:20:35",
+    "radio": "expres",
+    "recorded_at": "2025-11-10T18:20:52.858598+01:00",
+    "raw_valid": true,
+    "song_session_id": "ca12d680-c3c1-4432-af83-1def73cf27ef",
+    "duration_ms": 232120,
+    "genre": []
+  },
+  {
+    "song": "Just The Way You Are",
+    "artists": [
+      "Bruno Mars"
+    ],
+    "isrc": "USAT21001269",
+    "start_time": "2025-11-10 18:24:13",
+    "radio": "expres",
+    "recorded_at": "2025-11-10T18:24:30.299264+01:00",
+    "raw_valid": true,
+    "song_session_id": "15a89a84-ebac-43f2-8760-95bb0386c8b8",
+    "duration_ms": 220733,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "The One",
+    "artists": [
+      "Michael Patrick Kelly"
+    ],
+    "isrc": "DEE862500476",
+    "start_time": "2025-11-10 18:34:06",
+    "radio": "expres",
+    "recorded_at": "2025-11-10T18:34:34.978899+01:00",
+    "raw_valid": true,
+    "song_session_id": "b2480c76-4a72-4746-b23e-4ccf713772b1",
+    "duration_ms": 181194,
+    "genre": []
+  },
+  {
+    "song": "Holding Out For A Hero",
+    "artists": [
+      "Bonnie Tyler"
+    ],
+    "isrc": "USSM18300449",
+    "start_time": "2025-11-10 18:37:02",
+    "radio": "expres",
+    "recorded_at": "2025-11-10T18:37:28.597613+01:00",
+    "raw_valid": true,
+    "song_session_id": "daddf6eb-b5a7-4348-b3bf-29eef8a61c7f",
+    "duration_ms": 349893,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "The Fate Of Ophelia",
+    "artists": [
+      "Taylor Swift"
+    ],
+    "isrc": "USUG12506436",
+    "start_time": "2025-11-10 18:41:23",
+    "radio": "expres",
+    "recorded_at": "2025-11-10T18:41:38.747639+01:00",
+    "raw_valid": true,
+    "song_session_id": "e28f1ccb-c44d-4669-88e9-f79cbd69a9cc",
+    "duration_ms": 226073,
+    "genre": [
+      "electronic"
+    ]
+  },
+  {
+    "song": "Memories",
+    "artists": [
+      "Maroon 5"
+    ],
+    "isrc": "USUM71913350",
+    "start_time": "2025-11-10 18:45:05",
+    "radio": "expres",
+    "recorded_at": "2025-11-10T18:45:30.103197+01:00",
+    "raw_valid": true,
+    "song_session_id": "6fb71268-f1ae-444a-9d37-925790734511",
+    "duration_ms": 189486,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Star Walkin",
+    "artists": [
+      "Lil Nas X"
+    ],
+    "isrc": "USSM12208809",
+    "start_time": "2025-11-10 18:52:51",
+    "radio": "expres",
+    "recorded_at": "2025-11-10T18:53:57.543711+01:00",
+    "raw_valid": true,
+    "song_session_id": "0f343395-2c8c-4f04-af18-003c204bae3c",
+    "duration_ms": 210575,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "All Star",
+    "artists": [
+      "Smash Mouth"
+    ],
+    "isrc": "USIR19902220",
+    "start_time": "2025-11-10 18:56:18",
+    "radio": "expres",
+    "recorded_at": "2025-11-10T18:56:49.025051+01:00",
+    "raw_valid": true,
+    "song_session_id": "bd54e159-b2da-4ef8-a723-0cdf00be919c",
+    "duration_ms": 200253,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Glide",
+    "artists": [
+      "Neiked",
+      "Portugal The Man"
+    ],
+    "isrc": "DEE862500421",
+    "start_time": "2025-11-10 19:06:15",
+    "radio": "expres",
+    "recorded_at": "2025-11-10T19:06:49.436350+01:00",
+    "raw_valid": true,
+    "song_session_id": "a39edf89-4b28-4460-86e8-24ffcc294e86",
+    "duration_ms": 184405,
+    "genre": []
+  },
+  {
+    "song": "Bed Of Roses",
+    "artists": [
+      "Bon Jovi"
+    ],
+    "isrc": "USPG19290093",
+    "start_time": "2025-11-10 19:09:18",
+    "radio": "expres",
+    "recorded_at": "2025-11-10T19:09:49.370672+01:00",
+    "raw_valid": true,
+    "song_session_id": "5460f62e-c4ff-4177-9353-8b852d455ea1",
+    "duration_ms": 395520,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Head Above Water",
+    "artists": [
+      "Twocolors",
+      "Safri Duo",
+      "Chris De Sarandy"
+    ],
+    "isrc": "DEUM72503698",
+    "start_time": "2025-11-10 19:13:41",
+    "radio": "expres",
+    "recorded_at": "2025-11-10T19:14:10.912583+01:00",
+    "raw_valid": true,
+    "song_session_id": "5f49b315-818c-4e57-881e-8d9961163bd1",
+    "duration_ms": 174550,
+    "genre": []
+  },
+  {
+    "song": "Always Remember Us This Way",
+    "artists": [
+      "Lady Gaga"
+    ],
+    "isrc": "USUM71813195",
+    "start_time": "2025-11-10 19:16:35",
+    "radio": "expres",
+    "recorded_at": "2025-11-10T19:16:51.287680+01:00",
+    "raw_valid": true,
+    "song_session_id": "418ab286-50d0-4bf6-8514-e011a535e7b4",
+    "duration_ms": 210200,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Eyes Closed",
+    "artists": [
+      "Imagine Dragons"
+    ],
+    "isrc": "USUM72402448",
+    "start_time": "2025-11-10 19:21:56",
+    "radio": "expres",
+    "recorded_at": "2025-11-10T19:22:09.510704+01:00",
+    "raw_valid": true,
+    "song_session_id": "722c5530-719f-4efe-ab26-ba795f8d4ce8",
+    "duration_ms": 200026,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Vsechno Nebo Nic",
+    "artists": [
+      "Ewa Farna"
+    ],
+    "isrc": "CZP341600001",
+    "start_time": "2025-11-10 19:25:09",
+    "radio": "expres",
+    "recorded_at": "2025-11-10T19:25:34.661291+01:00",
+    "raw_valid": true,
+    "song_session_id": "1d0bf35c-813a-47f1-b36b-fe8caa802b9b",
+    "duration_ms": 176400,
+    "genre": []
+  },
+  {
+    "song": "Blood Running",
+    "artists": [
+      "Ray Dalton"
+    ],
+    "isrc": "DEUM72507812",
+    "start_time": "2025-11-10 19:27:53",
+    "radio": "expres",
+    "recorded_at": "2025-11-10T19:28:13.283183+01:00",
+    "raw_valid": true,
+    "song_session_id": "127bcd6f-8c62-401c-ae79-f1844141c4eb",
+    "duration_ms": 173146,
+    "genre": []
+  },
+  {
+    "song": "Regalo",
+    "artists": [
+      "Alvaro Soler"
+    ],
+    "isrc": "DEE862500388",
+    "start_time": "2025-11-10 19:33:36",
+    "radio": "expres",
+    "recorded_at": "2025-11-10T19:33:53.386356+01:00",
+    "raw_valid": true,
+    "song_session_id": "59966587-53ea-4fa5-9b8a-44faf92d75a3",
+    "duration_ms": 184984,
+    "genre": []
+  },
+  {
+    "song": "Never Be The Same Again",
+    "artists": [
+      "Melanie C"
+    ],
+    "isrc": "GBAAA9900729",
+    "start_time": "2025-11-10 19:36:42",
+    "radio": "expres",
+    "recorded_at": "2025-11-10T19:36:54.951199+01:00",
+    "raw_valid": true,
+    "song_session_id": "908bd5ff-9210-41ef-9148-048fd1451c49",
+    "duration_ms": 294200,
+    "genre": [
+      "electronic"
+    ]
+  },
+  {
+    "song": "I Believe",
+    "artists": [
+      "Kamrad"
+    ],
+    "isrc": "QMDA62184030",
+    "start_time": "2025-11-10 19:41:43",
+    "radio": "expres",
+    "recorded_at": "2025-11-10T19:41:56.703037+01:00",
+    "raw_valid": true,
+    "song_session_id": "fe9d5a23-573b-4a77-beef-7c2390161458",
+    "duration_ms": 147007,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Vsetko Bude Dobre",
+    "artists": [
+      "Gladiator"
+    ],
+    "isrc": "SKCM72560001",
+    "start_time": "2025-11-10 19:44:09",
+    "radio": "expres",
+    "recorded_at": "2025-11-10T19:44:49.276786+01:00",
+    "raw_valid": true,
+    "song_session_id": "d3540c57-e5ff-480a-a8c1-95bf412c1921",
+    "duration_ms": 166588,
+    "genre": []
+  },
+  {
+    "song": "All About Us",
+    "artists": [
+      "Tatu"
+    ],
+    "isrc": "USUM70502372",
+    "start_time": "2025-11-10 19:47:13",
+    "radio": "expres",
+    "recorded_at": "2025-11-10T19:47:43.438366+01:00",
+    "raw_valid": true,
+    "song_session_id": "ab408e8a-62fc-4760-9b3a-da318b9bade8",
+    "duration_ms": 181546,
+    "genre": []
+  },
+  {
+    "song": "Ray Of Light",
+    "artists": [
+      "Nico Santos"
+    ],
+    "isrc": "DECE72402394",
+    "start_time": "2025-11-10 19:51:25",
+    "radio": "expres",
+    "recorded_at": "2025-11-10T19:51:44.544875+01:00",
+    "raw_valid": true,
+    "song_session_id": "01733f6e-8eb0-4db8-93bb-9dae996feaf6",
+    "duration_ms": 176500,
+    "genre": []
+  },
+  {
+    "song": "Head & Heart",
+    "artists": [
+      "Joel Corry",
+      "Mnek"
+    ],
+    "isrc": "UK4ZF2000305",
+    "start_time": "2025-11-10 19:54:07",
+    "radio": "expres",
+    "recorded_at": "2025-11-10T19:54:24.957654+01:00",
+    "raw_valid": true,
+    "song_session_id": "c5fba396-8ac1-4f09-ba1b-cb9d02fc47d2",
+    "duration_ms": 166028,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "It Must Have Been Love",
+    "artists": [
+      "Roxette"
+    ],
+    "isrc": "SEAMA8777131",
+    "start_time": "2025-11-10 19:56:47",
+    "radio": "expres",
+    "recorded_at": "2025-11-10T19:57:03.730698+01:00",
+    "raw_valid": true,
+    "song_session_id": "924b3403-9104-44a6-8830-516540b90b98",
+    "duration_ms": 259666,
+    "genre": [
+      "rock"
+    ]
+  }
+]

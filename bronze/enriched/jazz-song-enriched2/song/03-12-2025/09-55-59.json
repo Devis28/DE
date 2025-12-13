@@ -1,0 +1,352 @@
+[
+  {
+    "song": {
+      "play_date": "2025-12-03",
+      "play_time": "08:56",
+      "artist": [
+        "Miles Davis"
+      ],
+      "title": "Boplicity"
+    },
+    "recorded_at": "2025-12-03T08:57:58.600552+01:00",
+    "raw_valid": true,
+    "song_session_id": "55ee30bc-f0c9-4952-b305-7876a4b84720",
+    "duration_ms": 181988,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-12-03",
+      "play_time": "08:59",
+      "artist": [
+        "Stan Getz",
+        "Joao Gilberto"
+      ],
+      "title": "So Danço Samba (Jazz Samba)"
+    },
+    "recorded_at": "2025-12-03T09:02:59.295579+01:00",
+    "raw_valid": true,
+    "song_session_id": "f0735733-7d6b-4d20-91e1-46cc14dbe391",
+    "duration_ms": 216226,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-12-03",
+      "play_time": "09:06",
+      "artist": [
+        "Hetty And The Jazzato B"
+      ],
+      "title": "Tu Vuò Fà L Americano"
+    },
+    "recorded_at": "2025-12-03T09:08:00.002171+01:00",
+    "raw_valid": true,
+    "song_session_id": "46ef9541-1c9d-4fb5-9cb3-af139d7552fe",
+    "duration_ms": 160488,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-12-03",
+      "play_time": "09:11",
+      "artist": [
+        "William Benckert",
+        "uring Johan Tengholm And Jonas Bäckman"
+      ],
+      "title": "Woke Up With The Sun"
+    },
+    "recorded_at": "2025-12-03T09:13:00.703689+01:00",
+    "raw_valid": true,
+    "song_session_id": "7c8279cc-6e53-421a-ae6e-e4dfa109d821",
+    "duration_ms": 160390,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-12-03",
+      "play_time": "09:14",
+      "artist": [
+        "Dianne Reeves",
+        "Grant Green"
+      ],
+      "title": "Down Here On The Ground"
+    },
+    "recorded_at": "2025-12-03T09:18:01.385659+01:00",
+    "raw_valid": true,
+    "song_session_id": "2dc777b9-7dc3-4024-bb8e-6fec8728e4b5",
+    "duration_ms": 306973,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-12-03",
+      "play_time": "09:21",
+      "artist": [
+        "Brian Simpson"
+      ],
+      "title": "Let's Get Away"
+    },
+    "recorded_at": "2025-12-03T09:23:02.330900+01:00",
+    "raw_valid": true,
+    "song_session_id": "5dc0a126-fb05-4062-912f-6f94e4530ee5",
+    "duration_ms": 250156,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-12-03",
+      "play_time": "09:25",
+      "artist": [
+        "Charlie Parker And Dizzy Gillespie"
+      ],
+      "title": "Bloomdido"
+    },
+    "recorded_at": "2025-12-03T09:28:03.007161+01:00",
+    "raw_valid": true,
+    "song_session_id": "585caa86-2c49-4e1f-a517-b5ce2995463b",
+    "duration_ms": 205813,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-12-03",
+      "play_time": "09:29",
+      "artist": [
+        "Chet Baker"
+      ],
+      "title": "Jumpin' Off A Clef"
+    },
+    "recorded_at": "2025-12-03T09:32:33.656500+01:00",
+    "raw_valid": true,
+    "song_session_id": "616694a3-02fe-4b3f-889d-963e55cdeb48",
+    "duration_ms": 297506,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-12-03",
+      "play_time": "09:34",
+      "artist": [
+        "Barrio Jazz Gang"
+      ],
+      "title": "Entre O Ceo E O Mar"
+    },
+    "recorded_at": "2025-12-03T09:37:34.403160+01:00",
+    "raw_valid": true,
+    "song_session_id": "ac897e01-d500-47e6-a4e2-97db7c49a765",
+    "duration_ms": 283794,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-12-03",
+      "play_time": "09:38",
+      "artist": [
+        "Jamie Cullum"
+      ],
+      "title": "High And Dry"
+    },
+    "recorded_at": "2025-12-03T09:42:35.122442+01:00",
+    "raw_valid": true,
+    "song_session_id": "d8865558-1ad6-4a05-a98f-93f9fb55c42f",
+    "duration_ms": 294364,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-12-03",
+      "play_time": "09:43",
+      "artist": [
+        "Sole"
+      ],
+      "title": "A Nad Mlynom"
+    },
+    "recorded_at": "2025-12-03T09:47:35.818945+01:00",
+    "raw_valid": true,
+    "song_session_id": "10097bfb-4975-4274-95de-2986bda53412",
+    "duration_ms": 315653,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-12-03",
+      "play_time": "09:51",
+      "artist": [
+        "Affinitees"
+      ],
+      "title": "Terrasse Tranquille"
+    },
+    "recorded_at": "2025-12-03T09:52:36.523499+01:00",
+    "raw_valid": true,
+    "song_session_id": "4dc3ab03-f618-4e84-a37f-78bdebad314d",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-12-03",
+      "play_time": "09:54",
+      "artist": [
+        "Sarah Vaughan"
+      ],
+      "title": "Lullaby Of Birdland"
+    },
+    "recorded_at": "2025-12-03T09:57:37.282033+01:00",
+    "raw_valid": true,
+    "song_session_id": "d0853414-03ef-41a2-82df-5b02b9bef117",
+    "duration_ms": 240866,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-12-03",
+      "play_time": "09:58",
+      "artist": [
+        "Riyoko Takagi"
+      ],
+      "title": "Sakura"
+    },
+    "recorded_at": "2025-12-03T10:02:37.979306+01:00",
+    "raw_valid": true,
+    "song_session_id": "587af79e-5509-4509-bebc-2959d9d00c0e",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-12-03",
+      "play_time": "10:05",
+      "artist": [
+        "Duke Pearson"
+      ],
+      "title": "Chilli Peppers"
+    },
+    "recorded_at": "2025-12-03T10:07:38.760313+01:00",
+    "raw_valid": true,
+    "song_session_id": "875a3795-0662-4ed9-b21d-e8702eb2312e",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-12-03",
+      "play_time": "10:11",
+      "artist": [
+        "Dave Brubeck"
+      ],
+      "title": "Take Five"
+    },
+    "recorded_at": "2025-12-03T10:12:39.459857+01:00",
+    "raw_valid": true,
+    "song_session_id": "db9d6cfb-ab08-4d4b-9be3-25b9c91a1eca",
+    "duration_ms": 328831,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-12-03",
+      "play_time": "10:16",
+      "artist": [
+        "1705"
+      ],
+      "title": "New Year"
+    },
+    "recorded_at": "2025-12-03T10:17:40.146931+01:00",
+    "raw_valid": true,
+    "song_session_id": "657fd820-f5f6-4581-9623-a43e1e912540",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-12-03",
+      "play_time": "10:21",
+      "artist": [
+        "Koop / Yukimi Nagano"
+      ],
+      "title": "Whenever There Is You"
+    },
+    "recorded_at": "2025-12-03T10:22:40.851156+01:00",
+    "raw_valid": true,
+    "song_session_id": "67706fb2-bcf9-4260-bd9a-dab5bd682bcf",
+    "duration_ms": 243640,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-12-03",
+      "play_time": "10:26",
+      "artist": [
+        "Spyro Gyra"
+      ],
+      "title": "Incognito"
+    },
+    "recorded_at": "2025-12-03T10:27:41.549847+01:00",
+    "raw_valid": true,
+    "song_session_id": "26c9128d-0404-46f4-a1a6-905bb49385a9",
+    "duration_ms": 357213,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-12-03",
+      "play_time": "10:32",
+      "artist": [
+        "Alfredo Rodríguez"
+      ],
+      "title": "Bésame Mucho"
+    },
+    "recorded_at": "2025-12-03T10:37:42.934319+01:00",
+    "raw_valid": true,
+    "song_session_id": "5105ea80-2fbf-4089-818c-c6bc246c70f8",
+    "duration_ms": 356653,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-12-03",
+      "play_time": "10:38",
+      "artist": [
+        "Clifford Brown",
+        "Max Roach"
+      ],
+      "title": "Joy Spring"
+    },
+    "recorded_at": "2025-12-03T10:42:43.673854+01:00",
+    "raw_valid": true,
+    "song_session_id": "3f171da3-c2b8-4934-aea9-f2bc4b1c7fa2",
+    "duration_ms": 410666,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-12-03",
+      "play_time": "10:45",
+      "artist": [
+        "Nicola Conte",
+        "Lucia Minetti"
+      ],
+      "title": "Teardrop Painted Blue"
+    },
+    "recorded_at": "2025-12-03T10:47:44.518703+01:00",
+    "raw_valid": true,
+    "song_session_id": "e63383c1-56f2-49cc-b145-f41efb66b6dd",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-12-03",
+      "play_time": "10:52",
+      "artist": [
+        "Jana Gavačová"
+      ],
+      "title": "Kôň"
+    },
+    "recorded_at": "2025-12-03T10:52:45.233103+01:00",
+    "raw_valid": true,
+    "song_session_id": "866a4b5d-cf93-4911-a5a3-03c4566538c5",
+    "duration_ms": null,
+    "genre": []
+  }
+]

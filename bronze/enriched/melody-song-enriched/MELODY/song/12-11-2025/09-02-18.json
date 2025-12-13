@@ -1,0 +1,353 @@
+[
+  {
+    "station": "Rádio Melody",
+    "title": "Že Mi Je Ľúto",
+    "artist": "Elán & Lojzo",
+    "date": "12.11.2025",
+    "time": "08:03",
+    "last_update": "12.11.2025 08:04:37",
+    "recorded_at": "2025-11-12T08:04:37.595134+01:00",
+    "raw_valid": true,
+    "song_session_id": "377501f7-2504-4875-a227-06321172b669",
+    "duration_ms": 235173,
+    "genre": []
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Hero (Metro Mix)",
+    "artist": "Iglesias, Enrique",
+    "date": "12.11.2025",
+    "time": "08:07",
+    "last_update": "12.11.2025 08:08:09",
+    "recorded_at": "2025-11-12T08:08:09.378784+01:00",
+    "raw_valid": true,
+    "song_session_id": "e145f394-d9da-4137-a930-8160722ac0cc",
+    "duration_ms": 256840,
+    "genre": [
+      "latin pop"
+    ]
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Seasons In The Sun",
+    "artist": "Terry Jacks",
+    "date": "12.11.2025",
+    "time": "08:13",
+    "last_update": "12.11.2025 08:14:12",
+    "recorded_at": "2025-11-12T08:14:12.586001+01:00",
+    "raw_valid": true,
+    "song_session_id": "7d50d0df-88b9-4ad5-9c0e-d01ed235bee6",
+    "duration_ms": 208853,
+    "genre": []
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Somebody Dance With Me",
+    "artist": "Dj Bobo",
+    "date": "12.11.2025",
+    "time": "08:18",
+    "last_update": "12.11.2025 08:19:16",
+    "recorded_at": "2025-11-12T08:19:16.702352+01:00",
+    "raw_valid": true,
+    "song_session_id": "40f4a32e-c2bc-4554-ac2d-9d06a312e5b9",
+    "duration_ms": 209014,
+    "genre": [
+      "eurodance"
+    ]
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Nenapovídej",
+    "artist": "David Michal",
+    "date": "12.11.2025",
+    "time": "08:21",
+    "last_update": "12.11.2025 08:22:18",
+    "recorded_at": "2025-11-12T08:22:18.186800+01:00",
+    "raw_valid": true,
+    "song_session_id": "e29fe9cb-7821-40a5-9cdb-fd2c22fe1775",
+    "duration_ms": 289066,
+    "genre": []
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Duhová Víla",
+    "artist": "Zagorová Hana&Rezek Petr",
+    "date": "12.11.2025",
+    "time": "08:33",
+    "last_update": "12.11.2025 08:34:27",
+    "recorded_at": "2025-11-12T08:34:27.760280+01:00",
+    "raw_valid": true,
+    "song_session_id": "b889f141-3aa2-47ab-ab1f-773f1fa53139",
+    "duration_ms": 168293,
+    "genre": []
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Everybody Hurts",
+    "artist": "R.E.M.",
+    "date": "12.11.2025",
+    "time": "08:35",
+    "last_update": "12.11.2025 08:36:31",
+    "recorded_at": "2025-11-12T08:36:31.489005+01:00",
+    "raw_valid": true,
+    "song_session_id": "22f1a1f4-a6f5-4920-9571-e431ebad4a39",
+    "duration_ms": 320266,
+    "genre": [
+      "jangle pop"
+    ]
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "22 Dní",
+    "artist": "Žbirka Miro",
+    "date": "12.11.2025",
+    "time": "08:40",
+    "last_update": "12.11.2025 08:41:34",
+    "recorded_at": "2025-11-12T08:41:34.990686+01:00",
+    "raw_valid": true,
+    "song_session_id": "064a282d-0363-46a7-bde8-393ded22e3eb",
+    "duration_ms": 222640,
+    "genre": []
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Cose Della Vita / Can't Stop Thinking Of You",
+    "artist": "Tina Turner/Eros Ramazzotti",
+    "date": "12.11.2025",
+    "time": "08:43",
+    "last_update": "12.11.2025 08:44:36",
+    "recorded_at": "2025-11-12T08:44:36.515629+01:00",
+    "raw_valid": true,
+    "song_session_id": "2b538e82-e7d3-4aec-9724-aa953ab92b1d",
+    "duration_ms": 291133,
+    "genre": [
+      "italo dance"
+    ]
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "No Milk Today",
+    "artist": "Herman's Hermits",
+    "date": "12.11.2025",
+    "time": "08:49",
+    "last_update": "12.11.2025 08:50:12",
+    "recorded_at": "2025-11-12T08:50:12.953211+01:00",
+    "raw_valid": true,
+    "song_session_id": "1b498111-1a7b-4990-b466-cd8b79cfba1a",
+    "duration_ms": 174333,
+    "genre": []
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Blue Savannah",
+    "artist": "Erasure",
+    "date": "12.11.2025",
+    "time": "08:53",
+    "last_update": "12.11.2025 08:53:15",
+    "recorded_at": "2025-11-12T08:53:15.408852+01:00",
+    "raw_valid": true,
+    "song_session_id": "efc51609-35d3-4e73-9afd-c5115ec93bdd",
+    "duration_ms": 267260,
+    "genre": [
+      "synthpop"
+    ]
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Whenever, Wherever",
+    "artist": "Shakira",
+    "date": "12.11.2025",
+    "time": "09:02",
+    "last_update": "12.11.2025 09:02:21",
+    "recorded_at": "2025-11-12T09:02:21.953302+01:00",
+    "raw_valid": true,
+    "song_session_id": "d37b7ee2-ccce-4c9c-ad36-48c1d65c605a",
+    "duration_ms": 196160,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "How Deep Is Your Love",
+    "artist": "The Bee Gees",
+    "date": "12.11.2025",
+    "time": "09:05",
+    "last_update": "12.11.2025 09:05:25",
+    "recorded_at": "2025-11-12T09:05:25.662708+01:00",
+    "raw_valid": true,
+    "song_session_id": "43acf323-9a0b-4d23-be4a-821b26a6c32a",
+    "duration_ms": 245200,
+    "genre": [
+      "disco"
+    ]
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Love Is The Shield",
+    "artist": "Camouflage",
+    "date": "12.11.2025",
+    "time": "09:10",
+    "last_update": "12.11.2025 09:11:29",
+    "recorded_at": "2025-11-12T09:11:29.921138+01:00",
+    "raw_valid": true,
+    "song_session_id": "4e4fa7a1-d994-473d-9ae3-d28fcb43ae31",
+    "duration_ms": 236000,
+    "genre": [
+      "synthpop"
+    ]
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Kým Ťa Mám",
+    "artist": "Habera, Pavol",
+    "date": "12.11.2025",
+    "time": "09:14",
+    "last_update": "12.11.2025 09:14:33",
+    "recorded_at": "2025-11-12T09:14:33.576576+01:00",
+    "raw_valid": true,
+    "song_session_id": "91d81c59-f72b-4063-a194-8114caafc54d",
+    "duration_ms": 303493,
+    "genre": []
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Stumblin' In",
+    "artist": "Norman Chris & Quatro Suzi",
+    "date": "12.11.2025",
+    "time": "09:19",
+    "last_update": "12.11.2025 09:19:36",
+    "recorded_at": "2025-11-12T09:19:36.584690+01:00",
+    "raw_valid": true,
+    "song_session_id": "9185e3b5-5d81-4a69-8f4c-29dc00a6fcc4",
+    "duration_ms": 239611,
+    "genre": []
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Vždycky Jsem To Já",
+    "artist": "Janda Dalibor",
+    "date": "12.11.2025",
+    "time": "09:22",
+    "last_update": "12.11.2025 09:23:10",
+    "recorded_at": "2025-11-12T09:23:10.295190+01:00",
+    "raw_valid": true,
+    "song_session_id": "0e42d04b-2415-498c-83a3-8b234784e6d7",
+    "duration_ms": 262146,
+    "genre": []
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "It's My Life",
+    "artist": "Dr. Alban",
+    "date": "12.11.2025",
+    "time": "09:26",
+    "last_update": "12.11.2025 09:27:12",
+    "recorded_at": "2025-11-12T09:27:12.395932+01:00",
+    "raw_valid": true,
+    "song_session_id": "8eb0ff5e-5f3a-469f-a5b3-4e2153258f38",
+    "duration_ms": 239933,
+    "genre": [
+      "eurodance"
+    ]
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Memory",
+    "artist": "Barbra Streisand",
+    "date": "12.11.2025",
+    "time": "09:31",
+    "last_update": "12.11.2025 09:31:14",
+    "recorded_at": "2025-11-12T09:31:14.416307+01:00",
+    "raw_valid": true,
+    "song_session_id": "2ac723e8-0d47-4f17-acdf-5c3823e5932a",
+    "duration_ms": 235160,
+    "genre": [
+      "adult standards"
+    ]
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Skorápky Orechú",
+    "artist": "Marie Rottrová",
+    "date": "12.11.2025",
+    "time": "09:35",
+    "last_update": "12.11.2025 09:35:16",
+    "recorded_at": "2025-11-12T09:35:16.433297+01:00",
+    "raw_valid": true,
+    "song_session_id": "f5099e78-1569-4929-a84c-d392b48feadd",
+    "duration_ms": 209600,
+    "genre": []
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "The Sign",
+    "artist": "Ace Of Base",
+    "date": "12.11.2025",
+    "time": "09:38",
+    "last_update": "12.11.2025 09:39:19",
+    "recorded_at": "2025-11-12T09:39:19.617428+01:00",
+    "raw_valid": true,
+    "song_session_id": "43ff710b-cf01-480d-be29-9b54453229f5",
+    "duration_ms": 191240,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Rivers Of Babylon",
+    "artist": "Boney M.",
+    "date": "12.11.2025",
+    "time": "09:41",
+    "last_update": "12.11.2025 09:42:22",
+    "recorded_at": "2025-11-12T09:42:22.099061+01:00",
+    "raw_valid": true,
+    "song_session_id": "3f64ccc5-d536-4d34-8acc-bfd346f91e7f",
+    "duration_ms": 261266,
+    "genre": [
+      "disco"
+    ]
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Územie Zázrakov",
+    "artist": "Gombitová Marika",
+    "date": "12.11.2025",
+    "time": "09:45",
+    "last_update": "12.11.2025 09:46:24",
+    "recorded_at": "2025-11-12T09:46:24.102132+01:00",
+    "raw_valid": true,
+    "song_session_id": "37cdd794-4cce-446f-9ada-7488388f7c46",
+    "duration_ms": 216013,
+    "genre": []
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Un Emozione Per Sempre",
+    "artist": "Ramazzotti Eros",
+    "date": "12.11.2025",
+    "time": "09:48",
+    "last_update": "12.11.2025 09:49:27",
+    "recorded_at": "2025-11-12T09:49:27.351356+01:00",
+    "raw_valid": true,
+    "song_session_id": "3264f22e-75b6-4f47-9ed3-694362f369ed",
+    "duration_ms": 237880,
+    "genre": [
+      "italo dance"
+    ]
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Gimme Gimme Gimme A Man After Midnight",
+    "artist": "Abba",
+    "date": "12.11.2025",
+    "time": "09:52",
+    "last_update": "12.11.2025 09:53:30",
+    "recorded_at": "2025-11-12T09:53:30.540446+01:00",
+    "raw_valid": true,
+    "song_session_id": "4f044043-e983-44f3-94c7-3f18551c5f79",
+    "duration_ms": 292613,
+    "genre": []
+  }
+]

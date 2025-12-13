@@ -1,0 +1,467 @@
+[
+  {
+    "song": "Ticha Noc",
+    "artists": [
+      "Ondrej Kandrac",
+      "For You"
+    ],
+    "isrc": "DGA062240760",
+    "start_time": "2025-11-24 18:06:55",
+    "radio": "expres",
+    "recorded_at": "2025-11-24T18:07:28.492056+01:00",
+    "raw_valid": true,
+    "song_session_id": "ce9c1c5d-368c-4c36-b8da-378c5418121e",
+    "duration_ms": 238480,
+    "genre": []
+  },
+  {
+    "song": "The One",
+    "artists": [
+      "Michael Patrick Kelly"
+    ],
+    "isrc": "DEE862500476",
+    "start_time": "2025-11-24 18:07:53",
+    "radio": "expres",
+    "recorded_at": "2025-11-24T18:08:19.915891+01:00",
+    "raw_valid": true,
+    "song_session_id": "c3838fe8-2c0c-4358-b5a7-97ea58d5e2cf",
+    "duration_ms": 181194,
+    "genre": []
+  },
+  {
+    "song": "Kings & Queens",
+    "artists": [
+      "Ava Max"
+    ],
+    "isrc": "USAT21906943",
+    "start_time": "2025-11-24 18:10:56",
+    "radio": "expres",
+    "recorded_at": "2025-11-24T18:11:35.149861+01:00",
+    "raw_valid": true,
+    "song_session_id": "78173373-d543-4268-b2cd-b68d9675e625",
+    "duration_ms": 162398,
+    "genre": [
+      "electronic"
+    ]
+  },
+  {
+    "song": "Man I Need",
+    "artists": [
+      "Olivia Dean"
+    ],
+    "isrc": "GBUM72503089",
+    "start_time": "2025-11-24 18:13:33",
+    "radio": "expres",
+    "recorded_at": "2025-11-24T18:13:51.099282+01:00",
+    "raw_valid": true,
+    "song_session_id": "78a4c861-5ff9-4889-81f2-8123beaf51a5",
+    "duration_ms": 184000,
+    "genre": [
+      "offizielle charts"
+    ]
+  },
+  {
+    "song": "On My Head",
+    "artists": [
+      "Dan Barta"
+    ],
+    "isrc": "CZA140400345",
+    "start_time": "2025-11-24 18:16:57",
+    "radio": "expres",
+    "recorded_at": "2025-11-24T18:17:10.908042+01:00",
+    "raw_valid": true,
+    "song_session_id": "567ba4bc-8aa1-423a-907c-b4062a52eeb3",
+    "duration_ms": 163360,
+    "genre": []
+  },
+  {
+    "song": "Afterlife",
+    "artists": [
+      "Michael Schulte"
+    ],
+    "isrc": "DECE72500509",
+    "start_time": "2025-11-24 18:19:37",
+    "radio": "expres",
+    "recorded_at": "2025-11-24T18:19:51.835854+01:00",
+    "raw_valid": true,
+    "song_session_id": "f2ff631d-b4d2-4cb5-a46b-8b8192d01ee3",
+    "duration_ms": 160120,
+    "genre": []
+  },
+  {
+    "song": "Stan",
+    "artists": [
+      "Eminem",
+      "Dido"
+    ],
+    "isrc": "USIR10001280",
+    "start_time": "2025-11-24 18:22:39",
+    "radio": "expres",
+    "recorded_at": "2025-11-24T18:22:49.673931+01:00",
+    "raw_valid": true,
+    "song_session_id": "9ba0b3b1-ce16-4ea7-84b7-9fbafd85d2f3",
+    "duration_ms": 404426,
+    "genre": [
+      "electronic"
+    ]
+  },
+  {
+    "song": "Hlavu Maj Hore",
+    "artists": [
+      "Gladiator"
+    ],
+    "isrc": "CZA210901083",
+    "start_time": "2025-11-24 18:22:51",
+    "radio": "expres",
+    "recorded_at": "2025-11-24T18:23:18.284370+01:00",
+    "raw_valid": true,
+    "song_session_id": "fb718a58-378d-4fc5-a348-9addc5be5c7c",
+    "duration_ms": 205946,
+    "genre": []
+  },
+  {
+    "song": "Stan",
+    "artists": [
+      "Eminem",
+      "Dido"
+    ],
+    "isrc": "USIR10001280",
+    "start_time": "2025-11-24 18:26:22",
+    "radio": "expres",
+    "recorded_at": "2025-11-24T18:26:40.713252+01:00",
+    "raw_valid": true,
+    "song_session_id": "3be1789a-467a-48aa-99fb-9a7ab7b7824e",
+    "duration_ms": 404426,
+    "genre": [
+      "electronic"
+    ]
+  },
+  {
+    "song": "Regalo",
+    "artists": [
+      "Alvaro Soler"
+    ],
+    "isrc": "DEE862500388",
+    "start_time": "2025-11-24 18:33:38",
+    "radio": "expres",
+    "recorded_at": "2025-11-24T18:34:03.374625+01:00",
+    "raw_valid": true,
+    "song_session_id": "2aa89f33-ca02-4c7a-9855-b342ce9d7a3e",
+    "duration_ms": 184984,
+    "genre": []
+  },
+  {
+    "song": "Happy Ending",
+    "artists": [
+      "Mika"
+    ],
+    "isrc": "USC7R0600016",
+    "start_time": "2025-11-24 18:36:42",
+    "radio": "expres",
+    "recorded_at": "2025-11-24T18:37:01.313428+01:00",
+    "raw_valid": true,
+    "song_session_id": "3f18966a-65ce-4a76-a91a-e6ab0fc7ff95",
+    "duration_ms": 275493,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Blink Twice",
+    "artists": [
+      "Shaboozey",
+      "Myles Smith"
+    ],
+    "isrc": "USUYG1717098",
+    "start_time": "2025-11-24 18:41:04",
+    "radio": "expres",
+    "recorded_at": "2025-11-24T18:41:25.408787+01:00",
+    "raw_valid": true,
+    "song_session_id": "0457e2d1-d965-4727-8210-c2f009b4d38d",
+    "duration_ms": 156721,
+    "genre": []
+  },
+  {
+    "song": "Whatever It Takes",
+    "artists": [
+      "Imagine Dragons"
+    ],
+    "isrc": "USUM71703515",
+    "start_time": "2025-11-24 18:43:55",
+    "radio": "expres",
+    "recorded_at": "2025-11-24T18:44:08.132292+01:00",
+    "raw_valid": true,
+    "song_session_id": "30b52e62-8a16-4590-a65e-c6debb99667f",
+    "duration_ms": 201053,
+    "genre": [
+      "trance"
+    ]
+  },
+  {
+    "song": "Home",
+    "artists": [
+      "Glockenbach",
+      "Tom Walker"
+    ],
+    "isrc": "DECE72502186",
+    "start_time": "2025-11-24 18:46:58",
+    "radio": "expres",
+    "recorded_at": "2025-11-24T18:47:28.222052+01:00",
+    "raw_valid": true,
+    "song_session_id": "66d61fbf-9810-4157-81eb-6d7b3e9e8022",
+    "duration_ms": 196985,
+    "genre": []
+  },
+  {
+    "song": "Pomarance Z Kuby",
+    "artists": [
+      "Hex"
+    ],
+    "isrc": "SKCA92300105",
+    "start_time": "2025-11-24 18:51:26",
+    "radio": "expres",
+    "recorded_at": "2025-11-24T18:52:15.264837+01:00",
+    "raw_valid": true,
+    "song_session_id": "d72d1c87-ecaa-4472-9735-9e146cd908fe",
+    "duration_ms": 260316,
+    "genre": []
+  },
+  {
+    "song": "The Look",
+    "artists": [
+      "Roxette"
+    ],
+    "isrc": "SEAME8878010",
+    "start_time": "2025-11-24 18:55:55",
+    "radio": "expres",
+    "recorded_at": "2025-11-24T18:56:28.864073+01:00",
+    "raw_valid": true,
+    "song_session_id": "a3af8d3f-b416-4047-b8f6-5e82ad3d53d5",
+    "duration_ms": 237320,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Mystical Magical",
+    "artists": [
+      "Benson Boone"
+    ],
+    "isrc": "USWB12500844",
+    "start_time": "2025-11-24 19:06:37",
+    "radio": "expres",
+    "recorded_at": "2025-11-24T19:07:05.839768+01:00",
+    "raw_valid": true,
+    "song_session_id": "ccebcbc9-ce97-472b-b9ec-8220a7a35013",
+    "duration_ms": 165746,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Everytime",
+    "artists": [
+      "Britney Spears"
+    ],
+    "isrc": "USJI10301010",
+    "start_time": "2025-11-24 19:09:32",
+    "radio": "expres",
+    "recorded_at": "2025-11-24T19:09:48.457128+01:00",
+    "raw_valid": true,
+    "song_session_id": "cf379d4e-c9cb-4570-b7c1-0d6d2b853fb6",
+    "duration_ms": 230320,
+    "genre": [
+      "electronic"
+    ]
+  },
+  {
+    "song": "Head Above Water",
+    "artists": [
+      "Twocolors",
+      "Safri Duo",
+      "Chris De Sarandy"
+    ],
+    "isrc": "DEUM72503698",
+    "start_time": "2025-11-24 19:13:20",
+    "radio": "expres",
+    "recorded_at": "2025-11-24T19:13:31.953082+01:00",
+    "raw_valid": true,
+    "song_session_id": "19d9d5c8-8f55-48e8-b7f7-4fac189f053f",
+    "duration_ms": 174550,
+    "genre": []
+  },
+  {
+    "song": "Hvezdari",
+    "artists": [
+      "Krystof",
+      "Sima Martausova"
+    ],
+    "isrc": "CZUM71900470",
+    "start_time": "2025-11-24 19:16:15",
+    "radio": "expres",
+    "recorded_at": "2025-11-24T19:16:40.373201+01:00",
+    "raw_valid": true,
+    "song_session_id": "6fa9f40c-2513-41f0-be2e-d60da8e3e728",
+    "duration_ms": 242553,
+    "genre": []
+  },
+  {
+    "song": "By Your Side (In My Mind)",
+    "artists": [
+      "Leony"
+    ],
+    "isrc": "DEN062400804",
+    "start_time": "2025-11-24 19:20:18",
+    "radio": "expres",
+    "recorded_at": "2025-11-24T19:20:34.404979+01:00",
+    "raw_valid": true,
+    "song_session_id": "7a16c707-b144-49aa-bf2b-5bd453928616",
+    "duration_ms": 177148,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Just Dance",
+    "artists": [
+      "Lady Gaga"
+    ],
+    "isrc": "USUM70807646",
+    "start_time": "2025-11-24 19:24:56",
+    "radio": "expres",
+    "recorded_at": "2025-11-24T19:25:18.525408+01:00",
+    "raw_valid": true,
+    "song_session_id": "22a5630d-380a-4223-8608-9533d5aa8d85",
+    "duration_ms": 244055,
+    "genre": [
+      "electronic"
+    ]
+  },
+  {
+    "song": "Ked Odchadza Niekto",
+    "artists": [
+      "Ine Kafe"
+    ],
+    "isrc": "SKA722500002",
+    "start_time": "2025-11-24 19:28:19",
+    "radio": "expres",
+    "recorded_at": "2025-11-24T19:28:41.911973+01:00",
+    "raw_valid": true,
+    "song_session_id": "71b9e15d-8f84-4dec-b6b0-d348a8ead2c6",
+    "duration_ms": 243720,
+    "genre": []
+  },
+  {
+    "song": "Undressed",
+    "artists": [
+      "Sombr"
+    ],
+    "isrc": "USWB12500737",
+    "start_time": "2025-11-24 19:34:05",
+    "radio": "expres",
+    "recorded_at": "2025-11-24T19:34:27.043432+01:00",
+    "raw_valid": true,
+    "song_session_id": "06a33367-5a30-4999-a1ba-8589fbd3e456",
+    "duration_ms": 182088,
+    "genre": [
+      "indie pop"
+    ]
+  },
+  {
+    "song": "Total Eclipse Of The Heart",
+    "artists": [
+      "Westlife"
+    ],
+    "isrc": "GBARL0601585",
+    "start_time": "2025-11-24 19:37:05",
+    "radio": "expres",
+    "recorded_at": "2025-11-24T19:37:39.546357+01:00",
+    "raw_valid": true,
+    "song_session_id": "8b97348f-a11f-4a45-8665-ea0a85ea1e58",
+    "duration_ms": 279466,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Training Season",
+    "artists": [
+      "Dua Lipa"
+    ],
+    "isrc": "GBAHT2301078",
+    "start_time": "2025-11-24 19:41:46",
+    "radio": "expres",
+    "recorded_at": "2025-11-24T19:42:22.054964+01:00",
+    "raw_valid": true,
+    "song_session_id": "8f7e364c-8fe4-4594-bae1-e1682f560081",
+    "duration_ms": 209487,
+    "genre": [
+      "electronic"
+    ]
+  },
+  {
+    "song": "Where Is My Husband",
+    "artists": [
+      "Raye"
+    ],
+    "isrc": "QMFME2535037",
+    "start_time": "2025-11-24 19:45:14",
+    "radio": "expres",
+    "recorded_at": "2025-11-24T19:45:42.516712+01:00",
+    "raw_valid": true,
+    "song_session_id": "1c693386-1092-48f3-bc96-c623b1def1a3",
+    "duration_ms": 196795,
+    "genre": [
+      "offizielle charts"
+    ]
+  },
+  {
+    "song": "United",
+    "artists": [
+      "Prince Ital Joe",
+      "Marky Mark"
+    ],
+    "isrc": "DEA619450270",
+    "start_time": "2025-11-24 19:50:00",
+    "radio": "expres",
+    "recorded_at": "2025-11-24T19:50:25.290784+01:00",
+    "raw_valid": true,
+    "song_session_id": "9c07f75b-8e8d-4ee4-9aea-d9ec3e5475b9",
+    "duration_ms": 241760,
+    "genre": [
+      "dance"
+    ]
+  },
+  {
+    "song": "Ordinary",
+    "artists": [
+      "Alex Warren"
+    ],
+    "isrc": "USAT22500463",
+    "start_time": "2025-11-24 19:53:52",
+    "radio": "expres",
+    "recorded_at": "2025-11-24T19:53:58.711263+01:00",
+    "raw_valid": true,
+    "song_session_id": "e891a8be-c823-4ee0-938d-32852bddc22e",
+    "duration_ms": 186964,
+    "genre": [
+      "folk"
+    ]
+  },
+  {
+    "song": "All The Right Moves",
+    "artists": [
+      "Onerepublic"
+    ],
+    "isrc": "USUM70984099",
+    "start_time": "2025-11-24 19:57:02",
+    "radio": "expres",
+    "recorded_at": "2025-11-24T19:57:22.504041+01:00",
+    "raw_valid": true,
+    "song_session_id": "5d473c9e-50b9-4e01-8e1f-b3c1a55ea977",
+    "duration_ms": 239093,
+    "genre": [
+      "rock"
+    ]
+  }
+]

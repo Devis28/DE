@@ -1,0 +1,382 @@
+[
+  {
+    "last_update": "2025-12-07 08:01:32",
+    "song": {
+      "musicAuthor": "Ed Sheeran",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048515aac795808fc6b6d229c363b",
+      "musicTitle": "Azizam",
+      "radio": "Fun Rádio",
+      "startTime": "09:00"
+    },
+    "recorded_at": "2025-12-07T09:01:33.443346+01:00",
+    "raw_valid": true,
+    "song_session_id": "b41fd549-92cf-4ac8-ac56-a7c68df09f17",
+    "duration_ms": 162029,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "last_update": "2025-12-07 08:03:33",
+    "song": {
+      "musicAuthor": "Celeste Buckingham",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851d2e4bb30c1b2e0c2b6d28680",
+      "musicTitle": "Come Again",
+      "radio": "Fun Rádio",
+      "startTime": "09:03"
+    },
+    "recorded_at": "2025-12-07T09:03:33.565920+01:00",
+    "raw_valid": true,
+    "song_session_id": "d08ee805-0486-4c67-99b8-d001b3f4e50e",
+    "duration_ms": 222197,
+    "genre": []
+  },
+  {
+    "last_update": "2025-12-07 08:07:33",
+    "song": {
+      "musicAuthor": "Michael Bublé",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851119e4094f07a8123b471ac1d",
+      "musicTitle": "It's Beginning To Look A Lot Like Christmas",
+      "radio": "Fun Rádio",
+      "startTime": "09:06"
+    },
+    "recorded_at": "2025-12-07T09:07:33.821188+01:00",
+    "raw_valid": true,
+    "song_session_id": "347dea3a-2765-4161-a1ac-caf5f9b30153",
+    "duration_ms": 207199,
+    "genre": [
+      "jazz"
+    ]
+  },
+  {
+    "last_update": "2025-12-07 08:11:34",
+    "song": {
+      "musicAuthor": "Sabrina Carpenter",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851062c6573009fdebd43de443b",
+      "musicTitle": "Manchild",
+      "radio": "Fun Rádio",
+      "startTime": "09:10"
+    },
+    "recorded_at": "2025-12-07T09:11:34.105973+01:00",
+    "raw_valid": true,
+    "song_session_id": "041f635e-271d-466b-a9af-52f7e1100f98",
+    "duration_ms": 213645,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "last_update": "2025-12-07 08:14:33",
+    "song": {
+      "musicAuthor": "Felix Jaehn, Ray Dalton",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485169a7682e3e6d4f06be4e7606",
+      "musicTitle": "Call It Love",
+      "radio": "Fun Rádio",
+      "startTime": "09:14"
+    },
+    "recorded_at": "2025-12-07T09:14:34.285583+01:00",
+    "raw_valid": true,
+    "song_session_id": "5dc163b8-a279-40a2-acb3-693e7b05bc4a",
+    "duration_ms": 154560,
+    "genre": []
+  },
+  {
+    "last_update": "2025-12-07 08:18:34",
+    "song": {
+      "musicAuthor": "Michael Schulte",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851275772c5d586aa23e2a4691a",
+      "musicTitle": "Afterlife",
+      "radio": "Fun Rádio",
+      "startTime": "09:17"
+    },
+    "recorded_at": "2025-12-07T09:18:34.541989+01:00",
+    "raw_valid": true,
+    "song_session_id": "a9c59c80-753b-448c-b83d-866d4c5aaaea",
+    "duration_ms": 160120,
+    "genre": []
+  },
+  {
+    "last_update": "2025-12-07 08:21:34",
+    "song": {
+      "musicAuthor": "Madonna",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851efcbc3f42da96cea7583bb6f",
+      "musicTitle": "Hung Up",
+      "radio": "Fun Rádio",
+      "startTime": "09:20"
+    },
+    "recorded_at": "2025-12-07T09:21:34.725836+01:00",
+    "raw_valid": true,
+    "song_session_id": "ab91544c-179d-4b93-92f7-15e0879703af",
+    "duration_ms": 337733,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "last_update": "2025-12-07 08:24:35",
+    "song": {
+      "musicAuthor": "Maroon 5",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485186a8ab515de4b7aef28cd631",
+      "musicTitle": "Memories",
+      "radio": "Fun Rádio",
+      "startTime": "09:23"
+    },
+    "recorded_at": "2025-12-07T09:24:35.011869+01:00",
+    "raw_valid": true,
+    "song_session_id": "020dffc4-93ca-4f8f-aa7b-ed524b5c5191",
+    "duration_ms": 189486,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "last_update": "2025-12-07 08:32:35",
+    "song": {
+      "musicAuthor": "Wizthemc, Bees & Honey",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048519263dc4504ccf1b02899d9ae",
+      "musicTitle": "Show Me Love",
+      "radio": "Fun Rádio",
+      "startTime": "09:31"
+    },
+    "recorded_at": "2025-12-07T09:32:35.928363+01:00",
+    "raw_valid": true,
+    "song_session_id": "f444125a-75eb-4eef-8479-7e0c9c74419b",
+    "duration_ms": 176965,
+    "genre": []
+  },
+  {
+    "last_update": "2025-12-07 08:35:36",
+    "song": {
+      "musicAuthor": "Neiked & Circa Waves",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048517e3d406fd33858165cbafbe2",
+      "musicTitle": "Sweet Emotion",
+      "radio": "Fun Rádio",
+      "startTime": "09:34"
+    },
+    "recorded_at": "2025-12-07T09:35:36.254837+01:00",
+    "raw_valid": true,
+    "song_session_id": "b2b72b26-3525-4e46-8733-7f35d9e020d3",
+    "duration_ms": 157441,
+    "genre": []
+  },
+  {
+    "last_update": "2025-12-07 08:37:35",
+    "song": {
+      "musicAuthor": "Taylor Swift",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851d7812467811a7da6e6a44902",
+      "musicTitle": "The Fate Of Ophelia",
+      "radio": "Fun Rádio",
+      "startTime": "09:37"
+    },
+    "recorded_at": "2025-12-07T09:37:36.432114+01:00",
+    "raw_valid": true,
+    "song_session_id": "a065a5a3-b6a0-4ade-a7f1-b26a279ecfb4",
+    "duration_ms": 226073,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "last_update": "2025-12-07 08:44:36",
+    "song": {
+      "musicAuthor": "David Guetta & Bebe Rexha",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851933c036cd61cd40d3f17a9c4",
+      "musicTitle": "Im Good (Blue)",
+      "radio": "Fun Rádio",
+      "startTime": "09:43"
+    },
+    "recorded_at": "2025-12-07T09:44:36.947260+01:00",
+    "raw_valid": true,
+    "song_session_id": "fabcb870-7794-43c6-9f55-44e320984e4f",
+    "duration_ms": 175238,
+    "genre": []
+  },
+  {
+    "last_update": "2025-12-07 08:46:07",
+    "song": {
+      "musicAuthor": "Jonas Brothers",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048517dbf3e9badd50f3f8886d161",
+      "musicTitle": "No Time To Talk",
+      "radio": "Fun Rádio",
+      "startTime": "09:46"
+    },
+    "recorded_at": "2025-12-07T09:46:07.060917+01:00",
+    "raw_valid": true,
+    "song_session_id": "c0de6c2f-25fc-4fae-b78f-cd3db5f3cc2e",
+    "duration_ms": 155053,
+    "genre": []
+  },
+  {
+    "last_update": "2025-12-07 08:49:07",
+    "song": {
+      "musicAuthor": "Lavigne Avril",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851476cdf5837ae39eee951cc15",
+      "musicTitle": "Girlfriend",
+      "radio": "Fun Rádio",
+      "startTime": "09:49"
+    },
+    "recorded_at": "2025-12-07T09:49:07.399627+01:00",
+    "raw_valid": true,
+    "song_session_id": "33adf6af-c167-47bb-b467-abebd5b7bb28",
+    "duration_ms": 216600,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "last_update": "2025-12-07 08:53:36",
+    "song": {
+      "musicAuthor": "Mal & Call Dominika",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851128fb71f5399e0491f95d45b",
+      "musicTitle": "Fire In Your Eyes",
+      "radio": "Fun Rádio",
+      "startTime": "09:52"
+    },
+    "recorded_at": "2025-12-07T09:53:37.690421+01:00",
+    "raw_valid": true,
+    "song_session_id": "580e2354-8a53-49e4-a544-be07342b1455",
+    "duration_ms": 106600,
+    "genre": []
+  },
+  {
+    "last_update": "2025-12-07 08:55:06",
+    "song": {
+      "musicAuthor": "Linkin Park",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851c0db065619ed208515412917",
+      "musicTitle": "The Emptiness Machine",
+      "radio": "Fun Rádio",
+      "startTime": "09:55"
+    },
+    "recorded_at": "2025-12-07T09:55:07.786060+01:00",
+    "raw_valid": true,
+    "song_session_id": "6481f670-7566-4dba-aad3-08c838de7f50",
+    "duration_ms": 190427,
+    "genre": [
+      "metal"
+    ]
+  },
+  {
+    "last_update": "2025-12-07 09:03:08",
+    "song": {
+      "musicAuthor": "Michael Patrick Kelly",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048518e343a3bae0daf062bcb5c88",
+      "musicTitle": "The One",
+      "radio": "Fun Rádio",
+      "startTime": "10:02"
+    },
+    "recorded_at": "2025-12-07T10:03:08.454113+01:00",
+    "raw_valid": true,
+    "song_session_id": "c23fb969-90f5-411b-ba38-16f465781e98",
+    "duration_ms": 181194,
+    "genre": []
+  },
+  {
+    "last_update": "2025-12-07 09:10:08",
+    "song": {
+      "musicAuthor": "Rosé, Bruno Mars",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851f8c8297efc6022534f1357e1",
+      "musicTitle": "Apt",
+      "radio": "Fun Rádio",
+      "startTime": "10:09"
+    },
+    "recorded_at": "2025-12-07T10:10:08.965976+01:00",
+    "raw_valid": true,
+    "song_session_id": "5267bf4c-9205-4385-a3b4-7b0ed488673f",
+    "duration_ms": 169917,
+    "genre": []
+  },
+  {
+    "last_update": "2025-12-07 09:17:09",
+    "song": {
+      "musicAuthor": "Dj Snake & Bipolar Sunshine",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048511c78b099b9129b2d48146653",
+      "musicTitle": "Paradise",
+      "radio": "Fun Rádio",
+      "startTime": "10:17"
+    },
+    "recorded_at": "2025-12-07T10:17:09.509751+01:00",
+    "raw_valid": true,
+    "song_session_id": "b83a2992-b9f5-4493-b54d-b0a66f5cc890",
+    "duration_ms": 200000,
+    "genre": []
+  },
+  {
+    "last_update": "2025-12-07 09:25:09",
+    "song": {
+      "musicAuthor": "Sombr",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851dad39d4906f76b7c176effb1",
+      "musicTitle": "Undressed",
+      "radio": "Fun Rádio",
+      "startTime": "10:24"
+    },
+    "recorded_at": "2025-12-07T10:25:10.069853+01:00",
+    "raw_valid": true,
+    "song_session_id": "add655cd-38e7-426f-918f-38e0f9633735",
+    "duration_ms": 182088,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "last_update": "2025-12-07 09:31:10",
+    "song": {
+      "musicAuthor": "Huntrix Featuring Ejae & Audrey Nuna",
+      "musicCover": "https://i.scdn.co/image/ab6742d3000052b717f3963ae4a9f5422763140e",
+      "musicTitle": "Golden",
+      "radio": "Fun Rádio",
+      "startTime": "10:30"
+    },
+    "recorded_at": "2025-12-07T10:31:10.514825+01:00",
+    "raw_valid": true,
+    "song_session_id": "2c627ef6-416e-4a91-9f4d-ee9475d8c9c5",
+    "duration_ms": 194608,
+    "genre": []
+  },
+  {
+    "last_update": "2025-12-07 09:39:10",
+    "song": {
+      "musicAuthor": "Passenger",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851cd318f88c2016b08fa9834f9",
+      "musicTitle": "Let Her Go",
+      "radio": "Fun Rádio",
+      "startTime": "10:38"
+    },
+    "recorded_at": "2025-12-07T10:39:11.119280+01:00",
+    "raw_valid": true,
+    "song_session_id": "795d65fb-936b-4411-b090-ce521a6f4f14",
+    "duration_ms": 252733,
+    "genre": [
+      "folk"
+    ]
+  },
+  {
+    "last_update": "2025-12-07 09:47:10",
+    "song": {
+      "musicAuthor": "Onerepublic",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048518120d2b107af14b1bf67cd06",
+      "musicTitle": "Run",
+      "radio": "Fun Rádio",
+      "startTime": "10:46"
+    },
+    "recorded_at": "2025-12-07T10:47:11.645137+01:00",
+    "raw_valid": true,
+    "song_session_id": "aac8ae35-4cca-47f4-9f60-92a01930751f",
+    "duration_ms": 168259,
+    "genre": []
+  },
+  {
+    "last_update": "2025-12-07 09:54:12",
+    "song": {
+      "musicAuthor": "Twocolors",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485169a297296cd7e38dfb1c2ba5",
+      "musicTitle": "Chemical",
+      "radio": "Fun Rádio",
+      "startTime": "10:53"
+    },
+    "recorded_at": "2025-12-07T10:54:12.188321+01:00",
+    "raw_valid": true,
+    "song_session_id": "4459f08b-51dc-4565-af67-e4b95bd7932e",
+    "duration_ms": 166821,
+    "genre": []
+  }
+]

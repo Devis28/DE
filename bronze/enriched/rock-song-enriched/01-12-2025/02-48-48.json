@@ -1,0 +1,520 @@
+[
+  {
+    "last_update": "2025-12-01 00:52:09",
+    "song": {
+      "musicAuthor": "Hex",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048510f84b352c86a11603fb21691",
+      "musicTitle": "Vetroň",
+      "radio": "Rádio ROCK",
+      "startTime": "01:51"
+    },
+    "recorded_at": "2025-12-01T01:52:10.324532+01:00",
+    "raw_valid": true,
+    "song_session_id": "23136648-2e98-4986-88d2-7a8beb595797",
+    "duration_ms": 240320,
+    "isrc": "SKA129757601",
+    "genre": []
+  },
+  {
+    "last_update": "2025-12-01 00:56:10",
+    "song": {
+      "musicAuthor": "Rammstein",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485102add2c77fb6999e311a3248",
+      "musicTitle": "Radio",
+      "radio": "Rádio ROCK",
+      "startTime": "01:55"
+    },
+    "recorded_at": "2025-12-01T01:56:11.073993+01:00",
+    "raw_valid": true,
+    "song_session_id": "ba349b98-c564-4454-8ff2-1e06801aec77",
+    "duration_ms": 277397,
+    "isrc": "DEUM71900525",
+    "genre": [
+      "industrial metal"
+    ]
+  },
+  {
+    "last_update": "2025-12-01 01:00:10",
+    "song": {
+      "musicAuthor": "Bijouterrier",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485135798bf8aa0f22ac441da31a",
+      "musicTitle": "Pozri",
+      "radio": "Rádio ROCK",
+      "startTime": "01:59"
+    },
+    "recorded_at": "2025-12-01T02:00:11.669654+01:00",
+    "raw_valid": true,
+    "song_session_id": "ca582570-3c18-4630-892e-9690f131e352",
+    "duration_ms": 188916,
+    "isrc": "SKB991701703",
+    "genre": []
+  },
+  {
+    "last_update": "2025-12-01 01:03:13",
+    "song": {
+      "musicAuthor": "U2",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851b7bea3d01f04e6d0408d2afe",
+      "musicTitle": "I Still Haven't Found What I'm Looking For",
+      "radio": "Rádio ROCK",
+      "startTime": "02:02"
+    },
+    "recorded_at": "2025-12-01T02:03:14.180573+01:00",
+    "raw_valid": true,
+    "song_session_id": "26c56961-77f6-4c62-8580-7784a993e7f5",
+    "duration_ms": 277476,
+    "isrc": "GBUM70709783",
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "last_update": "2025-12-01 01:08:18",
+    "song": {
+      "musicAuthor": "Zoci Voci",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048518b376292ff48ae6411c6b854",
+      "musicTitle": "Milion Ciest",
+      "radio": "Rádio ROCK",
+      "startTime": "02:07"
+    },
+    "recorded_at": "2025-12-01T02:08:19.476109+01:00",
+    "raw_valid": true,
+    "song_session_id": "9c2254c8-051d-4e68-ad8a-785df552888c",
+    "duration_ms": 210760,
+    "isrc": "ushm91786621",
+    "genre": []
+  },
+  {
+    "last_update": "2025-12-01 01:11:19",
+    "song": {
+      "musicAuthor": "Fishing Strip",
+      "musicCover": "/layout/covers/default.png",
+      "musicTitle": "Mám Ťa Rád",
+      "radio": "Rádio ROCK",
+      "startTime": "02:11"
+    },
+    "recorded_at": "2025-12-01T02:11:20.120656+01:00",
+    "raw_valid": true,
+    "song_session_id": "132ba18c-0640-452a-ba35-c7eff82fc0ef",
+    "duration_ms": 222668,
+    "isrc": "USMH92345486",
+    "genre": []
+  },
+  {
+    "last_update": "2025-12-01 01:15:21",
+    "song": {
+      "musicAuthor": "Aerosmith",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485172cad4916afbb3777b1bc52c",
+      "musicTitle": "Living On The Edge",
+      "radio": "Rádio ROCK",
+      "startTime": "02:14"
+    },
+    "recorded_at": "2025-12-01T02:15:21.410201+01:00",
+    "raw_valid": true,
+    "song_session_id": "e18ac1bd-c29b-44ab-ac5a-ae581dd49933",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "last_update": "2025-12-01 01:19:22",
+    "song": {
+      "musicAuthor": "Peter Cmorik",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048517016c9ed1680a22ee0d308b3",
+      "musicTitle": "Som Kto Som",
+      "radio": "Rádio ROCK",
+      "startTime": "02:18"
+    },
+    "recorded_at": "2025-12-01T02:19:23.917618+01:00",
+    "raw_valid": true,
+    "song_session_id": "9fd7687f-28b6-4772-81d3-219e0eb5eac7",
+    "duration_ms": 223333,
+    "isrc": "SKG262400108",
+    "genre": []
+  },
+  {
+    "last_update": "2025-12-01 01:23:24",
+    "song": {
+      "musicAuthor": "Yes",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851418e5dc6c0324f12a96e7aa7",
+      "musicTitle": "Owner Of A Lonely Heart",
+      "radio": "Rádio ROCK",
+      "startTime": "02:22"
+    },
+    "recorded_at": "2025-12-01T02:23:24.722891+01:00",
+    "raw_valid": true,
+    "song_session_id": "52566968-67bf-465e-b3ad-8b28c28c56f3",
+    "duration_ms": 268506,
+    "isrc": "USAT20702539",
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "last_update": "2025-12-01 01:27:26",
+    "song": {
+      "musicAuthor": "Horkýže Slíže",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485160348235029c408a3e558ab7",
+      "musicTitle": "Emanuel Bacigala",
+      "radio": "Rádio ROCK",
+      "startTime": "02:27"
+    },
+    "recorded_at": "2025-12-01T02:27:26.762980+01:00",
+    "raw_valid": true,
+    "song_session_id": "e3b7ca6b-7508-48bb-8f8e-c2c1ddea4bb5",
+    "duration_ms": 149683,
+    "isrc": "CZA230700048",
+    "genre": []
+  },
+  {
+    "last_update": "2025-12-01 01:30:26",
+    "song": {
+      "musicAuthor": "Hovada Sk",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851bc3c57994e44fc644e997e54",
+      "musicTitle": "Spominaj",
+      "radio": "Rádio ROCK",
+      "startTime": "02:29"
+    },
+    "recorded_at": "2025-12-01T02:30:27.492265+01:00",
+    "raw_valid": true,
+    "song_session_id": "96194f25-b18f-4210-807c-c70ae77541f6",
+    "duration_ms": 210240,
+    "isrc": "TCAJE2534679",
+    "genre": []
+  },
+  {
+    "last_update": "2025-12-01 01:33:26",
+    "song": {
+      "musicAuthor": "Bez Ladu A Skladu",
+      "musicCover": "https://static.radia.sk/covers/32/e89c92d5-5e22-4249-9eed-1abc8177a0cb.jpg",
+      "musicTitle": "Parné Valce",
+      "radio": "Rádio ROCK",
+      "startTime": "02:33"
+    },
+    "recorded_at": "2025-12-01T02:33:27.696250+01:00",
+    "raw_valid": true,
+    "song_session_id": "231b4a8c-c4cb-4087-93d8-58a4815feb38",
+    "duration_ms": 162573,
+    "isrc": "SKDA72500104",
+    "genre": [
+      "post-punk"
+    ]
+  },
+  {
+    "last_update": "2025-12-01 01:36:28",
+    "song": {
+      "musicAuthor": "Doors, The",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485120783882533e669760741df2",
+      "musicTitle": "Riders On The Storm",
+      "radio": "Rádio ROCK",
+      "startTime": "02:35"
+    },
+    "recorded_at": "2025-12-01T02:36:28.206991+01:00",
+    "raw_valid": true,
+    "song_session_id": "e028a56b-36b6-4fee-b493-2bbb498d33aa",
+    "duration_ms": 434720,
+    "isrc": "USEE19900773",
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "last_update": "2025-12-01 01:42:30",
+    "song": {
+      "musicAuthor": "Metalinda",
+      "musicCover": "https://static.radia.sk/covers/32/27f79caa-b709-4a4b-a7d3-6b3a2b3c68b9.jpg",
+      "musicTitle": "Zaľúbená Žaba",
+      "radio": "Rádio ROCK",
+      "startTime": "02:42"
+    },
+    "recorded_at": "2025-12-01T02:42:31.096268+01:00",
+    "raw_valid": true,
+    "song_session_id": "03058aba-aa29-4953-b847-a545f78326f9",
+    "duration_ms": 188386,
+    "isrc": "FRX201743349",
+    "genre": []
+  },
+  {
+    "last_update": "2025-12-01 01:47:33",
+    "song": {
+      "musicAuthor": "Iné Kafe",
+      "musicCover": "https://is5-ssl.mzstatic.com/image/thumb/Music125/v4/ce/78/4e/ce784ef3-8742-9cf4-a357-a5e00982902f/source/64x64bb.jpg",
+      "musicTitle": "Vsetky Skladby Sveta",
+      "radio": "Rádio ROCK",
+      "startTime": "02:46"
+    },
+    "recorded_at": "2025-12-01T02:47:33.509242+01:00",
+    "raw_valid": true,
+    "song_session_id": "9a186346-c91a-44b6-bc7f-352d562504ec",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "last_update": "2025-12-01 01:51:33",
+    "song": {
+      "musicAuthor": "R.E.M.",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851e2dd4e821bcc3f70dc0c8ffd",
+      "musicTitle": "Losing My Religion",
+      "radio": "Rádio ROCK",
+      "startTime": "02:50"
+    },
+    "recorded_at": "2025-12-01T02:51:34.258745+01:00",
+    "raw_valid": true,
+    "song_session_id": "22a2d323-6946-4a07-a98e-7f4dca552e33",
+    "duration_ms": 268426,
+    "isrc": "USC4R1605373",
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "last_update": "2025-12-01 01:55:34",
+    "song": {
+      "musicAuthor": "The Last Day Of Jesus",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048519fe400785e8b11bbc54b1d27",
+      "musicTitle": "Arma Christi",
+      "radio": "Rádio ROCK",
+      "startTime": "02:55"
+    },
+    "recorded_at": "2025-12-01T02:55:34.932588+01:00",
+    "raw_valid": true,
+    "song_session_id": "809dd22f-866d-470d-878a-a40e8742e305",
+    "duration_ms": 266986,
+    "isrc": "DEZ650710173",
+    "genre": [
+      "deathrock"
+    ]
+  },
+  {
+    "last_update": "2025-12-01 02:00:34",
+    "song": {
+      "musicAuthor": "Slobodná Európa",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851bb1dd5e38b4d5bbbf8912209",
+      "musicTitle": "Relatívny Pokoj",
+      "radio": "Rádio ROCK",
+      "startTime": "02:59"
+    },
+    "recorded_at": "2025-12-01T03:00:35.296791+01:00",
+    "raw_valid": true,
+    "song_session_id": "5c8c2e36-52c6-4d5b-a465-28b21881f317",
+    "duration_ms": 263080,
+    "isrc": "SKA010305303",
+    "genre": [
+      "punk"
+    ]
+  },
+  {
+    "last_update": "2025-12-01 02:03:36",
+    "song": {
+      "musicAuthor": "Clapton, Eric",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851d55ec7fcfacd95e73877b787",
+      "musicTitle": "Layla",
+      "radio": "Rádio ROCK",
+      "startTime": "03:03"
+    },
+    "recorded_at": "2025-12-01T03:03:36.903297+01:00",
+    "raw_valid": true,
+    "song_session_id": "bfaa947c-2b12-48b4-9d22-4a8365589851",
+    "duration_ms": 289026,
+    "isrc": "USRE11300317",
+    "genre": [
+      "blues"
+    ]
+  },
+  {
+    "last_update": "2025-12-01 02:11:13",
+    "song": {
+      "musicAuthor": "Lepayaco",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485141a89ef5d65d2ee8e4e8d044",
+      "musicTitle": "Dobry Vecer Priatelia",
+      "radio": "Rádio ROCK",
+      "startTime": "03:10"
+    },
+    "recorded_at": "2025-12-01T03:11:14.284231+01:00",
+    "raw_valid": true,
+    "song_session_id": "d162e7d2-25a1-417b-8790-579732811415",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "last_update": "2025-12-01 02:13:17",
+    "song": {
+      "musicAuthor": "Elán",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048516f93b2fb748d6ada175e7a53",
+      "musicTitle": "Kamaráti",
+      "radio": "Rádio ROCK",
+      "startTime": "03:12"
+    },
+    "recorded_at": "2025-12-01T03:13:17.264228+01:00",
+    "raw_valid": true,
+    "song_session_id": "562b99cc-e934-4278-aeb3-3077f039a180",
+    "duration_ms": 165226,
+    "isrc": "SKA128229901",
+    "genre": []
+  },
+  {
+    "last_update": "2025-12-01 02:16:17",
+    "song": {
+      "musicAuthor": "The Killers",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851ccdddd46119a4ff53eaf1f5d",
+      "musicTitle": "Mr. Brightside",
+      "radio": "Rádio ROCK",
+      "startTime": "03:15"
+    },
+    "recorded_at": "2025-12-01T03:16:18.330922+01:00",
+    "raw_valid": true,
+    "song_session_id": "6fe6c8c3-b257-4070-829f-1bf5735693f7",
+    "duration_ms": 222973,
+    "isrc": "USIR20400274",
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "last_update": "2025-12-01 02:20:18",
+    "song": {
+      "musicAuthor": "Helenine Oci",
+      "musicCover": "/layout/covers/default.png",
+      "musicTitle": "Mariana",
+      "radio": "Rádio ROCK",
+      "startTime": "03:19"
+    },
+    "recorded_at": "2025-12-01T03:20:18.810787+01:00",
+    "raw_valid": true,
+    "song_session_id": "716061c4-5676-4699-ab68-cde8517fd593",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "last_update": "2025-12-01 02:22:19",
+    "song": {
+      "musicAuthor": "Bijouterrier",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851e59090f28a251e44cacaa8ff",
+      "musicTitle": "Preco Places Vilem?",
+      "radio": "Rádio ROCK",
+      "startTime": "03:21"
+    },
+    "recorded_at": "2025-12-01T03:22:19.265892+01:00",
+    "raw_valid": true,
+    "song_session_id": "ae81993d-a3c6-416c-af77-ec35de01138e",
+    "duration_ms": 148920,
+    "isrc": "SKB991101102",
+    "genre": []
+  },
+  {
+    "last_update": "2025-12-01 02:25:19",
+    "song": {
+      "musicAuthor": "Lenny Kravitz",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851f1157b7dcd21bae0c2c75d89",
+      "musicTitle": "Fly Away",
+      "radio": "Rádio ROCK",
+      "startTime": "03:24"
+    },
+    "recorded_at": "2025-12-01T03:25:19.446622+01:00",
+    "raw_valid": true,
+    "song_session_id": "50b2341b-2096-425f-b94f-20ff14155768",
+    "duration_ms": 221332,
+    "isrc": "USVI29800169",
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "last_update": "2025-12-01 02:28:20",
+    "song": {
+      "musicAuthor": "Peha",
+      "musicCover": "https://static.radia.sk/covers/32/23af7415-fcaa-4716-aee4-ad3e0de7314a.jpg",
+      "musicTitle": "V Zaseknutom Výťahu",
+      "radio": "Rádio ROCK",
+      "startTime": "03:28"
+    },
+    "recorded_at": "2025-12-01T03:28:20.226424+01:00",
+    "raw_valid": true,
+    "song_session_id": "da928cdf-cf5c-4f2c-997e-6d33e5d597df",
+    "duration_ms": 263160,
+    "isrc": "SKA129935401",
+    "genre": []
+  },
+  {
+    "last_update": "2025-12-01 02:33:20",
+    "song": {
+      "musicAuthor": "The Paranoid",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048514709458a8bdb635952f15a82",
+      "musicTitle": "Anjeli Spia",
+      "radio": "Rádio ROCK",
+      "startTime": "03:32"
+    },
+    "recorded_at": "2025-12-01T03:33:21.460911+01:00",
+    "raw_valid": true,
+    "song_session_id": "f5a9920d-4e56-48cb-950c-08dd8c7b11a6",
+    "duration_ms": 195373,
+    "isrc": "SKA011400002",
+    "genre": []
+  },
+  {
+    "last_update": "2025-12-01 02:36:21",
+    "song": {
+      "musicAuthor": "James",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048510137f8e79dc60001c2dc5b79",
+      "musicTitle": "Sit Down",
+      "radio": "Rádio ROCK",
+      "startTime": "03:35"
+    },
+    "recorded_at": "2025-12-01T03:36:22.948101+01:00",
+    "raw_valid": true,
+    "song_session_id": "9959f96a-64f0-4a14-85cd-33200fb59fdb",
+    "duration_ms": 244866,
+    "isrc": "GBF089090155",
+    "genre": [
+      "britpop"
+    ]
+  },
+  {
+    "last_update": "2025-12-01 02:40:24",
+    "song": {
+      "musicAuthor": "Le Payaco",
+      "musicCover": "https://static.radia.sk/covers/32/f26e2264-e19f-4fc4-91d2-1af864449ee2.jpg",
+      "musicTitle": "Vtáci",
+      "radio": "Rádio ROCK",
+      "startTime": "03:39"
+    },
+    "recorded_at": "2025-12-01T03:40:24.435448+01:00",
+    "raw_valid": true,
+    "song_session_id": "2f3b7496-5229-494d-bf43-8e49624f3834",
+    "duration_ms": 294912,
+    "isrc": "SKP432300303",
+    "genre": []
+  },
+  {
+    "last_update": "2025-12-01 02:44:24",
+    "song": {
+      "musicAuthor": "Sounds Like This",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851908a022420c5b7d800d4afaa",
+      "musicTitle": "Cudzinec",
+      "radio": "Rádio ROCK",
+      "startTime": "03:43"
+    },
+    "recorded_at": "2025-12-01T03:44:24.784556+01:00",
+    "raw_valid": true,
+    "song_session_id": "d33954eb-c32d-4a11-aef8-07713e8d1681",
+    "duration_ms": 245415,
+    "isrc": "SKE011204503",
+    "genre": []
+  },
+  {
+    "last_update": "2025-12-01 02:48:24",
+    "song": {
+      "musicAuthor": "Måneskin",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851fa0ab3a28b5c52d8a5f97045",
+      "musicTitle": "Beggin'",
+      "radio": "Rádio ROCK",
+      "startTime": "03:48"
+    },
+    "recorded_at": "2025-12-01T03:48:25.024649+01:00",
+    "raw_valid": true,
+    "song_session_id": "9e4e53ec-a0e3-403f-9e3b-a37681fb0afa",
+    "duration_ms": 211560,
+    "isrc": "ITB001700846",
+    "genre": [
+      "rock"
+    ]
+  }
+]

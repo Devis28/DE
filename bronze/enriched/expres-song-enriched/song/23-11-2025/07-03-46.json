@@ -1,0 +1,453 @@
+[
+  {
+    "song": "Mystical Magical",
+    "artists": [
+      "Benson Boone"
+    ],
+    "isrc": "USWB12500844",
+    "start_time": "2025-11-23 06:05:58",
+    "radio": "expres",
+    "recorded_at": "2025-11-23T06:06:24.090028+01:00",
+    "raw_valid": true,
+    "song_session_id": "b9bde8e9-c97f-4089-9782-114a506b2d0f",
+    "duration_ms": 165746,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Koralky Od Natalky",
+    "artists": [
+      "Peter Nagy"
+    ],
+    "isrc": "SKA128915408",
+    "start_time": "2025-11-23 06:08:49",
+    "radio": "expres",
+    "recorded_at": "2025-11-23T06:09:05.212376+01:00",
+    "raw_valid": true,
+    "song_session_id": "cf641be2-be28-406d-a3b7-327032c09c5e",
+    "duration_ms": 196626,
+    "genre": []
+  },
+  {
+    "song": "Beautiful People",
+    "artists": [
+      "David Guetta",
+      "Sia"
+    ],
+    "isrc": "UKWLG2500016",
+    "start_time": "2025-11-23 06:12:03",
+    "radio": "expres",
+    "recorded_at": "2025-11-23T06:12:23.634230+01:00",
+    "raw_valid": true,
+    "song_session_id": "98dba893-1d86-469e-aa38-6753b350befa",
+    "duration_ms": 187086,
+    "genre": []
+  },
+  {
+    "song": "Snad Nie Je Hriech",
+    "artists": [
+      "Peter Cmorik"
+    ],
+    "isrc": "CZA210700802",
+    "start_time": "2025-11-23 06:15:13",
+    "radio": "expres",
+    "recorded_at": "2025-11-23T06:15:26.548590+01:00",
+    "raw_valid": true,
+    "song_session_id": "75083f3d-698b-4655-9f0f-d630f75da4b0",
+    "duration_ms": 242093,
+    "genre": []
+  },
+  {
+    "song": "Like A Prayer",
+    "artists": [
+      "Madonna"
+    ],
+    "isrc": "USWB10903606",
+    "start_time": "2025-11-23 06:19:12",
+    "radio": "expres",
+    "recorded_at": "2025-11-23T06:19:30.723032+01:00",
+    "raw_valid": true,
+    "song_session_id": "5aa5d7aa-eefc-4ab4-b4e1-0bdf89e3086a",
+    "duration_ms": 342680,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Na Tebe Zavisly",
+    "artists": [
+      "Desmod"
+    ],
+    "isrc": "CZA210400209",
+    "start_time": "2025-11-23 06:22:17",
+    "radio": "expres",
+    "recorded_at": "2025-11-23T06:22:34.191032+01:00",
+    "raw_valid": true,
+    "song_session_id": "1152cb9d-7b68-4ba1-8175-4d47079674c2",
+    "duration_ms": 218760,
+    "genre": []
+  },
+  {
+    "song": "Talk To Me",
+    "artists": [
+      "Damiano David",
+      "Tyla",
+      "Nile Rodgers"
+    ],
+    "isrc": "ITB002500942",
+    "start_time": "2025-11-23 06:25:43",
+    "radio": "expres",
+    "recorded_at": "2025-11-23T06:26:05.456003+01:00",
+    "raw_valid": true,
+    "song_session_id": "7768afa3-e933-4016-8ba4-2d077d340589",
+    "duration_ms": 193502,
+    "genre": []
+  },
+  {
+    "song": "Pre Vas Hram",
+    "artists": [
+      "Kali",
+      "Karol Duchon",
+      "Peter Pann"
+    ],
+    "isrc": "CZA232500151",
+    "start_time": "2025-11-23 06:29:12",
+    "radio": "expres",
+    "recorded_at": "2025-11-23T06:29:36.277503+01:00",
+    "raw_valid": true,
+    "song_session_id": "2229806f-08c2-4f81-bfe9-fef4192f1c2f",
+    "duration_ms": 149118,
+    "genre": []
+  },
+  {
+    "song": "Undressed",
+    "artists": [
+      "Sombr"
+    ],
+    "isrc": "USWB12500737",
+    "start_time": "2025-11-23 06:33:24",
+    "radio": "expres",
+    "recorded_at": "2025-11-23T06:33:45.647577+01:00",
+    "raw_valid": true,
+    "song_session_id": "8af3ae8b-e248-426e-bc19-401a6499a831",
+    "duration_ms": 182088,
+    "genre": [
+      "indie pop"
+    ]
+  },
+  {
+    "song": "Viem Ze Povies Ano",
+    "artists": [
+      "Tina"
+    ],
+    "isrc": "CZA230600501",
+    "start_time": "2025-11-23 06:36:27",
+    "radio": "expres",
+    "recorded_at": "2025-11-23T06:36:52.662856+01:00",
+    "raw_valid": true,
+    "song_session_id": "7f134772-7a46-4e66-a59c-d6b783440c97",
+    "duration_ms": 228826,
+    "genre": []
+  },
+  {
+    "song": "Something Just Like This",
+    "artists": [
+      "The Chainsmokers",
+      "Coldplay"
+    ],
+    "isrc": "USQX91700278",
+    "start_time": "2025-11-23 06:40:07",
+    "radio": "expres",
+    "recorded_at": "2025-11-23T06:40:45.758367+01:00",
+    "raw_valid": true,
+    "song_session_id": "721349d3-c88f-4c5a-9027-fbb72c1a78b0",
+    "duration_ms": 247280,
+    "genre": [
+      "electronic"
+    ]
+  },
+  {
+    "song": "Zhora Dole",
+    "artists": [
+      "Gladiator"
+    ],
+    "isrc": "SKI021601401",
+    "start_time": "2025-11-23 06:44:16",
+    "radio": "expres",
+    "recorded_at": "2025-11-23T06:44:45.610094+01:00",
+    "raw_valid": true,
+    "song_session_id": "97e781ff-3d53-4fad-a557-a93d9fcc5507",
+    "duration_ms": 174800,
+    "genre": []
+  },
+  {
+    "song": "Wonderful Life 25",
+    "artists": [
+      "Hurts",
+      "Purple Disco Machine"
+    ],
+    "isrc": "DEE862500677",
+    "start_time": "2025-11-23 06:47:00",
+    "radio": "expres",
+    "recorded_at": "2025-11-23T06:47:26.648912+01:00",
+    "raw_valid": true,
+    "song_session_id": "048f81c5-b7d2-432d-b1e5-68613389f167",
+    "duration_ms": 178658,
+    "genre": []
+  },
+  {
+    "song": "I Was Wrong",
+    "artists": [
+      "Majk Spirit",
+      "Celeste Buckingham"
+    ],
+    "isrc": "QMQNX1300013",
+    "start_time": "2025-11-23 06:49:56",
+    "radio": "expres",
+    "recorded_at": "2025-11-23T06:50:24.668119+01:00",
+    "raw_valid": true,
+    "song_session_id": "9610a391-a362-497e-8be9-df15dd052c00",
+    "duration_ms": 239240,
+    "genre": []
+  },
+  {
+    "song": "Runaway Train",
+    "artists": [
+      "Soul Asylum"
+    ],
+    "isrc": "USSM19200235",
+    "start_time": "2025-11-23 06:54:04",
+    "radio": "expres",
+    "recorded_at": "2025-11-23T06:54:28.516910+01:00",
+    "raw_valid": true,
+    "song_session_id": "557008ce-39f1-4916-9b32-379325453297",
+    "duration_ms": 266573,
+    "genre": []
+  },
+  {
+    "song": "Pomarance Z Kuby",
+    "artists": [
+      "Hex"
+    ],
+    "isrc": "SKCA92300105",
+    "start_time": "2025-11-23 06:57:11",
+    "radio": "expres",
+    "recorded_at": "2025-11-23T06:57:32.668172+01:00",
+    "raw_valid": true,
+    "song_session_id": "a590c1e5-2c09-4361-9057-3702c7002f60",
+    "duration_ms": 260316,
+    "genre": []
+  },
+  {
+    "song": "Len Sa Smej",
+    "artists": [
+      "Peter Bic Project"
+    ],
+    "isrc": "SKA012300333",
+    "start_time": "2025-11-23 07:06:16",
+    "radio": "expres",
+    "recorded_at": "2025-11-23T07:06:36.636021+01:00",
+    "raw_valid": true,
+    "song_session_id": "f97284f1-86aa-44e9-a632-2c0b4ccfc5d0",
+    "duration_ms": 164741,
+    "genre": []
+  },
+  {
+    "song": "Vrat Trochu Lasky Medzi Nas",
+    "artists": [
+      "Money Factor"
+    ],
+    "isrc": "FRX201742441",
+    "start_time": "2025-11-23 07:09:04",
+    "radio": "expres",
+    "recorded_at": "2025-11-23T07:09:28.296159+01:00",
+    "raw_valid": true,
+    "song_session_id": "5b8cc186-4152-4c0c-b895-648dbd4461d9",
+    "duration_ms": 245640,
+    "genre": []
+  },
+  {
+    "song": "Zily",
+    "artists": [
+      "No Name"
+    ],
+    "isrc": "SKA010005400",
+    "start_time": "2025-11-23 07:13:15",
+    "radio": "expres",
+    "recorded_at": "2025-11-23T07:13:30.036683+01:00",
+    "raw_valid": true,
+    "song_session_id": "ca100bac-ec02-4b5d-ba33-56109045a535",
+    "duration_ms": 204173,
+    "genre": []
+  },
+  {
+    "song": "Muzikantske Byty",
+    "artists": [
+      "Vaso Patejdl",
+      "Beata Dubasova"
+    ],
+    "isrc": "SKA128919705",
+    "start_time": "2025-11-23 07:16:29",
+    "radio": "expres",
+    "recorded_at": "2025-11-23T07:16:56.126643+01:00",
+    "raw_valid": true,
+    "song_session_id": "e6344b53-a144-49d8-ba4e-1526f326d6cb",
+    "duration_ms": 227280,
+    "genre": []
+  },
+  {
+    "song": "V Tom Istom Meste",
+    "artists": [
+      "Richard Muller"
+    ],
+    "isrc": "CZA110201031",
+    "start_time": "2025-11-23 07:20:21",
+    "radio": "expres",
+    "recorded_at": "2025-11-23T07:20:29.679232+01:00",
+    "raw_valid": true,
+    "song_session_id": "f5f595fe-6e02-4e21-94ef-b9c682da495a",
+    "duration_ms": 200840,
+    "genre": []
+  },
+  {
+    "song": "Nemozna",
+    "artists": [
+      "Silvia Slivova"
+    ],
+    "isrc": "SKA128676210",
+    "start_time": "2025-11-23 07:23:16",
+    "radio": "expres",
+    "recorded_at": "2025-11-23T07:23:47.636035+01:00",
+    "raw_valid": true,
+    "song_session_id": "da207208-c686-4013-a749-8fbf862c85af",
+    "duration_ms": 233373,
+    "genre": []
+  },
+  {
+    "song": "Otec",
+    "artists": [
+      "Para"
+    ],
+    "isrc": "CZA250100830",
+    "start_time": "2025-11-23 07:27:08",
+    "radio": "expres",
+    "recorded_at": "2025-11-23T07:27:37.666450+01:00",
+    "raw_valid": true,
+    "song_session_id": "be027137-398c-4db1-aa19-6cf359bd256d",
+    "duration_ms": 235280,
+    "genre": []
+  },
+  {
+    "song": "Zhasni A Snivaj",
+    "artists": [
+      "Pavol Habera"
+    ],
+    "isrc": "FRX451573103",
+    "start_time": "2025-11-23 07:32:33",
+    "radio": "expres",
+    "recorded_at": "2025-11-23T07:33:02.474411+01:00",
+    "raw_valid": true,
+    "song_session_id": "9c61bd99-42c8-44d5-b7ec-e4f96037ddb9",
+    "duration_ms": 254293,
+    "genre": []
+  },
+  {
+    "song": "Za Tebou",
+    "artists": [
+      "Peha"
+    ],
+    "isrc": "CZA110500020",
+    "start_time": "2025-11-23 07:36:26",
+    "radio": "expres",
+    "recorded_at": "2025-11-23T07:36:41.639570+01:00",
+    "raw_valid": true,
+    "song_session_id": "44cd6cb9-dd18-4d4a-b6a9-6b788be2a841",
+    "duration_ms": 236680,
+    "genre": []
+  },
+  {
+    "song": "C Est La Vie",
+    "artists": [
+      "Miro Zbirka"
+    ],
+    "isrc": "SKA129031301",
+    "start_time": "2025-11-23 07:40:09",
+    "radio": "expres",
+    "recorded_at": "2025-11-23T07:40:33.487893+01:00",
+    "raw_valid": true,
+    "song_session_id": "4619b747-754e-4765-b918-7a061f0fdbf5",
+    "duration_ms": 274480,
+    "genre": []
+  },
+  {
+    "song": "Opri Sa O Mna",
+    "artists": [
+      "Imt Smile"
+    ],
+    "isrc": "SKA010011206",
+    "start_time": "2025-11-23 07:44:34",
+    "radio": "expres",
+    "recorded_at": "2025-11-23T07:44:52.365303+01:00",
+    "raw_valid": true,
+    "song_session_id": "bebacd3c-0bb4-4ba6-9bdf-6c415703e4ad",
+    "duration_ms": 164893,
+    "genre": []
+  },
+  {
+    "song": "Co O Mne Vies",
+    "artists": [
+      "Darinka Rolincova"
+    ],
+    "isrc": "CZA168800007",
+    "start_time": "2025-11-23 07:47:13",
+    "radio": "expres",
+    "recorded_at": "2025-11-23T07:47:35.441050+01:00",
+    "raw_valid": true,
+    "song_session_id": "a5ea99ba-dc0a-4f33-929f-dbcf675c94c2",
+    "duration_ms": 160786,
+    "genre": []
+  },
+  {
+    "song": "Skandal",
+    "artists": [
+      "Polemic"
+    ],
+    "isrc": "CZA210202966",
+    "start_time": "2025-11-23 07:50:01",
+    "radio": "expres",
+    "recorded_at": "2025-11-23T07:50:13.071387+01:00",
+    "raw_valid": true,
+    "song_session_id": "fc14319c-99c4-4559-9de9-d9cd5e405b40",
+    "duration_ms": 160760,
+    "genre": []
+  },
+  {
+    "song": "Tisic A Jedenkrat",
+    "artists": [
+      "Elan"
+    ],
+    "isrc": "TCAEF1942480",
+    "start_time": "2025-11-23 07:52:47",
+    "radio": "expres",
+    "recorded_at": "2025-11-23T07:53:02.497374+01:00",
+    "raw_valid": true,
+    "song_session_id": "da58705d-36f1-4364-8178-8ef6c4c348cc",
+    "duration_ms": 279000,
+    "genre": []
+  },
+  {
+    "song": "Len Ty Smies",
+    "artists": [
+      "Zdenka Predna"
+    ],
+    "isrc": "CZA210500897",
+    "start_time": "2025-11-23 07:56:18",
+    "radio": "expres",
+    "recorded_at": "2025-11-23T07:56:41.078783+01:00",
+    "raw_valid": true,
+    "song_session_id": "a06e1363-d6d4-479c-8e59-66ace66b568e",
+    "duration_ms": 260519,
+    "genre": []
+  }
+]

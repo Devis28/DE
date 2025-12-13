@@ -1,0 +1,422 @@
+[
+  {
+    "station": "Rádio Melody",
+    "title": "Jingle Bells",
+    "artist": "Bogguss Suzy",
+    "date": "01.12.2025",
+    "time": "09:51",
+    "last_update": "01.12.2025 09:51:22",
+    "recorded_at": "2025-12-01T09:51:22.565018+01:00",
+    "raw_valid": true,
+    "song_session_id": "d1abdc5b-e32e-4340-be82-8f40c44854d7",
+    "duration_ms": 176520,
+    "genre": [
+      "classic country"
+    ]
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Stay Another Day",
+    "artist": "East 17",
+    "date": "01.12.2025",
+    "time": "09:53",
+    "last_update": "01.12.2025 09:54:25",
+    "recorded_at": "2025-12-01T09:54:25.507740+01:00",
+    "raw_valid": true,
+    "song_session_id": "ff4e1bb4-c7ca-40f3-8fa6-bbda6739338b",
+    "duration_ms": 267133,
+    "genre": [
+      "christmas"
+    ]
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Vtedy Sú Vianoce",
+    "artist": "Dara Rolins",
+    "date": "01.12.2025",
+    "time": "10:01",
+    "last_update": "01.12.2025 10:02:31",
+    "recorded_at": "2025-12-01T10:02:31.046500+01:00",
+    "raw_valid": true,
+    "song_session_id": "5d3fc876-11bb-4ed8-a476-9a76e3004cb8",
+    "duration_ms": 186546,
+    "genre": []
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Merry Christmas",
+    "artist": "Ed Sheeran & Elton John",
+    "date": "01.12.2025",
+    "time": "10:04",
+    "last_update": "01.12.2025 10:05:32",
+    "recorded_at": "2025-12-01T10:05:32.783350+01:00",
+    "raw_valid": true,
+    "song_session_id": "412d27be-a7d9-4aac-aa68-66ac505ebf82",
+    "duration_ms": 208546,
+    "genre": [
+      "soft pop"
+    ]
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Like It's Christmas",
+    "artist": "Jonas Brothers",
+    "date": "01.12.2025",
+    "time": "10:07",
+    "last_update": "01.12.2025 10:08:34",
+    "recorded_at": "2025-12-01T10:08:34.312052+01:00",
+    "raw_valid": true,
+    "song_session_id": "a105b6f2-745e-478b-aef8-6bf4359cace1",
+    "duration_ms": 200880,
+    "genre": []
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "List Jeziskovi (Mistletoe And Wine)",
+    "artist": "Pavol Habera",
+    "date": "01.12.2025",
+    "time": "10:13",
+    "last_update": "01.12.2025 10:14:08",
+    "recorded_at": "2025-12-01T10:14:08.590152+01:00",
+    "raw_valid": true,
+    "song_session_id": "30eef8be-9a56-4a61-b66c-398d0f996a2e",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "When It´s Christmas Time",
+    "artist": "Worlds Apart",
+    "date": "01.12.2025",
+    "time": "10:17",
+    "last_update": "01.12.2025 10:18:12",
+    "recorded_at": "2025-12-01T10:18:12.023752+01:00",
+    "raw_valid": true,
+    "song_session_id": "8e48b897-2f37-4c6f-af80-3ccb50b7e6da",
+    "duration_ms": 246160,
+    "genre": []
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Christmas Makes The Town",
+    "artist": "Benton, Brook",
+    "date": "01.12.2025",
+    "time": "10:21",
+    "last_update": "01.12.2025 10:22:13",
+    "recorded_at": "2025-12-01T10:22:13.956969+01:00",
+    "raw_valid": true,
+    "song_session_id": "2ec96fc1-7327-4aa9-9543-742dd3a83fb7",
+    "duration_ms": 163666,
+    "genre": [
+      "classic soul"
+    ]
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Každý Deň Budú Vraj Vianoce",
+    "artist": "Lojzo & Miro Žbirka",
+    "date": "01.12.2025",
+    "time": "10:24",
+    "last_update": "01.12.2025 10:25:17",
+    "recorded_at": "2025-12-01T10:25:17.085061+01:00",
+    "raw_valid": true,
+    "song_session_id": "ce2a5ad2-187d-42d1-8bf0-e07d3cb2501a",
+    "duration_ms": 266893,
+    "genre": []
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Vianočná Pieseň",
+    "artist": "Junas Dano",
+    "date": "01.12.2025",
+    "time": "10:28",
+    "last_update": "01.12.2025 10:29:19",
+    "recorded_at": "2025-12-01T10:29:19.110017+01:00",
+    "raw_valid": true,
+    "song_session_id": "448b4baa-b365-40ca-a7f4-8a4654e4a751",
+    "duration_ms": 311266,
+    "genre": []
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Blame It On The Mistletoe",
+    "artist": "Ella Henderson & Aj Mitchell",
+    "date": "01.12.2025",
+    "time": "10:34",
+    "last_update": "01.12.2025 10:35:22",
+    "recorded_at": "2025-12-01T10:35:22.828488+01:00",
+    "raw_valid": true,
+    "song_session_id": "bc6ca45b-0827-41bb-a9cd-6fbe926638ce",
+    "duration_ms": 185739,
+    "genre": []
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Na Vianoce",
+    "artist": "Adam Ďurica",
+    "date": "01.12.2025",
+    "time": "10:37",
+    "last_update": "01.12.2025 10:38:25",
+    "recorded_at": "2025-12-01T10:38:25.830019+01:00",
+    "raw_valid": true,
+    "song_session_id": "b0277cbd-e92f-4537-9210-459a8ff90b7a",
+    "duration_ms": 223061,
+    "genre": []
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Dobro V Nás",
+    "artist": "Veronika Hatala A Miro Jaroš",
+    "date": "01.12.2025",
+    "time": "10:40",
+    "last_update": "01.12.2025 10:41:28",
+    "recorded_at": "2025-12-01T10:41:28.728251+01:00",
+    "raw_valid": true,
+    "song_session_id": "11a5ddee-c1bb-489d-99ad-9c00cdfb0672",
+    "duration_ms": 187000,
+    "genre": []
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "It's The Most Wonderful Time Of The Year",
+    "artist": "Andy Williams",
+    "date": "01.12.2025",
+    "time": "10:44",
+    "last_update": "01.12.2025 10:45:30",
+    "recorded_at": "2025-12-01T10:45:30.865267+01:00",
+    "raw_valid": true,
+    "song_session_id": "2ee1a7a1-b54b-49e0-a842-b7b8e89effa2",
+    "duration_ms": 152570,
+    "genre": [
+      "christmas"
+    ]
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Do They Know It's Christmas",
+    "artist": "Band Aid",
+    "date": "01.12.2025",
+    "time": "10:46",
+    "last_update": "01.12.2025 10:47:31",
+    "recorded_at": "2025-12-01T10:47:31.982568+01:00",
+    "raw_valid": true,
+    "song_session_id": "0f7c2150-82f2-4996-bf14-faf4e146a22e",
+    "duration_ms": 222533,
+    "genre": [
+      "christmas"
+    ]
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "I Need You For Christmas",
+    "artist": "Inna",
+    "date": "01.12.2025",
+    "time": "10:50",
+    "last_update": "01.12.2025 10:51:36",
+    "recorded_at": "2025-12-01T10:51:36.746687+01:00",
+    "raw_valid": true,
+    "song_session_id": "74408274-6639-4a30-b2f6-f7121447f51c",
+    "duration_ms": 159622,
+    "genre": [
+      "europop"
+    ]
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "We Are The World",
+    "artist": "Usa For Africa & Jackson Michael",
+    "date": "01.12.2025",
+    "time": "10:53",
+    "last_update": "01.12.2025 10:54:09",
+    "recorded_at": "2025-12-01T10:54:09.512108+01:00",
+    "raw_valid": true,
+    "song_session_id": "fc8d430c-0fbf-44f3-9143-760915265431",
+    "duration_ms": 427333,
+    "genre": []
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Happy Xmas (War Is Over)",
+    "artist": "John Lennon",
+    "date": "01.12.2025",
+    "time": "11:01",
+    "last_update": "01.12.2025 11:02:15",
+    "recorded_at": "2025-12-01T11:02:15.881262+01:00",
+    "raw_valid": true,
+    "song_session_id": "bce5b71b-d883-419c-943a-5191343c3a0a",
+    "duration_ms": 214333,
+    "genre": [
+      "christmas"
+    ]
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Dream A Little Dream",
+    "artist": "Williams Robbie",
+    "date": "01.12.2025",
+    "time": "11:04",
+    "last_update": "01.12.2025 11:05:17",
+    "recorded_at": "2025-12-01T11:05:17.532056+01:00",
+    "raw_valid": true,
+    "song_session_id": "47d1f152-9b25-46ea-b856-e47e8edf3802",
+    "duration_ms": 213761,
+    "genre": []
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Vúně Vánoc",
+    "artist": "Vondráčková Helena",
+    "date": "01.12.2025",
+    "time": "11:07",
+    "last_update": "01.12.2025 11:08:20",
+    "recorded_at": "2025-12-01T11:08:20.424571+01:00",
+    "raw_valid": true,
+    "song_session_id": "66787d48-bd88-4a11-9f00-bb854896cf16",
+    "duration_ms": 244666,
+    "genre": []
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "All I Want For Christmas Is You",
+    "artist": "Mariah Carey",
+    "date": "01.12.2025",
+    "time": "11:13",
+    "last_update": "01.12.2025 11:14:24",
+    "recorded_at": "2025-12-01T11:14:24.935097+01:00",
+    "raw_valid": true,
+    "song_session_id": "deed6bb4-c293-45f2-9ffb-d8a06c7b31b1",
+    "duration_ms": 241562,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Winter Wonderland",
+    "artist": "Michael Bublé",
+    "date": "01.12.2025",
+    "time": "11:17",
+    "last_update": "01.12.2025 11:18:28",
+    "recorded_at": "2025-12-01T11:18:28.372915+01:00",
+    "raw_valid": true,
+    "song_session_id": "fbdd484f-81e6-403d-878d-1c01a3d20398",
+    "duration_ms": 150880,
+    "genre": [
+      "christmas"
+    ]
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Christmas Time Again",
+    "artist": "Extreme",
+    "date": "01.12.2025",
+    "time": "11:19",
+    "last_update": "01.12.2025 11:20:30",
+    "recorded_at": "2025-12-01T11:20:30.890340+01:00",
+    "raw_valid": true,
+    "song_session_id": "e8e8a1f1-8563-467c-9163-68d39fd91804",
+    "duration_ms": 306333,
+    "genre": [
+      "glam metal"
+    ]
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Kdepak Ty Ptáčku Hnízdo Máš",
+    "artist": "Gott Karel",
+    "date": "01.12.2025",
+    "time": "11:25",
+    "last_update": "01.12.2025 11:26:35",
+    "recorded_at": "2025-12-01T11:26:35.442567+01:00",
+    "raw_valid": true,
+    "song_session_id": "8c304703-b756-48a7-a278-c3bcd6aafc7a",
+    "duration_ms": 175400,
+    "genre": [
+      "schlager"
+    ]
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "V Bajnom Betleheme",
+    "artist": "Robo Opatovsky",
+    "date": "01.12.2025",
+    "time": "11:27",
+    "last_update": "01.12.2025 11:28:36",
+    "recorded_at": "2025-12-01T11:28:36.444868+01:00",
+    "raw_valid": true,
+    "song_session_id": "4c83cdea-f547-4b16-a913-e1fc2231bbca",
+    "duration_ms": 244266,
+    "genre": []
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "I Met An Angel (On Christmas Day)",
+    "artist": "Dion Celine",
+    "date": "01.12.2025",
+    "time": "11:31",
+    "last_update": "01.12.2025 11:32:09",
+    "recorded_at": "2025-12-01T11:32:09.696258+01:00",
+    "raw_valid": true,
+    "song_session_id": "f07e9c71-9945-4a5a-892d-923a64e80e14",
+    "duration_ms": 199760,
+    "genre": [
+      "variété française"
+    ]
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Tichá Noc",
+    "artist": "Habera Pavol",
+    "date": "01.12.2025",
+    "time": "11:34",
+    "last_update": "01.12.2025 11:35:11",
+    "recorded_at": "2025-12-01T11:35:11.158713+01:00",
+    "raw_valid": true,
+    "song_session_id": "bf9b2936-0d97-4c48-a1ac-9fe8cf835808",
+    "duration_ms": 264666,
+    "genre": []
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Jingle Bell Rock",
+    "artist": "Sherman Bobby",
+    "date": "01.12.2025",
+    "time": "11:37",
+    "last_update": "01.12.2025 11:38:12",
+    "recorded_at": "2025-12-01T11:38:12.637115+01:00",
+    "raw_valid": true,
+    "song_session_id": "44ffae01-5e35-4f1e-92f9-9428bab91952",
+    "duration_ms": 137266,
+    "genre": [
+      "bubblegum pop"
+    ]
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Santa Tell Me",
+    "artist": "Ariana Grande",
+    "date": "01.12.2025",
+    "time": "11:39",
+    "last_update": "01.12.2025 11:40:15",
+    "recorded_at": "2025-12-01T11:40:15.021846+01:00",
+    "raw_valid": true,
+    "song_session_id": "ceb3635b-458a-4efd-b4c2-d62b582d3a4b",
+    "duration_ms": 204093,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Půlnoční",
+    "artist": "Václav Neckář",
+    "date": "01.12.2025",
+    "time": "11:43",
+    "last_update": "01.12.2025 11:44:18",
+    "recorded_at": "2025-12-01T11:44:18.532548+01:00",
+    "raw_valid": true,
+    "song_session_id": "81e273ff-6cbd-4a10-a43e-faa143df6417",
+    "duration_ms": 303893,
+    "genre": []
+  }
+]

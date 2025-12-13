@@ -1,0 +1,329 @@
+[
+  {
+    "song": "Just Give Me A Reason",
+    "artists": [
+      "Pink",
+      "Nate Ruess"
+    ],
+    "isrc": "USRC11200786",
+    "start_time": "2025-11-28 07:50:16",
+    "radio": "expres",
+    "recorded_at": "2025-11-28T07:50:39.376523+01:00",
+    "raw_valid": true,
+    "song_session_id": "59c542cd-0f10-4698-a795-8c68f42477dd",
+    "duration_ms": 243880,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "World Gone Wild",
+    "artists": [
+      "Robin Schulz",
+      "Cyril",
+      "Sam Martin"
+    ],
+    "isrc": "DEA622403329",
+    "start_time": "2025-11-28 07:55:53",
+    "radio": "expres",
+    "recorded_at": "2025-11-28T07:56:21.134397+01:00",
+    "raw_valid": true,
+    "song_session_id": "ed53e9b3-f899-4793-a101-e2dcdb797559",
+    "duration_ms": 146523,
+    "genre": []
+  },
+  {
+    "song": "Undressed",
+    "artists": [
+      "Sombr"
+    ],
+    "isrc": "USWB12500737",
+    "start_time": "2025-11-28 08:08:04",
+    "radio": "expres",
+    "recorded_at": "2025-11-28T08:08:39.574095+01:00",
+    "raw_valid": true,
+    "song_session_id": "fa5937c4-d5aa-47ff-b133-9f965557bb39",
+    "duration_ms": 182088,
+    "genre": [
+      "indie pop"
+    ]
+  },
+  {
+    "song": "Mozno Sa Ti Zda",
+    "artists": [
+      "Miro Zbirka"
+    ],
+    "isrc": "SKA128804807",
+    "start_time": "2025-11-28 08:11:05",
+    "radio": "expres",
+    "recorded_at": "2025-11-28T08:11:35.683433+01:00",
+    "raw_valid": true,
+    "song_session_id": "0c204248-dc2c-45c9-9bc2-c45f78e9cab1",
+    "duration_ms": 197360,
+    "genre": []
+  },
+  {
+    "song": "Sapphire",
+    "artists": [
+      "Ed Sheeran"
+    ],
+    "isrc": "GBAHS2500262",
+    "start_time": "2025-11-28 08:16:05",
+    "radio": "expres",
+    "recorded_at": "2025-11-28T08:16:14.804002+01:00",
+    "raw_valid": true,
+    "song_session_id": "ee0ca8d3-4d60-4003-b9dc-cbb9fd1d0677",
+    "duration_ms": 179082,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Love Me Not",
+    "artists": [
+      "Ravyn Lenae"
+    ],
+    "isrc": "USAT22401137",
+    "start_time": "2025-11-28 08:26:24",
+    "radio": "expres",
+    "recorded_at": "2025-11-28T08:26:55.913361+01:00",
+    "raw_valid": true,
+    "song_session_id": "c0c4556a-80f4-42e6-90ed-5a0dfdfd5b75",
+    "duration_ms": 213466,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Breakfast At Tiffanys",
+    "artists": [
+      "Deep Blue Something"
+    ],
+    "isrc": "USIR19500177",
+    "start_time": "2025-11-28 08:31:47",
+    "radio": "expres",
+    "recorded_at": "2025-11-28T08:32:11.169515+01:00",
+    "raw_valid": true,
+    "song_session_id": "da9f3cb4-5da3-4748-8f19-3df33cb1ceaf",
+    "duration_ms": 270080,
+    "genre": []
+  },
+  {
+    "song": "Let Me Die",
+    "artists": [
+      "Mark Dann",
+      "Giovanni Ricci"
+    ],
+    "isrc": "US38Y2520370",
+    "start_time": "2025-11-28 08:36:02",
+    "radio": "expres",
+    "recorded_at": "2025-11-28T08:36:30.130642+01:00",
+    "raw_valid": true,
+    "song_session_id": "138ab8b6-6ac9-406a-9077-d058dd8dfca7",
+    "duration_ms": 147010,
+    "genre": []
+  },
+  {
+    "song": "Bad Romance",
+    "artists": [
+      "Lady Gaga"
+    ],
+    "isrc": "USUM70918596",
+    "start_time": "2025-11-28 08:44:36",
+    "radio": "expres",
+    "recorded_at": "2025-11-28T08:45:04.933423+01:00",
+    "raw_valid": true,
+    "song_session_id": "8640ceee-a970-4761-abd3-4f43e3a9ed0c",
+    "duration_ms": 294573,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Wonderful Life 25",
+    "artists": [
+      "Hurts",
+      "Purple Disco Machine"
+    ],
+    "isrc": "DEE862500677",
+    "start_time": "2025-11-28 08:51:53",
+    "radio": "expres",
+    "recorded_at": "2025-11-28T08:52:22.891738+01:00",
+    "raw_valid": true,
+    "song_session_id": "24157d84-2c7b-4768-9e79-97f695511bdf",
+    "duration_ms": 178658,
+    "genre": []
+  },
+  {
+    "song": "V Dolinach",
+    "artists": [
+      "Desmod"
+    ],
+    "isrc": "CZA210600107",
+    "start_time": "2025-11-28 08:54:51",
+    "radio": "expres",
+    "recorded_at": "2025-11-28T08:55:00.605790+01:00",
+    "raw_valid": true,
+    "song_session_id": "9e8003de-bf16-49e7-8285-75937e13c073",
+    "duration_ms": 208693,
+    "genre": []
+  },
+  {
+    "song": "Otherside",
+    "artists": [
+      "Red Hot Chili Peppers"
+    ],
+    "isrc": "USWB19900693",
+    "start_time": "2025-11-28 09:08:14",
+    "radio": "expres",
+    "recorded_at": "2025-11-28T09:08:31.273025+01:00",
+    "raw_valid": true,
+    "song_session_id": "f8ef812c-20ca-4e6c-b14a-9e4ac353ca9d",
+    "duration_ms": 255373,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Espresso",
+    "artists": [
+      "Sabrina Carpenter"
+    ],
+    "isrc": "USUM72403305",
+    "start_time": "2025-11-28 09:12:25",
+    "radio": "expres",
+    "recorded_at": "2025-11-28T09:12:35.058588+01:00",
+    "raw_valid": true,
+    "song_session_id": "4e29c522-7d54-4bc6-bdac-af2d4b684867",
+    "duration_ms": 175453,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Human",
+    "artists": [
+      "Rag N Bone Man"
+    ],
+    "isrc": "GBARL1600665",
+    "start_time": "2025-11-28 09:15:21",
+    "radio": "expres",
+    "recorded_at": "2025-11-28T09:15:38.363829+01:00",
+    "raw_valid": true,
+    "song_session_id": "c2a4b6bf-2a62-4a8a-a934-ceaf676446dc",
+    "duration_ms": 199413,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Blink Twice",
+    "artists": [
+      "Shaboozey",
+      "Myles Smith"
+    ],
+    "isrc": "USUYG1717098",
+    "start_time": "2025-11-28 09:20:43",
+    "radio": "expres",
+    "recorded_at": "2025-11-28T09:20:58.308881+01:00",
+    "raw_valid": true,
+    "song_session_id": "7b9475b7-954e-44c7-b6ed-90cfabc6adab",
+    "duration_ms": 156721,
+    "genre": []
+  },
+  {
+    "song": "Over The Rainbow",
+    "artists": [
+      "Israel"
+    ],
+    "isrc": "USMAC0100119",
+    "start_time": "2025-11-28 09:23:31",
+    "radio": "expres",
+    "recorded_at": "2025-11-28T09:23:41.120166+01:00",
+    "raw_valid": true,
+    "song_session_id": "2e8ec13d-387d-485d-8025-917903c58eca",
+    "duration_ms": 211933,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Im Still Standing",
+    "artists": [
+      "Elton John"
+    ],
+    "isrc": "GBALX8300190",
+    "start_time": "2025-11-28 09:34:37",
+    "radio": "expres",
+    "recorded_at": "2025-11-28T09:34:59.875003+01:00",
+    "raw_valid": true,
+    "song_session_id": "c411ba9a-e423-4885-afcd-7ff397925268",
+    "duration_ms": 182640,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Pride",
+    "artists": [
+      "Felix Jaehn",
+      "Jhart"
+    ],
+    "isrc": "DEUM72503423",
+    "start_time": "2025-11-28 09:37:32",
+    "radio": "expres",
+    "recorded_at": "2025-11-28T09:38:16.895889+01:00",
+    "raw_valid": true,
+    "song_session_id": "a8dcd5cc-0b6e-4266-9526-27871eee43cf",
+    "duration_ms": 158150,
+    "genre": []
+  },
+  {
+    "song": "All For Love",
+    "artists": [
+      "Bryan Adams",
+      "Rod Stewart",
+      "Sting"
+    ],
+    "isrc": "GBF079441514",
+    "start_time": "2025-11-28 09:40:12",
+    "radio": "expres",
+    "recorded_at": "2025-11-28T09:40:39.823788+01:00",
+    "raw_valid": true,
+    "song_session_id": "a95cc823-0b64-41ee-8749-2c41050add07",
+    "duration_ms": 324173,
+    "genre": []
+  },
+  {
+    "song": "Beautiful Things",
+    "artists": [
+      "Benson Boone"
+    ],
+    "isrc": "USWB12307016",
+    "start_time": "2025-11-28 09:44:58",
+    "radio": "expres",
+    "recorded_at": "2025-11-28T09:45:24.027170+01:00",
+    "raw_valid": true,
+    "song_session_id": "89ead452-ff92-4999-b5aa-e2ddd3717191",
+    "duration_ms": 180304,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Salt",
+    "artists": [
+      "Ava Max"
+    ],
+    "isrc": "USAT21906991",
+    "start_time": "2025-11-28 09:48:03",
+    "radio": "expres",
+    "recorded_at": "2025-11-28T09:48:21.986449+01:00",
+    "raw_valid": true,
+    "song_session_id": "a5aeebb8-d13e-41be-9bdf-9074ae7eb066",
+    "duration_ms": 180283,
+    "genre": [
+      "pop"
+    ]
+  }
+]

@@ -1,0 +1,508 @@
+[
+  {
+    "last_update": "2025-12-03 05:58:29",
+    "song": {
+      "musicAuthor": "Iggy Pop",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048514aa5f679427e35409a06f225",
+      "musicTitle": "The Passenger",
+      "radio": "Rádio ROCK",
+      "startTime": "06:58"
+    },
+    "recorded_at": "2025-12-03T06:58:29.908259+01:00",
+    "raw_valid": true,
+    "song_session_id": "d51346f2-5a80-4c7c-a111-8a4f5c34a60b",
+    "duration_ms": 283360,
+    "isrc": "USVI20700278",
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "last_update": "2025-12-03 06:07:31",
+    "song": {
+      "musicAuthor": "Imagine Dragons",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851407bd04707c463bbb3410737",
+      "musicTitle": "Demons",
+      "radio": "Rádio ROCK",
+      "startTime": "07:07"
+    },
+    "recorded_at": "2025-12-03T07:07:32.066485+01:00",
+    "raw_valid": true,
+    "song_session_id": "202d9403-83d1-43a2-b99c-d6f90aca9a64",
+    "duration_ms": 177506,
+    "isrc": "USUM71201071",
+    "genre": [
+      "indie"
+    ]
+  },
+  {
+    "last_update": "2025-12-03 06:10:32",
+    "song": {
+      "musicAuthor": "Aerosmith",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851a8a965df6a845b265ee19106",
+      "musicTitle": "Dude Looks Like A Lady",
+      "radio": "Rádio ROCK",
+      "startTime": "07:10"
+    },
+    "recorded_at": "2025-12-03T07:10:32.320027+01:00",
+    "raw_valid": true,
+    "song_session_id": "895cab7b-1c56-4bb6-b64a-1571a38b6be4",
+    "duration_ms": 265773,
+    "isrc": "USIR10000454",
+    "genre": [
+      "classic rock"
+    ]
+  },
+  {
+    "last_update": "2025-12-03 06:14:32",
+    "song": {
+      "musicAuthor": "Metallica",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485175e6375e11550746705a9645",
+      "musicTitle": "Turn The Page",
+      "radio": "Rádio ROCK",
+      "startTime": "07:14"
+    },
+    "recorded_at": "2025-12-03T07:14:33.829810+01:00",
+    "raw_valid": true,
+    "song_session_id": "a2bd160d-7568-4049-ac40-4c66d0bd9df1",
+    "duration_ms": 366466,
+    "isrc": "GBAMC9800024",
+    "genre": [
+      "metal"
+    ]
+  },
+  {
+    "last_update": "2025-12-03 06:21:35",
+    "song": {
+      "musicAuthor": "Iron Maiden",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851443bd0f08a60dfad2b0165e7",
+      "musicTitle": "Speed Of Light",
+      "radio": "Rádio ROCK",
+      "startTime": "07:20"
+    },
+    "recorded_at": "2025-12-03T07:21:35.970779+01:00",
+    "raw_valid": true,
+    "song_session_id": "6c17778c-b23d-4238-a085-a5de7d73591f",
+    "duration_ms": 301745,
+    "isrc": "GBCHB1410645",
+    "genre": [
+      "heavy metal"
+    ]
+  },
+  {
+    "last_update": "2025-12-03 06:22:35",
+    "song": {
+      "musicAuthor": "Maneskin",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851dbc892b8194e35ca3524e767",
+      "musicTitle": "Honey (Are U Coming?)",
+      "radio": "Rádio ROCK",
+      "startTime": "07:21"
+    },
+    "recorded_at": "2025-12-03T07:22:36.024769+01:00",
+    "raw_valid": true,
+    "song_session_id": "78e5879c-f7f8-4628-a46c-ab8a8b34920f",
+    "duration_ms": 167276,
+    "isrc": "ITB002301189",
+    "genre": []
+  },
+  {
+    "last_update": "2025-12-03 06:25:35",
+    "song": {
+      "musicAuthor": "Tublatanka",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851544f90aba7e4a572d633094a",
+      "musicTitle": "Dnes",
+      "radio": "Rádio ROCK",
+      "startTime": "07:24"
+    },
+    "recorded_at": "2025-12-03T07:25:36.594342+01:00",
+    "raw_valid": true,
+    "song_session_id": "0f7259ec-b217-41f1-bf96-a03cf5a17e21",
+    "duration_ms": 298893,
+    "isrc": "SKA128710206",
+    "genre": []
+  },
+  {
+    "last_update": "2025-12-03 06:30:35",
+    "song": {
+      "musicAuthor": "The New Radicals",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048517d1327a4c19aad3c03e5557c",
+      "musicTitle": "Someday We'll Know",
+      "radio": "Rádio ROCK",
+      "startTime": "07:29"
+    },
+    "recorded_at": "2025-12-03T07:30:37.053688+01:00",
+    "raw_valid": true,
+    "song_session_id": "7e0f143d-4712-453d-824f-6a2af95a3dc8",
+    "duration_ms": 213803,
+    "isrc": "USK4W0725737",
+    "genre": []
+  },
+  {
+    "last_update": "2025-12-03 06:36:09",
+    "song": {
+      "musicAuthor": "Kings Of Leon",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048512519d01c0cca06f134eeadd8",
+      "musicTitle": "Sex On The Fire",
+      "radio": "Rádio ROCK",
+      "startTime": "07:35"
+    },
+    "recorded_at": "2025-12-03T07:36:09.537585+01:00",
+    "raw_valid": true,
+    "song_session_id": "522c8691-9d6f-4887-af3b-6964144abb87",
+    "duration_ms": 203346,
+    "isrc": "USRC10800300",
+    "genre": []
+  },
+  {
+    "last_update": "2025-12-03 06:40:09",
+    "song": {
+      "musicAuthor": "Mötley Crüe",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851e2f18e7e962bc989b570a767",
+      "musicTitle": "Kickstart My Heart",
+      "radio": "Rádio ROCK",
+      "startTime": "07:39"
+    },
+    "recorded_at": "2025-12-03T07:40:10.093969+01:00",
+    "raw_valid": true,
+    "song_session_id": "cc193bf1-1ec7-43db-ad53-b208884b19f3",
+    "duration_ms": 282653,
+    "isrc": "USBY29900215",
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "last_update": "2025-12-03 06:44:09",
+    "song": {
+      "musicAuthor": "Nirvana",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851fbc71c99f9c1296c56dd51b6",
+      "musicTitle": "Come As You Are",
+      "radio": "Rádio ROCK",
+      "startTime": "07:44"
+    },
+    "recorded_at": "2025-12-03T07:44:10.363300+01:00",
+    "raw_valid": true,
+    "song_session_id": "4f8d7f8d-3625-4a1d-818d-b6bd73f85cf8",
+    "duration_ms": 218920,
+    "isrc": "USGF19942503",
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "last_update": "2025-12-03 06:48:10",
+    "song": {
+      "musicAuthor": "Travis",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851a3af1ff0ed981bf3d9353af8",
+      "musicTitle": "Side",
+      "radio": "Rádio ROCK",
+      "startTime": "07:47"
+    },
+    "recorded_at": "2025-12-03T07:48:10.699864+01:00",
+    "raw_valid": true,
+    "song_session_id": "63a40f19-d486-4379-90f4-37b68a5cf88b",
+    "duration_ms": 239240,
+    "isrc": "GBBPF0100538",
+    "genre": [
+      "britpop"
+    ]
+  },
+  {
+    "last_update": "2025-12-03 06:54:10",
+    "song": {
+      "musicAuthor": "Kiss",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048514384b6976cadaec272114022",
+      "musicTitle": "I Was Made For Lovin' You",
+      "radio": "Rádio ROCK",
+      "startTime": "07:53"
+    },
+    "recorded_at": "2025-12-03T07:54:11.194891+01:00",
+    "raw_valid": true,
+    "song_session_id": "bbe7a3b5-d7e2-4fbb-95cf-070f15f69f90",
+    "duration_ms": 271240,
+    "isrc": "USPR39330175",
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "last_update": "2025-12-03 06:58:13",
+    "song": {
+      "musicAuthor": "Slobodna Europa",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851f183160ecfd94bfb1d3bbe9f",
+      "musicTitle": "Nikdy To Tak Nebude",
+      "radio": "Rádio ROCK",
+      "startTime": "07:57"
+    },
+    "recorded_at": "2025-12-03T07:58:13.592515+01:00",
+    "raw_valid": true,
+    "song_session_id": "22759389-06be-41d7-918a-1417178af502",
+    "duration_ms": 145360,
+    "isrc": "SKA129135203",
+    "genre": [
+      "punk"
+    ]
+  },
+  {
+    "last_update": "2025-12-03 07:01:13",
+    "song": {
+      "musicAuthor": "Iné Kafe",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485103c27ca0bab589f21321ec20",
+      "musicTitle": "Špinavé Objatie",
+      "radio": "Rádio ROCK",
+      "startTime": "08:00"
+    },
+    "recorded_at": "2025-12-03T08:01:14.052913+01:00",
+    "raw_valid": true,
+    "song_session_id": "a28497b5-5869-45eb-bfb4-9de99d5c5922",
+    "duration_ms": 239320,
+    "isrc": "SKA011100104",
+    "genre": []
+  },
+  {
+    "last_update": "2025-12-03 07:06:14",
+    "song": {
+      "musicAuthor": "Iron Maiden",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851443bd0f08a60dfad2b0165e7",
+      "musicTitle": "Speed Of Light",
+      "radio": "Rádio ROCK",
+      "startTime": "08:06"
+    },
+    "recorded_at": "2025-12-03T08:06:15.490570+01:00",
+    "raw_valid": true,
+    "song_session_id": "441954bf-16e9-475e-a0e8-fd341fcb84ea",
+    "duration_ms": 301745,
+    "isrc": "GBCHB1410645",
+    "genre": [
+      "heavy metal"
+    ]
+  },
+  {
+    "last_update": "2025-12-03 07:07:15",
+    "song": {
+      "musicAuthor": "Ac Dc",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485151c02a77d09dfcd53c8676d0",
+      "musicTitle": "Highway To Hell",
+      "radio": "Rádio ROCK",
+      "startTime": "08:06"
+    },
+    "recorded_at": "2025-12-03T08:07:15.579100+01:00",
+    "raw_valid": true,
+    "song_session_id": "59d04263-20d3-4e5c-909b-0f8e9f9efc59",
+    "duration_ms": 208110,
+    "isrc": "AUAP07900028",
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "last_update": "2025-12-03 07:11:15",
+    "song": {
+      "musicAuthor": "Limp Bizkit",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048514a31b146c7cf07705d912efe",
+      "musicTitle": "My Generation",
+      "radio": "Rádio ROCK",
+      "startTime": "08:10"
+    },
+    "recorded_at": "2025-12-03T08:11:15.892511+01:00",
+    "raw_valid": true,
+    "song_session_id": "a6a13e78-9215-4bf4-864b-a9ee9ea2befb",
+    "duration_ms": 221000,
+    "isrc": "USIR10001123",
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "last_update": "2025-12-03 07:15:17",
+    "song": {
+      "musicAuthor": "The Offspring",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048510158cbde70672dd821972907",
+      "musicTitle": "Gotta Get Away",
+      "radio": "Rádio ROCK",
+      "startTime": "08:14"
+    },
+    "recorded_at": "2025-12-03T08:15:17.668878+01:00",
+    "raw_valid": true,
+    "song_session_id": "2db9432e-b1d2-4fb2-bcf1-5eb3ce77af8a",
+    "duration_ms": 232160,
+    "isrc": "USEP40312204",
+    "genre": [
+      "punk"
+    ]
+  },
+  {
+    "last_update": "2025-12-03 07:20:18",
+    "song": {
+      "musicAuthor": "Bryan Adams",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851cf1fee2a55e98e22bf358512",
+      "musicTitle": "Somebody",
+      "radio": "Rádio ROCK",
+      "startTime": "08:19"
+    },
+    "recorded_at": "2025-12-03T08:20:18.708091+01:00",
+    "raw_valid": true,
+    "song_session_id": "c4514ce8-1997-4eef-9b51-82f9316b7710",
+    "duration_ms": 283386,
+    "isrc": "USAM18490005",
+    "genre": []
+  },
+  {
+    "last_update": "2025-12-03 07:24:18",
+    "song": {
+      "musicAuthor": "R.E.M.",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851d19a802815af06c6942f9413",
+      "musicTitle": "Imitation Of Life",
+      "radio": "Rádio ROCK",
+      "startTime": "08:24"
+    },
+    "recorded_at": "2025-12-03T08:24:18.941828+01:00",
+    "raw_valid": true,
+    "song_session_id": "22b335bf-78e2-44ca-9ac3-a4cc96a2798f",
+    "duration_ms": 237120,
+    "isrc": "USWB11102878",
+    "genre": [
+      "jangle pop"
+    ]
+  },
+  {
+    "last_update": "2025-12-03 07:28:18",
+    "song": {
+      "musicAuthor": "Kravitz Lenny",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485181bb674330f0276e88bd0722",
+      "musicTitle": "Again",
+      "radio": "Rádio ROCK",
+      "startTime": "08:27"
+    },
+    "recorded_at": "2025-12-03T08:28:19.203209+01:00",
+    "raw_valid": true,
+    "song_session_id": "53eaaeeb-387f-42e1-8555-28f1285f982a",
+    "duration_ms": 231666,
+    "isrc": "USVI20000423",
+    "genre": []
+  },
+  {
+    "last_update": "2025-12-03 07:34:20",
+    "song": {
+      "musicAuthor": "Depeche Mode",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048510a7d45a345534966a4ad2c39",
+      "musicTitle": "Personal Jesus",
+      "radio": "Rádio ROCK",
+      "startTime": "08:33"
+    },
+    "recorded_at": "2025-12-03T08:34:21.760526+01:00",
+    "raw_valid": true,
+    "song_session_id": "2e841f5c-bac3-4a1e-bf35-64a21f198324",
+    "duration_ms": 224933,
+    "isrc": "GBAJH9800145",
+    "genre": [
+      "electronic"
+    ]
+  },
+  {
+    "last_update": "2025-12-03 07:38:21",
+    "song": {
+      "musicAuthor": "Hoobastank",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485176cc6eedca8eb381afcd1e46",
+      "musicTitle": "The Reason",
+      "radio": "Rádio ROCK",
+      "startTime": "08:37"
+    },
+    "recorded_at": "2025-12-03T08:38:21.981057+01:00",
+    "raw_valid": true,
+    "song_session_id": "010dafc7-2d08-46ed-9e59-578643c4399d",
+    "duration_ms": 232800,
+    "isrc": "USIR20300704",
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "last_update": "2025-12-03 07:42:22",
+    "song": {
+      "musicAuthor": "Rammstein",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851a715d32590424cd667879ba3",
+      "musicTitle": "Du Hast",
+      "radio": "Rádio ROCK",
+      "startTime": "08:41"
+    },
+    "recorded_at": "2025-12-03T08:42:23.698371+01:00",
+    "raw_valid": true,
+    "song_session_id": "bf3c08b3-5f7f-4444-992c-87d98d46431c",
+    "duration_ms": 235600,
+    "isrc": "DED579704010",
+    "genre": [
+      "metal"
+    ]
+  },
+  {
+    "last_update": "2025-12-03 07:46:23",
+    "song": {
+      "musicAuthor": "Bryan Adams",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851cf1fee2a55e98e22bf358512",
+      "musicTitle": "Heaven",
+      "radio": "Rádio ROCK",
+      "startTime": "08:45"
+    },
+    "recorded_at": "2025-12-03T08:46:23.927766+01:00",
+    "raw_valid": true,
+    "song_session_id": "a8e532d5-fec1-4bc4-8b14-87fad766e77c",
+    "duration_ms": 243360,
+    "isrc": "USAM18490004",
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "last_update": "2025-12-03 07:49:25",
+    "song": {
+      "musicAuthor": "Iron Maiden",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851443bd0f08a60dfad2b0165e7",
+      "musicTitle": "Speed Of Light",
+      "radio": "Rádio ROCK",
+      "startTime": "08:48"
+    },
+    "recorded_at": "2025-12-03T08:49:25.030838+01:00",
+    "raw_valid": true,
+    "song_session_id": "9c3d1951-9180-42d3-b578-81b26e4ed726",
+    "duration_ms": 301745,
+    "isrc": "GBCHB1410645",
+    "genre": [
+      "heavy metal"
+    ]
+  },
+  {
+    "last_update": "2025-12-03 07:52:25",
+    "song": {
+      "musicAuthor": "U2",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485138fa0dfe55b1ff2e8c962bae",
+      "musicTitle": "Elevation",
+      "radio": "Rádio ROCK",
+      "startTime": "08:51"
+    },
+    "recorded_at": "2025-12-03T08:52:25.210618+01:00",
+    "raw_valid": true,
+    "song_session_id": "30e03716-015f-4da0-932a-bb9b31f3bae6",
+    "duration_ms": 226626,
+    "isrc": "GBAAN0000229",
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "last_update": "2025-12-03 07:55:25",
+    "song": {
+      "musicAuthor": "Kabát",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485157bf7825968feeeb043a5872",
+      "musicTitle": "Starej Bar",
+      "radio": "Rádio ROCK",
+      "startTime": "08:55"
+    },
+    "recorded_at": "2025-12-03T08:55:25.813835+01:00",
+    "raw_valid": true,
+    "song_session_id": "6145595e-56cf-49e2-a387-79ab483d5209",
+    "duration_ms": 246466,
+    "isrc": "CZA239800829",
+    "genre": []
+  }
+]

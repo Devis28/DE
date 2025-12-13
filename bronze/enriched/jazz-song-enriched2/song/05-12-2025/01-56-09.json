@@ -1,0 +1,337 @@
+[
+  {
+    "song": {
+      "play_date": "2025-12-05",
+      "play_time": "00:56",
+      "artist": [
+        "Libertatem Ensemble"
+      ],
+      "title": "Divoká"
+    },
+    "recorded_at": "2025-12-05T00:59:25.257405+01:00",
+    "raw_valid": true,
+    "song_session_id": "a62ddf6a-3a5b-4e75-bd2d-32704376fae8",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-12-05",
+      "play_time": "01:07",
+      "artist": [
+        "Riso B"
+      ],
+      "title": "Bozk"
+    },
+    "recorded_at": "2025-12-05T01:09:26.710286+01:00",
+    "raw_valid": true,
+    "song_session_id": "767d8665-1cb6-40cb-a98a-9f6fe0b96902",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-12-05",
+      "play_time": "01:11",
+      "artist": [
+        "John Coltrane"
+      ],
+      "title": "Locomotion (Remastered)"
+    },
+    "recorded_at": "2025-12-05T01:14:27.404957+01:00",
+    "raw_valid": true,
+    "song_session_id": "83231517-91d1-44be-bd32-d7dcfc28a04a",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-12-05",
+      "play_time": "01:18",
+      "artist": [
+        "Ondrej Juraši"
+      ],
+      "title": "Melodika"
+    },
+    "recorded_at": "2025-12-05T01:19:28.088433+01:00",
+    "raw_valid": true,
+    "song_session_id": "485b2dd6-d673-4e8d-9167-8819657af00a",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-12-05",
+      "play_time": "01:23",
+      "artist": [
+        "Aron Talas Trio"
+      ],
+      "title": "Big Talk"
+    },
+    "recorded_at": "2025-12-05T01:24:28.775048+01:00",
+    "raw_valid": true,
+    "song_session_id": "bac080c4-d8f0-492f-9237-087743ce03a0",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-12-05",
+      "play_time": "01:27",
+      "artist": [
+        "Oskar Torok"
+      ],
+      "title": "Natan"
+    },
+    "recorded_at": "2025-12-05T01:29:29.467086+01:00",
+    "raw_valid": true,
+    "song_session_id": "ace79ff8-4db0-4aca-b5ce-9e1f96989ffe",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-12-05",
+      "play_time": "01:38",
+      "artist": [
+        "Denis Gerhardt"
+      ],
+      "title": "Light Groove"
+    },
+    "recorded_at": "2025-12-05T01:39:30.883220+01:00",
+    "raw_valid": true,
+    "song_session_id": "0119b682-7dbe-4d03-b753-0aa9636ca34d",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-12-05",
+      "play_time": "01:42",
+      "artist": [
+        "Sonny Rollins"
+      ],
+      "title": "Strode Rode"
+    },
+    "recorded_at": "2025-12-05T01:44:31.620705+01:00",
+    "raw_valid": true,
+    "song_session_id": "f1eb9ed1-29ae-4ef9-a1fc-a00fe8ef2f50",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-12-05",
+      "play_time": "01:47",
+      "artist": [
+        "Ľuboš Šrámek"
+      ],
+      "title": "Autumn"
+    },
+    "recorded_at": "2025-12-05T01:49:32.322629+01:00",
+    "raw_valid": true,
+    "song_session_id": "37de1224-36d6-4370-9ce2-ca5a7ed455f1",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-12-05",
+      "play_time": "01:50",
+      "artist": [
+        "Dexter Gordon"
+      ],
+      "title": "Soy Califa"
+    },
+    "recorded_at": "2025-12-05T01:54:33.008190+01:00",
+    "raw_valid": true,
+    "song_session_id": "e56a6c3c-f8fb-4734-962a-70bf69574f96",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-12-05",
+      "play_time": "01:57",
+      "artist": [
+        "Eugen Botoš",
+        "Maysa Leak"
+      ],
+      "title": "Beautiful Dreamer"
+    },
+    "recorded_at": "2025-12-05T01:59:33.705365+01:00",
+    "raw_valid": true,
+    "song_session_id": "cb57aaf2-ddf1-4487-9af8-fe679a19554c",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-12-05",
+      "play_time": "02:00",
+      "artist": [
+        "Miles Davis",
+        "Robert Glasper",
+        "Erykah Badu"
+      ],
+      "title": "Maiysha (So Long)"
+    },
+    "recorded_at": "2025-12-05T02:04:34.389994+01:00",
+    "raw_valid": true,
+    "song_session_id": "329b77a7-e1b6-4dd6-802d-bcea040f9eaa",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-12-05",
+      "play_time": "02:08",
+      "artist": [
+        "Gogo Penguin"
+      ],
+      "title": "All Res"
+    },
+    "recorded_at": "2025-12-05T02:09:35.115837+01:00",
+    "raw_valid": true,
+    "song_session_id": "0c6ecfa0-d10f-4bba-8367-a511c00dec99",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-12-05",
+      "play_time": "02:12",
+      "artist": [
+        "Nicola Conte"
+      ],
+      "title": "Groovy Samba"
+    },
+    "recorded_at": "2025-12-05T02:14:35.798174+01:00",
+    "raw_valid": true,
+    "song_session_id": "29fc956e-e5cd-4c07-8190-c51c52c1fae3",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-12-05",
+      "play_time": "02:15",
+      "artist": [
+        "Wes Montgomery"
+      ],
+      "title": "Up And At It"
+    },
+    "recorded_at": "2025-12-05T02:19:36.504732+01:00",
+    "raw_valid": true,
+    "song_session_id": "c2f62ba3-a392-4b17-86ea-5c94f0707f3e",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-12-05",
+      "play_time": "02:22",
+      "artist": [
+        "Oscar Peterson Trio"
+      ],
+      "title": "What Child Is This"
+    },
+    "recorded_at": "2025-12-05T02:24:37.201241+01:00",
+    "raw_valid": true,
+    "song_session_id": "9c48c9d7-349c-414c-9f43-70021e3dfd03",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-12-05",
+      "play_time": "02:26",
+      "artist": [
+        "St. Germain"
+      ],
+      "title": "Rose Rouge"
+    },
+    "recorded_at": "2025-12-05T02:29:37.886291+01:00",
+    "raw_valid": true,
+    "song_session_id": "14558261-7810-4e1b-81c2-ff35c4e68afe",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-12-05",
+      "play_time": "02:33",
+      "artist": [
+        "Beegie Adair"
+      ],
+      "title": "Have You Met Miss Jones"
+    },
+    "recorded_at": "2025-12-05T02:34:38.582554+01:00",
+    "raw_valid": true,
+    "song_session_id": "4b2d0c02-c9f2-4e71-a29f-847994234f7b",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-12-05",
+      "play_time": "02:36",
+      "artist": [
+        "Lo Greco Bros",
+        "Flow Bop"
+      ],
+      "title": "The Roots Way"
+    },
+    "recorded_at": "2025-12-05T02:39:39.277044+01:00",
+    "raw_valid": true,
+    "song_session_id": "65d8266c-66b2-4f64-a153-95089cf4c300",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-12-05",
+      "play_time": "02:42",
+      "artist": [
+        "Br",
+        "X Music"
+      ],
+      "title": "Jazzy Jams"
+    },
+    "recorded_at": "2025-12-05T02:44:39.973178+01:00",
+    "raw_valid": true,
+    "song_session_id": "11218300-e6ce-4483-b29c-389c3268b929",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-12-05",
+      "play_time": "02:48",
+      "artist": [
+        "Nat King Cole"
+      ],
+      "title": "September Song"
+    },
+    "recorded_at": "2025-12-05T02:49:40.904088+01:00",
+    "raw_valid": true,
+    "song_session_id": "9a323c21-f61a-418b-a1b8-d6a57f7e2df0",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-12-05",
+      "play_time": "02:50",
+      "artist": [
+        "High Five Quintet"
+      ],
+      "title": "Conversation (Remix Nicola Conte)"
+    },
+    "recorded_at": "2025-12-05T02:54:41.597431+01:00",
+    "raw_valid": true,
+    "song_session_id": "ffba0ed0-d042-4f4d-af7b-3383d8a9b370",
+    "duration_ms": null,
+    "genre": []
+  }
+]

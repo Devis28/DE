@@ -1,0 +1,32 @@
+[
+  {
+    "song": {
+      "play_date": "2025-11-04",
+      "play_time": "19:55",
+      "artist": [
+        "Cannonball Adderley"
+      ],
+      "title": "Surrey With The Fringe On Top"
+    },
+    "recorded_at": "2025-11-04T19:57:04.019321+01:00",
+    "raw_valid": true,
+    "song_session_id": "763a8b2e-5271-4d6a-8ee5-756f6bffada6",
+    "duration_ms": null,
+    "genre": []
+  },
+  {
+    "song": {
+      "play_date": "2025-11-04",
+      "play_time": "20:01",
+      "artist": [
+        "Bud Powell"
+      ],
+      "title": "Celia"
+    },
+    "recorded_at": "2025-11-04T20:02:04.702802+01:00",
+    "raw_valid": true,
+    "song_session_id": "c723981a-1dcc-4135-85b8-f8a29e56deec",
+    "duration_ms": null,
+    "genre": []
+  }
+]

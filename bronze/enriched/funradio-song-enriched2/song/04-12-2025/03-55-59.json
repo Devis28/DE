@@ -1,0 +1,585 @@
+[
+  {
+    "last_update": "2025-12-04 01:58:12",
+    "song": {
+      "musicAuthor": "Lewis Capaldi",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048517b9639babbe96e25071ec1d4",
+      "musicTitle": "Before You Go",
+      "radio": "Fun Rádio",
+      "startTime": "02:57"
+    },
+    "recorded_at": "2025-12-04T02:58:12.339387+01:00",
+    "raw_valid": true,
+    "song_session_id": "6240a1c6-7fe1-4d4b-b304-be7ac2daa15b",
+    "duration_ms": 215106,
+    "genre": [
+      "alternative"
+    ]
+  },
+  {
+    "last_update": "2025-12-04 02:01:11",
+    "song": {
+      "musicAuthor": "Shawn Mendes",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485180072bdea35d71c0008bf7ee",
+      "musicTitle": "Why Why Why",
+      "radio": "Fun Rádio",
+      "startTime": "03:00"
+    },
+    "recorded_at": "2025-12-04T03:01:12.593263+01:00",
+    "raw_valid": true,
+    "song_session_id": "be8e3ddf-8f97-456d-a1ef-2635b3167243",
+    "duration_ms": 169041,
+    "genre": []
+  },
+  {
+    "last_update": "2025-12-04 02:04:12",
+    "song": {
+      "musicAuthor": "Alle Farben & Majestic",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485174ff6273a65ba86d5cab7e07",
+      "musicTitle": "From Disco To Disco",
+      "radio": "Fun Rádio",
+      "startTime": "03:03"
+    },
+    "recorded_at": "2025-12-04T03:04:12.790490+01:00",
+    "raw_valid": true,
+    "song_session_id": "b9aafd8e-f616-4786-8b64-05aee4016559",
+    "duration_ms": 141774,
+    "genre": []
+  },
+  {
+    "last_update": "2025-12-04 02:07:13",
+    "song": {
+      "musicAuthor": "John Lennon, Yoko Ono",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485161a389971d7842d02b0623ab",
+      "musicTitle": "Happy Xmas (War Is Over)",
+      "radio": "Fun Rádio",
+      "startTime": "03:06"
+    },
+    "recorded_at": "2025-12-04T03:07:13.210881+01:00",
+    "raw_valid": true,
+    "song_session_id": "a45300e9-1572-4c64-8be6-bcc38352c2ad",
+    "duration_ms": 214333,
+    "genre": []
+  },
+  {
+    "last_update": "2025-12-04 02:10:12",
+    "song": {
+      "musicAuthor": "Huntrix Featuring Ejae & Audrey Nuna",
+      "musicCover": "https://i.scdn.co/image/ab6742d3000052b717f3963ae4a9f5422763140e",
+      "musicTitle": "Golden",
+      "radio": "Fun Rádio",
+      "startTime": "03:09"
+    },
+    "recorded_at": "2025-12-04T03:10:13.393257+01:00",
+    "raw_valid": true,
+    "song_session_id": "8fe406dd-40d0-4052-9e21-cef3bed2879d",
+    "duration_ms": 194608,
+    "genre": []
+  },
+  {
+    "last_update": "2025-12-04 02:13:13",
+    "song": {
+      "musicAuthor": "Imagine Dragons",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851da6f73a25f4c79d0e6b4a8bd",
+      "musicTitle": "Natural",
+      "radio": "Fun Rádio",
+      "startTime": "03:12"
+    },
+    "recorded_at": "2025-12-04T03:13:13.569502+01:00",
+    "raw_valid": true,
+    "song_session_id": "63d0a596-832b-463d-a63a-b71ffe228823",
+    "duration_ms": 189466,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "last_update": "2025-12-04 02:16:12",
+    "song": {
+      "musicAuthor": "Jonas Brothers",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048517dbf3e9badd50f3f8886d161",
+      "musicTitle": "No Time To Talk",
+      "radio": "Fun Rádio",
+      "startTime": "03:15"
+    },
+    "recorded_at": "2025-12-04T03:16:13.745992+01:00",
+    "raw_valid": true,
+    "song_session_id": "b7c9b983-ff6c-41bf-b4ec-401eca056a67",
+    "duration_ms": 155053,
+    "genre": []
+  },
+  {
+    "last_update": "2025-12-04 02:19:13",
+    "song": {
+      "musicAuthor": "Lost Frequencies & Tom Gregory",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048510ed817eff6ba362a49a34b40",
+      "musicTitle": "Dive",
+      "radio": "Fun Rádio",
+      "startTime": "03:18"
+    },
+    "recorded_at": "2025-12-04T03:19:13.920826+01:00",
+    "raw_valid": true,
+    "song_session_id": "baa75c6f-4a4b-4f94-a5cf-0705ec90e876",
+    "duration_ms": 162353,
+    "genre": []
+  },
+  {
+    "last_update": "2025-12-04 02:22:13",
+    "song": {
+      "musicAuthor": "Damiano David Featuring Tyla & Nile Rodgers",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851bb492ab761c00d2619e514f8",
+      "musicTitle": "Talk To Me",
+      "radio": "Fun Rádio",
+      "startTime": "03:21"
+    },
+    "recorded_at": "2025-12-04T03:22:14.087871+01:00",
+    "raw_valid": true,
+    "song_session_id": "fa9ca420-2786-4b24-a1c5-f66d31d706c0",
+    "duration_ms": 193502,
+    "genre": []
+  },
+  {
+    "last_update": "2025-12-04 02:25:13",
+    "song": {
+      "musicAuthor": "Rihanna & Jay Z",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851f9f27162ab1ed45b8d7a7e98",
+      "musicTitle": "Umbrella",
+      "radio": "Fun Rádio",
+      "startTime": "03:24"
+    },
+    "recorded_at": "2025-12-04T03:25:14.259032+01:00",
+    "raw_valid": true,
+    "song_session_id": "0a4a588e-cf6f-43d4-9a36-d879a787001a",
+    "duration_ms": 275986,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "last_update": "2025-12-04 02:29:14",
+    "song": {
+      "musicAuthor": "Ed Sheeran",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048516fbb60d6a7e03ccb940a518e",
+      "musicTitle": "Sapphire",
+      "radio": "Fun Rádio",
+      "startTime": "03:28"
+    },
+    "recorded_at": "2025-12-04T03:29:14.474079+01:00",
+    "raw_valid": true,
+    "song_session_id": "2be819f2-ca15-4f8d-b43f-d964621a5e40",
+    "duration_ms": 179082,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "last_update": "2025-12-04 02:32:14",
+    "song": {
+      "musicAuthor": "Mark Ronson feat. Miley Cyrus",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851ad79d30f49891b2a2f7757f8",
+      "musicTitle": "Nothing Breaks Like A Heart",
+      "radio": "Fun Rádio",
+      "startTime": "03:31"
+    },
+    "recorded_at": "2025-12-04T03:32:14.661860+01:00",
+    "raw_valid": true,
+    "song_session_id": "db1c1104-5ad9-443e-9f18-36495a61413f",
+    "duration_ms": 217099,
+    "genre": []
+  },
+  {
+    "last_update": "2025-12-04 02:36:15",
+    "song": {
+      "musicAuthor": "Tate Mcrae",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851a8c77f8a83844a458d2692e3",
+      "musicTitle": "Tit For Tat",
+      "radio": "Fun Rádio",
+      "startTime": "03:35"
+    },
+    "recorded_at": "2025-12-04T03:36:15.331638+01:00",
+    "raw_valid": true,
+    "song_session_id": "961668c3-b9b2-47c2-9787-ecaef673d3ff",
+    "duration_ms": 177208,
+    "genre": [
+      "alternative"
+    ]
+  },
+  {
+    "last_update": "2025-12-04 02:39:14",
+    "song": {
+      "musicAuthor": "Ellie Goulding",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048516bdee14242f244d9d6ddf2fd",
+      "musicTitle": "Love Me Like You Do",
+      "radio": "Fun Rádio",
+      "startTime": "03:38"
+    },
+    "recorded_at": "2025-12-04T03:39:15.502406+01:00",
+    "raw_valid": true,
+    "song_session_id": "ce6fedfb-07ab-4f87-bc84-81d53d7a4541",
+    "duration_ms": 252534,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "last_update": "2025-12-04 02:43:15",
+    "song": {
+      "musicAuthor": "Lola Young",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851a0cb974834e04f46b63b99a8",
+      "musicTitle": "Messy",
+      "radio": "Fun Rádio",
+      "startTime": "03:42"
+    },
+    "recorded_at": "2025-12-04T03:43:15.762880+01:00",
+    "raw_valid": true,
+    "song_session_id": "9d82f745-728c-4918-a9e4-ac1dd53ab3d2",
+    "duration_ms": 284068,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "last_update": "2025-12-04 02:46:15",
+    "song": {
+      "musicAuthor": "Lady Gaga",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851d8a389abdf9cb2d03b85ff54",
+      "musicTitle": "The Dead Dance",
+      "radio": "Fun Rádio",
+      "startTime": "03:45"
+    },
+    "recorded_at": "2025-12-04T03:46:15.943246+01:00",
+    "raw_valid": true,
+    "song_session_id": "91cda2aa-2c39-4354-bb32-097e70961a39",
+    "duration_ms": 228518,
+    "genre": [
+      "disco"
+    ]
+  },
+  {
+    "last_update": "2025-12-04 02:50:16",
+    "song": {
+      "musicAuthor": "Mark Ambor",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851ed71b8008aaa879622f8c3b5",
+      "musicTitle": "Belong Together",
+      "radio": "Fun Rádio",
+      "startTime": "03:49"
+    },
+    "recorded_at": "2025-12-04T03:50:16.372031+01:00",
+    "raw_valid": true,
+    "song_session_id": "13bd579c-b7f1-4788-870d-7d8a86860f33",
+    "duration_ms": 148317,
+    "genre": []
+  },
+  {
+    "last_update": "2025-12-04 02:52:15",
+    "song": {
+      "musicAuthor": "Mal & Call Dominika",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851128fb71f5399e0491f95d45b",
+      "musicTitle": "Fire In Your Eyes",
+      "radio": "Fun Rádio",
+      "startTime": "03:51"
+    },
+    "recorded_at": "2025-12-04T03:52:16.488001+01:00",
+    "raw_valid": true,
+    "song_session_id": "c99354fa-6c68-48bc-8cb3-ff6df14a90b0",
+    "duration_ms": 106600,
+    "genre": []
+  },
+  {
+    "last_update": "2025-12-04 02:54:16",
+    "song": {
+      "musicAuthor": "Furtado Nelly Feat Timbaland",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048519944f53825c5e093215df490",
+      "musicTitle": "Promiscuous",
+      "radio": "Fun Rádio",
+      "startTime": "03:53"
+    },
+    "recorded_at": "2025-12-04T03:54:16.602589+01:00",
+    "raw_valid": true,
+    "song_session_id": "e92eb3f7-1274-4fc5-9b3f-0ff58d39ec11",
+    "duration_ms": 242293,
+    "genre": []
+  },
+  {
+    "last_update": "2025-12-04 02:58:16",
+    "song": {
+      "musicAuthor": "Michael Patrick Kelly & Rea Garvey",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851235e3abae164ae8393392951",
+      "musicTitle": "Best Bad Friend",
+      "radio": "Fun Rádio",
+      "startTime": "03:57"
+    },
+    "recorded_at": "2025-12-04T03:58:16.853400+01:00",
+    "raw_valid": true,
+    "song_session_id": "da1ce63d-f3e9-4826-8fc8-2cab696eefe7",
+    "duration_ms": 171106,
+    "genre": []
+  },
+  {
+    "last_update": "2025-12-04 03:01:16",
+    "song": {
+      "musicAuthor": "Neiked & Portugal. The Man",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851d35db88bdcbf762f317d41da",
+      "musicTitle": "Glide",
+      "radio": "Fun Rádio",
+      "startTime": "04:00"
+    },
+    "recorded_at": "2025-12-04T04:01:17.038913+01:00",
+    "raw_valid": true,
+    "song_session_id": "57a8fb10-6689-467a-8f08-a28b8f84d980",
+    "duration_ms": 184405,
+    "genre": []
+  },
+  {
+    "last_update": "2025-12-04 03:04:17",
+    "song": {
+      "musicAuthor": "Sevdaliza Featuring Anitta, Pabllo Vittar & Yseult",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048513faa0df2405b9c5b1cdefbb4",
+      "musicTitle": "Alibi Pt. 2",
+      "radio": "Fun Rádio",
+      "startTime": "04:03"
+    },
+    "recorded_at": "2025-12-04T04:04:17.418668+01:00",
+    "raw_valid": true,
+    "song_session_id": "21dba79f-db49-496d-a53f-11bf34d1bf4a",
+    "duration_ms": 161656,
+    "genre": []
+  },
+  {
+    "last_update": "2025-12-04 03:06:16",
+    "song": {
+      "musicAuthor": "Taylor Swift",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851d7812467811a7da6e6a44902",
+      "musicTitle": "The Fate Of Ophelia",
+      "radio": "Fun Rádio",
+      "startTime": "04:06"
+    },
+    "recorded_at": "2025-12-04T04:06:17.545848+01:00",
+    "raw_valid": true,
+    "song_session_id": "cbc627c6-edaa-4a2c-8c1e-7fc03f4d7d37",
+    "duration_ms": 226073,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "last_update": "2025-12-04 03:10:17",
+    "song": {
+      "musicAuthor": "Celeste Buckingham",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851d2e4bb30c1b2e0c2b6d28680",
+      "musicTitle": "Come Again",
+      "radio": "Fun Rádio",
+      "startTime": "04:10"
+    },
+    "recorded_at": "2025-12-04T04:10:17.807961+01:00",
+    "raw_valid": true,
+    "song_session_id": "f09bba61-0c12-495e-96f0-a4a65fd7d4e6",
+    "duration_ms": 222197,
+    "genre": []
+  },
+  {
+    "last_update": "2025-12-04 03:14:17",
+    "song": {
+      "musicAuthor": "Shaboozey",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851c97e11e794ddcd2c353ea390",
+      "musicTitle": "Good News",
+      "radio": "Fun Rádio",
+      "startTime": "04:13"
+    },
+    "recorded_at": "2025-12-04T04:14:18.119786+01:00",
+    "raw_valid": true,
+    "song_session_id": "2a55ef19-f3e0-418b-86c0-9bb425c92127",
+    "duration_ms": 199209,
+    "genre": []
+  },
+  {
+    "last_update": "2025-12-04 03:18:18",
+    "song": {
+      "musicAuthor": "James Hype Feat Sam Harper & Bobby Harvey",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851f60d7f051679fab1ecb2a381",
+      "musicTitle": "Waterfalls",
+      "radio": "Fun Rádio",
+      "startTime": "04:17"
+    },
+    "recorded_at": "2025-12-04T04:18:18.390488+01:00",
+    "raw_valid": true,
+    "song_session_id": "1ce626aa-4498-4ef9-b692-ce7183b2105b",
+    "duration_ms": 120578,
+    "genre": []
+  },
+  {
+    "last_update": "2025-12-04 03:20:18",
+    "song": {
+      "musicAuthor": "Harry Styles",
+      "musicCover": "https://i.scdn.co/image/ab67616d0000485177fdcfda6535601aff081b6a",
+      "musicTitle": "Watermelon Sugar",
+      "radio": "Fun Rádio",
+      "startTime": "04:19"
+    },
+    "recorded_at": "2025-12-04T04:20:18.543813+01:00",
+    "raw_valid": true,
+    "song_session_id": "51c4a8fe-8f6a-493b-b2bc-ea21e72bb0f6",
+    "duration_ms": 173991,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "last_update": "2025-12-04 03:23:18",
+    "song": {
+      "musicAuthor": "Pink",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048510156b42e6443277454bb30fa",
+      "musicTitle": "Who Knew",
+      "radio": "Fun Rádio",
+      "startTime": "04:22"
+    },
+    "recorded_at": "2025-12-04T04:23:18.759556+01:00",
+    "raw_valid": true,
+    "song_session_id": "cfd091e5-373b-4238-afb6-e88707153e22",
+    "duration_ms": 208493,
+    "genre": []
+  },
+  {
+    "last_update": "2025-12-04 03:26:18",
+    "song": {
+      "musicAuthor": "Gracie Abrams",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048511dac3694b3289cd903cb3acf",
+      "musicTitle": "That's So True",
+      "radio": "Fun Rádio",
+      "startTime": "04:25"
+    },
+    "recorded_at": "2025-12-04T04:26:18.960645+01:00",
+    "raw_valid": true,
+    "song_session_id": "cbefac74-aacc-405b-9a35-fddb3a505c12",
+    "duration_ms": 166300,
+    "genre": []
+  },
+  {
+    "last_update": "2025-12-04 03:29:19",
+    "song": {
+      "musicAuthor": "Dara Rolins",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851b0c7da23e8bbd8ee7257a77e",
+      "musicTitle": "Do Neba",
+      "radio": "Fun Rádio",
+      "startTime": "04:28"
+    },
+    "recorded_at": "2025-12-04T04:29:19.143500+01:00",
+    "raw_valid": true,
+    "song_session_id": "1166768a-3c58-4d25-a44f-7b7ca82ee2a0",
+    "duration_ms": 204253,
+    "genre": []
+  },
+  {
+    "last_update": "2025-12-04 03:33:18",
+    "song": {
+      "musicAuthor": "Sombr",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851dad39d4906f76b7c176effb1",
+      "musicTitle": "Undressed",
+      "radio": "Fun Rádio",
+      "startTime": "04:32"
+    },
+    "recorded_at": "2025-12-04T04:33:19.437845+01:00",
+    "raw_valid": true,
+    "song_session_id": "8b827041-1ed5-4562-973a-5f7b5c0c515b",
+    "duration_ms": 182088,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "last_update": "2025-12-04 03:36:19",
+    "song": {
+      "musicAuthor": "The Weeknd",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048518863bc11d2aa12b54f5aeb36",
+      "musicTitle": "Blinding Lights",
+      "radio": "Fun Rádio",
+      "startTime": "04:35"
+    },
+    "recorded_at": "2025-12-04T04:36:19.643232+01:00",
+    "raw_valid": true,
+    "song_session_id": "eb1e6bea-847c-461d-b592-9c740a6b0e63",
+    "duration_ms": 200040,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "last_update": "2025-12-04 03:39:18",
+    "song": {
+      "musicAuthor": "Martin Garrix & Lauv",
+      "musicCover": "https://i.scdn.co/image/ab67616d000048515c0e5abe73559c2de9d2eee0",
+      "musicTitle": "Mad",
+      "radio": "Fun Rádio",
+      "startTime": "04:38"
+    },
+    "recorded_at": "2025-12-04T04:39:19.862955+01:00",
+    "raw_valid": true,
+    "song_session_id": "61960b55-4cc8-4ae1-8f8b-910097ff2d69",
+    "duration_ms": 199804,
+    "genre": []
+  },
+  {
+    "last_update": "2025-12-04 03:42:19",
+    "song": {
+      "musicAuthor": "Rihanna",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851f9f27162ab1ed45b8d7a7e98",
+      "musicTitle": "Dont Stop The Music",
+      "radio": "Fun Rádio",
+      "startTime": "04:41"
+    },
+    "recorded_at": "2025-12-04T04:42:20.056300+01:00",
+    "raw_valid": true,
+    "song_session_id": "8d415d83-22ac-46c5-970b-ac7052cc5fdd",
+    "duration_ms": 267080,
+    "genre": []
+  },
+  {
+    "last_update": "2025-12-04 03:47:19",
+    "song": {
+      "musicAuthor": "Benson Boone",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851f2a919d3fa0f2b2593c92d19",
+      "musicTitle": "Beautiful Things",
+      "radio": "Fun Rádio",
+      "startTime": "04:46"
+    },
+    "recorded_at": "2025-12-04T04:47:20.386735+01:00",
+    "raw_valid": true,
+    "song_session_id": "c0df2b40-8812-418f-9ecb-938668fe6147",
+    "duration_ms": 180304,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "last_update": "2025-12-04 03:50:19",
+    "song": {
+      "musicAuthor": "Marshmello, Ellie Goulding, Avaion",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851f53c405da586d53a5592624d",
+      "musicTitle": "Save My Love",
+      "radio": "Fun Rádio",
+      "startTime": "04:49"
+    },
+    "recorded_at": "2025-12-04T04:50:20.603848+01:00",
+    "raw_valid": true,
+    "song_session_id": "bde978dd-3c97-456d-97a1-f005872d1aa6",
+    "duration_ms": 215555,
+    "genre": []
+  },
+  {
+    "last_update": "2025-12-04 03:53:20",
+    "song": {
+      "musicAuthor": "Ed Sheeran",
+      "musicCover": "https://i.scdn.co/image/ab67616d00004851ba5db46f4b838ef6027e6f96",
+      "musicTitle": "Perfect",
+      "radio": "Fun Rádio",
+      "startTime": "04:52"
+    },
+    "recorded_at": "2025-12-04T04:53:20.784288+01:00",
+    "raw_valid": true,
+    "song_session_id": "7b1f5ad6-9e48-45eb-81aa-7b5aedf937b0",
+    "duration_ms": 263400,
+    "genre": [
+      "pop"
+    ]
+  }
+]

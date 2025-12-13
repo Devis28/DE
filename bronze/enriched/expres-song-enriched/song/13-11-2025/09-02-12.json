@@ -1,0 +1,321 @@
+[
+  {
+    "song": "Be Mine",
+    "artists": [
+      "Kamrad"
+    ],
+    "isrc": "DE1NJ2500035",
+    "start_time": "2025-11-13 08:08:14",
+    "radio": "expres",
+    "recorded_at": "2025-11-13T08:08:42.212505+01:00",
+    "raw_valid": true,
+    "song_session_id": "439a42ac-4ae8-42ae-a40c-0568ee6d46f6",
+    "duration_ms": 156463,
+    "genre": []
+  },
+  {
+    "song": "Iris",
+    "artists": [
+      "Goo Goo Dolls"
+    ],
+    "isrc": "USWB19800160",
+    "start_time": "2025-11-13 08:10:55",
+    "radio": "expres",
+    "recorded_at": "2025-11-13T08:11:24.719713+01:00",
+    "raw_valid": true,
+    "song_session_id": "865eff84-5e53-4543-957a-6c6b85387445",
+    "duration_ms": 289533,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "I Like The Way You Kiss Me",
+    "artists": [
+      "Artemas"
+    ],
+    "isrc": "QZJ842400387",
+    "start_time": "2025-11-13 08:15:58",
+    "radio": "expres",
+    "recorded_at": "2025-11-13T08:16:29.131861+01:00",
+    "raw_valid": true,
+    "song_session_id": "7f46b962-2db7-4ab2-a4ab-0a4c6e708fc7",
+    "duration_ms": 142514,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Wonderful Life 25",
+    "artists": [
+      "Hurts",
+      "Purple Disco Machine"
+    ],
+    "isrc": "DEE862500677",
+    "start_time": "2025-11-13 08:26:47",
+    "radio": "expres",
+    "recorded_at": "2025-11-13T08:27:21.704330+01:00",
+    "raw_valid": true,
+    "song_session_id": "94749ac3-c951-400d-bbd1-9e4af3f60fc3",
+    "duration_ms": 178658,
+    "genre": []
+  },
+  {
+    "song": "I Wanna Dance With Somebody",
+    "artists": [
+      "Whitney Houston"
+    ],
+    "isrc": "USAR18700121",
+    "start_time": "2025-11-13 08:31:47",
+    "radio": "expres",
+    "recorded_at": "2025-11-13T08:32:22.418489+01:00",
+    "raw_valid": true,
+    "song_session_id": "779a781a-508b-41dd-b99c-68f97e622e99",
+    "duration_ms": 290440,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Austin",
+    "artists": [
+      "Dasha"
+    ],
+    "isrc": "QZTB92360479",
+    "start_time": "2025-11-13 08:36:37",
+    "radio": "expres",
+    "recorded_at": "2025-11-13T08:37:02.400482+01:00",
+    "raw_valid": true,
+    "song_session_id": "d3fd9190-7a59-4b63-8e06-a2b78adcdd2b",
+    "duration_ms": 171782,
+    "genre": []
+  },
+  {
+    "song": "Laska Necestuj Tym Vlakom",
+    "artists": [
+      "Pavol Habera"
+    ],
+    "isrc": "FRX451573146",
+    "start_time": "2025-11-13 08:46:39",
+    "radio": "expres",
+    "recorded_at": "2025-11-13T08:47:10.574655+01:00",
+    "raw_valid": true,
+    "song_session_id": "5cb26ea5-afb4-4cc8-a43a-341c49b7e859",
+    "duration_ms": 280600,
+    "genre": []
+  },
+  {
+    "song": "The One",
+    "artists": [
+      "Michael Patrick Kelly"
+    ],
+    "isrc": "DEE862500476",
+    "start_time": "2025-11-13 08:52:21",
+    "radio": "expres",
+    "recorded_at": "2025-11-13T08:52:50.801959+01:00",
+    "raw_valid": true,
+    "song_session_id": "ed38589a-d18f-4179-89bd-7d699cdfc73b",
+    "duration_ms": 181194,
+    "genre": []
+  },
+  {
+    "song": "La Bicicleta",
+    "artists": [
+      "Carlos Vives",
+      "Shakira"
+    ],
+    "isrc": "USSD11600112",
+    "start_time": "2025-11-13 08:55:19",
+    "radio": "expres",
+    "recorded_at": "2025-11-13T08:55:55.195170+01:00",
+    "raw_valid": true,
+    "song_session_id": "fbeec9d3-e1fd-4173-ba0b-85c0a0c7501f",
+    "duration_ms": 226480,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Glide",
+    "artists": [
+      "Neiked",
+      "Portugal The Man"
+    ],
+    "isrc": "DEE862500421",
+    "start_time": "2025-11-13 09:08:25",
+    "radio": "expres",
+    "recorded_at": "2025-11-13T09:09:06.151501+01:00",
+    "raw_valid": true,
+    "song_session_id": "a7b0f997-7341-4539-9ed0-684735b32835",
+    "duration_ms": 184405,
+    "genre": []
+  },
+  {
+    "song": "I Want To Break Free",
+    "artists": [
+      "Queen"
+    ],
+    "isrc": "GBUM71805978",
+    "start_time": "2025-11-13 09:11:35",
+    "radio": "expres",
+    "recorded_at": "2025-11-13T09:12:05.250890+01:00",
+    "raw_valid": true,
+    "song_session_id": "b6b3cecf-fc78-48a2-b95f-1b8e4bd79c9e",
+    "duration_ms": 223080,
+    "genre": [
+      "arena rock"
+    ]
+  },
+  {
+    "song": "Why Why Why",
+    "artists": [
+      "Shawn Mendes"
+    ],
+    "isrc": "USUM72408543",
+    "start_time": "2025-11-13 09:15:32",
+    "radio": "expres",
+    "recorded_at": "2025-11-13T09:16:10.564763+01:00",
+    "raw_valid": true,
+    "song_session_id": "7c903889-2f85-4bab-ae1b-73aa16833f28",
+    "duration_ms": 169041,
+    "genre": []
+  },
+  {
+    "song": "Everytime",
+    "artists": [
+      "Britney Spears"
+    ],
+    "isrc": "USJI10301010",
+    "start_time": "2025-11-13 09:18:18",
+    "radio": "expres",
+    "recorded_at": "2025-11-13T09:18:48.280803+01:00",
+    "raw_valid": true,
+    "song_session_id": "cf5cf4ff-6efb-4f8a-a488-cb60f0a89b3a",
+    "duration_ms": 230320,
+    "genre": [
+      "electronic"
+    ]
+  },
+  {
+    "song": "Nechavam Ta",
+    "artists": [
+      "Juraj Baca"
+    ],
+    "isrc": "QT6EU2508333",
+    "start_time": "2025-11-13 09:21:52",
+    "radio": "expres",
+    "recorded_at": "2025-11-13T09:22:11.386632+01:00",
+    "raw_valid": true,
+    "song_session_id": "7d43801c-cc88-4b6b-8ceb-cc2bbacfed83",
+    "duration_ms": 194912,
+    "genre": []
+  },
+  {
+    "song": "Take On Me",
+    "artists": [
+      "A-Ha"
+    ],
+    "isrc": "USWB19901214",
+    "start_time": "2025-11-13 09:34:28",
+    "radio": "expres",
+    "recorded_at": "2025-11-13T09:35:06.670656+01:00",
+    "raw_valid": true,
+    "song_session_id": "4fe2a4ea-54c3-477a-b055-2b92eea8f9bf",
+    "duration_ms": 225280,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Let Me Die",
+    "artists": [
+      "Mark Dann",
+      "Giovanni Ricci"
+    ],
+    "isrc": "US38Y2520370",
+    "start_time": "2025-11-13 09:38:07",
+    "radio": "expres",
+    "recorded_at": "2025-11-13T09:38:24.804274+01:00",
+    "raw_valid": true,
+    "song_session_id": "b8aaca6f-366a-449d-bec9-6a63f421453c",
+    "duration_ms": 147010,
+    "genre": []
+  },
+  {
+    "song": "Id Do Anything For Love (But I Wont Do That)",
+    "artists": [
+      "Meat Loaf"
+    ],
+    "isrc": "USMC19341323",
+    "start_time": "2025-11-13 09:40:30",
+    "radio": "expres",
+    "recorded_at": "2025-11-13T09:41:07.509521+01:00",
+    "raw_valid": true,
+    "song_session_id": "4e88cb67-7870-48b5-98c9-5baaca737d65",
+    "duration_ms": 316466,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Pride",
+    "artists": [
+      "Felix Jaehn",
+      "Jhart"
+    ],
+    "isrc": "DEUM72503423",
+    "start_time": "2025-11-13 09:46:04",
+    "radio": "expres",
+    "recorded_at": "2025-11-13T09:46:33.409659+01:00",
+    "raw_valid": true,
+    "song_session_id": "fc4ed74b-0442-40d4-a6cf-38864914cf2d",
+    "duration_ms": 158150,
+    "genre": []
+  },
+  {
+    "song": "Hvezdari",
+    "artists": [
+      "Krystof",
+      "Sima Martausova"
+    ],
+    "isrc": "CZUM71900470",
+    "start_time": "2025-11-13 09:48:57",
+    "radio": "expres",
+    "recorded_at": "2025-11-13T09:49:33.811408+01:00",
+    "raw_valid": true,
+    "song_session_id": "edb95cb9-a57a-4a18-b0d9-dc43b76e0bd5",
+    "duration_ms": 242553,
+    "genre": []
+  },
+  {
+    "song": "Waterfall",
+    "artists": [
+      "Michael Schulte",
+      "R3Hab"
+    ],
+    "isrc": "DEUM72119688",
+    "start_time": "2025-11-13 09:53:03",
+    "radio": "expres",
+    "recorded_at": "2025-11-13T09:53:45.306507+01:00",
+    "raw_valid": true,
+    "song_session_id": "b98f11be-08c4-4229-b256-e51fecbd1cc8",
+    "duration_ms": 137999,
+    "genre": []
+  },
+  {
+    "song": "Left Outside Alone",
+    "artists": [
+      "Anastacia"
+    ],
+    "isrc": "USSM10400150",
+    "start_time": "2025-11-13 09:55:24",
+    "radio": "expres",
+    "recorded_at": "2025-11-13T09:55:57.429342+01:00",
+    "raw_valid": true,
+    "song_session_id": "e94eeba1-e3bc-4533-8a55-fa9e09d41f54",
+    "duration_ms": 256946,
+    "genre": [
+      "rock"
+    ]
+  }
+]

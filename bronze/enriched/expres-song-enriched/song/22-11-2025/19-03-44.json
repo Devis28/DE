@@ -1,0 +1,456 @@
+[
+  {
+    "song": "Regalo",
+    "artists": [
+      "Alvaro Soler"
+    ],
+    "isrc": "DEE862500388",
+    "start_time": "2025-11-22 18:04:54",
+    "radio": "expres",
+    "recorded_at": "2025-11-22T18:05:33.555733+01:00",
+    "raw_valid": true,
+    "song_session_id": "abc29975-f32d-4ee0-bbe7-b5a6ac3a90a9",
+    "duration_ms": 184984,
+    "genre": []
+  },
+  {
+    "song": "Almost Lover",
+    "artists": [
+      "A Fine Frenzy"
+    ],
+    "isrc": "USVI20700644",
+    "start_time": "2025-11-22 18:08:12",
+    "radio": "expres",
+    "recorded_at": "2025-11-22T18:08:27.595053+01:00",
+    "raw_valid": true,
+    "song_session_id": "a329485c-4c4e-48cf-af05-729b3e8b4ed5",
+    "duration_ms": 268800,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Trustfall",
+    "artists": [
+      "Pink"
+    ],
+    "isrc": "USRC12204190",
+    "start_time": "2025-11-22 18:12:00",
+    "radio": "expres",
+    "recorded_at": "2025-11-22T18:12:26.379861+01:00",
+    "raw_valid": true,
+    "song_session_id": "9cbe15c6-9140-40a6-b4f9-b688912632b3",
+    "duration_ms": 237192,
+    "genre": []
+  },
+  {
+    "song": "Believer",
+    "artists": [
+      "Imagine Dragons"
+    ],
+    "isrc": "USUM71700626",
+    "start_time": "2025-11-22 18:15:50",
+    "radio": "expres",
+    "recorded_at": "2025-11-22T18:16:09.493697+01:00",
+    "raw_valid": true,
+    "song_session_id": "bccc8e68-b8e4-415d-af89-7576bcdb0aaa",
+    "duration_ms": 204346,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Medzi Nebom A Zenou",
+    "artists": [
+      "Banket",
+      "Richard Muller",
+      "Ema Muller"
+    ],
+    "isrc": "SKC362500009",
+    "start_time": "2025-11-22 18:19:08",
+    "radio": "expres",
+    "recorded_at": "2025-11-22T18:19:27.815386+01:00",
+    "raw_valid": true,
+    "song_session_id": "4fb17066-b53f-4cf9-9f1a-39ce79155da3",
+    "duration_ms": 228666,
+    "genre": []
+  },
+  {
+    "song": "Eternal Flame",
+    "artists": [
+      "Bangles"
+    ],
+    "isrc": "USSM18800153",
+    "start_time": "2025-11-22 18:23:19",
+    "radio": "expres",
+    "recorded_at": "2025-11-22T18:23:49.966521+01:00",
+    "raw_valid": true,
+    "song_session_id": "d9b27a27-d9de-44d9-84cd-2a0e08573aa6",
+    "duration_ms": 235666,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Let Me Die",
+    "artists": [
+      "Mark Dann",
+      "Giovanni Ricci"
+    ],
+    "isrc": "US38Y2520370",
+    "start_time": "2025-11-22 18:27:02",
+    "radio": "expres",
+    "recorded_at": "2025-11-22T18:27:30.029486+01:00",
+    "raw_valid": true,
+    "song_session_id": "c13c5851-afb1-4e34-ab3a-f698b245c116",
+    "duration_ms": 147010,
+    "genre": []
+  },
+  {
+    "song": "Mystical Magical",
+    "artists": [
+      "Benson Boone"
+    ],
+    "isrc": "USWB12500844",
+    "start_time": "2025-11-22 18:32:44",
+    "radio": "expres",
+    "recorded_at": "2025-11-22T18:33:12.927899+01:00",
+    "raw_valid": true,
+    "song_session_id": "82806874-b381-4146-ad10-9a7bc72a2c54",
+    "duration_ms": 165746,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Spolu",
+    "artists": [
+      "Amo",
+      "Polemic"
+    ],
+    "isrc": "SKA271102502",
+    "start_time": "2025-11-22 18:35:43",
+    "radio": "expres",
+    "recorded_at": "2025-11-22T18:36:10.771334+01:00",
+    "raw_valid": true,
+    "song_session_id": "8a8ca052-893b-4ceb-894d-072a5ed967da",
+    "duration_ms": 193266,
+    "genre": []
+  },
+  {
+    "song": "Always",
+    "artists": [
+      "Bon Jovi"
+    ],
+    "isrc": "USPR39412221",
+    "start_time": "2025-11-22 18:38:56",
+    "radio": "expres",
+    "recorded_at": "2025-11-22T18:39:16.094538+01:00",
+    "raw_valid": true,
+    "song_session_id": "a5d089d9-d4a9-444b-82bb-38ec01646bf9",
+    "duration_ms": 353573,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Wonderful Life 25",
+    "artists": [
+      "Hurts",
+      "Purple Disco Machine"
+    ],
+    "isrc": "DEE862500677",
+    "start_time": "2025-11-22 18:44:43",
+    "radio": "expres",
+    "recorded_at": "2025-11-22T18:45:02.773234+01:00",
+    "raw_valid": true,
+    "song_session_id": "6d62928f-9aff-4e38-9381-4f05e70deb59",
+    "duration_ms": 178658,
+    "genre": []
+  },
+  {
+    "song": "S Tebou Bez Teba",
+    "artists": [
+      "Pavol Habera"
+    ],
+    "isrc": "TCADJ1714985",
+    "start_time": "2025-11-22 18:47:44",
+    "radio": "expres",
+    "recorded_at": "2025-11-22T18:47:59.865727+01:00",
+    "raw_valid": true,
+    "song_session_id": "8082b94a-d135-444e-a90f-6664764593cf",
+    "duration_ms": 213781,
+    "genre": []
+  },
+  {
+    "song": "Manchild",
+    "artists": [
+      "Sabrina Carpenter"
+    ],
+    "isrc": "USUM72504354",
+    "start_time": "2025-11-22 18:52:19",
+    "radio": "expres",
+    "recorded_at": "2025-11-22T18:52:39.809624+01:00",
+    "raw_valid": true,
+    "song_session_id": "0217756e-4b50-43c4-bf9e-b4e7ba5e1cb4",
+    "duration_ms": 213645,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Mad",
+    "artists": [
+      "Martin Garrix",
+      "Lauv"
+    ],
+    "isrc": "NLM5S2502535",
+    "start_time": "2025-11-22 18:55:30",
+    "radio": "expres",
+    "recorded_at": "2025-11-22T18:56:00.021398+01:00",
+    "raw_valid": true,
+    "song_session_id": "3309ad23-a0a1-4be1-a7b3-256dd2a6ece3",
+    "duration_ms": 199804,
+    "genre": []
+  },
+  {
+    "song": "Chasing Paradise",
+    "artists": [
+      "Kygo",
+      "Onerepublic"
+    ],
+    "isrc": "SEBGA2500019",
+    "start_time": "2025-11-22 19:05:48",
+    "radio": "expres",
+    "recorded_at": "2025-11-22T19:06:26.076571+01:00",
+    "raw_valid": true,
+    "song_session_id": "558f5c3a-3066-48a2-bbd7-5f0f8c61b09c",
+    "duration_ms": 180532,
+    "genre": []
+  },
+  {
+    "song": "Vrat Trochu Lasky Medzi Nas",
+    "artists": [
+      "G8"
+    ],
+    "isrc": "TCAEQ2005817",
+    "start_time": "2025-11-22 19:08:52",
+    "radio": "expres",
+    "recorded_at": "2025-11-22T19:09:04.386271+01:00",
+    "raw_valid": true,
+    "song_session_id": "115f2f3d-d131-42c7-9793-df13e24de88f",
+    "duration_ms": 251211,
+    "genre": []
+  },
+  {
+    "song": "Undressed",
+    "artists": [
+      "Sombr"
+    ],
+    "isrc": "USWB12500737",
+    "start_time": "2025-11-22 19:13:03",
+    "radio": "expres",
+    "recorded_at": "2025-11-22T19:13:23.452515+01:00",
+    "raw_valid": true,
+    "song_session_id": "83d4599b-f4fc-4b8f-a621-a6c5ae9c0e37",
+    "duration_ms": 182088,
+    "genre": [
+      "indie pop"
+    ]
+  },
+  {
+    "song": "Circles",
+    "artists": [
+      "Post Malone"
+    ],
+    "isrc": "USUM71915699",
+    "start_time": "2025-11-22 19:16:03",
+    "radio": "expres",
+    "recorded_at": "2025-11-22T19:16:26.377559+01:00",
+    "raw_valid": true,
+    "song_session_id": "59fdcec8-0562-454f-8a19-5c03b29b7ddb",
+    "duration_ms": 215280,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Uvazneni V Sebe",
+    "artists": [
+      "Nocaden"
+    ],
+    "isrc": "SKBW52500101",
+    "start_time": "2025-11-22 19:19:31",
+    "radio": "expres",
+    "recorded_at": "2025-11-22T19:19:44.801248+01:00",
+    "raw_valid": true,
+    "song_session_id": "f2e65466-8b8d-4e24-994e-7cd62da656f1",
+    "duration_ms": 215287,
+    "genre": []
+  },
+  {
+    "song": "Take On Me",
+    "artists": [
+      "A-Ha"
+    ],
+    "isrc": "USWB19901214",
+    "start_time": "2025-11-22 19:23:10",
+    "radio": "expres",
+    "recorded_at": "2025-11-22T19:23:28.333178+01:00",
+    "raw_valid": true,
+    "song_session_id": "42157e1a-315e-40c1-9da5-9716df9a27b7",
+    "duration_ms": 225280,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Te Imaginaba",
+    "artists": [
+      "Alvaro Soler"
+    ],
+    "isrc": "DEE862401045",
+    "start_time": "2025-11-22 19:26:45",
+    "radio": "expres",
+    "recorded_at": "2025-11-22T19:27:07.161852+01:00",
+    "raw_valid": true,
+    "song_session_id": "d67c599d-77a6-44b2-b7e1-990f76257e10",
+    "duration_ms": 158817,
+    "genre": []
+  },
+  {
+    "song": "Kym Stupa Dym",
+    "artists": [
+      "Imt Smile"
+    ],
+    "isrc": "SKA010309225",
+    "start_time": "2025-11-22 19:29:38",
+    "radio": "expres",
+    "recorded_at": "2025-11-22T19:29:49.880431+01:00",
+    "raw_valid": true,
+    "song_session_id": "32f9c316-09ea-4c6b-8b2a-d857d949f766",
+    "duration_ms": 277120,
+    "genre": []
+  },
+  {
+    "song": "Afterlife",
+    "artists": [
+      "Michael Schulte"
+    ],
+    "isrc": "DECE72500509",
+    "start_time": "2025-11-22 19:33:41",
+    "radio": "expres",
+    "recorded_at": "2025-11-22T19:33:48.797180+01:00",
+    "raw_valid": true,
+    "song_session_id": "afa34416-8c41-4224-99cb-225c41c418b4",
+    "duration_ms": 160120,
+    "genre": []
+  },
+  {
+    "song": "Bosy A Sam",
+    "artists": [
+      "Robo Grigorov"
+    ],
+    "isrc": "GBBPW2501549",
+    "start_time": "2025-11-22 19:36:32",
+    "radio": "expres",
+    "recorded_at": "2025-11-22T19:36:52.289743+01:00",
+    "raw_valid": true,
+    "song_session_id": "514ed608-3666-4d47-b30d-47c49b693aa6",
+    "duration_ms": 128000,
+    "genre": []
+  },
+  {
+    "song": "Perfect",
+    "artists": [
+      "Ed Sheeran"
+    ],
+    "isrc": "GBAHS1700024",
+    "start_time": "2025-11-22 19:40:19",
+    "radio": "expres",
+    "recorded_at": "2025-11-22T19:40:30.842124+01:00",
+    "raw_valid": true,
+    "song_session_id": "091d5b7e-7c76-4c9c-b16f-16a2e00e729e",
+    "duration_ms": 263400,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "Pride",
+    "artists": [
+      "Felix Jaehn",
+      "Jhart"
+    ],
+    "isrc": "DEUM72503423",
+    "start_time": "2025-11-22 19:44:46",
+    "radio": "expres",
+    "recorded_at": "2025-11-22T19:44:57.065210+01:00",
+    "raw_valid": true,
+    "song_session_id": "b1305f19-b9c9-478d-992f-e346ed220f20",
+    "duration_ms": 158150,
+    "genre": []
+  },
+  {
+    "song": "Can You Feel The Love Tonight",
+    "artists": [
+      "Elton John"
+    ],
+    "isrc": "USWD10220758",
+    "start_time": "2025-11-22 19:47:24",
+    "radio": "expres",
+    "recorded_at": "2025-11-22T19:47:36.550533+01:00",
+    "raw_valid": true,
+    "song_session_id": "e715bd90-39fe-4cf4-8e45-982046136a40",
+    "duration_ms": 241386,
+    "genre": [
+      "rock"
+    ]
+  },
+  {
+    "song": "The Sound Of Silence",
+    "artists": [
+      "Disturbed"
+    ],
+    "isrc": "USRE12400063",
+    "start_time": "2025-11-22 19:51:28",
+    "radio": "expres",
+    "recorded_at": "2025-11-22T19:51:43.092398+01:00",
+    "raw_valid": true,
+    "song_session_id": "0e44b71e-69bf-467f-a59f-de57c5b2feee",
+    "duration_ms": 185238,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Eternity",
+    "artists": [
+      "Alex Warren"
+    ],
+    "isrc": "USAT22503779",
+    "start_time": "2025-11-22 19:54:24",
+    "radio": "expres",
+    "recorded_at": "2025-11-22T19:54:36.074376+01:00",
+    "raw_valid": true,
+    "song_session_id": "46f12867-e7f8-49da-8baa-cfc9ddf3413b",
+    "duration_ms": 189553,
+    "genre": [
+      "pop"
+    ]
+  },
+  {
+    "song": "Len S Nou",
+    "artists": [
+      "Miro Zbirka"
+    ],
+    "isrc": "SKA128804804",
+    "start_time": "2025-11-22 19:57:58",
+    "radio": "expres",
+    "recorded_at": "2025-11-22T19:58:20.455384+01:00",
+    "raw_valid": true,
+    "song_session_id": "2436ba50-7893-4215-b69d-9bce00792199",
+    "duration_ms": 186893,
+    "genre": []
+  }
+]
